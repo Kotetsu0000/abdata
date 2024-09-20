@@ -49,7 +49,7 @@ def get_anime_list(only_free:bool=False, limit:int=20, start_index:int=0, header
         dict: The list of anime.
     '''
     if headers is None:
-        headers = get_header(, sleep_time=sleep_time)
+        headers = get_header(sleep_time=sleep_time)
     url = f'https://api.p-c3-e.abema-tv.com/v1/video/featureGenres/animation/cards?onlyFree={str(only_free).lower()}&limit={limit}&next={start_index}'
     response = requests.get(url, headers=headers, proxies=proxies)
     data = response.content.decode('utf-8')
@@ -68,7 +68,7 @@ def get_anime_overview(series_id:str, includes:str='liveEvent%2Cslot', headers:d
         dict: The overview of the anime.
     '''
     if headers is None:
-        headers = get_header(, sleep_time=sleep_time)
+        headers = get_header(sleep_time=sleep_time)
     url = f'https://api.p-c3-e.abema-tv.com/v1/contentlist/series/{series_id}?includes={includes}'
     response = requests.get(url, headers=headers, proxies=proxies)
     data = response.content.decode('utf-8')
@@ -108,7 +108,7 @@ def get_episode_overview(episode_id:str, division:int=0, includes:str='tvod', he
         dict: The overview of the episode.
     '''
     if headers is None:
-        headers = get_header(, sleep_time=sleep_time)
+        headers = get_header(sleep_time=sleep_time)
     url = f'https://api.p-c3-e.abema-tv.com/v1/video/programs/{episode_id}?division={division}&include={includes}'
     response = requests.get(url, headers=headers, proxies=proxies)
     data = response.content.decode('utf-8')
