@@ -34,6 +34,7 @@ jobs:
         TOR_PATH=$(which tor)
         sudo mkdir -p /etc/tor/
         for i in $(seq 1 10); do
+          sudo mkdir -p /home/.tor/tor$i
           sudo cp /home/runner/work/abdata/abdata/tor_file/torrc$i /etc/tor/torrc$i
           sudo $TOR_PATH -f /etc/tor/torrc$i &
         done
