@@ -31,8 +31,8 @@ jobs:
 
     - name: Setup additional Tor instances
       run: |
-        for i in $(seq 1 9); do
-          sudo cp ./tor_file/torrc$i /etc/tor/torrc$i
+        for i in $(seq 1 10); do
+          sudo cp /home/runner/work/abdata/abdata/tor_file/torrc$i /etc/tor/torrc$i
           sudo tor -f /etc/tor/torrc$i &
         done
 
