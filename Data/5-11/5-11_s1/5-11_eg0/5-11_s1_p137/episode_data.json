@@ -1,0 +1,147 @@
+{
+    "id": "5-11_s1_p137",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1456
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 137,
+        "title": "第137話 明智警視の華麗なる推理 in Las Vegas ファイル2",
+        "content": "ラスベガスで行われているチェスの世界選手権。明智の友人で優勝候補の舟木が、同じ出場者であるゴールドマンという男に殺害された。ゴールドマンはアリバイトリックを用いて無実を装うが、明智を欺くことは不可能。自らも大会に出場していた彼は、準決勝でゴールドマンと戦いながら鮮やかに事件を解き明かしてゆく。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833283,
+    "endAt": 1732978800,
+    "transcodeVersion": "6H7pgz",
+    "sharedLink": {
+        "twitter": "https://abema.app/NCFN",
+        "facebook": "https://abema.app/L1Nm",
+        "google": "https://abema.app/Xb3h",
+        "line": "https://abema.app/4gnf",
+        "copy": "https://abema.app/5ewq",
+        "instagram": "https://abema.app/vxdy"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p137/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p137/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p137/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p137"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.987188,
+        "opening": {
+            "end": 99.989855
+        },
+        "ending": {
+            "start": 1331.987188,
+            "end": 1426.915455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p138",
+        "title": "第138話 逆転不可能! 七瀬美雪の殺人容疑",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833283,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p137/timeline",
+        "query": "version=6H7pgz",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

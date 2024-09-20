@@ -1,0 +1,74 @@
+{
+    "id": "11-58",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "title": "serial experiments lain",
+    "content": "ネット端末「NAVI」が普及する世界。中学生の岩倉玲音は、死んだはずの四方田千砂からのメールを受け取ったことをきっかけにNAVIへとのめりこんでいく。それ以来彼女は奇怪な事件に巻き込まれ…。物理世界と電脳世界、2つの世界の果てにあるものとは？",
+    "seasons": [
+        {
+            "id": "11-58_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-58",
+                "filename": "thumb.png",
+                "query": "version=1711359056",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "11-58_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)NBCUniversal Entertainment Japan"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726039208818080638",
+    "imageUpdatedAt": 1711359056,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/x93K",
+        "facebook": "https://abema.app/NDFc",
+        "google": "https://abema.app/7BLp",
+        "line": "https://abema.app/qXY6",
+        "copy": "https://abema.app/QGq8",
+        "instagram": "https://abema.app/NwgB"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-58",
+        "filename": "thumb.png",
+        "query": "version=1711359056",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-58",
+        "filename": "portrait.png",
+        "query": "version=1711359056",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

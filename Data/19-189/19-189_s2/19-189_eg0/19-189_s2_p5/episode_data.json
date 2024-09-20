@@ -1,0 +1,135 @@
+{
+    "id": "19-189_s2_p5",
+    "series": {
+        "id": "19-189",
+        "title": "中二病でも恋がしたい！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-189",
+            "filename": "thumb.png",
+            "query": "version=1707880990",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-189",
+            "filename": "portrait.png",
+            "query": "version=1707880990",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-189_s2",
+        "sequence": 2,
+        "name": "中二病でも恋がしたい！戀",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "#05 幻想の…昼寝迷宮（シエスタ・ラビリンス）",
+        "content": "急遽、同好会の活動内容を報告するための代表会議に出席しないといけなくなった六花。しかし結果は惨敗。部室没収かと思いきや、活動の一環でもある昼寝部の方で結果を残せばいいとナナちゃんに言われる。そして極東魔術昼寝結社の夏のメンバーは隣校のシエスタ同好会と対外試合をすることに！"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "福山潤",
+            "内田真礼",
+            "赤崎千夏",
+            "浅倉杏美",
+            "上坂すみれ"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：虎虎(KAエスマ文庫/京都アニメーション)",
+            "脚本：花田十輝",
+            "音楽：虹音"
+        ],
+        "copyrights": [
+            "(C)虎虎/京都アニメーション/中二病でも製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1706173842,
+    "endAt": 1743433200,
+    "transcodeVersion": "62w5GY",
+    "sharedLink": {
+        "twitter": "https://abema.app/NqcJ",
+        "facebook": "https://abema.app/9bcC",
+        "google": "https://abema.app/KnS6",
+        "line": "https://abema.app/hg1S",
+        "copy": "https://abema.app/Vdvi",
+        "instagram": "https://abema.app/gE91"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-189_s2_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-189_s2_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-189_s2_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-189_s2_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.0320416666666,
+        "opening": {
+            "start": 44.085708333333336,
+            "end": 134.008875
+        },
+        "ending": {
+            "start": 1325.0320416666666,
+            "end": 1415.038625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-189_s2_p6",
+        "title": "#06 躊躇いの…筑紫島周遊（ツクシノシマ・トラベリング）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706173852,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-189_s2_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "19-189_eg0"
+}

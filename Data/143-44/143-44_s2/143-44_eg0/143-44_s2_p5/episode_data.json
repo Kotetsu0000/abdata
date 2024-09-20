@@ -1,0 +1,145 @@
+{
+    "id": "143-44_s2_p5",
+    "series": {
+        "id": "143-44",
+        "title": "ちはやふる",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "thumb.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "portrait.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-44_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1369
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第五首 なほあまりある むかしなりけり",
+        "content": "決勝戦は瑞沢高校対北央学園。オーダー表でもめる北央だったが、前主将のアノ人が読手とわかり両校共に緊張が走る。様々な思いが交錯する中、東京都で1番強いチームをかけた試合が今始まる。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "綾瀬千早：瀬戸麻沙美",
+            "綿谷新 ：細谷佳正",
+            "真島太一：宮野真守",
+            "大江奏：茅野愛衣",
+            "西田優征：奈良 徹",
+            "駒野勉：代永 翼"
+        ],
+        "crews": [
+            "原作：末次由紀（講談社「BE・LOVE」連載）",
+            "監督：浅香守生",
+            "シリーズ構成：柿原裕子、加藤綾子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "撮影監督：藤田賢治",
+            "色彩設定：鎌田千賀子、橋本 賢",
+            "デジタルアーティスト：石神亮一",
+            "編集：木村佳史子",
+            "音楽：山下康介",
+            "音響監督：三間雅文",
+            "アニメーション制作：マッドハウス",
+            "制作著作：バップ、日本テレビ"
+        ],
+        "copyrights": [
+            "(C)末次由紀／講談社・VAP・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708750227,
+    "endAt": 1743433200,
+    "transcodeVersion": "4ZgrQG",
+    "sharedLink": {
+        "twitter": "https://abema.app/U4wm",
+        "facebook": "https://abema.app/ZEky",
+        "google": "https://abema.app/nohe",
+        "line": "https://abema.app/JZnB",
+        "copy": "https://abema.app/CDoo",
+        "instagram": "https://abema.app/k414"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/143-44_s2_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/143-44_s2_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/143-44_s2_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-44_s2_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1284.9503333333334,
+        "opening": {
+            "start": 58.058,
+            "end": 127.96116666666667
+        },
+        "ending": {
+            "start": 1284.9503333333334,
+            "end": 1369.9352333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-44_s2_p6",
+        "title": "第六首 たつたのかはの にしきなりけり",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708750238,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-44_s2_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-44_eg0"
+}

@@ -1,0 +1,157 @@
+{
+    "id": "2-2bxddsdhdiw_s1_p21",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s1",
+        "sequence": 1,
+        "name": "第1シリーズ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1505
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 これが野球！",
+        "content": "沢村の苦肉の策が成功し、パーフェクトゲーム（完全試合）を逃れた三船ドルフィンズ。ショックを受けている球太に、ゆさぶりをかける吾郎。満塁からデッドボール押し出し、さらに手をケガしている小森のタイムリーで1点差に追い上げる。\n戸塚西の監督は、息子の球太に「吾郎を敬遠しろ」と指示を出す。球太に「オヤジのいいなりで野球やっておもしろいのか？」と挑発する吾郎。それを聞いた球太は、初めて父親に逆らい、吾郎と真剣勝負をしたいと訴える。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "本田 吾郎：くまい もとこ",
+            "本田 茂治：子安 武人",
+            "本田 千秋：日高　のり子",
+            "星野 桃子：野田 順子",
+            "佐藤 寿也：大浦 冬華"
+        ],
+        "crews": [
+            "原作：満田 拓也",
+            "監督：カサヰ ケンイチ",
+            "シリーズ構成：土屋 理敬",
+            "アニメーションプロデューサー：光延 青児",
+            "プロデューサー：古市 直彦"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695277068,
+    "endAt": 1741446000,
+    "freeEndAt": 1726657200,
+    "transcodeVersion": "3Bzdib",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/wh3aj",
+        "facebook": "https://gxyt4.app.goo.gl/gQjuM",
+        "google": "https://gxyt4.app.goo.gl/FohVD",
+        "line": "https://gxyt4.app.goo.gl/4M8Pk",
+        "copy": "https://gxyt4.app.goo.gl/HLeVD",
+        "instagram": "https://gxyt4.app.goo.gl/XYKER"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-2bxddsdhdiw_s1_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-2bxddsdhdiw_s1_p21/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/2-2bxddsdhdiw_s1_p21/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-2bxddsdhdiw_s1_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-2bxddsdhdiw_s1_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1500.07,
+        "opening": {
+            "end": 99.115867
+        },
+        "ending": {
+            "start": 1385.462472,
+            "end": 1484.566114
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-2bxddsdhdiw_s1_p22",
+        "title": "第22話 決戦前夜",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277068,
+        "endAt": 1741446000,
+        "freeEndAt": 1726657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-2bxddsdhdiw_s1_p21/timeline",
+        "query": "version=3Bzdib",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726657200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

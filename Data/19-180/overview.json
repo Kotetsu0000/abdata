@@ -1,0 +1,93 @@
+{
+    "id": "19-180",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "うる星やつら",
+    "content": "地球“最凶”の高校生・諸星あたると、宇宙から舞い降りた“鬼っ娘”美少女ラム。二人の出会いからすべてが始まった…!\n\n今なお第一線で活躍する高橋留美子による鮮烈のデビュー作「うる星やつら」。小学館創業１００周年を記念し、選び抜かれた原作エピソードを４クールに渡ってテレビアニメ化！（第１期：2022年10月より2クール放送）\n\n大胆不敵、恋にも全力、でもどこか切なくて…あたるとラムのボーイ・ミーツ・ガールを、銀河中から集結するキャラクターたちが彩るラブコメディ。",
+    "seasons": [
+        {
+            "id": "19-180_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-180_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1703222792",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-180_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "19-180_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-180_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1703222807",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-180_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(Ｃ)高橋留美子・小学館／アニメ「うる星やつら」製作委員会"
+    ],
+    "label": {},
+    "version": "1724918298534754571",
+    "imageUpdatedAt": 1703222675,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/kadk",
+        "facebook": "https://abema.app/43ZT",
+        "google": "https://abema.app/Lfty",
+        "line": "https://abema.app/wyZj",
+        "copy": "https://abema.app/wGjx",
+        "instagram": "https://abema.app/QinM"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-180",
+        "filename": "thumb.png",
+        "query": "version=1703222675",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-180",
+        "filename": "portrait.png",
+        "query": "version=1703222675",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

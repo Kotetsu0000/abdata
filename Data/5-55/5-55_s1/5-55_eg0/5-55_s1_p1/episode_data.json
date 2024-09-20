@@ -1,0 +1,146 @@
+{
+    "id": "5-55_s1_p1",
+    "series": {
+        "id": "5-55",
+        "title": "ハピネスチャージプリキュア！",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-55",
+            "filename": "thumb.png",
+            "query": "version=1721352883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-55",
+            "filename": "portrait.png",
+            "query": "version=1721352883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1457
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 愛が大好き！ キュアラブリー誕生！",
+        "content": "私、愛乃めぐみ。ぴかりが丘に住んでる中学二年生。晩ご飯の買い物に出かけたら、きれいな石が空から降ってきたの。それにね、ひめっていう、すっごく可愛い女の子に出会ったんだ。うっれしいな〜って、ひめ、変身できちゃうの!?"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "愛乃めぐみ／キュアラブリー：中島 愛",
+            "白雪ひめ／キュアプリンセス：潘めぐみ",
+            "大森ゆうこ／キュアハニー：北川里奈",
+            "キュアフォーチュン：戸松 遥",
+            "リボン：松井菜桜子",
+            "ぐらさん：小堀 幸"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、高橋知子、柴田宏明",
+            "シリーズ構成：成田良美",
+            "シリーズディレクター：長峯達也",
+            "製作担当：山崎尊宗",
+            "キャラクターデザイン：佐藤雅将",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "音楽：高木 洋"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721568123,
+    "endAt": 1740754800,
+    "freeEndAt": 1740754800,
+    "transcodeVersion": "3rLiCt",
+    "sharedLink": {
+        "twitter": "https://abema.app/bSwV",
+        "facebook": "https://abema.app/VZnb",
+        "google": "https://abema.app/Mi9S",
+        "line": "https://abema.app/AV1t",
+        "copy": "https://abema.app/9pqV",
+        "instagram": "https://abema.app/WdyN"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-55_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-55_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/5-55_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-55_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-55_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1337.9366,
+        "opening": {
+            "start": 271.93833333333333,
+            "end": 361.9282333333333
+        },
+        "ending": {
+            "start": 1337.9366,
+            "end": 1427.9265
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-55_s1_p2",
+        "title": "第2話 ひめとめぐみの友情！ ハピネスチャージプリキュア結成!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721568123,
+        "endAt": 1740754800,
+        "freeEndAt": 1726702200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726702200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-55_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-55_eg0"
+}

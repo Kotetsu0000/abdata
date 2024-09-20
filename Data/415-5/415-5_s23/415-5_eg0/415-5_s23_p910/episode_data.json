@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s23_p910",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s23",
+        "sequence": 23,
+        "name": "season23",
+        "thumbComponent": {},
+        "order": 23
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 910,
+        "title": "第910話 燃えるテントの怪（後編）",
+        "content": "燃えるテントから白網大バスケ部の漆原の遺体が発見される。コナンはテント内を見て、溶けたロウソクの中に竹ヒゴが1本混ざっている事に注目。コナンは何かの仕掛けと推理し、仲間の美鳥、芦沢、段野の中に犯人がいると睨む。弓長警部は漆原のテントに行った3人から話を聞き、最後にテントに行った段野の犯行を疑う。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "4DufdL",
+    "sharedLink": {
+        "twitter": "https://abema.app/smYN",
+        "facebook": "https://abema.app/KJbz",
+        "google": "https://abema.app/CJj3",
+        "line": "https://abema.app/tczj",
+        "copy": "https://abema.app/nV1d",
+        "instagram": "https://abema.app/7nYQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s23_p910/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s23_p910/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s23_p910/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s23_p910"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667,
+        "opening": {
+            "start": 208.87533333333334,
+            "end": 305.930625
+        },
+        "ending": {
+            "start": 1289.03775,
+            "end": 1368.9509166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s23_p911",
+        "title": "第911話 目暮警部からの依頼",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s23_p910/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

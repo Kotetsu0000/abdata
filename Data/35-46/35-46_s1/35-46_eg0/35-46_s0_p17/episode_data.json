@@ -1,0 +1,134 @@
+{
+    "id": "35-46_s0_p17",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5832
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 17,
+        "title": "映画ドラえもん のび太と銀河超特急",
+        "content": "ＳＬ型の宇宙船銀河超特急で、宇宙最大の遊園地へやってきたドラえもんたち。だが、楽しく遊んでいるところへ、とつぜん謎の宇宙人が攻撃してきた。いったい、宇宙人の正体とは・・・！？"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "制作総指揮・原作・脚本：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522814,
+    "endAt": 1741014000,
+    "transcodeVersion": "2geRPd",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/mEqpa",
+        "facebook": "https://gxyt4.app.goo.gl/ErpQo",
+        "google": "https://gxyt4.app.goo.gl/wuuBT",
+        "line": "https://gxyt4.app.goo.gl/vZJY1",
+        "copy": "https://gxyt4.app.goo.gl/EoMYu",
+        "instagram": "https://gxyt4.app.goo.gl/zaiCR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-46_s0_p17/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-46_s0_p17/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-46_s0_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 5669.859814,
+        "opening": {
+            "start": 174.564255,
+            "end": 247.736722
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p18",
+        "title": "映画ドラえもん のび太のねじ巻き都市冒険記",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1709522814,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p17/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

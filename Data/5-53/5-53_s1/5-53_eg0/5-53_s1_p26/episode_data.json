@@ -1,0 +1,141 @@
+{
+    "id": "5-53_s1_p26",
+    "series": {
+        "id": "5-53",
+        "title": "スマイルプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "thumb.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "portrait.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 26,
+        "title": "第26話 夏祭り！ 夜空に咲く大きな大きな花！",
+        "content": "今日は商店街の夏祭り。お祭りが初めてのキャンディも、浴衣に着替えて大はしゃぎ！だったのに…あれ？　キャンディがいない！　キャンディってば、輪投げの景品になってるし…よ〜し、頑張って取り戻さなきゃ！"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "キュアハッピー/星空みゆき：福圓美里",
+            "キュアサニー/日野あかね：田野アサミ",
+            "キュアピース/黄瀬やよい：金元寿子",
+            "キュアマーチ/緑川なお：井上麻里奈",
+            "キュアビューティ/青木れいか：西村ちなみ",
+            "キャンディ：大谷育江"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、清水慎治",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔、長谷川昌也",
+            "シリーズディレクター：大塚隆史",
+            "シリーズ構成：米村正二",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：川村敏江"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721625860,
+    "endAt": 1740754800,
+    "transcodeVersion": "3VjcFs",
+    "sharedLink": {
+        "twitter": "https://abema.app/pUUL",
+        "facebook": "https://abema.app/xdc7",
+        "google": "https://abema.app/pzEK",
+        "line": "https://abema.app/nG2K",
+        "copy": "https://abema.app/43mF",
+        "instagram": "https://abema.app/RFyz"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-53_s1_p26/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-53_s1_p26/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-53_s1_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-53_s1_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.339,
+        "opening": {
+            "start": 97.06363333333333,
+            "end": 182.14863333333332
+        },
+        "ending": {
+            "start": 1340.339,
+            "end": 1430.2621666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-53_s1_p27",
+        "title": "第27話 夏のふしぎ!? おばあちゃんのたからもの",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721625936,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-53_s1_p26/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-53_eg0"
+}

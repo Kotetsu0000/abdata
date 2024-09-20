@@ -1,0 +1,159 @@
+{
+    "id": "26-75_s1_p13",
+    "series": {
+        "id": "26-75",
+        "title": "テレビアニメ「鬼滅の刃」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "thumb.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "portrait.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-75_s1",
+        "sequence": 1,
+        "name": "竈門炭治郎 立志編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第十三話 命より大事なもの",
+        "content": "屋敷の主・響凱が鼓を打つたびに部屋が回転し、炭治郎は苦戦を強いられる。\n前の戦いで骨折している炭治郎は弱気になる自身を鼓舞して、必死に立ち向かう。\n響凱が使う血鬼術による攻撃にも圧倒される炭治郎。果たして、無事に響凱の頸を討ち取ることができるのかー。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "竈門炭治郎役：花江夏樹",
+            "竈門襧豆子役：鬼頭明里",
+            "我妻善逸：下野 紘",
+            "嘴平伊之助：松岡禎丞",
+            "冨岡義勇：櫻井孝宏"
+        ],
+        "crews": [
+            "原作：吾峠呼世晴（集英社ジャンプ コミックス刊）",
+            "監督：外崎春雄",
+            "キャラクターデザイン：松島 晃",
+            "サブキャラクターデザイン：佐藤美幸／梶山庸子／菊池美花",
+            "脚本制作：ufotable",
+            "コンセプトアート：衛藤功二／矢中勝／竹内香純／樺澤侑里",
+            "撮影監督：寺尾優一",
+            "3D監督：西脇一樹",
+            "色彩設計：大前祐子",
+            "編集：神野 学",
+            "音楽：梶浦由記／椎名 豪",
+            "制作プロデューサー：近藤 光",
+            "アニメーション制作：ufotable"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695885698,
+    "endAt": 1730386800,
+    "transcodeVersion": "3uFNmw",
+    "sharedLink": {
+        "twitter": "https://abema.app/eKz1",
+        "facebook": "https://abema.app/J5E5",
+        "google": "https://abema.app/cWP2",
+        "line": "https://abema.app/7iYx",
+        "copy": "https://abema.app/e23J",
+        "instagram": "https://abema.app/as8r"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-75_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-75_s1_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-75_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-75_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.061977,
+        "opening": {
+            "start": 32.03316200000004,
+            "end": 121.99616199999998
+        },
+        "ending": {
+            "start": 1290.0396310000003,
+            "end": 1380.0036310000003
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-75_s1_p14",
+        "title": "第十四話 藤の花の家紋の家",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1695885698,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-75_s1_p13/timeline",
+        "query": "version=3uFNmw",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "26-75_eg0"
+}

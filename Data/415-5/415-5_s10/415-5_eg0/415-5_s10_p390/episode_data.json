@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s10_p390",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s10",
+        "sequence": 10,
+        "name": "season10",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1485
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 390,
+        "title": "第390話 本庁の刑事恋物語６（前編）",
+        "content": "目暮警部は松本管理官から、鳥取県警からの要請で全国を中心に荒し回っている窃盗団の合同捜査に誰かを派遣してくれと頼まれる。そこで松本管理官が高木を推薦。高木刑事もこれを聞き、ぼう然となる。佐藤刑事と別れたくないからだ。まもなく高層マンションの23階で男性の刺殺死体が発見されたとの通報を受ける。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066304,
+    "endAt": 1740754800,
+    "transcodeVersion": "6RmCQD",
+    "sharedLink": {
+        "twitter": "https://abema.app/9ptj",
+        "facebook": "https://abema.app/PQrb",
+        "google": "https://abema.app/MaZp",
+        "line": "https://abema.app/1VPE",
+        "copy": "https://abema.app/ckdQ",
+        "instagram": "https://abema.app/5AKh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s10_p390/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s10_p390/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s10_p390/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s10_p390"
+    },
+    "viewingPoint": {
+        "suggestion": 1355.5875666666666,
+        "opening": {
+            "start": 32.265566666666665,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1355.6543,
+            "end": 1440.439
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s10_p391",
+        "title": "第391話 本庁の刑事恋物語６（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066304,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s10_p390/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p903",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 903,
+        "title": "#903 強～いイシ",
+        "content": "新学期、体をきたえるために毎日ランニングすると決心したのび太。ところが、つかれるから来年の新学期からにしようと言い出し、あきれたドラえもんにお説教される。すると、のび太にしてはめずらしく、落ちこんだ様子で「強い意志（いし）がほしい」と、言い出した。\n\n　それを聞いたドラえもんが取り出したのは、一見、ただの石ころのような『強いイシ』。ちょうど、禁酒（きんしゅ）をすると言いながら、お酒がやめられないパパがママにおこられているのを見たドラえもんは、パパで実験してみることに。\n\nドラえもんに言われるがまま、強いイシに「もう二度とお酒は飲まない」とちかうパパ。そして、パパがためしにお酒を飲もうとしたところ、強いイシがパパの頭めがけて飛んできたからビックリ！ この石は、ちかったことをゼッタイに最後までやりとげさせる道具だったのだ。\n\n　のび太は意を決し、「ランニングをやりとげる！」とちかうが、雨がふってきてしまう。取り消しはできないと言われ、しかたなく雨の中を走り出すのび太だったが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1743433200,
+    "transcodeVersion": "2U2R55",
+    "sharedLink": {
+        "twitter": "https://abema.app/bgt6",
+        "facebook": "https://abema.app/dWvz",
+        "google": "https://abema.app/Wg2y",
+        "line": "https://abema.app/3vhb",
+        "copy": "https://abema.app/qRK6",
+        "instagram": "https://abema.app/zVA7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p903/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p903/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p903/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p903"
+    },
+    "viewingPoint": {
+        "suggestion": 639.9726666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p904",
+        "title": "#904 正義のヒーロースーパージャイアン",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p903/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

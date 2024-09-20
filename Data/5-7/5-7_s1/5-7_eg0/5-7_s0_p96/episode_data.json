@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p96",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 96,
+        "title": "第96話 ｢ジュウザ倒る！俺は命を捨てても愛する女を守ろう！！」",
+        "content": "最後の将のため再び拳王と戦うジュウザは最初の一撃にかけた。ラオウの拳をかいくぐり、懐に飛び込んで「撃壁背水掌」を放つ！しかしラオウはジュウザの秘孔・鏡明を突いていた。その頃ケンシロウは最後の将の正体を知った。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756427,
+    "endAt": 1732978800,
+    "transcodeVersion": "5HUYUq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/7v6g4",
+        "facebook": "https://gxyt4.app.goo.gl/EP5VQ",
+        "google": "https://gxyt4.app.goo.gl/VD1mT",
+        "line": "https://gxyt4.app.goo.gl/4HLLt",
+        "copy": "https://gxyt4.app.goo.gl/GxThf",
+        "instagram": "https://gxyt4.app.goo.gl/wRfF3"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p96/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p96/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p96/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p96"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.851722,
+        "opening": {
+            "start": 50.604088,
+            "end": 114.404255
+        },
+        "ending": {
+            "start": 1329.851722,
+            "end": 1429.684888
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p97",
+        "title": "第97話 ｢さらばユリア！強き男は死しても愛を語らず！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756427,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p96/timeline",
+        "query": "version=5HUYUq",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

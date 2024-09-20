@@ -1,0 +1,154 @@
+{
+    "id": "30-3_s0_p21",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s1",
+        "sequence": 1,
+        "name": "Season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1447
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 21,
+        "title": "#21 鉄槌 ～第５７回壁外調査⑤～",
+        "content": "自らの肉体を他の巨人に喰らわせ、蒸気とともに消えた女型の巨人。その中にいた人物は、調査兵団員と同じ制服で兵士の中に紛れ込み、エレンを追っていた。エレンを護衛しながら帰還するグンタを手にかけ、再び女型の巨人となってエレンの前に現れる。オルオ、エルド、ぺトラが連携しながら女型の巨人に立ち向かうが……。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創",
+            "監督：荒木哲郎",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248133,
+    "endAt": 1730386800,
+    "transcodeVersion": "3nW6nY",
+    "sharedLink": {
+        "twitter": "https://abema.app/6f8h",
+        "facebook": "https://abema.app/ksxX",
+        "google": "https://abema.app/uxmS",
+        "line": "https://abema.app/kbdt",
+        "copy": "https://abema.app/xr4f",
+        "instagram": "https://abema.app/nfjc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p21/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-3_s0_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.060922,
+        "opening": {
+            "start": 192.015022,
+            "end": 282.069655
+        },
+        "ending": {
+            "start": 1342.063922,
+            "end": 1432.018455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-3_s0_p22",
+        "title": "#22 敗者達 ～第５７回壁外調査⑥～",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248133,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-3_s0_p21/timeline",
+        "query": "version=3nW6nY",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

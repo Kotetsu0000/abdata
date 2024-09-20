@@ -1,0 +1,154 @@
+{
+    "id": "203-7_s1_p116",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 116,
+        "title": "第116話 そういう所がムカつくんだよ！",
+        "content": "奪ったバリベルギャーに乗り地球へ向かうダークマイスターたち。ダークマイスターの真意を知って行動を共にする遊飛だったが、船内で鉢合わせたズウィージョウと言い合いになりデュエルをすることに。負けたら何でも言う事を聞くと啖呵を切る遊飛だったが…。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944782,
+    "endAt": 1743433200,
+    "transcodeVersion": "3qUcTL",
+    "sharedLink": {
+        "twitter": "https://abema.app/tpih",
+        "facebook": "https://abema.app/WN3t",
+        "google": "https://abema.app/9K8m",
+        "line": "https://abema.app/4Aj4",
+        "copy": "https://abema.app/uj2y",
+        "instagram": "https://abema.app/GvSM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p116/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p116/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p116/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p116"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.9853333333333,
+        "opening": {
+            "start": 57.057,
+            "end": 146.9468
+        },
+        "ending": {
+            "start": 1319.9853333333333,
+            "end": 1410.0086
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-7_s1_p117",
+        "title": "第117話 モチ☆トモ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944782,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p116/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

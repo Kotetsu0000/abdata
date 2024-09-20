@@ -1,0 +1,152 @@
+{
+    "id": "2-3nmtrfgpjgf_s2_p20",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s2",
+        "sequence": 2,
+        "name": "第2シリーズ",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1505
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話 吾郎ｖｓマニュアル野球",
+        "content": "阿久津の決め球・ナックルボール攻略のため、寿也はファールで粘りナックルを連投させる作戦にでた。思わず甘く入った阿久津のナックルを場外へ運ぶ寿也。 阿久津は監督から退部を言い渡される。吾郎は、マニュアルを無視して勝負にこだわった阿久津をかばい、「この試合で失点したら、自分も海堂を辞める」と宣言する。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "茂野 吾郎：森久保 祥太郎",
+            "佐藤 寿也：森田 成一",
+            "茂野 桃子：野田 順子",
+            "茂野 英毅：咲野 俊介",
+            "清水 薫：笹本 優子"
+        ],
+        "crews": [
+            "原作：満田 拓也",
+            "監督：カサヰ ケンイチ",
+            "シリーズ構成：土屋 理敬",
+            "脚本：土屋 理敬、静谷 伊佐夫"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277069,
+    "endAt": 1741446000,
+    "transcodeVersion": "4zfWnM",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Cc8T2",
+        "facebook": "https://gxyt4.app.goo.gl/RsPgP",
+        "google": "https://gxyt4.app.goo.gl/N9Gdz",
+        "line": "https://gxyt4.app.goo.gl/2KYtw",
+        "copy": "https://gxyt4.app.goo.gl/3H9DX",
+        "instagram": "https://gxyt4.app.goo.gl/TpZUS"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-3nmtrfgpjgf_s2_p20/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-3nmtrfgpjgf_s2_p20/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-3nmtrfgpjgf_s2_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-3nmtrfgpjgf_s2_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 1500.06,
+        "opening": {
+            "start": 86.080614,
+            "end": 173.537733
+        },
+        "ending": {
+            "start": 1395.428402,
+            "end": 1483.50019
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-3nmtrfgpjgf_s2_p21",
+        "title": "第21話 君と一緒に",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277069,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727008800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-3nmtrfgpjgf_s2_p20/timeline",
+        "query": "version=4zfWnM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727008800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727676600
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

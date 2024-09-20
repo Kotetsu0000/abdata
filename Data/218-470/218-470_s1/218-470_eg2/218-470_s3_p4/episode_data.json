@@ -1,0 +1,114 @@
+{
+    "id": "218-470_s3_p4",
+    "series": {
+        "id": "218-470",
+        "title": "5周年記念 声優と夜あそび28時間テレビ 大感謝祭 ~Say You Thank You~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "thumb.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "portrait.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-470_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4309
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 204,
+        "title": "浪川大輔×那須川天心 BIG対談 特別編集版",
+        "content": "浪川大輔とキックボクシング史上最高の天才にして無敗の世界王者、那須川天心選手の対談。ABEMAプレミアム限定で本編未公開部分も追加した特別編集版を公開。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "浪川大輔",
+            "那須川天心"
+        ],
+        "copyrights": [
+            "(C)AbemaTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680241392,
+    "endAt": 1757862000,
+    "transcodeVersion": "uQpHV",
+    "sharedLink": {
+        "twitter": "https://abema.app/S9Uq",
+        "facebook": "https://abema.app/cYG8",
+        "google": "https://abema.app/kQac",
+        "line": "https://abema.app/UmxZ",
+        "copy": "https://abema.app/8brz",
+        "instagram": "https://abema.app/fDqw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-470_s3_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-470_s3_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-470_s3_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-470_s3_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 4304.1048
+    },
+    "nextProgramInfo": {
+        "programId": "218-470_s3_p5",
+        "title": "関智一×永井豪 BIG対談 特別編集版",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1680241392,
+        "endAt": 1757948400,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1757948400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-470_s3_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1757862000
+        }
+    ],
+    "episodeGroupId": "218-470_eg2"
+}

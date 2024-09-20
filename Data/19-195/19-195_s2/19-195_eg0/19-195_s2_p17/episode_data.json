@@ -1,0 +1,146 @@
+{
+    "id": "19-195_s2_p17",
+    "series": {
+        "id": "19-195",
+        "title": "CLANNAD",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "thumb.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "portrait.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-195_s2",
+        "sequence": 2,
+        "name": "CLANNAD AFTER STORY",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 17,
+        "title": "第17話 夏時間",
+        "content": "朝起きて仕事にでかけ、食べて寝る。\nそんな体が覚えていることを繰り返すだけの毎日を送る朋也。\n全てを顧みずに仕事に打ち込み、休日には暇をつぶすために金を使っていた。\n朋也はただ惰性のように生きていた…"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "中村悠一",
+            "中原麻衣",
+            "置鮎龍太郎",
+            "井上喜久子",
+            "緑川光",
+            "広橋　涼",
+            "神田朱未",
+            "桑島法子",
+            "能登麻美子",
+            "阪口大助",
+            "雪野五月",
+            "榎本温子"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：Key/ビジュアルアーツ",
+            "脚本：志茂文彦",
+            "音楽：戸越まごめ、麻枝准"
+        ],
+        "copyrights": [
+            "（C）VisualArt's/Key/光坂高校演劇部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712636015,
+    "endAt": 1746025200,
+    "transcodeVersion": "CGcKA",
+    "sharedLink": {
+        "twitter": "https://abema.app/kCoA",
+        "facebook": "https://abema.app/pKCQ",
+        "google": "https://abema.app/h481",
+        "line": "https://abema.app/Rwby",
+        "copy": "https://abema.app/9Jsk",
+        "instagram": "https://abema.app/zjKc"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-195_s2_p17/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-195_s2_p17/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-195_s2_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-195_s2_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0720666666666,
+        "opening": {
+            "start": 152.08526666666666,
+            "end": 241.8416
+        },
+        "ending": {
+            "start": 1340.0720666666666,
+            "end": 1429.9952333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-195_s2_p18",
+        "title": "第18話 大地の果て",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712636028,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-195_s2_p17/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-195_eg0"
+}

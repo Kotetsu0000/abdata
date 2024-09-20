@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p910",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 679
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 910,
+        "title": "#910 １０分おくれのエスパー",
+        "content": "ジャイアンに逆らえず、心にもないことを言ってしまったのび太は、正義のための力が欲しいと言い出す。それを聞いたドラえもんは、長い訓練が必要なため、のび太には使いこなせないと前置きしながら『Ｅ・Ｓ・Ｐ（エスパー）訓練ボックス』を取り出した。正義のためなら頑張るというのび太に、ドラえもんは、念力、透視、瞬間移動という３つの超能力を育てることができるものの、一人前になるためには、毎日三時間ずつ訓練して３年かかると説明する。\n　ブツブツ言いながらも、訓練を始めるのび太。すると、１０分遅れで念力が届くようになり…！？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1748703600,
+    "transcodeVersion": "vje9k",
+    "sharedLink": {
+        "twitter": "https://abema.app/NDeG",
+        "facebook": "https://abema.app/3Ee7",
+        "google": "https://abema.app/YFbs",
+        "line": "https://abema.app/X7Mm",
+        "copy": "https://abema.app/FM7E",
+        "instagram": "https://abema.app/RNS9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p910/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p910/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p910/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p910"
+    },
+    "viewingPoint": {
+        "suggestion": 674.048375
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p911",
+        "title": "#911 大冒険ゲームブック",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p910/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

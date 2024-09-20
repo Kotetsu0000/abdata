@@ -1,0 +1,141 @@
+{
+    "id": "203-2_s200_p1",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s200",
+        "sequence": 200,
+        "name": "TVスペシャル",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4443
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "SP1-1 噂の海パン刑事登場／SP1-2 部長よ！あれがパリの灯だ／SP1-3 激突！神ＶＳ両津",
+        "content": "【噂の海パン刑事登場】\n素肌に海パン！ネクタイきりり！変態刑事､汚野登場！\n\n【部長よ！あれがパリの灯だ】\n大原＆両津の、抱腹絶倒！ヨーロッパ珍道中記\n\n【激突！神ＶＳ両津】\n恐いもの知らずの両さん、全知全能（？）の神様と全面対決！"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382155,
+    "endAt": 1743433200,
+    "transcodeVersion": "5Jik2r",
+    "sharedLink": {
+        "twitter": "https://abema.app/oPF6",
+        "facebook": "https://abema.app/cbDg",
+        "google": "https://abema.app/zwf9",
+        "line": "https://abema.app/Ewnp",
+        "copy": "https://abema.app/N9Wb",
+        "instagram": "https://abema.app/NcBn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s200_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 4411.029822,
+        "opening": {
+            "start": 7.091933,
+            "end": 16.940222
+        },
+        "ending": {
+            "start": 4411.029822,
+            "end": 4444.0429
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s200_p2",
+        "title": "SP2 バカンスは激しいのがお好き",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382155,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s200_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

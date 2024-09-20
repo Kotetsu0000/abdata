@@ -1,0 +1,145 @@
+{
+    "id": "35-22hnwbphuwmw_s0_p1",
+    "series": {
+        "id": "35-22hnwbphuwmw",
+        "title": "ゲームセンターあらし",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-22hnwbphuwmw",
+            "filename": "thumb.png",
+            "query": "version=1720575889",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-22hnwbphuwmw",
+            "filename": "portrait.png",
+            "query": "version=1720575889",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-22hnwbphuwmw_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1304
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 ビッグコンピューターをやっつけろ！",
+        "content": "あらしと一平太は、さとるが巨大コンピューターを駆使して作り上げた立体映像ゲーム「スペースパイレーツ」に挑む。ゲームは手強く万策尽きたかに思えたが、あらしが”水魚のポーズ”をとると…。"
+    },
+    "credit": {
+        "released": 1982,
+        "casts": [
+            "石野あらし：間嶋里美",
+            "月影一平太：緒方賢一",
+            "大文字さとる：山田栄子",
+            "ナンドー会長：永井一郎",
+            "エリカ・能登：高島雅羅"
+        ],
+        "crews": [
+            "原作：すがやみつる",
+            "チーフディレクター：小華和ためお",
+            "脚本：安藤豊弘、山崎晴哉、吉川惣司、中原朗",
+            "作画監督：岡迫亘弘",
+            "美術監督：高野正道",
+            "撮影監督：金子仁",
+            "録音監督：浦上靖夫",
+            "音楽：馬飼野康二"
+        ],
+        "copyrights": [
+            "(C)すがやみつる／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1718168317,
+    "endAt": 1756652400,
+    "freeEndAt": 1756652400,
+    "transcodeVersion": "7BDnai",
+    "sharedLink": {
+        "twitter": "https://abema.app/YNaZ",
+        "facebook": "https://abema.app/YYCE",
+        "google": "https://abema.app/74xE",
+        "line": "https://abema.app/EoGp",
+        "copy": "https://abema.app/Eoy5",
+        "instagram": "https://abema.app/irXc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-22hnwbphuwmw_s0_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-22hnwbphuwmw_s0_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-22hnwbphuwmw_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-22hnwbphuwmw_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-22hnwbphuwmw_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1299.298
+    },
+    "nextProgramInfo": {
+        "programId": "35-22hnwbphuwmw_s0_p2",
+        "title": "第2話 超秘技！！炎のコマ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1718168317,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726714800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-22hnwbphuwmw_s0_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-22hnwbphuwmw_eg0"
+}

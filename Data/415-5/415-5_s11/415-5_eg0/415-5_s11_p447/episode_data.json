@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s11_p447",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s11",
+        "sequence": 11,
+        "name": "season11",
+        "thumbComponent": {},
+        "order": 11
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 447,
+        "title": "第447話 封印された洋窓（後編）",
+        "content": "バンド「ドルクス」のメンバー、保波倫子が密室で亡くなっていた。山村刑事は自殺に見せかけた密室殺人として捜査し、事情聴取を始める。コナンは裏庭へ行き、ハシゴを登りきって屋敷を見るが、木の枝が邪魔になって2階の窓しか見る事ができない。さらにコナンは巣箱を調べ、倫子を殺害した犯人が誰かに気付き…。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066306,
+    "endAt": 1740754800,
+    "transcodeVersion": "3icipQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/bkEr",
+        "facebook": "https://abema.app/Ajee",
+        "google": "https://abema.app/ExVg",
+        "line": "https://abema.app/r3kF",
+        "copy": "https://abema.app/WgMy",
+        "instagram": "https://abema.app/bzp2"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s11_p447/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s11_p447/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s11_p447/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s11_p447"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0923333333333,
+        "opening": {
+            "start": 14.948266666666667,
+            "end": 102.06863333333334
+        },
+        "ending": {
+            "start": 1250.0488,
+            "end": 1335.0003333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s11_p448",
+        "title": "第448話 目黒の秋刀魚事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066306,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s11_p447/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

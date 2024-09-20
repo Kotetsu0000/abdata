@@ -1,0 +1,141 @@
+{
+    "id": "5-8_s0_p20",
+    "series": {
+        "id": "5-8",
+        "title": "トリコ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "thumb.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "portrait.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1337
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話　テリーの為に！ 灼熱で弾けろ、ＢＢコーン！",
+        "content": "ついに探していたＢＢコーンを見つけたトリコとテリー。釘パンチの威力で粒を弾けさせ、ようやくその巨大な粒を手に入れる。トリコとテリーはさっそくポップコーンにして食べるため、調理できる場所を求めてウール火山へと向かうのだった。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "トリコ：置鮎龍太郎",
+            "小松：朴璐美",
+            "ココ：櫻井孝宏",
+            "サニー：岩田光央",
+            "ゼブラ：松田賢二"
+        ],
+        "crews": [
+            "原作：島袋光年（集英社・週刊少年ジャンプ連載）",
+            "企画：高瀬敦也、渡辺和哉、清水慎治",
+            "プロデューサー：情野誠人、佐川直子、鷲尾天",
+            "シリーズ構成：村山功",
+            "音楽：水谷広実"
+        ],
+        "copyrights": [
+            "(C)島袋光年／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689061324,
+    "endAt": 1740754800,
+    "transcodeVersion": "2kvzVr",
+    "sharedLink": {
+        "twitter": "https://abema.app/5m3T",
+        "facebook": "https://abema.app/ScYQ",
+        "google": "https://abema.app/K5CH",
+        "line": "https://abema.app/PL1k",
+        "copy": "https://abema.app/YeMn",
+        "instagram": "https://abema.app/PPnp"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-8_s0_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-8_s0_p20/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-8_s0_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-8_s0_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 1322.911455,
+        "opening": {
+            "start": 17.974488,
+            "end": 102.892755
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-8_s0_p21",
+        "title": "第21話　美食會の刺客！ トリコの技、進化の瞬間！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689061324,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726603200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-8_s0_p20/timeline",
+        "query": "version=2kvzVr",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726603200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727251200
+        }
+    ],
+    "episodeGroupId": "5-8_eg0"
+}

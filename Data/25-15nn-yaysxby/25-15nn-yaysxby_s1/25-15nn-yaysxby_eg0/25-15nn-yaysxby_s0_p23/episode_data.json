@@ -1,0 +1,140 @@
+{
+    "id": "25-15nn-yaysxby_s0_p23",
+    "series": {
+        "id": "25-15nn-yaysxby",
+        "title": "日常",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-15nn-yaysxby",
+            "filename": "thumb.png",
+            "query": "version=1681283237",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-15nn-yaysxby",
+            "filename": "portrait.png",
+            "query": "version=1681283237",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-15nn-yaysxby_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "日常の第二十三話",
+        "content": "桜井泉は、誠の部屋で偶然イケナイ本を発見してしまう。しどろもどろな言い訳をする誠に対して、姉として毅然な態度を取ろうとする泉なのだが…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "相生祐子:本多真梨子",
+            "長野原みお:相沢舞",
+            "水上麻衣:富樫美鈴",
+            "はかせ:今野宏美",
+            "東雲なの:古谷静佳"
+        ],
+        "crews": [
+            "製作総指揮:安田猛",
+            "原作・構成協力:あらゐけいいち",
+            "シリーズ構成:花田十輝",
+            "キャラクターデザイン:西屋太志",
+            "色彩設計:宮田佳奈"
+        ],
+        "copyrights": [
+            "(C)あらゐけいいち・角川書店／東雲研究所"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689151300,
+    "endAt": 1751295600,
+    "transcodeVersion": "6mQStp",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/b7SZY",
+        "facebook": "https://gxyt4.app.goo.gl/CfDZY",
+        "google": "https://gxyt4.app.goo.gl/MoG6S",
+        "line": "https://gxyt4.app.goo.gl/5QgmU",
+        "copy": "https://gxyt4.app.goo.gl/1Twx7",
+        "instagram": "https://gxyt4.app.goo.gl/i71yu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-15nn-yaysxby_s0_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-15nn-yaysxby_s0_p23/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-15nn-yaysxby_s0_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-15nn-yaysxby_s0_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1405.0703333333333,
+        "opening": {
+            "start": 33.09973333333333,
+            "end": 123.05626666666667
+        },
+        "ending": {
+            "start": 1283.0818,
+            "end": 1373.0049666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-15nn-yaysxby_s0_p24",
+        "title": "日常の第二十四話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689151300,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726486200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-15nn-yaysxby_s0_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726486200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727760600
+        }
+    ],
+    "episodeGroupId": "25-15nn-yaysxby_eg0"
+}

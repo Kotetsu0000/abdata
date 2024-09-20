@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p14",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 14,
+        "title": "第14話 ｢不幸な時代だ！善人ほど早死にする！！」",
+        "content": "かつてダンテと悪事を働いていたデュランだが、今は村人からも信用される存在に。しかしそんなある日、ダンテが村人を人質にケンシロウ抹殺の命令をしてくる。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756424,
+    "endAt": 1732978800,
+    "transcodeVersion": "5fNxg7",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/in8q9",
+        "facebook": "https://gxyt4.app.goo.gl/Nuwkc",
+        "google": "https://gxyt4.app.goo.gl/FmXb2",
+        "line": "https://gxyt4.app.goo.gl/bVhbd",
+        "copy": "https://gxyt4.app.goo.gl/aBjMj",
+        "instagram": "https://gxyt4.app.goo.gl/LgUB5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p14/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p14/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.328855,
+        "opening": {
+            "start": 29.986488,
+            "end": 121.544722
+        },
+        "ending": {
+            "start": 1340.328855,
+            "end": 1430.118655
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p15",
+        "title": "第15話 ｢3つ数えてみろ！死ぬのはおまえだ！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756424,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p14/timeline",
+        "query": "version=5fNxg7",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

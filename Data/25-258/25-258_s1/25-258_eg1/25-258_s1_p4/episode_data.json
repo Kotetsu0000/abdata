@@ -1,0 +1,154 @@
+{
+    "id": "25-258_s1_p4",
+    "series": {
+        "id": "25-258",
+        "title": "じいさんばあさん若返る",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-258",
+            "filename": "thumb.png",
+            "query": "version=1713755448",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-258",
+            "filename": "portrait.png",
+            "query": "version=1713755448",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-258_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 じいさんばあさんと文化祭",
+        "content": "未乃に呼ばれ、正蔵とイネは北町高校の文化祭へ行くことに。正蔵と学校に行けるとイネは大はしゃぎ。当日、ひょんなことからセーラー服に着替えると、高嶺の花と呼ばれていた女学校時代の言動に戻ってしまい――。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "正蔵：三木眞一郎",
+            "イネ：能登麻美子",
+            "未乃：三上枝織",
+            "詩織：東山奈央"
+        ],
+        "crews": [
+            "原作：新挑 限",
+            "監督：西田正義",
+            "シリーズ構成：菅原雪絵",
+            "キャラクターデザイン：たかはし なぎさ",
+            "音楽：長谷川智樹",
+            "アニメーション制作：月虹"
+        ],
+        "copyrights": [
+            "(C)新挑限・KADOKAWA／じいさんばあさん若返る製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721899281,
+    "endAt": 1782831600,
+    "freeEndAt": 1726786800,
+    "transcodeVersion": "7RM6kE",
+    "sharedLink": {
+        "twitter": "https://abema.app/v1N8",
+        "facebook": "https://abema.app/s4Vj",
+        "google": "https://abema.app/Wk93",
+        "line": "https://abema.app/eUcA",
+        "copy": "https://abema.app/4hFT",
+        "instagram": "https://abema.app/E6hY"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-258_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-258_s1_p4/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-258_s1_p4/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-258_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-258_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.9519666666667,
+        "opening": {
+            "end": 89.95653333333334
+        },
+        "ending": {
+            "start": 1319.9519666666667,
+            "end": 1409.9085
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-258_s1_p5",
+        "title": "第5話 ばあさん、記憶が若返る",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1721899281,
+        "endAt": 1782831600,
+        "freeEndAt": 1726786800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726786800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-258_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726786800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1727055600
+        }
+    ],
+    "episodeGroupId": "25-258_eg1"
+}

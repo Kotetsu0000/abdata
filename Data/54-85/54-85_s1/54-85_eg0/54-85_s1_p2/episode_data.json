@@ -1,0 +1,154 @@
+{
+    "id": "54-85_s1_p2",
+    "series": {
+        "id": "54-85",
+        "title": "シルバニアファミリー",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-85",
+            "filename": "thumb.png",
+            "query": "version=1689077909",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-85",
+            "filename": "portrait.png",
+            "query": "version=1689077909",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-85_s1",
+        "sequence": 1,
+        "name": "フレアのハッピーダイアリー",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 660
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 オープン！森のこどもパン屋さん",
+        "content": "今日は『子どもパン屋さん』の日。フレアは、ラルフ・ライラと一緒にはりきってパンを作り始めます。はたしてそのお味は…？"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "フレア：山根 綺",
+            "ライラ：田中 沙耶",
+            "ラルフ：村上 まどか",
+            "メリンダ：角倉 英里子",
+            "クレム：和多田 美咲",
+            "ココ：大空 直美",
+            "フレイジャー：赤羽根 健治",
+            "テリー：伊藤 かな恵",
+            "クリストファー：藤原 夏海",
+            "ピアーズ：春瀬 なつみ",
+            "アンブローズ：長江 里加.ジェイソン：羊宮 妃那"
+        ],
+        "crews": [
+            "原作・企画：エポック社",
+            "脚本：三浦 有為子、鈴森 ゆみ、篠塚 智子",
+            "音楽：野中“まさ”雄一",
+            "音響監督：児玉 拓己",
+            "制作：LandQ Studios",
+            "監督：河原 真明",
+            "製作：エポック社",
+            "製作総指揮：前田 道裕"
+        ],
+        "copyrights": [
+            "(C) EPOCH"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1697101190,
+    "endAt": 1727708400,
+    "freeEndAt": 1727562240,
+    "transcodeVersion": "3jiQiX",
+    "sharedLink": {
+        "twitter": "https://abema.app/1kya",
+        "facebook": "https://abema.app/H6ex",
+        "google": "https://abema.app/uNzf",
+        "line": "https://abema.app/Dkw3",
+        "copy": "https://abema.app/JpLs",
+        "instagram": "https://abema.app/djjx"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-85_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-85_s1_p2/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/54-85_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-85_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-85_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 615.638222,
+        "opening": {
+            "start": 0.217229,
+            "end": 43.844661
+        },
+        "ending": {
+            "start": 615.848078,
+            "end": 645.097828
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "54-85_s1_p3",
+        "title": "第3話 わたしの親友　ライラ・ペルシアン",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1697101190,
+        "endAt": 1727708400,
+        "freeEndAt": 1727562240,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727562240
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-85_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727562240
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "54-85_eg0"
+}

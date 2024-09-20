@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s22_p857",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s22",
+        "sequence": 22,
+        "name": "season22",
+        "thumbComponent": {},
+        "order": 22
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 857,
+        "title": "第857話 米花町二転三転ミステリー（前編）",
+        "content": "高級住宅街にある公園で迷惑男の天城の遺体が発見される。遺体の傍らには血痕が付着した町内会長、番藤の診察カードが落ちていて、目暮たちは番藤の自宅に話を聞きに行くが…。番藤は酒に混ぜた農薬を飲んで服毒死していた。高木刑事と千葉刑事は番藤が天城を刺殺後、観念して自決したと推理するが…。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066317,
+    "endAt": 1740754800,
+    "transcodeVersion": "6LzANa",
+    "sharedLink": {
+        "twitter": "https://abema.app/BTsq",
+        "facebook": "https://abema.app/Q8mC",
+        "google": "https://abema.app/53YC",
+        "line": "https://abema.app/cZ2s",
+        "copy": "https://abema.app/p9mt",
+        "instagram": "https://abema.app/X8YT"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s22_p857/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s22_p857/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s22_p857/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s22_p857"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.09375,
+        "opening": {
+            "start": 117.53408333333333,
+            "end": 204.95475
+        },
+        "ending": {
+            "start": 1345.09375,
+            "end": 1424.9235
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s22_p858",
+        "title": "第858話 米花町二転三転ミステリー（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066317,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s22_p857/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

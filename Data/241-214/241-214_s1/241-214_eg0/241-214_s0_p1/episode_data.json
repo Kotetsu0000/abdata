@@ -1,0 +1,173 @@
+{
+    "id": "241-214_s0_p1",
+    "series": {
+        "id": "241-214",
+        "title": "パプリカ",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/241-214",
+            "filename": "thumb.png",
+            "query": "version=1627289554",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/241-214",
+            "filename": "portrait.png",
+            "query": "version=1627289554",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "241-214_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "パプリカ",
+        "content": "精神医療研究所が開発した、他人の夢を共有できる画期的テクノロジー\"DCミニ\"が盗まれた。それを機に研究員たちは次々に奇怪な夢を見るようになり、精神を冒されていく。」謎の解明に挑む美人セラピスト千葉敦子は、極秘のセラピーを行うため、性格も容姿もまったく別人の\"夢探偵パプリカ\"に姿を変え、クライアントの夢の中へと入り込む。しかし、狂ったイメージに汚染された夢の中では、おぞましい罠がパプリカを待ち受けていた...。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "パプリカ/千葉敦子::林原めぐみ",
+            "乾精次郎:江守徹",
+            "島寅太郎:堀勝之祐",
+            "時田浩作:古谷徹"
+        ],
+        "crews": [
+            "監督・脚本:今敏",
+            "脚本:水上清資",
+            "アニメーション制作:マッドハウス",
+            "キャラクターデザイン・作画監督:安藤雅司",
+            "色彩設計:橋本賢",
+            "美術監督:池信孝",
+            "撮影監督:加藤道哉",
+            "編集:瀬山武司",
+            "音響監督:三間雅文",
+            "制作プロデューサー:豊田智紀",
+            "プロデューサー:丸田順悟",
+            "プロデューサー:滝山雅夫"
+        ],
+        "copyrights": [
+            "(C) 2006 Madhouse, Inc. and Sony Pictures Entertainment (Japan) Inc. All Rights Reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1720151642,
+    "endAt": 1727449200,
+    "transcodeVersion": "6gMf8y",
+    "sharedLink": {
+        "twitter": "https://abema.app/kjnq",
+        "facebook": "https://abema.app/gXY8",
+        "google": "https://abema.app/tFkE",
+        "line": "https://abema.app/y3rd",
+        "copy": "https://abema.app/G7B7",
+        "instagram": "https://abema.app/2VYH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/241-214_s0_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/241-214_s0_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/241-214_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.241-214_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 5143.304833333334
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/241-214_s0_p1/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727449200
+        }
+    ],
+    "rentalInfo": {
+        "availableDuration": 2592000,
+        "viewableDuration": 172800,
+        "items": [
+            {
+                "id": "9sQr8exySBo7vw",
+                "startAt": 1585580400,
+                "endAt": 1646060400,
+                "subscriptionType": 1,
+                "deviceType": 2,
+                "coinAmount": 350,
+                "regularCoinAmount": 350,
+                "campaigns": null
+            },
+            {
+                "id": "9sQsTxmEvu8equ",
+                "startAt": 1585580400,
+                "endAt": 1646060400,
+                "subscriptionType": 1,
+                "deviceType": 1,
+                "coinAmount": 400,
+                "regularCoinAmount": 400,
+                "campaigns": null
+            },
+            {
+                "id": "9sQr8MP8UMBnhm",
+                "startAt": 1585580400,
+                "endAt": 1646060400,
+                "subscriptionType": 2,
+                "deviceType": 1,
+                "coinAmount": 350,
+                "regularCoinAmount": 400,
+                "campaigns": null
+            },
+            {
+                "id": "9sQroA5BhdADmq",
+                "startAt": 1585580400,
+                "endAt": 1646060400,
+                "subscriptionType": 2,
+                "deviceType": 2,
+                "coinAmount": 300,
+                "regularCoinAmount": 350,
+                "campaigns": null
+            }
+        ]
+    },
+    "episodeGroupId": "241-214_eg0"
+}

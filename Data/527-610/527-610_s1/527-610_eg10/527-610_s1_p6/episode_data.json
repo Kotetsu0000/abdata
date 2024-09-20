@@ -1,0 +1,130 @@
+{
+    "id": "527-610_s1_p6",
+    "series": {
+        "id": "527-610",
+        "title": "ABEMA×ヒプステ",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/527-610",
+            "filename": "thumb.png",
+            "query": "version=1690447916",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/527-610",
+            "filename": "portrait.png",
+            "query": "version=1690447916",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "527-610_s1",
+        "sequence": 1,
+        "name": "-",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_37",
+                "name": "ライブ舞台"
+            }
+        ]
+    },
+    "info": {
+        "duration": 7513
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "ヒプステ -track.5-",
+        "content": "本公演はイケブクロ・ディビジョン、ヨコハマ・ディビジョン、シブヤ・ディビジョン、シンジュク・ディビジョンのリーダー4人がかつて結成していた伝説のチーム“The Dirty Dawg”時代のストーリーを描く舞台化第5弾。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "■“The Dirty Dawg”",
+            "山田 一郎：高野 洸",
+            "碧棺 左馬刻：阿部顕嵐",
+            "飴村 乱数：安井謙太郎",
+            "神宮寺 寂雷：鮎川太陽",
+            "白膠木 簓：荒牧慶彦（映像出演）",
+            "波羅夷空却：廣野凌大（映像出演）",
+            "神奈備 衢：糸川耀士郎",
+            "高橋駿一",
+            "福澤 侑",
+            "岡野海斗",
+            "後藤 大",
+            "■ディビジョン・ダンス・バトル“D.D.B”",
+            "Toyotaka",
+            "RYO",
+            "gash!",
+            "SHINSUKE",
+            "HILOMU",
+            "Dolton",
+            "KENTA",
+            "GeN",
+            "KIMUTAKU"
+        ],
+        "copyrights": [
+            "(C)『ヒプノシスマイク -Division Rap Battle-』Rule the Stage製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1723099676,
+    "endAt": 1751295540,
+    "transcodeVersion": "6tJVF9",
+    "sharedLink": {
+        "twitter": "https://abema.app/jGmu",
+        "facebook": "https://abema.app/u1jf",
+        "google": "https://abema.app/A1p1",
+        "line": "https://abema.app/4Rge",
+        "copy": "https://abema.app/dCDa",
+        "instagram": "https://abema.app/gafR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/527-610_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/527-610_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/527-610_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.527-610_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 7496.345144
+    },
+    "nextProgramInfo": {
+        "programId": "527-610_s1_p301",
+        "title": "ヒプステ -Battle of Pride-",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1723099677,
+        "endAt": 1751295540,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295540
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/527-610_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295540
+        }
+    ],
+    "episodeGroupId": "527-610_eg10"
+}

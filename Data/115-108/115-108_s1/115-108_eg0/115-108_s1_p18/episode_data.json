@@ -1,0 +1,156 @@
+{
+    "id": "115-108_s1_p18",
+    "series": {
+        "id": "115-108",
+        "title": "亜人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-108",
+            "filename": "thumb.png",
+            "query": "version=1713661163",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-108",
+            "filename": "portrait.png",
+            "query": "version=1713661163",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-108_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1432
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 18,
+        "title": "#18 クロちゃん、お願い",
+        "content": "殺害リストの×印が三分の一を越えた。だが、日本政府は依然、佐藤との交渉を拒否していた。\n圭たちは実戦を想定し、実地訓練に移る。各チームは3人編成。圭をアルファ隊のポイントマンに据え、セカンドとテールを黒服たちが固めるという陣形だった。\nそのころ、戸崎は亜人管理委員会に呼び出されていた。オグラ・イクヤ博士の死亡状況を調査するという名目で、アルメイダとマイヤーズという2名の国防総省職員が送り込まれてきたためだ。戸崎は2人の追求をうまくかわしつづけるが……。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "永井圭：宮野真守",
+            "海斗：細谷佳正",
+            "中野攻：福山潤",
+            "佐藤：大塚芳忠",
+            "田中功次：平川大輔",
+            "戸崎：櫻井孝宏",
+            "下村泉：小松未可子",
+            "オグラ・イクヤ：木下浩之",
+            "曽我部：鈴村健一",
+            "アルメイダ：森川智之",
+            "マイヤーズ：坂本真綾",
+            "永井慧理子：洲崎綾",
+            "琴吹武：斉藤壮馬"
+        ],
+        "crews": [
+            "原作：桜井画門",
+            "総監督：瀬下寛之",
+            "監督：安藤裕章",
+            "シリーズ構成：瀬古浩司",
+            "プロダクションデザイナー：田中直哉",
+            "メインキャラクターデザイナー：森山佑樹",
+            "造形監督：片塰満則",
+            "美術監督：滝口比呂志",
+            "色彩設計：野地弘納",
+            "演出：りょーちも、鹿住朗生、井手恵介",
+            "CGスーパーバイザー：岩田健志、菅井進、上本雅之、溝口結城",
+            "編集：渡邊潤",
+            "音響監督：岩浪美和",
+            "音楽：菅野祐悟",
+            "音楽制作：スターチャイルドレコード",
+            "アニメーション制作：ポリゴン・ピクチュアズ",
+            "製作：亜人管理委員会"
+        ],
+        "copyrights": [
+            "(C)桜井画門・講談社／亜人管理委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711697978,
+    "endAt": 1748703600,
+    "transcodeVersion": "2du8Hq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ec3u",
+        "facebook": "https://abema.app/bE6F",
+        "google": "https://abema.app/W9Cb",
+        "line": "https://abema.app/eeP6",
+        "copy": "https://abema.app/RyaX",
+        "instagram": "https://abema.app/mNBA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-108_s1_p18/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-108_s1_p18/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-108_s1_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-108_s1_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.7570833333334,
+        "opening": {
+            "start": 48.00629166666667,
+            "end": 137.47066666666666
+        },
+        "ending": {
+            "start": 1341.8822083333334,
+            "end": 1432.5144166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-108_s1_p19",
+        "title": "#19 飼い犬は大変だな",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1713661097,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-108_s1_p18/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "115-108_eg0"
+}

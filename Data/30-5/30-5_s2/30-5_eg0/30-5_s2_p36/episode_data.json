@@ -1,0 +1,156 @@
+{
+    "id": "30-5_s2_p36",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s2",
+        "sequence": 2,
+        "name": "Season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 36,
+        "title": "#36 突撃",
+        "content": "森に突入しようとしていたエルヴィンの前に姿を現す、鎧の巨人。その肩には、ある人物の背中に括りつけられたエレンの姿があった。巨人に連れ去られる前に、何としてでもエレンを救い出そうとする調査兵団。しかし、鎧の巨人とその協力者に攻撃を仕掛けるミカサを、もう一体の巨人が何度も妨害するのだった。その巨人を殺さなくてはならないと、敵意を剥き出しにするミカサ。彼女の前に立ち、戦いをやめるよう呼びかけたのは――!?"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創（別冊少年マガジン連載／講談社）",
+            "総監督：荒木哲郎",
+            "監督：肥塚正史",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡、山田 歩",
+            "助監督：田中洋之"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248134,
+    "endAt": 1730386800,
+    "transcodeVersion": "6NJ8uk",
+    "sharedLink": {
+        "twitter": "https://abema.app/ot9G",
+        "facebook": "https://abema.app/qWfx",
+        "google": "https://abema.app/Y7qB",
+        "line": "https://abema.app/Baun",
+        "copy": "https://abema.app/e7WE",
+        "instagram": "https://abema.app/JCre"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/30-5_s2_p36/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/30-5_s2_p36/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/30-5_s2_p36/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-5_s2_p36"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.018555,
+        "opening": {
+            "start": 65.004811,
+            "end": 155.0511
+        },
+        "ending": {
+            "start": 1330.018555,
+            "end": 1419.925144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-5_s2_p37",
+        "title": "#37 叫び",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248134,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-5_s2_p36/timeline",
+        "query": "version=6NJ8uk",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

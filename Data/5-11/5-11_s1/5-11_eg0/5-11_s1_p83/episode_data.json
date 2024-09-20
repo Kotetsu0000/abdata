@@ -1,0 +1,147 @@
+{
+    "id": "5-11_s1_p83",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1457
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 83,
+        "title": "第83話 明智警視の華麗なる推理 その2",
+        "content": "はじめとのデートにいそいそと出かけた美雪は、待ち合わせの場所で時間を潰している間、偶然通りがかった明智警視から思い出話を聞くことになった。明智警視は警部時代、長野の山奥である事件に遭遇していた。登山中に雨宿りに入った山小屋で、五人の先客のうちの一人・猫田が一瞬の停電の間に殺されてしまったのだ。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833282,
+    "endAt": 1732978800,
+    "transcodeVersion": "3DnkYY",
+    "sharedLink": {
+        "twitter": "https://abema.app/ikaJ",
+        "facebook": "https://abema.app/9NtV",
+        "google": "https://abema.app/vrNX",
+        "line": "https://abema.app/x1e2",
+        "copy": "https://abema.app/5rtW",
+        "instagram": "https://abema.app/d4Us"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p83/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p83/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p83/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p83"
+    },
+    "viewingPoint": {
+        "suggestion": 1332.020555,
+        "opening": {
+            "end": 99.989855
+        },
+        "ending": {
+            "start": 1332.020555,
+            "end": 1426.982188
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p84",
+        "title": "第84話 銀幕の殺人鬼 ファイル1",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833282,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p83/timeline",
+        "query": "version=3DnkYY",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

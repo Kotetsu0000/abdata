@@ -1,0 +1,131 @@
+{
+    "id": "218-706_s1_p18",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3179
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 18,
+        "title": "SHIBUYA ANIME BASE #18",
+        "content": "アニメ/ポップカルチャー情報番組。「ABEMA」の独占情報や、今知りたいアニメ・アニソン・ゲーム・漫画、そして最新鋭かつちょっとマニアックな“1週間のトピックス”をテーマにゲストたちが言いたい放題語りつくします。ほかにも関係者、声優を招いての激レアトークも！？金曜日の夜、アニメ/ポップカルチャーがもっと好きになる1時間を、渋谷よりお届けいたします。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC：徳井青空",
+            "ゲスト：マフィア梶田",
+            "春日さくら"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126678,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "6sq6U8",
+    "sharedLink": {
+        "twitter": "https://abema.app/eFvc",
+        "facebook": "https://abema.app/8sR6",
+        "google": "https://abema.app/WhfG",
+        "line": "https://abema.app/RLEr",
+        "copy": "https://abema.app/YGmo",
+        "instagram": "https://abema.app/srPV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p18/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p18/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-706_s1_p18/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 3174.9050666666667
+    },
+    "nextProgramInfo": {
+        "programId": "218-706_s1_p19",
+        "title": "SHIBUYA ANIME BASE #19",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1726126678,
+        "endAt": 1745074800,
+        "freeEndAt": 1745074800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1745074800
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p18/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg0"
+}

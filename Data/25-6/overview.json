@@ -1,0 +1,137 @@
+{
+    "id": "25-6",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "オーバーロード",
+    "content": "時は2138年。一大ブームを巻き起こした仮想現実体感型オンラインゲーム《ユグドラシル》はサービス終了を迎えようとしていた。プレイヤーであるモモンガも仲間と栄華を誇ったギルドで一人静かにその時を待っていた。しかし、終了時間を過ぎてもログアウトしないゲーム。突如として意思を持ち始めたNPCたち。ギルドの外には見たこともない異世界が広がっていた。現実世界ではゲーム好きの孤独で冴えない青年が、骸骨の姿をした最強の大魔法使いとなる！世界を掌中におさめる死の支配者、ここに光臨！！",
+    "seasons": [
+        {
+            "id": "25-6_s1",
+            "sequence": 1,
+            "name": "season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-6_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1690957404",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-6_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "25-6_s2",
+            "sequence": 2,
+            "name": "season2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-6_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1690957396",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-6_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "25-6_s3",
+            "sequence": 3,
+            "name": "season3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-6_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1690957391",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-6_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        },
+        {
+            "id": "25-6_s4",
+            "sequence": 4,
+            "name": "season4",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-6_s4",
+                "filename": "default_thumb.png",
+                "query": "version=1690957418",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-6_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 4
+        }
+    ],
+    "copyrights": [
+        "(C)丸山くがね・KADOKAWA刊／オーバーロード製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726197093025155349",
+    "imageUpdatedAt": 1681284039,
+    "caption": "最強の死の支配者、ここに光臨！！",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/L2rv",
+        "facebook": "https://abema.app/vwg3",
+        "google": "https://abema.app/AQPz",
+        "line": "https://abema.app/jdPH",
+        "copy": "https://abema.app/FzrT",
+        "instagram": "https://abema.app/53zk"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-6",
+        "filename": "thumb.png",
+        "query": "version=1681284039",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-6",
+        "filename": "portrait.png",
+        "query": "version=1681284039",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -18,13 +18,11 @@ import threading
 import time
 
 import API_auth
-#/dev/sde2             219G   64G  145G  31% /
-# Time: 6053.77sec(all Data)
 
-class Abema_Data:
+class Update_Data:
     def __init__(self):
         start = time.perf_counter()
-        self.BASE_PATH = '/home/kotetsu/Program/Python/Abema_DL/Abema_data'
+        self.BASE_PATH = './Data'
         make_path(self.BASE_PATH)
 
         now = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
@@ -425,4 +423,4 @@ def load_json(path: str) -> dict:
         return json.load(f)
 
 if __name__ == '__main__':
-    abema_data = Abema_Data()
+    Update_Data()

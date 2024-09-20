@@ -1,0 +1,141 @@
+{
+    "id": "35-22hnwbphuwmw_s0_p21",
+    "series": {
+        "id": "35-22hnwbphuwmw",
+        "title": "ゲームセンターあらし",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-22hnwbphuwmw",
+            "filename": "thumb.png",
+            "query": "version=1720575889",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-22hnwbphuwmw",
+            "filename": "portrait.png",
+            "query": "version=1720575889",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-22hnwbphuwmw_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1304
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 夏だ！ゲームだ！合宿だ！",
+        "content": "さとるの別荘で合宿をしていたあらしたち。ゲームをプレイするサルを負かしたところ、金時娘と名乗る女の子がサルの仇を取ろうと挑戦してくる。空中での勝負の最中、二人を支えるロープに炎のコマが燃え移る！"
+    },
+    "credit": {
+        "released": 1982,
+        "casts": [
+            "石野あらし：間嶋里美",
+            "月影一平太：緒方賢一",
+            "大文字さとる：山田栄子",
+            "ナンドー会長：永井一郎",
+            "エリカ・能登：高島雅羅"
+        ],
+        "crews": [
+            "原作：すがやみつる",
+            "チーフディレクター：小華和ためお",
+            "脚本：安藤豊弘、山崎晴哉、吉川惣司、中原朗",
+            "作画監督：岡迫亘弘",
+            "美術監督：高野正道",
+            "撮影監督：金子仁",
+            "録音監督：浦上靖夫",
+            "音楽：馬飼野康二"
+        ],
+        "copyrights": [
+            "(C)すがやみつる／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1718168317,
+    "endAt": 1756652400,
+    "transcodeVersion": "48YJXJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/No33",
+        "facebook": "https://abema.app/EnmZ",
+        "google": "https://abema.app/FGwY",
+        "line": "https://abema.app/oaNs",
+        "copy": "https://abema.app/Rtn8",
+        "instagram": "https://abema.app/XLR5"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-22hnwbphuwmw_s0_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-22hnwbphuwmw_s0_p21/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-22hnwbphuwmw_s0_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-22hnwbphuwmw_s0_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1299.298
+    },
+    "nextProgramInfo": {
+        "programId": "35-22hnwbphuwmw_s0_p22",
+        "title": "第22話 ねらわれた天才さとる",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1718168317,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726628400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-22hnwbphuwmw_s0_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-22hnwbphuwmw_eg0"
+}

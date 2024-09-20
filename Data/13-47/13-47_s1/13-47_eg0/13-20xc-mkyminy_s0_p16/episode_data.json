@@ -1,0 +1,154 @@
+{
+    "id": "13-20xc-mkyminy_s0_p16",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s1",
+        "sequence": 1,
+        "name": "1年目",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1495
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 考えたら人生ってオッさんになってからの方が長いじゃねーか！恐っ！！",
+        "content": "昼間から公園でたそがれる長谷川に神楽が「何故昼間からこんなところにいるのか」と声をかける。一時の勢いでハタ皇子を殴り、入国管理局を首になった長谷川は、まるでダメなオッさん、略してマダオ街道まっしぐらだった。切腹を命じられ、夜逃げしようと家に戻るとマダオにはついて行けないと妻に逃げられる始末。色々なものを失った彼が唯一得た友人が、パチンコ店で仲良くなった銀時だった。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684296386,
+    "endAt": 1740754800,
+    "freeEndAt": 1726613400,
+    "transcodeVersion": "2Bozdo",
+    "sharedLink": {
+        "twitter": "https://abema.app/PqZM",
+        "facebook": "https://abema.app/DjSK",
+        "google": "https://abema.app/Nz1i",
+        "line": "https://abema.app/fJoL",
+        "copy": "https://abema.app/r1Dx",
+        "instagram": "https://abema.app/C56y"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p16/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p16/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/13-20xc-mkyminy_s0_p16/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-20xc-mkyminy_s0_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1489.042199,
+        "opening": {
+            "start": 6.027333,
+            "end": 96.049599
+        },
+        "ending": {
+            "start": 1374.060666,
+            "end": 1461.079933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-20xc-mkyminy_s0_p17",
+        "title": "第17話 親子ってのは嫌なとこばかり似るもんだ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296386,
+        "endAt": 1740754800,
+        "freeEndAt": 1726607160,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726607160
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-20xc-mkyminy_s0_p16/timeline",
+        "query": "version=2Bozdo",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726613400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

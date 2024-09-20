@@ -1,0 +1,78 @@
+{
+    "id": "247-13",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "魔王城でおやすみ",
+    "content": "かつて、人と魔が交わり、共に存在した時代。\n魔王は人間の姫をさらい、自らの城に幽閉した──。\n囚われのスヤリス姫は、檻の中でつぶやく。\n\n「…寝る以外…することがない」\n\n牢をこっそり抜け出して、よりよい安眠を求め魔王城を…探索！？ \n自由気ままな人質姫が魔物たちを巻き込んで好き勝手！！ \n新感覚、睡眠ファンタジーコメディー！",
+    "seasons": [
+        {
+            "id": "247-13_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/247-13",
+                "filename": "thumb.png",
+                "query": "version=1627289942",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "247-13_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)熊之股鍵次・小学館／魔王城睡眠促進委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1725265798792347669",
+    "imageUpdatedAt": 1627289942,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/sdpNM",
+        "facebook": "https://gxyt4.app.goo.gl/m1cFj",
+        "google": "https://gxyt4.app.goo.gl/GW6ui",
+        "line": "https://gxyt4.app.goo.gl/E4uAm",
+        "copy": "https://gxyt4.app.goo.gl/uUm2i",
+        "instagram": "https://gxyt4.app.goo.gl/8gsc3"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/247-13",
+        "filename": "thumb.png",
+        "query": "version=1627289942",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/247-13",
+        "filename": "portrait.png",
+        "query": "version=1627289942",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

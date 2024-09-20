@@ -1,0 +1,160 @@
+{
+    "id": "54-64_s1_p11",
+    "series": {
+        "id": "54-64",
+        "title": "最果てのパラディン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-64",
+            "filename": "thumb.png",
+            "query": "version=1696235709",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-64",
+            "filename": "portrait.png",
+            "query": "version=1696235709",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-64_s1",
+        "sequence": 1,
+        "name": "第一期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 絶望の谷",
+        "content": "聖騎士（パラディン）として任命されたウィルは、集落の復興や魔物退治に務めていた。そんなある日、帰ってこない部隊を捜索するため、「つらぬき」の二つ名をもつレイストフやメネルと共に「獣の森（ビーストウッズ）」へ。ちらばる遺体に異変を感じ、奥の谷間へと進んでくが…。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "ウィル（ウィリアム・G・マリーブラッド）：河瀬茉希",
+            "ブラッド：小西克幸",
+            "マリー：堀江由衣",
+            "ガス（オーガスタス）：飛田展男",
+            "メネル（メネルドール）：村瀬歩",
+            "ビィ（ロビィナ・グッドフェロー）：鈴木絵理",
+            "トニオ（アントニオ）：遊佐浩二",
+            "グレイスフィール：悠木碧",
+            "スタグネイト：高橋広樹"
+        ],
+        "crews": [
+            "原作：柳野かなた（オーバーラップ文庫刊）",
+            "キャラクター原案：輪くすさが",
+            "監督：信田ユウ",
+            "シリーズ構成：髙橋龍也",
+            "キャラクターデザイン：羽田浩二",
+            "音楽：高田龍一 (MONACA)、帆足圭吾 (MONACA)",
+            "アニメーション制作：Children’s Playground Entertainment",
+            "製作：最果てのパラディン製作委員会",
+            "bilibili",
+            "OVERLAP",
+            "ドコモ・アニメストア"
+        ],
+        "copyrights": [
+            "(C)柳野かなた・オーバーラップ／最果てのパラディン製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704338488,
+    "endAt": 1727708400,
+    "transcodeVersion": "36trGa",
+    "sharedLink": {
+        "twitter": "https://abema.app/vFnk",
+        "facebook": "https://abema.app/B1QX",
+        "google": "https://abema.app/yVa2",
+        "line": "https://abema.app/9oCe",
+        "copy": "https://abema.app/5vQv",
+        "instagram": "https://abema.app/trdY"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-64_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-64_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-64_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-64_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.001911,
+        "opening": {
+            "start": 1.551834,
+            "end": 161.074159
+        },
+        "ending": {
+            "start": 1296.776035,
+            "end": 1385.703034
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "54-64_s1_p12",
+        "title": "第12話 最果ての聖騎士",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1704338488,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-64_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "54-64_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p77",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 77,
+        "title": "第77話 ｢第３部完結　目ざめよ新時代！狼の叫びが天を衝く！！」",
+        "content": "連れ去られたトキを追って、リュウガの城に乗り込んだケンシロウ。トキの死を知らされたケンシロウの怒りが爆発する！！しかしケンシロウは、天狼の星の男・リュウガもまた真の平和を求め、宿命に殉じた一人だという事を知る。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "5V7qzg",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/bThzS",
+        "facebook": "https://gxyt4.app.goo.gl/pg52H",
+        "google": "https://gxyt4.app.goo.gl/5jUjk",
+        "line": "https://gxyt4.app.goo.gl/qiBTc",
+        "copy": "https://gxyt4.app.goo.gl/Xzw28",
+        "instagram": "https://gxyt4.app.goo.gl/Ejusz"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p77/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p77/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p77/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p77"
+    },
+    "viewingPoint": {
+        "suggestion": 1336.258122,
+        "opening": {
+            "start": 31.654822,
+            "end": 124.547722
+        },
+        "ending": {
+            "start": 1336.258122,
+            "end": 1426.114655
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p78",
+        "title": "第78話 ｢南斗聖拳シン！お前は報われぬ愛に命をかけた！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p77/timeline",
+        "query": "version=5V7qzg",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

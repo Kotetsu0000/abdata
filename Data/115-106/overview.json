@@ -1,0 +1,78 @@
+{
+    "id": "115-106",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "ラグナクリムゾン",
+    "content": "銀剣を振るい、竜を狩り、報酬をもらう職業──『狩竜人（かりゅうど）』。\nヘボ狩竜人の少年・ラグナは、ぶっちぎりの竜討伐数を誇る天才少女・レオニカとコンビを組み、日々、竜討伐に挑んでいた。\nラグナの願いはひとつ──「強くなれなくてもいい。レオのそばにずっといたい。」\nしかしその想いは、これまでと比べ物にならない強さを持った”上位竜”の襲撃により儚くも散りさる。\n強大な敵を前にしたラグナの脳裏をよぎるのは、ここ数日ラグナを悩ませてきた悪夢──最強の力を手に入れながらも、何一つ守るべきものを持たない、絶望と孤独の未来を歩む自らの姿だった。\n未来の自分が伝えるものとは……？　今の自分が選ぶべき道とは……？\nそしてラグナは、謎多き新たなる相棒・クリムゾンと共に、絶望の未来を回避するための一歩を踏み出す。\n挑むは、絶対強者。抗うは、強制運命。限界のその先へ──。\n超ストイック異世界極限バトル!!",
+    "seasons": [
+        {
+            "id": "115-106_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/115-106_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1703597404",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "115-106_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)小林大樹／SQUARE ENIX・「ラグナクリムゾン」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1712312721667519967",
+    "imageUpdatedAt": 1703597358,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/xqAC",
+        "facebook": "https://abema.app/aE9p",
+        "google": "https://abema.app/Ag7r",
+        "line": "https://abema.app/NyEU",
+        "copy": "https://abema.app/sS4c",
+        "instagram": "https://abema.app/L2n9"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-106",
+        "filename": "thumb.png",
+        "query": "version=1703597358",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-106",
+        "filename": "portrait.png",
+        "query": "version=1703597358",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

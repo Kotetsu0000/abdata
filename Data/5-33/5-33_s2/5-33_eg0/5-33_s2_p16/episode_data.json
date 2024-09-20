@@ -1,0 +1,152 @@
+{
+    "id": "5-33_s2_p16",
+    "series": {
+        "id": "5-33",
+        "title": "スラムダンク",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-33",
+            "filename": "thumb.png",
+            "query": "version=1681281931",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-33",
+            "filename": "portrait.png",
+            "query": "version=1681281931",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-33_s2",
+        "sequence": 2,
+        "name": "陵南戦編（#13-20）",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1389
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 なんだコイツは!?田岡の誤算",
+        "content": "後半に入り、残り9分で登場した花道。赤木を欠いた湘北ならたやすいと計算する田岡監督だが、花道の思いもよらないプレーに振り回される。赤木との1on1以来、実戦で初めて披露する「ふんふんディフェンス」。流川に出すと思われたパスを木暮に出すという奇妙な行動。そのせいで田岡は二度も裏をかかれてしまう。"
+    },
+    "credit": {
+        "released": 1993,
+        "casts": [
+            "桜木花道：草尾　毅",
+            "赤木晴子：平松晶子",
+            "赤木剛憲：梁田清之",
+            "流川楓：緑川　光",
+            "三井寿：置鮎龍太郎",
+            "宮城リョータ：塩屋　翼",
+            "彩子：原えり子",
+            "安西監督：西村知道",
+            "水戸洋平：森川智之",
+            "野間忠一郎：幹本雄之",
+            "高宮望：塩屋浩三",
+            "大楠雄二：林　延年",
+            "ナレーション：田中秀幸"
+        ],
+        "crews": [
+            "原作：井上雄彦",
+            "企画：岩本太郎、中村重喜、籏野義文、佐藤公宣、西沢信孝",
+            "製作担当：松下健吉",
+            "脚本:菅　良幸、岸間信明",
+            "シリーズディレクター：西沢信孝",
+            "演出：志水淳児、角銅博之、明比正行、他",
+            "キャラクターデザイン：佐藤正樹",
+            "美術：坂本信人",
+            "音楽：増田隆宣"
+        ],
+        "copyrights": [
+            "(C)井上雄彦・アイティープランニング・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684379926,
+    "endAt": 1759244400,
+    "transcodeVersion": "4L51Yz",
+    "sharedLink": {
+        "twitter": "https://abema.app/azDV",
+        "facebook": "https://abema.app/RXgb",
+        "google": "https://abema.app/rkEX",
+        "line": "https://abema.app/Dv21",
+        "copy": "https://abema.app/HHPX",
+        "instagram": "https://abema.app/s9cX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-33_s2_p16/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-33_s2_p16/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-33_s2_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-33_s2_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1267.956555,
+        "opening": {
+            "start": 8.364888,
+            "end": 105.495455
+        },
+        "ending": {
+            "start": 1267.956555,
+            "end": 1358.614888
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-33_s2_p17",
+        "title": "第17話 リバウンド王 桜木花道の苦悩",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684379926,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-33_s2_p16/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-33_eg0"
+}

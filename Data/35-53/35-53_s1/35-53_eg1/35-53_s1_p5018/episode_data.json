@@ -1,0 +1,124 @@
+{
+    "id": "35-53_s1_p5018",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1199
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5018,
+        "title": "のび太の恐竜",
+        "content": "パパのアメリカみやげだという恐竜（きょうりゅう）のツメの化石をみんなにじまんするスネ夫。ところが、のび太だけにはよく見せてくれず、くやしくなったのび太は、思わず「ツメだけじゃなく、恐竜の丸ごとの化石を発掘（はっくつ）してみせる！」と宣言（せんげん）！\n家に帰ったのび太はドラえもんに泣きつくが、さすがのドラえもんにもそれはできないと言われてしまう。しかたなく、自分で図鑑（ずかん）や本で調べるのび太。\n次の日、化石がありそうな場所をほってみるが、その土地の持ち主から勝手なことをするなとおこられてしまう。さらには、ゴミをうめるあなをほってほしいとたのまれ、しかたなく手伝うことに。\nすると、土の中に、恐竜のタマゴのような化石を発見！ のび太は大よろこびで持ち帰るが、ドラえもんからただの石ころかもしれないと言われたため、『タイムふろしき』を使って、一億年前のすがたにもどしてみようと考える。\nしばらくして、タイムふろしきをはずしてみると、たしかに何かのタマゴだった！ のび太は恐竜のタマゴにまちがいないと信じ、ふとんの中でそのタマゴを孵（かえ）すことに。\n次の日の朝、タマゴのカラがわれ、中から出てきたのは、なんと首長竜（りゅう）の一種・フタバスズキリュウの赤ちゃんだった…！？"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "ドラえもん:水田わさび",
+            "のび太:大原めぐみ",
+            "しずか:かかずゆみ",
+            "ジャイアン:木村昴",
+            "スネ夫:関智一"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1722396308,
+    "endAt": 1756825200,
+    "freeEndAt": 1726398300,
+    "transcodeVersion": "3EKF7J",
+    "sharedLink": {
+        "twitter": "https://abema.app/oC7k",
+        "facebook": "https://abema.app/x4jW",
+        "google": "https://abema.app/uChR",
+        "line": "https://abema.app/b22D",
+        "copy": "https://abema.app/yNs5",
+        "instagram": "https://abema.app/1jN6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p5018/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p5018/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-53_s1_p5018/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p5018/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p5018"
+    },
+    "viewingPoint": {
+        "suggestion": 1194.94375
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p5018/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726398300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756825200
+        }
+    ],
+    "episodeGroupId": "35-53_eg1"
+}

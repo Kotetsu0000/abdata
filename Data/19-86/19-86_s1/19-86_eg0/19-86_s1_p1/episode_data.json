@@ -1,0 +1,153 @@
+{
+    "id": "19-86_s1_p1",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "【MISSION：1】オペレーション〈梟（ストリクス）〉",
+        "content": "西国(ウェスタリス)情報局対東課〈WISE(ワイズ)〉は諜報員(エージェント)〈黄昏(たそがれ)〉に、東国(オスタニア)で戦争計画を進めるデズモンドの調査を命じる。〈黄昏(たそがれ)〉は精神科医ロイド・フォージャーに扮し、標的と接触できる名門イーデン校に子供を入学させるため孤児のアーニャを引き取る。実はアーニャは他人の心を読む超能力者だった。ある日、〈黄昏(たそがれ)〉を狙うマフィア組織にアーニャが連れ去られてしまう。ロイドは任務の仕切り直しを考えるが……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "freeEndAt": 1735657200,
+    "transcodeVersion": "79uHAW",
+    "sharedLink": {
+        "twitter": "https://abema.app/iX3c",
+        "facebook": "https://abema.app/HZa8",
+        "google": "https://abema.app/1toZ",
+        "line": "https://abema.app/AJxH",
+        "copy": "https://abema.app/erjJ",
+        "instagram": "https://abema.app/TCsz"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-86_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-86_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-86_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-86_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1439.920011,
+        "ending": {
+            "start": 1312.043769,
+            "end": 1366.653578
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p2",
+        "title": "【MISSION：2】妻役を確保せよ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "freeEndAt": 1726761600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726761600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

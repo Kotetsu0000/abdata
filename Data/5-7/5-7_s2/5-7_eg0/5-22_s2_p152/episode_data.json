@@ -1,0 +1,127 @@
+{
+    "id": "5-22_s2_p152",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s2",
+        "sequence": 2,
+        "name": "北斗の拳2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1443
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 152,
+        "title": "最終話　さらば　ケンシロウ!!　さらば　北斗神拳!!",
+        "content": "リンとヒョウを救出した北斗の軍は、激闘を展開するケンシロウとカイオウの元へと急いだ。鎧を脱ぎ捨て魔闘気で必死に戦うカイオウと、すでに彼を凌駕し余裕さえ見せるケンシロウ。しかしカイオウは、母の力を借りて最後の一撃に撃って出る！　空から襲い掛かったカイオウに、ケンシロウの拳が食い込んだ！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：難波圭一",
+            "リン：冨永み～な",
+            "ファルコ：田中秀幸",
+            "カイオウ：内海賢二",
+            "ヒョウ：小川真司",
+            "ハン：戸谷公次",
+            "シャチ：鈴置洋孝",
+            "ナレーター：千葉繁"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／NSP・東映アニメーション1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756428,
+    "endAt": 1732978800,
+    "transcodeVersion": "4zbmFi",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/MbT7G",
+        "facebook": "https://gxyt4.app.goo.gl/8FFVh",
+        "google": "https://gxyt4.app.goo.gl/qss2f",
+        "line": "https://gxyt4.app.goo.gl/gce1R",
+        "copy": "https://gxyt4.app.goo.gl/ZiwM3",
+        "instagram": "https://gxyt4.app.goo.gl/SEGzJ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-22_s2_p152/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-22_s2_p152/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-22_s2_p152/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-22_s2_p152"
+    },
+    "viewingPoint": {
+        "suggestion": 1438.408633,
+        "opening": {
+            "start": 21.644822,
+            "end": 109.032222
+        },
+        "ending": {
+            "start": 1310.165388,
+            "end": 1408.163388
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-22_s2_p152/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

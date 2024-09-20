@@ -1,0 +1,74 @@
+{
+    "id": "25-253",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "ダンジョン飯",
+    "content": "ダンジョン飯。　それは、\"食う\"か\"食われる\"か―――\n\nダンジョン深奥で、レッドドラゴンに妹が喰われた！\n命からがら地上へ生還した冒険者のライオス。\n再びダンジョンへ挑もうとするも、お金や食糧は迷宮の奥底……。\n妹が消化されてしまうかもしれない危機的な状況の中、ライオスは決意する。\n「食糧は、迷宮内で自給自足する！」\nスライム、バジリスク、ミミック、そしてドラゴン！\n襲い来る魔物たちを食べながらダンジョン踏破を目指せ、冒険者よ！",
+    "seasons": [
+        {
+            "id": "25-253_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-253_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1703685767",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-253_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1725346590209448544",
+    "imageUpdatedAt": 1703685742,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/pqW4",
+        "facebook": "https://abema.app/x9QU",
+        "google": "https://abema.app/g9og",
+        "line": "https://abema.app/ZYqi",
+        "copy": "https://abema.app/6YeL",
+        "instagram": "https://abema.app/HaHR"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-253",
+        "filename": "thumb.png",
+        "query": "version=1703685742",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-253",
+        "filename": "portrait.png",
+        "query": "version=1703685742",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

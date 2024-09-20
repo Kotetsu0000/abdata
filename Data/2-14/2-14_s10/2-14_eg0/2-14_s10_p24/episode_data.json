@@ -1,0 +1,148 @@
+{
+    "id": "2-14_s10_p24",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 24,
+        "title": "第24話 古城での再会",
+        "content": "リコのペンダントは、不思議なポケモンへと姿を変えた。その正体を求め、リコの祖母・ダイアナの元へと向かったリコたちは、隠された古城で、ついに彼女との再会を果たす。ルシアスの冒険譚、そして不思議なポケモン「テラパゴス」について語るダイアナ。一方その頃、リコたちを追っていたエクスプローラーズのアメジオたちが古城に接近していて…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャオハ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "監督：でんさおり",
+            "クリエイティブディレクター：冨安大貴",
+            "アクションディレクター：矢嶋哲生",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872172,
+    "endAt": 1747407600,
+    "transcodeVersion": "78vfz9",
+    "sharedLink": {
+        "twitter": "https://abema.app/CHvR",
+        "facebook": "https://abema.app/toQN",
+        "google": "https://abema.app/xoHE",
+        "line": "https://abema.app/hpLf",
+        "copy": "https://abema.app/gzKp",
+        "instagram": "https://abema.app/DBhh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.564125,
+        "opening": {
+            "start": 83.62520833333333,
+            "end": 170.795625
+        },
+        "ending": {
+            "start": 1327.7847916666667,
+            "end": 1414.5798333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p25",
+        "title": "第25話 闇夜の強敵",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872172,
+        "endAt": 1747407600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1747407600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1747407600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

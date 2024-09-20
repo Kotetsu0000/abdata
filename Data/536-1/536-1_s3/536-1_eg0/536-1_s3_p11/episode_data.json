@@ -1,0 +1,166 @@
+{
+    "id": "536-1_s3_p11",
+    "series": {
+        "id": "536-1",
+        "title": "呪術廻戦",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-1",
+            "filename": "thumb.png",
+            "query": "version=1709886669",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-1",
+            "filename": "portrait.png",
+            "query": "version=1709886669",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "536-1_s3",
+        "sequence": 3,
+        "name": "第2期 渋谷事変",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1435
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第35話 降霊",
+        "content": "七海、伏黒、猪野と合流した虎杖は、七海から指示を受け、伏黒、猪野と共に「術師を入れない『帳』」を解くことに。虎杖の打撃でもびくともしない『帳』に対し、3人は結界の基をあえて結界外の目立つ場所におくことで強度を上げていることに思い至り、渋谷の街に立つ一際高いタワーを目指す。だがそこには呪詛師達が待ち構えていて―。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "虎杖悠仁：榎木淳弥",
+            "伏黒 恵：内田雄馬",
+            "釘崎野薔薇：瀬戸麻沙美",
+            "五条 悟：中村悠一",
+            "真人：島﨑信長",
+            "夏油 傑：櫻井孝宏",
+            "両面宿儺：諏訪部順一"
+        ],
+        "crews": [
+            "原作：「呪術廻戦」芥見下々（集英社「週刊少年ジャンプ」連載）",
+            "監督：御所園翔太",
+            "シリーズ構成・脚本：瀬古浩司",
+            "キャラクターデザイン：平松禎史・小磯沙矢香",
+            "副監督：愛敬亮太",
+            "美術監督：東 潤一",
+            "色彩設計：松島英子",
+            "CGIプロデューサー：淡輪雄介",
+            "3DCGディレクター：石川大輔（モンスターズエッグ）",
+            "撮影監督：伊藤哲平",
+            "編集：柳 圭介",
+            "音楽：照井順政",
+            "音響監督：えびなやすのり",
+            "音響制作：dugout",
+            "制作：MAPPA"
+        ],
+        "copyrights": [
+            "(C)芥見下々／集英社・呪術廻戦製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704338529,
+    "endAt": 1735657200,
+    "transcodeVersion": "2nPJpH",
+    "sharedLink": {
+        "twitter": "https://abema.app/ER2r",
+        "facebook": "https://abema.app/pgkb",
+        "google": "https://abema.app/16Z9",
+        "line": "https://abema.app/CB5j",
+        "copy": "https://abema.app/3w6S",
+        "instagram": "https://abema.app/sWfs"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/536-1_s3_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/536-1_s3_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/536-1_s3_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.536-1_s3_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.0370416666667,
+        "opening": {
+            "start": 285.03475,
+            "end": 374.9162083333333
+        },
+        "ending": {
+            "start": 1330.0370416666667,
+            "end": 1420.0019166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "536-1_s3_p12",
+        "title": "第36話 鈍刀",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1704338529,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/536-1_s3_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "536-1_eg0"
+}

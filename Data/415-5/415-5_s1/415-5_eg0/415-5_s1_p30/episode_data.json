@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s1_p30",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1473
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 30,
+        "title": "第30話 アリバイ証言殺人事件",
+        "content": "小五郎に高名な弁護士・巽から妻の浮気調査の依頼があった。しかし、その日、自宅で縛り上げられて空の浴槽に押し込まれていた巽の妻の遺体が発見された。死亡推定時刻に小五郎と一緒にいた巽には完璧なアリバイがあるはずだが、コナンは、何か釈然としないものを感じる。全ての推理の出発点は、あのホテルだ。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、柳内一彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066296,
+    "endAt": 1740754800,
+    "transcodeVersion": "K1oGU",
+    "sharedLink": {
+        "twitter": "https://abema.app/XnRr",
+        "facebook": "https://abema.app/dKyt",
+        "google": "https://abema.app/78f8",
+        "line": "https://abema.app/vA7o",
+        "copy": "https://abema.app/QCEf",
+        "instagram": "https://abema.app/2fSe"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p30/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p30/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p30/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s1_p30"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.3259,
+        "opening": {
+            "start": 15.448766666666666,
+            "end": 91.92516666666667
+        },
+        "ending": {
+            "start": 1304.8035,
+            "end": 1395.7944
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s1_p31",
+        "title": "第31話 テレビ局殺人事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066296,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s1_p30/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

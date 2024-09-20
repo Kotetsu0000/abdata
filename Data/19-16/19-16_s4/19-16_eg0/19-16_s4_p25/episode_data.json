@@ -1,0 +1,159 @@
+{
+    "id": "19-16_s4_p25",
+    "series": {
+        "id": "19-16",
+        "title": "ハイキュー!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "thumb.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "portrait.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-16_s4",
+        "sequence": 4,
+        "name": "ハイキュー!! TO THE TOP",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1437
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 25,
+        "title": "第25話 「約束の地」",
+        "content": "稲荷崎との激闘を制し3回戦へと駒を進めた烏野。3回戦の相手は音駒高校。烏野と音駒の積年の夢、因縁の“ゴミ捨て場の決戦”がいよいよ始まる―！！"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "村瀬歩",
+            "石川界人",
+            "日野聡",
+            "入野自由",
+            "林勇",
+            "細谷佳正",
+            "岡本信彦",
+            "内山 昂輝",
+            "斉藤壮馬",
+            "増田俊樹",
+            "名塚佳織",
+            "諸星すみれ",
+            "神谷浩史",
+            "江川央生",
+            "花江夏樹",
+            "宮野真守"
+        ],
+        "crews": [
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載中）",
+            "監督：佐藤雅子",
+            "副監督：石川真理子",
+            "シリーズ構成：岸本卓",
+            "キャラクターデザイン：岸田隆宏",
+            "プロップデザイン：米川麻衣",
+            "総作画監督：小林祐",
+            "アクション作画監督：高橋英樹",
+            "美術監督・設定：立田一郎[スタジオ風雅]",
+            "色彩設計：佐藤真由美",
+            "色彩設計補佐：有澤法子",
+            "撮影監督：中田祐美子",
+            "撮影監督補佐：福井千耀",
+            "3D：岩崎浩平[V-sign]",
+            "2Dワークス：濱中亜希子",
+            "特殊効果：星美弥子",
+            "編集：植松淳一",
+            "音響監督：菊田浩巳",
+            "音楽：林ゆうき・橘麻美",
+            "制作：Production I.G"
+        ],
+        "copyrights": [
+            "(Ｃ)古舘春一／集英社・「ハイキュー!!」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684374729,
+    "endAt": 1738335600,
+    "transcodeVersion": "6VGMfU",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/2dFft",
+        "facebook": "https://gxyt4.app.goo.gl/U1oyK",
+        "google": "https://gxyt4.app.goo.gl/AGjFN",
+        "line": "https://gxyt4.app.goo.gl/bLDfU",
+        "copy": "https://gxyt4.app.goo.gl/bhWKD",
+        "instagram": "https://gxyt4.app.goo.gl/8YfR2"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-16_s4_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-16_s4_p25/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-16_s4_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-16_s4_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1432.002233,
+        "opening": {
+            "start": 74.153754,
+            "end": 161.053755
+        },
+        "ending": {
+            "start": 1209.387847,
+            "end": 1310.362991
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-16_s4_p25/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-16_eg0"
+}

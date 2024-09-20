@@ -1,0 +1,151 @@
+{
+    "id": "25-237_s1_p6",
+    "series": {
+        "id": "25-237",
+        "title": "久保さんは僕を許さない",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "thumb.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "portrait.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-237_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 保健室と主人公",
+        "content": "物を落とした時、落とし主である自分を見つけてもらえない白石くんだったが、ハンカチを落としたその日は、後ろを歩いていた女の子が拾って声をかけてくれた。不思議に思っていると、ひょんなことから彼女が久保さんの従妹・沙貴であり、本屋さんで出会った女性が久保さんの姉・明菜だと知ることになる。一方、ある日の学校での出来事。遅刻していった白石くんは、授業中に教室から出てきた久保さんの様子がどこかおかしいことに気が付いて……？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "久保渚咲：花澤香菜",
+            "白石純太：河西健吾",
+            "久保明菜：伊藤美来",
+            "久保沙貴：雨宮 天",
+            "工藤葉月：加隈亜衣",
+            "平玉緒：竹達彩奈"
+        ],
+        "crews": [
+            "原作：雪森寧々（集英社「週刊ヤングジャンプ」連載）",
+            "監督：古賀一臣",
+            "シリーズ構成・脚本：高橋悠也",
+            "キャラクターデザイン：齊藤佳子",
+            "アニメーション制作：PINE JAM"
+        ],
+        "copyrights": [
+            "(C)雪森寧々／集英社・久保さんは僕を許さない製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1687342267,
+    "endAt": 1751295600,
+    "transcodeVersion": "5CZtCp",
+    "sharedLink": {
+        "twitter": "https://abema.app/kxJg",
+        "facebook": "https://abema.app/LY7W",
+        "google": "https://abema.app/XnUy",
+        "line": "https://abema.app/1Mbe",
+        "copy": "https://abema.app/hZw5",
+        "instagram": "https://abema.app/Dr71"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-237_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-237_s1_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-237_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-237_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.918455,
+        "opening": {
+            "start": 100.113022,
+            "end": 187.013022
+        },
+        "ending": {
+            "start": 1329.918455,
+            "end": 1416.993107
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-237_s1_p7",
+        "title": "第7話 お泊まり会と次の学年",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1687342267,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-237_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "25-237_eg0"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "203-2_s1_p19",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s1",
+        "sequence": 101,
+        "name": "こちら葛飾区亀有公園前派出所",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1540
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 19,
+        "title": "第19話 そば屋再建計画！",
+        "content": "いんちきグルメ評論家のせいでつぶれそうな蕎麦屋を両津が建て直しを図り、評論家を罠にはめる。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382148,
+    "endAt": 1738335600,
+    "transcodeVersion": "6mSbbz",
+    "sharedLink": {
+        "twitter": "https://abema.app/bPq7",
+        "facebook": "https://abema.app/yxNs",
+        "google": "https://abema.app/DDvo",
+        "line": "https://abema.app/a3Mk",
+        "copy": "https://abema.app/756X",
+        "instagram": "https://abema.app/VWMT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-2_s1_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-2_s1_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-2_s1_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s1_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1438.994088,
+        "opening": {
+            "end": 83.940488
+        },
+        "ending": {
+            "start": 1459.014088,
+            "end": 1540.062492
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s1_p20",
+        "title": "第20話 両津式テスト必勝法",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382148,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s1_p19/timeline",
+        "query": "version=6mSbbz",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

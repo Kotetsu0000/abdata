@@ -1,0 +1,141 @@
+{
+    "id": "115-44_s1_p5",
+    "series": {
+        "id": "115-44",
+        "title": "kiss×sis",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "thumb.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "portrait.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-44_s1",
+        "sequence": 1,
+        "name": "Kiss×sis",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 ゴメンナサイ！",
+        "content": "圭太のふりあげた手が、またも偶然通りかかった三国の胸にあたってしまった。あことりこは平手打ちを食らい帰宅した圭太を心配するが、圭太は理由を言えるわけもなく、そっけない返事をするばかり。そんな圭太の様子をみたあことりこは「ラッキースケベ（事故）があったのかも」と推測する。翌日、圭太は自習しようと図書室に向かうと、カウンターには三国の姿が。昨日のことを謝ろうとタイミングをうかがうが、三国は三国でエロ大魔王と噂のある圭太を警戒していた。スキを見てトイレに立つ三国だったが、生徒手帳を落としてしまう。それに気づいた圭太が追いかけるが、三国は走って逃げていく。追いかけっこが始まったその時、傘を届けにあことりこが圭太の中学校に到着する。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "住之江あこ：竹達彩奈",
+            "住之江りこ：巽悠衣子",
+            "住之江圭太：武内健",
+            "三国美春：永田依子",
+            "桐生夕月：今井麻美",
+            "桐生三日月：大亀あすか"
+        ],
+        "crews": [
+            "原作：ぢたま某",
+            "企画：森山敦",
+            "監督：名和宗則",
+            "シリーズ構成：長谷川勝己",
+            "キャラクターデザイン：下谷智之"
+        ],
+        "copyrights": [
+            "（Ｃ）ぢたま某・講談社／kiss×sis製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1716522749,
+    "endAt": 1751295600,
+    "transcodeVersion": "LL2n6",
+    "sharedLink": {
+        "twitter": "https://abema.app/HMEP",
+        "facebook": "https://abema.app/39pw",
+        "google": "https://abema.app/6oh6",
+        "line": "https://abema.app/ZsrD",
+        "copy": "https://abema.app/v6D1",
+        "instagram": "https://abema.app/JZLq"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-44_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-44_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-44_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-44_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.9853333333333,
+        "opening": {
+            "start": 119.08563333333333,
+            "end": 208.97543333333334
+        },
+        "ending": {
+            "start": 1319.9853333333333,
+            "end": 1409.9418666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-44_s1_p6",
+        "title": "第6話 胸騒ぎのアキバ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1716522749,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-44_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "115-44_eg0"
+}

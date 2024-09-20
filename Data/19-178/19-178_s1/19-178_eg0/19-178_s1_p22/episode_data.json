@@ -1,0 +1,151 @@
+{
+    "id": "19-178_s1_p22",
+    "series": {
+        "id": "19-178",
+        "title": "アマガミSS",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-178",
+            "filename": "thumb.png",
+            "query": "version=1702607248",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-178",
+            "filename": "portrait.png",
+            "query": "version=1702607248",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-178_s1",
+        "sequence": 1,
+        "name": "アマガミSS",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 22,
+        "title": "第22話 ウラガワ",
+        "content": "ある日の放課後、純一は偶然に詞の秘密を知ってしまう。そのことをだまっているように念を押された純一だったが、次の日から詞に実行委員の仕事を大量に任されるはめになってしまう。疲労のたまっていく純一だったが、それ以上に働く詞が倒れてしまって…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "前野智昭",
+            "名塚佳織",
+            "新谷良子",
+            "佐藤利奈",
+            "今野宏美",
+            "ゆかな",
+            "伊藤 静",
+            "阿澄佳奈",
+            "寺島拓篤"
+        ],
+        "crews": [
+            "監督：平池芳正",
+            "脚本：高島大輔.平池芳正",
+            "音楽：大森俊之"
+        ],
+        "copyrights": [
+            "(Ｃ)KADOKAWA CORPORATION ENTERBRAIN.",
+            "アマガミSS製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701487858,
+    "endAt": 1735657200,
+    "transcodeVersion": "5sgNU",
+    "sharedLink": {
+        "twitter": "https://abema.app/3UCM",
+        "facebook": "https://abema.app/hSnw",
+        "google": "https://abema.app/oCic",
+        "line": "https://abema.app/UWpe",
+        "copy": "https://abema.app/mhNy",
+        "instagram": "https://abema.app/qfvT"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-178_s1_p22/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-178_s1_p22/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-178_s1_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-178_s1_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0720666666666,
+        "opening": {
+            "start": 47.2472,
+            "end": 133.86706666666666
+        },
+        "ending": {
+            "start": 1340.1054333333334,
+            "end": 1427.0589666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-178_s1_p23",
+        "title": "第23話 プライド",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1701487900,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-178_s1_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-178_eg0"
+}

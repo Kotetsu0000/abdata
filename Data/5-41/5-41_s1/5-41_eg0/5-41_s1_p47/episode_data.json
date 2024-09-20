@@ -1,0 +1,143 @@
+{
+    "id": "5-41_s1_p47",
+    "series": {
+        "id": "5-41",
+        "title": "逃走中 グレートミッション",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-41",
+            "filename": "thumb.png",
+            "query": "version=1680170528",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-41",
+            "filename": "portrait.png",
+            "query": "version=1680170528",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-41_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1400
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 47,
+        "title": "Mission47 新ハンター起動！波乱の新ステージ",
+        "content": "新ステージに挑む颯也たちだが、システムが何者かにハッキングされてしまい、月村の判断で強制終了となる。復旧を急ぐクロノス社の面々、そんな彼らの前に現れたのは…"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "トムラ 颯也：森久保 祥太郎",
+            "トムラ ハル：小林 由美子",
+            "西洞院 ルナ：井上 麻里奈",
+            "モーリス・シューメーカー：置鮎 龍太郎",
+            "月村　サトシ：浪川 大輔",
+            "ハーヴェスト：嶋村 侑"
+        ],
+        "crews": [
+            "原案：『逃走中』（フジテレビ）",
+            "キャラクター原案：岡野 剛",
+            "シリーズ構成：中山 智博",
+            "シリーズディレクター：貝澤 幸男・暮田 公平",
+            "キャラクターデザイン：大西 陽一",
+            "美術監督：神 綾香・秋山 健太郎",
+            "美術設定：福田 健二",
+            "3D ステージデザイン：田村 正平",
+            "音楽：中川幸太郎",
+            "製作：フジテレビ・読売広告社・東映アニメーション"
+        ],
+        "copyrights": [
+            "（C)フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035522,
+    "endAt": 1743433200,
+    "transcodeVersion": "2tJiwf",
+    "sharedLink": {
+        "twitter": "https://abema.app/4Stv",
+        "facebook": "https://abema.app/j5Wc",
+        "google": "https://abema.app/eoSa",
+        "line": "https://abema.app/NGtP",
+        "copy": "https://abema.app/1QbW",
+        "instagram": "https://abema.app/Rbq4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-41_s1_p47/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-41_s1_p47/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-41_s1_p47/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-41_s1_p47"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.05875,
+        "opening": {
+            "start": 15.26525,
+            "end": 100.05829166666666
+        },
+        "ending": {
+            "start": 1310.05875,
+            "end": 1370.0770416666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-41_s1_p48",
+        "title": "Mission48 ラビの決意！逃走中を取り戻せ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726035522,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-41_s1_p47/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "5-41_eg0"
+}

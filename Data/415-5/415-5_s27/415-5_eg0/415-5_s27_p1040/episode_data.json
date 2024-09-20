@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s27_p1040",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s27",
+        "sequence": 27,
+        "name": "season27",
+        "thumbComponent": {},
+        "order": 27
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1040,
+        "title": "第1040話 歩美の絵日記事件簿２",
+        "content": "阿笠博士の車でドライブをしていた、コナン、歩美、光彦、元太。その帰り道に通りかかったビルの三階、事務所の電灯が不自然に点滅していた。モールス信号で『ＳＯＳ』を読み取ったコナンたちは、その事務所に向かう。そこには拘束されたバイク便ライダーの男がいた。彼はここに爆弾が仕掛けられていると言い、コナンたちは慌てて逃げ出す。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：永井幸治・寺島清晃",
+            "プロデューサー：汐口武史・藤堂真孝",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "（C）青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725861223,
+    "endAt": 1773500400,
+    "transcodeVersion": "puJxz",
+    "sharedLink": {
+        "twitter": "https://abema.app/dzka",
+        "facebook": "https://abema.app/MUv4",
+        "google": "https://abema.app/zDYq",
+        "line": "https://abema.app/Y9mw",
+        "copy": "https://abema.app/2wmR",
+        "instagram": "https://abema.app/DWve"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s27_p1040/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s27_p1040/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s27_p1040/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s27_p1040"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667,
+        "opening": {
+            "start": 57.974583333333335,
+            "end": 158.99216666666666
+        },
+        "ending": {
+            "start": 1313.0200416666667,
+            "end": 1392.9749166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s27_p1041",
+        "title": "第1041話 言えないアリバイ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1725861223,
+        "endAt": 1773500400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1773500400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s27_p1040/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1773500400
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

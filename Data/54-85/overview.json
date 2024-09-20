@@ -1,0 +1,96 @@
+{
+    "id": "54-85",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "シルバニアファミリー",
+    "content": "緑の山と深い森をいくつも超えたその先に、\nあたたかく幸せな世界が広がっています。\nそう、ここはシルバニア村。\n\nショコラウサギの女の子「フレア」は\n明るくて想像力が豊かで、絵を描くのが大好き。\nペルシャネコの女の子「ライラ」は機械いじりが得意で\n普段は冷静沈着だけど、集中すると周りが見えなくなる。\nくるみリスの男の子「ラルフ」は\n忍者に憧れていて、活発で弟想い。\n\n3人を中心に、シルバニア村の仲間たちで繰り広げられる\n幸せな世界に起きる小さな事件の数々を描いたシリーズです。",
+    "seasons": [
+        {
+            "id": "54-85_s2",
+            "sequence": 2,
+            "name": "フレアのゴー・フォー・ドリーム！",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-85_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1689077895",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-85_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "54-85_s1",
+            "sequence": 1,
+            "name": "フレアのハッピーダイアリー",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-85_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1689077860",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-85_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "54-85_eg2",
+                    "name": "特別編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C) EPOCH"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1726024074735044747",
+    "imageUpdatedAt": 1689077909,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZAxm",
+        "facebook": "https://abema.app/weQp",
+        "google": "https://abema.app/5znZ",
+        "line": "https://abema.app/HafN",
+        "copy": "https://abema.app/KFep",
+        "instagram": "https://abema.app/oMZM"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-85",
+        "filename": "thumb.png",
+        "query": "version=1689077909",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-85",
+        "filename": "portrait.png",
+        "query": "version=1689077909",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

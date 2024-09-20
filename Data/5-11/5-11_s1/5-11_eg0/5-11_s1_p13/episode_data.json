@@ -1,0 +1,148 @@
+{
+    "id": "5-11_s1_p13",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 悲報島殺人事件 ファイル1",
+        "content": "はじめと美雪は、悲報島の財宝を探すツアーに参加。二人は島へ向かう船中で、碧という女性と知り合う。一同を島で待っていたのは、碧の父・美作の惨殺死体だった。ところが参加者たちは、悲しむ碧に構わずに財宝探しを始めてしまう。憤慨するはじめと美雪は、執事から招待客の数が一人多いと聞かされて嫌な予感を覚える。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833280,
+    "endAt": 1732978800,
+    "transcodeVersion": "6zAyQh",
+    "sharedLink": {
+        "twitter": "https://abema.app/tmNj",
+        "facebook": "https://abema.app/iGMs",
+        "google": "https://abema.app/jsPz",
+        "line": "https://abema.app/ttgU",
+        "copy": "https://abema.app/kx4f",
+        "instagram": "https://abema.app/iv2Y"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-11_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-11_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-11_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1308.930822,
+        "opening": {
+            "start": 8.364888,
+            "end": 100.123222
+        },
+        "ending": {
+            "start": 1308.930822,
+            "end": 1409.730822
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p14",
+        "title": "第14話 悲報島殺人事件 ファイル2",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833280,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p13/timeline",
+        "query": "version=6zAyQh",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

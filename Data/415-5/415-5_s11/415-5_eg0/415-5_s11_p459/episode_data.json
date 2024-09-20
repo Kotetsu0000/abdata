@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s11_p459",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s11",
+        "sequence": 11,
+        "name": "season11",
+        "thumbComponent": {},
+        "order": 11
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 459,
+        "title": "第459話 怪人ガチガチ規則男",
+        "content": "コナンら少年探偵団は同級生の千春からアパートにゴミの出し方に物凄く厳しい岩田巌という人がいると教えられ、彼を見学する事に。元太は岩田が周りに恨まれないかと心配する。そして、3日後に殺人事件が起きてしまう。岩田が以前住んでいたマンションの管理人の話を聞いたコナンは、偶発的な事件ではないと推理し…。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明、北田修一",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066306,
+    "endAt": 1740754800,
+    "transcodeVersion": "6T3c36",
+    "sharedLink": {
+        "twitter": "https://abema.app/wCnV",
+        "facebook": "https://abema.app/5xji",
+        "google": "https://abema.app/kwk9",
+        "line": "https://abema.app/XEjM",
+        "copy": "https://abema.app/QfU1",
+        "instagram": "https://abema.app/m72m"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s11_p459/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s11_p459/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s11_p459/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s11_p459"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.9922333333334,
+        "opening": {
+            "start": 14.6146,
+            "end": 101.96853333333334
+        },
+        "ending": {
+            "start": 1322.0874333333334,
+            "end": 1407.0389666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s12_p460",
+        "title": "第460話 1年Ｂ組大作戦！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066306,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s11_p459/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

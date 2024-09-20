@@ -1,0 +1,167 @@
+{
+    "id": "210-12_s1_p3",
+    "series": {
+        "id": "210-12",
+        "title": "ブルーアーカイブ The Animation",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-12",
+            "filename": "thumb.png",
+            "query": "version=1711871607",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-12",
+            "filename": "portrait.png",
+            "query": "version=1711871607",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-12_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_14",
+                "name": "戦争・ミリタリー"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 便利屋68にお任せください!",
+        "content": "目の前の問題を解決するも、あまりに巨大な借金の額にため息をつく対策委員会と先生。\n解決策も思い浮かばずラーメン屋へと入った一同は、アウトロー集団「便利屋68」を名乗る少女たちと意気投合する。\nしかしその翌日、その「便利屋68」がアビドス高等学校を襲撃し始め……！？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "砂狼シロコ：小倉唯",
+            "小鳥遊ホシノ：花守ゆみり",
+            "黒見セリカ：大橋彩香",
+            "十六夜ノノミ：三浦千幸",
+            "奥空アヤネ：原田彩楓",
+            "アロナ：小原好美"
+        ],
+        "crews": [
+            "監督:山岸大悟",
+            "脚本:大野木寛",
+            "山岸大悟",
+            "原作者:NEXON Games"
+        ],
+        "copyrights": [
+            "（c） NEXON Games／アビドス商店街"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1719224697,
+    "endAt": 1798729200,
+    "freeEndAt": 1726722000,
+    "transcodeVersion": "3G6CF2",
+    "sharedLink": {
+        "twitter": "https://abema.app/s5K2",
+        "facebook": "https://abema.app/dqEE",
+        "google": "https://abema.app/7scG",
+        "line": "https://abema.app/XZ2y",
+        "copy": "https://abema.app/7JUD",
+        "instagram": "https://abema.app/UTCN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/210-12_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/210-12_s1_p3/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/210-12_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/210-12_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-12_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1416.039625,
+        "opening": {
+            "start": 31.5315,
+            "end": 121.45466666666667
+        },
+        "ending": {
+            "start": 1303.7607916666666,
+            "end": 1393.4754166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-12_s1_p4",
+        "title": "第4話 覆面水着団☆",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719224697,
+        "endAt": 1798729200,
+        "freeEndAt": 1726722000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726722000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-12_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726722000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1798729200
+        }
+    ],
+    "episodeGroupId": "210-12_eg0"
+}

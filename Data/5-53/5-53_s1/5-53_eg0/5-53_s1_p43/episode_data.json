@@ -1,0 +1,141 @@
+{
+    "id": "5-53_s1_p43",
+    "series": {
+        "id": "5-53",
+        "title": "スマイルプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "thumb.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "portrait.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 43,
+        "title": "第43話 れいかの道！ 私、留学します!!",
+        "content": "れいかちゃんが、イギリス留学の選抜メンバーに選ばれたの。でも、プリキュアのことがあって迷っているみたい。れいかちゃんのために、私たちが笑って送り出してあげなきゃ！　離ればなれになっちゃうのは、すごく寂しいけど…。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "キュアハッピー/星空みゆき：福圓美里",
+            "キュアサニー/日野あかね：田野アサミ",
+            "キュアピース/黄瀬やよい：金元寿子",
+            "キュアマーチ/緑川なお：井上麻里奈",
+            "キュアビューティ/青木れいか：西村ちなみ",
+            "キャンディ：大谷育江"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、清水慎治",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔、長谷川昌也",
+            "シリーズディレクター：大塚隆史",
+            "シリーズ構成：米村正二",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：川村敏江"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721626375,
+    "endAt": 1740754800,
+    "transcodeVersion": "6Z3BQd",
+    "sharedLink": {
+        "twitter": "https://abema.app/Uoku",
+        "facebook": "https://abema.app/7ubt",
+        "google": "https://abema.app/4dYL",
+        "line": "https://abema.app/wtJW",
+        "copy": "https://abema.app/R1qt",
+        "instagram": "https://abema.app/TFdJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-53_s1_p43/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-53_s1_p43/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-53_s1_p43/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-53_s1_p43"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0387,
+        "opening": {
+            "start": 48.048,
+            "end": 133.06626666666668
+        },
+        "ending": {
+            "start": 1340.0387,
+            "end": 1430.0619666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-53_s1_p44",
+        "title": "第44話 笑顔のひみつ！ みゆきと本当のウルトラハッピー!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721626382,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-53_s1_p43/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-53_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p98",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 98,
+        "title": "第98話 ｢ゆれる南斗の都！遂に北斗２兄弟がやってきた！！」",
+        "content": "北斗神拳２０００年の歴史を打ち破った男、ラオウ。ラオウとケンシロウの争いは、継承者がケンシロウに決まった日から始まった。最後の将の城で、海のリハクが娘のトウにケンシロウとラオウ、そして北斗神拳の歴史を語る･･･。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756427,
+    "endAt": 1732978800,
+    "transcodeVersion": "43CmRV",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/nwbzj",
+        "facebook": "https://gxyt4.app.goo.gl/yyF9Q",
+        "google": "https://gxyt4.app.goo.gl/hKdWn",
+        "line": "https://gxyt4.app.goo.gl/FFy74",
+        "copy": "https://gxyt4.app.goo.gl/FETRB",
+        "instagram": "https://gxyt4.app.goo.gl/tD1Ht"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p98/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p98/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p98/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p98"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.085288,
+        "opening": {
+            "start": 50.670822,
+            "end": 114.504355
+        },
+        "ending": {
+            "start": 1330.085288,
+            "end": 1429.985088
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p99",
+        "title": "第99話 ｢悲しき五車星！お前は愛と宿命をひきずる女！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756427,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p98/timeline",
+        "query": "version=43CmRV",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

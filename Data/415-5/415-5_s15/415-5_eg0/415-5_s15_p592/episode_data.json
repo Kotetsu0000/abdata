@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s15_p592",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s15",
+        "sequence": 15,
+        "name": "season15",
+        "thumbComponent": {},
+        "order": 15
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1476
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 592,
+        "title": "第592話 猿と熊手のトリ物帖（前編）",
+        "content": "二の酉にやってきたコナン、小五郎、蘭、園子。この時、園子はバックを奪われてしまう。このひったくり犯はトリ男と呼ばれ、一の酉でも犯行に及んだという。そして三の酉に行くと、再びトリ男が現れる。トリ男は浪人生の益子を刺した後、公園のトイレに逃げ込んだところで包囲される。だが、出てきた容疑者は３人もいた…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066309,
+    "endAt": 1740754800,
+    "transcodeVersion": "2mZfoR",
+    "sharedLink": {
+        "twitter": "https://abema.app/kHrv",
+        "facebook": "https://abema.app/KdrZ",
+        "google": "https://abema.app/hwRS",
+        "line": "https://abema.app/b6bB",
+        "copy": "https://abema.app/eHQE",
+        "instagram": "https://abema.app/onkP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s15_p592/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s15_p592/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s15_p592/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s15_p592"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.3823666666667,
+        "opening": {
+            "start": 97.2972,
+            "end": 169.33583333333334
+        },
+        "ending": {
+            "start": 1350.3823666666667,
+            "end": 1430.3289
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s15_p593",
+        "title": "第593話 猿と熊手のトリ物帖（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066309,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s15_p592/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

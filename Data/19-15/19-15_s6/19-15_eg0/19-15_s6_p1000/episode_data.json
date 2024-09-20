@@ -1,0 +1,149 @@
+{
+    "id": "19-15_s6_p1000",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1400
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1000,
+        "title": "『僕のヒーローアカデミア』オリジナルアニメ「雄英ヒーローズ・バトル」",
+        "content": "冬休み。寮からの外出禁止でヒマを持て余す1年A組たちのもとへ3年の通形ミリオがやってくる。\n彼が持ち込んだのは、サポート課が制作したカードゲーム「雄英ヒーローズ・バトル」！\nA組メンバーは早速遊び始めるが、雄英生それぞれのカードを駆使して戦うこのゲームは、雄英らしく一筋縄ではいかないものだった…！\n果たして、カードバトルの勝者は…!?"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872427,
+    "endAt": 1759244400,
+    "transcodeVersion": "62vUFC",
+    "sharedLink": {
+        "twitter": "https://abema.app/vKwY",
+        "facebook": "https://abema.app/UjxJ",
+        "google": "https://abema.app/Q9NS",
+        "line": "https://abema.app/9mEA",
+        "copy": "https://abema.app/7vZd",
+        "instagram": "https://abema.app/HF8w"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p1000/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p1000/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p1000/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p1000"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.1421666666668,
+        "opening": {
+            "start": 86.00258333333333,
+            "end": 176.00916666666666
+        },
+        "ending": {
+            "start": 1310.1421666666668,
+            "end": 1400.0653333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s7_p11",
+        "title": "Memories 第1話「緑谷出久：Mind」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725872427,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p1000/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

@@ -1,0 +1,78 @@
+{
+    "id": "413-12",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "異世界ゆるり紀行 ～子育てしながら冒険者します～",
+    "content": "神様のミスによって命を落とし、転生した茅野巧。\n様々なスキルを授かり異世界に送られると、そこは魔物が蠢く危険な森の中だった。\n\nタクミはその森で双子と思しき幼い男女の子供を発見し、アレン、エレナと名づけて保護する。格闘術で魔物を楽々倒す二人に驚きながらも、街に辿り着いたタクミは生計を立てるために冒険者ギルドに登録。\n\nアレンとエレナの成長を見守りながらの、のんびり冒険者生活がスタート！",
+    "seasons": [
+        {
+            "id": "413-12_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/413-12_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1721295440",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "413-12_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "413-12_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)水無月静琉・アルファポリス／異世界ゆるり紀行製作委員会"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1726129535205698080",
+    "imageUpdatedAt": 1721295603,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/1a5q",
+        "facebook": "https://abema.app/pLXj",
+        "google": "https://abema.app/Vo9t",
+        "line": "https://abema.app/ASge",
+        "copy": "https://abema.app/EPzS",
+        "instagram": "https://abema.app/CpSU"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-12",
+        "filename": "thumb.png",
+        "query": "version=1721295603",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-12",
+        "filename": "portrait.png",
+        "query": "version=1721295603",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,145 @@
+{
+    "id": "13-11_s0_p35",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s3",
+        "sequence": 3,
+        "name": "3年目",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 35,
+        "title": "第134話 幽霊ネタやる時は慎重に",
+        "content": "タゴサクを自らの肉体に憑依させて閣下と化したお岩。彼女は怒りと悲しみに満ちた怒涛の攻撃で銀時を追い込んでいく。しかし間一髪、銀時もスタンドを憑依させて自らも閣下化することに成功。荒廃した幽霊宿を潰すため、全身全霊を賭してお岩に立ち向かう…！"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296389,
+    "endAt": 1746025200,
+    "transcodeVersion": "sq5GS",
+    "sharedLink": {
+        "twitter": "https://abema.app/zvWE",
+        "facebook": "https://abema.app/RGf4",
+        "google": "https://abema.app/FTcs",
+        "line": "https://abema.app/5jHN",
+        "copy": "https://abema.app/oat5",
+        "instagram": "https://abema.app/qBga"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p35/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p35/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-11_s0_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.477166,
+        "opening": {
+            "start": 92.099992,
+            "end": 182.099992
+        },
+        "ending": {
+            "start": 1290.537114,
+            "end": 1454.87863
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p36",
+        "title": "第135話 地球の前に、もっと危ない「ギンタマン」の未来を考えろ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296389,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-11_s0_p35/timeline",
+        "query": "version=sq5GS",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

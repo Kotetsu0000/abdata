@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s25_p967",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s25",
+        "sequence": 25,
+        "name": "season25",
+        "thumbComponent": {},
+        "order": 25
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 967,
+        "title": "第967話 大怪獣ゴメラvs仮面ヤイバー（急）",
+        "content": "爆弾を使って米倉の命を狙い、恩田、末村を殺害した容疑者として石澤が浮上する。大滝警部たちは石澤の自宅へ踏み込み、後ろ手を縛られ、後頭部から出血した石澤を発見。自宅から爆弾は見つからなかった。コナンは監禁されていた石澤の自宅を調べ、平次は京都で恩田の事を調査。灰原は3人の共通点を調べる。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066320,
+    "endAt": 1740754800,
+    "transcodeVersion": "25RTPa",
+    "sharedLink": {
+        "twitter": "https://abema.app/5HuF",
+        "facebook": "https://abema.app/JQYJ",
+        "google": "https://abema.app/qQ6L",
+        "line": "https://abema.app/wbtw",
+        "copy": "https://abema.app/r6XE",
+        "instagram": "https://abema.app/BEpK"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s25_p967/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s25_p967/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s25_p967/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s25_p967"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0903333333333,
+        "opening": {
+            "start": 71.86345833333333,
+            "end": 169.00216666666665
+        },
+        "ending": {
+            "start": 1276.149875,
+            "end": 1356.0630416666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s25_p968",
+        "title": "第968話 大怪獣ゴメラvs仮面ヤイバー（結）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066320,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s25_p967/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

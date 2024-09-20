@@ -1,0 +1,148 @@
+{
+    "id": "2-6cttrbwmkim_s5_p18",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s5",
+        "sequence": 5,
+        "name": "第5シリーズ",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 18,
+        "title": "第18話 約束の場所へ",
+        "content": "ギブソンが倒れたとの知らせを聞いて病院に駆けつけた吾郎に、ジュニアは「親父が会いたがっている」と伝える。吾郎とギブソンは、数年ぶりに直接話をすることに。弱気なギブソンを見て、驚く吾郎。その吾郎に、ギブソンは「自分が今まで投げ続けてきた理由」を話すのだった。\nそして、いよいよ決勝の日の朝がきた…！"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "佐藤寿也：森田成一",
+            "京四郎：内田夕夜",
+            "板尾：乃村健次",
+            "勝呂：松本保典"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理敬　吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "39LEmw",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Fnc1Y",
+        "facebook": "https://gxyt4.app.goo.gl/VJm8e",
+        "google": "https://gxyt4.app.goo.gl/weq2E",
+        "line": "https://gxyt4.app.goo.gl/Hf3Mk",
+        "copy": "https://gxyt4.app.goo.gl/4CpYr",
+        "instagram": "https://gxyt4.app.goo.gl/tmjR1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p18/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p18/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-6cttrbwmkim_s5_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 1.502397,
+            "end": 89.669833
+        },
+        "ending": {
+            "start": 1366.442482,
+            "end": 1454.522756
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-6cttrbwmkim_s5_p19",
+        "title": "第19話 ピッチングの原点",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-6cttrbwmkim_s5_p18/timeline",
+        "query": "version=39LEmw",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p85",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 85,
+        "title": "第85話 ｢死闘への序幕！風の男ヒューイの叫びが天にこだます！！」",
+        "content": "拳王をおびき出すため各地で拳王侵攻隊を撃破する風の旅団。そして拳王の本隊が動き出した。ラオウの前に現われたヒューイの勤めはラオウの力を見極める事。ラオウは「五車風裂拳」を繰り出すヒューイに強烈な一撃を放った！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "2RGGiw",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/bNpNE",
+        "facebook": "https://gxyt4.app.goo.gl/7tU89",
+        "google": "https://gxyt4.app.goo.gl/CLs46",
+        "line": "https://gxyt4.app.goo.gl/5cktD",
+        "copy": "https://gxyt4.app.goo.gl/QhhTN",
+        "instagram": "https://gxyt4.app.goo.gl/kiGFm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p85/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p85/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p85/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p85"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.618155,
+        "opening": {
+            "start": 50.537355,
+            "end": 114.370888
+        },
+        "ending": {
+            "start": 1329.618155,
+            "end": 1429.517955
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p86",
+        "title": "第86話 ｢燃える真紅の軍団！炎の涙がシュレンをぬらす！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p85/timeline",
+        "query": "version=2RGGiw",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

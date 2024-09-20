@@ -1,0 +1,150 @@
+{
+    "id": "35-30_s1_p23",
+    "series": {
+        "id": "35-30",
+        "title": "笑ゥせぇるすまん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "thumb.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "portrait.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-30_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 600
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 家の灯",
+        "content": "仕事が終わってもまっすぐ家に帰りたがらないサラリーマン・加江利宅内（46）。妻と子供に自宅を占領され、自分の居場所がないという。喪黒は加江利のため、マンションの一室を提供するが…。"
+    },
+    "credit": {
+        "released": 1990,
+        "casts": [
+            "喪黒福造：大平透"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "監修：鈴木伸一",
+            "総監督：クニトシロウ",
+            "監督：米谷良知",
+            "脚本：梅野かおる",
+            "作画監督：岡迫亘弘",
+            "美術監督：宮野隆",
+            "撮影監督：山田廣明",
+            "録音監督：大熊昭",
+            "音楽：田中公平"
+        ],
+        "copyrights": [
+            "(C)藤子A／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683007465,
+    "endAt": 1756652400,
+    "freeEndAt": 1726832100,
+    "transcodeVersion": "qmk96",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/EXW5r",
+        "facebook": "https://gxyt4.app.goo.gl/Ekvha",
+        "google": "https://gxyt4.app.goo.gl/ZqLFd",
+        "line": "https://gxyt4.app.goo.gl/N5Kiv",
+        "copy": "https://gxyt4.app.goo.gl/AS9S7",
+        "instagram": "https://gxyt4.app.goo.gl/YGmkc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-30_s1_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-30_s1_p23/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-30_s1_p23/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-30_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-30_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 595.657,
+        "opening": {
+            "end": 19.142322
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-30_s1_p24",
+        "title": "第24話 後部座席の男",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1683007465,
+        "endAt": 1756652400,
+        "freeEndAt": 1726832100,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726832100
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-30_s1_p23/timeline",
+        "query": "version=qmk96",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726832100
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-30_eg0"
+}

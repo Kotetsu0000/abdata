@@ -1,0 +1,161 @@
+{
+    "id": "19-86_s1_p3",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "【MISSION：3】受験対策をせよ",
+        "content": "ロイドとアーニャの家にヨルが引っ越してきた。家族の体裁が整い、次は面接試験の準備だ。しかし今のアーニャとヨルでは、まともな面接すらできそうにない。そう判断したロイドは、上流家庭の一般常識や3人の間で共通認識を作るため家族で出かけることに。劇場や美術館を巡るが、アーニャたちにはなかなか響かない。さすがの〈黄昏(たそがれ)〉も挫けそうになるが…"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "freeEndAt": 1726761600,
+    "transcodeVersion": "pSjom",
+    "sharedLink": {
+        "twitter": "https://abema.app/y4ba",
+        "facebook": "https://abema.app/BfQh",
+        "google": "https://abema.app/My2E",
+        "line": "https://abema.app/Mav8",
+        "copy": "https://abema.app/jXar",
+        "instagram": "https://abema.app/enma"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p3/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-86_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.080266,
+        "opening": {
+            "start": 80.051183,
+            "end": 167.026388
+        },
+        "ending": {
+            "start": 1350.103433,
+            "end": 1437.003433
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p4",
+        "title": "【MISSION：4】名門校面接試験",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "freeEndAt": 1726761600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726761600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p3/6/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726761600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

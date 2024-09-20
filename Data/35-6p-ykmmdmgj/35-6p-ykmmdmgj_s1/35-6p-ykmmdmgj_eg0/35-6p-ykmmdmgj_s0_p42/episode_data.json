@@ -1,0 +1,154 @@
+{
+    "id": "35-6p-ykmmdmgj_s0_p42",
+    "series": {
+        "id": "35-6p-ykmmdmgj",
+        "title": "怪物くん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-6p-ykmmdmgj",
+            "filename": "thumb.png",
+            "query": "version=1686708103",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-6p-ykmmdmgj",
+            "filename": "portrait.png",
+            "query": "version=1686708103",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-6p-ykmmdmgj_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1299
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 42,
+        "title": "第42話 やく病神がやってきた 他",
+        "content": "『やく病神がやってきた』…怪物屋敷に疫病神がやってきて、次々と皆に災難がふりかかる。 事情を知ったヒロシは、福の神をつれてきた。疫病神の弱点は福の神だったのだ。 疫病神は、福の神にはかなわなかった。"
+    },
+    "credit": {
+        "released": 1980,
+        "casts": [
+            "怪物くん：野沢雅子",
+            "ドラキュラ：肝付兼太",
+            "オオカミ男：神山卓三",
+            "フランケン：相模太郎・兼本新吾",
+            "ヒロシ：三輪勝恵",
+            "お姉さん：川島千代子",
+            "怪子ちゃん：増山江威子",
+            "アコちゃん：潘恵子",
+            "キザオ：はせさん治",
+            "番野：山下啓介、鈴木清信"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "演出：福富博",
+            "作画監督：本多敏行、鈴木信一、木上益次",
+            "美術監督：川井憲",
+            "美術設定：川本征平",
+            "基本設定：芝山努",
+            "文芸：松岡清治",
+            "撮影監督：小山信夫、金子仁",
+            "音楽：筒井広志",
+            "録音監督：浦上靖夫"
+        ],
+        "copyrights": [
+            "(C)藤子スタジオ／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1697193007,
+    "endAt": 1756652400,
+    "freeEndAt": 1726505100,
+    "transcodeVersion": "4q1fa6",
+    "sharedLink": {
+        "twitter": "https://abema.app/1sjX",
+        "facebook": "https://abema.app/pnsK",
+        "google": "https://abema.app/s5bk",
+        "line": "https://abema.app/6NUE",
+        "copy": "https://abema.app/h6z1",
+        "instagram": "https://abema.app/83tA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-6p-ykmmdmgj_s0_p42/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-6p-ykmmdmgj_s0_p42/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-6p-ykmmdmgj_s0_p42/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-6p-ykmmdmgj_s0_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-6p-ykmmdmgj_s0_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 1294.29
+    },
+    "nextProgramInfo": {
+        "programId": "35-6p-ykmmdmgj_s0_p43",
+        "title": "第43話 家つき怪物マイホ・ムー 他",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1697193007,
+        "endAt": 1756652400,
+        "freeEndAt": 1726505100,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726505100
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-6p-ykmmdmgj_s0_p42/timeline",
+        "query": "version=4q1fa6",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726505100
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1726879500
+        }
+    ],
+    "episodeGroupId": "35-6p-ykmmdmgj_eg0"
+}

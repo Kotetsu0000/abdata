@@ -1,0 +1,158 @@
+{
+    "id": "26-2mzbynr-cph_s100_p1",
+    "series": {
+        "id": "26-2mzbynr-cph",
+        "title": "〈物語〉シリーズ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "thumb.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "portrait.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-2mzbynr-cph_s100",
+        "sequence": 100,
+        "name": "オフ＆モンスターシーズン",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1919
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "#01 愚物語 つきひアンドゥ",
+        "content": "阿良々木月火を監視するため、阿良々木家に潜入している斧乃木余接。月火が学校に行っている間、のびのびと過ごしている余接だったが、突然帰ってきた月火に動いている姿を目撃されてしまった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "戦場ヶ原ひたぎ：斎藤千和",
+            "八九寺真宵：加藤英美里",
+            "神原駿河：沢城みゆき",
+            "千石撫子：花澤香菜",
+            "阿良々木月火：井口裕香",
+            "忍野扇：水橋かおり",
+            "老倉育：井上麻里奈",
+            "斧乃木余接：早見沙織",
+            "忍野忍：坂本真綾"
+        ],
+        "crews": [
+            "脚本：大嶋実句",
+            "絵コンテ：吉澤 翠・安食 圭",
+            "演出：宮本幸裕",
+            "作画監督：杉山延寛・山村洋貴・潮月一也・伊藤良明・高野晃久・宮嶋仁志・浅井昭人・高橋みき・宮井加奈"
+        ],
+        "copyrights": [
+            "(C)西尾維新／講談社・アニプレックス・シャフト"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725262972,
+    "endAt": 1909494000,
+    "freeEndAt": 1909494000,
+    "transcodeVersion": "3a5EvE",
+    "sharedLink": {
+        "twitter": "https://abema.app/xEkK",
+        "facebook": "https://abema.app/ueA4",
+        "google": "https://abema.app/QdCx",
+        "line": "https://abema.app/dpwX",
+        "copy": "https://abema.app/6KqR",
+        "instagram": "https://abema.app/UnVD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s100_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s100_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/26-2mzbynr-cph_s100_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s100_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-2mzbynr-cph_s100_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1829.8697083333334,
+        "ending": {
+            "start": 1829.8697083333334,
+            "end": 1919.792875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-2mzbynr-cph_s100_p2",
+        "title": "#02 撫物語 なでこドロー 其ノ壹",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725262972,
+        "endAt": 1909494000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1909494000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-2mzbynr-cph_s100_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1909494000
+        }
+    ],
+    "episodeGroupId": "26-2mzbynr-cph_eg0"
+}

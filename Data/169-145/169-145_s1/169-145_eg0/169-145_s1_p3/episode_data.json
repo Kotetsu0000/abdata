@@ -1,0 +1,154 @@
+{
+    "id": "169-145_s1_p3",
+    "series": {
+        "id": "169-145",
+        "title": "なぜ僕の世界を誰も覚えていないのか？",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "thumb.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "portrait.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "169-145_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 悪魔の英雄",
+        "content": "「そろそろ思い知らせてやろう。反撃の時だ」\nカイの提案を受け入れ、起死回生の反攻に踏み切るジャンヌ。目指すは王都にそびえる政府宮殿。かつてウルザの中枢だった場所は、今や悪魔の巣窟と化していた。\nウルザレジスト全員の想いを背負い、カイは悪魔族の英雄『冥帝ヴァネッサ』と相まみえる……！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "カイ：千葉翔也",
+            "リンネ：市ノ瀬加那",
+            "ジャンヌ：白石晴香",
+            "花琳：Lynn",
+            "レーレーン：菱川花菜",
+            "アシュラン：山下誠一郎",
+            "サキ：鈴代紗弓",
+            "ヴァネッサ：日笠陽子"
+        ],
+        "crews": [
+            "原作：細音 啓「なぜ僕の世界を誰も覚えていないのか？」（MF文庫J）",
+            "キャラクター原案：neco、ありかん",
+            "監督：南川達馬",
+            "シリーズ構成：杉澤 悟",
+            "キャラクターデザイン：加藤裕美",
+            "音響制作：マジックカプセル",
+            "音響監督：明田川 仁",
+            "音楽制作：ファブトーン",
+            "プロデュース：ドリームシフト",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)2024 細音啓/KADOKAWA/なぜ僕製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035361,
+    "endAt": 1759244400,
+    "transcodeVersion": "NWQAY",
+    "sharedLink": {
+        "twitter": "https://abema.app/djKW",
+        "facebook": "https://abema.app/PmiK",
+        "google": "https://abema.app/pEJf",
+        "line": "https://abema.app/1fgj",
+        "copy": "https://abema.app/tVYA",
+        "instagram": "https://abema.app/Nj6S"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/169-145_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/169-145_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/169-145_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.169-145_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.9963333333333,
+        "opening": {
+            "start": 41.041,
+            "end": 130.96416666666667
+        },
+        "ending": {
+            "start": 1330.9963333333333,
+            "end": 1421.9622083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "169-145_s1_p4",
+        "title": "第4話 そして世界を記憶する",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1726035361,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/169-145_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "169-145_eg0"
+}

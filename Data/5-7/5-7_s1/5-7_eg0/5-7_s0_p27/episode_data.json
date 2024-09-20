@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p27",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 27,
+        "title": "第27話 ｢悪党だけが笑っている！こんな時代が気にいらねえ！！」",
+        "content": "牙大王が奥の手として探し出してきたレイの妹アイリが目の前に現われ、我を忘れて暴走するレイ。アイリも兄レイの存在に気付き、再会が果たされようとするが・・・"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756425,
+    "endAt": 1732978800,
+    "transcodeVersion": "6FhjAD",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/ZpNaD",
+        "facebook": "https://gxyt4.app.goo.gl/CjuKZ",
+        "google": "https://gxyt4.app.goo.gl/iG5NF",
+        "line": "https://gxyt4.app.goo.gl/aonWk",
+        "copy": "https://gxyt4.app.goo.gl/w6pNm",
+        "instagram": "https://gxyt4.app.goo.gl/Yf6Zw"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p27/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p27/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p27/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p27"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.495688,
+        "opening": {
+            "start": 31.688188,
+            "end": 124.547722
+        },
+        "ending": {
+            "start": 1340.495688,
+            "end": 1430.318855
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p28",
+        "title": "第28話 ｢レイ！お前の涙は俺の拳で受けてやる！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756425,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p27/timeline",
+        "query": "version=6FhjAD",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

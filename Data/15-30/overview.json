@@ -1,0 +1,116 @@
+{
+    "id": "15-30",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "BLEACH 千年血戦篇",
+    "content": "偶然か、あるいは必然かーー\nとある出会いから死神の力を手にし《死神代行》となった黒崎一護は、現世で死した魂魄が集う場所・尸魂界（ソウル・ソサエティ）の動乱に巻き込まれ、熾烈な戦いの中、仲間と共に大きく成長を遂げてきた。\nそんな一護の暮らす空座町（からくらちょう）で異変が起こる。新たなる死神と、新たなる敵の出現。そして救いを求める声。\n一護は再び斬魄刀を取り、戦場へと旅立つ。\n一方、尸魂界では、現世における突然の虚（ホロウ）の連続消失が観測され、この地へ導かれた魂が暮らす流魂街での住民達の失踪が発生、さらには死神たちの住む霊屋・瀞霊廷が賊軍に襲撃される。\n賊軍の正体は、滅却師（クインシー）の始祖・ユーハバッハが率いる《見えざる帝国（ヴァンデンライヒ）》。\n《見えざる帝国》は、死神たちに宣戦布告する。\n「5 日後、尸魂界は\"見えざる帝国\"により殲滅される」\n千年の長きにわたり死神たちが背負っていた因縁。その宿業と秘められた真実がついに紐解かれる。\n全ては終焉へ。黒崎一護の、最後の戦いが始まる――。",
+    "seasons": [
+        {
+            "id": "15-30_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/15-30_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1681793756",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "15-30_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "15-30_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/15-30_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1688437469",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "15-30_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "15-30_s3",
+            "sequence": 3,
+            "name": "シーズン3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/15-30_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1725424484",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "15-30_eg1",
+                    "name": "予告編"
+                }
+            ],
+            "order": 3
+        }
+    ],
+    "copyrights": [
+        "(C)久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1725858950565856202",
+    "imageUpdatedAt": 1725858926,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/rRVB",
+        "facebook": "https://abema.app/gzek",
+        "google": "https://abema.app/XxBe",
+        "line": "https://abema.app/CQ8Y",
+        "copy": "https://abema.app/bV43",
+        "instagram": "https://abema.app/E8aA"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-30",
+        "filename": "thumb.png",
+        "query": "version=1725858926",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-30",
+        "filename": "portrait.png",
+        "query": "version=1725858926",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "1話〜6話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

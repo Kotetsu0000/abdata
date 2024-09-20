@@ -1,0 +1,167 @@
+{
+    "id": "19-200_s1_p1",
+    "series": {
+        "id": "19-200",
+        "title": "天穂のサクナヒメ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-200",
+            "filename": "thumb.png",
+            "query": "version=1719899143",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-200",
+            "filename": "portrait.png",
+            "query": "version=1719899143",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-200_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 頂の世のサクナヒメ",
+        "content": "武神タケリビと豊穣神トヨハナを両親に持つサクナヒメは、その恵まれた境遇に甘えてぐうたらな生活を送っていた。ところがある日、神々の住む頂の世に迷い込んだ人間たちを都に侵入させてしまった上に騒動の末、主神カムヒツキへの献上物を全て台無しにしてしまった！その代償としてカムヒツキがサクナヒメに言い渡したのは…"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "サクナヒメ：大空直美",
+            "タマ爺：鳴海崇志",
+            "ココロワヒメ：衣川里佳",
+            "田右衛門：矢野龍太",
+            "ミルテ：久保田ひかり",
+            "きんた：前田聡馬",
+            "ゆい：古賀葵",
+            "かいまる：桃河りか",
+            "カムヒツキ：小日向みわ",
+            "アシグモ：各務立基",
+            "石丸：亀山雄慈"
+        ],
+        "crews": [
+            "原作：えーでるわいす",
+            "監督：吉原正行",
+            "シリーズ構成・脚本：花田十輝",
+            "副監督：藤井康雄",
+            "キャラクター原案：村山竜大",
+            "キャラクターデザイン：藤嶋未央",
+            "総作画監督：水野紗世",
+            "美術監督：神山瑤子",
+            "色彩設計：中野尚美",
+            "3D監督：市川元成",
+            "撮影監督：並木智",
+            "編集：髙橋歩",
+            "音響監督：明田川仁",
+            "音楽：藤澤慶昌",
+            "制作統括：堀川憲司",
+            "ラインプロデューサー：相馬紹二　伊藤翔太郎",
+            "アニメーション制作：P.A.WORKS"
+        ],
+        "copyrights": [
+            "(C)えーでるわいす／「天穂のサクナヒメ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725872373,
+    "endAt": 1759244400,
+    "freeEndAt": 1759244400,
+    "transcodeVersion": "72SmsX",
+    "sharedLink": {
+        "twitter": "https://abema.app/sK6K",
+        "facebook": "https://abema.app/qgiP",
+        "google": "https://abema.app/aSvH",
+        "line": "https://abema.app/jYmV",
+        "copy": "https://abema.app/qdBc",
+        "instagram": "https://abema.app/Pfch"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-200_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-200_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-200_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-200_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-200_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1360.0253333333333,
+        "opening": {
+            "start": 232.02345833333334,
+            "end": 321.946625
+        },
+        "ending": {
+            "start": 1360.0253333333333,
+            "end": 1427.3425833333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-200_s1_p2",
+        "title": "第2話 ヒノエ島に住まう",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725872373,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726345800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-200_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-200_eg0"
+}

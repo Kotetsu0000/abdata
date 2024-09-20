@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s22_p882",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s22",
+        "sequence": 22,
+        "name": "season22",
+        "thumbComponent": {},
+        "order": 22
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 882,
+        "title": "第882話 さざ波の魔法使い（後編）",
+        "content": "10年前、幼い工藤新一が海水浴に来ていた赤井秀一の家族と知り合った直後、車が崖から海に落ちる事故が発生。その車は時計店に強盗に入った2人組のものと判明する。秀一は新一たちに協力してもらい、容疑者を福水繁克、北森靖絵、大網頼哉という3人に絞り込む。秀一は3人の証言から誰が強盗犯の仲間かを見破って…。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "4yFZsp",
+    "sharedLink": {
+        "twitter": "https://abema.app/JmMn",
+        "facebook": "https://abema.app/aiY5",
+        "google": "https://abema.app/w2ag",
+        "line": "https://abema.app/wygv",
+        "copy": "https://abema.app/Ezro",
+        "instagram": "https://abema.app/9VuF"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p882/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p882/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p882/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s22_p882"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9235,
+        "opening": {
+            "start": 111.02758333333334,
+            "end": 209.95975
+        },
+        "ending": {
+            "start": 1253.50225,
+            "end": 1333.4154166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s22_p883",
+        "title": "第883話 絵本から飛び出す爆弾魔（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s22_p882/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

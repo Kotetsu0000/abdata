@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s17_p670",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s17",
+        "sequence": 17,
+        "name": "season17",
+        "thumbComponent": {},
+        "order": 17
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 670,
+        "title": "第670話 くらやみ塔の秘宝（後編）",
+        "content": "コナンたちはくらやみの塔へ続く入口を見つけ、鏡の世界になったトンネルへと入っていく。外では目暮警部たちが透や望を事情聴取。長瀬はいつの間にか姿を消していた。コナンは１人で塔の内部に入り、赤、青、緑のボタンが並んだ操作盤を発見。コナンは青いボタンに張り付いた美佐子のつけ爪を見て事件の真相に辿り着く…。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、山川剛史",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "4NW5PT",
+    "sharedLink": {
+        "twitter": "https://abema.app/vMGj",
+        "facebook": "https://abema.app/f4fF",
+        "google": "https://abema.app/8X84",
+        "line": "https://abema.app/4x1b",
+        "copy": "https://abema.app/WWmJ",
+        "instagram": "https://abema.app/ZT3L"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p670/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p670/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p670/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s17_p670"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0256,
+        "opening": {
+            "start": 204.07053333333334,
+            "end": 290.9907
+        },
+        "ending": {
+            "start": 1299.2312666666667,
+            "end": 1379.2111666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s17_p671",
+        "title": "第671話 探偵たちの夜想曲（事件）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s17_p670/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,151 @@
+{
+    "id": "25-31rtb-j-u-pk_s0_p11",
+    "series": {
+        "id": "25-1nzan-whrxe",
+        "title": "ソードアート・オンライン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "thumb.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "portrait.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-1nzan-whrxe_s20",
+        "sequence": 20,
+        "name": "ソードアート・オンラインII",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "#11 「強さの意味」",
+        "content": "死銃から逃れたキリトとシノンは、砂漠地帯の洞窟に身を潜めていた。そこでキリトは、死銃がプレイヤーを殺害した方法を考察。死銃がキリトに反撃した際、黒星ではなくライフルに持ち替えたことから、現実世界のプレイヤーを殺害するにはなんらかの条件があると推理。さらに推理を進めたキリトは、ある恐るべき可能性に思い当たる。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "キリト:松岡禎丞",
+            "アスナ:戸松遥",
+            "シノン:沢城みゆき"
+        ],
+        "crews": [
+            "原作:川原 礫（電撃文庫刊）",
+            "原作イラスト・キャラクター原案:abec",
+            "監督:伊藤智彦",
+            "キャラクターデザイン:足立慎吾"
+        ],
+        "copyrights": [
+            "(C)2014 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス刊／SAOⅡ Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1690870935,
+    "endAt": 1743433200,
+    "freeEndAt": 1727325900,
+    "transcodeVersion": "4gW5C",
+    "sharedLink": {
+        "twitter": "https://abema.app/PStQ",
+        "facebook": "https://abema.app/qXbh",
+        "google": "https://abema.app/BhWi",
+        "line": "https://abema.app/B9oa",
+        "copy": "https://abema.app/UDR4",
+        "instagram": "https://abema.app/mXx4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p11/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-31rtb-j-u-pk_s0_p11/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-31rtb-j-u-pk_s0_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.045033,
+        "opening": {
+            "start": 95.0496,
+            "end": 184.806133
+        },
+        "ending": {
+            "start": 1325.045033,
+            "end": 1414.8683
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-31rtb-j-u-pk_s0_p12",
+        "title": "#12 「幻の銃弾」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1690870935,
+        "endAt": 1743433200,
+        "freeEndAt": 1727325900,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727325900
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-31rtb-j-u-pk_s0_p11/timeline",
+        "query": "version=4gW5C",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727325900
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "25-1nzan-whrxe_eg0"
+}

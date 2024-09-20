@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s22_p845",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s22",
+        "sequence": 22,
+        "name": "season22",
+        "thumbComponent": {},
+        "order": 22
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 845,
+        "title": "第845話 絶体絶命暗闇のコナン（前編）",
+        "content": "暗闇の中、コナンはふいに目覚める。歩美たちと買い物に行く途中、ビルの一室で金庫をこじ開ける人影を目撃したコナン。この時、コナンは犯人に襲われ、長方形の箱に閉じ込められたのだ。その頃、小五郎は依頼を受け、唐橋グループ会長、唐橋剛太郎の遺言状を盗んだ犯人を捜していた。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066317,
+    "endAt": 1740754800,
+    "transcodeVersion": "vk94b",
+    "sharedLink": {
+        "twitter": "https://abema.app/dkSv",
+        "facebook": "https://abema.app/XAy7",
+        "google": "https://abema.app/NMbv",
+        "line": "https://abema.app/EBLp",
+        "copy": "https://abema.app/7bGJ",
+        "instagram": "https://abema.app/afEV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p845/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p845/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p845/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s22_p845"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.1354583333334,
+        "opening": {
+            "start": 80.41366666666667,
+            "end": 168.00116666666668
+        },
+        "ending": {
+            "start": 1345.1354583333334,
+            "end": 1425.0069166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s22_p846",
+        "title": "第846話 絶体絶命暗闇のコナン（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066317,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s22_p845/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

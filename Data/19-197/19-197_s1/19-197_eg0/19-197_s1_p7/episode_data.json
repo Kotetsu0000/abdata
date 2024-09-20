@@ -1,0 +1,148 @@
+{
+    "id": "19-197_s1_p7",
+    "series": {
+        "id": "19-197",
+        "title": "キルミーベイベー",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-197",
+            "filename": "thumb.png",
+            "query": "version=1712563465",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-197",
+            "filename": "portrait.png",
+            "query": "version=1712563465",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-197_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "キルその7｢ぶんかおてだま できばせん｣",
+        "content": "きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､ぶんかおてだまできばせんでした｡"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "赤﨑千夏",
+            "田村睦心",
+            "高部あい"
+        ],
+        "crews": [
+            "監督：山川吉樹",
+            "原作：カヅホ(芳文社｢まんがタイムきららキャラット｣連載)",
+            "脚本：白根秀樹(シリーズ構成)",
+            "オープニングテーマ：｢キルミーのベイベー!｣やすなとソーニャ(cv:赤崎千夏･田村睦心)",
+            "エンディングテーマ：｢ふたりのきもちのほんとのひみつ｣やすなとソーニャ(cv:赤崎千夏･田村睦心)"
+        ],
+        "copyrights": [
+            "(C)カヅホ･芳文社/キルミーベイベー製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711849774,
+    "endAt": 1748703600,
+    "freeEndAt": 1726808400,
+    "transcodeVersion": "4jt1pH",
+    "sharedLink": {
+        "twitter": "https://abema.app/1bnJ",
+        "facebook": "https://abema.app/nJR4",
+        "google": "https://abema.app/qh6f",
+        "line": "https://abema.app/mURa",
+        "copy": "https://abema.app/Q1pU",
+        "instagram": "https://abema.app/XJWV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-197_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-197_s1_p7/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-197_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-197_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-197_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1054333333334,
+        "opening": {
+            "end": 89.82306666666666
+        },
+        "ending": {
+            "start": 1340.1054333333334,
+            "end": 1429.9952333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-197_s1_p8",
+        "title": "キルその8｢はまりかなでりつきささり｣",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1711849828,
+        "endAt": 1748703600,
+        "freeEndAt": 1726808400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726808400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-197_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726808400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "19-197_eg0"
+}

@@ -1,0 +1,154 @@
+{
+    "id": "30-3_s0_p9",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s1",
+        "sequence": 1,
+        "name": "Season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1447
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "#09 左腕の行方 ～トロスト区攻防戦⑤～",
+        "content": "トロスト区全域で繰り広げられた人類と巨人との死闘。アルミンの目の前で巨人の餌食となったエレンだったが、自ら巨人となりミカサたちの窮地を救った。しかしにわかには信じ難いキッツ率いる駐屯兵団はエレンたちに武器を向ける。キッツから「貴様の正体は何だ？　人か巨人か？」と問われたエレンは……。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創",
+            "監督：荒木哲郎",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248133,
+    "endAt": 1730386800,
+    "transcodeVersion": "3ia2NX",
+    "sharedLink": {
+        "twitter": "https://abema.app/rbgv",
+        "facebook": "https://abema.app/FyuL",
+        "google": "https://abema.app/m6YQ",
+        "line": "https://abema.app/LZmu",
+        "copy": "https://abema.app/SFBo",
+        "instagram": "https://abema.app/4BFL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-3_s0_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.995299,
+        "opening": {
+            "start": 33.387999,
+            "end": 125.00931
+        },
+        "ending": {
+            "start": 1342.184204,
+            "end": 1432.017566
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-3_s0_p10",
+        "title": "#10 応える ～トロスト区攻防戦⑥～",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248133,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-3_s0_p9/timeline",
+        "query": "version=3ia2NX",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

@@ -1,0 +1,121 @@
+{
+    "id": "218-706_s1_p4011",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1091
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4011,
+        "title": "#11：スマホゲーム「ブルーロック Project: World Champion」を特集！",
+        "content": "蜂楽廻役・海渡翼、帝襟アンリ役・幸村恵理が登場！大人気サッカーアニメの世界が楽しめるスマホゲームを紹介！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126682,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "2Vy7LQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/LPWc",
+        "facebook": "https://abema.app/JAea",
+        "google": "https://abema.app/KMbm",
+        "line": "https://abema.app/XFwB",
+        "copy": "https://abema.app/A2WP",
+        "instagram": "https://abema.app/pUDo"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-706_s1_p4011/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-706_s1_p4011/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-706_s1_p4011/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-706_s1_p4011/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p4011"
+    },
+    "viewingPoint": {
+        "suggestion": 1086.9859
+    },
+    "nextProgramInfo": {
+        "programId": "218-706_s1_p4019",
+        "title": "#19：THE FIRST SLAM DUNK\"COURT\"に潜入！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726126682,
+        "endAt": 1745074800,
+        "freeEndAt": 1745074800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1745074800
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p4011/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg5"
+}

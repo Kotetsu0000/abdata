@@ -1,0 +1,133 @@
+{
+    "id": "203-2_s200_p20",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s200",
+        "sequence": 200,
+        "name": "TVスペシャル",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2579
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 20,
+        "title": "SP20 両さんと忠犬ラッキー物語 ／亀有大包囲網をかわせ！！",
+        "content": "派出所に迷い込んだ子犬の面倒を押し付けられてしまう両津。最初は迷惑がっていたものの、子犬と一緒にいるとなぜかラッキーなことばかりが起こることに気付いた両津は、自ら「ラッキー」と名付けたその子犬を決して手放さないとほくそえむ。しかし実は、子犬はお忍びで日本を訪れていたマタハリ王国の王女サファイア姫の愛犬であった・・・"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382155,
+    "endAt": 1743433200,
+    "transcodeVersion": "5stDua",
+    "sharedLink": {
+        "twitter": "https://abema.app/zXiE",
+        "facebook": "https://abema.app/RGm7",
+        "google": "https://abema.app/VBH6",
+        "line": "https://abema.app/ZBCo",
+        "copy": "https://abema.app/MGkg",
+        "instagram": "https://abema.app/8VTJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-2_s200_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-2_s200_p20/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-2_s200_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s200_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 2574.9774
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s200_p21",
+        "title": "SP21 走れ！両津式チンチン電車～思い出の大次郎号",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382155,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s200_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

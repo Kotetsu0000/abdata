@@ -1,0 +1,127 @@
+{
+    "id": "189-65_s1_p500",
+    "series": {
+        "id": "189-65",
+        "title": "疑似ハーレム",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-65",
+            "filename": "thumb.png",
+            "query": "version=1722754779",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-65",
+            "filename": "portrait.png",
+            "query": "version=1722754779",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-65_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 64
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【7/4より毎週木曜24:30~地上波同時・無料最速配信】",
+        "content": "漫画のようなハーレム状態に憧れる演劇部の先輩「北浜瑛二」と密かに想いを寄せる先輩の前だと、つい“キャラ”を演じてしまう「七倉 凛」。\nツンデレちゃんに、小悪魔ちゃん、甘えんぼちゃん、クールちゃん、おしとやかちゃん。\n演じるキャラが増えれば増えるほど、抑えきれなくなる先輩への想い。\nちょっとバカでかなり鈍感な瑛二に、七倉は、ありのままの自分で、想いを伝えられる日は来るのか…？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "北浜瑛二：岡本信彦",
+            "七倉 凛：早見沙織",
+            "七倉 綾香：鳴海まい",
+            "中山元邦（部長）：諏訪部順一",
+            "岩田嗣人（つーちゃん）：遊佐浩二",
+            "めぐ　　：阿保まりあ",
+            "白沢きり：佐藤未奈子"
+        ],
+        "crews": [
+            "監督：菊池聡延",
+            "シリーズ構成：柿原優子",
+            "キャラクターデザイン：佐藤義久",
+            "色彩設計：佐々木梓",
+            "美術：片平真司(スタジオアカンサス）",
+            "撮影：町田啓（チップチューン）",
+            "編集：武宮むつみ",
+            "音楽制作：ポニーキャニオン",
+            "音楽：渡辺剛",
+            "音響：笠井企画",
+            "音響監督：佐藤卓哉",
+            "アニメーション制作：ノーマッド",
+            "エンディング主題歌：七倉 凛(CV：早見沙織)「アドリブ」"
+        ],
+        "copyrights": [
+            "(C)斉藤ゆう／小学館／疑似ハーレム製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726206709,
+    "endAt": 1727708400,
+    "freeEndAt": 1727708400,
+    "transcodeVersion": "JUMRU",
+    "sharedLink": {
+        "twitter": "https://abema.app/Meap",
+        "facebook": "https://abema.app/C5rP",
+        "google": "https://abema.app/M4Ye",
+        "line": "https://abema.app/UVfC",
+        "copy": "https://abema.app/woDS",
+        "instagram": "https://abema.app/qni3"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-65_s1_p500/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-65_s1_p500/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/189-65_s1_p500/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-65_s1_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-65_s1_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 59.059
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-65_s1_p500/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "189-65_eg1"
+}

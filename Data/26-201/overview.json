@@ -1,0 +1,92 @@
+{
+    "id": "26-201",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "TVアニメ「ホリミヤ」",
+    "content": "つながって、絡み合って、世界は日々、変わってく。\nシリーズ累計 600 万部を突破した超人気漫画、「ホリミヤ」がついにアニメ化!!\n堀 京子(ほりきょうこ)は、美人で成績も良く学校ではクラスの中心的存在。ただけど実は共働きの両親に代わり、 寄り道もせず家事や年の離れた弟の面倒に勤しむ家庭的な高校生。\nある日、ケガをした弟 創太を見知らぬ男が堀の家に送り届けに来た。\n「堀さん」\nそう呼ばれ話してみると、実は彼はクラスメイトで――\nクラス一のモテ女子とネクラ男子が出逢ったら!?\n恋愛、友情。\n青春が詰まった超微炭酸系スクールライフ!",
+    "seasons": [
+        {
+            "id": "26-201_s1",
+            "sequence": 1,
+            "name": "ホリミヤ",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-201_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1686544002",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-201_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "26-201_s2",
+            "sequence": 2,
+            "name": "ホリミヤ -piece-",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-201_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1686710833",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-201_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)HERO・萩原ダイスケ／SQUARE ENIX・「ホリミヤ」製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724980014759412485",
+    "imageUpdatedAt": 1686710814,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/KeEW",
+        "facebook": "https://abema.app/N2z6",
+        "google": "https://abema.app/tYci",
+        "line": "https://abema.app/HoXG",
+        "copy": "https://abema.app/tGd1",
+        "instagram": "https://abema.app/eawb"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-201",
+        "filename": "thumb.png",
+        "query": "version=1686710814",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-201",
+        "filename": "portrait.png",
+        "query": "version=1686710814",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

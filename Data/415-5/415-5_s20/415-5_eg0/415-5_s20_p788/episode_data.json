@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s20_p788",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s20",
+        "sequence": 20,
+        "name": "season20",
+        "thumbComponent": {},
+        "order": 20
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 788,
+        "title": "第788話 真夏のプールに沈む謎（後編）",
+        "content": "ホテルのプールで大磯ファイナンス社長令嬢、永美の遺体が発見される。目暮はフィアンセの左巻、異母妹の浜香、ホテル支配人、豊島の行動を調べる事に。プールの受付スタッフは最初に戻ってきたのは豊島、次は左巻、最後は浜香だったと明かす。コナンと世良はプールの排水口と壁を見て誰が犯人かに気付く。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066314,
+    "endAt": 1740754800,
+    "transcodeVersion": "5v2wWC",
+    "sharedLink": {
+        "twitter": "https://abema.app/RKxs",
+        "facebook": "https://abema.app/3Kz4",
+        "google": "https://abema.app/KHR4",
+        "line": "https://abema.app/9ymK",
+        "copy": "https://abema.app/1MWW",
+        "instagram": "https://abema.app/TL53"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s20_p788/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s20_p788/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s20_p788/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s20_p788"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 154.90475,
+            "end": 252.91933333333333
+        },
+        "ending": {
+            "start": 1267.01575,
+            "end": 1346.970625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s20_p789",
+        "title": "第789話 女王様の天気予報",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066314,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s20_p788/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

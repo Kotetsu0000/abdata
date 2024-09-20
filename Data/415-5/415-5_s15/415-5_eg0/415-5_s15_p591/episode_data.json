@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s15_p591",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s15",
+        "sequence": 15,
+        "name": "season15",
+        "thumbComponent": {},
+        "order": 15
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 591,
+        "title": "第591話 水族館のある家",
+        "content": "コナンと少年探偵団は阿笠博士に連れられ、アクアリウムデザイナー、西田の自宅を訪ねるが、呼び鈴を押しても反応がない。西田のアシスタントの井村が合鍵を使って玄関の鍵を開け、歩美たちはリビングの水槽が埋め込まれた円柱を見て大喜びする。この後、バスルームに手を洗いに行った光彦と元太は浴槽を見て悲鳴を上げる。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066309,
+    "endAt": 1740754800,
+    "transcodeVersion": "2pX8np",
+    "sharedLink": {
+        "twitter": "https://abema.app/cinP",
+        "facebook": "https://abema.app/fsTN",
+        "google": "https://abema.app/asfz",
+        "line": "https://abema.app/h2oe",
+        "copy": "https://abema.app/cJNc",
+        "instagram": "https://abema.app/TBCw"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s15_p591/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s15_p591/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s15_p591/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s15_p591"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.7283,
+        "opening": {
+            "start": 66.7667,
+            "end": 138.7386
+        },
+        "ending": {
+            "start": 1309.0077,
+            "end": 1388.9208666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s15_p592",
+        "title": "第592話 猿と熊手のトリ物帖（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066309,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s15_p591/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

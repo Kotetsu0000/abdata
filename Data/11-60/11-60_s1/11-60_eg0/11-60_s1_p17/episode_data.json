@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p17",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 17,
+        "title": "第17話 七悪のくすり",
+        "content": "授業中に突然七悪から呼び出しを受けた太陽は、急いで生物部の部室に駆けつける。そこには体調の異変で身体の一部が膨らんだ七悪が倒れていた。太陽のおかげで一時的に症状は治まるが、通常の薬では限界があるという。変異を起こさないためには「恒常化ワクチン」を打つしかないが、打てば二度と少年の姿には戻れず学校も退学しなければならない。ワクチンを打たず、七悪が普通の学校生活を送れるよう太陽がサポートすることに！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "transcodeVersion": "3EBAVH",
+    "sharedLink": {
+        "twitter": "https://abema.app/2WNG",
+        "facebook": "https://abema.app/UESC",
+        "google": "https://abema.app/tACA",
+        "line": "https://abema.app/agC8",
+        "copy": "https://abema.app/tV6i",
+        "instagram": "https://abema.app/3ZCT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p17/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p17/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 1352.0173333333332,
+        "opening": {
+            "start": 155.029875,
+            "end": 244.95304166666668
+        },
+        "ending": {
+            "start": 1352.0173333333332,
+            "end": 1441.9405
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p18",
+        "title": "第18話 夜桜温泉物語",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p17/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

@@ -1,0 +1,159 @@
+{
+    "id": "19-9dpgpzmmsbb_s0_p20",
+    "series": {
+        "id": "19-16",
+        "title": "ハイキュー!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "thumb.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "portrait.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-16_s1",
+        "sequence": 1,
+        "name": "ハイキュー!!",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1456
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話 及川徹は天才ではない",
+        "content": "青葉城西とのIH予選3回戦が始まった。序盤から繰り広げられる、影山と及川のセッター対決。試合巧者の青葉城西は、及川のもと烏野の隙をついて着実に得点を重ねていく。次第に焦りを見せ始める影山。\n そんななか烏野のムードメーカー・田中が奮起するが、それを見た及川は―。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "村瀬歩",
+            "石川界人",
+            "日野聡",
+            "入野自由",
+            "林勇",
+            "細谷佳正",
+            "岡本信彦",
+            "内山昂輝",
+            "斉藤壮馬",
+            "名塚佳織",
+            "神谷浩史",
+            "田中一成",
+            "浪川大輔"
+        ],
+        "crews": [
+            "監督：満仲勧",
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載中）",
+            "シリーズ構成：岸本卓",
+            "キャラクターデザイン：岸田隆宏",
+            "総作画監督：千葉崇洋、海谷敏久",
+            "音響監督：菊田浩巳",
+            "音楽：林ゆうき、橘麻美"
+        ],
+        "copyrights": [
+            "(C)古舘春一／集英社・「ハイキュー!!」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684374728,
+    "endAt": 1738335600,
+    "transcodeVersion": "717EWo",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Kh6nC",
+        "facebook": "https://gxyt4.app.goo.gl/g9w8a",
+        "google": "https://gxyt4.app.goo.gl/q8Q1R",
+        "line": "https://gxyt4.app.goo.gl/o6mPf",
+        "copy": "https://gxyt4.app.goo.gl/GCBWh",
+        "instagram": "https://gxyt4.app.goo.gl/zcViR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p20/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-9dpgpzmmsbb_s0_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.6009,
+        "opening": {
+            "start": 71.582732,
+            "end": 158.582733
+        },
+        "ending": {
+            "start": 1347.657432,
+            "end": 1434.557433
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-9dpgpzmmsbb_s0_p21",
+        "title": "第21話 先輩の実力",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1684374728,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-9dpgpzmmsbb_s0_p20/timeline",
+        "query": "version=717EWo",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-16_eg0"
+}

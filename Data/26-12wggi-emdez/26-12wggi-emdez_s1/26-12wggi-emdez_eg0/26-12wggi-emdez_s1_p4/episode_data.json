@@ -1,0 +1,137 @@
+{
+    "id": "26-12wggi-emdez_s1_p4",
+    "series": {
+        "id": "26-12wggi-emdez",
+        "title": "Angel Beats!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "thumb.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "portrait.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12wggi-emdez_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "episode4 Day Game",
+        "content": "消えてしまった岩沢の代わりに、ガルデモのメインボーカル候補となったユイ。\nだが、その判断をガルデモに託したゆりは、球技大会での、ガルデモによる陽動を含む大々的な作戦実行を諦め、ゲリラ参加を決意する。\n球技大会の種目は「野球」。戦線メンバーの中からいくつかチームを組み参加をする事になり、日向は、まずは音無を誘いチームを作り始める。\n生きていた頃に野球に対して深い思い出を持つ日向は、音無と共にメンバー確保に奔走する。\nだが、予定していたメンバーから断られまくってしまった日向は、ユイ・椎名・野田・ユイのファン（３人）という即席チームで大会へ挑むことになってしまった。\n果たして日向チームは、球技大会を勝ち抜く事が出来るのだろうか・・・。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "音無：神谷浩史",
+            "ゆり：櫻井浩美",
+            "天使：花澤香菜",
+            "ユイ：喜多村英梨",
+            "日向：木村良平"
+        ],
+        "crews": [
+            "原作・脚本：麻枝准",
+            "監督：岸誠二",
+            "キャラクター原案：Na-Ga",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "音響監督：飯田里樹"
+        ],
+        "copyrights": [
+            "(C)VisualArt's/Key/Angel Beats! Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805442,
+    "endAt": 1748703600,
+    "transcodeVersion": "DhqPe",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/H4efr",
+        "facebook": "https://gxyt4.app.goo.gl/vZkBe",
+        "google": "https://gxyt4.app.goo.gl/Lg8S1",
+        "line": "https://gxyt4.app.goo.gl/tTw9N",
+        "copy": "https://gxyt4.app.goo.gl/syAxQ",
+        "instagram": "https://abema.app/tcCJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12wggi-emdez_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1466.49
+    },
+    "nextProgramInfo": {
+        "programId": "26-12wggi-emdez_s1_p5",
+        "title": "episode5 Favorite Flavor",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1681805442,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726592400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12wggi-emdez_s1_p4/timeline",
+        "query": "version=DhqPe",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726592400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727240400
+        }
+    ],
+    "episodeGroupId": "26-12wggi-emdez_eg0"
+}

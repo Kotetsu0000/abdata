@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s4_p161",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s4",
+        "sequence": 4,
+        "name": "season4",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 161,
+        "title": "第161話 流水亭に流れる殺意",
+        "content": "コナンたちは料理が船に載せられ店内の水路を通って部屋に運ばれるという趣向で評判の料亭・流水亭にやってきた。コナンは料理を運ぶ船の動きに興味津々。そんな時、隣の部屋の三人連れの一人が別の客室で刺殺される。死んだのは大学の助教授で、この日は彼の昇進祝いだったという。コナンは船を使ったトリックを疑う。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066299,
+    "endAt": 1740754800,
+    "transcodeVersion": "2PWSBg",
+    "sharedLink": {
+        "twitter": "https://abema.app/Xotr",
+        "facebook": "https://abema.app/TCcA",
+        "google": "https://abema.app/B13r",
+        "line": "https://abema.app/pWsw",
+        "copy": "https://abema.app/rqX8",
+        "instagram": "https://abema.app/4Xzp"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p161/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p161/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p161/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s4_p161"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.2571666666668,
+        "opening": {
+            "start": 15.015,
+            "end": 94.66123333333333
+        },
+        "ending": {
+            "start": 1308.7407666666666,
+            "end": 1393.7256666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s4_p162",
+        "title": "第162話 空飛ぶ密室 工藤新一最初の事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066299,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s4_p161/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

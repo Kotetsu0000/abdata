@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s1_p40",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 40,
+        "title": "第40話 資産家令嬢殺人事件（後編）",
+        "content": "人里離れた別荘で資産家令嬢・麗花の花婿候補の一人・二階堂が不審な溺死を遂げ、蘭までもが同様の手口で襲われた。行方不明だった麗花も浴室で溺死体となっていた。三件の犯行はこの夜別荘にいた同一人物によるものに違いない。全身ずぶ濡れの麗花の死体の状況から、コナンはシャワーを利用したトリックを見破る。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066296,
+    "endAt": 1740754800,
+    "transcodeVersion": "6W3CgZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/wc7f",
+        "facebook": "https://abema.app/VuDa",
+        "google": "https://abema.app/HaXZ",
+        "line": "https://abema.app/V5bA",
+        "copy": "https://abema.app/Ytve",
+        "instagram": "https://abema.app/rR7m"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p40/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p40/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p40/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s1_p40"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.5231,
+        "opening": {
+            "start": 15.548866666666667,
+            "end": 89.62286666666667
+        },
+        "ending": {
+            "start": 1290.9563333333333,
+            "end": 1381.9138666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s1_p41",
+        "title": "第41話 優勝旗切り裂き事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066296,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s1_p40/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,154 @@
+{
+    "id": "143-45_s1_p13",
+    "series": {
+        "id": "143-45",
+        "title": "逆境無頼カイジ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "thumb.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "portrait.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-45_s1",
+        "sequence": 1,
+        "name": "逆境無頼カイジ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1368
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 怪物",
+        "content": "超高層ホテルの地上74メートルに架けられた全長25メートルの鉄骨渡り。2本の鉄骨の橋に、それぞれ高圧電流が流れていると聞いた参加者たちは、次々と権利を放棄。しかし、利根川が3着以下の人間にも参加を認めたことから、カイジ、佐原、石田を含めた10人が鉄骨渡りに挑戦することになった。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "カイジ：萩原聖人",
+            "利根川：白竜",
+            "遠藤：内田直哉",
+            "古畑：松本保典",
+            "安藤：桜井敏治",
+            "石田：家中宏",
+            "船井：石川英郎",
+            "ナレーション：立木文彦"
+        ],
+        "crews": [
+            "原作：福本伸行（講談社「ヤングマガジン」連載）",
+            "シリーズ構成：高屋敷英夫",
+            "キャラクターデザイン：高田晴仁",
+            "美術監督：横松紀彦",
+            "音楽：タニウチヒデキ",
+            "音響監督：本田保則",
+            "監督：佐藤雄三",
+            "アニメーション制作：マッドハウス"
+        ],
+        "copyrights": [
+            "(C)福本伸行,講談社・VAP・マッドハウス・NTV・D.N.ドリームパートナーズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1709085891,
+    "endAt": 1743433200,
+    "freeEndAt": 1726917300,
+    "transcodeVersion": "59MTZL",
+    "sharedLink": {
+        "twitter": "https://abema.app/AbG3",
+        "facebook": "https://abema.app/Q5H4",
+        "google": "https://abema.app/C2Ug",
+        "line": "https://abema.app/pmgZ",
+        "copy": "https://abema.app/mMvN",
+        "instagram": "https://abema.app/knxh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-45_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-45_s1_p13/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/143-45_s1_p13/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-45_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-45_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1282.1141666666667,
+        "opening": {
+            "end": 49.1491
+        },
+        "ending": {
+            "start": 1282.1141666666667,
+            "end": 1353.0183333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-45_s1_p14",
+        "title": "第14話 亡霊",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1709085891,
+        "endAt": 1743433200,
+        "freeEndAt": 1726917300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726917300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-45_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726917300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-45_eg0"
+}

@@ -1,0 +1,146 @@
+{
+    "id": "19-195_s1_p8",
+    "series": {
+        "id": "19-195",
+        "title": "CLANNAD",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "thumb.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "portrait.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-195_s1",
+        "sequence": 1,
+        "name": "CLANNAD",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 黄昏に消える風",
+        "content": "幸村の計らいで式を学校であげる許可もおり、遂に公子の結婚式の日が決まった。\n 結婚式に向け生徒へヒトデを配り続ける風子。そんな風子の姿を見守る朋也と渚。\n しかし風子が差し出すヒトデを受け取らない生徒の数が増えていた。\n まるで風子の存在に気づかないかのように…。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "中村悠一",
+            "中原麻衣",
+            "広橋 涼",
+            "神田朱未",
+            "桑島法子",
+            "野中 藍",
+            "能登麻美子",
+            "阪口大助",
+            "置鮎龍太郎",
+            "井上喜久子",
+            "雪野五月",
+            "榎本温子"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：Key/ビジュアルアーツ",
+            "脚本：志茂文彦",
+            "音楽：折戸伸治、戸越まごめ、麻枝准"
+        ],
+        "copyrights": [
+            "（Ｃ）VisualArt's/Key/光坂高校演劇部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712635427,
+    "endAt": 1746025200,
+    "transcodeVersion": "3t7J74",
+    "sharedLink": {
+        "twitter": "https://abema.app/P3XV",
+        "facebook": "https://abema.app/eNKk",
+        "google": "https://abema.app/Q8fQ",
+        "line": "https://abema.app/p7Xg",
+        "copy": "https://abema.app/R971",
+        "instagram": "https://abema.app/PtNk"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-195_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0387,
+        "opening": {
+            "start": 44.044,
+            "end": 133.80033333333333
+        },
+        "ending": {
+            "start": 1340.0387,
+            "end": 1429.9952333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-195_s1_p9",
+        "title": "第9話 夢の最後まで",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712635438,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-195_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-195_eg0"
+}

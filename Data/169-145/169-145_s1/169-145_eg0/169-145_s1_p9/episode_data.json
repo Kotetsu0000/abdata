@@ -1,0 +1,139 @@
+{
+    "id": "169-145_s1_p9",
+    "series": {
+        "id": "169-145",
+        "title": "なぜ僕の世界を誰も覚えていないのか？",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "thumb.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "portrait.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "169-145_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 世界の中心",
+        "content": "「……いい子だ、ラスタライザ」\nカイたちは南のユールン連邦へ向けて移動していた。レーレーンを仲間に加え、道中はより賑やかになる。その最中、休息のために立ち寄った泉で、ジャンヌはリンネとレーレーンに切り出す。英雄の周囲に現れては消える不可解な怪物、ラスタライザについて……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "カイ：千葉翔也",
+            "リンネ：市ノ瀬加那",
+            "ジャンヌ：白石晴香",
+            "花琳：Lynn",
+            "レーレーン：菱川花菜",
+            "アシュラン：山下誠一郎",
+            "サキ：鈴代紗弓",
+            "ヴァネッサ：日笠陽子"
+        ],
+        "crews": [
+            "原作：細音 啓「なぜ僕の世界を誰も覚えていないのか？」（MF文庫J）",
+            "キャラクター原案：neco、ありかん",
+            "監督：南川達馬",
+            "シリーズ構成：杉澤 悟",
+            "キャラクターデザイン：加藤裕美",
+            "音響制作：マジックカプセル",
+            "音響監督：明田川 仁",
+            "音楽制作：ファブトーン",
+            "プロデュース：ドリームシフト",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)2024 細音啓/KADOKAWA/なぜ僕製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035362,
+    "endAt": 1759244400,
+    "freeEndAt": 1726590600,
+    "transcodeVersion": "4BAxRD",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZANS",
+        "facebook": "https://abema.app/BwWG",
+        "google": "https://abema.app/vqmz",
+        "line": "https://abema.app/G4yo",
+        "copy": "https://abema.app/CWio",
+        "instagram": "https://abema.app/cgzp"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/169-145_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/169-145_s1_p9/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/169-145_s1_p9/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/169-145_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.169-145_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.9963333333333,
+        "opening": {
+            "start": 73.99058333333333,
+            "end": 163.99716666666666
+        },
+        "ending": {
+            "start": 1330.9963333333333,
+            "end": 1421.9622083333334
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/169-145_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726590600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "169-145_eg0"
+}

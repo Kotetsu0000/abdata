@@ -1,0 +1,137 @@
+{
+    "id": "26-12wggi-emdez_s1_p2",
+    "series": {
+        "id": "26-12wggi-emdez",
+        "title": "Angel Beats!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "thumb.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "portrait.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12wggi-emdez_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "episode2 Guild",
+        "content": "死んだ世界戦線のメンバーが天使との戦闘時に使用する武器や弾薬を作る組織・ギルド。\n弾薬が尽きそうだという連絡を受けたゆりは、学園の地下深くに存在するギルドへの降下作戦を決行する。\nそして、ギルドへ歩を進めようとする戦線メンバー達であったが、解除したはずの対天使用即死トラップが彼等に襲いかかる。\nトラップ再発動の理由を、天使が現れたからだと気付いたゆりは、天使より先にギルドへ辿り着く為に進軍を判断する。\nだが、到る処に仕掛けられたその強力なトラップに巻き込まれ、ひとり、またひとりと、犠牲者が出てしまう事態へと陥ってしまう…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "音無：神谷浩史",
+            "ゆり：櫻井浩美",
+            "天使：花澤香菜",
+            "ユイ：喜多村英梨",
+            "日向：木村良平"
+        ],
+        "crews": [
+            "原作・脚本：麻枝准",
+            "監督：岸誠二",
+            "キャラクター原案：Na-Ga",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "音響監督：飯田里樹"
+        ],
+        "copyrights": [
+            "(C)VisualArt's/Key/Angel Beats! Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805442,
+    "endAt": 1748703600,
+    "transcodeVersion": "4NKKxK",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/cohgD",
+        "facebook": "https://gxyt4.app.goo.gl/Drfi2",
+        "google": "https://gxyt4.app.goo.gl/uxpLb",
+        "line": "https://gxyt4.app.goo.gl/RURud",
+        "copy": "https://gxyt4.app.goo.gl/52KyY",
+        "instagram": "https://abema.app/wPmz"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12wggi-emdez_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1466.49
+    },
+    "nextProgramInfo": {
+        "programId": "26-12wggi-emdez_s1_p3",
+        "title": "episode3 My Song",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1681805442,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726592400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12wggi-emdez_s1_p2/timeline",
+        "query": "version=4NKKxK",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726592400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727240400
+        }
+    ],
+    "episodeGroupId": "26-12wggi-emdez_eg0"
+}

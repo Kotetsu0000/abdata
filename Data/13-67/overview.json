@@ -1,0 +1,78 @@
+{
+    "id": "13-67",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+    "content": "居酒屋「のぶ」は店主・矢澤 信之（やざわ のぶゆき）と給仕・千家（せんけ） しのぶの二人が切り盛りするささやかな店。しかしその正面入口は、なぜか異世界の街・古都アイテーリアに繋がっていた。「のぶ」を訪れるのは、怠け者の衛兵たち、お忍びの聖職者。水運ギルドのマスターなど個性的な面々ばかり。彼らはノブ・タイショーが振る舞う驚くほど美味い酒や、未体験の料理に驚き、舌鼓を打ちながら、つかの間、日々のわずらわしさを忘れるのだ。",
+    "seasons": [
+        {
+            "id": "13-67_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/13-67_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1681804107",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "13-67_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)蝉川夏哉・宝島社/古都アイテーリア市参事会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1725858489072782362",
+    "imageUpdatedAt": 1670305419,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/bWR5",
+        "facebook": "https://abema.app/ne5E",
+        "google": "https://abema.app/udkG",
+        "line": "https://abema.app/s4HU",
+        "copy": "https://abema.app/cWB2",
+        "instagram": "https://abema.app/ThBn"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-67",
+        "filename": "thumb.png",
+        "query": "version=1670305419",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-67",
+        "filename": "portrait.png",
+        "query": "version=1670305419",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

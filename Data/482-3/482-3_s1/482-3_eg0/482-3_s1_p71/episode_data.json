@@ -1,0 +1,136 @@
+{
+    "id": "482-3_s1_p71",
+    "series": {
+        "id": "482-3",
+        "title": "クッキングパパ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-3",
+            "filename": "thumb.png",
+            "query": "version=1627289147",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-3",
+            "filename": "portrait.png",
+            "query": "version=1627289147",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "482-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2532
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 71,
+        "title": "第73話 フレーフレー荒岩一家！秋の大運動会　めざせ逆転優勝！！",
+        "content": "昧知姉ちゃんが里帰り出産で帰って来た！ちょうど父ちゃんの会社で運動会があるので皆で参加したんだけど・・・ 途中で味知姉ちゃんがおなかが痛いって言い出したんだ。赤ちゃんが産まれる！？"
+    },
+    "credit": {
+        "released": 1992,
+        "casts": [
+            "荒岩　一味:玄田　哲章",
+            "荒岩　虹子:勝生　真沙子",
+            "荒岩　誠/荒岩　みゆき:高山　みなみ",
+            "木村　夢子:冬馬　由美",
+            "田中　一:飛田　展男",
+            "みつぐ:頓宮　恭子/丸山　裕子",
+            "えつ子:矢島　晶子",
+            "さなえ:かない　みか",
+            "コックさん:峰　あつ子"
+        ],
+        "crews": [
+            "原作：うえやまとち（講談社 週刊モーニング掲載）",
+            "監督：角田利隆",
+            "キャラクターデザイン：敷島博英",
+            "脚本：雪室俊一",
+            "音楽：佐橋俊彦"
+        ],
+        "copyrights": [
+            "(C)うえやまとち／講談社・エイケン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682940754,
+    "endAt": 1767193200,
+    "transcodeVersion": "wJAt3",
+    "sharedLink": {
+        "twitter": "https://abema.app/rMyD",
+        "facebook": "https://abema.app/dnTn",
+        "google": "https://abema.app/auno",
+        "line": "https://abema.app/8MU9",
+        "copy": "https://abema.app/FWNa",
+        "instagram": "https://abema.app/3jZM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p71/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p71/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p71/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.482-3_s1_p71"
+    },
+    "viewingPoint": {
+        "suggestion": 2422.443222,
+        "ending": {
+            "start": 2422.443222,
+            "end": 2502.423222
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "482-3_s1_p72",
+        "title": "第74話 みゆきの金魚とお散歩",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1682940754,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/482-3_s1_p71/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "482-3_eg0"
+}

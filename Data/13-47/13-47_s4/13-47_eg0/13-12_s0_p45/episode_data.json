@@ -1,0 +1,145 @@
+{
+    "id": "13-12_s0_p45",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 45,
+        "title": "第195話 雨ニモ負ケズ",
+        "content": "雨のかぶき町。天気予報に反して降り出した雨に悪態をつく銀時に、一人の女性が傘を差し出してきた。悪いから…と断る銀時に傘を置いて立ち去ろうとするその女性は、なんと最近天気予報を外しまくっている結野アナ本人！ 視聴者からの苦情が殺到した結果、おめざめテレビを降板中の結野アナ。彼女はデータ等を参考にせず、占いで天気を予測していたというのだが…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296391,
+    "endAt": 1748703600,
+    "transcodeVersion": "3LXhDU",
+    "sharedLink": {
+        "twitter": "https://abema.app/SFjX",
+        "facebook": "https://abema.app/cnkp",
+        "google": "https://abema.app/kQ25",
+        "line": "https://abema.app/pJ44",
+        "copy": "https://abema.app/xG8v",
+        "instagram": "https://abema.app/q6gg"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p45/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p45/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p45/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p45"
+    },
+    "viewingPoint": {
+        "suggestion": 1369.989933,
+        "opening": {
+            "start": 86.107126,
+            "end": 175.207132
+        },
+        "ending": {
+            "start": 1370.018165,
+            "end": 1464.3182
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p46",
+        "title": "第196話 風ニモ負ケズ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296391,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p45/timeline",
+        "query": "version=3LXhDU",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

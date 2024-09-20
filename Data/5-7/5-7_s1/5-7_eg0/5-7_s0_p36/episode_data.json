@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p36",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 36,
+        "title": "第36話 ｢ふりかえる過去はない！ただ悪を憎みトキを撃つ！！」",
+        "content": "ついにトキと対決することになるケンシロウ。トキが悪ならば兄といえども倒すしかない！！しかし、トキの正体はトキに恨みを持つ南斗聖拳のアミバであった。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756425,
+    "endAt": 1732978800,
+    "transcodeVersion": "2P1Ty3",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/RisnZ",
+        "facebook": "https://gxyt4.app.goo.gl/DZtNh",
+        "google": "https://gxyt4.app.goo.gl/mjvaq",
+        "line": "https://gxyt4.app.goo.gl/JwBYq",
+        "copy": "https://gxyt4.app.goo.gl/9xB34",
+        "instagram": "https://gxyt4.app.goo.gl/Az8b4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p36/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p36/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p36/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p36"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.428955,
+        "opening": {
+            "start": 31.654822,
+            "end": 124.547722
+        },
+        "ending": {
+            "start": 1340.428955,
+            "end": 1430.252122
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p37",
+        "title": "第37話 ｢あえて愛を拒む！死を呼ぶ凶星を背負うがゆえに…！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756425,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p36/timeline",
+        "query": "version=2P1Ty3",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

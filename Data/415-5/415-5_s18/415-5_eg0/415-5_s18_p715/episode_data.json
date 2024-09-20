@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s18_p715",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s18",
+        "sequence": 18,
+        "name": "season18",
+        "thumbComponent": {},
+        "order": 18
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 715,
+        "title": "第715話 服部平次と吸血鬼館（四）",
+        "content": "平次は群馬県警に連絡し、新たに殺人事件が起きたと報告。電話中、コナンは自分の膝に何かが付着している事に気付く。それは森で遺体を調べた時についた泥で、なぜか泥には塩が混ざっていた。コナンと平次は電話のやりとりから理由に気付き、犯人のトリックを見破るが…。犯人は新たなターゲットに襲い掛かって…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066312,
+    "endAt": 1740754800,
+    "transcodeVersion": "5Zn9mc",
+    "sharedLink": {
+        "twitter": "https://abema.app/pzqW",
+        "facebook": "https://abema.app/Hywu",
+        "google": "https://abema.app/ixwq",
+        "line": "https://abema.app/qKyn",
+        "copy": "https://abema.app/LvVP",
+        "instagram": "https://abema.app/gUPa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s18_p715/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s18_p715/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s18_p715/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s18_p715"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 80.8808,
+            "end": 180.01316666666668
+        },
+        "ending": {
+            "start": 1196.5286666666666,
+            "end": 1276.4418333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s18_p716",
+        "title": "第716話 能面屋敷に鬼が踊る（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066312,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s18_p715/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s6_p255",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s6",
+        "sequence": 6,
+        "name": "season6",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 255,
+        "title": "第255話 松江玉造連句14番勝負（前編）",
+        "content": "島根県・松江に旅行にやってきたコナン、蘭、小五郎は、ホテルのロビーで大阪から連句旅行に来ていた短大国文科助教授・安藤礼子たち５名の連句の会の仲間と知り合う。翌日、八重垣神社に来ていた蘭とコナンのもとに連句仲間の1人・牛窪が亡くなったとの知らせが届く…。"
+    },
+    "credit": {
+        "released": 2001,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066301,
+    "endAt": 1740754800,
+    "transcodeVersion": "qmS4p",
+    "sharedLink": {
+        "twitter": "https://abema.app/5jYc",
+        "facebook": "https://abema.app/bu4T",
+        "google": "https://abema.app/V2pe",
+        "line": "https://abema.app/u8fr",
+        "copy": "https://abema.app/jXH1",
+        "instagram": "https://abema.app/ZLXa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p255/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p255/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p255/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s6_p255"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0256,
+        "opening": {
+            "start": 17.884533333333334,
+            "end": 101.96853333333334
+        },
+        "ending": {
+            "start": 1341.0063333333333,
+            "end": 1426.9922333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s6_p256",
+        "title": "第256話 松江玉造連句14番勝負（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066301,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s6_p255/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

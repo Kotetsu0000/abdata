@@ -1,0 +1,145 @@
+{
+    "id": "13-12_s0_p5",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第155話 裏の裏の裏は裏",
+        "content": "負の人生スパイラルから抜け出そうと一大決心したマダオこと長谷川。彼が銀時とやって来たのは…、場外馬券売場。徹夜で対策を練ってきた長谷川と、考えるのが面倒でテキトーに張る銀時。過程こそ違えど結果はどちらも惨敗で、帰りの電車賃さえ無くしてしまう。しかし、長谷川にはどうしても手ぶらで帰るわけにはいかない理由があった！ 二人は着物を質に入れ、最後の300円を握りしめて起死回生の勝負に挑む！"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1748703600,
+    "transcodeVersion": "4Vu2qo",
+    "sharedLink": {
+        "twitter": "https://abema.app/Uc1g",
+        "facebook": "https://abema.app/ZVeR",
+        "google": "https://abema.app/BVCX",
+        "line": "https://abema.app/xWCC",
+        "copy": "https://abema.app/6JUb",
+        "instagram": "https://abema.app/rDEh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1474.97,
+        "opening": {
+            "start": 32.120862,
+            "end": 121.520863
+        },
+        "ending": {
+            "start": 1324.108188,
+            "end": 1413.0082
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p6",
+        "title": "第156話 屋台に入るには微妙に勇気がいる",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296390,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p5/timeline",
+        "query": "version=4Vu2qo",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

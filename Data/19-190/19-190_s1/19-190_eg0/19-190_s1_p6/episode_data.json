@@ -1,0 +1,159 @@
+{
+    "id": "19-190_s1_p6",
+    "series": {
+        "id": "19-190",
+        "title": "怪獣８号",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-190",
+            "filename": "thumb.png",
+            "query": "version=1712068768",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-190",
+            "filename": "portrait.png",
+            "query": "version=1712068768",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-190_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 夜明けの相模原討伐作戦",
+        "content": "相模原に怪獣が発生！　新人隊員たちは初任務として、部隊後方での余獣の討伐を課せられる。「３ヵ月以内に活躍を見せなければクビ」と宣告されたカフカは気負いつつも、夢だった仕事に興奮を隠せない。そんなカフカに触発され張り切るレノ。そしてついに作戦が始まった！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "日比野カフカ／怪獣８号：福西勝也",
+            "亜白ミナ：瀬戸麻沙美",
+            "市川レノ：加藤渉",
+            "四ノ宮キコル：ファイルーズあい",
+            "保科宗四郎：河西健吾"
+        ],
+        "crews": [
+            "原作：松本直也（集英社「少年ジャンプ＋」連載）",
+            "監督：宮繁之　神谷友美",
+            "シリーズ構成・脚本：大河内一楼",
+            "キャラクターデザイン・総作画監督：西尾鉄也",
+            "怪獣デザイン：前田真宏",
+            "美術監督： 木村真二",
+            "色彩設計：広瀬いづみ",
+            "3D監督：松本勝",
+            "撮影監督：荒井栄児",
+            "編集：肥田文",
+            "音響監督：郷文裕貴",
+            "音楽：坂東祐大",
+            "怪獣デザイン＆ワークス：スタジオカラー",
+            "アニメーション制作：Production I.G"
+        ],
+        "copyrights": [
+            "(C)防衛隊第3部隊 ©松本直也／集英社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719816874,
+    "endAt": 1751295600,
+    "transcodeVersion": "2dSMkR",
+    "sharedLink": {
+        "twitter": "https://abema.app/HNPN",
+        "facebook": "https://abema.app/c5wJ",
+        "google": "https://abema.app/dLnQ",
+        "line": "https://abema.app/wrtM",
+        "copy": "https://abema.app/zvmA",
+        "instagram": "https://abema.app/s6n2"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-190_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-190_s1_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-190_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-190_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.9953333333333,
+        "opening": {
+            "start": 154.028875,
+            "end": 243.95204166666667
+        },
+        "ending": {
+            "start": 1329.9953333333333,
+            "end": 1419.9602083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-190_s1_p7",
+        "title": "第7話 怪獣９号",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1719816874,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726668000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-190_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726668000
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727272800
+        }
+    ],
+    "episodeGroupId": "19-190_eg0"
+}

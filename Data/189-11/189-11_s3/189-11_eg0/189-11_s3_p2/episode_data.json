@@ -1,0 +1,141 @@
+{
+    "id": "189-11_s3_p2",
+    "series": {
+        "id": "189-11",
+        "title": "五等分の花嫁",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-11",
+            "filename": "thumb.png",
+            "query": "version=1694402263",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-11",
+            "filename": "portrait.png",
+            "query": "version=1694402263",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-11_s3",
+        "sequence": 3,
+        "name": "五等分の花嫁∽",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1451
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "後編 偶然のない夏休み",
+        "content": "風太郎に誘われてプールにやってきた五つ子。五月が姉妹による風太郎の取り合いが起こらないかと心配する中、二乃と三玖はここぞとばかりに風太郎へアプローチをかけまくる。\nプールからの帰り道、風太郎の背中を見つめながら四葉はこれまで胸に秘めていた想いを巡らせる─"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "上杉風太郎：松岡禎丞",
+            "中野一花：花澤香菜",
+            "中野ニ乃：竹達彩奈",
+            "中野三玖：伊藤美来",
+            "中野四葉：佐倉綾音",
+            "中野五月：水瀬いのり"
+        ],
+        "crews": [
+            "原作：春場ねぎ　「五等分の花嫁」（講談社『週刊少年マガジン』）",
+            "監督：宮本幸裕",
+            "シリーズ構成：大知慶一郎",
+            "キャラクターデザイン：勝又聖人、潮月一也",
+            "色彩設計：日比野 仁、渡辺康子",
+            "美術監督：内藤 健",
+            "CG監督：島 久登",
+            "撮影監督：江上 怜",
+            "編集：松原理恵",
+            "音響監督：髙桑 一",
+            "音楽：中村巴奈重、櫻井美希",
+            "音楽制作：日音",
+            "音響制作：ダックスプロダクション",
+            "配給：ポニーキャニオン",
+            "アニメーション制作：シャフト"
+        ],
+        "copyrights": [
+            "(C)春場ねぎ・講談社／「五等分の花嫁∽」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1694402649,
+    "endAt": 1761922800,
+    "transcodeVersion": "5nLRaR",
+    "sharedLink": {
+        "twitter": "https://abema.app/LR8U",
+        "facebook": "https://abema.app/D4q3",
+        "google": "https://abema.app/wdaJ",
+        "line": "https://abema.app/9afi",
+        "copy": "https://abema.app/kPeV",
+        "instagram": "https://abema.app/pbaJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-11_s3_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-11_s3_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-11_s3_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-11_s3_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1446.9872083333332,
+        "opening": {
+            "start": 65.98258333333334,
+            "end": 153.06958333333333
+        },
+        "ending": {
+            "start": 1303.0100416666667,
+            "end": 1392.265875
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-11_s3_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "189-11_eg0"
+}

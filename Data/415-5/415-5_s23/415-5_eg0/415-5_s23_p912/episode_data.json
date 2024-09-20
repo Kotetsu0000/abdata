@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s23_p912",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s23",
+        "sequence": 23,
+        "name": "season23",
+        "thumbComponent": {},
+        "order": 23
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 912,
+        "title": "第912話 モデルになった探偵団",
+        "content": "洋画家の北園が自宅で殺害される事件が起きる。この日、弟子2人が屋敷に訪ねてくる事になっていて、第1発見者は弟子の東尾だった。もう1人の弟子の西山は奥穂湖で絵を描いていて、遅れて屋敷に現れる。目暮警部たちは東尾、西山と北園の妻の絹子、家政婦のシズの犯行時刻のアリバイを調べる事に。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "62Xw8m",
+    "sharedLink": {
+        "twitter": "https://abema.app/zGpD",
+        "facebook": "https://abema.app/PRDS",
+        "google": "https://abema.app/Mx6g",
+        "line": "https://abema.app/go1s",
+        "copy": "https://abema.app/qqrf",
+        "instagram": "https://abema.app/XJCy"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p912/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p912/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p912/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s23_p912"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.048625,
+        "opening": {
+            "start": 77.952875,
+            "end": 175.00816666666665
+        },
+        "ending": {
+            "start": 1315.6476666666667,
+            "end": 1395.6025416666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s23_p913",
+        "title": "第913話 連れ去られたコナン（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s23_p912/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,147 @@
+{
+    "id": "143-45_s2_p16",
+    "series": {
+        "id": "143-45",
+        "title": "逆境無頼カイジ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "thumb.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "portrait.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-45_s2",
+        "sequence": 2,
+        "name": "逆境無頼カイジ 破戒録篇",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1354
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "Bet.16「決戦の幕開け」",
+        "content": "血のマニキュアの制裁を浴びたカイジ。だがしかし、シャバでの最終日、再びカジノに現れる。そして遂にカイジvs一条の大勝負が始まる！『沼』の第一関門「クギの森」突破の秘策を持っていたカイジ。対する一条も完全無欠、究極の最強マシン『沼』でカイジを潰すべく動き出す･･･。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "カイジ：萩原聖人",
+            "一条：浪川大輔",
+            "遠藤：内田直哉",
+            "兵藤：津嘉山正種",
+            "ナレーション：立木文彦ほか"
+        ],
+        "crews": [
+            "原作：福本伸行（講談社「ヤングマガジン」連載）",
+            "シリーズ構成：高屋敷英夫",
+            "キャラクターデザイン：高田晴仁",
+            "美術監督：上野秀行",
+            "音楽：タニウチヒデキ",
+            "音響監督：本田保則",
+            "監督：佐藤雄三",
+            "アニメーション制作：マッドハウス",
+            "製作著作：日本テレビ、バップ"
+        ],
+        "copyrights": [
+            "(C)福本伸行/講談社・VAP・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709085892,
+    "endAt": 1743433200,
+    "transcodeVersion": "27pUe8",
+    "sharedLink": {
+        "twitter": "https://abema.app/nNRN",
+        "facebook": "https://abema.app/CWS9",
+        "google": "https://abema.app/9h7i",
+        "line": "https://abema.app/p1Ri",
+        "copy": "https://abema.app/1eiD",
+        "instagram": "https://abema.app/Uh6f"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-45_s2_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-45_s2_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-45_s2_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-45_s2_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1284.9503333333334,
+        "opening": {
+            "end": 69.93653333333333
+        },
+        "ending": {
+            "start": 1284.9503333333334,
+            "end": 1354.9202333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-45_s2_p17",
+        "title": "Bet.17「不毛な貫徹」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1709085892,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726592400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-45_s2_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726592400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727240400
+        }
+    ],
+    "episodeGroupId": "143-45_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s18_p683",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s18",
+        "sequence": 18,
+        "name": "season18",
+        "thumbComponent": {},
+        "order": 18
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 683,
+        "title": "第683話 命を賭けた恋愛中継（現場突入）",
+        "content": "高木の足元の板の裏にセットされた時限爆弾。コナンたちは映像から高木がいるのは北海道と判断し、目暮と佐藤はヘリコプターに乗って北海道へ向かう。だが、映像を頼りに探しても高木を見つける事ができない。翌日、コナンは犯人が場所を特定されないように仕掛けたトリックを見破る。爆破の時間は刻一刻と迫っていた…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、山川剛史",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "3ZmwKJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/g7XQ",
+        "facebook": "https://abema.app/qdnP",
+        "google": "https://abema.app/jB5Z",
+        "line": "https://abema.app/NPKc",
+        "copy": "https://abema.app/kYHt",
+        "instagram": "https://abema.app/17e4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s18_p683/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s18_p683/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s18_p683/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s18_p683"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.7910333333334,
+        "opening": {
+            "start": 171.7716,
+            "end": 257.79086666666666
+        },
+        "ending": {
+            "start": 1193.5590333333334,
+            "end": 1273.5389333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s18_p684",
+        "title": "第684話 泡と湯気と煙（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s18_p683/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

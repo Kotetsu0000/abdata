@@ -1,0 +1,145 @@
+{
+    "id": "13-11_s0_p25",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s3",
+        "sequence": 3,
+        "name": "3年目",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 25,
+        "title": "第124話 おねだりも度が過ぎれば脅迫",
+        "content": "過去のスキャンダルを払拭し、今や江戸のトップアイドルにまで上り詰めたお通の新曲リリースがついに決定！ その報を知った新八をはじめとするファンたちは待っていましたとばかりに狂気乱舞するが、発売を間近に控えて思わぬトラブルが発生する。お通の音楽プロデューサー・つんぽの事情で楽曲の製作が遅れ、発売が大幅延期になってしまうというのだ。ファンを裏切ることにどうしても納得ができないお通は、一人で行動を起こすのだが…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296389,
+    "endAt": 1746025200,
+    "transcodeVersion": "4MghqV",
+    "sharedLink": {
+        "twitter": "https://abema.app/zKSF",
+        "facebook": "https://abema.app/4Rrb",
+        "google": "https://abema.app/WpDr",
+        "line": "https://abema.app/4H6E",
+        "copy": "https://abema.app/3nG2",
+        "instagram": "https://abema.app/tcsW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p25/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-11_s0_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1455.0082,
+        "opening": {
+            "start": 1129.163813,
+            "end": 1218.463811
+        },
+        "ending": {
+            "start": 1275.1,
+            "end": 1365.799994
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p26",
+        "title": "第125話 最終章 突入！（酔ってなくても酔ったふりして上司のヅラ取れ）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296389,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-11_s0_p25/timeline",
+        "query": "version=4MghqV",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

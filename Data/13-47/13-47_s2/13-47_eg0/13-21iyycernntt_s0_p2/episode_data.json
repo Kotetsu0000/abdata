@@ -1,0 +1,149 @@
+{
+    "id": "13-21iyycernntt_s0_p2",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s2",
+        "sequence": 2,
+        "name": "2年目",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第51話 ミルクは人肌の温度で",
+        "content": "『アナタの子供です』そんな書き置きとともに、万事屋の前に赤ん坊（勘七郎）が捨て置かれていた。天然パーマの銀髪に死んだ魚のような目…銀時そっくりの容貌に、銀時以外の誰もが銀時の隠し子だと信じて疑わない。勘七郎の愛嬌にすっかりメロメロな新八、神楽、そしてお登勢たち。本当に自分の子供にされてしまいそうな銀時は、勘七郎を連れて万事屋を飛び出す。誰にも話を聞いて貰えない銀時は、途方に暮れるのだった。その頃、大財閥の当主、橋田賀兵衛が万事屋を訪れていた。孫・勘七郎をさらったお房という女の捜索を依頼する賀兵衛に、お登勢はキナ臭さを感じるが…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296387,
+    "endAt": 1743433200,
+    "transcodeVersion": "6siS8P",
+    "sharedLink": {
+        "twitter": "https://abema.app/dvUy",
+        "facebook": "https://abema.app/4qSo",
+        "google": "https://abema.app/8XcX",
+        "line": "https://abema.app/VPLn",
+        "copy": "https://abema.app/iQyt",
+        "instagram": "https://abema.app/D5Fw"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-21iyycernntt_s0_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1369.055666,
+        "opening": {
+            "start": 128.015864,
+            "end": 217.037133
+        },
+        "ending": {
+            "start": 1369.055666,
+            "end": 1460.078933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-21iyycernntt_s0_p3",
+        "title": "第52話 人に会うときはまずアポを",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296387,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726612200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-21iyycernntt_s0_p2/timeline",
+        "query": "version=6siS8P",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726612200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727247600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

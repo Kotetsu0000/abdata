@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p935",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 657
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 935,
+        "title": "#935 カニ食べたい！",
+        "content": "スネ夫に「タラバガニを食べたことないだろう」とバカにされたのび太は、つい「しょっちゅう食べている」「今日も台所に１０匹はあった」とミエを張ってしまう。すると、それを聞いたジャイアンが、のび太の家に食べに行くと言い出す。困ったのび太はドラえもんに頼み込み、吹きつけると見た目だけそっくりになる『モドキスプレー』を出してもらう。\n　このスプレーをカニ風味のかまぼこにかけて、タラバガニとしてジャイアンに出そうと考えるのび太。ところが、スプレーを落としてしまったせいで、のび太とドラえもんがモドキスプレーを浴び、タラバガニの姿になってしまう…！？"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335977,
+    "endAt": 1751295600,
+    "transcodeVersion": "5dXbtt",
+    "sharedLink": {
+        "twitter": "https://abema.app/WvCW",
+        "facebook": "https://abema.app/auEu",
+        "google": "https://abema.app/qjrj",
+        "line": "https://abema.app/WM4z",
+        "copy": "https://abema.app/Lr6G",
+        "instagram": "https://abema.app/xpQ6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p935/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p935/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p935/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p935"
+    },
+    "viewingPoint": {
+        "suggestion": 652.0680833333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p936",
+        "title": "#936 時代を超えてお買い物",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335977,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p935/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

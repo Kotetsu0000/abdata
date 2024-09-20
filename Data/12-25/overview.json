@@ -1,0 +1,82 @@
+{
+    "id": "12-25",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "title": "小市民シリーズ",
+    "content": "“たがいに助け合い、完全な小市民を目指そう。”\nかつて“知恵働き”と称する推理活動により苦い経験をした小鳩くんは、清く慎ましい小市民を目指そうと決意していた。同じ志を立てた同級生の小佐内さんとたがいに助け合う“互恵（ごけい）関係”を密かに結び、小市民としての高校デビューを飾り平穏な日々を送るつもりでいたのだ。ところがふたりの学園生活に、なぜか不可解な事件や災難が次々と舞い込んでくる。はたして小鳩くんと小佐内さんは、小市民としての穏やかな日々を手に入れることができるのだろうか。",
+    "seasons": [
+        {
+            "id": "12-25_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/12-25_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1717728851",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "12-25_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "12-25_eg1",
+                    "name": "PV"
+                },
+                {
+                    "id": "12-25_eg10",
+                    "name": "特番"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)米澤穂信・東京創元社／小市民シリーズ製作委員会"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1726279675525582201",
+    "imageUpdatedAt": 1717728832,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/jJCp",
+        "facebook": "https://abema.app/uFvg",
+        "google": "https://abema.app/JNd5",
+        "line": "https://abema.app/KzBi",
+        "copy": "https://abema.app/btLG",
+        "instagram": "https://abema.app/NVZW"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/12-25",
+        "filename": "thumb.png",
+        "query": "version=1717728832",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/12-25",
+        "filename": "portrait.png",
+        "query": "version=1717728832",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

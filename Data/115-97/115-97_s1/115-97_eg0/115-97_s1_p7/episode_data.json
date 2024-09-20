@@ -1,0 +1,152 @@
+{
+    "id": "115-97_s1_p7",
+    "series": {
+        "id": "115-97",
+        "title": "デッドマウント・デスプレイ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-97",
+            "filename": "thumb.png",
+            "query": "version=1696502159",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-97",
+            "filename": "portrait.png",
+            "query": "version=1696502159",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-97_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "#07 The Magician－奇術師－",
+        "content": "ポルカは自らが転生した異世界の人間であることを呂算に打ち明け四乃山家を去った。東京拘置所では「厄ネタ」の一人である愉快犯「怪人ソリティア」に岩野目と荒瀬が面会し、「火吹き蟲」について聴取を行っていた。ビル火災の犯人が偽物の火吹き蟲であることを見抜いていたソリティアは、本物の火吹き蟲が現れたという知らせを聞き、岩野目と荒瀬の目の前で姿を消し脱獄を果たす。ラジオやテレビの放送を乗っ取り、自らが脱獄したという事実を知らしめ、一週間後に新たな騒動を巻き起こすことを予告したソリティアは、本物の火吹き蟲を呼び出し対峙する。その夜、ポルカの元に、突然四乃山小夜が付き添いの小幽を連れて現れる。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "四乃山ポルカ：榊原優希",
+            "崎宮ミサキ：水瀬いのり",
+            "繰屋匠：内田雄馬",
+            "岩野目ツバキ：江口拓也",
+            "荒瀬耿三郎：岡本信彦",
+            "倉木リサ：種﨑敦美",
+            "雷小幽：福圓美里",
+            "四乃山呂算：山路和弘",
+            "四乃山小夜：大地葉",
+            "阿字城イズナ：大久保瑠美",
+            "一ノ瀬古瑠斗：長谷川育美",
+            "合川咲姫：白石晴香"
+        ],
+        "crews": [
+            "原作：成田良悟 / 藤本新太（掲載「ヤングガンガン」スクウェア・エニックス刊）",
+            "監督・シリーズ構成：小野学",
+            "副監督：大隈孝晴",
+            "助監督：北井嘉樹",
+            "キャラクターデザイン：阿部恒",
+            "脚本：小野 学・菅原雪絵・冨田頼子",
+            "音響監督：山口貴之",
+            "録音スタジオ：HALF H・P STUDIO",
+            "音楽：F.M.F（奈良悠樹・eba・うたたね歌菜）",
+            "アニメーション制作：GEEKTOYS"
+        ],
+        "copyrights": [
+            "(C)成田良悟・藤本新太／SQUARE ENIX・「デッドマウント・デスプレイ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704338392,
+    "endAt": 1735657200,
+    "transcodeVersion": "2JmCBa",
+    "sharedLink": {
+        "twitter": "https://abema.app/SieB",
+        "facebook": "https://abema.app/xJe1",
+        "google": "https://abema.app/CDVx",
+        "line": "https://abema.app/B682",
+        "copy": "https://abema.app/GVdu",
+        "instagram": "https://abema.app/2Gy3"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-97_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-97_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-97_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-97_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.013555,
+        "opening": {
+            "start": 48.11904,
+            "end": 138.019039
+        },
+        "ending": {
+            "start": 1325.104638,
+            "end": 1414.942783
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-97_s1_p8",
+        "title": "#08 The Assassin－暗殺者－",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1704338392,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-97_s1_p7/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "115-97_eg0"
+}

@@ -1,0 +1,117 @@
+{
+    "id": "218-470_s1_p22",
+    "series": {
+        "id": "218-470",
+        "title": "5周年記念 声優と夜あそび28時間テレビ 大感謝祭 ~Say You Thank You~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "thumb.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "portrait.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-470_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1057
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 22,
+        "title": "視聴者が選ぶ！ もう１度観たいあのあそび！〜ルビ無しニュース〜",
+        "content": "視聴者が選んだもう一度観たいあのあそびをやってみよう！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "森久保祥太郎",
+            "安元洋貴",
+            "仲村宗悟",
+            "石川界人",
+            "細谷佳正"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680241391,
+    "endAt": 1755702000,
+    "transcodeVersion": "59QvnE",
+    "sharedLink": {
+        "twitter": "https://abema.app/p8Le",
+        "facebook": "https://abema.app/hXQK",
+        "google": "https://abema.app/AxGi",
+        "line": "https://abema.app/BMi4",
+        "copy": "https://abema.app/Pik6",
+        "instagram": "https://abema.app/iik7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-470_s1_p22/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-470_s1_p22/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-470_s1_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-470_s1_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1052.723333
+    },
+    "nextProgramInfo": {
+        "programId": "218-470_s1_p23",
+        "title": "視聴者が選ぶ！ もう１度観たいあのあそび！〜気配斬り〜",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1680241391,
+        "endAt": 1755702000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755702000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-470_s1_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755702000
+        }
+    ],
+    "episodeGroupId": "218-470_eg0"
+}

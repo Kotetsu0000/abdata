@@ -1,0 +1,157 @@
+{
+    "id": "174-6_s0_p2",
+    "series": {
+        "id": "174-6",
+        "title": "俺の彼女と幼なじみが修羅場すぎる",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-6",
+            "filename": "thumb.png",
+            "query": "version=1627289030",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-6",
+            "filename": "portrait.png",
+            "query": "version=1627289030",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "174-6_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話「新しい部を結成して修羅場」",
+        "content": "真涼の「彼氏」になった鋭太。\nそれに反発した千和は、真涼に対抗して「モテまくりになる」と宣言する。\nしかしその行動がことごとくうまくいかない千和のため、真涼はとある部活を設立する。\nその名も、「自らを演出する乙女の会」！！"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "季堂鋭太：逢坂良太",
+            "春咲千和：赤﨑千夏",
+            "夏川真涼：田村ゆかり",
+            "秋篠姫香：金元寿子",
+            "冬海愛衣：茅野愛衣 他"
+        ],
+        "crews": [
+            "原作：裕時悠示（GA文庫／ソフトバンク クリエイティブ刊）",
+            "原作イラスト：るろお",
+            "監督：亀井幹太",
+            "シリーズ構成：浦畑達彦",
+            "キャラクターデザイン／総作画監督：大塚舞",
+            "プロップデザイン：尾崎智美",
+            "色彩設定：坂本いづみ",
+            "美術監督：湯澤康之",
+            "撮影監督：廣岡岳",
+            "編集：坪根健太郎",
+            "音楽：太田雅友",
+            "音響監督：明田川仁",
+            "音響効果：小山恭正",
+            "音響制作：マジックカプセル",
+            "制作：A-1 Pictures"
+        ],
+        "copyrights": [
+            "(C)裕時悠示・ソフトバンク クリエイティブ／「俺修羅」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713941614,
+    "endAt": 1748703600,
+    "freeEndAt": 1726484400,
+    "transcodeVersion": "34GMej",
+    "sharedLink": {
+        "twitter": "https://abema.app/cdJU",
+        "facebook": "https://abema.app/SxyU",
+        "google": "https://abema.app/RVLL",
+        "line": "https://abema.app/qLm4",
+        "copy": "https://abema.app/bWQB",
+        "instagram": "https://abema.app/ko6Z"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/174-6_s0_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/174-6_s0_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/174-6_s0_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/174-6_s0_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.174-6_s0_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.003555
+    },
+    "nextProgramInfo": {
+        "programId": "174-6_s0_p3",
+        "title": "第3話「幼なじみの涙で修羅場」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713941614,
+        "endAt": 1748703600,
+        "freeEndAt": 1726484400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726484400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/174-6_s0_p2/timeline",
+        "query": "version=34GMej",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726484400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "174-6_eg0"
+}

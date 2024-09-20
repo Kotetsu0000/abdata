@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s6_p248",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s6",
+        "sequence": 6,
+        "name": "season6",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 248,
+        "title": "第248話 癒しの森のアリバイ",
+        "content": "ペンションオーナーの村上紫郎と弟の立柴金次とともに癒しの森にあるペンションにやってきた、コナン、蘭、小五郎。村上と立柴が夕食用の山菜採りから戻ると、２人の父であり村長である村上竜蔵が自宅で殺害されたとの知らせが届く。村長宅からペンションまでは１時間の距離があり、兄弟２人に犯行は不可能に思えたが…。"
+    },
+    "credit": {
+        "released": 2001,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066301,
+    "endAt": 1740754800,
+    "transcodeVersion": "5vCAd2",
+    "sharedLink": {
+        "twitter": "https://abema.app/HYh6",
+        "facebook": "https://abema.app/c6ph",
+        "google": "https://abema.app/8QSx",
+        "line": "https://abema.app/4nxK",
+        "copy": "https://abema.app/2GgA",
+        "instagram": "https://abema.app/SsbA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p248/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p248/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p248/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s6_p248"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.5594666666666,
+        "opening": {
+            "start": 17.884533333333334,
+            "end": 101.96853333333334
+        },
+        "ending": {
+            "start": 1291.8906,
+            "end": 1377.8097666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s6_p249",
+        "title": "第249話 アイドル達の秘密（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066301,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s6_p248/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

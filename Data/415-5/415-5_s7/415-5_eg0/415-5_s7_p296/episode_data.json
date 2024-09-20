@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s7_p296",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s7",
+        "sequence": 7,
+        "name": "season7",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1473
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 296,
+        "title": "第296話 屋形船　釣りショック",
+        "content": "小五郎とコナン、蘭は、工務店社長・河井に招待され、河井の知り合いの金融業者・山崎と共に屋形船に乗りこんだ。米花湾の中程で、コナンたちは対岸の夜景と花火を楽しみながら料理をごちそうになり、河井と山崎は舳先で釣りをしていた。その時、河井たちにビールを届けに行った船長の娘・サオリの悲鳴が聞こえる。"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066302,
+    "endAt": 1740754800,
+    "transcodeVersion": "2xFDqY",
+    "sharedLink": {
+        "twitter": "https://abema.app/23hb",
+        "facebook": "https://abema.app/35vj",
+        "google": "https://abema.app/D798",
+        "line": "https://abema.app/DMTT",
+        "copy": "https://abema.app/BapM",
+        "instagram": "https://abema.app/Q4EY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s7_p296/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s7_p296/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s7_p296/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s7_p296"
+    },
+    "viewingPoint": {
+        "suggestion": 1428.5604666666666,
+        "opening": {
+            "start": 16.783433333333335,
+            "end": 103.53676666666667
+        },
+        "ending": {
+            "start": 1292.0908,
+            "end": 1376.5418333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s7_p297",
+        "title": "第297話 法廷の対決Ⅱ　妃ＶＳ九条（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066302,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s7_p296/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

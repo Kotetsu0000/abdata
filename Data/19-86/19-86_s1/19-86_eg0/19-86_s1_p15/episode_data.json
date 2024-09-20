@@ -1,0 +1,156 @@
+{
+    "id": "19-86_s1_p15",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "【MISSION：15】新しい家族",
+        "content": "敵の爆弾犬と対峙するロイド、人知れずロイドを救ったアーニャ、そして逃走するテロ首謀者を発見したヨル。家族それぞれが関わることとなった爆弾テロ事件、果たしてその結末は!?　そして当初の目的であった〈星(ステラ)〉獲得のご褒美として、アーニャは事件で出会った未来予知をする大型犬をペットとして飼いたいと言う。犬たちの裏事情を知るロイドは渋るが、アーニャは飼わなければ学校を辞めるとまで言い出して……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "transcodeVersion": "BJyAC",
+    "sharedLink": {
+        "twitter": "https://abema.app/VLS7",
+        "facebook": "https://abema.app/EHGR",
+        "google": "https://abema.app/znJJ",
+        "line": "https://abema.app/QVjx",
+        "copy": "https://abema.app/hYVw",
+        "instagram": "https://abema.app/HFwE"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.080266,
+        "opening": {
+            "start": 53.1411,
+            "end": 140.0411
+        },
+        "ending": {
+            "start": 1350.103433,
+            "end": 1437.003433
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p16",
+        "title": "【MISSION：16】ヨル’sキッチン／情報屋の恋愛大作戦",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726765200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p15/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726765200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727370000
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

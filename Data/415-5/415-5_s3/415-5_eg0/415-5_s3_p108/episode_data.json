@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s3_p108",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 108,
+        "title": "第108話 モグラ星人謎の事件(後編)",
+        "content": "謎の洋館の主･綿貫が妹を殺して庭に埋めたと言い張っていた幸田が、宝石店に強盗に入った。逃走中の幸田はマンホールを利用して綿貫邸に入り込み、庭のあちこちを棒で突き刺している。コナンは張り込み中の歩美たちと合流し、幸田に自首を促す。幸田は駆けつけた目暮警部に、盗んだ宝石は分散して庭に埋めたと告白する。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066298,
+    "endAt": 1740754800,
+    "transcodeVersion": "219MLo",
+    "sharedLink": {
+        "twitter": "https://abema.app/1iiX",
+        "facebook": "https://abema.app/8wQ3",
+        "google": "https://abema.app/qzgz",
+        "line": "https://abema.app/LTHX",
+        "copy": "https://abema.app/N8uB",
+        "instagram": "https://abema.app/4r6o"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p108/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p108/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p108/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s3_p108"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.0559666666666,
+        "opening": {
+            "start": 16.2162,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1286.3517333333334,
+            "end": 1371.3032666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s3_p109",
+        "title": "第109話 探偵団大追跡事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066298,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s3_p108/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,154 @@
+{
+    "id": "203-7_s1_p91",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 91,
+        "title": "第91話 スパイニハシヲ",
+        "content": "クァイドゥールが告げたベルギャー人の過酷な運命。悲劇的な未来を変えるため遊飛たちは奔走する。シャポー星人の秘密の集会があることを知った遊飛は、予言能力を持つカモスにユウディアスたちの未来を尋ねようと、シャポー星人に扮して集会に潜入するが…。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944781,
+    "endAt": 1743433200,
+    "transcodeVersion": "6XdQHf",
+    "sharedLink": {
+        "twitter": "https://abema.app/zRyp",
+        "facebook": "https://abema.app/3A8j",
+        "google": "https://abema.app/YFWE",
+        "line": "https://abema.app/1h4y",
+        "copy": "https://abema.app/aPmw",
+        "instagram": "https://abema.app/25ht"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-7_s1_p91/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-7_s1_p91/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-7_s1_p91/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p91"
+    },
+    "viewingPoint": {
+        "suggestion": 1320.1188,
+        "opening": {
+            "start": 145.01153333333335,
+            "end": 235.00143333333332
+        },
+        "ending": {
+            "start": 1320.1188,
+            "end": 1410.0753333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-7_s1_p92",
+        "title": "第92話 動物スタァ誕生",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944781,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p91/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

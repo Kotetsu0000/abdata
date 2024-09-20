@@ -1,0 +1,160 @@
+{
+    "id": "54-64_s1_p2",
+    "series": {
+        "id": "54-64",
+        "title": "最果てのパラディン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-64",
+            "filename": "thumb.png",
+            "query": "version=1696235709",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-64",
+            "filename": "portrait.png",
+            "query": "version=1696235709",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-64_s1",
+        "sequence": 1,
+        "name": "第一期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 彷徨の賢者",
+        "content": "マリーの秘密を知ってから5年が経ち、ウィルは13歳になっていた。三人から教わる内容は日々高度になり、ウィルも負けじと食らいついていく。そんなある日、ブラッドの授業で廃墟都市の地下街から脱出するよう命じられる。必死に魔物を倒しながら出口を目指すウィルだが、異様な殺気を感じ足を止めると、そこにいたのは――"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "ウィル（ウィリアム・G・マリーブラッド）：河瀬茉希",
+            "ブラッド：小西克幸",
+            "マリー：堀江由衣",
+            "ガス（オーガスタス）：飛田展男",
+            "メネル（メネルドール）：村瀬歩",
+            "ビィ（ロビィナ・グッドフェロー）：鈴木絵理",
+            "トニオ（アントニオ）：遊佐浩二",
+            "グレイスフィール：悠木碧",
+            "スタグネイト：高橋広樹"
+        ],
+        "crews": [
+            "原作：柳野かなた（オーバーラップ文庫刊）",
+            "キャラクター原案：輪くすさが",
+            "監督：信田ユウ",
+            "シリーズ構成：髙橋龍也",
+            "キャラクターデザイン：羽田浩二",
+            "音楽：高田龍一 (MONACA)、帆足圭吾 (MONACA)",
+            "アニメーション制作：Children’s Playground Entertainment",
+            "製作：最果てのパラディン製作委員会",
+            "bilibili",
+            "OVERLAP",
+            "ドコモ・アニメストア"
+        ],
+        "copyrights": [
+            "(C)柳野かなた・オーバーラップ／最果てのパラディン製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704338488,
+    "endAt": 1727708400,
+    "transcodeVersion": "5oTEQU",
+    "sharedLink": {
+        "twitter": "https://abema.app/vLpB",
+        "facebook": "https://abema.app/xVtt",
+        "google": "https://abema.app/TP2g",
+        "line": "https://abema.app/eFsU",
+        "copy": "https://abema.app/cj5x",
+        "instagram": "https://abema.app/svfC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-64_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-64_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-64_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-64_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.001911,
+        "opening": {
+            "start": 127.025099,
+            "end": 216.092667
+        },
+        "ending": {
+            "start": 1274.220124,
+            "end": 1363.547597
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "54-64_s1_p3",
+        "title": "第3話 約束の日",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1704338488,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-64_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "54-64_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s22_p885",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s22",
+        "sequence": 22,
+        "name": "season22",
+        "thumbComponent": {},
+        "order": 22
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 885,
+        "title": "第885話 謎解きは喫茶ポアロで（前編）",
+        "content": "コナン、蘭は大阪から来た平次、和葉と錦座のイルミネーションを見に行く事に。蘭と和葉が夕飯の仕度をしている間、コナンと平次は喫茶ポアロで時間をつぶす。コナンたちの隣の席にやってきたのは米花大学の大積、唯、安斉、永塚。4人は唯の誕生日会をやるという。この後、ブレーカーが落ちて店内が暗くなる。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "5gQZd3",
+    "sharedLink": {
+        "twitter": "https://abema.app/8qrY",
+        "facebook": "https://abema.app/fLFy",
+        "google": "https://abema.app/W3VL",
+        "line": "https://abema.app/sbxP",
+        "copy": "https://abema.app/WGCS",
+        "instagram": "https://abema.app/W1r9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s22_p885/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s22_p885/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s22_p885/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s22_p885"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0520416666666,
+        "opening": {
+            "start": 121.03758333333333,
+            "end": 219.96975
+        },
+        "ending": {
+            "start": 1345.0520416666666,
+            "end": 1424.9652083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s22_p886",
+        "title": "第886話 謎解きは喫茶ポアロで（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s22_p885/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

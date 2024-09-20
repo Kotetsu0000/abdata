@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s3_p57",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 57,
+        "title": "第57話 救助演習",
+        "content": "仮免試験の二次選考は救助演習！「敵＜ヴィラン＞によるテロが発生」という神野区での事件を模したような設定に、出久たちは奮い立つ。開始後、さっそく要救助者役のＨＵＣのメンバーを救出するも、その手順などに激しいダメ出しを受ける出久。それでも、チームワークや偶然もあり、救出を進めるＡ組の生徒たちであったが、突如、壁が爆発！「テロ」を起こした敵＜ヴィラン＞役として、No.10ヒーロー・ギャングオルカとその部下達が会場に乱入するのであった。ギャングオルカは言う「どう動く!?ヒーロー！」"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872424,
+    "endAt": 1759244400,
+    "transcodeVersion": "5nR27U",
+    "sharedLink": {
+        "twitter": "https://abema.app/pdLo",
+        "facebook": "https://abema.app/NtCw",
+        "google": "https://abema.app/rNv3",
+        "line": "https://abema.app/avKx",
+        "copy": "https://abema.app/bCi4",
+        "instagram": "https://abema.app/U3B1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s3_p57/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s3_p57/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s3_p57/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s3_p57"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0420666666666,
+        "opening": {
+            "start": 20.053366666666665,
+            "end": 110.0099
+        },
+        "ending": {
+            "start": 1310.0420666666666,
+            "end": 1400.0987
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s3_p58",
+        "title": "第58話 特別編・愛で地球を救え！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872424,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s3_p57/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

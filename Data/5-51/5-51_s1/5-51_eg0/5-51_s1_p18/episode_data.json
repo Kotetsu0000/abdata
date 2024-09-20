@@ -1,0 +1,146 @@
+{
+    "id": "5-51_s1_p18",
+    "series": {
+        "id": "5-51",
+        "title": "ハートキャッチプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-51",
+            "filename": "thumb.png",
+            "query": "version=1721020414",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-51",
+            "filename": "portrait.png",
+            "query": "version=1721020414",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-51_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 18,
+        "title": "第18話　最強伝説！ 番長登場、ヨロシクです!!",
+        "content": "プリントを渡すため、クラスメイトの番ケンジの家を訪ねることになったつぼみ。えりかはケンジのことを「伝説の番長」だと言って怖がっています。えりかによると、ケンジがひとにらみしただけで、どんなに強い番長も逃げ出したほどだと言うのです。そして、つぼみとえりかは、ケンジの家の前に着きます。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "花咲つぼみ／キュアブロッサム：水樹奈々",
+            "来海えりか/キュアマリン：水沢史絵",
+            "明堂院いつき/キュアサンシャイン：桑島法子",
+            "月影ゆり/キュアムーンライト：久川 綾",
+            "シプレ：川田妙子",
+            "コフレ：くまいもとこ",
+            "ポプリ：菊池こころ"
+        ],
+        "crews": [
+            "プロデューサー：吉田健一郎、佐々木礼子、梅澤淳稔",
+            "企画：西出将之、松下洋子、関 弘美",
+            "シリーズディレクター：長峯達也",
+            "シリーズ構成：山田隆司",
+            "キャラクターデザイン：馬越嘉彦",
+            "美術デザイン：増田竜太郎",
+            "音楽：高梨康治",
+            "色彩設計：佐久間ヨシ子",
+            "製作担当：額賀康彦"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721266180,
+    "endAt": 1740754800,
+    "transcodeVersion": "5G2hFF",
+    "sharedLink": {
+        "twitter": "https://abema.app/w3tp",
+        "facebook": "https://abema.app/4v68",
+        "google": "https://abema.app/KuBU",
+        "line": "https://abema.app/QnG6",
+        "copy": "https://abema.app/MuUZ",
+        "instagram": "https://abema.app/FYZF"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-51_s1_p18/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-51_s1_p18/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-51_s1_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-51_s1_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.09375,
+        "opening": {
+            "start": 81.99858333333333,
+            "end": 167.00016666666667
+        },
+        "ending": {
+            "start": 1345.09375,
+            "end": 1435.058625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-51_s1_p19",
+        "title": "第19話　涙の嫁入り！ 父の日の記念写真です!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721266202,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-51_s1_p18/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-51_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s21_p816",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s21",
+        "sequence": 21,
+        "name": "season21",
+        "thumbComponent": {},
+        "order": 21
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 816,
+        "title": "第816話 残念でやさしい宇宙人",
+        "content": "夜、OLの中島亜里紗とトリュンペルマン・スーザンが米妙寺へ続く石段を歩いていると、全身を青白く光らせた異形の生物が出現。その生物は宇宙人と名乗り、亜里紗は笑いながら宇宙人とスーザンが並ぶ動画を撮影する。その時、石段の上の方から「宇宙人だ」と驚く男性の声が聞こえてくる。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066316,
+    "endAt": 1740754800,
+    "transcodeVersion": "3pjTL2",
+    "sharedLink": {
+        "twitter": "https://abema.app/mBN1",
+        "facebook": "https://abema.app/hCfU",
+        "google": "https://abema.app/FaAb",
+        "line": "https://abema.app/rpVg",
+        "copy": "https://abema.app/Y5bY",
+        "instagram": "https://abema.app/8vwr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p816/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p816/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p816/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s21_p816"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 96.721625,
+            "end": 196.94675
+        },
+        "ending": {
+            "start": 1305.9713333333334,
+            "end": 1385.8845
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s21_p817",
+        "title": "第817話 消えたフィアンセ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066316,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s21_p816/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

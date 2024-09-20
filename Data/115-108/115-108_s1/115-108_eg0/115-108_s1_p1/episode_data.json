@@ -1,0 +1,160 @@
+{
+    "id": "115-108_s1_p1",
+    "series": {
+        "id": "115-108",
+        "title": "亜人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-108",
+            "filename": "thumb.png",
+            "query": "version=1713661163",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-108",
+            "filename": "portrait.png",
+            "query": "version=1713661163",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-108_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "#01 僕らには関係ない話",
+        "content": "亜人――それは、決して死なない存在。\n17年前のアフリカで発見され、以降、全世界で46体、日本国内では2体が確認されている。\n\n永井圭は、医学部受験を控えた高校生だ。彼がめざしているのは、立派な人間。そのために、規律正しい生活と周囲から浮かない程度にまじめな授業態度、クラスメイトとの適度な交友を心がけている。\n学校で、“亜人”に関する授業が行われたその日、圭は友人たちが携帯電話で見ていた亜人の実験映像に興味を持つ。そこには、自分が幼少期に見た、黒い霧のような物体が映っていた……。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "永井圭：宮野真守",
+            "海斗：細谷佳正",
+            "中野攻：福山潤",
+            "佐藤：大塚芳忠",
+            "田中功次：平川大輔",
+            "戸崎：櫻井孝宏",
+            "下村泉：小松未可子",
+            "オグラ・イクヤ：木下浩之",
+            "曽我部：鈴村健一",
+            "アルメイダ：森川智之",
+            "マイヤーズ：坂本真綾",
+            "永井慧理子：洲崎綾",
+            "琴吹武：斉藤壮馬"
+        ],
+        "crews": [
+            "原作：桜井画門",
+            "総監督：瀬下寛之",
+            "監督：安藤裕章",
+            "シリーズ構成：瀬古浩司",
+            "プロダクションデザイナー：田中直哉",
+            "メインキャラクターデザイナー：森山佑樹",
+            "造形監督：片塰満則",
+            "美術監督：滝口比呂志",
+            "色彩設計：野地弘納",
+            "演出：りょーちも、鹿住朗生、井手恵介",
+            "CGスーパーバイザー：岩田健志、菅井進、上本雅之、溝口結城",
+            "編集：渡邊潤",
+            "音響監督：岩浪美和",
+            "音楽：菅野祐悟",
+            "音楽制作：スターチャイルドレコード",
+            "アニメーション制作：ポリゴン・ピクチュアズ",
+            "製作：亜人管理委員会"
+        ],
+        "copyrights": [
+            "(C)桜井画門・講談社／亜人管理委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711691217,
+    "endAt": 1748703600,
+    "freeEndAt": 1748703600,
+    "transcodeVersion": "5PTXEj",
+    "sharedLink": {
+        "twitter": "https://abema.app/Q4SD",
+        "facebook": "https://abema.app/53CD",
+        "google": "https://abema.app/jfTA",
+        "line": "https://abema.app/564L",
+        "copy": "https://abema.app/3fES",
+        "instagram": "https://abema.app/4P9Y"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-108_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-108_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/115-108_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-108_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-108_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.09575,
+        "opening": {
+            "start": 202.076875,
+            "end": 291.916625
+        },
+        "ending": {
+            "start": 1347.09575,
+            "end": 1437.0189166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-108_s1_p2",
+        "title": "#02 何でこんなことになったんだ。僕は悪くないのに",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711697597,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-108_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "115-108_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s23_p926",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s23",
+        "sequence": 23,
+        "name": "season23",
+        "thumbComponent": {},
+        "order": 23
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 926,
+        "title": "第926話 心のこもったストラップ（後編）",
+        "content": "灰原は大好きな比護選手のぬいぐるみストラップを電車の中で紛失する。息子のストラップと勘違いして拾った男性は潮干狩りに向かった可能性が高く、コナン、歩美、元太、光彦、安室は立ち直れない灰原の代わりに海水浴場までこの親子を探しに行く。安室の協力もあり、親子を海の家に呼び出して会う事に成功するが…"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "5e83AN",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZYe1",
+        "facebook": "https://abema.app/rkms",
+        "google": "https://abema.app/3F5C",
+        "line": "https://abema.app/NzZY",
+        "copy": "https://abema.app/usME",
+        "instagram": "https://abema.app/jQmn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p926/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p926/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p926/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s23_p926"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667,
+        "opening": {
+            "start": 173.92375,
+            "end": 273.94033333333334
+        },
+        "ending": {
+            "start": 1273.3137083333334,
+            "end": 1353.226875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s24_p927",
+        "title": "第927話 紅の修学旅行（鮮紅編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066319,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s23_p926/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

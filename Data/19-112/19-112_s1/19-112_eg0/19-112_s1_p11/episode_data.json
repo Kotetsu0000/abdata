@@ -1,0 +1,129 @@
+{
+    "id": "19-112_s1_p11",
+    "series": {
+        "id": "19-112",
+        "title": "いぬやしき",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-112",
+            "filename": "thumb.png",
+            "query": "version=1660556955",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-112",
+            "filename": "portrait.png",
+            "query": "version=1660556955",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-112_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "#11 地球の人たち",
+        "content": "新宿で多くの人を救い、自宅に戻る犬屋敷。犬屋敷は帰宅を待っていた家族に自身が機械の体である事を告げ、家族のもとを去ろうとする。しかし、家族は機械になった彼の存在を受け入れ、涙を流して抱き合う。\n一方、犬屋敷との戦いで両腕を失った獅子神は安堂のもとを訪れていた。安堂は獅子神の来訪に戸惑うが、獅子神を激しく断罪する。大切に思っていた親友に強く存在を否定された獅子神は、失意の中、安堂の前から姿を消す。\n犬屋敷は自分を受け入れてくれた家族と幸せな時間を過ごしていたが、巨大隕石が直撃する未曽有の危機が地球に迫っている事を知る。世界中が絶望に暮れる中、犬屋敷は家族を守るという決意とともに隕石に向けて飛び立つのだった・・・。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "犬屋敷 壱郎：小日向文世",
+            "獅子神 皓：村上虹郎",
+            "安堂 直行：本郷奏多",
+            "犬屋敷麻理：上坂すみれ",
+            "渡辺しおん：諸星すみれ"
+        ],
+        "crews": [
+            "原作：奥浩哉（講談社「イブニングKC」所載）",
+            "総監督：さとうけいいち（「TIGER&BUNNY」「神撃のバハムート VIRGIN SOUL」監督、「GANTZ:O」総監督）",
+            "監督：籔田修平（「甲鉄城のカバネリ」「進撃の巨人」3D監督）",
+            "シリーズ構成・脚本：瀬古浩司（「亜人」「残響のテロル」）",
+            "キャラクターデザイン：恩田尚之（「神撃のバハムート VIRGIN SOUL」「GANTZ」キャラクターデザイン・総作画監督）",
+            "音楽：池頼広（「相棒」「TIGER&BUNNY」「神撃のバハムート VIRGIN SOUL」）",
+            "オープニング・テーマ：MAN WITH A MISSION「My Hero」",
+            "エンディング・テーマ：クアイフ「愛を教えてくれた君へ」",
+            "制作：MAPPA（「この世界の片隅に」「ユーリ!!! on ICE」）"
+        ],
+        "copyrights": [
+            "(C)奥浩哉・講談社／アニメ「いぬやしき」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682400385,
+    "endAt": 1759244400,
+    "transcodeVersion": "6D3jJt",
+    "sharedLink": {
+        "twitter": "https://abema.app/RS35",
+        "facebook": "https://abema.app/hPpJ",
+        "google": "https://abema.app/NwAq",
+        "line": "https://abema.app/ziQK",
+        "copy": "https://abema.app/T4iM",
+        "instagram": "https://abema.app/KmR9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-112_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-112_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-112_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-112_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1370.040322
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-112_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-112_eg0"
+}

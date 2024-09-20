@@ -1,0 +1,92 @@
+{
+    "id": "54-64",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "最果てのパラディン",
+    "content": "かつて滅びた死者の街――\n人里離れたこの地に一人の生きた子供、ウィルがいた。\n少年を育てるのは三人の不死者（アンデッド）。\n豪快な骸骨の剣士のブラッド。淑やかな神官ミイラのマリー。偏屈な魔法使いの幽霊のガス。\n彼ら三人に教えを受け、愛を注がれ少年は育てられる。\nそしていつしか少年は一つの疑念を抱く。\n「……この『僕』って、何者なんだ？」\nウィルにより解き明かされる最果ての街に秘められた不死者（アンデッド）たちの抱える謎。\n善なる神々の愛と慈悲。\n悪なる神々の偏執と狂気。\n――その全てを知る時、少年は聖騎士（パラディン）への道を歩みだす。",
+    "seasons": [
+        {
+            "id": "54-64_s1",
+            "sequence": 1,
+            "name": "第一期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-64_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1692689917",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-64_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "54-64_s2",
+            "sequence": 2,
+            "name": "第二期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-64_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1696235756",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-64_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)柳野かなた・オーバーラップ／最果てのパラディン製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726195359325734621",
+    "imageUpdatedAt": 1696235709,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Lovi",
+        "facebook": "https://abema.app/orhL",
+        "google": "https://abema.app/jX55",
+        "line": "https://abema.app/a9T2",
+        "copy": "https://abema.app/ewDT",
+        "instagram": "https://abema.app/1Yc8"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-64",
+        "filename": "thumb.png",
+        "query": "version=1696235709",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-64",
+        "filename": "portrait.png",
+        "query": "version=1696235709",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

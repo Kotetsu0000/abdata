@@ -1,0 +1,153 @@
+{
+    "id": "115-114_s1_p107",
+    "series": {
+        "id": "115-114",
+        "title": "エルフさんは痩せられない。",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-114",
+            "filename": "thumb.png",
+            "query": "version=1721870542",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-114",
+            "filename": "portrait.png",
+            "query": "version=1721870542",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-114_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 720
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 107,
+        "title": "第7話 恥辱の芋とタイタンの巨拳",
+        "content": "ハンバーガーショップで１年分のポテト無料券をプレゼントされてしまう絵留札。しかしそれは店員に変装した佐手呂の仕掛けた罠だった！そうとは気づかずポテトに飛びつく絵留札だったが……\nボクシングジムでトレーニングに励む直江と一同。そこに巨漢の女性客、キュクロープスの一目がやってくる。並外れたパワーの持ち主である一目は、スパー相手がおらず困っているという。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "絵留札：伊藤彩沙",
+            "直江友厚：石井孝英",
+            "黒枝：長谷川玲奈",
+            "男鹿：福原綾香",
+            "草花田：久保田未夢",
+            "米路：徳井青空",
+            "頼加：朝日奈丸佳",
+            "奥・猪野明穂：内田彩",
+            "児穂：小岩井ことり",
+            "佐手呂：井口裕香",
+            "骨田：前田佳織里",
+            "含蛇：島田愛野",
+            "一目：佐々木未来"
+        ],
+        "crews": [
+            "原作：シネクドキ（秋田書店「ヤングチャンピオン・コミックス」刊／原作企画：シャインパートナーズ）",
+            "監督：所俊克",
+            "キャラクターデザイン：佐藤勝行",
+            "シリーズ構成：高林ユーキ",
+            "色彩設計：有尾由紀子",
+            "美術監督：高橋忍",
+            "撮影監督：みやがわよしかず",
+            "編集：柳圭介",
+            "音響監督：山口貴之",
+            "音楽：渡部チェル",
+            "アニメーション制作：Elias"
+        ],
+        "copyrights": [
+            "(C)シネクドキ（秋田書店）／エルフさん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129252,
+    "endAt": 1759244400,
+    "transcodeVersion": "5VB5TM",
+    "sharedLink": {
+        "twitter": "https://abema.app/SpQL",
+        "facebook": "https://abema.app/jLVq",
+        "google": "https://abema.app/Dmc7",
+        "line": "https://abema.app/cTs2",
+        "copy": "https://abema.app/RW64",
+        "instagram": "https://abema.app/hs4K"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-114_s1_p107/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-114_s1_p107/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-114_s1_p107/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-114_s1_p107"
+    },
+    "viewingPoint": {
+        "suggestion": 660.9936666666666,
+        "ending": {
+            "start": 660.9936666666666,
+            "end": 720.9285416666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-114_s1_p108",
+        "title": "第8話 異世界人と熱盛りのポーズ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726129252,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-114_s1_p107/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "115-114_eg2"
+}

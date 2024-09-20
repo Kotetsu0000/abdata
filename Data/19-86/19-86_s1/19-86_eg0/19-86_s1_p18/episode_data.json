@@ -1,0 +1,152 @@
+{
+    "id": "19-86_s1_p18",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 18,
+        "title": "【MISSION：18】家庭教師の叔父／〈東雲(しののめ)〉",
+        "content": "「家庭教師の叔父」来週はイーデン校の中間試験。その日はアーニャが超能力を使えなくなる新月の日で、カンニングができない。ヨルの提案でユーリに家庭教師をしてもらうことになり……。／「〈東雲(しののめ)〉」中間試験が終了。アーニャの試験の出来に不安を感じたロイドは、答案を改ざんするためイーデン校へ。そこには同じように潜入を目論む、あからさまに怪しい男が!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "transcodeVersion": "5Eybpw",
+    "sharedLink": {
+        "twitter": "https://abema.app/5T3h",
+        "facebook": "https://abema.app/e2hM",
+        "google": "https://abema.app/87BR",
+        "line": "https://abema.app/8UoW",
+        "copy": "https://abema.app/fvZQ",
+        "instagram": "https://abema.app/Un7q"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p18/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p18/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 1352.958144,
+        "ending": {
+            "start": 1350.064193,
+            "end": 1437.064214
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p19",
+        "title": "【MISSION：19】デズモンドへの復讐計画／母、風になる",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726765200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p18/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726765200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727370000
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

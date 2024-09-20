@@ -1,0 +1,149 @@
+{
+    "id": "19-15_s4_p81",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s4",
+        "sequence": 4,
+        "name": "第4期",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 81,
+        "title": "第81話 文化祭",
+        "content": "雄英高校の文化祭に向けてヒーロー科1年A組はクラスの出し物を決める会議を行うがまったくまとまらず、その夜寮で再度話し合う。ヒーロー科以外の科の生徒たちも含め全員が楽しめるものを提供する、という発想と、仮免補講での経験をもとに連想した轟からの提案もあり、皆を笑顔にするため、ダンスは芦戸、バンドは耳郎を中心としてステージをすることに。そして翌日、エリを見舞ったデクとミリオは、いまだ治崎の呪縛から解かれず笑うということを知らないままのエリを文化祭に招待することを決める。そんな中、動画サイトを密かに賑わせている謎の2人が暗躍していた―。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成・脚本：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872425,
+    "endAt": 1759244400,
+    "transcodeVersion": "7Ng1uL",
+    "sharedLink": {
+        "twitter": "https://abema.app/urRG",
+        "facebook": "https://abema.app/F7H8",
+        "google": "https://abema.app/7Yph",
+        "line": "https://abema.app/enFa",
+        "copy": "https://abema.app/ogpe",
+        "instagram": "https://abema.app/33br"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s4_p81/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s4_p81/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s4_p81/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s4_p81"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.9419666666668,
+        "opening": {
+            "start": 51.051,
+            "end": 141.00753333333333
+        },
+        "ending": {
+            "start": 1309.9419666666668,
+            "end": 1399.9652333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s4_p82",
+        "title": "第82話 文化祭って準備してる時が一番楽しいよね",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872425,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s4_p81/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

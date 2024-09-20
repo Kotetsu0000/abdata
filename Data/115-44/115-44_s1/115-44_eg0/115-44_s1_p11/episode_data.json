@@ -1,0 +1,141 @@
+{
+    "id": "115-44_s1_p11",
+    "series": {
+        "id": "115-44",
+        "title": "kiss×sis",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "thumb.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "portrait.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-44_s1",
+        "sequence": 1,
+        "name": "Kiss×sis",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 いい日、×出し！",
+        "content": "高校合格発表の朝、圭太はあこ、りこと一緒に受験した玉秀高校に出かけた。ところが途中で黒猫の親子に横切られたり、厄除けに寄った神社で鈴がちぎれ石畳に転がったりと、不吉な出来事が次々と圭太に襲いかかる。猛烈に不吉な予感を感じながら玉秀高校に到着した３人はさっそく圭太の受験番号を確認するのだが……？"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "住之江あこ：竹達彩奈",
+            "住之江りこ：巽悠衣子",
+            "住之江圭太：武内健",
+            "三国美春：永田依子",
+            "桐生夕月：今井麻美",
+            "桐生三日月：大亀あすか"
+        ],
+        "crews": [
+            "原作：ぢたま某",
+            "企画：森山敦",
+            "監督：名和宗則",
+            "シリーズ構成：長谷川勝己",
+            "キャラクターデザイン：下谷智之"
+        ],
+        "copyrights": [
+            "（Ｃ）ぢたま某・講談社／kiss×sis製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1716522749,
+    "endAt": 1751295600,
+    "transcodeVersion": "638W4S",
+    "sharedLink": {
+        "twitter": "https://abema.app/CzPY",
+        "facebook": "https://abema.app/QKfG",
+        "google": "https://abema.app/To3n",
+        "line": "https://abema.app/qXre",
+        "copy": "https://abema.app/6kVd",
+        "instagram": "https://abema.app/Gfbt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-44_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-44_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-44_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-44_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1320.1188,
+        "opening": {
+            "start": 73.03963333333333,
+            "end": 163.02953333333335
+        },
+        "ending": {
+            "start": 1320.1188,
+            "end": 1410.0419666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-44_s1_p12",
+        "title": "第12話 いち、にの、３Ｐ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1716522749,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-44_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "115-44_eg0"
+}

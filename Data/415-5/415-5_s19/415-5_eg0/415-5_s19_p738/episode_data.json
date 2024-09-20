@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s19_p738",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s19",
+        "sequence": 19,
+        "name": "season19",
+        "thumbComponent": {},
+        "order": 19
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 738,
+        "title": "第738話 小五郎はBARにいる（前編）",
+        "content": "小五郎はバーテンダーの柚嬉から仕事中にポンという音がして、その直後に柚子の香りが漂うという奇妙な謎を解いて欲しいと依頼される。そして客の薄田が首を刺され窒息死する事件が発生。疑惑の目は会社の部下の実夏、初村、小暮に向けられる。コナンは3人が薄田の誕生日プレゼントとして持ってきた所持品に注目して…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066313,
+    "endAt": 1740754800,
+    "transcodeVersion": "49MqBT",
+    "sharedLink": {
+        "twitter": "https://abema.app/sPoy",
+        "facebook": "https://abema.app/Tkom",
+        "google": "https://abema.app/gztm",
+        "line": "https://abema.app/U3EJ",
+        "copy": "https://abema.app/qbr8",
+        "instagram": "https://abema.app/P7uj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s19_p738/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s19_p738/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s19_p738/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s19_p738"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.1438,
+        "opening": {
+            "start": 158.29146666666668,
+            "end": 245.9457
+        },
+        "ending": {
+            "start": 1345.1438,
+            "end": 1424.9235
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s19_p739",
+        "title": "第739話 小五郎はBARにいる（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066313,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s19_p738/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

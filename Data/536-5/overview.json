@@ -1,0 +1,74 @@
+{
+    "id": "536-5",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "title": "ぶっちぎり?!",
+    "content": "―逃げぬ心と見つけたり―\n\n灯荒仁(ともしび あらじん)は、かつての親友浅観音真宝(あさみね またから)との再会をきっかけに\n強者たちの戦いに巻き込まれていく…。\nそんな中、巨大な魔人の影が現れ…？！",
+    "seasons": [
+        {
+            "id": "536-5_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/536-5_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1703488968",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "536-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) 「ぶっちぎり?!」製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724918649230021201",
+    "imageUpdatedAt": 1703488948,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/jL3e",
+        "facebook": "https://abema.app/Z4SD",
+        "google": "https://abema.app/cnzt",
+        "line": "https://abema.app/Ri3i",
+        "copy": "https://abema.app/PT9g",
+        "instagram": "https://abema.app/7JHM"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-5",
+        "filename": "thumb.png",
+        "query": "version=1703488948",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-5",
+        "filename": "portrait.png",
+        "query": "version=1703488948",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

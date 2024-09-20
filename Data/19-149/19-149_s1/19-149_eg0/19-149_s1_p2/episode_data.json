@@ -1,0 +1,163 @@
+{
+    "id": "19-149_s1_p2",
+    "series": {
+        "id": "19-149",
+        "title": "お兄ちゃんはおしまい！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-149",
+            "filename": "thumb.png",
+            "query": "version=1673598676",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-149",
+            "filename": "portrait.png",
+            "query": "version=1673598676",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-149_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "#02 まひろと女の子の日",
+        "content": "突如始まった女の子の生活に戸惑いながら、少しずつ楽しさも分かり始めてきたとある日、男らしさを取り戻すと意気込むまひろは筋トレをしてみる。しかし全く体が持ち上がらず、お腹が痛くなるはめに…。みるみる体調が悪くなるまひろを心配するみはりは、ある事に気が付くのであった。それは、まひろが女の子になってから1ヵ月経過したことに関係あるようで…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "緒山まひろ：高野麻里佳",
+            "緒山みはり：石原夏織",
+            "穂月かえで：金元寿子",
+            "穂月もみじ：津田美波",
+            "桜花あさひ：優木かな",
+            "室崎みよ：日岡なつみ"
+        ],
+        "crews": [
+            "原作：ねことうふ（月刊 ComicREX/一迅社刊）",
+            "監督：藤井慎吾",
+            "脚本：横手美智子",
+            "キャラクターデザイン：今村 亮",
+            "美術監督：小林雅代",
+            "色彩設計：土居真紀子",
+            "撮影監督：伏原あかね",
+            "編集：岡祐司",
+            "音響監督：吉田光平",
+            "音響効果：長谷川卓也",
+            "音楽：阿知波大輔・桶狭間ありさ",
+            "プロデュース：EGG FIRM",
+            "制作：スタジオバインド"
+        ],
+        "copyrights": [
+            "(C)ねことうふ・一迅社／「おにまい」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682590029,
+    "endAt": 1746025200,
+    "transcodeVersion": "44HkLy",
+    "sharedLink": {
+        "twitter": "https://abema.app/SiYd",
+        "facebook": "https://abema.app/ACvb",
+        "google": "https://abema.app/25YT",
+        "line": "https://abema.app/EYZT",
+        "copy": "https://abema.app/A6FX",
+        "instagram": "https://abema.app/pWFR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-149_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-149_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-149_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-149_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.055266,
+        "opening": {
+            "start": 44.173811,
+            "end": 131.073811
+        },
+        "ending": {
+            "start": 1325.061843,
+            "end": 1412.061844
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-149_s1_p3",
+        "title": "#03 まひろと未知との遭遇",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1682590029,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726678800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-149_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726678800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727326800
+        }
+    ],
+    "episodeGroupId": "19-149_eg0"
+}

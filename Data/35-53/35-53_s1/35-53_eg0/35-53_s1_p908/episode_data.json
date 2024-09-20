@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p908",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 908,
+        "title": "#908 トランポリンゲン",
+        "content": "道で空きカンにつまずいて転んだり、ジャイアンにぶつかってつき飛ばされたり、家の階だんをふみ外してすべり落ちたり…と、いたい目にあってばかりののび太。「周りのものがかたいからいけないんだ」と泣くのび太を見たドラえもんは、あきれながらもスプレーのようなものを取り出す。\n　そして、そのスプレーを階だんとゆかにふき付けると、なんと階だんの上から飛びおりた！ すると、階だんに落ちたと思ったドラえもんが、そのままポーンと跳（は）ね、落ちてきたかと思ったらまた跳ねて、見事に着地したからビックリ！ これは『トランポリンゲン』というひみつ道具で、これをふき付けるとその場所がトランポリンのようになるのだ。\n　さっそくほかの場所にもトランポリンゲンをふき付け、あちこち跳び上がるのび太。いきおいがつきすぎてしまい、天井（てんじょう）にぶつかったのび太は、天井やカベにもトランポリンゲンをふき付け、ピンボールのように部屋中を跳ねまわって楽しむ。\n　するとそこにママが帰ってきてしまい…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1746025200,
+    "transcodeVersion": "5t3Hi9",
+    "sharedLink": {
+        "twitter": "https://abema.app/ohZc",
+        "facebook": "https://abema.app/i4UH",
+        "google": "https://abema.app/NJpE",
+        "line": "https://abema.app/WpsP",
+        "copy": "https://abema.app/sbrs",
+        "instagram": "https://abema.app/WgRm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p908/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p908/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p908/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p908"
+    },
+    "viewingPoint": {
+        "suggestion": 639.9726666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p909",
+        "title": "#909 シャボン玉宅配便",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p908/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s20_p785",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s20",
+        "sequence": 20,
+        "name": "season20",
+        "thumbComponent": {},
+        "order": 20
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 785,
+        "title": "第785話 太閤恋する名人戦（前編）",
+        "content": "羽田秀吉と勝又力の名人戦が開催される。2日目の対局直前、秀吉は女性スタッフから、妙な男から渡してくれと頼まれたという封筒を受け取る。手紙は恋人の宮本由美を誘拐したという脅迫状だった。秀吉は第一局の暗号文を解読してやってきた明治神宮でコナンたちと会う。コナンは第二局の暗号を解読して…。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066314,
+    "endAt": 1740754800,
+    "transcodeVersion": "fz7JK",
+    "sharedLink": {
+        "twitter": "https://abema.app/kUGr",
+        "facebook": "https://abema.app/f8UA",
+        "google": "https://abema.app/pCQi",
+        "line": "https://abema.app/zYdX",
+        "copy": "https://abema.app/bw9Y",
+        "instagram": "https://abema.app/SrQ5"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s20_p785/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s20_p785/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s20_p785/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s20_p785"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.09375,
+        "opening": {
+            "start": 173.92375,
+            "end": 271.93833333333333
+        },
+        "ending": {
+            "start": 1345.09375,
+            "end": 1425.0069166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s20_p786",
+        "title": "第786話 太閤恋する名人戦（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066314,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s20_p785/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

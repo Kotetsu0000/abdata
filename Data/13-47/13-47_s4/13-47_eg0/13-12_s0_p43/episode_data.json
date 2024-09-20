@@ -1,0 +1,144 @@
+{
+    "id": "13-12_s0_p43",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 43,
+        "title": "第193話 料理は根性",
+        "content": "万事屋の居間で食事をしている銀時たち。卵かけご飯を猛然と食べているのは神楽一人だけ…というのも、神楽が食事当番になってからずっと卵かけご飯が続いているのだ。銀時から文句を言われた神楽が新八の家で毒づいていると、お妙から一緒に料理教室へ行ってみないかと誘われる。やってきた料理教室では女子たちがエプロンをつけ集合しているのだが、中にはチラホラと妙なメンバーが！"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296391,
+    "endAt": 1748703600,
+    "transcodeVersion": "5G3zwx",
+    "sharedLink": {
+        "twitter": "https://abema.app/DFTX",
+        "facebook": "https://abema.app/Bo7N",
+        "google": "https://abema.app/PTdq",
+        "line": "https://abema.app/mvkb",
+        "copy": "https://abema.app/njwu",
+        "instagram": "https://abema.app/QUZ3"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p43/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p43/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p43/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p43"
+    },
+    "viewingPoint": {
+        "suggestion": 1437.123666,
+        "opening": {
+            "end": 90
+        },
+        "ending": {
+            "start": 1131.112846,
+            "end": 1224.712866
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p44",
+        "title": "第194話 リヴァイアサンってきいたらどうしてもサザエさんがチラつく俺のバカ!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296391,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p43/timeline",
+        "query": "version=5G3zwx",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

@@ -1,0 +1,137 @@
+{
+    "id": "203-2_s200_p16",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s200",
+        "sequence": 200,
+        "name": "TVスペシャル",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4141
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "SP16 爆走列車！網走発東京行き！両津VS拳法バァさん！",
+        "content": "網走からの囚人上条サクラの護送を担当することになった両津であるが、このバァさんがとんでもない曲者で、ペースを乱されっぱなし・・・一方そんな中、東京では丸の内で超ド急の爆発をおこすとの犯罪予告が！？"
+    },
+    "credit": {
+        "released": 2003,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382155,
+    "endAt": 1743433200,
+    "transcodeVersion": "4uPKWn",
+    "sharedLink": {
+        "twitter": "https://abema.app/zZfu",
+        "facebook": "https://abema.app/8g2E",
+        "google": "https://abema.app/qC6A",
+        "line": "https://abema.app/ZrkZ",
+        "copy": "https://abema.app/gckQ",
+        "instagram": "https://abema.app/eFxD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s200_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 4052.939402,
+        "ending": {
+            "start": 4052.939402,
+            "end": 4136.94487
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s200_p17",
+        "title": "SP17 特殊刑事壊滅！？檸檬と謎の盗賊団！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382155,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s200_p16/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

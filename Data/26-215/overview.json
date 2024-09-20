@@ -1,0 +1,74 @@
+{
+    "id": "26-215",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "俺だけレベルアップな件",
+    "content": "異次元と現世界を結ぶ通路”ゲート”が突如発生してから十数年、\n世界には”ハンター”と呼ばれる超人的な力に覚醒した人間たちが出現する。\nハンターはその力を使い、ゲート内のダンジョンを攻略し対価を得ることを生業としているが、\n強者揃いのハンター達の中で、「水篠 旬」は人類最弱兵器と呼ばれる低ランクハンターとして生活していた。\nある日、低ランクダンジョンに隠された高ランクの二重ダンジョンに遭遇し、\n瀕死の重傷を負った旬の目前に謎のクエストウィンドウが現れる。\n死の間際、クエストを受けると決断した旬は、自分だけが「レベルアップ」するようになり—！？",
+    "seasons": [
+        {
+            "id": "26-215_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-215_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1704101026",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-215_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)Solo Leveling Animation Partners"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1721215667152235869",
+    "imageUpdatedAt": 1704100961,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/1tmE",
+        "facebook": "https://abema.app/f3te",
+        "google": "https://abema.app/ThSz",
+        "line": "https://abema.app/NvSJ",
+        "copy": "https://abema.app/ycWM",
+        "instagram": "https://abema.app/g5QE"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-215",
+        "filename": "thumb.png",
+        "query": "version=1704100961",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-215",
+        "filename": "portrait.png",
+        "query": "version=1704100961",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

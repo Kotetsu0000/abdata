@@ -1,0 +1,132 @@
+{
+    "id": "19-196_s1_p3",
+    "series": {
+        "id": "19-196",
+        "title": "僕らはみんな河合荘",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "thumb.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "portrait.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-196_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "#03 どうして",
+        "content": "すっかり河合荘に溶け込んだ宇佐であるが、一番お近づきになりたい律との距離はなかなか縮められぬまま。宇佐はもやもやしながらも、河合荘な日常が続いていた。そんなある日、麻弓の携帯に元彼からの電話がかかる。過去に三股をかけられた最低男と知りながら、翌日早速会いにいく麻弓だが…。\n更には律の様子がどうもおかしく、宇佐は不安になるばかりで―。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "井口祐一",
+            "花澤香菜",
+            "四宮 豪",
+            "佐藤利奈",
+            "金元寿子",
+            "小林沙苗"
+        ],
+        "crews": [
+            "監督：宮 繁之",
+            "原作：宮原るり『僕らはみんな河合荘』（「ヤングキングアワーズ」連載／少年画報社）",
+            "脚本：古怒田健志",
+            "音楽：松田彬人"
+        ],
+        "copyrights": [
+            "（C）宮原るり・少年画報社／委員会はみんな河合荘"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712564501,
+    "endAt": 1746025200,
+    "transcodeVersion": "4tNX8b",
+    "sharedLink": {
+        "twitter": "https://abema.app/AEcG",
+        "facebook": "https://abema.app/KtsN",
+        "google": "https://abema.app/uqaS",
+        "line": "https://abema.app/oczZ",
+        "copy": "https://abema.app/9VP3",
+        "instagram": "https://abema.app/hRjM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-196_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-196_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-196_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-196_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.0370416666667,
+        "opening": {
+            "start": 42.042,
+            "end": 131.96516666666668
+        },
+        "ending": {
+            "start": 1330.0370416666667,
+            "end": 1420.0019166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-196_s1_p4",
+        "title": "#04 とりあえず",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712564516,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-196_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-196_eg0"
+}

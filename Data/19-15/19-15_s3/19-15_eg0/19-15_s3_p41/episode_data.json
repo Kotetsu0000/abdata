@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s3_p41",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 41,
+        "title": "第41話 洸汰くん",
+        "content": "ついに始まった“個性”強化訓練。それは、生徒それぞれが自分の個性の「限界突破」を目指すというシンプルなものであった。1年B組のメンバーも合流し、合宿は激しさを増していく。そんな中、出久は洸汰にとっての“ひみつきち”で、個性社会に対する彼の思いを知るのだった。自分と異なる考え方に直面し悩む出久。しかし、答えを出す暇も無く合宿は進行し、レクリエーションの肝試しが始まった。ペアに分かれ、各々が楽しむ最中、突如有毒のガスが森中に広がる。敵連合・開闢行動隊が出久たちを襲う―！"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872423,
+    "endAt": 1759244400,
+    "transcodeVersion": "oFvXX",
+    "sharedLink": {
+        "twitter": "https://abema.app/raoR",
+        "facebook": "https://abema.app/HGRT",
+        "google": "https://abema.app/5aYG",
+        "line": "https://abema.app/1ywx",
+        "copy": "https://abema.app/Hk6c",
+        "instagram": "https://abema.app/Ptkt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s3_p41/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s3_p41/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s3_p41/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s3_p41"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0087,
+        "opening": {
+            "start": 20.053366666666665,
+            "end": 110.0099
+        },
+        "ending": {
+            "start": 1310.0087,
+            "end": 1399.9986
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s3_p42",
+        "title": "第42話 僕のヒーロー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872423,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s3_p41/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

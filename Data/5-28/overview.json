@@ -1,0 +1,75 @@
+{
+    "id": "5-28",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "ドラゴンボール",
+    "content": "山奥で一人で暮らしていた少年・孫悟空の前に、ブルマという女の子が現れた。ブルマは七つ揃えればどんな願いでも叶うというドラゴンボールを探して、世界中を旅していたのだ。今は亡きじいちゃんの遺した不思議な宝珠、それこそがドラゴンボールだったことから、二人の冒険の旅が始まった！　武天老師こと亀仙人、牛魔王と娘のチチ、変身が得意なウーロン、砂漠の盗賊ヤムチャとプーアル…様々な出会いと冒険を繰り返しながら、悟空はドラゴンボールを集めてゆく。ドラゴンボールの力を使って世界征服を企むピラフ一味の野望も、ウーロンの機転（？）によって阻止された。石になって再び世界中に散らばっていったドラゴンボールが、力を取り戻すのは一年後。悟空は今よりもっと強くなるため、小坊主のクリリンと共に、亀仙人のもとで修行に励むことになる。",
+    "seasons": [
+        {
+            "id": "5-28_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-28_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683628325",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-28_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)バードスタジオ／集英社・東映アニメーション"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726032575243956107",
+    "imageUpdatedAt": 1681281962,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/8Zxm",
+        "facebook": "https://abema.app/QiK7",
+        "google": "https://abema.app/o88X",
+        "line": "https://abema.app/TnYu",
+        "copy": "https://abema.app/UePT",
+        "instagram": "https://abema.app/nhQh"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+        "filename": "thumb.png",
+        "query": "version=1681281962",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+        "filename": "portrait.png",
+        "query": "version=1681281962",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "97話〜145話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

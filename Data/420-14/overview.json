@@ -1,0 +1,90 @@
+{
+    "id": "420-14",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ワンパンマン",
+    "content": "趣味でヒーローを始めた男、サイタマ。彼は3年間の特訓により無敵のパワーを手に入れた。だが、あまりに強くなりすぎてしまったゆえに、どんな強敵が相手でもワンパンチで決着がついてしまう。「圧倒的な力ってのは、つまらないもんだ」 そんな平熱系最強ヒーローの前に、今日も新たな敵が現れる。今日こそ本気が出せるのか!?",
+    "seasons": [
+        {
+            "id": "420-14_s1",
+            "sequence": 1,
+            "name": "第1期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-14_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1714542545",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-14_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "420-14_s2",
+            "sequence": 2,
+            "name": "第2期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-14_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1714542576",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-14_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)ONE・村田雄介／集英社・ヒーロー協会本部"
+    ],
+    "label": {},
+    "version": "1722840922178248103",
+    "imageUpdatedAt": 1681283586,
+    "caption": "どんな敵もワンパンの最強ヒーロー登場",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/yGSRz",
+        "facebook": "https://gxyt4.app.goo.gl/qzNTd",
+        "google": "https://gxyt4.app.goo.gl/dyW5C",
+        "line": "https://gxyt4.app.goo.gl/mwouA",
+        "copy": "https://gxyt4.app.goo.gl/hiQBq",
+        "instagram": "https://gxyt4.app.goo.gl/3Y7aw"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-14",
+        "filename": "thumb.png",
+        "query": "version=1681283586",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-14",
+        "filename": "portrait.png",
+        "query": "version=1681283586",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

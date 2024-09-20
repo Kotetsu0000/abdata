@@ -1,0 +1,153 @@
+{
+    "id": "482-40_s1_p4",
+    "series": {
+        "id": "482-40",
+        "title": "エグミレガシー",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-40",
+            "filename": "thumb.png",
+            "query": "version=1721819590",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-40",
+            "filename": "portrait.png",
+            "query": "version=1721819590",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "482-40_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 592
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 断ち切れないもの",
+        "content": "「あいつは魔女だ！」そう言って、村人達はレトリをギロチンにかける。\n彼女を救い出すために、レジェンダリー・ファイナル・クライマックス・ボムとハチベーが考えた作戦とは…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "レジェンダリー・ファイナル・クライマックス・ボム：江口拓也",
+            "エンドオブザワールド：青山吉能",
+            "うっかりハチベー：斉藤壮馬",
+            "ゴールデンレトリーバー：芹澤優",
+            "招かれざる客：西山宏太朗",
+            "ウィザード：神尾晋一郎",
+            "村人、呪いのギターケース：駒田航",
+            "ノグミ、ゴッドアイ：羽多野渉",
+            "インビジブルストーカー、パーマストライプ：小林大紀",
+            "モヒカン・ドット：中島ヨシキ"
+        ],
+        "crews": [
+            "キャラクター原案：江口拓也",
+            "監督：モリ・マサ",
+            "脚本：モリ・マサ　北野克哉",
+            "美術監督/色彩設定：青山沙羅",
+            "撮影監督：山下直樹",
+            "3DCGディレクター：奇志戒聖",
+            "CGプロデューサー：吉岡有人",
+            "制作管理：松野佐知子　長岡有紀",
+            "音響監督：田中亮",
+            "音響効果：和田俊也",
+            "音楽：松野恭平",
+            "キャスティングマネージメント：山内春香",
+            "プロデューサー：紙谷零",
+            "企画・制作：スタジオアウトリガー",
+            "制作協力：81プロデュース",
+            "製作：エグミレガシープロジェクト"
+        ],
+        "copyrights": [
+            "(C)2024エグミレガシー/TE"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035296,
+    "endAt": 1759244400,
+    "transcodeVersion": "28nJ64",
+    "sharedLink": {
+        "twitter": "https://abema.app/m8Yi",
+        "facebook": "https://abema.app/hoCF",
+        "google": "https://abema.app/AUfz",
+        "line": "https://abema.app/rJ6H",
+        "copy": "https://abema.app/4Sqj",
+        "instagram": "https://abema.app/H1fg"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/482-40_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/482-40_s1_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/482-40_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.482-40_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 530.2380416666666,
+        "ending": {
+            "start": 530.2380416666666,
+            "end": 592.1749166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "482-40_s1_p5",
+        "title": "第5話 誰が為にギターは鳴る",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1726035296,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/482-40_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "482-40_eg0"
+}

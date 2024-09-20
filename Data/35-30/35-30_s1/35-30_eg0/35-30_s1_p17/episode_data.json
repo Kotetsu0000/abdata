@@ -1,0 +1,150 @@
+{
+    "id": "35-30_s1_p17",
+    "series": {
+        "id": "35-30",
+        "title": "笑ゥせぇるすまん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "thumb.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "portrait.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-30_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 600
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 17,
+        "title": "第17話 アルバイト㊙情報",
+        "content": "喪黒から高給アルバイト情報ばかりが載った雑誌をもらった大学生・筒井伸一（20）。早速アルバイト代で麻雀のツケを支払った筒井だが、調子に乗って「レートを上げた麻雀をやろう」と言い出す。しかし、その様子をヤクザが見ていて…。"
+    },
+    "credit": {
+        "released": 1990,
+        "casts": [
+            "喪黒福造：大平透"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "監修：鈴木伸一",
+            "総監督：クニトシロウ",
+            "監督：米谷良知",
+            "脚本：梅野かおる",
+            "作画監督：岡迫亘弘",
+            "美術監督：宮野隆",
+            "撮影監督：山田廣明",
+            "録音監督：大熊昭",
+            "音楽：田中公平"
+        ],
+        "copyrights": [
+            "(C)藤子A／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683007465,
+    "endAt": 1756652400,
+    "freeEndAt": 1726659300,
+    "transcodeVersion": "4NZWQ6",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/9UYDV",
+        "facebook": "https://gxyt4.app.goo.gl/vQ68Y",
+        "google": "https://gxyt4.app.goo.gl/jfNvE",
+        "line": "https://gxyt4.app.goo.gl/8ULZX",
+        "copy": "https://gxyt4.app.goo.gl/iXZg3",
+        "instagram": "https://gxyt4.app.goo.gl/qKDt7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-30_s1_p17/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-30_s1_p17/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-30_s1_p17/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-30_s1_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-30_s1_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 595.657,
+        "opening": {
+            "end": 18.341522
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-30_s1_p18",
+        "title": "第18話 夢のあと",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1683007465,
+        "endAt": 1756652400,
+        "freeEndAt": 1726659300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726659300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-30_s1_p17/timeline",
+        "query": "version=4NZWQ6",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726659300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-30_eg0"
+}

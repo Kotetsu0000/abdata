@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s9_p361",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s9",
+        "sequence": 9,
+        "name": "season9",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1488
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 361,
+        "title": "第361話 帝丹高校学校怪談（前編）",
+        "content": "蘭に頼まれ帝丹高校の幽霊騒動をコナンたちが調査していると、中庭に突如として２年前に死んだ保坂英彰の机が現れる。しかも、机の上には恨みのメモが置いてあり、ぬかるんだ地面には机を運んだ人間の足跡がない。すると突然、聞き耳を立てていた美術部員の物部雅生が保坂の呪いだ！と叫び、恐怖に打ち震えていた…。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066304,
+    "endAt": 1740754800,
+    "transcodeVersion": "4yhZke",
+    "sharedLink": {
+        "twitter": "https://abema.app/knFj",
+        "facebook": "https://abema.app/U1x7",
+        "google": "https://abema.app/URQz",
+        "line": "https://abema.app/U8VK",
+        "copy": "https://abema.app/Sfvr",
+        "instagram": "https://abema.app/cQiK"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s9_p361/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s9_p361/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s9_p361/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s9_p361"
+    },
+    "viewingPoint": {
+        "suggestion": 1358.8575,
+        "opening": {
+            "start": 32.29893333333333,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1358.8575,
+            "end": 1443.4086333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s9_p362",
+        "title": "第362話 帝丹高校学校怪談（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066304,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s9_p361/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,145 @@
+{
+    "id": "5-60_s1_p40",
+    "series": {
+        "id": "5-60",
+        "title": "スター☆トゥインクルプリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-60",
+            "filename": "thumb.png",
+            "query": "version=1721628006",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-60",
+            "filename": "portrait.png",
+            "query": "version=1721628006",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 40,
+        "title": "第40話　バレちゃった！？２年３組の宇宙人☆",
+        "content": "ロケットにまどかのお父さんがやって来ました。最近、森で騒ぎがあったことで、ララを異星人だと疑い始めたのです。そのせいでクラスメイトのみんなも、ララに疑いの目を向けるようになりました。そんな時、カッパードが学校に現れ、クラスメイトのみんなを襲います。ララはクラスメイトを助けるため、自分が異星人だと認め、みんなの前でプリキュアに変身しました。その姿を見たクラスメイトのみんなはララへの信頼を取り戻します。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "キュアスター/星奈ひかる：成瀬瑛美",
+            "キュアミルキー/羽衣ララ：小原好美",
+            "キュアソレイユ/天宮えれな：安野希世乃",
+            "キュアセレーネ/香久矢まどか：小松未可子",
+            "キュアコスモ/ユニ：上坂すみれフワ：木野日菜",
+            "プルンス：吉野裕行"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：佐藤 有(ＡＢＣテレビ）、田中 昴(ＡＢＣアニメーション)、矢﨑 史(ＡＤＫエモーションズ)、柳川あかり",
+            "シリーズディレクター：宮元宏彰",
+            "シリーズ構成：村山 功",
+            "音楽：林 ゆうき、橘 麻美",
+            "キャラクターデザイン：高橋 晃",
+            "美術監督：増田竜太郎、いいだりえ",
+            "製作担当：澤守 洸、堀越圭文",
+            "色彩設計：佐久間ヨシ子"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721631117,
+    "endAt": 1740754800,
+    "transcodeVersion": "2tmB9k",
+    "sharedLink": {
+        "twitter": "https://abema.app/GYx1",
+        "facebook": "https://abema.app/8djW",
+        "google": "https://abema.app/zmZR",
+        "line": "https://abema.app/sH8q",
+        "copy": "https://abema.app/UyLT",
+        "instagram": "https://abema.app/c9J2"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-60_s1_p40/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-60_s1_p40/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-60_s1_p40/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-60_s1_p40"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.2621666666666,
+        "opening": {
+            "start": 55.09670833333333,
+            "end": 145.145
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1430.2204583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-60_s1_p41",
+        "title": "第41話　月よ輝け☆まどかの一歩！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721631117,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-60_s1_p40/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-60_eg0"
+}

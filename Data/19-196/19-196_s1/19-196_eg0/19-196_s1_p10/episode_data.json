@@ -1,0 +1,132 @@
+{
+    "id": "19-196_s1_p10",
+    "series": {
+        "id": "19-196",
+        "title": "僕らはみんな河合荘",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "thumb.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "portrait.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-196_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "#10 ほっとけばいいのに",
+        "content": "お手伝いの延長で、宇佐のバイト先である書生カフェでお茶をする河合荘の面々。そんな中シロは屋外で一人、熱射病ギリギリ責めという謎の苦行を実践していた。するとそこへ、霊感女・林が現れる。前回宇佐にしたヒドイ態度を謝りに来たのだった。林の素直な謝罪にニコッと笑い許す宇佐。一件落着かと思われたが、なぜか律は一言も声を掛けず、浮かない顔で帰宅してしまう…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "井口祐一",
+            "花澤香菜",
+            "四宮 豪",
+            "佐藤利奈",
+            "金元寿子",
+            "小林沙苗"
+        ],
+        "crews": [
+            "監督：宮 繁之",
+            "原作：宮原るり『僕らはみんな河合荘』（「ヤングキングアワーズ」連載／少年画報社）",
+            "脚本：古怒田健志",
+            "松田彬人"
+        ],
+        "copyrights": [
+            "（C）宮原るり・少年画報社／委員会はみんな河合荘"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712564619,
+    "endAt": 1746025200,
+    "transcodeVersion": "5VD4Dp",
+    "sharedLink": {
+        "twitter": "https://abema.app/W93W",
+        "facebook": "https://abema.app/2EWq",
+        "google": "https://abema.app/GmwT",
+        "line": "https://abema.app/59M4",
+        "copy": "https://abema.app/twu9",
+        "instagram": "https://abema.app/QWXd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-196_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-196_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-196_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-196_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.07875,
+        "opening": {
+            "start": 89.04729166666667,
+            "end": 179.01216666666667
+        },
+        "ending": {
+            "start": 1330.07875,
+            "end": 1420.043625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-196_s1_p11",
+        "title": "#11 友達なんかいないって",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712564638,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-196_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-196_eg0"
+}

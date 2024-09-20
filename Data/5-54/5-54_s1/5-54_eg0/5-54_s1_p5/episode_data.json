@@ -1,0 +1,145 @@
+{
+    "id": "5-54_s1_p5",
+    "series": {
+        "id": "5-54",
+        "title": "ドキドキ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-54",
+            "filename": "thumb.png",
+            "query": "version=1721352704",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-54",
+            "filename": "portrait.png",
+            "query": "version=1721352704",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-54_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話　うそ！ キュアソードってあの子なの？？",
+        "content": "謎のプリキュア・キュアソードの正体はスーパーアイドルのまこぴーだって、ありすが言うんだけど、本当なのかな!?　謎を解明すべく、まこぴーがいるヨツバテレビへ行って、仲間になってほしいと伝えたんだけど…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "相田マナ/キュアハート：生天目仁美",
+            "菱川六花/キュアダイヤモンド：寿美菜子",
+            "四葉ありす/キュアロゼッタ：渕上 舞",
+            "剣崎真琴/キュアソード：宮本佳那子",
+            "円 亜久里/キュアエース：釘宮理恵",
+            "シャルル：西原久美子",
+            "ラケル：寺崎裕香",
+            "ランス：大橋彩香",
+            "ダビィ：内山夕実",
+            "アイちゃん：今井由香"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "企画：野下 洋、波多野淳一、西出将之、木村祥隆、三宅将典、清水慎治",
+            "プロデューサー：佐々木礼子、柴田宏明、松下洋幸、高橋知子、土肥紫葉樹",
+            "シリーズ構成：山口亮太",
+            "シリーズディレクター：古賀 豪",
+            "製作担当：額賀康彦",
+            "キャラクターデザイン：高橋 晃",
+            "美術設定/美術デザイン：増田竜太郎",
+            "音楽：高木 洋"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721481557,
+    "endAt": 1740754800,
+    "transcodeVersion": "6gNsf6",
+    "sharedLink": {
+        "twitter": "https://abema.app/8o4t",
+        "facebook": "https://abema.app/fCvf",
+        "google": "https://abema.app/AkmE",
+        "line": "https://abema.app/xm3b",
+        "copy": "https://abema.app/r2Eh",
+        "instagram": "https://abema.app/VSzJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-54_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-54_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-54_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-54_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0720666666666,
+        "opening": {
+            "start": 105.07163333333334,
+            "end": 190.02316666666667
+        },
+        "ending": {
+            "start": 1340.0720666666666,
+            "end": 1430.0619666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-54_s1_p6",
+        "title": "第6話　ビックリ！ 私のお家にまこぴーがくる!?",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721481569,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-54_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-54_eg0"
+}

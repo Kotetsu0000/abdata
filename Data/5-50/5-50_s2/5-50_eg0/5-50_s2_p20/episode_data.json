@@ -1,0 +1,148 @@
+{
+    "id": "5-50_s2_p20",
+    "series": {
+        "id": "5-50",
+        "title": "Yes！プリキュア５GoGo！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-50",
+            "filename": "thumb.png",
+            "query": "version=1721019096",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-50",
+            "filename": "portrait.png",
+            "query": "version=1721019096",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-50_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話　こまちとまどか 二人の夢",
+        "content": "こまちの新作小説を読むナッツ。のぞみたちが感想を聞いていると、こまちの姉・秋元まどかがやって来る。いつでも元気いっぱいの彼女には、真剣に彫刻の制作に取り組む、芸術を愛する女性としての一面があった。小説家を目指す自分と同じように、姉も夢を追いかけてほしい、そう願うこまちだが…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "キュアドリーム：三瓶由布子",
+            "キュアルージュ：竹内順子",
+            "キュアレモネード：伊瀬茉莉也",
+            "キュアミント：永野 愛",
+            "キュアアクア：前田 愛",
+            "ココ：草尾 毅",
+            "ナッツ：入野自由",
+            "ミルク：仙台エリ",
+            "シロップ：朴 璐美"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：吉田健一郎、麻生一宏、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズ構成：成田良美",
+            "シリーズディレクター：小村敏明",
+            "キャラクターデザイン：川村敏江",
+            "色彩設計：澤田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721090183,
+    "endAt": 1740754800,
+    "transcodeVersion": "8rYv2",
+    "sharedLink": {
+        "twitter": "https://abema.app/2Xkr",
+        "facebook": "https://abema.app/fvTW",
+        "google": "https://abema.app/HVVJ",
+        "line": "https://abema.app/o4hx",
+        "copy": "https://abema.app/KEzT",
+        "instagram": "https://abema.app/nmNh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-50_s2_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-50_s2_p20/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-50_s2_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-50_s2_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0103333333334,
+        "opening": {
+            "start": 61.061,
+            "end": 145.93745833333332
+        },
+        "ending": {
+            "start": 1345.0103333333334,
+            "end": 1434.9752083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-50_s2_p21",
+        "title": "第21話　友情たっぷりみんなでお弁当！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721090207,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-50_s2_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-50_eg0"
+}

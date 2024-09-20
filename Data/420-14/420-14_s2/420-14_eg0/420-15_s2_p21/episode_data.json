@@ -1,0 +1,142 @@
+{
+    "id": "420-15_s2_p21",
+    "series": {
+        "id": "420-14",
+        "title": "ワンパンマン",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-14",
+            "filename": "thumb.png",
+            "query": "version=1681283586",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-14",
+            "filename": "portrait.png",
+            "query": "version=1681283586",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-14_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 最強の悩み",
+        "content": "怪人協会随一の強さを誇るゴウケツと怪人化したバクザンによって弄ばれるスイリュー。誰の助けも得られないことを悟り、絶望の底に叩きつけられた彼の前に現れたのは、サイタマだった。ほどなくして、ギョロギョロの計画の元、怪人協会の攻撃が収束していく。スーパーファイトで特に何も得られなかったサイタマ。強すぎるが故の悩みを打ち明けるサイタマに、キングはヒーローとしての高みを諭すのだった。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "サイタマ：古川慎",
+            "ジェノス：石川界人",
+            "音速のソニック：梶裕貴",
+            "戦慄のタツマキ：悠木碧",
+            "キング：安元洋貴",
+            "地獄のフブキ：早見沙織",
+            "ガロウ：緑川光",
+            "スイリュー：松風雅也"
+        ],
+        "crews": [
+            "原作：ONE・村田雄介「ワンパンマン」（集英社「となりのヤングジャンプ」連載）",
+            "監督：櫻井親良",
+            "シリーズ構成：鈴木智尋",
+            "キャラクターデザイン：久保田誓",
+            "美術監督：池田繁美、丸山由紀子",
+            "色彩設計：店橋真弓",
+            "撮影監督：大河内喜夫",
+            "編集：後藤正浩(REAL-T)",
+            "音響監督：岩浪美和",
+            "音楽：宮崎誠",
+            "オープニング主題歌：JAM Project「静寂のアポストル」",
+            "エンディング主題歌：古川慎「地図が無くても戻るから」",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(C)ONE・村田雄介／集英社・ヒーロー協会本部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1714542503,
+    "endAt": 1740754800,
+    "transcodeVersion": "2qmQFT",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/R7EXY",
+        "facebook": "https://gxyt4.app.goo.gl/bSMaZ",
+        "google": "https://gxyt4.app.goo.gl/eM1Cr",
+        "line": "https://gxyt4.app.goo.gl/pBK1X",
+        "copy": "https://gxyt4.app.goo.gl/etPXD",
+        "instagram": "https://gxyt4.app.goo.gl/avHpj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-15_s2_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-15_s2_p21/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-15_s2_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-15_s2_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1445.16,
+        "opening": {
+            "start": 49.572722,
+            "end": 138.978811
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-15_s2_p22",
+        "title": "第22話 正義の包囲網",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1714542503,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-15_s2_p21/timeline",
+        "query": "version=2qmQFT",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "420-14_eg0"
+}

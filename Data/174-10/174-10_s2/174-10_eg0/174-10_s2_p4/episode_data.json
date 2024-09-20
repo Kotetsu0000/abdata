@@ -1,0 +1,160 @@
+{
+    "id": "174-10_s2_p4",
+    "series": {
+        "id": "174-10",
+        "title": "ゴブリンスレイヤー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-10",
+            "filename": "thumb.png",
+            "query": "version=1694754654",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-10",
+            "filename": "portrait.png",
+            "query": "version=1694754654",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "174-10_s2",
+        "sequence": 2,
+        "name": "ゴブリンスレイヤーII",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 そして冒険へ",
+        "content": "ABEMAは新作アニメ独占見放題本数No.1！10月クールは、異世界・ファンタジーアニメを5作品独占見放題配信！\n\n突如ゴブリンの襲撃を受けた辺境の街の訓練場。ゴブリンスレイヤーたちは即座に対応し、巣穴に反撃しようと動き出す。そんな中一人ゴブリンたちの思惑に気づいた女神官は、目論見を挫くため、いつものメンバーたちと離れ別働隊――赤毛の少年魔術師や新人冒険者を率いて救援に向かうことにするのだが…。\n\n※2023年10月1日より国内の動画配信サービスにおいて新規に配信開始されることが公表されているTVアニメ作品が対象\n※自社調べ"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ゴブリンスレイヤー：梅原裕一郎",
+            "女神官：小倉 唯",
+            "妖精弓手：東山奈央",
+            "牛飼娘：井口裕香",
+            "受付嬢：内田真礼",
+            "鉱人道士：中村悠一",
+            "蜥蜴僧侶：杉田智和",
+            "魔女：日笠陽子",
+            "槍使い：松岡禎丞",
+            "少年魔術師：伊瀬茉莉也"
+        ],
+        "crews": [
+            "原作：蝸牛くも（ＧＡ文庫／SBクリエイティブ刊）",
+            "キャラクター原案：神奈月昇",
+            "監督：髙田美里",
+            "総監督：尾崎隆晴",
+            "シリーズ構成・脚本：倉田英之",
+            "キャラクターデザイン：加藤裕美",
+            "音楽：末廣健一郎",
+            "オープニングテーマ：Mili「Entertainment」",
+            "エンディングテーマ：中島由貴「霞の向こうへ」",
+            "アニメーション制作：ライデンフィルム"
+        ],
+        "copyrights": [
+            "(C)蝸牛くも・SBクリエイティブ／ゴブリンスレイヤー2製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703492731,
+    "endAt": 1861887600,
+    "transcodeVersion": "2j6feL",
+    "sharedLink": {
+        "twitter": "https://abema.app/Gr7U",
+        "facebook": "https://abema.app/nG4H",
+        "google": "https://abema.app/bucn",
+        "line": "https://abema.app/zxxF",
+        "copy": "https://abema.app/yVzV",
+        "instagram": "https://abema.app/Pnea"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/174-10_s2_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/174-10_s2_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/174-10_s2_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.174-10_s2_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1322.0290416666667,
+        "opening": {
+            "start": 58.09970833333333,
+            "end": 145.06158333333335
+        },
+        "ending": {
+            "start": 1322.07075,
+            "end": 1409.0743333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "174-10_s2_p5",
+        "title": "第5話 かみきり丸、南の川へ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1703492731,
+        "endAt": 1861887600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1861887600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/174-10_s2_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1861887600
+        }
+    ],
+    "episodeGroupId": "174-10_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p71",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 71,
+        "title": "第71話 ｢暴かれた出生の秘密！天はいたずらに悲劇を好む！！」",
+        "content": "過去と現在が交錯する中、戦うトキとラオウ。ラオウの無想陰殺による無意識無想の蹴りがトキの胸に決まる。そしてとどめの手刀をトキが剛拳で受け止めた時、ラオウの頭上にも死兆星が輝いた。両者は今、互角になった！！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "4rUuDc",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/ewwYH",
+        "facebook": "https://gxyt4.app.goo.gl/WmRBv",
+        "google": "https://gxyt4.app.goo.gl/krhSh",
+        "line": "https://gxyt4.app.goo.gl/X9TBr",
+        "copy": "https://gxyt4.app.goo.gl/NfdGW",
+        "instagram": "https://gxyt4.app.goo.gl/88uAn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p71/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p71/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p71/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p71"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.495688,
+        "opening": {
+            "start": 32.989488,
+            "end": 124.480988
+        },
+        "ending": {
+            "start": 1340.495688,
+            "end": 1430.285488
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p72",
+        "title": "第72話 ｢さらばトキ！男の涙は一度だけ！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p71/timeline",
+        "query": "version=4rUuDc",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

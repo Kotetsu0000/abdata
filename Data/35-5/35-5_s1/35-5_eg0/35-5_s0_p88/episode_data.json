@@ -1,0 +1,160 @@
+{
+    "id": "35-5_s0_p88",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1478
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 88,
+        "title": "第88話 丼vsのり巻き",
+        "content": "「ワールド」副編集長・アーサーは士郎の協力で”日本文化丼論”を書き、大成功。それを見たフリーライターのアンナは「日本文化はのり巻だ」と主張し、記事採用を求めるがアーサーは納得しない。"
+    },
+    "credit": {
+        "released": 1991,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424468,
+    "endAt": 1756652400,
+    "freeEndAt": 1726422360,
+    "transcodeVersion": "46wT5W",
+    "sharedLink": {
+        "twitter": "https://abema.app/yJ6E",
+        "facebook": "https://abema.app/MkZW",
+        "google": "https://abema.app/XPNy",
+        "line": "https://abema.app/xg2f",
+        "copy": "https://abema.app/6NVz",
+        "instagram": "https://abema.app/Vd4h"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-5_s0_p88/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-5_s0_p88/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-5_s0_p88/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-5_s0_p88/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p88"
+    },
+    "viewingPoint": {
+        "suggestion": 1398.753888,
+        "opening": {
+            "end": 81.037588
+        },
+        "ending": {
+            "start": 1398.753888,
+            "end": 1478.785032
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p89",
+        "title": "第89話 グルメ志向",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424468,
+        "endAt": 1756652400,
+        "freeEndAt": 1726422360,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726422360
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p88/timeline",
+        "query": "version=46wT5W",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726422360
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

@@ -1,0 +1,154 @@
+{
+    "id": "210-9_s1_p7",
+    "series": {
+        "id": "210-9",
+        "title": "アークナイツ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "thumb.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "portrait.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-9_s1",
+        "sequence": 1,
+        "name": "【黎明前奏/PRELUDE TO DAWN】",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 邂逅 Separation",
+        "content": "レユニオンに連れ去られたミーシャは、スカルシュレッダーが幼い頃に生き別れた弟だと知る。\n彼の口から、感染者として差別されてきた過去、レユニオンとして戦う覚悟を聞いたミーシャは、ロドスとレユニオンのどちらが正しいのかと思い悩む。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ドクター：甲斐田ゆき",
+            "アーミヤ：黒沢ともよ",
+            "ドーベルマン：種﨑敦美",
+            "Ace：松山鷹志",
+            "ニアール：佐倉綾音",
+            "チェン:石上静香",
+            "ホシグマ：安野希世乃",
+            "フランカ：加隈亜衣",
+            "リスカム：石川由依",
+            "エクシア：石見舞菜香",
+            "テキサス：田所あずさ",
+            "メテオリーテ：種田梨沙",
+            "ケルシー：日笠陽子"
+        ],
+        "crews": [
+            "監督：渡邉 祐記",
+            "脚本：Yostar Pictures",
+            "原作者：Hypergryph / Studio Montagne"
+        ],
+        "copyrights": [
+            "（C）Hypergryph / Studio Montagne"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701063054,
+    "endAt": 1759244400,
+    "transcodeVersion": "5Bc8VP",
+    "sharedLink": {
+        "twitter": "https://abema.app/LLoS",
+        "facebook": "https://abema.app/oQGU",
+        "google": "https://abema.app/ZsE7",
+        "line": "https://abema.app/nZwV",
+        "copy": "https://abema.app/peMn",
+        "instagram": "https://abema.app/Vd5T"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/210-9_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/210-9_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/210-9_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-9_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.561555,
+        "opening": {
+            "start": 100.791242,
+            "end": 188.010173
+        },
+        "ending": {
+            "start": 1331.881806,
+            "end": 1420.552575
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-9_s1_p8",
+        "title": "第8話 歧路 Departure",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1718936366,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-9_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-9_eg0"
+}

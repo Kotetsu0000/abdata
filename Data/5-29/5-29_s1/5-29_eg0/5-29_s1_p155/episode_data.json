@@ -1,0 +1,134 @@
+{
+    "id": "5-29_s1_p155",
+    "series": {
+        "id": "5-29",
+        "title": "ドラゴンボール改",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-29",
+            "filename": "thumb.png",
+            "query": "version=1644640355",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-29",
+            "filename": "portrait.png",
+            "query": "version=1644640355",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-29_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1398
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 155,
+        "title": "第155話 オラに元気を分けてくれ！　作るぜでっかい元気玉!!",
+        "content": "ポルンガの力で地球が復活し、死んだ人々も蘇った。べジータは悟空に元気玉を作らせ、復活した地球人たちにブウを倒すために力を貸せとメッセージを送る。悟飯達の気が集まり、元気玉が膨れ上がるが、悟空の仲間達以外はほとんど元気を分けてくれないため、元気玉が大きくならない…!!　人々の信用を得られないのだ。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "孫悟空＆孫悟飯＆孫悟天：野沢雅子，ブルマ：鶴ひろみ，クリリン：田中真弓，　ヤムチャ：古谷徹，　餃子：江森浩子，チチ：渡辺菜生子，神様：島田敏，ピッコロ：古川登志夫，べジータ：堀川りょう，トランクス：草尾毅，セル：若本規夫，魔人ブウ：塩屋浩三，ビーデル：柿沼紫乃，ミスター・サタン：石塚運昇，ナレーション：八奈見乗児"
+        ],
+        "crews": [
+            "企画：松崎容子、情野誠人、森下孝三，原作：鳥山明，プロデューサー：情野誠人、野崎理、渡辺和哉、佐川直子、若林 豪、林田師博",
+            "音楽：菊池俊輔",
+            "音響監督：長崎行男、本山哲",
+            "製作担当：風間厚徳",
+            "編集：福光伸一、片瀬健太、牧信公",
+            "シリーズ構成協力：佐渡和隆、キャラメル・ママ",
+            "オープニング・エンディング：山室直儀、長峯達也、志田直俊、後藤康徳"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683628650,
+    "endAt": 1732978800,
+    "transcodeVersion": "1Y3mH",
+    "sharedLink": {
+        "twitter": "https://abema.app/XafF",
+        "facebook": "https://abema.app/uQsb",
+        "google": "https://abema.app/HXje",
+        "line": "https://abema.app/zMFE",
+        "copy": "https://abema.app/djdT",
+        "instagram": "https://abema.app/rMGD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-29_s1_p155/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-29_s1_p155/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-29_s1_p155/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-29_s1_p155"
+    },
+    "viewingPoint": {
+        "suggestion": 1308.196755,
+        "opening": {
+            "start": 61.134854,
+            "end": 142.134855
+        },
+        "ending": {
+            "start": 1308.196755,
+            "end": 1365.256755
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-29_s1_p156",
+        "title": "第156話 世界の救世主はおまえだ！　みんなの元気玉完成!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683628650,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-29_s1_p155/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-29_eg0"
+}

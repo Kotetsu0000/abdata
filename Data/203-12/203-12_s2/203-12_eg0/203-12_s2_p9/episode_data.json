@@ -1,0 +1,149 @@
+{
+    "id": "203-12_s2_p9",
+    "series": {
+        "id": "203-12",
+        "title": "Ｂビーダマン爆外伝",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+            "filename": "thumb.png",
+            "query": "version=1699864787",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+            "filename": "portrait.png",
+            "query": "version=1699864787",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-12_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1445
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 発見！第4のクリスモンド",
+        "content": "王国「ボーダーランド」を襲った謎の敵、デビルベーダーは、王国の像に隠された聖剣ビーダキャリバーを狙っていた。しかし、デビルベーダーがビーダキャリバーを奪おうとした時、封じられていた聖なるパワーはクリスモンドというタマに形を変え、12に分かれて時空を超えて宇宙に散らばったのだった。クリスモンドは宇宙の過去・現在・未来のさまざまな所に散らばり、そのパワーで時空のひずみを引き起こし、現代の歴史に影響し珍減少や怪奇現象を引き起こすのだった。また、クリスモンドを追うデビルベーダーがその時代で陰謀や悪事を働くので、現在の宇宙はパニック状態に！\nしろボン達ビーダコップは、歴史を変えてしまう原因をつきとめ、デビルベーダの陰謀を阻止するために、タイムトラベルをして時空を超えた冒険に旅立つ。"
+    },
+    "credit": {
+        "released": 1999,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "監督:川瀬　敏文",
+            "シリーズ構成:浦畑　達彦",
+            "キャラクターデザイン:梅原　隆弘"
+        ],
+        "copyrights": [
+            "(C)Konami Digital Entertainment／ADK EM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701500080,
+    "endAt": 1732978800,
+    "transcodeVersion": "pko6m",
+    "sharedLink": {
+        "twitter": "https://abema.app/HCQk",
+        "facebook": "https://abema.app/Jae9",
+        "google": "https://abema.app/1tX4",
+        "line": "https://abema.app/iVVH",
+        "copy": "https://abema.app/BvvL",
+        "instagram": "https://abema.app/FgVR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-12_s2_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-12_s2_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-12_s2_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-12_s2_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1353.0183333333334,
+        "opening": {
+            "end": 87.9879
+        },
+        "ending": {
+            "start": 1353.0183333333334,
+            "end": 1414.9802333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-12_s2_p10",
+        "title": "第10話 きっとあしたは晴れるから",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1701500080,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-12_s2_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "203-12_eg0"
+}

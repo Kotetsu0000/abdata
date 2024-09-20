@@ -1,0 +1,154 @@
+{
+    "id": "189-54_s1_p16",
+    "series": {
+        "id": "189-54",
+        "title": "ダークギャザリング",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-54",
+            "filename": "thumb.png",
+            "query": "version=1688117358",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-54",
+            "filename": "portrait.png",
+            "query": "version=1688117358",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-54_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 物件",
+        "content": "『旧旧Ｆトンネル』の霊を無事捕縛した螢多朗達。衰弱してしまった螢多朗の身体を休める為、心霊スポット巡りは一時中断する事に。一方、真の恐怖を目の当たりにした詠子は、オカルトに対し不安を抱き始める。これからも悪霊収集を続けるのか、それとも──。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "寶月夜宵：篠原侑",
+            "幻燈河螢多朗：島﨑信長",
+            "寶月詠子：花澤香菜",
+            "神代愛依：川口莉奈"
+        ],
+        "crews": [
+            "原作：近藤憲⼀（集英社『ジャンプSQ.』連載）",
+            "監督：博史池畠（『群れなせ!シートン学園』『キラッとプリ☆チャン』）",
+            "シリーズ構成：村越繁",
+            "美術監督：長田泰治郎",
+            "撮影監督：安藤優穂",
+            "3Dディレクター：上薗隆浩",
+            "色彩設計：歌川律子",
+            "音響監督：吉田光平",
+            "音楽：KOHTA YAMAMOTO、成田旬、瀬尾祐介（Starving Trancer / Xceon）",
+            "制作スタジオ：OLM（『ポケモン』シリーズ、『ベイブレードバースト』シリーズ）"
+        ],
+        "copyrights": [
+            "(C)近藤憲一／集英社・ダークギャザリング製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704338326,
+    "endAt": 1735657200,
+    "transcodeVersion": "V5zfU",
+    "sharedLink": {
+        "twitter": "https://abema.app/UpNG",
+        "facebook": "https://abema.app/d4zk",
+        "google": "https://abema.app/C1zP",
+        "line": "https://abema.app/FBZX",
+        "copy": "https://abema.app/qaQa",
+        "instagram": "https://abema.app/pgPp"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/189-54_s1_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/189-54_s1_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/189-54_s1_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-54_s1_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1311.05975,
+        "opening": {
+            "start": 91.63320833333333,
+            "end": 180.88904166666666
+        },
+        "ending": {
+            "start": 1311.435125,
+            "end": 1400.14875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "189-54_s1_p17",
+        "title": "第17話 受胎告知の家",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1704338326,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-54_s1_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "189-54_eg0"
+}

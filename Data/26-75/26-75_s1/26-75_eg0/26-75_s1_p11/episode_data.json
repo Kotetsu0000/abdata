@@ -1,0 +1,159 @@
+{
+    "id": "26-75_s1_p11",
+    "series": {
+        "id": "26-75",
+        "title": "テレビアニメ「鬼滅の刃」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "thumb.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "portrait.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-75_s1",
+        "sequence": 1,
+        "name": "竈門炭治郎 立志編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第十一話 鼓の屋敷",
+        "content": "鎹鴉から告げられた次なる鬼退治の地は南南東――。\nその途上で炭治郎は、最終選別で生き残った同期の剣士・我妻善逸と出会う。\n炭治郎は、善逸の消極的な態度に手を焼きつつも山の奥地へ向かうと、\n屋敷の前で兄を連れ去られたふたりの子どもたちに出会う。そこで、善逸はどこからか鳴り響く鼓の音を聴くのだった……。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "竈門炭治郎役：花江夏樹",
+            "竈門襧豆子役：鬼頭明里",
+            "我妻善逸：下野 紘",
+            "嘴平伊之助：松岡禎丞",
+            "冨岡義勇：櫻井孝宏"
+        ],
+        "crews": [
+            "原作：吾峠呼世晴（集英社ジャンプ コミックス刊）",
+            "監督：外崎春雄",
+            "キャラクターデザイン：松島 晃",
+            "サブキャラクターデザイン：佐藤美幸／梶山庸子／菊池美花",
+            "脚本制作：ufotable",
+            "コンセプトアート：衛藤功二／矢中勝／竹内香純／樺澤侑里",
+            "撮影監督：寺尾優一",
+            "3D監督：西脇一樹",
+            "色彩設計：大前祐子",
+            "編集：神野 学",
+            "音楽：梶浦由記／椎名 豪",
+            "制作プロデューサー：近藤 光",
+            "アニメーション制作：ufotable"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695885698,
+    "endAt": 1730386800,
+    "transcodeVersion": "7J9doZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/tVv9",
+        "facebook": "https://abema.app/4U2w",
+        "google": "https://abema.app/Ri8w",
+        "line": "https://abema.app/HgTd",
+        "copy": "https://abema.app/DyXt",
+        "instagram": "https://abema.app/hJGt"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-75_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-75_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-75_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-75_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.11,
+        "opening": {
+            "start": 45.04620800000003,
+            "end": 135.00920800000003
+        },
+        "ending": {
+            "start": 1270.019995,
+            "end": 1360.0670380000001
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-75_s1_p12",
+        "title": "第十二話 猪は牙を剥き　善逸は眠る",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1695885698,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-75_s1_p11/timeline",
+        "query": "version=7J9doZ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "26-75_eg0"
+}

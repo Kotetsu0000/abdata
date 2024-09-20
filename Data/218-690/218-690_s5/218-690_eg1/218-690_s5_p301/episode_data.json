@@ -1,0 +1,136 @@
+{
+    "id": "218-690_s5_p301",
+    "series": {
+        "id": "218-690",
+        "title": "ホロごえっ！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-690",
+            "filename": "thumb.png",
+            "query": "version=1711435894",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-690",
+            "filename": "portrait.png",
+            "query": "version=1711435894",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-690_s5",
+        "sequence": 5,
+        "name": "木曜日",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_39",
+                "name": "AbemaTVオリジナル"
+            },
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 628
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 301,
+        "title": "【夕刻ロベル×石川界人】 4月",
+        "content": "【夕刻ロベル×石川界人】\n\n月に1回、ここでしか聞けないアフタートークや企画の数々をお届けします。\n※本番組はABEMAプレミアム会員向けとなっております。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "月曜日：白上フブキ×悠木碧",
+            "火曜日：宝鐘マリン×上坂すみれ",
+            "水曜日：天音かなた×和氣あず未",
+            "木曜日：夕刻ロベル×石川界人",
+            "金曜日：鷹嶺ルイ×楠木ともり"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc.",
+            "(C) 2016 COVER Corp."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725684337,
+    "endAt": 1808060400,
+    "transcodeVersion": "bBAri",
+    "sharedLink": {
+        "twitter": "https://abema.app/dvQA",
+        "facebook": "https://abema.app/rECq",
+        "google": "https://abema.app/8uMf",
+        "line": "https://abema.app/ophZ",
+        "copy": "https://abema.app/zRvL",
+        "instagram": "https://abema.app/GUkP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-690_s5_p301/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-690_s5_p301/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-690_s5_p301/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-690_s5_p301"
+    },
+    "viewingPoint": {
+        "suggestion": 623.7898333333334
+    },
+    "nextProgramInfo": {
+        "programId": "218-690_s5_p302",
+        "title": "【夕刻ロベル×石川界人】 5月",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1725684337,
+        "endAt": 1810479600,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1810479600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-690_s5_p301/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1808060400
+        }
+    ],
+    "episodeGroupId": "218-690_eg1"
+}

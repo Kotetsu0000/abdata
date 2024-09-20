@@ -1,0 +1,151 @@
+{
+    "id": "2-15_s1_p5",
+    "series": {
+        "id": "2-15",
+        "title": "姫様\"拷問\"の時間です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "thumb.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "portrait.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-15_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話",
+        "content": "川辺での“拷問”。姫は川遊びを期待していたが、トーチャーが取り出したのは、姫が苦手としているマシュマロだった…。がっかりする姫だったが、アウトドアならではの“拷問”でトーチャーの手腕が発揮される。他にも、ジャイアントと行く初めてのサウナや、陽鬼発案の学校を使った肝試しで、夏らしい“拷問”を堪能する姫。しかし肝試しの当日、あるトラブルが起きてしまう。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "姫：白石晴香",
+            "エクス：小林親弘",
+            "トーチャー・トルチュール：伊藤 静",
+            "魔王：玄田哲章",
+            "陽鬼：永瀬アンナ",
+            "陰鬼：井上ほの花",
+            "クロル：山根 綺",
+            "ジャイアント：茅野愛衣",
+            "マオマオちゃん：日高里菜",
+            "ルルン：中原麻衣"
+        ],
+        "crews": [
+            "原作：春原ロビンソン・ひらけい（集英社「少年ジャンプ＋」連載）",
+            "監督：金森陽子",
+            "シリーズ構成：筆安一幸",
+            "キャラクターデザイン：河野敏弥・古橋 聡",
+            "音響監督：明田川 仁",
+            "音楽：横山 克"
+        ],
+        "copyrights": [
+            "(C)春原ロビンソン・ひらけい／集英社・国王軍第三騎士団"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721886236,
+    "endAt": 1774969200,
+    "freeEndAt": 1727012700,
+    "transcodeVersion": "RT5Cz",
+    "sharedLink": {
+        "twitter": "https://abema.app/fChh",
+        "facebook": "https://abema.app/ryTJ",
+        "google": "https://abema.app/BkAo",
+        "line": "https://abema.app/KrvS",
+        "copy": "https://abema.app/3ak2",
+        "instagram": "https://abema.app/zTNi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p5/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/2-15_s1_p5/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-15_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.9969166666667,
+        "opening": {
+            "start": 66.23283333333333,
+            "end": 155.98916666666668
+        },
+        "ending": {
+            "start": 1291.9990416666667,
+            "end": 1381.9222083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-15_s1_p6",
+        "title": "第6話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721886237,
+        "endAt": 1774969200,
+        "freeEndAt": 1727012700,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727012700
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-15_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727012700
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "2-15_eg0"
+}

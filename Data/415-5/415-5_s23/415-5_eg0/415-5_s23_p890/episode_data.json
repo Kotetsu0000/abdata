@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s23_p890",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s23",
+        "sequence": 23,
+        "name": "season23",
+        "thumbComponent": {},
+        "order": 23
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 890,
+        "title": "第890話 新任教師の骸骨事件（後編）",
+        "content": "コナンたちは副担任の若狭と学校の古い倉庫の地下室で死後10年くらい経った白骨遺体を発見。コナンたちは遺体が握っていたハチマキに書かれた暗号の解読に取り掛かる。歩美が倉庫で拾った古い時間割表が暗号の解読表だった。暗号は4人組の強盗が資産家の家から2億円相当の金塊を奪った10年前の事件と関係していた。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "6DQnKs",
+    "sharedLink": {
+        "twitter": "https://abema.app/CuUn",
+        "facebook": "https://abema.app/USQT",
+        "google": "https://abema.app/1eum",
+        "line": "https://abema.app/KWpC",
+        "copy": "https://abema.app/RjCH",
+        "instagram": "https://abema.app/jGQ7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p890/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p890/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p890/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s23_p890"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 94.094,
+            "end": 192.94275
+        },
+        "ending": {
+            "start": 1229.9370416666666,
+            "end": 1309.8502083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s23_p891",
+        "title": "第891話 幕末維新ミステリーツアー（山口編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s23_p890/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

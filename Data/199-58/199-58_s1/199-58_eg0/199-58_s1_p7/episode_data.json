@@ -1,0 +1,153 @@
+{
+    "id": "199-58_s1_p7",
+    "series": {
+        "id": "199-58",
+        "title": "異世界スーサイド・スクワッド",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/199-58",
+            "filename": "thumb.png",
+            "query": "version=1720761812",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/199-58",
+            "filename": "portrait.png",
+            "query": "version=1720761812",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "199-58_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "Episode 7",
+        "content": "ハーレイ達の爆弾のリセットを妨害するため、シンカーはゲートの傍に自身が操ったエルフ軍団の力で要塞を築いていた。そしてそこにはカタナの姿も…。難攻不落の要塞を落とすため、それぞれの借りを返すため、ハーレイ達が考え出した作戦とは！？いざリベンジ・マッチ！！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ハーレイ・クイン：永瀬アンナ",
+            "ジョーカー：梅原裕一郎",
+            "デッドショット：山口令悟",
+            "ピースメイカー：子安武人",
+            "クレイフェイス：福山 潤",
+            "キング・シャーク：木村 昴",
+            "リック・フラッグ：八代 拓",
+            "カタナ：安済知佳",
+            "アマンダ・ウォラー：くじら",
+            "フィオネ：上田麗奈",
+            "アルドラ：能登麻美子",
+            "セシル：福島 潤　他"
+        ],
+        "crews": [
+            "監督：長田絵里",
+            "シリーズ構成・脚本：長月達平／梅原英司",
+            "キャラクターデザイン原案：天野 明",
+            "キャラクターデザイン：細田直人",
+            "音楽：末廣健一郎",
+            "オープニングテーマ：布袋寅泰「Another World」",
+            "エンディングテーマ：Mori Calliope「Go-Getters」",
+            "アニメーション制作：WIT STUDIO",
+            "プロデュース：Warner Bros. Japan"
+        ],
+        "copyrights": [
+            "Suicide Squad and all related characters and elements (C) & TM DC (C) 2024 Warner Bros. Japan LLC"
+        ]
+    },
+    "mediaStatus": {
+        "drm": true
+    },
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725872211,
+    "endAt": 1759244400,
+    "freeEndAt": 1726409700,
+    "transcodeVersion": "5iaTm7",
+    "sharedLink": {
+        "twitter": "https://abema.app/EmQb",
+        "facebook": "https://abema.app/VUy6",
+        "google": "https://abema.app/nNdw",
+        "line": "https://abema.app/x8A7",
+        "copy": "https://abema.app/9cPi",
+        "instagram": "https://abema.app/maV8"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/199-58_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/199-58_s1_p7/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/199-58_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/199-58_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.199-58_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1441.064625,
+        "opening": {
+            "start": 25.442083333333333,
+            "end": 115.03158333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "199-58_s1_p8",
+        "title": "Episode 8",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1725872211,
+        "endAt": 1759244400,
+        "freeEndAt": 1726409700,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726409700
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/199-58_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726409700
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1728137700
+        }
+    ],
+    "episodeGroupId": "199-58_eg0"
+}

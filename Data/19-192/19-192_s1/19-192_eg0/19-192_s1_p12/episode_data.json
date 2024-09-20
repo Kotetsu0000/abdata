@@ -1,0 +1,143 @@
+{
+    "id": "19-192_s1_p12",
+    "series": {
+        "id": "19-192",
+        "title": "バーテンダー 神のグラス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-192",
+            "filename": "thumb.png",
+            "query": "version=1711692719",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-192",
+            "filename": "portrait.png",
+            "query": "version=1711692719",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-192_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 たいせつな仕事",
+        "content": "新人売れっ子小説家の黒沢は、カーディナルの部屋にこもり次回作の執筆をするが筆が進まずにいた。部屋から「遺書」と書かれた丸められた原稿用紙が見つかる。そんな時、黒沢がイーデンホールにやって来る。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "佐々倉溜：寺島拓篤",
+            "来島美和：南條愛乃",
+            "樋口由香利：白石晴香",
+            "金城ユリ：白石涼子",
+            "川上京子：松井恵理子",
+            "ケルビン・チェン：古川慎",
+            "北方：東地宏樹",
+            "葛原隆一：内田直哉",
+            "来島泰三：麦人"
+        ],
+        "crews": [
+            "原作：城アラキ／長友健篩 「バーテンダー」（集英社刊）",
+            "監督：倉谷涼一",
+            "シリーズ構成：國澤真理子",
+            "キャラクターデザイン：植田羊一",
+            "総作画監督：植田羊一・牛島勇二",
+            "プロップデザイン：中原清隆・jimao",
+            "美術監督：倉田憲一",
+            "色彩設計：漆戸幸子",
+            "撮影監督：國重元宏",
+            "編集：徳田 俊",
+            "音響監督：明田川仁",
+            "音楽：堤 博明",
+            "オープニングテーマ：「Stardust Memory」川崎鷹也",
+            "エンディングテーマ：「スピカ」上白石萌音",
+            "アニメーション制作：リーベル"
+        ],
+        "copyrights": [
+            "(C)城アラキ・長友健篩／集英社・Bar hoppers"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719226502,
+    "endAt": 1751295600,
+    "transcodeVersion": "5XNDj7",
+    "sharedLink": {
+        "twitter": "https://abema.app/jjh1",
+        "facebook": "https://abema.app/c2tt",
+        "google": "https://abema.app/sFHB",
+        "line": "https://abema.app/RV3k",
+        "copy": "https://abema.app/qquq",
+        "instagram": "https://abema.app/TQRY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-192_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-192_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-192_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-192_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0053333333333,
+        "opening": {
+            "start": 73.99058333333333,
+            "end": 163.99716666666666
+        },
+        "ending": {
+            "start": 1340.0053333333333,
+            "end": 1429.9702083333334
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-192_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726562700
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727231700
+        }
+    ],
+    "episodeGroupId": "19-192_eg0"
+}

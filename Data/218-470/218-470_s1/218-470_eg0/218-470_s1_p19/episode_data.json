@@ -1,0 +1,118 @@
+{
+    "id": "218-470_s1_p19",
+    "series": {
+        "id": "218-470",
+        "title": "5周年記念 声優と夜あそび28時間テレビ 大感謝祭 ~Say You Thank You~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "thumb.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "portrait.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-470_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2974
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 19,
+        "title": "夜あそび大選手権〜大フィナーレ",
+        "content": "28時間テレビを締めくくる大選手権を開催！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "森久保祥太郎",
+            "安元洋貴",
+            "細谷佳正",
+            "金田朋子",
+            "仲村宗悟",
+            "石川界人"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680241391,
+    "endAt": 1755702000,
+    "transcodeVersion": "7LiDQs",
+    "sharedLink": {
+        "twitter": "https://abema.app/DXwn",
+        "facebook": "https://abema.app/fr8T",
+        "google": "https://abema.app/Pzzq",
+        "line": "https://abema.app/TrZG",
+        "copy": "https://abema.app/Wuw8",
+        "instagram": "https://abema.app/fjYc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-470_s1_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 2969.204567
+    },
+    "nextProgramInfo": {
+        "programId": "218-470_s1_p20",
+        "title": "拝啓・声優と夜あそび 〜500字で綴る 私と夜あそび〜",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1680241391,
+        "endAt": 1755702000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755702000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-470_s1_p19/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755702000
+        }
+    ],
+    "episodeGroupId": "218-470_eg0"
+}

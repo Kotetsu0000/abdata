@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p35",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 35,
+        "title": "第35話 ｢邪悪なる者よ！トキ・お前の心は腐っている！！」",
+        "content": "リンを拾ったキャラバン隊のユウが病気に。ユウの両親とリンはトキの奇跡の村へと助けを求めにいくが、助ける代わりに父親がトキの実験台になることに・・・"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756425,
+    "endAt": 1732978800,
+    "transcodeVersion": "5EEGhX",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/1HXrF",
+        "facebook": "https://gxyt4.app.goo.gl/oN6mT",
+        "google": "https://gxyt4.app.goo.gl/sL6Vk",
+        "line": "https://gxyt4.app.goo.gl/azUp5",
+        "copy": "https://gxyt4.app.goo.gl/R2CH6",
+        "instagram": "https://gxyt4.app.goo.gl/8N48b"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p35/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p35/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.462322,
+        "opening": {
+            "start": 32.989488,
+            "end": 124.547722
+        },
+        "ending": {
+            "start": 1340.462322,
+            "end": 1430.285488
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p36",
+        "title": "第36話 ｢ふりかえる過去はない！ただ悪を憎みトキを撃つ！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756425,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p35/timeline",
+        "query": "version=5EEGhX",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

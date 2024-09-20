@@ -1,0 +1,164 @@
+{
+    "id": "149-4_s1_p8",
+    "series": {
+        "id": "149-4",
+        "title": "ありふれた職業で世界最強",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-4",
+            "filename": "thumb.png",
+            "query": "version=1681284417",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-4",
+            "filename": "portrait.png",
+            "query": "version=1681284417",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "149-4_s10",
+        "sequence": 10,
+        "name": "ありふれた職業で世界最強",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1416
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "Episode.08 過去との再会",
+        "content": "ライセン大峡谷の迷宮を攻略したハジメたちは、商業都市フューレンを訪れる。街の冒険者ギルドから、北の山脈地帯で行方不明となった冒険者の捜索を依頼されたハジメ。一行は捜索に向かう途中、湖畔の町・ウルに立ち寄る。そこでハジメはオルクス大迷宮で離ればなれとなったクラスメイトたちと予期せぬ再会を果たす。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "南雲ハジメ 深町寿成",
+            "ユエ 桑原由気",
+            "シア・ハウリア 高橋未奈美",
+            "ティオ・クラルス 日笠陽子",
+            "白崎香織 大西沙織",
+            "八重樫雫 花守ゆみり",
+            "天之河光輝 柿原徹也",
+            "畑山愛子 加隈亜衣"
+        ],
+        "crews": [
+            "原作:白米良（オーバーラップ文庫刊）",
+            "イラスト:たかやKi",
+            "監督:よしもときんじ",
+            "シリーズ構成・脚本:佐藤勝一・𠮷本欣司",
+            "音楽:高橋 諒",
+            "キャラクターデザイン・総作画監督:小島智加",
+            "アニメーション制作:asread.×WHITE FOX"
+        ],
+        "copyrights": [
+            "(C)白米良・オーバーラップ/ありふれた製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1723101894,
+    "endAt": 1759244400,
+    "transcodeVersion": "65q17n",
+    "sharedLink": {
+        "twitter": "https://abema.app/oxLF",
+        "facebook": "https://abema.app/2K4Z",
+        "google": "https://abema.app/ekP2",
+        "line": "https://abema.app/jXqA",
+        "copy": "https://abema.app/8jHe",
+        "instagram": "https://abema.app/fz7Z"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/149-4_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/149-4_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/149-4_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.149-4_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.007555,
+        "opening": {
+            "start": 49.072222,
+            "end": 138.937099
+        },
+        "ending": {
+            "start": 1319.007555,
+            "end": 1409.013144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "149-4_s1_p9",
+        "title": "Episode.09 黒竜を穿つ者",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1723101894,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726681200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/149-4_s1_p8/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726681200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727327400
+        }
+    ],
+    "episodeGroupId": "149-4_eg0"
+}

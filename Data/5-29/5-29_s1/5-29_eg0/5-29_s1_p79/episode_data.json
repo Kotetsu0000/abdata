@@ -1,0 +1,134 @@
+{
+    "id": "5-29_s1_p79",
+    "series": {
+        "id": "5-29",
+        "title": "ドラゴンボール改",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-29",
+            "filename": "thumb.png",
+            "query": "version=1644640355",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-29",
+            "filename": "portrait.png",
+            "query": "version=1644640355",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-29_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1397
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 79,
+        "title": "第79話 そして最悪の事態へ…セル、１８号に襲いかかる！",
+        "content": "強い相手と闘いたいベジータは、セルを完全体に進化させようとする。最悪の事態を恐れたトランクスたちは全力で抵抗するが、セルは隙をついて18号を吸収してしまう！"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "孫悟空＆孫悟飯＆孫悟天：野沢雅子，ブルマ：鶴ひろみ，クリリン：田中真弓，　ヤムチャ：古谷徹，　餃子：江森浩子，チチ：渡辺菜生子，神様：島田敏，ピッコロ：古川登志夫，べジータ：堀川りょう，トランクス：草尾毅，セル：若本規夫，魔人ブウ：塩屋浩三，ビーデル：柿沼紫乃，ミスター・サタン：石塚運昇，ナレーション：八奈見乗児"
+        ],
+        "crews": [
+            "企画：松崎容子、情野誠人、森下孝三，原作：鳥山明，プロデューサー：情野誠人、野崎理、渡辺和哉、佐川直子、若林 豪、林田師博",
+            "音楽：菊池俊輔",
+            "音響監督：長崎行男、本山哲",
+            "製作担当：風間厚徳",
+            "編集：福光伸一、片瀬健太、牧信公",
+            "シリーズ構成協力：佐渡和隆、キャラメル・ママ",
+            "オープニング・エンディング：山室直儀、長峯達也、志田直俊、後藤康徳"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683628648,
+    "endAt": 1732978800,
+    "transcodeVersion": "5RrMt2",
+    "sharedLink": {
+        "twitter": "https://abema.app/V2K7",
+        "facebook": "https://abema.app/T7K9",
+        "google": "https://abema.app/bLg5",
+        "line": "https://abema.app/8L9s",
+        "copy": "https://abema.app/aTy8",
+        "instagram": "https://abema.app/MY67"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-29_s1_p79/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-29_s1_p79/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-29_s1_p79/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-29_s1_p79"
+    },
+    "viewingPoint": {
+        "suggestion": 1307.929822,
+        "opening": {
+            "start": 56.863922,
+            "end": 137.863922
+        },
+        "ending": {
+            "start": 1307.929822,
+            "end": 1364.923088
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-29_s1_p80",
+        "title": "第80話 形勢逆転！完全体セル、ついに始動",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683628648,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-29_s1_p79/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-29_eg0"
+}

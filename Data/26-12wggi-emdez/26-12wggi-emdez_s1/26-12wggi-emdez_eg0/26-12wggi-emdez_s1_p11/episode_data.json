@@ -1,0 +1,137 @@
+{
+    "id": "26-12wggi-emdez_s1_p11",
+    "series": {
+        "id": "26-12wggi-emdez",
+        "title": "Angel Beats!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "thumb.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "portrait.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12wggi-emdez_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1561
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "episode11 Change the World",
+        "content": "次に誰を旅立たせるかを悩む音無の前に、日向と直井が現れる。二人とも音無に協力したいと申し出るのだったが、話は中々まとまらない。\nそんな中、突然、直井の背後に影の様なものが現れ、直井に襲い掛かってきた。\nなんとかその影を銃で撃退する音無と日向であったが、一体何が起きているのか事態が飲み込めないでいた。\nそれはゆりも同様で、かなでのプログラムを原因と疑い彼女に話を聞くものの、かなでにも心当たりが無い様子。\n\nそしてその話の渦中、響き渡る銃声。\n\n直井を襲ったのと同じ影が多数校庭に現れ、戦線メンバーと激しい戦いを繰り広げていたのだった。\nゆりやかなでも参戦し、苦戦しながらもなんとか無事に影を撃退する戦線メンバー達。\n\nだが、そんな中、高松が影にやられてしまったという連絡が告げられる…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "音無：神谷浩史",
+            "ゆり：櫻井浩美",
+            "天使：花澤香菜",
+            "ユイ：喜多村英梨",
+            "日向：木村良平"
+        ],
+        "crews": [
+            "原作・脚本：麻枝准",
+            "監督：岸誠二",
+            "キャラクター原案：Na-Ga",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "音響監督：飯田里樹"
+        ],
+        "copyrights": [
+            "(C)VisualArt's/Key/Angel Beats! Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805442,
+    "endAt": 1748703600,
+    "transcodeVersion": "49AayS",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/k4duM",
+        "facebook": "https://gxyt4.app.goo.gl/XJ7rP",
+        "google": "https://gxyt4.app.goo.gl/7fBx2",
+        "line": "https://gxyt4.app.goo.gl/j7sXn",
+        "copy": "https://gxyt4.app.goo.gl/AqPUj",
+        "instagram": "https://abema.app/hTQu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12wggi-emdez_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1556.58
+    },
+    "nextProgramInfo": {
+        "programId": "26-12wggi-emdez_s1_p12",
+        "title": "episode12 Knockin' on heaven's door",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1681805442,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726592400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12wggi-emdez_s1_p11/timeline",
+        "query": "version=49AayS",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726592400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727240400
+        }
+    ],
+    "episodeGroupId": "26-12wggi-emdez_eg0"
+}

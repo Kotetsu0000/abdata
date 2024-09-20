@@ -1,0 +1,147 @@
+{
+    "id": "2-14_s10_p58",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 58,
+        "title": "第58話 看板ポケモンはドドゲザン！？",
+        "content": "ドットの応用テストのため、チャンプルタウンへやってきたリコたち。ナンデモ食堂というさびれた食堂で食事をすることに。近くの宝食堂が人気のあまり、お客さんがいないナンデモ食堂は、看板ポケモン・ドドゲザンの呼び込みもうまくいっていないみたいで…。そんなナンデモ食堂をリコたちがお手伝い―！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャローテ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "総監督：冨安大貴",
+            "監督：でんさおり",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872173,
+    "endAt": 1777647600,
+    "transcodeVersion": "3ZCXLP",
+    "sharedLink": {
+        "twitter": "https://abema.app/3fnJ",
+        "facebook": "https://abema.app/nVkq",
+        "google": "https://abema.app/V2wv",
+        "line": "https://abema.app/A5j3",
+        "copy": "https://abema.app/Jq6h",
+        "instagram": "https://abema.app/GM38"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p58/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p58/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p58/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p58"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.5224166666667,
+        "opening": {
+            "start": 115.32354166666667,
+            "end": 205.37183333333334
+        },
+        "ending": {
+            "start": 1327.4928333333332,
+            "end": 1417.4577083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p59",
+        "title": "第59話 おどれクワッス！碧きチャンプルステップ！！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872173,
+        "endAt": 1777647600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1777647600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p58/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1777647600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

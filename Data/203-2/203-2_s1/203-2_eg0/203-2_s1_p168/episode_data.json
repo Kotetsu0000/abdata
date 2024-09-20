@@ -1,0 +1,146 @@
+{
+    "id": "203-2_s1_p168",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s1",
+        "sequence": 101,
+        "name": "こちら葛飾区亀有公園前派出所",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1549
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 168,
+        "title": "第168話 災いは忘れた頃に…",
+        "content": "忘れ物が多い両津のことをいつも怒っている大原が、両津の給料をどこかに置き忘れてしまった。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382151,
+    "endAt": 1740754800,
+    "transcodeVersion": "2npsLk",
+    "sharedLink": {
+        "twitter": "https://abema.app/4fux",
+        "facebook": "https://abema.app/hgDr",
+        "google": "https://abema.app/KYBx",
+        "line": "https://abema.app/pT39",
+        "copy": "https://abema.app/PDbh",
+        "instagram": "https://abema.app/3oGq"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-2_s1_p168/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-2_s1_p168/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-2_s1_p168/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s1_p168"
+    },
+    "viewingPoint": {
+        "suggestion": 1436.958522,
+        "opening": {
+            "start": 10.033222,
+            "end": 91.881755
+        },
+        "ending": {
+            "start": 1437.726155,
+            "end": 1514.836622
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s1_p169",
+        "title": "第169話 ハイパーコップ両津",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382151,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726790820
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s1_p168/timeline",
+        "query": "version=2npsLk",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726790820
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727395620
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

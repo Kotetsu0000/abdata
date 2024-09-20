@@ -1,0 +1,147 @@
+{
+    "id": "174-1_s0_p1",
+    "series": {
+        "id": "174-1",
+        "title": "這いよれ！ニャル子さん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-1",
+            "filename": "thumb.png",
+            "query": "version=1679038010",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-1",
+            "filename": "portrait.png",
+            "query": "version=1679038010",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "174-1_s1",
+        "sequence": 1,
+        "name": "這いよれ!ニャル子さん",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1437
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話「第三種接近遭遇、的な」",
+        "content": "ある夜、八坂真尋は謎の怪物に襲われる。絶体絶命のピンチに現れたのは銀髪碧眼の美少女だった。\n「いつもニコニコあなたの隣に這いよる混沌、ニャルラトホテプです♪」\nクトゥルー神話の邪神を名乗る彼女は、真尋を守るためにやって来たという。しかしその仕事っぷりは、真尋を騙くらかして外に連れ出し、アニメショップで自分の趣味のモノを買いあさるなど公私混同はなはだしい。そんな中、謎の怪物から再び襲撃を受ける。果たして、真尋が狙われる目的とは一体……!？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ニャル子：阿澄佳奈",
+            "八坂真尋：喜多村英梨　他"
+        ],
+        "crews": [
+            "監督：長澤剛",
+            "シリーズ構成：木村暢",
+            "キャラクターデザイン・総作画監督：滝山真哲",
+            "美術監督：わたなべけいと",
+            "色彩設定：谷口ゆり子",
+            "撮影監督：堀野大輔",
+            "編集：松村正宏",
+            "音響監督：本山哲",
+            "音響効果：和田俊也",
+            "音響制作：スタジオマウス",
+            "音楽：MONACA",
+            "音楽制作：DIVEⅡentertainment"
+        ],
+        "copyrights": [
+            "(C)逢空万太・ソフトバンク クリエイティブ／名状しがたい製作委員会のようなもの"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1702358348,
+    "endAt": 1748703600,
+    "freeEndAt": 1748703600,
+    "transcodeVersion": "6YR8us",
+    "sharedLink": {
+        "twitter": "https://abema.app/U7nC",
+        "facebook": "https://abema.app/Du7m",
+        "google": "https://abema.app/NjJw",
+        "line": "https://abema.app/5UGi",
+        "copy": "https://abema.app/LNZM",
+        "instagram": "https://abema.app/gfCW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/174-1_s0_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/174-1_s0_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/174-1_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/174-1_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.174-1_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1432.12
+    },
+    "nextProgramInfo": {
+        "programId": "174-1_s0_p2",
+        "title": "第2話「さようならニャル子さん」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1702358348,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726527600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/174-1_s0_p1/timeline",
+        "query": "version=6YR8us",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "174-1_eg0"
+}

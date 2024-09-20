@@ -1,0 +1,97 @@
+{
+    "id": "632-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "女神のカフェテラス",
+    "content": "――どこかの海辺にある、古びた喫茶店。\nそこには…女神様がいるらしい――\n\nケンカ別れした祖母が遺した喫茶店「Familia」。\n「赤字だらけの店、さっさと畳んで駐車場に建て替えよう」と\n主人公、粕壁 隼が3年ぶりに帰省をすると\nそこには「おばあちゃんの家族」を語る見知らぬ5人のカワイイ女の子が！！\n\nいきなり下着？　全裸！？　ちょっとまて、誰が空き巣だ！\nここはオレの家だ！ 絶対に追い出してやる！\n\n最悪の出会いから、恋と家族の物語が始まるっ！\n5人全員「正ヒロイン」の、夢のハーレム共同生活！\nヒロイン多すぎシーサイドラブコメ！！",
+    "seasons": [
+        {
+            "id": "632-1_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/632-1_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1718098906",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "632-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "632-1_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/632-1_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1722755091",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "632-1_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "632-1_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)瀬尾公治・講談社／「女神のカフェテラス」製作委員会・MBS"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726206797130641268",
+    "imageUpdatedAt": 1722755068,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Fwur",
+        "facebook": "https://abema.app/NN6M",
+        "google": "https://abema.app/ap6v",
+        "line": "https://abema.app/J145",
+        "copy": "https://abema.app/AHof",
+        "instagram": "https://abema.app/ds3J"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-1",
+        "filename": "thumb.png",
+        "query": "version=1722755068",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-1",
+        "filename": "portrait.png",
+        "query": "version=1722755068",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

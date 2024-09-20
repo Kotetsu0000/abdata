@@ -1,0 +1,141 @@
+{
+    "id": "5-8_s0_p8",
+    "series": {
+        "id": "5-8",
+        "title": "トリコ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "thumb.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "portrait.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1338
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話　現れた脅威！ 波乱、グルメコロシアム！",
+        "content": "バトルウルフの親子を見て満足そうに微笑むトリコ。そこへ興奮して暴走状態のデーモンデビル大蛇が現れた。バトルウルフ親子を守るため戦うトリコ。一方、マンサムは逃げ遅れた観客に声をかけるが、いきなり攻撃を仕掛けられる。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "トリコ：置鮎龍太郎",
+            "小松：朴璐美",
+            "ココ：櫻井孝宏",
+            "サニー：岩田光央",
+            "ゼブラ：松田賢二"
+        ],
+        "crews": [
+            "原作：島袋光年（集英社・週刊少年ジャンプ連載）",
+            "企画：高瀬敦也、渡辺和哉、清水慎治",
+            "プロデューサー：情野誠人、佐川直子、鷲尾天",
+            "シリーズ構成：村山功",
+            "音楽：水谷広実"
+        ],
+        "copyrights": [
+            "(C)島袋光年／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689061324,
+    "endAt": 1740754800,
+    "transcodeVersion": "rbTwz",
+    "sharedLink": {
+        "twitter": "https://abema.app/VeW3",
+        "facebook": "https://abema.app/KuWn",
+        "google": "https://abema.app/oGXW",
+        "line": "https://abema.app/NcC4",
+        "copy": "https://abema.app/X4bd",
+        "instagram": "https://abema.app/af8k"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-8_s0_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-8_s0_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-8_s0_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-8_s0_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1323.979188,
+        "opening": {
+            "start": 17.974488,
+            "end": 102.892755
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-8_s0_p9",
+        "title": "第9話　受け継がれるもの！ 活性、グルメ細胞！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689061324,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726516800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-8_s0_p8/timeline",
+        "query": "version=rbTwz",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726516800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727164800
+        }
+    ],
+    "episodeGroupId": "5-8_eg0"
+}

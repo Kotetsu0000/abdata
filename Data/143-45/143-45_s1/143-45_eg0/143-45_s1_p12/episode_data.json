@@ -1,0 +1,154 @@
+{
+    "id": "143-45_s1_p12",
+    "series": {
+        "id": "143-45",
+        "title": "逆境無頼カイジ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "thumb.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "portrait.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-45_s1",
+        "sequence": 1,
+        "name": "逆境無頼カイジ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1368
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 転落",
+        "content": "狭い鉄骨の上で参加者たちが鈴なりになる中、11番の男に近づいたカイジは、震えるその背を押さないと決めた。だが、後から迫ってきた中山は、11番を落とさないカイジを落とそうと手を伸ばす。その中山の手を掴んだカイジがバランスを崩し、もう一方の手が11番に当たったことから、ぐらついた11番は鉄骨にしがみつく。足を踏み外したカイジと中山も鉄骨に食らい付いたため、先頭の11番、カイジ、中山の3人は、ゴール寸前で失格となった。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "カイジ：萩原聖人",
+            "利根川：白竜",
+            "遠藤：内田直哉",
+            "古畑：松本保典",
+            "安藤：桜井敏治",
+            "石田：家中宏",
+            "船井：石川英郎",
+            "ナレーション：立木文彦"
+        ],
+        "crews": [
+            "原作：福本伸行（講談社「ヤングマガジン」連載）",
+            "シリーズ構成：高屋敷英夫",
+            "キャラクターデザイン：高田晴仁",
+            "美術監督：横松紀彦",
+            "音楽：タニウチヒデキ",
+            "音響監督：本田保則",
+            "監督：佐藤雄三",
+            "アニメーション制作：マッドハウス"
+        ],
+        "copyrights": [
+            "(C)福本伸行,講談社・VAP・マッドハウス・NTV・D.N.ドリームパートナーズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1709085891,
+    "endAt": 1743433200,
+    "freeEndAt": 1726917300,
+    "transcodeVersion": "bjQAH",
+    "sharedLink": {
+        "twitter": "https://abema.app/REL2",
+        "facebook": "https://abema.app/XqdH",
+        "google": "https://abema.app/hCNF",
+        "line": "https://abema.app/PuYX",
+        "copy": "https://abema.app/UZti",
+        "instagram": "https://abema.app/1FVD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-45_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-45_s1_p12/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/143-45_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-45_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-45_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1282.1141666666667,
+        "opening": {
+            "end": 49.11573333333333
+        },
+        "ending": {
+            "start": 1282.1141666666667,
+            "end": 1353.0183333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-45_s1_p13",
+        "title": "第13話 怪物",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1709085891,
+        "endAt": 1743433200,
+        "freeEndAt": 1726917300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726917300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-45_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726917300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-45_eg0"
+}

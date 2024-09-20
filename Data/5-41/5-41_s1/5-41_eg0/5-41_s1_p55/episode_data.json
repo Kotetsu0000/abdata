@@ -1,0 +1,143 @@
+{
+    "id": "5-41_s1_p55",
+    "series": {
+        "id": "5-41",
+        "title": "逃走中 グレートミッション",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-41",
+            "filename": "thumb.png",
+            "query": "version=1680170528",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-41",
+            "filename": "portrait.png",
+            "query": "version=1680170528",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-41_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1400
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 55,
+        "title": "Mission55 逃走者復活？荒野の用心棒ラビ！",
+        "content": "南北二台の列車に分かれ、シカゴを目指す逃走者たち。北回りの列車に乗り込んだ颯也、ラビ、雪之丞、キャリーは、列車の修理のため小さな町に立ち寄るが、、、"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "トムラ 颯也：森久保 祥太郎",
+            "トムラ ハル：小林 由美子",
+            "西洞院 ルナ：井上 麻里奈",
+            "モーリス・シューメーカー：置鮎 龍太郎",
+            "月村　サトシ：浪川 大輔",
+            "ハーヴェスト：嶋村 侑"
+        ],
+        "crews": [
+            "原案：『逃走中』（フジテレビ）",
+            "キャラクター原案：岡野 剛",
+            "シリーズ構成：中山 智博",
+            "シリーズディレクター：貝澤 幸男・暮田 公平",
+            "キャラクターデザイン：大西 陽一",
+            "美術監督：神 綾香・秋山 健太郎",
+            "美術設定：福田 健二",
+            "3D ステージデザイン：田村 正平",
+            "音楽：中川幸太郎",
+            "製作：フジテレビ・読売広告社・東映アニメーション"
+        ],
+        "copyrights": [
+            "（C)フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035522,
+    "endAt": 1743433200,
+    "transcodeVersion": "3DRggA",
+    "sharedLink": {
+        "twitter": "https://abema.app/5ntH",
+        "facebook": "https://abema.app/H1Hm",
+        "google": "https://abema.app/qAVT",
+        "line": "https://abema.app/Q97E",
+        "copy": "https://abema.app/s97n",
+        "instagram": "https://abema.app/qTWj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-41_s1_p55/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-41_s1_p55/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-41_s1_p55/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-41_s1_p55"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.183875,
+        "opening": {
+            "start": 15.015,
+            "end": 100.05829166666666
+        },
+        "ending": {
+            "start": 1310.183875,
+            "end": 1370.2021666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-41_s1_p56",
+        "title": "Mission56 勝利をつかめ！シカゴ大乱闘ベースボール",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726035522,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-41_s1_p55/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "5-41_eg0"
+}

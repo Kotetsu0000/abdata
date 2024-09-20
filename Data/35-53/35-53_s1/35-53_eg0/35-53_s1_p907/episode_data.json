@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p907",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 907,
+        "title": "#907 人間味調味料",
+        "content": "テレビで西部劇（げき）の映画（えいが）を見てすっかりその気になったのび太は、「遊んでないで宿題をやりなさい」というママに、まるで映画の主人公のようにカッコつけて言い返し、こっぴどくおこられてしまう…。しかたなく宿題を始めたのび太からその話を聞いたドラえもんは、「カッコよく言いたい」というのび太のために、『人間味調味料』を取り出す。\n　ドラえもんに言われるがまま、目盛（も）りが“渋（しぶ）み”になっている調味料をドラえもんにふりかけたところ、ドラえもんが光ると同時に、渋みのあるふんいきになったからビックリ！ この調味料は、“渋み”や“甘（あま）み”など、人の性格（せいかく）を変化させる道具で、ひとふりで１０秒の効果（こうか）があるのだという。\n　それを聞いたのび太は、目盛りを“甘み”にして自分にふりかけると、ドラえもんにかしてほしいとねだり、人間味調味料を手に出かけることに。そして、空き地で出木杉と仲良く話しているしずかを見つけたのび太は、しずかに“塩み”をふりかけ…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1746025200,
+    "transcodeVersion": "79Ue38",
+    "sharedLink": {
+        "twitter": "https://abema.app/4Aqb",
+        "facebook": "https://abema.app/D9uJ",
+        "google": "https://abema.app/JnwG",
+        "line": "https://abema.app/3eEa",
+        "copy": "https://abema.app/VcW5",
+        "instagram": "https://abema.app/Htyu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p907/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p907/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p907/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p907"
+    },
+    "viewingPoint": {
+        "suggestion": 639.9309583333334
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p908",
+        "title": "#908 トランポリンゲン",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p907/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

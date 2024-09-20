@@ -1,0 +1,170 @@
+{
+    "id": "19-34_s1_p19",
+    "series": {
+        "id": "19-34",
+        "title": "Ｄｒ．ＳＴＯＮＥ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-34",
+            "filename": "thumb.png",
+            "query": "version=1693822160",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-34",
+            "filename": "portrait.png",
+            "query": "version=1693822160",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-34_s1",
+        "sequence": 1,
+        "name": "第１期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 19,
+        "title": "#19 そして現代へ",
+        "content": "司軍の戦闘員・氷月たちによる襲撃を受けた石神村。高い戦闘力を持つ氷月たちに対し、千空たちは日本刀で迎え撃つ！しかし、千空たちが司軍に引きつけられている間に、氷月の忠実な部下・ほむらが村に火が放ち、火事が起きる。逃げ惑う村人たちに、司軍が迫る……！そして、司帝国との全面戦争に備え、千空は〝現代最強の武器〟を作り出すと宣言する！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "小林裕介",
+            "古川慎",
+            "市ノ瀬加那",
+            "中村悠一"
+        ],
+        "crews": [
+            "原作",
+            "稲垣理一郎・Boichi",
+            "（集英社「週刊少年ジャンプ」連載）",
+            "監督",
+            "飯野慎也",
+            "シリーズ構成・脚本",
+            "木戸雄一郎",
+            "キャラクターデザイン",
+            "岩佐裕子",
+            "音楽",
+            "加藤達也・堤 博明・YUKI KANESAKA",
+            "オープニングテーマ",
+            "BURNOUT SYNDROMES",
+            "「Good Morning World!」",
+            "エンディングテーマ",
+            "Rude-α「LIFE」",
+            "アニメーション制作",
+            "トムス・エンタテインメント"
+        ],
+        "copyrights": [
+            "(C)米スタジオ・Boichi／集英社・Dr.STONE製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703241647,
+    "endAt": 1735657200,
+    "transcodeVersion": "5wE4sp",
+    "sharedLink": {
+        "twitter": "https://abema.app/cfxi",
+        "facebook": "https://abema.app/FPL2",
+        "google": "https://abema.app/nWXF",
+        "line": "https://abema.app/Ebhv",
+        "copy": "https://abema.app/kP2n",
+        "instagram": "https://abema.app/uPxC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-34_s1_p19/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-34_s1_p19/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-34_s1_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-34_s1_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.390588,
+        "opening": {
+            "start": 369.525688,
+            "end": 459.014088
+        },
+        "ending": {
+            "start": 1335.390588,
+            "end": 1424.913455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-34_s1_p20",
+        "title": "#20 動力の時代",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703241647,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726907400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-34_s1_p19/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726907400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727512200
+        }
+    ],
+    "episodeGroupId": "19-34_eg0"
+}

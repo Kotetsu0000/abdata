@@ -1,0 +1,119 @@
+{
+    "id": "26-12wggi-emdez_s1_p13",
+    "series": {
+        "id": "26-12wggi-emdez",
+        "title": "Angel Beats!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "thumb.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "portrait.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12wggi-emdez_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "episode13 Graduation",
+        "content": "ギルドの奥深くに存在したコンピューター室を破壊したゆりは、後日、保健室のベットで目を覚ました。\n彼女の周りにいたのは、音無・かなで・日向・直井。\nそして、ゆりが抱えていた葛藤が無くなったことを知った彼等は、進めていたある事を実行するため、\nゆりを連れて、とある場所へと向かう。\n\n向かった先は、体育館。\n\n彼等は、これからここで、「死んだ世界戦線卒業式」を始めようとしていたのだった。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "音無：神谷浩史",
+            "ゆり：櫻井浩美",
+            "天使：花澤香菜",
+            "ユイ：喜多村英梨",
+            "日向：木村良平"
+        ],
+        "crews": [
+            "原作・脚本：麻枝准",
+            "監督：岸誠二",
+            "キャラクター原案：Na-Ga",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "音響監督：飯田里樹"
+        ],
+        "copyrights": [
+            "(C)VisualArt's/Key/Angel Beats! Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805442,
+    "endAt": 1748703600,
+    "transcodeVersion": "31qbD8",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/JEDXn",
+        "facebook": "https://gxyt4.app.goo.gl/nYF2Q",
+        "google": "https://gxyt4.app.goo.gl/F6Wny",
+        "line": "https://gxyt4.app.goo.gl/LiQr2",
+        "copy": "https://gxyt4.app.goo.gl/K938w",
+        "instagram": "https://abema.app/3h3K"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12wggi-emdez_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1580.62
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12wggi-emdez_s1_p13/timeline",
+        "query": "version=31qbD8",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726592400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727240400
+        }
+    ],
+    "episodeGroupId": "26-12wggi-emdez_eg0"
+}

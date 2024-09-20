@@ -1,0 +1,147 @@
+{
+    "id": "143-45_s2_p14",
+    "series": {
+        "id": "143-45",
+        "title": "逆境無頼カイジ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "thumb.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "portrait.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-45_s2",
+        "sequence": 2,
+        "name": "逆境無頼カイジ 破戒録篇",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1354
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 14,
+        "title": "Bet.14「無頼の軌跡（総集編）」",
+        "content": "地の底の底、帝愛の強制労働施設に放り込まれたカイジ。そこで出会ったのは、極悪班長大槻!!負け犬集団45組6人の運命を背負い、悪魔の賭場「地下チンチロ」にて前代未聞の大勝負にでる。そして、勝利!!カイジは期限付きでシャバでの滞在を許される。カイジは自らを、そして45組を地下生活から救うべく、許された20日間、シャバで大金を得る術を探す。そして出会った1玉4000円のモンスターパチンコ、「沼」!!シャバでの滞在時間が刻一刻と減る中、坂崎、遠藤と共にカイジは沼攻略へ動き出す。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "カイジ：萩原聖人",
+            "一条：浪川大輔",
+            "遠藤：内田直哉",
+            "兵藤：津嘉山正種",
+            "ナレーション：立木文彦ほか"
+        ],
+        "crews": [
+            "原作：福本伸行（講談社「ヤングマガジン」連載）",
+            "シリーズ構成：高屋敷英夫",
+            "キャラクターデザイン：高田晴仁",
+            "美術監督：上野秀行",
+            "音楽：タニウチヒデキ",
+            "音響監督：本田保則",
+            "監督：佐藤雄三",
+            "アニメーション制作：マッドハウス",
+            "製作著作：日本テレビ、バップ"
+        ],
+        "copyrights": [
+            "(C)福本伸行/講談社・VAP・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709085892,
+    "endAt": 1743433200,
+    "transcodeVersion": "3RuVp7",
+    "sharedLink": {
+        "twitter": "https://abema.app/Cri5",
+        "facebook": "https://abema.app/Qny8",
+        "google": "https://abema.app/dNcK",
+        "line": "https://abema.app/imhg",
+        "copy": "https://abema.app/xvYj",
+        "instagram": "https://abema.app/cQK6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/143-45_s2_p14/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/143-45_s2_p14/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/143-45_s2_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-45_s2_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1284.9503333333334,
+        "opening": {
+            "end": 69.93653333333333
+        },
+        "ending": {
+            "start": 1284.9503333333334,
+            "end": 1354.9202333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-45_s2_p15",
+        "title": "Bet.15「虚仮の一心」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1709085892,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726592400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-45_s2_p14/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726592400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727240400
+        }
+    ],
+    "episodeGroupId": "143-45_eg0"
+}

@@ -1,0 +1,152 @@
+{
+    "id": "5-65_s1_p21",
+    "series": {
+        "id": "5-65",
+        "title": "わんだふるぷりきゅあ！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-65",
+            "filename": "thumb.png",
+            "query": "version=1721612689",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-65",
+            "filename": "portrait.png",
+            "query": "version=1721612689",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-65_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 まゆとユキのスクールライフ",
+        "content": "こむぎに続いて、ユキもみんなといっしょに学校に通うことになった。勉強も運動もバッチリこなすユキは、いろはの様子を見て、かつてのまゆの友達のことを打ち明ける。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "キュアワンダフル／犬飼こむぎ：長縄まりあ",
+            "キュアフレンディ／犬飼いろは：種﨑敦美"
+        ],
+        "crews": [
+            "シリーズディレクター：佐藤雅教",
+            "シリーズ構成：成田良美",
+            "キャラクターデザイン：内田陽子",
+            "衣装・プロップデザイン：NaSka",
+            "美術デザイン：いいだりえ",
+            "チーフ美術：今井美紀",
+            "色彩設計：清田直美",
+            "音楽：深澤恵梨香",
+            "プロデューサー：多田 香奈子（ABCアニメーション）、利根 里佳（ADKエモーションズ）、髙橋 麻樹",
+            "制作：ＡＢＣテレビ、ＡＢＣアニメーション、ＡＤＫエモーションズ、東映アニメーション"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035395,
+    "endAt": 1769871600,
+    "freeEndAt": 1726441200,
+    "transcodeVersion": "5eg4qg",
+    "sharedLink": {
+        "twitter": "https://abema.app/1mvv",
+        "facebook": "https://abema.app/UNBv",
+        "google": "https://abema.app/1Mwd",
+        "line": "https://abema.app/ZfhZ",
+        "copy": "https://abema.app/e5Q5",
+        "instagram": "https://abema.app/RbRr"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-65_s1_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-65_s1_p21/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/5-65_s1_p21/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-65_s1_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-65_s1_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.213875,
+        "opening": {
+            "start": 101.05929166666667,
+            "end": 191.10758333333334
+        },
+        "ending": {
+            "start": 1340.213875,
+            "end": 1430.2621666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-65_s1_p22",
+        "title": "第22話 わんだふるご～！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726035395,
+        "endAt": 1769871600,
+        "freeEndAt": 1726441200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726441200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-65_s1_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726441200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1769871600
+        }
+    ],
+    "episodeGroupId": "5-65_eg0"
+}

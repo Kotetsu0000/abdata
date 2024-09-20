@@ -1,0 +1,145 @@
+{
+    "id": "5-64_s1_p1",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 わたしがヒーローガール！？キュアスカイ参上！！",
+        "content": "平和なスカイランドで起こったプリンセス・エルの誘拐事件を追って、不思議なトンネルに飛び込んだソラ。トンネルの先、「ソラシド市」でソラはましろと出会う。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1722330667,
+    "endAt": 1740754800,
+    "freeEndAt": 1740754800,
+    "transcodeVersion": "xPt4r",
+    "sharedLink": {
+        "twitter": "https://abema.app/7RU4",
+        "facebook": "https://abema.app/4T7h",
+        "google": "https://abema.app/5NQN",
+        "line": "https://abema.app/F4UY",
+        "copy": "https://abema.app/dNZ1",
+        "instagram": "https://abema.app/2rVi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/5-64_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0470416666667,
+        "opening": {
+            "start": 136.010875,
+            "end": 226.05916666666667
+        },
+        "ending": {
+            "start": 1340.0470416666667,
+            "end": 1440.1053333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p2",
+        "title": "第2話 ヒーローがおうちにやってきた！？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722330679,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

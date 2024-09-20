@@ -1,0 +1,140 @@
+{
+    "id": "482-3_s1_p25",
+    "series": {
+        "id": "482-3",
+        "title": "クッキングパパ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-3",
+            "filename": "thumb.png",
+            "query": "version=1627289147",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-3",
+            "filename": "portrait.png",
+            "query": "version=1627289147",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "482-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2652
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 25,
+        "title": "第26話 まことの相撲大会とカツ代ばあちゃん大恋愛",
+        "content": "まことがすもう大会の選手に選ばれた！一方、カツ代ばあちゃんが行方不明に！？"
+    },
+    "credit": {
+        "released": 1992,
+        "casts": [
+            "荒岩　一味:玄田　哲章",
+            "荒岩　虹子:勝生　真沙子",
+            "荒岩　誠/荒岩　みゆき:高山　みなみ",
+            "木村　夢子:冬馬　由美",
+            "田中　一:飛田　展男",
+            "みつぐ:頓宮　恭子/丸山　裕子",
+            "えつ子:矢島　晶子",
+            "さなえ:かない　みか",
+            "コックさん:峰　あつ子"
+        ],
+        "crews": [
+            "原作：うえやまとち（講談社 週刊モーニング掲載）",
+            "監督：角田利隆",
+            "キャラクターデザイン：敷島博英",
+            "脚本：雪室俊一",
+            "音楽：佐橋俊彦"
+        ],
+        "copyrights": [
+            "(C)うえやまとち／講談社・エイケン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682940753,
+    "endAt": 1767193200,
+    "transcodeVersion": "6mnpRF",
+    "sharedLink": {
+        "twitter": "https://abema.app/hgnJ",
+        "facebook": "https://abema.app/6TWF",
+        "google": "https://abema.app/oFct",
+        "line": "https://abema.app/7R8d",
+        "copy": "https://abema.app/E7Sz",
+        "instagram": "https://abema.app/oXwo"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p25/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.482-3_s1_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 2542.563222,
+        "opening": {
+            "start": 5.028222,
+            "end": 110.033222
+        },
+        "ending": {
+            "start": 2542.563222,
+            "end": 2622.543222
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "482-3_s1_p26",
+        "title": "第27話 もやしっ子熱血シュート！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1682940753,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/482-3_s1_p25/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "482-3_eg0"
+}

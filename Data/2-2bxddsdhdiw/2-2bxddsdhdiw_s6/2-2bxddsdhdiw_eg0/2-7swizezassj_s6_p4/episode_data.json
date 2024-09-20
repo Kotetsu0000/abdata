@@ -1,0 +1,149 @@
+{
+    "id": "2-7swizezassj_s6_p4",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s6",
+        "sequence": 6,
+        "name": "第6シリーズ",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 悩めるサウスポー",
+        "content": "キーンの挑発の結果、相手打者・チャベスの頭にデッドボールを投げてしまった吾郎。チャベスは無事だったが、試合後、謝りに行った吾郎はチャベスからレギュラーの座へのこだわりを聞かされる。\n次の登板にも失敗しマイナー落ちを宣告された吾郎は、メンフィスへ向かうバスの中で一人のホーネッツファンに出会う。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "キーン：森川智之",
+            "ワッツ：家中 宏",
+            "マードック：山野井 仁",
+            "サンダース：石井康嗣"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277071,
+    "endAt": 1741446000,
+    "transcodeVersion": "2r8AiK",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/8twh7",
+        "facebook": "https://gxyt4.app.goo.gl/Aqh1a",
+        "google": "https://gxyt4.app.goo.gl/2vqXm",
+        "line": "https://gxyt4.app.goo.gl/nAi3d",
+        "copy": "https://gxyt4.app.goo.gl/gojd1",
+        "instagram": "https://gxyt4.app.goo.gl/PDGvi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-7swizezassj_s6_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1465.06,
+        "opening": {
+            "start": 17.337375,
+            "end": 115.637732
+        },
+        "ending": {
+            "start": 1360.43711,
+            "end": 1449.179263
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-7swizezassj_s6_p5",
+        "title": "第5話 治療の成果",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277071,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-7swizezassj_s6_p4/timeline",
+        "query": "version=2r8AiK",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

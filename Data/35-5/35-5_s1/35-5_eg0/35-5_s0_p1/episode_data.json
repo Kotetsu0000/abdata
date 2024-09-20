@@ -1,0 +1,156 @@
+{
+    "id": "35-5_s0_p1",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1507
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 究極のメニュー",
+        "content": "あこがれの東西新聞社に入社した栗田ゆう子の初仕事は社運をかけた大仕事「究極のメニュー」作り。コンビを組んだ相手は社内一のぐうたら先輩社員山岡士郎、いやはや前途多難。"
+    },
+    "credit": {
+        "released": 1988,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424465,
+    "endAt": 1756652400,
+    "freeEndAt": 1756652400,
+    "transcodeVersion": "kJzCk",
+    "sharedLink": {
+        "twitter": "https://abema.app/cd9s",
+        "facebook": "https://abema.app/urwx",
+        "google": "https://abema.app/Xzuc",
+        "line": "https://abema.app/NXdm",
+        "copy": "https://abema.app/engA",
+        "instagram": "https://abema.app/bEw4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-5_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1422.809715,
+        "opening": {
+            "end": 76.064066
+        },
+        "ending": {
+            "start": 1422.809366,
+            "end": 1507.8263
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p2",
+        "title": "第2話 士郎対父・雄山",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424465,
+        "endAt": 1756652400,
+        "freeEndAt": 1726854420,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726854420
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p1/timeline",
+        "query": "version=kJzCk",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

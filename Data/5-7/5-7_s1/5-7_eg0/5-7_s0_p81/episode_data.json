@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p81",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 81,
+        "title": "第81話 ｢南斗白鷺拳シュウ！天はあくまで非情な宿命を課す！！」",
+        "content": "少年だったケンシロウの命と引換えに自らの光を断った南斗白鷺拳のシュウ。その時、シュウは未来の希望に生きる仁の星の宿命に目ざめた。そして死の階段を上りきったシュウの壮絶な死をケンシロウは振り返っていた。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "uDgaY",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/mcLcC",
+        "facebook": "https://gxyt4.app.goo.gl/ZtqeS",
+        "google": "https://gxyt4.app.goo.gl/9vd1B",
+        "line": "https://gxyt4.app.goo.gl/WxrMM",
+        "copy": "https://gxyt4.app.goo.gl/xbdQp",
+        "instagram": "https://gxyt4.app.goo.gl/mT482"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p81/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p81/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p81/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p81"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.061922,
+        "opening": {
+            "start": 31.654822,
+            "end": 124.480988
+        },
+        "ending": {
+            "start": 1340.061922,
+            "end": 1429.784988
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p82",
+        "title": "第82話 ｢聖帝サウザー！お前は愛深きゆえに愛におぼれる！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p81/timeline",
+        "query": "version=uDgaY",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

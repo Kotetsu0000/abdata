@@ -1,0 +1,125 @@
+{
+    "id": "5-52_s1_p48",
+    "series": {
+        "id": "5-52",
+        "title": "スイートプリキュア♪",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-52",
+            "filename": "thumb.png",
+            "query": "version=1721021920",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-52",
+            "filename": "portrait.png",
+            "query": "version=1721021920",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-52_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1432
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 48,
+        "title": "第48話　ラララ〜♪ 世界に響け、幸福のメロディニャ！",
+        "content": "ノイズの悲しみが浄化されて、ついに戦いが終わったの。でも、幸福のメロディを歌わないと、メイジャーランドも人間界も全てが石になったまま。お願いハミィ、目を覚まして…。私たちの歌声、ハミィに届きますように…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "北条 響(キュアメロディ)：小清水亜美",
+            "南野 奏(キュアリズム)：折笠富美子",
+            "黒川エレン(キュアビート)：豊口めぐみ",
+            "調辺アコ(キュアミューズ)：大久保瑠美"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、関 弘美",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔",
+            "シリーズディレクター：境 宗久",
+            "シリーズ構成：大野敏哉",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：高橋 晃"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721212787,
+    "endAt": 1740754800,
+    "transcodeVersion": "5brr7i",
+    "sharedLink": {
+        "twitter": "https://abema.app/7PK7",
+        "facebook": "https://abema.app/zwNG",
+        "google": "https://abema.app/vCJU",
+        "line": "https://abema.app/AyuQ",
+        "copy": "https://abema.app/g3PL",
+        "instagram": "https://abema.app/6rtA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-52_s1_p48/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-52_s1_p48/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-52_s1_p48/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-52_s1_p48"
+    },
+    "viewingPoint": {
+        "suggestion": 1344.8768666666667,
+        "opening": {
+            "start": 13.380033333333333,
+            "end": 97.93116666666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-52_s1_p48/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-52_eg0"
+}

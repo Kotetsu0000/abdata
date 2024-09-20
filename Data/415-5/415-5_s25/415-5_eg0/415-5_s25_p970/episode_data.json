@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s25_p970",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s25",
+        "sequence": 25,
+        "name": "season25",
+        "thumbComponent": {},
+        "order": 25
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 970,
+        "title": "第970話 加賀令嬢ミステリーツアー（後編）",
+        "content": "コナン、蘭、小五郎は旅行先の金沢で誘拐事件に巻き込まれる。しかし、それは被害者、友禅作家・犀川学の自作自演だった。犯人は特定され、逮捕されるのも時間の問題という状況だったが、そこで呉服屋社長の林壮一が襲われるという新たな事件が発生する。動機や目撃証言から、学が有力な容疑者となるが…!?"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066320,
+    "endAt": 1740754800,
+    "transcodeVersion": "4CDCFS",
+    "sharedLink": {
+        "twitter": "https://abema.app/r7Dh",
+        "facebook": "https://abema.app/Ac6s",
+        "google": "https://abema.app/Xi8T",
+        "line": "https://abema.app/1mQ1",
+        "copy": "https://abema.app/7Kdq",
+        "instagram": "https://abema.app/imtQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p970/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p970/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p970/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s25_p970"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.048625,
+        "opening": {
+            "start": 75.86745833333333,
+            "end": 173.00616666666667
+        },
+        "ending": {
+            "start": 1292.54125,
+            "end": 1372.496125
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s25_p971",
+        "title": "第971話 標的は警視庁交通部（一）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066320,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s25_p970/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

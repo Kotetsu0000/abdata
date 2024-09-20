@@ -1,0 +1,160 @@
+{
+    "id": "143-46_s1_p1",
+    "series": {
+        "id": "143-46",
+        "title": "NANA－ナナ－",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-46",
+            "filename": "thumb.png",
+            "query": "version=1709191084",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-46",
+            "filename": "portrait.png",
+            "query": "version=1709191084",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1336
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "#1",
+        "content": "地元の女子高を卒業して２年。ごく普通の家庭に育った20歳の小松奈々が、今、新幹線で向かおうとしている先は東京だった。奈々がなぜ東京を目指しているのかというと、それは高校を卒業した後、1年間通った美術系の専門学校で知り合った大好きなカレ・遠藤章司に会うこと。１年前、美大を目指して上京した章司は、一浪してこの春、晴れて合格した。再会を目指してせっせとバイトをしてお金を貯めてきた奈々は、ようやく章司がいる街で暮らせると思ったのだ…"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "大崎ナナ：朴璐美",
+            "小松奈々：KAORI",
+            "レン：木内秀信",
+            "ヤス：川原慶久",
+            "タクミ：森川智之",
+            "ノブ：関智一",
+            "シン：石田彰",
+            "レイラ：平野綾",
+            "京助：諏訪部順一",
+            "淳子：本田貴子",
+            "章司：高橋広樹",
+            "幸子：小島めぐみ",
+            "美里：かないみか",
+            "ナオキ：勝杏里",
+            "銀平：立木文彦"
+        ],
+        "crews": [
+            "原作：矢沢あい（集英社「Cookie」連載）",
+            "シリーズ構成：金春智子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "色彩設計：角本百合子",
+            "音響監督：三間雅文",
+            "撮影監督：増元由紀大",
+            "音楽：長谷川智樹",
+            "監督：浅香守生",
+            "アニメーション制作：マッドハウス",
+            "製作著作：日本テレビ・バップ・集英社・マッドハウス"
+        ],
+        "copyrights": [
+            "(C)矢沢漫画制作所／集英社・VAP・マッドハウス・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1708834881,
+    "endAt": 1743433200,
+    "freeEndAt": 1743433200,
+    "transcodeVersion": "4KTH9L",
+    "sharedLink": {
+        "twitter": "https://abema.app/eZcK",
+        "facebook": "https://abema.app/DyNC",
+        "google": "https://abema.app/bLdW",
+        "line": "https://abema.app/qva8",
+        "copy": "https://abema.app/yoh6",
+        "instagram": "https://abema.app/ee2Q"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-46_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-46_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/143-46_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-46_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-46_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1265.5643,
+        "opening": {
+            "start": 21.021,
+            "end": 115.5154
+        },
+        "ending": {
+            "start": 1265.5643,
+            "end": 1336.3016333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-46_s1_p2",
+        "title": "#2",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708834901,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726518600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-46_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-46_eg0"
+}

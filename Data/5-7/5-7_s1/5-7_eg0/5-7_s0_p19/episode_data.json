@@ -1,0 +1,137 @@
+{
+    "id": "5-7_s0_p19",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 19,
+        "title": "第19話 ｢悪党ども！死への片道切符を用意しろ！！」",
+        "content": "ジェニファーの村をガレッキー＆ゴールドウルフが襲う。一方、ユリアを脱出させようとした罪で処刑されそうになっていたテムジナが釈放。ケンシロウにサザンクロスの場所を伝えるべく旅立った。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756424,
+    "endAt": 1732978800,
+    "transcodeVersion": "5uLD9h",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/M5Wq1",
+        "facebook": "https://gxyt4.app.goo.gl/tVCjS",
+        "google": "https://gxyt4.app.goo.gl/CzdzV",
+        "line": "https://gxyt4.app.goo.gl/Rtyry",
+        "copy": "https://gxyt4.app.goo.gl/eynBC",
+        "instagram": "https://gxyt4.app.goo.gl/gJznW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.562422,
+        "opening": {
+            "end": 121.544722
+        },
+        "ending": {
+            "start": 1340.562422,
+            "end": 1430.352222
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p20",
+        "title": "第20話 ｢悪夢の総力戦！俺の拳は１００万ボルト！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756424,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p19/timeline",
+        "query": "version=5uLD9h",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

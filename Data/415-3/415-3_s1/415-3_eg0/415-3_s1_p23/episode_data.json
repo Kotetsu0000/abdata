@@ -1,0 +1,148 @@
+{
+    "id": "415-3_s1_p23",
+    "series": {
+        "id": "415-3",
+        "title": "MIX MEISEI STORY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "thumb.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "portrait.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-3_s1",
+        "sequence": 1,
+        "name": "MIX MEISEI STORY",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 時間の問題だな",
+        "content": "接戦となった明青と東秀の準決勝。迎えた六回裏、この日初めての投馬の失投をバッター・三田に打たれ、二塁打にされてしまう。大ピンチの立花兄弟バッテリー。次の打者に向けて投馬がボールを投げようとしたその瞬間、二塁ランナーの三田がまさかのスタートをきった。誰もが予想しなかった盗塁の結果は!?"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "立花投馬:梶裕貴",
+            "立花走一郎:内田雄馬",
+            "立花音美:内田真礼",
+            "大山春夏:花澤香菜",
+            "立花英介:高木渉",
+            "立花真弓:井上喜久子",
+            "西村勇:中尾隆聖"
+        ],
+        "crews": [
+            "原作:あだち充",
+            "監督:渡部穏寛",
+            "シリーズ構成・脚本:冨岡淳広",
+            "脚本:樋口達人:山田健一:福嶋幸典:北条千夏",
+            "キャラクターデザイン:牧孝雄",
+            "音響監督:亀山俊樹",
+            "音楽:住友紀人"
+        ],
+        "copyrights": [
+            "(C) あだち充・小学館／読売テレビ・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719302116,
+    "endAt": 1740754800,
+    "transcodeVersion": "2oLCY1",
+    "sharedLink": {
+        "twitter": "https://abema.app/YfdR",
+        "facebook": "https://abema.app/sma7",
+        "google": "https://abema.app/vfhN",
+        "line": "https://abema.app/hA9B",
+        "copy": "https://abema.app/k3Es",
+        "instagram": "https://abema.app/vuE5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-3_s1_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-3_s1_p23/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-3_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-3_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.915144,
+        "opening": {
+            "start": 19.042222,
+            "end": 143.0401
+        },
+        "ending": {
+            "start": 1309.915144,
+            "end": 1399.962433
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-3_s1_p24",
+        "title": "第24話 似てると思わないか？",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1719302116,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-3_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-3_eg0"
+}

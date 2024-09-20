@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p549",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1454
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 549,
+        "title": "第549話 回転寿司ミステリー（前編）",
+        "content": "阿笠博士と回転寿司にやってきたコナン、少年探偵団、哀。元太らが落とした皿を拾っていると、客の我妻留造が言い掛かりをつける。騒ぎに気付いた店長の並木段児がやんわり注意すると、我妻は店を潰すと脅す。コナンらは店を出ようとしたその時、我妻が突然苦しみだして絶命。コナンは青酸系の毒で殺害されたと推理する。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "5ohWZQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/BQVo",
+        "facebook": "https://abema.app/VDDe",
+        "google": "https://abema.app/MYgU",
+        "line": "https://abema.app/C6rA",
+        "copy": "https://abema.app/trZq",
+        "instagram": "https://abema.app/mUn4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s14_p549/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s14_p549/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s14_p549/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p549"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.7283,
+        "opening": {
+            "start": 59.2592,
+            "end": 148.7486
+        },
+        "ending": {
+            "start": 1349.7817666666667,
+            "end": 1429.6949333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p550",
+        "title": "第550話 回転寿司ミステリー（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p549/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

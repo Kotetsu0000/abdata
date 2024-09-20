@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s26_p1031",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s26",
+        "sequence": 26,
+        "name": "season26",
+        "thumbComponent": {},
+        "order": 26
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1031,
+        "title": "第1031話 空白の一年(後編)",
+        "content": "コナンは、小五郎とともに記憶喪失の江坂律雄という男性が過ごした甲練町で、失われた一年間を見つけるため調査を行う。甲練町で一緒に過ごした人たちと再会し、苦手な犬に吠えられたことで記憶を取り戻しそうになる江坂。二日後、期待をもって江坂宅に向かったコナンと小五郎は、江坂が遺体となって発見されたことを知る。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：佐々木加奈・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066321,
+    "endAt": 1740754800,
+    "transcodeVersion": "2Xmo21",
+    "sharedLink": {
+        "twitter": "https://abema.app/8FMQ",
+        "facebook": "https://abema.app/ygJt",
+        "google": "https://abema.app/PWnm",
+        "line": "https://abema.app/ACsz",
+        "copy": "https://abema.app/EsSm",
+        "instagram": "https://abema.app/MwMC"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1031/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1031/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1031/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s26_p1031"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.048625,
+        "opening": {
+            "start": 65.440375,
+            "end": 155.98916666666668
+        },
+        "ending": {
+            "start": 1313.9793333333334,
+            "end": 1393.9342083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s26_p1032",
+        "title": "第1032話 モデル、毛利蘭",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066321,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s26_p1031/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

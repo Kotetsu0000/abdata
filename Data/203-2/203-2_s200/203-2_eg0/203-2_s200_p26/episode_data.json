@@ -1,0 +1,119 @@
+{
+    "id": "203-2_s200_p26",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s200",
+        "sequence": 200,
+        "name": "TVスペシャル",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2774
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 26,
+        "title": "SP26 目指せ！亀有スーパースター！！　～両津式アイドルへの道！～",
+        "content": "近所の幼稚園で、交通安全教室を開催することになった両津たち。しかし、自らの体をはって交通安全を訴える両津そっちのけでダントツの歓声を集めたのは、麗子・小町・奈緒子で結成された即興ユニットによる歌と踊りであった。園児たちだけでなく、大人まで熱狂する様子をまざまざと見せつけられる両津。\n「ふむう。これは金のにおいがするぞ…」その人気に目をつけた両津は、かつしか署のイメージUPのためと署長や大原を言いくるめご当地アイドル「Kガールズ」として3人をデビューさせる。両津の豪腕も手伝って、瞬く間に人気者になる「Kガールズ」。もちろんマネージメントを一手に取り仕切る両津はホクホク顔だ。調子にのった両津は総仕げとばかりに、大コンサートを開催しようとするが…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382155,
+    "endAt": 1743433200,
+    "transcodeVersion": "4mLsMh",
+    "sharedLink": {
+        "twitter": "https://abema.app/5fov",
+        "facebook": "https://abema.app/B8eL",
+        "google": "https://abema.app/DUtr",
+        "line": "https://abema.app/VoXK",
+        "copy": "https://abema.app/bMt2",
+        "instagram": "https://abema.app/X1Bn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p26/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p26/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s200_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 2769.905467
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s200_p26/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

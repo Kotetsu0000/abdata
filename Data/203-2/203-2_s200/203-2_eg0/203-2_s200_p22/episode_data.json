@@ -1,0 +1,137 @@
+{
+    "id": "203-2_s200_p22",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s200",
+        "sequence": 200,
+        "name": "TVスペシャル",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 22,
+        "title": "SP22 両津の浅草リニューアル大作戦！！～あぁ　思い出の花やしき～",
+        "content": "父、龍一郎より、浅草花やしき地区の再開発プロジェクトの責任者に任命される中川。しかし、その話を聞きつけ憤慨した両津は、中川を花やしきに強引に連れ出し、愛すべき下町のすばらしさを力説する。両津の説得に心打たれ責任者の座を辞退することを父親に直訴する中川。しかし、なぜか中川の代わりに両津がプロジェクトの責任者に選ばれてしまい・・・"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382155,
+    "endAt": 1743433200,
+    "transcodeVersion": "oWB8E",
+    "sharedLink": {
+        "twitter": "https://abema.app/6HZi",
+        "facebook": "https://abema.app/vzXx",
+        "google": "https://abema.app/zCsR",
+        "line": "https://abema.app/PJy2",
+        "copy": "https://abema.app/NfLE",
+        "instagram": "https://abema.app/J179"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p22/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p22/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-2_s200_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s200_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 2439.158822,
+        "ending": {
+            "start": 2439.158822,
+            "end": 2460.129975
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s200_p23",
+        "title": "SP23 シートン探検隊！隅田川の誓い～思い出の白い鯨を探せ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382155,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s200_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

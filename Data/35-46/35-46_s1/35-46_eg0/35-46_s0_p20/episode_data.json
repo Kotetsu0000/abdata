@@ -1,0 +1,139 @@
+{
+    "id": "35-46_s0_p20",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5590
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "映画ドラえもん のび太の宇宙漂流記",
+        "content": "謎のＵＦＯを追って、宇宙へ飛び出したドラえもんたち。宇宙少年騎士団のリアンたちと、銀河漂流船団めざして、大宇宙を旅することになるが・・・。そこへ、謎の怪人に操られた独立軍が出現した！"
+    },
+    "credit": {
+        "released": 1999,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "原作：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522814,
+    "endAt": 1741014000,
+    "transcodeVersion": "6XWJvL",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Nd87A",
+        "facebook": "https://gxyt4.app.goo.gl/bDqam",
+        "google": "https://gxyt4.app.goo.gl/JLPxe",
+        "line": "https://gxyt4.app.goo.gl/jECwf",
+        "copy": "https://gxyt4.app.goo.gl/Bvub6",
+        "instagram": "https://gxyt4.app.goo.gl/CfCVN"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p20/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p20/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 5366.564615,
+        "opening": {
+            "start": 332.956455,
+            "end": 407.362922
+        },
+        "ending": {
+            "start": 5364.616101,
+            "end": 5589.940888
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p21",
+        "title": "映画ドラえもん のび太の太陽王伝説",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1709522814,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

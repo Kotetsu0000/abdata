@@ -1,0 +1,147 @@
+{
+    "id": "19-15_s6_p133",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 133,
+        "title": "第133話 刺客",
+        "content": "デクは、オールマイトたちとチームアップしながらも、自身は単独行動で死柄木やオール・フォー・ワン(AFO)の情報を掴もうと“ダツゴク”たちを追っていた。しかし、情報は一切つかめず、デクの焦りは募っていく。すると、デクを鋭い弾丸が襲う！その狙撃手は、元プロヒーローでありながら、ある事件によりタルタロスに収監されていたレディ・ナガン。AFOが手引きする“ダツゴク”のひとりとして、デクを生け捕りにすべく“個性”の「ライフル」の弾丸を次々に放っていく。デクはこの強敵に勝つことはできるのか―!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872427,
+    "endAt": 1759244400,
+    "transcodeVersion": "2Wcjv6",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ss7h",
+        "facebook": "https://abema.app/6Ugn",
+        "google": "https://abema.app/MkLq",
+        "line": "https://abema.app/dFJs",
+        "copy": "https://abema.app/EHvi",
+        "instagram": "https://abema.app/GZVq"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s6_p133/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s6_p133/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s6_p133/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p133"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.05875,
+        "opening": {
+            "start": 60.06,
+            "end": 149.98316666666668
+        },
+        "ending": {
+            "start": 1310.05875,
+            "end": 1399.9819166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s6_p134",
+        "title": "第134話 麗しきレディ・ナガン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872427,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p133/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

@@ -1,0 +1,147 @@
+{
+    "id": "5-28_s1_p26",
+    "series": {
+        "id": "5-28",
+        "title": "ドラゴンボール",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+            "filename": "thumb.png",
+            "query": "version=1681281962",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+            "filename": "portrait.png",
+            "query": "version=1681281962",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-28_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1496
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 26,
+        "title": "第26話　決勝戦だ!! カメハメ波",
+        "content": "天下一武道会の決勝戦は、悟空対ジャッキーチュン。チュンはかめはめ波や残像拳といった必殺技を繰り出すが、悟空はいともたやすく真似してみせる。だが、ひとつだけ真似できない技があった。生まれてから一度も酔っ払ったことがないため、酔拳だけは使えなかったのだ！"
+    },
+    "credit": {
+        "released": 1986,
+        "casts": [
+            "孫悟空：野沢雅子",
+            "ブルマ：鶴ひろみ",
+            "ヤムチャ：古谷徹",
+            "ウーロン：龍田直樹",
+            "プーアル：渡辺菜生子",
+            "ピラフ：千葉繁",
+            "シュウ：玄田哲章",
+            "マイ：山田栄子",
+            "亀仙人：宮内幸平",
+            "天津飯：鈴置洋孝",
+            "クリリン：田中真弓",
+            "ピッコロ大魔王：青野武",
+            "牛魔王：郷里大輔",
+            "ナレーター：八奈見乗児"
+        ],
+        "crews": [
+            "原作：鳥山明",
+            "企画：土屋登喜蔵、清水賢治、七條敬三",
+            "製作担当：岸本松司",
+            "チーフディレクター：岡崎稔、西尾大介",
+            "チーフアニメーター：前田実",
+            "チーフデザイナー：辻忠直、池田祐二",
+            "音楽：菊池俊輔"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ／集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683628304,
+    "endAt": 1756652400,
+    "transcodeVersion": "qRVL1",
+    "sharedLink": {
+        "twitter": "https://abema.app/zpB8",
+        "facebook": "https://abema.app/XNXZ",
+        "google": "https://abema.app/92GV",
+        "line": "https://abema.app/26mv",
+        "copy": "https://abema.app/3H5z",
+        "instagram": "https://abema.app/U4Rf"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-28_s1_p26/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-28_s1_p26/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-28_s1_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-28_s1_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 1368.4087083333334,
+        "opening": {
+            "start": 15.015,
+            "end": 124.08229166666666
+        },
+        "ending": {
+            "start": 1368.4087083333334,
+            "end": 1465.464
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-28_s1_p27",
+        "title": "第27話　悟空・最大のピンチ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683628304,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-28_s1_p26/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "5-28_eg0"
+}

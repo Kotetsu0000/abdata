@@ -1,0 +1,143 @@
+{
+    "id": "189-64_s1_p13",
+    "series": {
+        "id": "189-64",
+        "title": "お嬢と番犬くん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-64",
+            "filename": "thumb.png",
+            "query": "version=1718005310",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-64",
+            "filename": "portrait.png",
+            "query": "version=1718005310",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第十三話 傷と恋人",
+        "content": "一咲は、未だに啓弥を避け続けたままでいた。気まずいまま、付き合って幸せいっぱいだった日々が自分の手から零れ落ちていくのを感じて、切なくなる一咲。このまま、好きだと言ったこともうやむやになってしまうのだろうか……。不安でいっぱいな一咲に、啓弥は一咲への思いを込めて彫った背中の入れ墨を見せてくれる。これでも自分の覚悟が足りないと思うのなら、これで自分を斬ってくれ、と日本刀を手渡してきて！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "瀬名垣一咲(せながきいさく)：鬼頭明里",
+            "宇藤啓弥(うとうけいや)：梅原裕一郎",
+            "田貫幹男(たぬき みきお)：榎木淳弥",
+            "関谷香織(せきや かおり)：中原麻衣",
+            "勝木(かつき)：青山吉能",
+            "安藤(あんどう)：上田瞳"
+        ],
+        "crews": [
+            "原作：はつはる『お嬢と番犬くん』(講談社『別冊フレンド』連載)",
+            "監督：高本宣弘",
+            "シリーズ構成・脚本：皐月彩",
+            "脚本：平見瞠、冨田頼子",
+            "キャラクターデザイン：番由紀子",
+            "音楽：伊藤翼",
+            "色彩設計：木幡美雪",
+            "美術監督： 葛琳（スタジオちゅーりっぷ）",
+            "撮影監督： 浅川茂輝（レアトリック）",
+            "編集： 瀧川三智（REAL-T）",
+            "音響監督：郷文裕貴",
+            "音響効果：安藤由衣",
+            "音響制作：ビットグルーヴプロモーション",
+            "音楽制作：ポニーキャニオン",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)はつはる・講談社／「お嬢と番犬くん」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1718006130,
+    "endAt": 1756652400,
+    "transcodeVersion": "2mAeUQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/MQ8t",
+        "facebook": "https://abema.app/X55a",
+        "google": "https://abema.app/ZVrh",
+        "line": "https://abema.app/g369",
+        "copy": "https://abema.app/eccj",
+        "instagram": "https://abema.app/HBv7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/189-64_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/189-64_s1_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/189-64_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-64_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.9963333333333,
+        "opening": {
+            "end": 90.965875
+        },
+        "ending": {
+            "start": 1330.9963333333333,
+            "end": 1421.9622083333334
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-64_s1_p13/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727209800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727852220
+        }
+    ],
+    "episodeGroupId": "189-64_eg0"
+}

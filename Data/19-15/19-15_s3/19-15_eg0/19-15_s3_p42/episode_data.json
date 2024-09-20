@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s3_p42",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 42,
+        "title": "第42話 僕のヒーロー",
+        "content": "雄英の林間合宿地に現れた敵連合・開闢行動隊。そのひとり“血狂い”マスキュラーの魔の手が洸汰に迫る。マスキュラーは、洸汰の両親を殺害した犯人だった。そんな危機一髪の状況に現れたのは、出久！洸汰を守るため、個性「ワン・フォー・オール」で立ち向かう。しかし強力な「筋肉増強」の個性を持つマスキュラーに追い詰められていく。自損覚悟の100％SMASHですらたいしてダメージを与えられない。本気で襲い掛かるマスキュラーに対し、出久は洸汰を守るために、己の限界を超えていく！！"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872423,
+    "endAt": 1759244400,
+    "transcodeVersion": "5UmCYi",
+    "sharedLink": {
+        "twitter": "https://abema.app/Hwiy",
+        "facebook": "https://abema.app/WWci",
+        "google": "https://abema.app/FG67",
+        "line": "https://abema.app/cuH1",
+        "copy": "https://abema.app/fD1D",
+        "instagram": "https://abema.app/Fx5X"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s3_p42/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s3_p42/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s3_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s3_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0087,
+        "opening": {
+            "start": 43.076366666666665,
+            "end": 132.99953333333335
+        },
+        "ending": {
+            "start": 1310.0087,
+            "end": 1399.9986
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s3_p43",
+        "title": "第43話 ブチ込む鉄拳!!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872423,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s3_p42/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

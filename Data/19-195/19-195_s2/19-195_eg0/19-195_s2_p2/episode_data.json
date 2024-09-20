@@ -1,0 +1,146 @@
+{
+    "id": "19-195_s2_p2",
+    "series": {
+        "id": "19-195",
+        "title": "CLANNAD",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "thumb.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "portrait.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-195_s2",
+        "sequence": 2,
+        "name": "CLANNAD AFTER STORY",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 いつわりの愛をさがして",
+        "content": "いまだ進路が決まっていない春原。\nそんな兄を心配した芽衣は、しばらく古河家に居候し、春原の様子をみることに。\n芽衣を安心させるため、朋也は春原に偽の恋人をつくることを提案し、恋人のふりをしてくれる女の子を捜し始める。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "中村悠一",
+            "中原麻衣",
+            "置鮎龍太郎",
+            "井上喜久子",
+            "緑川光",
+            "広橋　涼",
+            "神田朱未",
+            "桑島法子",
+            "能登麻美子",
+            "阪口大助",
+            "雪野五月",
+            "榎本温子"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：Key/ビジュアルアーツ",
+            "脚本：志茂文彦",
+            "音楽：戸越まごめ、麻枝准"
+        ],
+        "copyrights": [
+            "（C）VisualArt's/Key/光坂高校演劇部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712635812,
+    "endAt": 1746025200,
+    "transcodeVersion": "65cWFY",
+    "sharedLink": {
+        "twitter": "https://abema.app/6Jas",
+        "facebook": "https://abema.app/YRpN",
+        "google": "https://abema.app/e5oJ",
+        "line": "https://abema.app/RXEU",
+        "copy": "https://abema.app/nkbi",
+        "instagram": "https://abema.app/WWAZ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-195_s2_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-195_s2_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-195_s2_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-195_s2_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0387,
+        "opening": {
+            "start": 131.0309,
+            "end": 220.85396666666668
+        },
+        "ending": {
+            "start": 1340.0387,
+            "end": 1429.9952333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-195_s2_p3",
+        "title": "第3話 すれちがう心",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712635823,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-195_s2_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-195_eg0"
+}

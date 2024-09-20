@@ -1,0 +1,150 @@
+{
+    "id": "19-199_s1_p10",
+    "series": {
+        "id": "19-199",
+        "title": "下の階には澪がいる",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "thumb.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "portrait.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-199_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 陥落/如月澪",
+        "content": "紗羅と朝帰りする姿を澪に見られた陽は弁解しようと取り乱す。しかし意外と澪は落ち着いた様子で、後で連絡すると言い残して部屋に戻っていった。澪は起きてきた陽を連れ出して2人でデートのような時間を楽しむのだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "如月澪：坂本真綾",
+            "杉浦陽：河本啓佑",
+            "桃井真珠：大久保瑠美",
+            "三国紗羅：沼倉愛美"
+        ],
+        "crews": [
+            "原作：ミンソンア",
+            "監督：董易（ドン･イー）",
+            "脚本：江狐工作室",
+            "総演出監督：キム・シニョン",
+            "総作画監督：パク・ヨノク",
+            "音楽：楊秉音（ヤン・ビンイン）",
+            "アニメーション制作：RED DOG CULTURE HOUSE",
+            "日本語吹き替え版",
+            "演出：太田信乃",
+            "翻訳：鳥居怜子、本多由枝",
+            "音響制作：東北新社",
+            "日本版製作：フジテレビジョン、bilibili"
+        ],
+        "copyrights": [
+            "(C)bilibili"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129302,
+    "endAt": 1759244400,
+    "transcodeVersion": "4znALC",
+    "sharedLink": {
+        "twitter": "https://abema.app/YeVw",
+        "facebook": "https://abema.app/ak9n",
+        "google": "https://abema.app/qSc8",
+        "line": "https://abema.app/MXgA",
+        "copy": "https://abema.app/Uacz",
+        "instagram": "https://abema.app/H3Su"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-199_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-199_s1_p10/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-199_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-199_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1314.7300833333334,
+        "opening": {
+            "start": 68.98558333333334,
+            "end": 158.99216666666666
+        },
+        "ending": {
+            "start": 1314.7300833333334,
+            "end": 1404.8617916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-199_s1_p11",
+        "title": "第11話 青春の結末/真珠",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726129302,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-199_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-199_eg0"
+}

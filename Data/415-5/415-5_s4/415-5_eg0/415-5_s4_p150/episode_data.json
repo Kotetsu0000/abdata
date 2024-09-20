@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s4_p150",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s4",
+        "sequence": 4,
+        "name": "season4",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 150,
+        "title": "第150話 自動車爆発事件の真相（前編）",
+        "content": "小五郎はコナンと蘭を連れて、学生時代に家庭教師をしていた教え子の崎原恵に会いに行った。再会できた喜びも束の間、小五郎たちの目の前で車が爆発、恵の妹・寛美が死亡する。車は恵のもので、ガレージから出すのを手伝った寛美が犠牲になった。小五郎は恵のためにも、必ず真犯人を捕まえると決意するが…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066299,
+    "endAt": 1740754800,
+    "transcodeVersion": "3t3Tcj",
+    "sharedLink": {
+        "twitter": "https://abema.app/r3aR",
+        "facebook": "https://abema.app/SRHe",
+        "google": "https://abema.app/jxgB",
+        "line": "https://abema.app/1RNr",
+        "copy": "https://abema.app/R8s2",
+        "instagram": "https://abema.app/CTXZ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p150/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p150/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p150/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s4_p150"
+    },
+    "viewingPoint": {
+        "suggestion": 1337.2359,
+        "opening": {
+            "start": 15.015,
+            "end": 94.66123333333333
+        },
+        "ending": {
+            "start": 1337.2359,
+            "end": 1425.1904333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s4_p151",
+        "title": "第151話 自動車爆発事件の真相（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066299,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s4_p150/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

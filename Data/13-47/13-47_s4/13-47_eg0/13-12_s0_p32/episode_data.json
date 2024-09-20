@@ -1,0 +1,145 @@
+{
+    "id": "13-12_s0_p32",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 32,
+        "title": "第182話 人気投票なんて糞食らえ",
+        "content": "銀魂放送182回を記念して、キャラクター人気投票大発表！ 前回と全く変わらず8位だった新八は、喫茶店で一人落ち込んでいた。そこに9位の山崎も現れる。彼は語る。「地味キャラは踏み台No.1になればいい。8位、9位は自分たちにとって、1位と同様ではないだろうか」と。しかし実際は、山崎も諦めきれずにいた。涙を流して走り去る山崎。それを見送るしかない新八。しかしその直後、山崎の悲鳴が響き渡った！"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296391,
+    "endAt": 1748703600,
+    "transcodeVersion": "3Ghyff",
+    "sharedLink": {
+        "twitter": "https://abema.app/5NFR",
+        "facebook": "https://abema.app/3EaJ",
+        "google": "https://abema.app/wGkS",
+        "line": "https://abema.app/DMbp",
+        "copy": "https://abema.app/3kKb",
+        "instagram": "https://abema.app/ELw6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p32/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p32/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p32/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p32"
+    },
+    "viewingPoint": {
+        "suggestion": 1375.061666,
+        "opening": {
+            "start": 245.533661,
+            "end": 334.633664
+        },
+        "ending": {
+            "start": 1375.120676,
+            "end": 1461.420686
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p33",
+        "title": "第183話 人気投票なんて燃えて灰になれ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296391,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p32/timeline",
+        "query": "version=3Ghyff",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

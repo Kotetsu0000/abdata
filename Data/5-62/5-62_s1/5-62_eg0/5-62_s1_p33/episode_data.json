@@ -1,0 +1,145 @@
+{
+    "id": "5-62_s1_p33",
+    "series": {
+        "id": "5-62",
+        "title": "トロピカル～ジュ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-62",
+            "filename": "thumb.png",
+            "query": "version=1721612377",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-62",
+            "filename": "portrait.png",
+            "query": "version=1721612377",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-62_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 33,
+        "title": "第33話　Viva！ 10本立てDEトロピカれ！",
+        "content": "今回の『トロプリ』は特別編！ いつもとは違うまなつたちの姿を10本立でお届け！！面白おかしいエピソードの数々と、衝撃のラストをお見逃しなく！"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "夏海まなつ／キュアサマー：ファイルーズ あい",
+            "涼村さんご／キュアコーラル：花守 ゆみり",
+            "一之瀬みのり／キュアパパイア：石川 由依",
+            "滝沢あすか／キュアフラミンゴ：瀬戸 麻沙美",
+            "ローラ／キュアラメール ：日高 里菜",
+            "くるるん：田中 あいみ"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "シリーズディレクター：土田豊",
+            "シリーズ構成：横谷昌宏",
+            "キャラクターデザイン：中谷友紀子",
+            "美術デザイン：今井美紀",
+            "色彩設計：柳澤久美子",
+            "音楽：寺田志保",
+            "製作担当：井桁 啓介",
+            "プロデューサー：佐藤 有（ABCテレビ）、田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、村瀬 亜季"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722140389,
+    "endAt": 1740754800,
+    "transcodeVersion": "4edNAp",
+    "sharedLink": {
+        "twitter": "https://abema.app/ke9A",
+        "facebook": "https://abema.app/qK5e",
+        "google": "https://abema.app/jD9U",
+        "line": "https://abema.app/49CF",
+        "copy": "https://abema.app/yBq2",
+        "instagram": "https://abema.app/PWgn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-62_s1_p33/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-62_s1_p33/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-62_s1_p33/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-62_s1_p33"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1721666666667,
+        "opening": {
+            "start": 107.06529166666667,
+            "end": 197.11358333333334
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1440.2304583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-62_s1_p34",
+        "title": "第34話　夢は無限大！　大人になったら何になる？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722140389,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-62_s1_p33/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-62_eg0"
+}

@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p12",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1426
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 プリズン・ジジイ・ブレイク",
+        "content": "下校中、太陽のスクールバッグの中から突如謎の人物が這い出てくる！その不審人物の正体は、六美の祖父・夜桜万だった。孫夫婦の結婚を祝うために刑務所から脱獄してきたという万は、凶一郎の包囲を難なく掻い潜り、太陽を強引に連れ出してナイトクラブへ。「歩く情報漏洩」こと万を捕まえるべく、凶一郎の指示のもと太陽は様々な手段で捕獲を試みる。だが、万のペースに翻弄されてすべて失敗に終わってしまうのだった…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "transcodeVersion": "6MW8zy",
+    "sharedLink": {
+        "twitter": "https://abema.app/TsUD",
+        "facebook": "https://abema.app/o1qY",
+        "google": "https://abema.app/jkPh",
+        "line": "https://abema.app/dDzn",
+        "copy": "https://abema.app/3jwp",
+        "instagram": "https://abema.app/Rb7N"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.9973333333332,
+        "opening": {
+            "start": 58.97558333333333,
+            "end": 148.98216666666667
+        },
+        "ending": {
+            "start": 1331.9973333333332,
+            "end": 1421.9205
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p13",
+        "title": "第13話 タンポポ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

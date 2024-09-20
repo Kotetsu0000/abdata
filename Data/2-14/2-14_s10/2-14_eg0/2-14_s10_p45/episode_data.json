@@ -1,0 +1,148 @@
+{
+    "id": "2-14_s10_p45",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 45,
+        "title": "第45話 はるか、遠くまで",
+        "content": "エクスプローラーズの作戦により、姿を現した黒いレックウザ！その強大な力を前に、圧倒されるリコとロイ。けれど、テラパゴスの、そして自分たちの想いを伝えるなら、今しかない―。ポケモンと冒険に出たあの日から、たくさんの出会い、経験をしてきたふたり…。その全てをぶつけるレックウザとのバトルが今、始まる―！！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャオハ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "監督：でんさおり",
+            "クリエイティブディレクター：冨安大貴",
+            "アクションディレクター：矢嶋哲生",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872173,
+    "endAt": 1747407600,
+    "transcodeVersion": "5bBdmk",
+    "sharedLink": {
+        "twitter": "https://abema.app/m54m",
+        "facebook": "https://abema.app/vTsm",
+        "google": "https://abema.app/stsS",
+        "line": "https://abema.app/apz6",
+        "copy": "https://abema.app/u2jt",
+        "instagram": "https://abema.app/6eyS"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p45/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p45/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p45/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p45"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.564125,
+        "opening": {
+            "start": 155.6555,
+            "end": 245.70379166666666
+        },
+        "ending": {
+            "start": 1327.5345416666667,
+            "end": 1417.4994166666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p46",
+        "title": "第46話 ドキドキ！オレンジアカデミー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872173,
+        "endAt": 1747407600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1747407600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p45/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1747407600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

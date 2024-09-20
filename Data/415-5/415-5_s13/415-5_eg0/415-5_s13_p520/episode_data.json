@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s13_p520",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s13",
+        "sequence": 13,
+        "name": "season13",
+        "thumbComponent": {},
+        "order": 13
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1462
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 520,
+        "title": "第520話 ワインレッドの告発",
+        "content": "コナンは小五郎らとワイン協会会長、広瀬の古稀をお祝いするため、会社社長、本城の山荘へ。コナンは山頂へ向かうゴンドラから本城が赤丸の頭にブロックを振り下ろす瞬間を目撃。周辺を調べるが遺体を発見できず…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：北田修一、小島哲、小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066307,
+    "endAt": 1740754800,
+    "transcodeVersion": "5yM4zD",
+    "sharedLink": {
+        "twitter": "https://abema.app/RiXH",
+        "facebook": "https://abema.app/CxEL",
+        "google": "https://abema.app/6jum",
+        "line": "https://abema.app/UFKH",
+        "copy": "https://abema.app/1TgQ",
+        "instagram": "https://abema.app/nMuu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s13_p520/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s13_p520/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s13_p520/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s13_p520"
+    },
+    "viewingPoint": {
+        "suggestion": 1422.5878333333333,
+        "opening": {
+            "start": 15.482133333333334,
+            "end": 102.56913333333334
+        },
+        "ending": {
+            "start": 1311.5435666666667,
+            "end": 1391.5234666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p521",
+        "title": "第521話 殺人犯、工藤新一",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s13_p520/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

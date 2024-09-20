@@ -1,0 +1,131 @@
+{
+    "id": "35-50_s1_p940",
+    "series": {
+        "id": "35-50",
+        "title": "クレヨンしんちゃん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "thumb.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "portrait.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-50_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 940,
+        "title": "#940 風間くんのこだわりだゾ",
+        "content": "今日は塾のテストの日。風間くんは前回のテストの時、“あること”をしたら偶然にも100点を取ることが出来た。\n今回も同じことをして100点を取ろうとするのだが、行く手にしんのすけが現れ……。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "野原しんのすけ：矢島晶子or小林由美子",
+            "野原みさえ：ならはしみき",
+            "野原ひろし：藤原啓治or森川智之",
+            "野原ひまわり：こおろぎさとみ",
+            "風間くん：真柴摩利",
+            "ネネちゃん：林 玉緒",
+            "マサオくん：一龍斎貞友",
+            "ボーちゃん：佐藤智恵"
+        ],
+        "crews": [
+            "監督：ムトウユージ"
+        ],
+        "copyrights": [
+            "(C)臼井儀人/双葉社・シンエイ・テレビ朝日・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719800056,
+    "endAt": 1751295600,
+    "transcodeVersion": "6zp4pA",
+    "sharedLink": {
+        "twitter": "https://abema.app/Vzz2",
+        "facebook": "https://abema.app/fkpb",
+        "google": "https://abema.app/x3LU",
+        "line": "https://abema.app/2SrG",
+        "copy": "https://abema.app/Sc9H",
+        "instagram": "https://abema.app/1yU4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p940/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p940/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p940/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-50_s1_p940"
+    },
+    "viewingPoint": {
+        "suggestion": 417.9592083333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-50_s1_p941",
+        "title": "#941 オラは目撃者だゾ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719800056,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-50_s1_p940/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-50_eg0"
+}

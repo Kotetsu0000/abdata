@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p532",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1476
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 532,
+        "title": "第532話 初恋の傷跡",
+        "content": "蘭は名家のお嬢様が宝くじで1億円当選したTVニュースの事を話す。お嬢様は子供の頃に旅先で事故の時、庇って大ケガした少年にお礼として宝くじをあげたいと話していて、少年には傷跡があるらしい。その時、噂のお嬢様が現れる。その少年だという２人が名乗り出てきたため、小五郎にどちらが本物か見極めて欲しいという。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "4s37sK",
+    "sharedLink": {
+        "twitter": "https://abema.app/76yE",
+        "facebook": "https://abema.app/Kk9n",
+        "google": "https://abema.app/8k7b",
+        "line": "https://abema.app/SdgD",
+        "copy": "https://abema.app/MjRk",
+        "instagram": "https://abema.app/yCJd"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p532/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p532/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p532/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p532"
+    },
+    "viewingPoint": {
+        "suggestion": 1351.1831666666667,
+        "opening": {
+            "start": 30.563866666666666,
+            "end": 121.18773333333333
+        },
+        "ending": {
+            "start": 1351.1831666666667,
+            "end": 1431.1630666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p533",
+        "title": "第533話 過去を呼ぶ傷跡",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p532/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

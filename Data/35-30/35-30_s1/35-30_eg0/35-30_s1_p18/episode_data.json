@@ -1,0 +1,150 @@
+{
+    "id": "35-30_s1_p18",
+    "series": {
+        "id": "35-30",
+        "title": "笑ゥせぇるすまん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "thumb.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "portrait.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-30_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 600
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 18,
+        "title": "第18話 夢のあと",
+        "content": "高級ホテルに行くのが夢だったサラリーマン・浦島太一（46）は、喪黒に背中を押され妻と宿泊することを決心する。翌朝、浦島が目覚めると、一緒に泊まったのは妻ではなく、前日に意気投合した若い女性だった。"
+    },
+    "credit": {
+        "released": 1990,
+        "casts": [
+            "喪黒福造：大平透"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "監修：鈴木伸一",
+            "総監督：クニトシロウ",
+            "監督：米谷良知",
+            "脚本：梅野かおる",
+            "作画監督：岡迫亘弘",
+            "美術監督：宮野隆",
+            "撮影監督：山田廣明",
+            "録音監督：大熊昭",
+            "音楽：田中公平"
+        ],
+        "copyrights": [
+            "(C)藤子A／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683007465,
+    "endAt": 1756652400,
+    "freeEndAt": 1726659300,
+    "transcodeVersion": "5uDoRE",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/aeYC4",
+        "facebook": "https://gxyt4.app.goo.gl/8tvsA",
+        "google": "https://gxyt4.app.goo.gl/giEwa",
+        "line": "https://gxyt4.app.goo.gl/GkZFn",
+        "copy": "https://gxyt4.app.goo.gl/9Z3D4",
+        "instagram": "https://gxyt4.app.goo.gl/Bs5Mc"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-30_s1_p18/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-30_s1_p18/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-30_s1_p18/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-30_s1_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-30_s1_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 595.657,
+        "opening": {
+            "end": 19.142322
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-30_s1_p19",
+        "title": "第19話 ザ・ガードマン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1683007465,
+        "endAt": 1756652400,
+        "freeEndAt": 1726659300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726659300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-30_s1_p18/timeline",
+        "query": "version=5uDoRE",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726659300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-30_eg0"
+}

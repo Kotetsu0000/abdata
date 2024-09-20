@@ -1,0 +1,147 @@
+{
+    "id": "5-31_s0_p37",
+    "series": {
+        "id": "5-31",
+        "title": "ドラゴンボールGT",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-31",
+            "filename": "thumb.png",
+            "query": "version=1650264213",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-31",
+            "filename": "portrait.png",
+            "query": "version=1650264213",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-31_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1493
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 37,
+        "title": "第37話 壮絶!! ベビーと悟空ダブルＫＯ!!",
+        "content": "ブルーツ波を浴びて、フルパワーとなった大猿ベビー。対する悟空はパワーダウンしてしまい、いまだピンチは続いている。そこでキビト界王神が地上に降り、超神水を使ってトランクスたちを正気に戻そうと試みるが…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "孫悟空＆孫悟飯＆孫悟天：野沢雅子",
+            "パン：皆口裕子",
+            "トランクス：草尾毅",
+            "ブルマ：鶴ひろみ",
+            "ベジータ：堀川亮",
+            "ピッコロ：古川登志夫",
+            "クリリン：田中真弓",
+            "亀仙人：増岡弘"
+        ],
+        "crews": [
+            "原作：鳥山明",
+            "企画：清水賢治、森下孝三",
+            "プロデューサー：金田耕司、蛭田成一",
+            "シリーズ構成：松井亜弥",
+            "シリーズディレクター：葛西治",
+            "キャラクターデザイン：中鶴勝祥",
+            "美術デザイン：吉池隆司",
+            "音楽：徳永暁人",
+            "製作担当：末永雄一"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689060909,
+    "endAt": 1732978800,
+    "transcodeVersion": "FTeeX",
+    "sharedLink": {
+        "twitter": "https://abema.app/WQi9",
+        "facebook": "https://abema.app/qbkG",
+        "google": "https://abema.app/dN4b",
+        "line": "https://abema.app/7THK",
+        "copy": "https://abema.app/gdoQ",
+        "instagram": "https://abema.app/3bzx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-31_s0_p37/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-31_s0_p37/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-31_s0_p37/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-31_s0_p37"
+    },
+    "viewingPoint": {
+        "suggestion": 1367.180677,
+        "opening": {
+            "start": 15,
+            "end": 120.104511
+        },
+        "ending": {
+            "start": 1397.180677,
+            "end": 1490.097911
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-31_s0_p38",
+        "title": "第38話 みんなの力で…超サイヤ人4復活",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689060909,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-31_s0_p37/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-31_eg0"
+}

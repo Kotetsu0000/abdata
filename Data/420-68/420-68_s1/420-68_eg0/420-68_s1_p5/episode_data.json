@@ -1,0 +1,160 @@
+{
+    "id": "420-68_s1_p5",
+    "series": {
+        "id": "420-68",
+        "title": "杖と剣のウィストリア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-68",
+            "filename": "thumb.png",
+            "query": "version=1722755298",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-68",
+            "filename": "portrait.png",
+            "query": "version=1722755298",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-68_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 号砲を上げよ",
+        "content": "ドワーフたちの名誉を賭け、魔導大祭でユリウスと戦う決意をしたウィルは、コレット、シオンと組み、祭壇の王冠を奪い合う競技「奪冠（クラウン・アタック）」に出場する。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ウィル・セルフォルト：天﨑滉平",
+            "エルファリア・アルヴィス・セルフォルト：関根明良",
+            "コレット・ロワール：天野聡美",
+            "シオン・アルスター：水中雅章",
+            "ユリウス・レインバーグ：柿原徹也",
+            "リアーナ・オーウェンザウス：Lynn",
+            "イグノール・リンドール：河西健吾",
+            "キキ：いなせあおい",
+            "ロスティ・ナウマン：？？？",
+            "ワークナー・ノーグラム：関智一",
+            "エドワルド・セルフェンス：遊佐浩二"
+        ],
+        "crews": [
+            "原作：大森藤ノ",
+            "漫画：青井 聖",
+            "監督・シリーズ構成・脚本：𠮷原達矢",
+            "キャラクターデザイン・総作画監督：小野早香",
+            "モンスターデザイン：須永賴太／原田吉朗／あきづきりょう",
+            "プロップデザイン：あきづきりょう",
+            "色彩設計：中野尚美",
+            "美術監督：前田有紀",
+            "美術：スタジオイースター",
+            "撮影監督：大槻綾子",
+            "撮影：アニモキャラメル",
+            "CG監督：安部保仁",
+            "編集：吉武将人",
+            "音響監督：森下広人",
+            "音響：神南スタジオ",
+            "音楽：林 ゆうき",
+            "音楽プロデュース：ランティス",
+            "アニメーション制作：アクタス×バンダイナムコピクチャーズ"
+        ],
+        "copyrights": [
+            "(C)大森藤ノ・青井 聖・講談社／「杖と剣のウィストリア」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872308,
+    "endAt": 1759244400,
+    "transcodeVersion": "jQkkX",
+    "sharedLink": {
+        "twitter": "https://abema.app/93is",
+        "facebook": "https://abema.app/RjhV",
+        "google": "https://abema.app/Ty9s",
+        "line": "https://abema.app/7L6f",
+        "copy": "https://abema.app/M6pX",
+        "instagram": "https://abema.app/X8VY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-68_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-68_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-68_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-68_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.0420416666666,
+        "opening": {
+            "start": 246.03745833333332,
+            "end": 335.960625
+        },
+        "ending": {
+            "start": 1335.0420416666666,
+            "end": 1424.9652083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-68_s1_p6",
+        "title": "第6話 矜持と熱情の間",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1725872308,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-68_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "420-68_eg0"
+}

@@ -1,0 +1,147 @@
+{
+    "id": "25-240_s2_p100",
+    "series": {
+        "id": "25-240",
+        "title": "【推しの子】",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-240",
+            "filename": "thumb.png",
+            "query": "version=1718011758",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-240",
+            "filename": "portrait.png",
+            "query": "version=1718011758",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-240_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 100,
+        "title": "【推しの子】振り返り特番～【推しの子】は推せるときに推せ！～Vol.2",
+        "content": "新たな舞台の幕が開く──\n\n人気マンガ『東京ブレイド』の舞台稽古が始まった。\n劇団ララライの役者達に囲まれ、大きく飛躍するかな。\nかなの才能を認めながら、ライバル心を激しく燃やすあかね。\n才能と熱意のある役者が集う中、アクアは演技すらも利用してアイの死の真相を追い続ける──。\nそしてアイドルとして母の背中を追い続けるルビーは……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "アクア：大塚剛央",
+            "ルビー：伊駒ゆりえ",
+            "有馬かな：潘めぐみ",
+            "黒川あかね：石見舞菜香",
+            "MEMちょ：大久保瑠美",
+            "姫川大輝：内山昂輝",
+            "鳴嶋メルト：前田誠二",
+            "鴨志田朔夜：小林裕介",
+            "鮫島アビ子：佐倉綾音",
+            "吉祥寺頼子：伊藤 静",
+            "雷田澄彰：鈴村健一",
+            "GOA：小野大輔",
+            "金田一敏郎：志村知幸",
+            "アイ：高橋李依"
+        ],
+        "crews": [
+            "原作：赤坂アカ×横槍メンゴ（集英社「週刊ヤングジャンプ」連載）",
+            "監督：平牧大輔",
+            "助監督：猫富ちゃお、仁科くにやす",
+            "シリーズ構成：田中 仁",
+            "キャラクターデザイン：平山寛菜",
+            "サブキャラクターデザイン：澤井 駿、渡部里美、横山穂乃花",
+            "総作画監督：平山寛菜、渡部里美、横山穂乃花、稲手遥香、監物ケビン雄太",
+            "アクションアニメーター：あもーじー",
+            "メインアニメーター：早川麻美、水野公彰、室賀彩花",
+            "美術監督：宇佐美哲也(スタジオイースター)",
+            "美術設定：水本浩太(スタジオイースター)",
+            "色彩設計：石黒けい、芦原明音",
+            "撮影監督：桒野貴文",
+            "編集：坪根健太郎",
+            "音楽：伊賀拓郎",
+            "音響監督：高寺たけし",
+            "音響効果：川田清貴",
+            "OPディレクター：竹下良平",
+            "EDディレクター：中山直哉",
+            "アニメーション制作：動画工房"
+        ],
+        "copyrights": [
+            "(C)赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726129214,
+    "endAt": 1756998000,
+    "freeEndAt": 1756998000,
+    "transcodeVersion": "5o1SUv",
+    "sharedLink": {
+        "twitter": "https://abema.app/8vwj",
+        "facebook": "https://abema.app/YwpX",
+        "google": "https://abema.app/GYfg",
+        "line": "https://abema.app/msBV",
+        "copy": "https://abema.app/Ej43",
+        "instagram": "https://abema.app/uzpD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-240_s2_p100/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-240_s2_p100/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-240_s2_p100/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-240_s2_p100/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-240_s2_p100"
+    },
+    "viewingPoint": {
+        "suggestion": 1435.1003333333333
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-240_s2_p100/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1756998000
+        }
+    ],
+    "episodeGroupId": "25-240_eg2"
+}

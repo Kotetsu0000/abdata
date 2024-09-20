@@ -1,0 +1,121 @@
+{
+    "id": "390-7_s1_p134",
+    "series": {
+        "id": "390-7",
+        "title": "斉藤壮馬 Strange dayS",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/390-7",
+            "filename": "thumb.png",
+            "query": "version=1627615497",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/390-7",
+            "filename": "portrait.png",
+            "query": "version=1627615497",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "390-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1681
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 134,
+        "title": "「斉藤壮馬 Strange dayS」#134",
+        "content": "声優・斉藤壮馬が一人喋りでお送りするラジオ番組。\n番組では『気になるを気にする』をコンセプトに、\n日々の生活の中で、普段から“気になる”事が多い斉藤さんが感じている、\nいろんな疑問・わくわくする事をお話していきながら\n皆さんが“気になる”であろう、斉藤さん自身についての質問にもお答えしていきます。\n週末の夜、気になる事をどんどん共有して、\nちょっとだけ不思議な時間を過ごしませんか?"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "斉藤壮馬"
+        ],
+        "crews": [
+            "文化放送"
+        ],
+        "copyrights": [
+            "(c)Nippon Cultual Broadcasting Inc"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711503434,
+    "endAt": 1727708400,
+    "transcodeVersion": "5C4iF6",
+    "sharedLink": {
+        "twitter": "https://abema.app/8XQt",
+        "facebook": "https://abema.app/FK88",
+        "google": "https://abema.app/Pnh9",
+        "line": "https://abema.app/KB2r",
+        "copy": "https://abema.app/QzXh",
+        "instagram": "https://abema.app/MEjY"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/390-7_s1_p134/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/390-7_s1_p134/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/390-7_s1_p134/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.390-7_s1_p134"
+    },
+    "viewingPoint": {
+        "suggestion": 1610.255018
+    },
+    "nextProgramInfo": {
+        "programId": "390-7_s1_p135",
+        "title": "「斉藤壮馬 Strange dayS」#135",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711503434,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/390-7_s1_p134/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "390-7_eg0"
+}

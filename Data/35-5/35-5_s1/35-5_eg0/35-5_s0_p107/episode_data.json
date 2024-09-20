@@ -1,0 +1,160 @@
+{
+    "id": "35-5_s0_p107",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 107,
+        "title": "第107話 命と器",
+        "content": "二都銀行会長は孫・まり子の見初めた士郎の評判を探りに東西新聞へ。だが社主の語る士郎像は最悪。その日陶人の作品をうけ取る席で偶然士郎と同席した会長は悪しき先入観を覆す事件に遭遇する。"
+    },
+    "credit": {
+        "released": 1991,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424468,
+    "endAt": 1756652400,
+    "freeEndAt": 1726595220,
+    "transcodeVersion": "4YUPZ9",
+    "sharedLink": {
+        "twitter": "https://abema.app/MU5M",
+        "facebook": "https://abema.app/KQRD",
+        "google": "https://abema.app/SF7E",
+        "line": "https://abema.app/BfFQ",
+        "copy": "https://abema.app/d7eo",
+        "instagram": "https://abema.app/4Jpo"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p107/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p107/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-5_s0_p107/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p107/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p107"
+    },
+    "viewingPoint": {
+        "suggestion": 1399.154288,
+        "opening": {
+            "end": 81.037588
+        },
+        "ending": {
+            "start": 1399.154288,
+            "end": 1479.179771
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p108",
+        "title": "第108話 辛し明太子",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424468,
+        "endAt": 1756652400,
+        "freeEndAt": 1726595220,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726595220
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p107/timeline",
+        "query": "version=4YUPZ9",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726595220
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

@@ -1,0 +1,153 @@
+{
+    "id": "168-3_s1_p5",
+    "series": {
+        "id": "168-3",
+        "title": "デスマーチからはじまる異世界狂想曲",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-3",
+            "filename": "thumb.png",
+            "query": "version=1627289453",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-3",
+            "filename": "portrait.png",
+            "query": "version=1627289453",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-3_s1",
+        "sequence": 1,
+        "name": "デスマーチからはじまる異世界狂想曲",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第５話「デスマーチからはじまる乱心王女」",
+        "content": "迷宮からの脱出に成功したサトゥーは、契約を交わしポチ、タマ、リザの正式な主人となった。加えてニドーレンから、儚げなルルと、アリサという少女も奴隷にと勧められる。\n「私はアリサと申します。“サ・ト・ウ様”」不敵な笑みを浮かべるアリサは、なんと日本語を理解していた。\n一体なぜ？\n疑問を頂きつつも、成り行きで彼女たちとも契約を交わすことになったサトゥーだったが、その夜宿屋で……"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "サトゥー：堀江 瞬",
+            "ゼナ：高橋李依",
+            "ポチ：河野ひより",
+            "タマ：奥野香耶",
+            "リザ：津田美波",
+            "アリサ：悠木 碧",
+            "ルル：早瀬莉花",
+            "ミーア：永野愛理",
+            "ナナ：安野希世乃",
+            "マーサ：厚木那奈美"
+        ],
+        "crews": [
+            "原作：愛七ひろ（株式会社KADOKAWA/カドカワBOOKS刊）",
+            "監督：大沼 心",
+            "シリーズ構成・脚本：下山健人",
+            "キャラクター原案：shri",
+            "キャラクターデザイン：滝本祥子",
+            "音楽：高橋邦幸、MONACA",
+            "音楽制作：DIVE II entertainment",
+            "アニメーション制作：SILVER LINK. × CONNECT"
+        ],
+        "copyrights": [
+            "(C)愛七ひろ・shri・ＫＡＤＯＫＡＷＡ カドカワBOOKS刊／デスマ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699504430,
+    "endAt": 1727708400,
+    "transcodeVersion": "5f57CA",
+    "sharedLink": {
+        "twitter": "https://abema.app/orKA",
+        "facebook": "https://abema.app/hsEK",
+        "google": "https://abema.app/3keK",
+        "line": "https://abema.app/6UB3",
+        "copy": "https://abema.app/niWa",
+        "instagram": "https://abema.app/gtwd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-3_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-3_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-3_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-3_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1301.615177,
+        "opening": {
+            "start": 27.05681,
+            "end": 114.056811
+        },
+        "ending": {
+            "start": 1301.92548,
+            "end": 1388.522117
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-3_s1_p6",
+        "title": "第６話「デスマーチからはじまる都市防衛」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1699504430,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-3_s1_p5/timeline",
+        "query": "version=5f57CA",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "168-3_eg0"
+}

@@ -1,0 +1,136 @@
+{
+    "id": "19-189_s1_p12",
+    "series": {
+        "id": "19-189",
+        "title": "中二病でも恋がしたい！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-189",
+            "filename": "thumb.png",
+            "query": "version=1707880990",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-189",
+            "filename": "portrait.png",
+            "query": "version=1707880990",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-189_s1",
+        "sequence": 1,
+        "name": "中二病でも恋がしたい！",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "#12 終天の契約",
+        "content": "六花から邪王真眼を受け継いだくみん｡勇太は､二代目邪王真眼となったくみんの口から､邪王真眼が生まれた理由を聞かされた｡そのことで勇太は自分の考えを改めた｡徐々に自分の気持ちに気付き始めていた勇太｡本当は､六花を中二病から卒業させたかったんじゃない｡六花の純粋な心､六花の背負ってきた苦しみ､六花のまっすぐな思い､それらを受け止めようと勇太は全力で六花を追った｡"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "福山潤",
+            "内田真礼",
+            "赤崎千夏",
+            "浅倉杏美",
+            "上坂すみれ"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：虎虎(KAエスマ文庫/京都アニメーション)",
+            "脚本：花田十輝",
+            "音楽：虹音"
+        ],
+        "copyrights": [
+            "(C)虎虎/京都アニメーション/中二病でも製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1706172320,
+    "endAt": 1743433200,
+    "transcodeVersion": "3NpuuY",
+    "sharedLink": {
+        "twitter": "https://abema.app/WZzL",
+        "facebook": "https://abema.app/W8RL",
+        "google": "https://abema.app/jqrw",
+        "line": "https://abema.app/fzvv",
+        "copy": "https://abema.app/L4SR",
+        "instagram": "https://abema.app/pwjt"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-189_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-189_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-189_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-189_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.0320416666666,
+        "opening": {
+            "start": 52.09370833333333,
+            "end": 142.016875
+        },
+        "ending": {
+            "start": 1325.0320416666666,
+            "end": 1414.9969166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-189_s2_p1",
+        "title": "#01 復活の…邪王真眼",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706173803,
+        "endAt": 1743433200,
+        "freeEndAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-189_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "19-189_eg0"
+}

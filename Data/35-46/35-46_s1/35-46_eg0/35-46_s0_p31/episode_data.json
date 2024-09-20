@@ -1,0 +1,140 @@
+{
+    "id": "35-46_s0_p31",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6484
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 31,
+        "title": "映画ドラえもん 新・のび太と鉄人兵団",
+        "content": "北極（ほっきょく）で、巨大（きょだい）なロボットの足を拾ったのび太。その後、次々とロボットの部品が家の庭に落ちてくる。ドラえもんとのび太は組み立てたロボットを「ザンダクロス」と名づけるが…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "原作：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2011"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "5Nvs1P",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Ptbz7",
+        "facebook": "https://gxyt4.app.goo.gl/48ctJ",
+        "google": "https://gxyt4.app.goo.gl/7Dwrt",
+        "line": "https://gxyt4.app.goo.gl/xWuEE",
+        "copy": "https://gxyt4.app.goo.gl/hWPkh",
+        "instagram": "https://gxyt4.app.goo.gl/LW3Fe"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p31/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p31/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p31/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p31"
+    },
+    "viewingPoint": {
+        "suggestion": 6259.076022,
+        "opening": {
+            "start": 256.612888,
+            "end": 326.615155
+        },
+        "ending": {
+            "start": 6259.075022,
+            "end": 6484.543855
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p32",
+        "title": "映画ドラえもん のび太と奇跡の島　アニマルアドベンチャー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1709522815,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p31/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

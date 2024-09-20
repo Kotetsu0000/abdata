@@ -1,0 +1,153 @@
+{
+    "id": "26-12_s1_p19",
+    "series": {
+        "id": "26-12",
+        "title": "黒執事",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "thumb.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "portrait.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12_s1",
+        "sequence": 1,
+        "name": "黒執事",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 19,
+        "title": "episode19 その執事、入牢",
+        "content": "テムズ川で死体が発見された。被害者のジョン・スタンレーは、女王のために働いていた裏社会の人物で、何者かに殺害されたらしい。女王から、彼の遺留品を手に入れ、秘密裏に処分するよう命じられたシエル。早速調査を始めた彼は、遺体が発見された地域を取り仕切る、上海マフィアのボス、劉のもとを訪れる。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "シエル・ファントムハイヴ：坂本 真綾",
+            "セバスチャン・ミカエリス：小野 大輔",
+            "バルドロイ：東地 宏樹",
+            "フィニアン：梶 裕貴",
+            "メイリン：加藤 英美里"
+        ],
+        "crews": [
+            "原作：枢 やな",
+            "監督：篠原俊哉",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン＆総作画監督：芝 美奈子",
+            "音楽：岩崎 琢"
+        ],
+        "copyrights": [
+            "(c)枢やな/スクウェアエニックス・女王の番犬・ＭＢＳ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708327133,
+    "endAt": 1741532400,
+    "transcodeVersion": "3rmVEm",
+    "sharedLink": {
+        "twitter": "https://abema.app/kMi4",
+        "facebook": "https://abema.app/XR8n",
+        "google": "https://abema.app/z5KC",
+        "line": "https://abema.app/cnhM",
+        "copy": "https://abema.app/xdxE",
+        "instagram": "https://abema.app/MbKP"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-12_s1_p19/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-12_s1_p19/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-12_s1_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12_s1_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.567533,
+        "opening": {
+            "start": 96.584466,
+            "end": 186.54
+        },
+        "ending": {
+            "start": 1347.567533,
+            "end": 1437.556433
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-12_s1_p20",
+        "title": "episode20 その執事、脱走",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708327133,
+        "endAt": 1741532400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741532400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12_s1_p19/timeline",
+        "query": "version=3rmVEm",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-12_eg0"
+}

@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s3_p123",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 123,
+        "title": "第123話 お天気お姉さん誘拐事件",
+        "content": "大人気のお天気お姉さん・浅野亜紀のメッセージを聞いた元太たちは、亜紀に会いにテレビ局を訪れる。亜紀はコナンのポケベルの番号を控えて｢仕事を頼む時は連絡する｣と約束。が、亜紀は電話に呼び出されたきり行方不明になり、代役を立てて番組が始まってしまう。そして、コナンのポケベルに謎の数字が次々と表示される。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066298,
+    "endAt": 1740754800,
+    "transcodeVersion": "7R5uM9",
+    "sharedLink": {
+        "twitter": "https://abema.app/vScM",
+        "facebook": "https://abema.app/ysAs",
+        "google": "https://abema.app/d6AW",
+        "line": "https://abema.app/rwfQ",
+        "copy": "https://abema.app/u4up",
+        "instagram": "https://abema.app/nkE7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s3_p123/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s3_p123/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s3_p123/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s3_p123"
+    },
+    "viewingPoint": {
+        "suggestion": 1423.9892333333332,
+        "opening": {
+            "start": 16.182833333333335,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1272.2042666666666,
+            "end": 1357.1558
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s3_p124",
+        "title": "第124話 謎の狙撃者殺人事件(前編)",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066298,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s3_p123/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s5_p213",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s5",
+        "sequence": 5,
+        "name": "season5",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 213,
+        "title": "第213話 きのこと熊と探偵団（後編）",
+        "content": "松茸狩りに来て射殺死体を発見した哀と光彦は殺人犯に追われ、熊が出るという狩猟区域を逃げまどう。二人は自分たちを捜すコナンたちに気づくが、一緒にいる３人のハンターの中に犯人がいた。旅館からの連絡で事件を知ったコナンが二人の残した暗号を解いた時、一行の前に巨大な熊「十兵衛」が立ちはだかる。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066300,
+    "endAt": 1740754800,
+    "transcodeVersion": "6xXfzK",
+    "sharedLink": {
+        "twitter": "https://abema.app/eNyT",
+        "facebook": "https://abema.app/YhMy",
+        "google": "https://abema.app/QDdp",
+        "line": "https://abema.app/p7dA",
+        "copy": "https://abema.app/xCBW",
+        "instagram": "https://abema.app/PLP9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s5_p213/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s5_p213/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s5_p213/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s5_p213"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.8587666666667,
+        "opening": {
+            "start": 34.60123333333333,
+            "end": 101.96853333333334
+        },
+        "ending": {
+            "start": 1203.3688333333334,
+            "end": 1288.3203666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s5_p214",
+        "title": "第214話 レトロルームの謎事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066300,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s5_p213/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,122 @@
+{
+    "id": "2-15_s1_p102",
+    "series": {
+        "id": "2-15",
+        "title": "姫様\"拷問\"の時間です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "thumb.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "portrait.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-15_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3178
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 102,
+        "title": "姫様“特番”の時間です #3",
+        "content": "本番組には、白石晴香さん（姫役）、小林親弘さん（エクス役）、伊藤 静さん（トーチャー・トルチュール役）らメインキャスト3名が生出演。テーマを最終話まで配信お疲れ様記念とし、本編の内容を振り返ります。また、伊藤さんが出演する人気のロケ企画「酒場\"拷問\"記」では、今回は特別にスタジオからお届けするなど、最終話放送直後ならではのスペシャルな内容となっております。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "姫役：白石晴香",
+            "エクス役：小林親弘",
+            "トーチャー・トルチュール役：伊藤静"
+        ],
+        "copyrights": [
+            "(C)春原ロビンソン・ひらけい／集英社・国王軍第三騎士団"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721886237,
+    "endAt": 1727708400,
+    "freeEndAt": 1727708400,
+    "transcodeVersion": "3LQUAJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/cwEZ",
+        "facebook": "https://abema.app/Gz7R",
+        "google": "https://abema.app/rfnN",
+        "line": "https://abema.app/QBJA",
+        "copy": "https://abema.app/oy8b",
+        "instagram": "https://abema.app/Ei3h"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p102/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p102/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/2-15_s1_p102/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p102/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-15_s1_p102"
+    },
+    "viewingPoint": {
+        "suggestion": 3173.5370333333335
+    },
+    "nextProgramInfo": {
+        "programId": "2-15_s1_p103",
+        "title": "姫様\"夏休み\"の時間です",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721886265,
+        "endAt": 1727708400,
+        "freeEndAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-15_s1_p102/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "2-15_eg10"
+}

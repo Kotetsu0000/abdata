@@ -1,0 +1,136 @@
+{
+    "id": "35-46_s0_p36",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6198
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 36,
+        "title": "映画ドラえもん 新・のび太の日本誕生",
+        "content": "家出を決心したのび太たち５人は、タイムマシンで、誰もいない７万年前の日本に行くことに。原始時代の日本で、自分たちだけのパラダイスを作り、たっぷり遊んだのび太たちは、いったん家に帰ることにしたが、なぜか現代で原始人のククルと出会う。どうやら時空乱流に巻き込まれて現代に来てしまったらしい。そして、ククルの家族がいるヒカリ族は、精霊王ギガゾンビとクラヤミ族に襲われたという。ククルとともに原始時代に戻った５人は、ヒカリ族を救うため立ち上がる！史上最大の家出から、史上最大の冒険が始まる！！"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "のび太：大原めぐみ",
+            "しずか：かかず ゆみ",
+            "ジャイアン：木村 昴",
+            "スネ夫：関 智一"
+        ],
+        "crews": [
+            "原作・脚本：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2016"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "7Ji6j3",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/8k6sG",
+        "facebook": "https://gxyt4.app.goo.gl/dpAAS",
+        "google": "https://gxyt4.app.goo.gl/1ZFbL",
+        "line": "https://gxyt4.app.goo.gl/3BZsB",
+        "copy": "https://gxyt4.app.goo.gl/SNY2J",
+        "instagram": "https://gxyt4.app.goo.gl/xhfxk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-46_s0_p36/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-46_s0_p36/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-46_s0_p36/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p36"
+    },
+    "viewingPoint": {
+        "suggestion": 6018.638869,
+        "opening": {
+            "start": 306.729622,
+            "end": 396.384922
+        },
+        "ending": {
+            "start": 6018.001855,
+            "end": 6198.427596
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p37",
+        "title": "映画ドラえもん のび太の南極カチコチ大冒険",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1709522815,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p36/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

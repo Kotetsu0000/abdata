@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p87",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 87,
+        "title": "第87話 ｢危うし五車星！遂にラオウが炎をも突き破った！！」",
+        "content": "拳王の本隊と向かい合ったシュレンの部隊。シュレンの怒りの炎が拳王の本隊を襲い「五車炎情拳」がラオウに放たれた。その頃ケンシロウたちは拳王の手先に追われていた大男を救う。しかしその男の左腕には五つの星があった。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "75pAy3",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/PEMjw",
+        "facebook": "https://gxyt4.app.goo.gl/rwBQp",
+        "google": "https://gxyt4.app.goo.gl/Ryabi",
+        "line": "https://gxyt4.app.goo.gl/EWvny",
+        "copy": "https://gxyt4.app.goo.gl/Gs8Kt",
+        "instagram": "https://gxyt4.app.goo.gl/bCb3h"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p87/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p87/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p87/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p87"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.285488,
+        "opening": {
+            "start": 50.670822,
+            "end": 114.504355
+        },
+        "ending": {
+            "start": 1330.285488,
+            "end": 1430.152022
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p88",
+        "title": "第88話 ｢五車星ケンシロウに接近！フドウお前は何者！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p87/timeline",
+        "query": "version=75pAy3",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

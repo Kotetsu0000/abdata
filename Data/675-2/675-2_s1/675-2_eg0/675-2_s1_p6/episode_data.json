@@ -1,0 +1,152 @@
+{
+    "id": "675-2_s1_p6",
+    "series": {
+        "id": "675-2",
+        "title": "しかのこのこのここしたんたん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/675-2",
+            "filename": "thumb.png",
+            "query": "version=1720511814",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/675-2",
+            "filename": "portrait.png",
+            "query": "version=1720511814",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "675-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 夏のシカ祭り",
+        "content": "いつも通りシカ部廃部を目論むねこちゃん。\nそこで突然生徒会室に現れたのこたんが取り出したのは、謎の生物「ツチノコ（？）」。\n知れば知るほど謎が深まる生態に困惑するねこちゃんだったが…？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "鹿乃子のこ：潘めぐみ",
+            "虎視虎子：藤田咲",
+            "虎視餡子：田辺留依",
+            "馬車芽めめ：和泉風花",
+            "ナレーション：鳥海浩輔"
+        ],
+        "crews": [
+            "原作：おしおしお「しかのこのこのここしたんたん」（講談社「マガジンポケット」連載）",
+            "監督：太田雅彦",
+            "シリーズ構成・脚本：あおしまたかし",
+            "キャラクターデザイン：辻村歩",
+            "音楽：三澤康広",
+            "アニメーション制作：WIT STUDIO",
+            "製作：日野南高校シカ部"
+        ],
+        "copyrights": [
+            "(C)おしおしお・講談社／日野南高校シカ部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129268,
+    "endAt": 1885474800,
+    "transcodeVersion": "4sgF4w",
+    "sharedLink": {
+        "twitter": "https://abema.app/byHc",
+        "facebook": "https://abema.app/chya",
+        "google": "https://abema.app/4oB4",
+        "line": "https://abema.app/SKHZ",
+        "copy": "https://abema.app/B9Q6",
+        "instagram": "https://abema.app/WdsG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/675-2_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/675-2_s1_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/675-2_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.675-2_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.07375,
+        "opening": {
+            "start": 27.027,
+            "end": 116.991875
+        },
+        "ending": {
+            "start": 1325.07375,
+            "end": 1415.038625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "675-2_s1_p7",
+        "title": "第7話 シカコレとか配信とかおもてなしとか",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1726129268,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "linkText": "最新話4日間プレミアム先行配信！",
+        "link": "https://abema.tv/video/episode/675-2_s1_p10",
+        "buttonText": "確認する",
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/675-2_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "675-2_eg0"
+}

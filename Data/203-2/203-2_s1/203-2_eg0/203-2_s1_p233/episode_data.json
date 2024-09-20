@@ -1,0 +1,142 @@
+{
+    "id": "203-2_s1_p233",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s1",
+        "sequence": 101,
+        "name": "こちら葛飾区亀有公園前派出所",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1559
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 233,
+        "title": "第233話 今夜は生放送!?",
+        "content": "両津の実家がTVドラマの撮影舞台に。両親はリッチなホテル生活だが、落ち着かないようだ。一方、家に物を取りに帰った両津は生放送中のドラマに映ってしまい、そのまま出演するはめに…"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382152,
+    "endAt": 1743433200,
+    "transcodeVersion": "2zWXzt",
+    "sharedLink": {
+        "twitter": "https://abema.app/1rpV",
+        "facebook": "https://abema.app/1QkT",
+        "google": "https://abema.app/9z6R",
+        "line": "https://abema.app/7GXD",
+        "copy": "https://abema.app/kac2",
+        "instagram": "https://abema.app/kfTL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-2_s1_p233/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-2_s1_p233/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-2_s1_p233/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s1_p233"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.729155,
+        "opening": {
+            "start": 63.953755,
+            "end": 151.941755
+        },
+        "ending": {
+            "start": 1440.729155,
+            "end": 1524.813355
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s1_p234",
+        "title": "第234話 エビ！カニ！イカ！ 巨大バイオ生物の襲来",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382152,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s1_p233/timeline",
+        "query": "version=2zWXzt",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

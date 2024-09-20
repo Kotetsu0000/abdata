@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s17_p651",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s17",
+        "sequence": 17,
+        "name": "season17",
+        "thumbComponent": {},
+        "order": 17
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2753
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 651,
+        "title": "第651話 コナンVS平次　東西探偵推理勝負",
+        "content": "平次と和葉が東京にやってくる。和葉はファミレスに立ち寄り、平次は先に探偵事務所へ。この後、和葉から電話がかかってくる。トイレで男性が亡くなり、大騒ぎになっているという。世良はこの事件で工藤と平次、どっちが名探偵か勝負して決めようと提案。平次はコナンより先に毒殺された事に気付いて一歩リードする…。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：北田修一、山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066310,
+    "endAt": 1740754800,
+    "transcodeVersion": "5SNoFp",
+    "sharedLink": {
+        "twitter": "https://abema.app/jwQz",
+        "facebook": "https://abema.app/jScF",
+        "google": "https://abema.app/PuC5",
+        "line": "https://abema.app/9aKK",
+        "copy": "https://abema.app/BbR5",
+        "instagram": "https://abema.app/YpzW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p651/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p651/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p651/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s17_p651"
+    },
+    "viewingPoint": {
+        "suggestion": 2708.839466666667,
+        "opening": {
+            "start": 87.087,
+            "end": 156.99016666666665
+        },
+        "ending": {
+            "start": 2499.8974,
+            "end": 2579.7438333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s17_p652",
+        "title": "第652話 毒と幻のデザイン（EYE）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s17_p651/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

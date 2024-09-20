@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s7_p273",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s7",
+        "sequence": 7,
+        "name": "season7",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1473
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 273,
+        "title": "第273話 クイズ婆さん失踪事件",
+        "content": "コナンたちは、歩美と大森静というお婆さんと一緒に公園で猫の世話を手伝っていた。翌日、約束の時間になっても現れない静を心配したコナンたちは静のアパートに行ってみる。が、静は応答しない。コナンたちは、何の情報も得られなくて困り果てていた。そこへ静が特に可愛がっていたブルースという名の野良猫が現れた…。"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066302,
+    "endAt": 1740754800,
+    "transcodeVersion": "5VApHZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/7R2e",
+        "facebook": "https://abema.app/ifrv",
+        "google": "https://abema.app/HR3T",
+        "line": "https://abema.app/Cbw4",
+        "copy": "https://abema.app/F4Ny",
+        "instagram": "https://abema.app/Rppq"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s7_p273/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s7_p273/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s7_p273/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s7_p273"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.9598666666666,
+        "opening": {
+            "start": 16.483133333333335,
+            "end": 102.96953333333333
+        },
+        "ending": {
+            "start": 1278.277,
+            "end": 1362.8281333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s7_p274",
+        "title": "第274話 幽霊屋敷の真実（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066302,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s7_p273/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

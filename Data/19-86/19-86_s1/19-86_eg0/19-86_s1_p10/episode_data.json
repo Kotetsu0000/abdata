@@ -1,0 +1,161 @@
+{
+    "id": "19-86_s1_p10",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "【MISSION：10】ドッジボール大作戦",
+        "content": "イーデン校１年生の間で、今度の体育の授業で活躍した生徒には“星(ステラ)”が授与されるとの噂が広まっていた。アーニャは“星(ステラ)”を入手するためにヨルの特訓を受け、「ほし、つかむ」と決意を固める。そしてセシル寮とウォルド寮によるクラス対抗ドッジボール戦が始まった！勝利に意気込むアーニャたちの前に、怪童ビル・ワトキンスが立ちはだかる。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "freeEndAt": 1726761600,
+    "transcodeVersion": "7H1SNq",
+    "sharedLink": {
+        "twitter": "https://abema.app/frb2",
+        "facebook": "https://abema.app/7yxk",
+        "google": "https://abema.app/Lt4a",
+        "line": "https://abema.app/X91z",
+        "copy": "https://abema.app/HQyM",
+        "instagram": "https://abema.app/JpFi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p10/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-86_s1_p10/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.038555,
+        "opening": {
+            "start": 260.001276,
+            "end": 346.997844
+        },
+        "ending": {
+            "start": 1350.133995,
+            "end": 1436.767413
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p11",
+        "title": "【MISSION：11】〈星(ステラ)〉",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "freeEndAt": 1726761600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726761600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p10/4/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726761600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

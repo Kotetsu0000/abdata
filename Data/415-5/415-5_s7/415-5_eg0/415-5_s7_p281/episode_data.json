@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s7_p281",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s7",
+        "sequence": 7,
+        "name": "season7",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1473
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 281,
+        "title": "第281話 小さな目撃者たち",
+        "content": "歩美、元太、光彦の３人は廃ビルの中で探偵ごっこをしている最中、本物の殺人事件現場を目撃する。歩美は探偵バッジでコナンに連絡を取るが、軽トラックの荷台に飛び乗った元太と光彦を追うはずみでバッジを落としてしまう。軽トラックの荷台で段ボール箱に隠れた３人は死体と一緒にどこかへ運ばれていく。"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066302,
+    "endAt": 1740754800,
+    "transcodeVersion": "hFmst",
+    "sharedLink": {
+        "twitter": "https://abema.app/HP46",
+        "facebook": "https://abema.app/WLvL",
+        "google": "https://abema.app/8fBk",
+        "line": "https://abema.app/GVXy",
+        "copy": "https://abema.app/SQc4",
+        "instagram": "https://abema.app/3AcH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s7_p281/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s7_p281/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s7_p281/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s7_p281"
+    },
+    "viewingPoint": {
+        "suggestion": 1428.7940333333333,
+        "opening": {
+            "start": 16.549866666666667,
+            "end": 102.93616666666667
+        },
+        "ending": {
+            "start": 1316.2149,
+            "end": 1400.6659333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s7_p282",
+        "title": "第282話 水流るる石庭の怪（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066302,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s7_p281/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

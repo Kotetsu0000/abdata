@@ -1,0 +1,143 @@
+{
+    "id": "377-2_s1_p3",
+    "series": {
+        "id": "377-2",
+        "title": "ウルトラマンアーク",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/377-2",
+            "filename": "thumb.png",
+            "query": "version=1726117618",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/377-2",
+            "filename": "portrait.png",
+            "query": "version=1726117618",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "377-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 想像力を解き放て!",
+        "content": "星元市に現れる恐怖の宇宙怪獣!?\n人類に味方する謎の光の巨人!?\nユウマに伝えられた父の言葉の意味...!?\n繰り返される終わらない悪夢に立ち尽くすユウマは、強く信じる気持ちを胸に走り出す!!"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "飛世 ユウマ:戸塚 有輝",
+            "石堂シュウ:金田 昇",
+            "夏目リン:水谷 果穂",
+            "伴ヒロシ:西 興一朗"
+        ],
+        "crews": [
+            "脚本:継田 淳",
+            "監督:辻本 貴則"
+        ],
+        "copyrights": [
+            "©円谷プロ ©ウルトラマンアーク製作委員会・テレビ東京"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726206618,
+    "endAt": 1769871600,
+    "transcodeVersion": "3BMFPg",
+    "sharedLink": {
+        "twitter": "https://abema.app/WVsm",
+        "facebook": "https://abema.app/ssr4",
+        "google": "https://abema.app/3GyL",
+        "line": "https://abema.app/V77o",
+        "copy": "https://abema.app/WZUE",
+        "instagram": "https://abema.app/RFdC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/377-2_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/377-2_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/377-2_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.377-2_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1375.0403333333334,
+        "opening": {
+            "start": 89.00558333333333,
+            "end": 186.93675
+        },
+        "ending": {
+            "start": 1375.0403333333334,
+            "end": 1454.9952083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "377-2_s1_p4",
+        "title": "第4話 ただいま怪獣追跡チュウ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726206618,
+        "endAt": 1769871600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1769871600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/377-2_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1769871600
+        }
+    ],
+    "episodeGroupId": "377-2_eg0"
+}

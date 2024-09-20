@@ -1,0 +1,149 @@
+{
+    "id": "2-7swizezassj_s6_p23",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s6",
+        "sequence": 6,
+        "name": "第6シリーズ",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 限界を超えて",
+        "content": "ホーネッツとコヨーテスの優勝決定戦は、ついに延長戦に。吾郎とコヨーテスのクローザー、スプリンガーは、どちらも譲らぬ熱投を続け、延長11回表が終わった時点で吾郎は9人の打者から連続三振を取っていた。エミリーや日本の皆が見守る中、吾郎は左腕に爆弾をかかえたまま、12回表、記録をかけたマウンドに上がる。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "キーン：森川智之",
+            "ワッツ：家中 宏",
+            "マードック：山野井 仁",
+            "サンダース：石井康嗣"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277071,
+    "endAt": 1741446000,
+    "transcodeVersion": "4qTG8i",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/5Xdob",
+        "facebook": "https://gxyt4.app.goo.gl/aapKb",
+        "google": "https://gxyt4.app.goo.gl/XMMFT",
+        "line": "https://gxyt4.app.goo.gl/WYVqa",
+        "copy": "https://gxyt4.app.goo.gl/Q5sqM",
+        "instagram": "https://gxyt4.app.goo.gl/jbWkV"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-7swizezassj_s6_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-7swizezassj_s6_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-7swizezassj_s6_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-7swizezassj_s6_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1465.06,
+        "opening": {
+            "start": 67.461887,
+            "end": 165.416903
+        },
+        "ending": {
+            "start": 1360.35708,
+            "end": 1449.485404
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-7swizezassj_s6_p24",
+        "title": "第24話 栄光への執念",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277071,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-7swizezassj_s6_p23/timeline",
+        "query": "version=4qTG8i",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

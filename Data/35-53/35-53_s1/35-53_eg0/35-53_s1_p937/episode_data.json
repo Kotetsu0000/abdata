@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p937",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 657
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 937,
+        "title": "#937 ウルトラ恵方巻き",
+        "content": "節分の日。恵方巻きのことを知らず、ジャイアンやスネ夫からバカにされたのび太。しかも、よけいなことを言って、しずかのことを怒らせてしまう。落ち込んだのび太が帰宅すると、ドラえもんが背中を向けて何かを食べていた。その直後、おめでたい七福神が乗った宝船が現れると、ドラえもんの大好きなネコのミーちゃんがやって来たからビックリ！\n　ドラえもんが食べていたのは、未来で人気の願い事がかなう『ウルトラ恵方巻き』で、「ミーちゃんとデートしたい！」と願いながら食べたのだという。そこでのび太もしずかと仲直りができるよう願いながら、恵方巻きを食べるが…！？"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335977,
+    "endAt": 1751295600,
+    "transcodeVersion": "596eBe",
+    "sharedLink": {
+        "twitter": "https://abema.app/4FHW",
+        "facebook": "https://abema.app/bYAQ",
+        "google": "https://abema.app/XPNH",
+        "line": "https://abema.app/CkFJ",
+        "copy": "https://abema.app/agQH",
+        "instagram": "https://abema.app/EQjH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p937/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p937/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p937/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p937"
+    },
+    "viewingPoint": {
+        "suggestion": 652.0680833333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p938",
+        "title": "#938 雪でアッチッチ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335977,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p937/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

@@ -1,0 +1,169 @@
+{
+    "id": "512-11_s1_p7",
+    "series": {
+        "id": "512-11",
+        "title": "勇気爆発バーンブレイバーン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-11",
+            "filename": "thumb.png",
+            "query": "version=1706698786",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-11",
+            "filename": "portrait.png",
+            "query": "version=1706698786",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "512-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話『どうするイサミ！こんな時、イサミならどうするんだ！』",
+        "content": "ハワイ諸島で倒したはずのスペルビアが多国籍任務部隊（ATF）の前に再び立ちはだかる。同時に新たなデスドライヴズも動き出し、イサミとブレイバーンが交戦する。スミスは総攻撃で一時的にスペルビア抑えることに成功するが、ティタノストライド（TS）を破壊され絶体絶命の危機に瀕していた。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "イサミ・アオ：鈴木崚汰",
+            "ルイス・スミス：阿座上洋平",
+            "ルル：会沢紗弥",
+            "ヒビキ・リオウ：宮本侑芽",
+            "ミユ・カトウ：加隈亜衣",
+            "ホノカ・スズナギ：前田佳織里",
+            "カレン・オルドレン：藤井ゆきよ",
+            "ニーナ・コワルスキー：森なな子",
+            "ハル・キング：三宅健太",
+            "トーマス・J・ブラウン：志村知幸"
+        ],
+        "crews": [
+            "企画：Cygames",
+            "監督：大張正己",
+            "シリーズ構成：小柳啓伍",
+            "キャラクターデザイン原案：かも仮面",
+            "キャラクターデザイン：本村晃一",
+            "メカニカルデザイン：MORUGA・桜水樹・石垣純哉・山根理宏・鈴木勘太",
+            "プロダクションデザイン：寺岡賢司",
+            "総作画監督：本村晃一・宇良隆太・小菅和久・小森篤",
+            "副監督：重原克也",
+            "美術監督：橋本巧(草薙)",
+            "色彩設計：岡崎菜々子",
+            "3DCGディレクター：中野祥典",
+            "撮影監督：林賢太",
+            "編集：三嶋章紀",
+            "音楽：渡邊崇",
+            "音響監督：大張正己",
+            "音響効果：小山恭正",
+            "音響制作：dugout",
+            "アニメーション制作：CygamesPictures"
+        ],
+        "copyrights": [
+            "(C)「勇気爆発バーンブレイバーン」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711710477,
+    "endAt": 1743433200,
+    "transcodeVersion": "2ygtpw",
+    "sharedLink": {
+        "twitter": "https://abema.app/cerN",
+        "facebook": "https://abema.app/QHsh",
+        "google": "https://abema.app/4Zaz",
+        "line": "https://abema.app/VruP",
+        "copy": "https://abema.app/2K4G",
+        "instagram": "https://abema.app/rFMK"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/512-11_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/512-11_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/512-11_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.512-11_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.0370416666667,
+        "opening": {
+            "start": 137.512375,
+            "end": 226.97675
+        },
+        "ending": {
+            "start": 1330.0370416666667,
+            "end": 1420.043625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "512-11_s1_p8",
+        "title": "第8話『また会おう、スミス』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711710477,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/512-11_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "512-11_eg0"
+}

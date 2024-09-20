@@ -1,0 +1,144 @@
+{
+    "id": "19-147_s1_p9",
+    "series": {
+        "id": "19-147",
+        "title": "四月は君の嘘",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-147",
+            "filename": "thumb.png",
+            "query": "version=1675735000",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-147",
+            "filename": "portrait.png",
+            "query": "version=1675735000",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-147_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1372
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "#09 共鳴",
+        "content": "絵見は、あこがれのピアニストだった公生に想いを伝えるべく熱演を披露する。ステージを終えたばかりの絵見は、公生のもとに向うが、かける言葉はなかった。想いは全部、ピアノに込めたのだから。そしていよいよステージに向かう公生。ピアノを前にした公生に、亡き母の幻影が語り掛ける。過去と対峙する公生の音楽の旅がはじまった。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "有馬公生：花江夏樹",
+            "宮園かをり：種田梨沙",
+            "澤部椿：佐倉綾音",
+            "渡亮太：逢坂良太",
+            "相座武士：梶裕貴",
+            "井川絵見：早見沙織"
+        ],
+        "crews": [
+            "原作：新川直司「月刊少年マガジン」連載／講談社",
+            "監督：イシグロキョウヘイ",
+            "シリーズ構成・脚本：吉岡たかを",
+            "キャラクターデザイン・総作画監督：愛敬由紀子",
+            "音響監督：明田川仁",
+            "音楽：横山克",
+            "アニメーション制作：A‐1 Pictures"
+        ],
+        "copyrights": [
+            "(C)新川直司・講談社／「四月は君の嘘」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683787653,
+    "endAt": 1756652400,
+    "freeEndAt": 1726487100,
+    "transcodeVersion": "4Yrsan",
+    "sharedLink": {
+        "twitter": "https://abema.app/zSnN",
+        "facebook": "https://abema.app/2XuX",
+        "google": "https://abema.app/q34r",
+        "line": "https://abema.app/CMQJ",
+        "copy": "https://abema.app/UDDm",
+        "instagram": "https://abema.app/9GTJ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-147_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-147_s1_p9/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-147_s1_p9/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-147_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-147_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1281.136388
+    },
+    "nextProgramInfo": {
+        "programId": "19-147_s1_p10",
+        "title": "#10 君といた景色",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683787653,
+        "endAt": 1756652400,
+        "freeEndAt": 1726487100,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726487100
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-147_s1_p9/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726487100
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "19-147_eg0"
+}

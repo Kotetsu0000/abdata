@@ -1,0 +1,182 @@
+{
+    "id": "30-5_s3_p47",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s3",
+        "sequence": 3,
+        "name": "Season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1435
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 47,
+        "title": "#47 友人",
+        "content": "ロッド巨人は倒され、自らとどめを刺したヒストリアは住民や兵士たちの前で自分が真の王であることを宣言する。その頃、礼拝堂の崩落現場から脱出したケニーは大量の血を流し、息も絶え絶えになりながら横たわっていた。ケニーの脳裏に浮かんでは消える自らの壮絶な生涯―。ふと気がつくと、目の前にはリヴァイが立っていた。ケニーは生きるための最後のあがきをするかのように、巨人化する薬品の入った注射器を取り出すのだった…"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "エレン・イェーガー：梶 裕貴",
+            "ミカサ・アッカーマン：石川由依",
+            "アルミン・アルレルト：井上麻里奈",
+            "コニー・スプリンガー：下野 紘",
+            "サシャ・ブラウス：小林ゆう",
+            "クリスタ・レンズ：三上枝織",
+            "ジャン・キルシュタイン：谷山紀章",
+            "ライナー・ブラウン：細谷佳正",
+            "ベルトルト・フーバー：橋詰知久",
+            "ハンジ・ゾエ：朴 璐美",
+            "エルヴィン・スミス：小野大輔",
+            "リヴァイ：神谷浩史",
+            "ケニー・アッカーマン：山路和弘",
+            "ロッド・レイス：屋良有作"
+        ],
+        "crews": [
+            "原作：諫山 創（別冊少年マガジン連載／講談社）",
+            "総監督：荒木哲郎",
+            "監督:肥塚正史",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇 聡",
+            "助監督：田中洋之",
+            "アクション作画監督：今井有文、世良悠子、胡拓磨",
+            "美術設定：谷内優穂、藤井一志",
+            "巨人設定：千葉崇明",
+            "プロップデザイン：胡拓磨",
+            "色彩設計：橋本 賢",
+            "美術監督：吉原俊一郎",
+            "3DCG監督：廣住茂徳",
+            "3DCGプロデューサー：籔田修平",
+            "撮影監督：山田和弘",
+            "編集：肥田 文",
+            "音響監督：三間雅文",
+            "音楽：澤野弘之",
+            "オープニングテーマ：YOSHIKI feat. HYDE",
+            "エンディングテーマ：Linked Horizon",
+            "音響効果：倉橋静男",
+            "音響制作：テクノサウンド",
+            "アニメーション制作：WIT STUDIO"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248134,
+    "endAt": 1730386800,
+    "transcodeVersion": "3DL7Se",
+    "sharedLink": {
+        "twitter": "https://abema.app/h2fo",
+        "facebook": "https://abema.app/sVmr",
+        "google": "https://abema.app/BHTq",
+        "line": "https://abema.app/9e3H",
+        "copy": "https://abema.app/wAZB",
+        "instagram": "https://abema.app/UZbV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/30-5_s3_p47/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/30-5_s3_p47/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/30-5_s3_p47/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-5_s3_p47"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.018555,
+        "opening": {
+            "start": 46.069222,
+            "end": 136.0321
+        },
+        "ending": {
+            "start": 1330.018555,
+            "end": 1419.925144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-5_s3_p48",
+        "title": "#48 傍観者",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248134,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-5_s3_p47/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

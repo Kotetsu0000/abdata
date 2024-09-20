@@ -1,0 +1,156 @@
+{
+    "id": "198-10_s1_p9",
+    "series": {
+        "id": "198-10",
+        "title": "30歳まで童貞だと魔法使いになれるらしい",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-10",
+            "filename": "thumb.png",
+            "query": "version=1703155887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-10",
+            "filename": "portrait.png",
+            "query": "version=1703155887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "198-10_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話",
+        "content": "湊は、かつてのダンス仲間の六角が社会人として立派にやっていることに引け目を感じていた。だが柘植の言葉に突き動かされ、六角と再び対話をする機会を得る。\n　一方安達は長崎へ転勤の話が持ち上がり、突然の栄転と黒沢と離れてしまう不安との間で悩んでいた。黒沢に言えないままでいたある日、黒沢は上司の朝比奈から安達の転勤の話を聞いてしまう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "安達 清役：小林千晃",
+            "黒沢優一役：鈴木崚汰",
+            "柘植将人役：古川 慎",
+            "綿矢 湊役：佐藤 元"
+        ],
+        "crews": [
+            "監督：奥田佳子",
+            "キャラクターデザイン：岸田隆宏",
+            "シリーズ構成：金春智子",
+            "美術設定：古宮陽子",
+            "美術監督：佐藤豪志",
+            "色彩設計：中山久美子",
+            "撮影監督：久保田 淳",
+            "編集：兼重涼子",
+            "音響監督：宮村優子",
+            "音響効果：小山健二",
+            "音響制作：ダックスプロダクション",
+            "音楽：長谷川智樹",
+            "音楽制作：エイベックス・ピクチャーズ"
+        ],
+        "copyrights": [
+            "(C)豊田悠／SQUARE ENIX・アニメ「チェリまほ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711631504,
+    "endAt": 1806505200,
+    "transcodeVersion": "51cGGM",
+    "sharedLink": {
+        "twitter": "https://abema.app/9Dhb",
+        "facebook": "https://abema.app/uYx1",
+        "google": "https://abema.app/2hkd",
+        "line": "https://abema.app/6AcY",
+        "copy": "https://abema.app/1Cmn",
+        "instagram": "https://abema.app/VngR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/198-10_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/198-10_s1_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/198-10_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.198-10_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1314.9803333333334,
+        "opening": {
+            "end": 89.964875
+        },
+        "ending": {
+            "start": 1314.9803333333334,
+            "end": 1404.9452083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "198-10_s1_p10",
+        "title": "第10話",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711631504,
+        "endAt": 1806505200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1806505200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/198-10_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1806505200
+        }
+    ],
+    "episodeGroupId": "198-10_eg0"
+}

@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s1_p4",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1489
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 大都会暗号マップ事件",
+        "content": "偶然謎の図形と「ORO」という文字が書かれた紙を手に入れたコナンと同級生三人組。宝の地図に違いないと、早速捜索を開始したが、実はその暗号は、現在逃走中のイタリアの強盗団が隠したという金貨のありかを示したものだった。暗号を解読し、忍び寄る強盗団をかいくぐり、見事お宝にたどり着くことができるのか！？"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、柳内一彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066295,
+    "endAt": 1740754800,
+    "transcodeVersion": "29iAwS",
+    "sharedLink": {
+        "twitter": "https://abema.app/VG9n",
+        "facebook": "https://abema.app/Tav1",
+        "google": "https://abema.app/MZ9n",
+        "line": "https://abema.app/rbvB",
+        "copy": "https://abema.app/nViX",
+        "instagram": "https://abema.app/NNjL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1443.442,
+        "opening": {
+            "start": 15.5155,
+            "end": 105.97253333333333
+        },
+        "ending": {
+            "start": 1287.0858,
+            "end": 1378.0767
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s1_p5",
+        "title": "第5話 新幹線大爆破事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066295,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s1_p4/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

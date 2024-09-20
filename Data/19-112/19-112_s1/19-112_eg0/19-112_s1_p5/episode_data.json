@@ -1,0 +1,150 @@
+{
+    "id": "19-112_s1_p5",
+    "series": {
+        "id": "19-112",
+        "title": "いぬやしき",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-112",
+            "filename": "thumb.png",
+            "query": "version=1660556955",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-112",
+            "filename": "portrait.png",
+            "query": "version=1660556955",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-112_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1374
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "#05 獅子神優子",
+        "content": "連続民家襲撃事件が大きく報道され、獅子神の犯行を唯一知る安堂は苦悩する。そんな安堂は偶然目にした「各地の病院で治療困難な患者が回復している」というニュースから、獅子神と同じ能力を持った人物がもう一人いるのではないかと仮説を立てる。安堂が助けを求めるウソの声を上げたところ、安堂の家を大慌てで犬屋敷が訪れた。犬屋敷がニュースで報じられていた重病人を回復させている人物である事を聞いた安堂は、犬屋敷を本物のヒーローだと称賛し、獅子神を止めて欲しいと懇願する。一方、離婚して別居している父親の家から帰宅した獅子神は、最愛の母から末期のがんに侵されていることを告げられる・・・。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "犬屋敷 壱郎：小日向文世",
+            "獅子神 皓：村上虹郎",
+            "安堂 直行：本郷奏多",
+            "犬屋敷麻理：上坂すみれ",
+            "渡辺しおん：諸星すみれ"
+        ],
+        "crews": [
+            "原作：奥浩哉（講談社「イブニングKC」所載）",
+            "総監督：さとうけいいち（「TIGER&BUNNY」「神撃のバハムート VIRGIN SOUL」監督、「GANTZ:O」総監督）",
+            "監督：籔田修平（「甲鉄城のカバネリ」「進撃の巨人」3D監督）",
+            "シリーズ構成・脚本：瀬古浩司（「亜人」「残響のテロル」）",
+            "キャラクターデザイン：恩田尚之（「神撃のバハムート VIRGIN SOUL」「GANTZ」キャラクターデザイン・総作画監督）",
+            "音楽：池頼広（「相棒」「TIGER&BUNNY」「神撃のバハムート VIRGIN SOUL」）",
+            "オープニング・テーマ：MAN WITH A MISSION「My Hero」",
+            "エンディング・テーマ：クアイフ「愛を教えてくれた君へ」",
+            "制作：MAPPA（「この世界の片隅に」「ユーリ!!! on ICE」）"
+        ],
+        "copyrights": [
+            "(C)奥浩哉・講談社／アニメ「いぬやしき」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682400385,
+    "endAt": 1759244400,
+    "transcodeVersion": "37WRUY",
+    "sharedLink": {
+        "twitter": "https://abema.app/SeFD",
+        "facebook": "https://abema.app/UDsB",
+        "google": "https://abema.app/s5wz",
+        "line": "https://abema.app/bVq8",
+        "copy": "https://abema.app/NLEu",
+        "instagram": "https://abema.app/33qi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-112_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-112_s1_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-112_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-112_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.213167
+    },
+    "nextProgramInfo": {
+        "programId": "19-112_s1_p6",
+        "title": "#06 2chの人たち",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1682400385,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-112_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-112_eg0"
+}

@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p936",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 651
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 936,
+        "title": "#936 時代を超えてお買い物",
+        "content": "部屋で貯金箱の中身を数えていたのび太は、パパからコーラを買ってくるよう頼まれる。しぶしぶ買いに行くと、店は休み。それなら近くの自動販売機で買ってくるようにと言われたのび太は、ドラえもんにたのもうと自分の部屋に戻る。\n　ところが、ドラえもんは部屋にはおらず、自動販売機のような機械が置いてあった。「コーラが出てくると助かるな」と言いながら、試しにお金を入れてレバーを引いたところ、瓶入りのコーラが何本も出てきたからビックリ！ 続いて、ママから頼まれた洗濯用洗剤を出そうと、再びお金を入れてレバーを引いてみると、洗濯セッケンが何個も出てきて…！？"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335977,
+    "endAt": 1751295600,
+    "transcodeVersion": "6mwmUe",
+    "sharedLink": {
+        "twitter": "https://abema.app/i8GU",
+        "facebook": "https://abema.app/LgWc",
+        "google": "https://abema.app/NnTK",
+        "line": "https://abema.app/VUoE",
+        "copy": "https://abema.app/pZQ1",
+        "instagram": "https://abema.app/muQi"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p936/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p936/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p936/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p936"
+    },
+    "viewingPoint": {
+        "suggestion": 646.89625
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p937",
+        "title": "#937 ウルトラ恵方巻き",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335977,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p936/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

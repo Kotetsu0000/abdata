@@ -1,0 +1,97 @@
+{
+    "id": "420-61",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "SHY",
+    "content": "21世紀半ば、地球から戦争が無くなった――\n　各国に突如現れた超人的な力を持ち、平和を願う“ヒーロー”によって、世界は大きく変化したのだ。\n　新たに得られた平和を維持すべく各国のヒーローたちが活躍する世界において、日本の平和を担っていたのは、人前に出るのが超絶苦手な“恥ずかしがり屋”の少女ヒーロー、シャイだった。",
+    "seasons": [
+        {
+            "id": "420-61_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-61_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1717752357",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-61_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "420-61_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-61_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1721295796",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-61_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "420-61_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)実樹ぶきみ（秋田書店）／SHY製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726206797683831950",
+    "imageUpdatedAt": 1721295768,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/3Hu1",
+        "facebook": "https://abema.app/MX2V",
+        "google": "https://abema.app/LGuK",
+        "line": "https://abema.app/5XP3",
+        "copy": "https://abema.app/LLKs",
+        "instagram": "https://abema.app/SCYk"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-61",
+        "filename": "thumb.png",
+        "query": "version=1721295768",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-61",
+        "filename": "portrait.png",
+        "query": "version=1721295768",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

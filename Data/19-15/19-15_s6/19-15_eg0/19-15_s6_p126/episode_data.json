@@ -1,0 +1,147 @@
+{
+    "id": "19-15_s6_p126",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 126,
+        "title": "第126話 ラストステージ",
+        "content": "ベストジーニストとルミリオンの加勢と、八百万たちがギガントマキアに敢行した決死の作戦の効果により、ヒーローたちは敵<ヴィラン>を追い詰めていく。その時、死柄木を、仲間を救うため、Mr.コンプレスが自らを犠牲にした一世一代の脱出ショウを見せる！さらに状況が変わる中、死柄木の体を一時的に乗っ取ったオール・フォー・ワン(AFO)の命令により、大量の脳無たちが出現し、AFOはコンプレスたちを捨て、動ける者のみを連れての撤退を狙う。それを追うデク、そしてデクの中に芽生えたある思いとは…!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872427,
+    "endAt": 1759244400,
+    "transcodeVersion": "37sRVp",
+    "sharedLink": {
+        "twitter": "https://abema.app/KqQf",
+        "facebook": "https://abema.app/oMQE",
+        "google": "https://abema.app/rgNb",
+        "line": "https://abema.app/XFaP",
+        "copy": "https://abema.app/FfZ4",
+        "instagram": "https://abema.app/FToa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s6_p126/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s6_p126/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s6_p126/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p126"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.05875,
+        "opening": {
+            "start": 74.99158333333334,
+            "end": 164.99816666666666
+        },
+        "ending": {
+            "start": 1310.05875,
+            "end": 1399.9819166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s6_p127",
+        "title": "第127話 極々、地獄",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872427,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p126/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

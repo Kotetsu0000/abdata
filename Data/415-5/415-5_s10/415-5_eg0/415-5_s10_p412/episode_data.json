@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s10_p412",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s10",
+        "sequence": 10,
+        "name": "season10",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1485
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 412,
+        "title": "第412話 神社鳥居ビックリ暗号（後編）",
+        "content": "コナンは歩美の言葉からヒントを得て、阿笠の暗号を解読。その後、ついに元太らは自分たちの力で暗号の答えに辿り着き、早速、お宝のある神社の鳥居へ向かう。阿笠は暗号を考えた時の状況を回想。阿笠の話を聞いていたコナンは、見山の宿泊した部屋に残された暗号の本当の意味に気付き、蘭の携帯に連絡を入れるが…。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066305,
+    "endAt": 1740754800,
+    "transcodeVersion": "5tP7dz",
+    "sharedLink": {
+        "twitter": "https://abema.app/xZmq",
+        "facebook": "https://abema.app/uoct",
+        "google": "https://abema.app/peig",
+        "line": "https://abema.app/wuq9",
+        "copy": "https://abema.app/m9du",
+        "instagram": "https://abema.app/akdh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s10_p412/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s10_p412/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s10_p412/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s10_p412"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.4723666666666,
+        "opening": {
+            "start": 18.084733333333332,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1273.9727,
+            "end": 1358.8575
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s10_p413",
+        "title": "第413話 完全半分犯罪の謎",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066305,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s10_p412/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

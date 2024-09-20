@@ -1,0 +1,144 @@
+{
+    "id": "106-1zxpewrca-r_s0_p9",
+    "series": {
+        "id": "106-1zxpewrca-r",
+        "title": "響け！ユーフォニアム",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/106-1zxpewrca-r",
+            "filename": "thumb.png",
+            "query": "version=1715504351",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/106-1zxpewrca-r",
+            "filename": "portrait.png",
+            "query": "version=1715504351",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "106-1zxpewrca-r_s1",
+        "sequence": 1,
+        "name": "響け!ユーフォニアム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第九回 おねがいオーディション",
+        "content": "コンクールメンバーを決めるオーディションの日がやって来た。3年生も1年生も関係なく審査される場で、部員たちは自分の力を発揮しなければならない。そして、コンクールに出場できるメンバーが発表される。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "黄前久美子：黒沢ともよ",
+            "加藤葉月：朝井彩加",
+            "川島緑輝：豊田萌絵",
+            "高坂麗奈：安済知佳",
+            "滝昇：櫻井孝宏"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "脚本：花田十輝",
+            "キャラクターデザイン：池田晶子",
+            "シリーズ演出：山田尚子"
+        ],
+        "copyrights": [
+            "(C)武田綾乃・宝島社／『響け！』製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1720004440,
+    "endAt": 1751295600,
+    "freeEndAt": 1726938000,
+    "transcodeVersion": "6UqKcx",
+    "sharedLink": {
+        "twitter": "https://abema.app/pKto",
+        "facebook": "https://abema.app/rq5L",
+        "google": "https://abema.app/EB4Q",
+        "line": "https://abema.app/b4HB",
+        "copy": "https://abema.app/5gx8",
+        "instagram": "https://abema.app/dzZn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/106-1zxpewrca-r_s0_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/106-1zxpewrca-r_s0_p9/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/106-1zxpewrca-r_s0_p9/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/106-1zxpewrca-r_s0_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.106-1zxpewrca-r_s0_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.976844,
+        "opening": {
+            "start": 16.164342,
+            "end": 106.015811
+        },
+        "ending": {
+            "start": 1329.976844,
+            "end": 1420.024911
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "106-1zxpewrca-r_s0_p10",
+        "title": "第十回 まっすぐトランペット",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1720004440,
+        "endAt": 1751295600,
+        "freeEndAt": 1726938000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726938000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/106-1zxpewrca-r_s0_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726938000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "106-1zxpewrca-r_eg0"
+}

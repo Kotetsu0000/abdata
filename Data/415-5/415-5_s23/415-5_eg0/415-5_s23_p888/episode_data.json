@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s23_p888",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s23",
+        "sequence": 23,
+        "name": "season23",
+        "thumbComponent": {},
+        "order": 23
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 888,
+        "title": "第888話 怪盗キッドの絡繰箱（後編）",
+        "content": "次郎吉は怪盗キッドをおびき出すため、世界最大の月長石、月の記憶が入った絡繰箱を展示。コナンはキッドが傍にいる気配を感じて警戒する。皆は公華が寄贈した本1万冊の中にある箱の開け方が書かれた紙を見つける事に。この後、コナンは紙の在処、箱の本当の中身に気付くが、キッドが動き出して…。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "Vojym",
+    "sharedLink": {
+        "twitter": "https://abema.app/rLWX",
+        "facebook": "https://abema.app/8Ama",
+        "google": "https://abema.app/RUYp",
+        "line": "https://abema.app/GJVY",
+        "copy": "https://abema.app/YB5X",
+        "instagram": "https://abema.app/Me3x"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p888/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p888/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s23_p888/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s23_p888"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 120.95416666666667,
+            "end": 219.96975
+        },
+        "ending": {
+            "start": 1274.147875,
+            "end": 1354.0610416666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s23_p889",
+        "title": "第889話 新任教師の骸骨事件（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s23_p888/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

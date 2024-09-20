@@ -1,0 +1,92 @@
+{
+    "id": "415-3",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "MIX MEISEI STORY",
+    "content": "舞台は「タッチ」と同じ「明青学園」。「タッチ」の主人公「上杉達也」の伝説から約30年、今、運命の兄弟が物語の扉を開く・・・親の再婚によって、血は繋がらないが誕生日が同じ、双子？の兄弟となった「立花投馬」と「立花走一郎」は、明青学園・中等部の野球部に所属する中学2年生。\n走一郎は捕手、打者として活躍。投馬は「ある理由」から三塁手を務めているが、人並み外れた投手の才能を隠し持っていた。\n走一郎の実妹で、投馬とは血の繋がらない義理の妹「立花音美」も中学に入学し、2人の周囲はなにやら騒がしい。\nやがて高校に進学する2人は、甲子園の土を踏むことが出来るのか・・・",
+    "seasons": [
+        {
+            "id": "415-3_s1",
+            "sequence": 1,
+            "name": "MIX MEISEI STORY",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/415-3_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1675922283",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "415-3_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "415-3_s2",
+            "sequence": 2,
+            "name": "MIX MEISEI STORY ～二度目の夏、空の向こうへ～",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/415-3_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1706845152",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "415-3_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C) あだち充・小学館／読売テレビ・ShoPro"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1723632172596660642",
+    "imageUpdatedAt": 1675922259,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/jr7o",
+        "facebook": "https://abema.app/U3Y4",
+        "google": "https://abema.app/safp",
+        "line": "https://abema.app/xvHg",
+        "copy": "https://abema.app/DeSE",
+        "instagram": "https://abema.app/k6pE"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+        "filename": "thumb.png",
+        "query": "version=1675922259",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+        "filename": "portrait.png",
+        "query": "version=1675922259",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

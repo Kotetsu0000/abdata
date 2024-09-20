@@ -1,0 +1,164 @@
+{
+    "id": "19-192_s1_p9",
+    "series": {
+        "id": "19-192",
+        "title": "バーテンダー 神のグラス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-192",
+            "filename": "thumb.png",
+            "query": "version=1711692719",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-192",
+            "filename": "portrait.png",
+            "query": "version=1711692719",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-192_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 North Wind",
+        "content": "美和に連れられ歌舞伎町のバーを訪ねた溜。間違えて入った店は、かつての兄弟子・北方の営むバー”North Wind”だった。北方は、二人の師匠である加瀬五郎の現在の居場所を知っていると告げる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "佐々倉溜：寺島拓篤",
+            "来島美和：南條愛乃",
+            "樋口由香利：白石晴香",
+            "金城ユリ：白石涼子",
+            "川上京子：松井恵理子",
+            "ケルビン・チェン：古川慎",
+            "北方：東地宏樹",
+            "葛原隆一：内田直哉",
+            "来島泰三：麦人"
+        ],
+        "crews": [
+            "原作：城アラキ／長友健篩 「バーテンダー」（集英社刊）",
+            "監督：倉谷涼一",
+            "シリーズ構成：國澤真理子",
+            "キャラクターデザイン：植田羊一",
+            "総作画監督：植田羊一・牛島勇二",
+            "プロップデザイン：中原清隆・jimao",
+            "美術監督：倉田憲一",
+            "色彩設計：漆戸幸子",
+            "撮影監督：國重元宏",
+            "編集：徳田 俊",
+            "音響監督：明田川仁",
+            "音楽：堤 博明",
+            "オープニングテーマ：「Stardust Memory」川崎鷹也",
+            "エンディングテーマ：「スピカ」上白石萌音",
+            "アニメーション制作：リーベル"
+        ],
+        "copyrights": [
+            "(C)城アラキ・長友健篩／集英社・Bar hoppers"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719224678,
+    "endAt": 1751295600,
+    "transcodeVersion": "6cahxC",
+    "sharedLink": {
+        "twitter": "https://abema.app/32K8",
+        "facebook": "https://abema.app/bJiK",
+        "google": "https://abema.app/KBMK",
+        "line": "https://abema.app/cLLS",
+        "copy": "https://abema.app/cA4K",
+        "instagram": "https://abema.app/xtsx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-192_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-192_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-192_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-192_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.08375,
+        "opening": {
+            "start": 85.00158333333333,
+            "end": 175.00816666666665
+        },
+        "ending": {
+            "start": 1335.08375,
+            "end": 1425.048625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-192_s1_p10",
+        "title": "第10話 心の棘",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1719224678,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726562700
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-192_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726562700
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727231700
+        }
+    ],
+    "episodeGroupId": "19-192_eg0"
+}

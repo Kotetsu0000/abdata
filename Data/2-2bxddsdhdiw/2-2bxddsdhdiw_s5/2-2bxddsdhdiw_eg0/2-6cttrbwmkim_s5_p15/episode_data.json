@@ -1,0 +1,148 @@
+{
+    "id": "2-6cttrbwmkim_s5_p15",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s5",
+        "sequence": 5,
+        "name": "第5シリーズ",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 アグレッシブ・ベースボール",
+        "content": "決勝トーナメント第1戦の相手はキューバ。妹の美穂と電話で話した寿也は、スタメンで出場している。キューバの先発投手は左腕のブラーボ。この大会初登板、日本チームにとっては予想外の相手だ。そして、そのブラーボは多彩なカーブを武器に日本打線にすきを見せない。日本代表はピンチに追い込まれるが…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "佐藤寿也：森田成一",
+            "京四郎：内田夕夜",
+            "板尾：乃村健次",
+            "勝呂：松本保典"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理敬　吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "2hQGYy",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/kyfFs",
+        "facebook": "https://gxyt4.app.goo.gl/aTuiP",
+        "google": "https://gxyt4.app.goo.gl/8nQK7",
+        "line": "https://gxyt4.app.goo.gl/L9up1",
+        "copy": "https://gxyt4.app.goo.gl/7gkyH",
+        "instagram": "https://gxyt4.app.goo.gl/SQfT2"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-6cttrbwmkim_s5_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 76.383202,
+            "end": 163.182311
+        },
+        "ending": {
+            "start": 1365.462821,
+            "end": 1454.508561
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-6cttrbwmkim_s5_p16",
+        "title": "第16話 それぞれの覚悟",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-6cttrbwmkim_s5_p15/timeline",
+        "query": "version=2hQGYy",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

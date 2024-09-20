@@ -1,0 +1,130 @@
+{
+    "id": "184-164_s1_p1",
+    "series": {
+        "id": "184-164",
+        "title": "劇場版 ドラゴンボールZ 激突!!100億パワーの戦士たち",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-164",
+            "filename": "thumb.png",
+            "query": "version=1722479759",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-164",
+            "filename": "portrait.png",
+            "query": "version=1722479759",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "184-164_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2752
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "劇場版 ドラゴンボールZ 激突!!100億パワーの戦士たち",
+        "content": "新ナメック星が正体不明の星に突如襲われる。地球の神デンデから頼まれた悟空は、悟飯、クリリン、亀仙人、ピッコロ、ヤジロベーたちと新ナメック星に向かう。そこに現れたのはあの激戦で悟空に敗れたはずのクウラだった。一度は死んだクウラはサイボーグ化されて甦ったのだ。悟空はスーパーサイヤ人となり、自己修復機能を備えたサイボーグ・クウラと死闘を続けるがいつまでも決着がつかない。そんな中、悟空がしかけた技が裏目に出てクウラからの放電に感電、再起不能に。悟空、危機一髪!そして、そこに現れたのは?!"
+    },
+    "credit": {
+        "released": 1992,
+        "casts": [
+            "孫悟空/孫悟飯:野沢雅子",
+            "ベジータ:堀川亮",
+            "クリリン/ヤジロベー:田中真弓",
+            "ピッコロ:古川登志夫",
+            "亀仙人:宮内幸平",
+            "ウーロン:龍田直樹",
+            "デンデ:鈴木富子",
+            "ミスター・ポポ:西尾徳",
+            "メタルクウラ:中尾隆聖",
+            "ムーリ:あずさ欣平"
+        ],
+        "crews": [
+            "原作:鳥山明",
+            "監督:西尾大介",
+            "脚本:小山高生"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション (C)東映・集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722480390,
+    "endAt": 1756652400,
+    "transcodeVersion": "6cwHWd",
+    "sharedLink": {
+        "twitter": "https://abema.app/qUCS",
+        "facebook": "https://abema.app/SJJd",
+        "google": "https://abema.app/2EjV",
+        "line": "https://abema.app/ci3R",
+        "copy": "https://abema.app/U5n2",
+        "instagram": "https://abema.app/Kpq1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/184-164_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/184-164_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/184-164_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.184-164_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 2650.6062916666665,
+        "opening": {
+            "start": 173.46495833333333,
+            "end": 277.61066666666665
+        },
+        "ending": {
+            "start": 2650.6062916666665,
+            "end": 2746.326916666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/184-164_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726566600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727229000
+        }
+    ],
+    "episodeGroupId": "184-164_eg0"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "143-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ポンコツクエスト～魔王と派遣の魔物たち～",
+    "content": "魔王に仕えるポンコツな魔物「カク」と「イムラ」の、グダグダな日常を描いたコメディアニメ。\n\n魔王様に言われるがまま、さまざまな場所に派遣社員の様に飛ばされる二人。その度文句を言ったり、ケンカしたり…。\nRPGのようなファンタジーの世界で、現代人のようなグチをこぼす彼らは、果たして立派な魔物になれるのか！？\n\n監督脚本は「ヤイヤイ森のコミー」の松本慶祐。プロデュースは「かよえ！チュー学」などの会話劇アニメを得意とし、様々なキャラクターコンテンツを手がけるPie in the sky。",
+    "seasons": [
+        {
+            "id": "143-1_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/143-1_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1711645719",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "143-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)PQC"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726023720755176889",
+    "imageUpdatedAt": 1711645698,
+    "caption": "グダグダな日常を描いたコメディアニメ",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/AB7Z",
+        "facebook": "https://abema.app/zvVq",
+        "google": "https://abema.app/sKpM",
+        "line": "https://abema.app/psSq",
+        "copy": "https://abema.app/YkuY",
+        "instagram": "https://abema.app/kQ39"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-1",
+        "filename": "thumb.png",
+        "query": "version=1711645698",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-1",
+        "filename": "portrait.png",
+        "query": "version=1711645698",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "1話〜45話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

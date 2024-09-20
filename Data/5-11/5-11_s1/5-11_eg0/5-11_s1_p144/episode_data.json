@@ -1,0 +1,147 @@
+{
+    "id": "5-11_s1_p144",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1457
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 144,
+        "title": "第144話 怪盗紳士からの挑戦状",
+        "content": "美術鑑定士・藤田時継のもとに怪盗紳士からの予告状が届いた。名画「朝日のあたる家」を、本物の朝日が三度昇るまでに盗み出すというのだ。美術雑誌の編集者や保険外交員など関係者が集まって厳重な警戒網を敷く中、何者かが屋敷に忍び込んで藤田を襲う。怪盗紳士の挑戦を受けて立つはじめは果たして…？"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833283,
+    "endAt": 1732978800,
+    "transcodeVersion": "252ANX",
+    "sharedLink": {
+        "twitter": "https://abema.app/mR6S",
+        "facebook": "https://abema.app/xWPw",
+        "google": "https://abema.app/G5m4",
+        "line": "https://abema.app/hChj",
+        "copy": "https://abema.app/X1ah",
+        "instagram": "https://abema.app/cQeG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-11_s1_p144/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-11_s1_p144/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-11_s1_p144/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p144"
+    },
+    "viewingPoint": {
+        "suggestion": 1332.053922,
+        "opening": {
+            "end": 99.989855
+        },
+        "ending": {
+            "start": 1332.053922,
+            "end": 1426.982188
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p145",
+        "title": "第145話 怪奇サーカスの殺人 ファイル1",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833283,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p144/timeline",
+        "query": "version=252ANX",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

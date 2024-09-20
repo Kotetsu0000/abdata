@@ -1,0 +1,167 @@
+{
+    "id": "25-259_s1_p20",
+    "series": {
+        "id": "25-259",
+        "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "thumb.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "portrait.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-259_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_28",
+                "name": "歴史・戦記"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20幕 教会の少女と粉挽きの少年",
+        "content": "異教の神々の話を集める修道士がいる。ホロの故郷・ヨイツの伝承を求め、ロレンスとホロはその修道士の居場所を知るために、エンベルクにほど近い、テレオという小さな村の教会を訪ねる。テレオに着いた二人は、粉挽きをしている少年エヴァン、そして教会の司祭代理をつとめる少女エルサと会う。エルサに司祭について尋ねるが、ロレンスたちは門前払いされてしまい――。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クラフト・ロレンス：福山 潤",
+            "ホロ：小清水亜美"
+        ],
+        "crews": [
+            "原作：支倉凍砂（電撃文庫『狼と香辛料』/ＫＡＤＯＫＡＷＡ刊）",
+            "キャラクター原案：文倉 十",
+            "総監督：高橋丈夫",
+            "監督：さんぺい 聖",
+            "音楽：Kevin Penkin",
+            "プロデュース：ENISHIYA",
+            "アニメーション制作：パッショーネ"
+        ],
+        "copyrights": [
+            "(C)2024 支倉凍砂・KADOKAWA／ローエン商業組合"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725962588,
+    "endAt": 1790780400,
+    "freeEndAt": 1727096400,
+    "transcodeVersion": "64Pkwk",
+    "sharedLink": {
+        "twitter": "https://abema.app/gZRd",
+        "facebook": "https://abema.app/jkTb",
+        "google": "https://abema.app/Qku8",
+        "line": "https://abema.app/dZkQ",
+        "copy": "https://abema.app/R8T9",
+        "instagram": "https://abema.app/CCFV"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-259_s1_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-259_s1_p20/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/25-259_s1_p20/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-259_s1_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-259_s1_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.0337,
+        "opening": {
+            "start": 25.025,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1335.0337,
+            "end": 1425.0236
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-259_s1_p21",
+        "title": "第21幕 異端の村と司祭の契約",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1725962588,
+        "endAt": 1790780400,
+        "freeEndAt": 1727096400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727096400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-259_s1_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727096400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "25-259_eg0"
+}

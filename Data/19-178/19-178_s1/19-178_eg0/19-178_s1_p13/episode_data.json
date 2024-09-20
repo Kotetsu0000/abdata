@@ -1,0 +1,151 @@
+{
+    "id": "19-178_s1_p13",
+    "series": {
+        "id": "19-178",
+        "title": "アマガミSS",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-178",
+            "filename": "thumb.png",
+            "query": "version=1702607248",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-178",
+            "filename": "portrait.png",
+            "query": "version=1702607248",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-178_s1",
+        "sequence": 1,
+        "name": "アマガミSS",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 サイアク",
+        "content": "橘純一と親友の梅原正吉は学校の帰り道に公園に立ち寄ると、ブランコから飛び降りてきた少女と出会う。その女の子から痴漢と疑われて、必死に言い訳をする純一と梅原。なんとか誤解を解消し、帰宅した純一は次の日、妹の美也から校内に住み着いている黒猫の話を聞く。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "前野智昭",
+            "名塚佳織",
+            "新谷良子",
+            "佐藤利奈",
+            "今野宏美",
+            "ゆかな",
+            "伊藤 静",
+            "阿澄佳奈",
+            "寺島拓篤"
+        ],
+        "crews": [
+            "監督：平池芳正",
+            "脚本：高島大輔.平池芳正",
+            "音楽：大森俊之"
+        ],
+        "copyrights": [
+            "(Ｃ)KADOKAWA CORPORATION ENTERBRAIN.",
+            "アマガミSS製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701487411,
+    "endAt": 1735657200,
+    "transcodeVersion": "1GRVT",
+    "sharedLink": {
+        "twitter": "https://abema.app/3bnq",
+        "facebook": "https://abema.app/Zvt1",
+        "google": "https://abema.app/Go4e",
+        "line": "https://abema.app/yzHJ",
+        "copy": "https://abema.app/Ecak",
+        "instagram": "https://abema.app/6snA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-178_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-178_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-178_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-178_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0387,
+        "opening": {
+            "start": 50.5505,
+            "end": 136.87006666666667
+        },
+        "ending": {
+            "start": 1340.0720666666666,
+            "end": 1427.0589666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-178_s1_p14",
+        "title": "第14話 トキメキ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1701487435,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-178_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-178_eg0"
+}

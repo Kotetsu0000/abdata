@@ -1,0 +1,164 @@
+{
+    "id": "149-4_s1_p5",
+    "series": {
+        "id": "149-4",
+        "title": "ありふれた職業で世界最強",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-4",
+            "filename": "thumb.png",
+            "query": "version=1681284417",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-4",
+            "filename": "portrait.png",
+            "query": "version=1681284417",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "149-4_s10",
+        "sequence": 10,
+        "name": "ありふれた職業で世界最強",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1417
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "Episode.05 反逆者の住処",
+        "content": "ヒュドラとの戦いで気を失ったハジメは、見知らぬ場所で目を覚ます。ユエに尋ねると、戦闘後、「反逆者の住処」と呼ばれる場所への扉が開いたのだという。二人は地上への道を探すため、辺りを散策し始める。一方、訓練を経て強くなった香織たちは、ハジメを失ったオルクス大迷宮65階層に到達し――。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "南雲ハジメ 深町寿成",
+            "ユエ 桑原由気",
+            "シア・ハウリア 高橋未奈美",
+            "ティオ・クラルス 日笠陽子",
+            "白崎香織 大西沙織",
+            "八重樫雫 花守ゆみり",
+            "天之河光輝 柿原徹也",
+            "畑山愛子 加隈亜衣"
+        ],
+        "crews": [
+            "原作:白米良（オーバーラップ文庫刊）",
+            "イラスト:たかやKi",
+            "監督:よしもときんじ",
+            "シリーズ構成・脚本:佐藤勝一・𠮷本欣司",
+            "音楽:高橋 諒",
+            "キャラクターデザイン・総作画監督:小島智加",
+            "アニメーション制作:asread.×WHITE FOX"
+        ],
+        "copyrights": [
+            "(C)白米良・オーバーラップ/ありふれた製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1723101894,
+    "endAt": 1759244400,
+    "transcodeVersion": "28F55f",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZJFo",
+        "facebook": "https://abema.app/uyad",
+        "google": "https://abema.app/uAY3",
+        "line": "https://abema.app/kNKY",
+        "copy": "https://abema.app/efH3",
+        "instagram": "https://abema.app/6m3d"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/149-4_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/149-4_s1_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/149-4_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.149-4_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.508055,
+        "opening": {
+            "start": 75.014811,
+            "end": 164.9631
+        },
+        "ending": {
+            "start": 1319.508055,
+            "end": 1409.054844
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "149-4_s1_p6",
+        "title": "Episode.06 残念なウサギ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1723101894,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726681200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/149-4_s1_p5/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726681200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727327400
+        }
+    ],
+    "episodeGroupId": "149-4_eg0"
+}

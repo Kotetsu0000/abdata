@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s4_p131",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s4",
+        "sequence": 4,
+        "name": "season4",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1468
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 131,
+        "title": "第131話 競技場無差別脅迫事件（後編）",
+        "content": "五千万円の身代金入りのバッグを持ち去ろうとした犯人は刑事たちに取り押さえられたが、床に転がっていた携帯電話からもう一人の犯人が仲間の解放と、さらに10億円の現金を要求してきた。試合終了までに金を用意しなければ観客を殺すという。目暮警部は捕らえた男を解放し、大観衆の中に潜むもう一人の犯人の姿を捜すが…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066298,
+    "endAt": 1740754800,
+    "transcodeVersion": "yyKCi",
+    "sharedLink": {
+        "twitter": "https://abema.app/4HJV",
+        "facebook": "https://abema.app/ZibL",
+        "google": "https://abema.app/V42g",
+        "line": "https://abema.app/iX1V",
+        "copy": "https://abema.app/vzhc",
+        "instagram": "https://abema.app/zcxW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p131/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p131/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s4_p131/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s4_p131"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.0226,
+        "opening": {
+            "start": 15.749066666666666,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1285.5843,
+            "end": 1370.5358333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s4_p132",
+        "title": "第132話 奇術愛好家殺人事件（事件篇）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066298,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s4_p131/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,153 @@
+{
+    "id": "5-66_s2_p35",
+    "series": {
+        "id": "5-66",
+        "title": "ふたりはプリキュアMaxHeart",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "thumb.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "portrait.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-66_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 35,
+        "title": "第35話　マジヤバ修学旅行 思い出作りは危険な香り",
+        "content": "なぎさとほのかの必死の弁明の甲斐あって、ひかりもこのまま旅行に参加させてもらえることになった。しかし、旅先に来ているのはひかりだけではなかった。ビブリスとウラガノスも、館から消えてしまった少年を捜しに来ていたのだ。なぎさたちは、ウィシュンの予言のことも忘れて旅行を楽しんでいたが…。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "美墨なぎさ：本名陽子",
+            "雪城ほのか：ゆかな",
+            "九条ひかり：田中理恵",
+            "メップル：関 智一",
+            "ミップル：矢島晶子",
+            "ポルン：池澤春菜",
+            "ルルン：谷井あすか",
+            "美墨亮太：高橋直純",
+            "雪城さなえ：野沢雅子",
+            "藤田アカネ：藤田美歌子",
+            "高清水莉奈：徳光由禾",
+            "久保田志穂：仙台エリ",
+            "藤村省吾：岸尾大輔",
+            "クイーン：松谷彼哉"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、大野逸雄、亀田雅之、鶴崎りか、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズディレクター：西尾大介",
+            "シリーズ構成：川崎 良",
+            "キャラクターデザイン：稲上 晃",
+            "色彩設計：沢田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721038808,
+    "endAt": 1740754800,
+    "transcodeVersion": "7W9HEo",
+    "sharedLink": {
+        "twitter": "https://abema.app/zbHe",
+        "facebook": "https://abema.app/mm49",
+        "google": "https://abema.app/qitM",
+        "line": "https://abema.app/JuyT",
+        "copy": "https://abema.app/mUzu",
+        "instagram": "https://abema.app/KmCz"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p35/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p35/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-66_s2_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0103333333334,
+        "opening": {
+            "start": 53.053,
+            "end": 133.06626666666668
+        },
+        "ending": {
+            "start": 1345.0103333333334,
+            "end": 1434.9668666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-66_s2_p36",
+        "title": "第36話　おうちに帰して〜！ ポルンとルルンの大冒険",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721038808,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-66_s2_p35/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-66_eg0"
+}

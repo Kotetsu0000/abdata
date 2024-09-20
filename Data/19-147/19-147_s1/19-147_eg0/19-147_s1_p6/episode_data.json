@@ -1,0 +1,144 @@
+{
+    "id": "19-147_s1_p6",
+    "series": {
+        "id": "19-147",
+        "title": "四月は君の嘘",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-147",
+            "filename": "thumb.png",
+            "query": "version=1675735000",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-147",
+            "filename": "portrait.png",
+            "query": "version=1675735000",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-147_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1372
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "#06 帰り道",
+        "content": "学校の音楽室からピアノの音が流れる。公生の演奏を録音して、みんなで聴きなおしていたのだ。自分の演奏にショックを受ける公生。落ち込んでいる公生を気にもかけず、かをりはすでにコンクールに公生の応募書類を送ってしまったことを報告する。君は何のためにピアノを弾きたいの？そう問いかける、かをり。公生はひとりでピアノに向かう。ピアノと公生二人ぼっちの練習の日々がはじまった。公生に急接近するかをりの姿を見て、椿はさびしさを感じる。そこには彼女が踏み込めない音楽家の世界があった。中学最後の夏、椿はソフトボールの試合中に足を負傷し、惜しいところで負けてしまう。うつむき落ち込んだときに椿の目の前に現れた人物は……公生だった。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "有馬公生：花江夏樹",
+            "宮園かをり：種田梨沙",
+            "澤部椿：佐倉綾音",
+            "渡亮太：逢坂良太",
+            "相座武士：梶裕貴",
+            "井川絵見：早見沙織"
+        ],
+        "crews": [
+            "原作：新川直司「月刊少年マガジン」連載／講談社",
+            "監督：イシグロキョウヘイ",
+            "シリーズ構成・脚本：吉岡たかを",
+            "キャラクターデザイン・総作画監督：愛敬由紀子",
+            "音響監督：明田川仁",
+            "音楽：横山克",
+            "アニメーション制作：A‐1 Pictures"
+        ],
+        "copyrights": [
+            "(C)新川直司・講談社／「四月は君の嘘」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683787653,
+    "endAt": 1756652400,
+    "freeEndAt": 1726487100,
+    "transcodeVersion": "2195vQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/4vu3",
+        "facebook": "https://abema.app/PCiz",
+        "google": "https://abema.app/k6M9",
+        "line": "https://abema.app/FXAH",
+        "copy": "https://abema.app/GW1V",
+        "instagram": "https://abema.app/zpc7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-147_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-147_s1_p6/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-147_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-147_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-147_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1281.511766
+    },
+    "nextProgramInfo": {
+        "programId": "19-147_s1_p7",
+        "title": "#07 カゲささやく",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683787653,
+        "endAt": 1756652400,
+        "freeEndAt": 1726487100,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726487100
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-147_s1_p6/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726487100
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "19-147_eg0"
+}

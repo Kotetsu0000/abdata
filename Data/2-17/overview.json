@@ -1,0 +1,74 @@
+{
+    "id": "2-17",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "title": "きらりん☆レボリューション",
+    "content": "主人公、月島きらりは、元気いっぱい食いしん坊な学園一の美少女中学生。\nそんなきらりが、ある日突然出会った男の子に一目惚れ。\nその男の子が超人気アイドルユニットのメンバーと知ったきらりは、\n近くにいたい一心で、アイドルを目指すことに！！\n目の前に次々現われるたくさんのライバルやハプニングを乗り越え、\nきらりはトップアイドルになれるのか！？  そして恋の行方は！？\nきらりと相棒・ネコのなーさんがくり広げる、どきどきハイテンションコメディー。\nみんなにキラキラな夢と元気を届けます！",
+    "seasons": [
+        {
+            "id": "2-17_s1",
+            "sequence": 1,
+            "name": "きらりん☆レボリューション",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-17",
+                "filename": "thumb.png",
+                "query": "version=1720758792",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "2-17_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)中原杏／小学館・きらりんプロジェクト・テレビ東京"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1723109194489106064",
+    "imageUpdatedAt": 1720758792,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Qp8J",
+        "facebook": "https://abema.app/tTfs",
+        "google": "https://abema.app/gKn7",
+        "line": "https://abema.app/rzBQ",
+        "copy": "https://abema.app/tkdZ",
+        "instagram": "https://abema.app/1Brf"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-17",
+        "filename": "thumb.png",
+        "query": "version=1720758792",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-17",
+        "filename": "portrait.png",
+        "query": "version=1720758792",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

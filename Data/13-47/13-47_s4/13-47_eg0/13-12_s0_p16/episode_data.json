@@ -1,0 +1,144 @@
+{
+    "id": "13-12_s0_p16",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第166話 一つより二つ 一人より二人",
+        "content": "早朝アパートのゴミ捨て場付近で張り込みをしている土方。そこへ寝ぼけている銀時がごみを捨てに来た。しつこく絡む銀時を邪魔に思った土方は（公務執行妨害ならびに警官侮辱罪で）現行犯逮捕するが、もみ合ううちに自分にも手錠がかかってしまう。土方は別の場所で張り込んでいた沖田を呼びつけ自分にかかった手錠を外し、銀時を署まで連行するよう命じるが、沖田は自分の手錠を銀時と土方にかけてしまう。二つの手錠でつながれた銀時と土方。そんな中、ターゲットの過激派攘夷浪人が動き始めた。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1748703600,
+    "transcodeVersion": "3SEfY9",
+    "sharedLink": {
+        "twitter": "https://abema.app/JURq",
+        "facebook": "https://abema.app/536G",
+        "google": "https://abema.app/gP1n",
+        "line": "https://abema.app/coza",
+        "copy": "https://abema.app/T2EC",
+        "instagram": "https://abema.app/u4C5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1364.717999,
+        "opening": {
+            "end": 90
+        },
+        "ending": {
+            "start": 1364.741258,
+            "end": 1453.541266
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p17",
+        "title": "第167話 なめらかなポリゴンは人の心もなめらかにする",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296390,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p16/timeline",
+        "query": "version=3SEfY9",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

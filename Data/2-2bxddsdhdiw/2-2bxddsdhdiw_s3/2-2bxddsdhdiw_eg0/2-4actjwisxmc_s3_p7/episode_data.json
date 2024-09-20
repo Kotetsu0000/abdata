@@ -1,0 +1,148 @@
+{
+    "id": "2-4actjwisxmc_s3_p7",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s3",
+        "sequence": 3,
+        "name": "第3シリーズ",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1505
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 突然の訪問者",
+        "content": "やる気を試した茂野のテストに、全員合格した聖秀の選手たち。翌年の春までに大会予選を勝ち抜けるチームにするため、茂野と樫本のコーチのもと、猛練習が始まった。そんなある日、グラウンドに見知らぬ少年が現れる。練習を見ていた少年に「草野球以下」だと言われて腹をたてる藤井。さらに少年は、吾郎に勝負を申し出る。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "茂野 吾郎：森久保 祥太郎",
+            "清水 薫：笹本 優子",
+            "清水 大河：朴 璐美",
+            "藤井：草尾 毅",
+            "田代：森 訓久"
+        ],
+        "crews": [
+            "原作：満田 拓也",
+            "監督：カサヰ ケンイチ",
+            "福島 利規",
+            "シリーズ構成：土屋 理敬",
+            "脚本：土屋 理敬"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277069,
+    "endAt": 1741446000,
+    "transcodeVersion": "3h4taw",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/EkfHw",
+        "facebook": "https://gxyt4.app.goo.gl/uesHx",
+        "google": "https://gxyt4.app.goo.gl/yccYq",
+        "line": "https://gxyt4.app.goo.gl/sur97",
+        "copy": "https://gxyt4.app.goo.gl/jJJus",
+        "instagram": "https://gxyt4.app.goo.gl/vrYvF"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-4actjwisxmc_s3_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-4actjwisxmc_s3_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-4actjwisxmc_s3_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-4actjwisxmc_s3_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1500.06,
+        "opening": {
+            "end": 89.752294
+        },
+        "ending": {
+            "start": 1395.741262,
+            "end": 1484.432435
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-4actjwisxmc_s3_p8",
+        "title": "第8話 江頭の陰謀",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277069,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-4actjwisxmc_s3_p7/timeline",
+        "query": "version=3h4taw",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

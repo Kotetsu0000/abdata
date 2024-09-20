@@ -1,0 +1,145 @@
+{
+    "id": "13-12_s0_p29",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 29,
+        "title": "第179話 チャランポランな奴程怒ると恐い",
+        "content": "月詠はかつての師匠、地雷亜の手にかかり囚われの身となってしまう。一方、かろうじて全蔵に助け出された銀時は、かつての地雷亜についての話を聞く。彼は前将軍に忠誠を近い、二十年前の天人襲来の際、派閥争いを始めたお庭番たちを次々に手にかけていったらしい。やがて彼の方が消される立場となるのだが、しかし瀕死の重傷を負いながらも逃げ延びていたのだった。今、地雷亜の「忠誠」は自らが育て上げた月詠に向いている。そして、彼女が依って立つものすべてを無くそうと――すなわち、吉原を炎に包み、燃やし尽くそうとしていた！"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296391,
+    "endAt": 1748703600,
+    "transcodeVersion": "5nhu8m",
+    "sharedLink": {
+        "twitter": "https://abema.app/NMVa",
+        "facebook": "https://abema.app/rYyc",
+        "google": "https://abema.app/bVy1",
+        "line": "https://abema.app/qpUD",
+        "copy": "https://abema.app/2NpX",
+        "instagram": "https://abema.app/ZYh7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p29/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p29/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p29/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p29"
+    },
+    "viewingPoint": {
+        "suggestion": 1455.074933,
+        "opening": {
+            "start": 75.599998,
+            "end": 165.599998
+        },
+        "ending": {
+            "start": 1313.105625,
+            "end": 1400.089666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p30",
+        "title": "第180話 大切な荷ほど重く背負い難い",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296391,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p29/timeline",
+        "query": "version=5nhu8m",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

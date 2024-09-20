@@ -1,0 +1,151 @@
+{
+    "id": "25-237_s1_p3",
+    "series": {
+        "id": "25-237",
+        "title": "久保さんは僕を許さない",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "thumb.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "portrait.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-237_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 凡者の贈り物",
+        "content": "家から離れた本屋さんを訪れた白石くん。読み捨てられていた本を見つけて、元に戻そうと手に取ると、それはエッチな本だった。動揺で固まっていると、なぜかモブであるはずの白石くんに、店員の女性が声を掛けてきて……。そしてある冬の日。久保さんとメッセージをしていた白石くんは、遊びに誘われる。日取りを決めた後、改めてカレンダーを確認すると、その日は12月25日で……？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "久保渚咲：花澤香菜",
+            "白石純太：河西健吾",
+            "久保明菜：伊藤美来",
+            "久保沙貴：雨宮 天",
+            "工藤葉月：加隈亜衣",
+            "平玉緒：竹達彩奈"
+        ],
+        "crews": [
+            "原作：雪森寧々（集英社「週刊ヤングジャンプ」連載）",
+            "監督：古賀一臣",
+            "シリーズ構成・脚本：高橋悠也",
+            "キャラクターデザイン：齊藤佳子",
+            "アニメーション制作：PINE JAM"
+        ],
+        "copyrights": [
+            "(C)雪森寧々／集英社・久保さんは僕を許さない製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1687342267,
+    "endAt": 1751295600,
+    "transcodeVersion": "65xYB9",
+    "sharedLink": {
+        "twitter": "https://abema.app/bF7p",
+        "facebook": "https://abema.app/Gjdu",
+        "google": "https://abema.app/Rh56",
+        "line": "https://abema.app/UAbW",
+        "copy": "https://abema.app/qg2t",
+        "instagram": "https://abema.app/DMNN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-237_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-237_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-237_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-237_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.985188,
+        "opening": {
+            "start": 129.042022,
+            "end": 216.042022
+        },
+        "ending": {
+            "start": 1329.985188,
+            "end": 1417.016327
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-237_s1_p4",
+        "title": "第4話 赤いハートと送り主",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1687342267,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-237_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "25-237_eg0"
+}

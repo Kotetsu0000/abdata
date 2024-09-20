@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p906",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 646
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 906,
+        "title": "#906 ドラえもん飼いませんか？",
+        "content": "空き地で捨てネコをひろった、ドラえもん。なんと、その子ネコは、ドラえもんにうりふたつだった!!　\n　自分にそっくりな子ネコをかわいそうに思ったドラえもんは、のび太とともに、飼ってくれる人をさがしはじめる。だが、町中をまわっても、引き取り手は見つからない…。\n　すっかり日もかたむき、ドラえもんとのび太は途方にくれてしまう。そんなとき、ドラえもんは「最後の手段だ」と言って、あるひみつ道具を取りだすのだが…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1746025200,
+    "transcodeVersion": "2bWMs2",
+    "sharedLink": {
+        "twitter": "https://abema.app/EGqd",
+        "facebook": "https://abema.app/ouUK",
+        "google": "https://abema.app/kEo3",
+        "line": "https://abema.app/m6Xv",
+        "copy": "https://abema.app/z3uV",
+        "instagram": "https://abema.app/qkcu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p906/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p906/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p906/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p906"
+    },
+    "viewingPoint": {
+        "suggestion": 641.9413
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p907",
+        "title": "#907 人間味調味料",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p906/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

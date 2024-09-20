@@ -1,0 +1,149 @@
+{
+    "id": "19-183_s2_p16",
+    "series": {
+        "id": "19-183",
+        "title": "けいおん!",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "thumb.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "portrait.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-183_s2",
+        "sequence": 2,
+        "name": "けいおん！！",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 先輩!",
+        "content": "梓は同級生の純に軽音部の1日の活動内容を聞かれ､いつの間にか3年生のペースになじんでいることに気づく｡入部当時のマジメな自分に戻ろうと気合を入れる梓だが･･･｡"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "豊崎愛生",
+            "日笠陽子",
+            "佐藤聡美",
+            "寿 美菜子",
+            "竹達彩奈",
+            "真田アサミ",
+            "米澤 円",
+            "藤東知夏",
+            "永田依子"
+        ],
+        "crews": [
+            "監督：山田尚子",
+            "プロデューサー：中山佳久、中村伸一、太布尚弘、八田陽子",
+            "原作：｢けいおん!｣かきふらい",
+            "脚本：吉田玲子、村元克彦、花田十輝、横谷昌宏",
+            "音楽：百石 元"
+        ],
+        "copyrights": [
+            "(C)かきふらい･芳文社/桜高軽音部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1704340804,
+    "endAt": 1740754800,
+    "freeEndAt": 1726480800,
+    "transcodeVersion": "5pZ6ci",
+    "sharedLink": {
+        "twitter": "https://abema.app/DsiA",
+        "facebook": "https://abema.app/vvy6",
+        "google": "https://abema.app/79w3",
+        "line": "https://abema.app/jQYU",
+        "copy": "https://abema.app/mrLN",
+        "instagram": "https://abema.app/ySHV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-183_s2_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-183_s2_p16/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-183_s2_p16/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-183_s2_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-183_s2_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.8702083333333,
+        "opening": {
+            "start": 37.037,
+            "end": 126.79333333333334
+        },
+        "ending": {
+            "start": 1329.8702083333333,
+            "end": 1419.8350833333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-183_s2_p17",
+        "title": "第17話 部室がない!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1704340804,
+        "endAt": 1740754800,
+        "freeEndAt": 1726480800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726480800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-183_s2_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726480800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-183_eg0"
+}

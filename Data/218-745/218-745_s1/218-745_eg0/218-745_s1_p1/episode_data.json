@@ -1,0 +1,106 @@
+{
+    "id": "218-745_s1_p1",
+    "series": {
+        "id": "218-745",
+        "title": "TVアニメ「異世界スーサイド・スクワッド」♡ABEMAでISEKAIパーティーⅡ♡",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-745",
+            "filename": "thumb.png",
+            "query": "version=1725413889",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-745",
+            "filename": "portrait.png",
+            "query": "version=1725413889",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-745_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1620
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "TVアニメ「異世界スーサイド・スクワッド」♡ABEMAでISEKAIパーティーⅡ♡",
+        "content": "特別番組『TVアニメ「異世界スーサイド・スクワッド」♡ABEMAでISEKAIパーティーⅡ♡』には、永瀬アンナさん(ハーレイ・クイン役)、木村昴さん(キング・シャーク役)、八代拓さん(リック・フラッグ役)らメインキャスト3名が生出演。特番直後の第10話放送に向け、これまでの物語をキャストとともに振り返るほか、『ABEMA オリジナルミッション！SSワードウルフ！』と題したバラエティ企画も実施予定です。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ハーレイ・クイン役：永瀬アンナ",
+            "キング・シャーク役：木村昴",
+            "リック・フラッグ役：八代拓"
+        ],
+        "copyrights": [
+            "Suicide Squad and all related characters and elements © & TM DC © 2024 Warner Bros. Japan LLC"
+        ]
+    },
+    "mediaStatus": {
+        "drm": true
+    },
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725413981,
+    "endAt": 1727623800,
+    "freeEndAt": 1727623800,
+    "transcodeVersion": "6BDsRw",
+    "sharedLink": {
+        "twitter": "https://abema.app/k1WM",
+        "facebook": "https://abema.app/VFKU",
+        "google": "https://abema.app/wUFQ",
+        "line": "https://abema.app/q92m",
+        "copy": "https://abema.app/dAug",
+        "instagram": "https://abema.app/j1xb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-745_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-745_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-745_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-745_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-745_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1615.0134
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-745_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727623800
+        }
+    ],
+    "episodeGroupId": "218-745_eg0"
+}

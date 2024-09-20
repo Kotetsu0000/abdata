@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s2_p29",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 29,
+        "title": "第29話 ヒーロー殺しステインVS雄英生徒",
+        "content": "死柄木が放った脳無が暴れ、保須市の街は大混乱に！そんな中で飯田はついに兄の仇ステインを発見、憎悪に燃える！そして出久は飯田の危険を感じ、現場へと急ぐが…！VSステイン、開戦！"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "オールマイト：三宅健太",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872422,
+    "endAt": 1759244400,
+    "transcodeVersion": "6TjWy",
+    "sharedLink": {
+        "twitter": "https://abema.app/ccA5",
+        "facebook": "https://abema.app/7iso",
+        "google": "https://abema.app/CiuS",
+        "line": "https://abema.app/sYoz",
+        "copy": "https://abema.app/SEuK",
+        "instagram": "https://abema.app/i2mY"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s2_p29/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s2_p29/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s2_p29/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s2_p29"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.0319666666667,
+        "opening": {
+            "start": 24.958266666666667,
+            "end": 114.94816666666667
+        },
+        "ending": {
+            "start": 1310.0420666666666,
+            "end": 1399.9986
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s2_p30",
+        "title": "第30話 決着",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872422,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s2_p29/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

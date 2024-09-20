@@ -1,0 +1,75 @@
+{
+    "id": "5-41",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "逃走中 グレートミッション",
+    "content": "時は、人類が月へと住処を移した未来...。\n月面コロニーでは、あるゲームが大流行していた。\nその名は『逃走中』。\n限られたエリアの中に解き放たれた逃走者たちが、制限時間のカウントがゼロになるまで、追跡アンドロイド〝ハン\nター〟から逃げ切れば、高額賞金を得られるというエンターテインメントサバイバルゲームだ。\nある者は一攫千金を夢見て、またある者は自分の力を試すために、『逃走中』に挑む。",
+    "seasons": [
+        {
+            "id": "5-41_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-41",
+                "filename": "thumb.png",
+                "query": "version=1680170528",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-41_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "（C)フジテレビ・東映アニメーション"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726224958822964366",
+    "imageUpdatedAt": 1680170528,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/FZ5e",
+        "facebook": "https://abema.app/9Rcg",
+        "google": "https://abema.app/QE8H",
+        "line": "https://abema.app/PZfA",
+        "copy": "https://abema.app/rbYS",
+        "instagram": "https://abema.app/pC5v"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-41",
+        "filename": "thumb.png",
+        "query": "version=1680170528",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-41",
+        "filename": "portrait.png",
+        "query": "version=1680170528",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

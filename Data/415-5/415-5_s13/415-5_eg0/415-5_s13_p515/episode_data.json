@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s13_p515",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s13",
+        "sequence": 13,
+        "name": "season13",
+        "thumbComponent": {},
+        "order": 13
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2922
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 515,
+        "title": "第515話 怪盗キッドの瞬間移動魔術（テレポーテーションマジック）",
+        "content": "鈴木次郎吉は伝説のミュール、紫紅の爪を餌にキッドを捕まえようと考えていた。中森警部は隙だらけの展示場所ではキッドの餌食になると次郎吉に詰め寄る。この日、次郎吉は朝刊にキッドへの挑戦状を掲載していた…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：北田修一、小島哲、小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066307,
+    "endAt": 1740754800,
+    "transcodeVersion": "2NykMc",
+    "sharedLink": {
+        "twitter": "https://abema.app/Cvpx",
+        "facebook": "https://abema.app/Z9yr",
+        "google": "https://abema.app/VHWN",
+        "line": "https://abema.app/NTAy",
+        "copy": "https://abema.app/tnft",
+        "instagram": "https://abema.app/7m16"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s13_p515/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s13_p515/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s13_p515/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s13_p515"
+    },
+    "viewingPoint": {
+        "suggestion": 2877.5079666666666,
+        "opening": {
+            "start": 94.56113333333333,
+            "end": 181.5814
+        },
+        "ending": {
+            "start": 2757.3879666666667,
+            "end": 2837.3678666666665
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s13_p516",
+        "title": "第516話 風林火山　迷宮の鎧武者",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066307,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s13_p515/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

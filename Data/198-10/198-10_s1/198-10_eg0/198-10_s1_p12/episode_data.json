@@ -1,0 +1,135 @@
+{
+    "id": "198-10_s1_p12",
+    "series": {
+        "id": "198-10",
+        "title": "30歳まで童貞だと魔法使いになれるらしい",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-10",
+            "filename": "thumb.png",
+            "query": "version=1703155887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-10",
+            "filename": "portrait.png",
+            "query": "version=1703155887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "198-10_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1409
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話",
+        "content": "黒沢と結ばれたことで魔法の力がなくなり、安達は心が読めなくなった。\n　「魔法なんかなくても黒沢となら大丈夫だって思ったからだ」と話す安達の言葉が嬉しくて、黒沢は涙ぐむ。\n　出張から戻った安達は長崎への転勤を正式に受けるが、転勤後の仕事は激務だった。\n　離ればなれの生活の中、安達はこれからも黒沢と一緒にいるために何ができるかを考える。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "安達 清役：小林千晃",
+            "黒沢優一役：鈴木崚汰",
+            "柘植将人役：古川 慎",
+            "綿矢 湊役：佐藤 元"
+        ],
+        "crews": [
+            "監督：奥田佳子",
+            "キャラクターデザイン：岸田隆宏",
+            "シリーズ構成：金春智子",
+            "美術設定：古宮陽子",
+            "美術監督：佐藤豪志",
+            "色彩設計：中山久美子",
+            "撮影監督：久保田 淳",
+            "編集：兼重涼子",
+            "音響監督：宮村優子",
+            "音響効果：小山健二",
+            "音響制作：ダックスプロダクション",
+            "音楽：長谷川智樹",
+            "音楽制作：エイベックス・ピクチャーズ"
+        ],
+        "copyrights": [
+            "(C)豊田悠／SQUARE ENIX・アニメ「チェリまほ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711794032,
+    "endAt": 1806505200,
+    "transcodeVersion": "33WXt4",
+    "sharedLink": {
+        "twitter": "https://abema.app/nkjh",
+        "facebook": "https://abema.app/SDVv",
+        "google": "https://abema.app/fhCz",
+        "line": "https://abema.app/4XHk",
+        "copy": "https://abema.app/1bwC",
+        "instagram": "https://abema.app/pYFd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/198-10_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/198-10_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/198-10_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.198-10_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1404.9869166666667,
+        "opening": {
+            "end": 89.964875
+        },
+        "ending": {
+            "start": 1331.455125,
+            "end": 1396.2281666666668
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/198-10_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1806505200
+        }
+    ],
+    "episodeGroupId": "198-10_eg0"
+}

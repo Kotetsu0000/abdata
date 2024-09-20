@@ -1,0 +1,169 @@
+{
+    "id": "12-25_s1_p3",
+    "series": {
+        "id": "12-25",
+        "title": "小市民シリーズ",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/12-25",
+            "filename": "thumb.png",
+            "query": "version=1717728832",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/12-25",
+            "filename": "portrait.png",
+            "query": "version=1717728832",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "12-25_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1382
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 ハンプティ・ダンプティ",
+        "content": "中間テストがあった日の放課後、小鳩は小佐内に呼び出され、ケーキバイキングができる洋菓子店を訪れた。テスト中にロッカーにあった花瓶が割れたことが原因で、小佐内は思い出しかけていた答えを忘れてしまったのだ。やけ食いをする小佐内からその話を聞いた小鳩は、学校に忘れたスマホを取りに行ったついでに、教室内を調べはじめる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "小鳩常悟朗：梅田修一朗",
+            "小佐内ゆき：羊宮妃那",
+            "堂島健吾：古川慎"
+        ],
+        "crews": [
+            "原作：米澤穂信『春期限定いちごタルト事件』『夏期限定トロピカルパフェ事件』（創元推理文庫 刊）",
+            "監督：神戸守",
+            "シリーズ構成：大野敏哉",
+            "キャラクターデザイン：斎藤敦史",
+            "サブキャラクターデザイン・総作画監督：具志堅眞由",
+            "色彩設計：秋元由紀",
+            "美術監督：伊藤聖（スタジオARA）",
+            "美術設定：青木智由紀・イノセユキエ",
+            "撮影監督：塩川智幸（T2studio）",
+            "CGディレクター：越田祐史",
+            "編集：松原理恵",
+            "音楽：小畑貴裕",
+            "音響監督：清水勝則",
+            "音響効果：八十正太",
+            "アニメーションプロデューサー：渡部正和",
+            "ラインプロデューサー：荒尾匠",
+            "制作会社：ラパントラック"
+        ],
+        "copyrights": [
+            "(C)米澤穂信・東京創元社／小市民シリーズ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726231357,
+    "endAt": 1845990000,
+    "freeEndAt": 1726909200,
+    "transcodeVersion": "7QX6uv",
+    "sharedLink": {
+        "twitter": "https://abema.app/8Evg",
+        "facebook": "https://abema.app/L8Uy",
+        "google": "https://abema.app/Tra9",
+        "line": "https://abema.app/AgWb",
+        "copy": "https://abema.app/UKGX",
+        "instagram": "https://abema.app/trB6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/12-25_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/12-25_s1_p3/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/12-25_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/12-25_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.12-25_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1292.9583333333333,
+        "opening": {
+            "end": 89.964875
+        },
+        "ending": {
+            "start": 1292.9583333333333,
+            "end": 1382.8815
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "12-25_s1_p4",
+        "title": "第4話 狐狼の心",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726231357,
+        "endAt": 1845990000,
+        "freeEndAt": 1726909200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726909200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/12-25_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726909200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1845990000
+        }
+    ],
+    "episodeGroupId": "12-25_eg0"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p48",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 48,
+        "title": "第48話 守れヒーロー！みんなの街！",
+        "content": "スキアヘッドを失った怒りに燃え、カイゼリンは捨て身の行動に出る。バリアが破壊されそうになる中、スカイたちは街を守りながら立ち向かう。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722331190,
+    "endAt": 1740754800,
+    "transcodeVersion": "n13u2",
+    "sharedLink": {
+        "twitter": "https://abema.app/MqRa",
+        "facebook": "https://abema.app/MLew",
+        "google": "https://abema.app/dCNw",
+        "line": "https://abema.app/TKh2",
+        "copy": "https://abema.app/Q8Lr",
+        "instagram": "https://abema.app/Bcr8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p48/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p48/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p48/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p48"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.7640833333332,
+        "opening": {
+            "start": 39.080708333333334,
+            "end": 129.129
+        },
+        "ending": {
+            "start": 1348.7640833333332,
+            "end": 1440.2721666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p49",
+        "title": "第49話 キュアスカイと最強の力",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722331200,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p48/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

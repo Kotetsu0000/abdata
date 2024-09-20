@@ -1,0 +1,140 @@
+{
+    "id": "25-15nn-yaysxby_s0_p1",
+    "series": {
+        "id": "25-15nn-yaysxby",
+        "title": "日常",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-15nn-yaysxby",
+            "filename": "thumb.png",
+            "query": "version=1681283237",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-15nn-yaysxby",
+            "filename": "portrait.png",
+            "query": "version=1681283237",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-15nn-yaysxby_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "日常の第一話",
+        "content": "いつものほのぼのした平日の昼間。いつものゆるゆるとした登校風景。いつもの見慣れた日常が始まるかと思いきや・・・。突然、大爆発が起きたり、シャケが、こけしが、赤ベコが頭に降ってきたり・・・。まったく斬新な非日常が始まったのでした。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "相生祐子:本多真梨子",
+            "長野原みお:相沢舞",
+            "水上麻衣:富樫美鈴",
+            "はかせ:今野宏美",
+            "東雲なの:古谷静佳"
+        ],
+        "crews": [
+            "製作総指揮:安田猛",
+            "原作・構成協力:あらゐけいいち",
+            "シリーズ構成:花田十輝",
+            "キャラクターデザイン:西屋太志",
+            "色彩設計:宮田佳奈"
+        ],
+        "copyrights": [
+            "(C)あらゐけいいち・角川書店／東雲研究所"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1689151300,
+    "endAt": 1751295600,
+    "freeEndAt": 1751295600,
+    "transcodeVersion": "5hGZTy",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/FB74K",
+        "facebook": "https://gxyt4.app.goo.gl/VUsFp",
+        "google": "https://gxyt4.app.goo.gl/o9fKj",
+        "line": "https://gxyt4.app.goo.gl/CU7TL",
+        "copy": "https://gxyt4.app.goo.gl/qxRBG",
+        "instagram": "https://gxyt4.app.goo.gl/3xzxM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-15nn-yaysxby_s0_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-15nn-yaysxby_s0_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-15nn-yaysxby_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-15nn-yaysxby_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-15nn-yaysxby_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1314.9469666666666,
+        "opening": {
+            "start": 140.00653333333332,
+            "end": 229.96306666666666
+        },
+        "ending": {
+            "start": 1314.9469666666666,
+            "end": 1404.9368666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-15nn-yaysxby_s0_p2",
+        "title": "日常の第二話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689151300,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726486200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-15nn-yaysxby_s0_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "25-15nn-yaysxby_eg0"
+}

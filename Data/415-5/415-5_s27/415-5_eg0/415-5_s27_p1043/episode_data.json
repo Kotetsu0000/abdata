@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s27_p1043",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s27",
+        "sequence": 27,
+        "name": "season27",
+        "thumbComponent": {},
+        "order": 27
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1043,
+        "title": "第1043話 復讐のフィギュア",
+        "content": "コナンたち少年探偵団は、光彦の知人の住むマンションへやってくる。彼は、大学のサークル仲間たちとフィギュア制作をしており、そのフィギュアを見せてもらう約束をしていたのだ。制作部屋を見せてもらっていたコナンたちだったが、サークルメンバーの一人は、終始不機嫌そうだ。どうやら現在制作しているフィギュアを出す予定のコンテストに関係があるようだが……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：永井幸治・寺島清晃",
+            "プロデューサー：汐口武史・藤堂真孝",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "（C）青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725861223,
+    "endAt": 1773500400,
+    "transcodeVersion": "3k8xLk",
+    "sharedLink": {
+        "twitter": "https://abema.app/Bbvx",
+        "facebook": "https://abema.app/Gu5r",
+        "google": "https://abema.app/VqKB",
+        "line": "https://abema.app/Le6T",
+        "copy": "https://abema.app/zy14",
+        "instagram": "https://abema.app/HsGu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s27_p1043/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s27_p1043/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s27_p1043/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s27_p1043"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 83.87545833333333,
+            "end": 184.93475
+        },
+        "ending": {
+            "start": 1329.6616666666666,
+            "end": 1409.6165416666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s27_p1044",
+        "title": "第1044話 豚汁は命がけの合図",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1725861223,
+        "endAt": 1773500400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1773500400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s27_p1043/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1773500400
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

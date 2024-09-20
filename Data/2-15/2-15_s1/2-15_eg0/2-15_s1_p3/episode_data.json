@@ -1,0 +1,151 @@
+{
+    "id": "2-15_s1_p3",
+    "series": {
+        "id": "2-15",
+        "title": "姫様\"拷問\"の時間です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "thumb.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "portrait.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-15_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話",
+        "content": "陽鬼と陰鬼に遊園地に誘われた姫。外出許可をトーチャーに求めると、引き換えに王国の秘密を要求されてしまう。拷問官との友情か、王国の秘密を守るのか…姫の答えは？ さらに、姫の前に魔王の一人娘であるマオマオちゃんが現れる。マオマオちゃんから繰り出される“拷問”に敢え無く屈してしまう姫の元に、ある人物が救援に駆け付けた。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "姫：白石晴香",
+            "エクス：小林親弘",
+            "トーチャー・トルチュール：伊藤 静",
+            "魔王：玄田哲章",
+            "陽鬼：永瀬アンナ",
+            "陰鬼：井上ほの花",
+            "クロル：山根 綺",
+            "ジャイアント：茅野愛衣",
+            "マオマオちゃん：日高里菜",
+            "ルルン：中原麻衣"
+        ],
+        "crews": [
+            "原作：春原ロビンソン・ひらけい（集英社「少年ジャンプ＋」連載）",
+            "監督：金森陽子",
+            "シリーズ構成：筆安一幸",
+            "キャラクターデザイン：河野敏弥・古橋 聡",
+            "音響監督：明田川 仁",
+            "音楽：横山 克"
+        ],
+        "copyrights": [
+            "(C)春原ロビンソン・ひらけい／集英社・国王軍第三騎士団"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721886236,
+    "endAt": 1774969200,
+    "freeEndAt": 1727012700,
+    "transcodeVersion": "4KhNAF",
+    "sharedLink": {
+        "twitter": "https://abema.app/p5mc",
+        "facebook": "https://abema.app/2rL1",
+        "google": "https://abema.app/ozoT",
+        "line": "https://abema.app/Vg35",
+        "copy": "https://abema.app/tmZc",
+        "instagram": "https://abema.app/2Qxy"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-15_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-15_s1_p3/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/2-15_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-15_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-15_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.038625,
+        "opening": {
+            "start": 147.272125,
+            "end": 236.98675
+        },
+        "ending": {
+            "start": 1304.05275,
+            "end": 1393.9759166666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-15_s1_p4",
+        "title": "第4話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721886236,
+        "endAt": 1774969200,
+        "freeEndAt": 1727012700,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727012700
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-15_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727012700
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "2-15_eg0"
+}

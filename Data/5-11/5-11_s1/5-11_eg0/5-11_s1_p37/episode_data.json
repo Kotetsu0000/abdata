@@ -1,0 +1,148 @@
+{
+    "id": "5-11_s1_p37",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1441
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 37,
+        "title": "第37話 雪夜叉伝説殺人事件 ファイル1",
+        "content": "はじめは美雪に誘われて、北海道の背氷村にやって来た。テレビ局のアルバイトでドッキリ番組の撮影を手伝っていると、モニターの前で慌てるお色気女優の加納に向かって、誰が扮しているか分からない雪夜叉が手にした斧を振り上げた…。雪夜叉の怨念が引き起こす連続殺人事件に、はじめと明智警視たちが挑んでゆく。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833281,
+    "endAt": 1732978800,
+    "transcodeVersion": "6TYN4M",
+    "sharedLink": {
+        "twitter": "https://abema.app/Jp9r",
+        "facebook": "https://abema.app/S3CM",
+        "google": "https://abema.app/sD79",
+        "line": "https://abema.app/M798",
+        "copy": "https://abema.app/y1Yq",
+        "instagram": "https://abema.app/aYCK"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-11_s1_p37/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-11_s1_p37/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-11_s1_p37/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p37"
+    },
+    "viewingPoint": {
+        "suggestion": 1308.930822,
+        "opening": {
+            "start": 11.789797,
+            "end": 100.123222
+        },
+        "ending": {
+            "start": 1308.930822,
+            "end": 1409.030822
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p38",
+        "title": "第38話 雪夜叉伝説殺人事件 ファイル2",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833281,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p37/timeline",
+        "query": "version=6TYN4M",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

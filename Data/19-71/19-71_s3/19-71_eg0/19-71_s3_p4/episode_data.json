@@ -1,0 +1,185 @@
+{
+    "id": "19-71_s3_p4",
+    "series": {
+        "id": "19-71",
+        "title": "ウマ娘 プリティーダービー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-71",
+            "filename": "thumb.png",
+            "query": "version=1699607304",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-71",
+            "filename": "portrait.png",
+            "query": "version=1699607304",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-71_s3",
+        "sequence": 3,
+        "name": "ウマ娘 プリティーダービー Season 3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1434
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 あたしだけの輝き",
+        "content": "\"直近のレースで２着、３着と惜敗の続いたキタサン。自分にはレースに勝ち切るための何かが足りないと思い悩み、ナイスネイチャに相談していると、ひょんなことから自分の長所は丈夫な体だと気付く。\n早速トレーナーに頼み込み、キタサンはかつてない猛特訓を始めるが……\""
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "キタサンブラック：⽮野妃菜喜",
+            "サトノダイヤモンド：⽴花⽇菜",
+            "サトノクラウン：鈴代紗⼸",
+            "シュヴァルグラン：夏吉ゆうこ",
+            "サウンズオブアース：MAKIKO",
+            "トウカイテイオー：Machico",
+            "メジロマックイーン：⼤⻄沙織",
+            "ゴールドシップ：上⽥瞳",
+            "スペシャルウィーク：和氣あず未",
+            "サイレンススズカ：⾼野⿇⾥佳",
+            "ウオッカ：⼤橋彩⾹",
+            "ダイワスカーレット：⽊村千咲",
+            "ナイスネイチャ：前⽥佳織⾥",
+            "ツインターボ：花井美春",
+            "イクノディクタス：⽥澤茉純",
+            "マチカネタンホイザ：遠野ひかる",
+            "トレーナー：沖野晃司"
+        ],
+        "crews": [
+            "監督：及川 啓",
+            "原作：Cygames",
+            "音楽：UTAMARO movement",
+            "シリーズ構成：永井 真吾",
+            "シナリオディレクター・シリーズ構成：⼩針 哲也",
+            "キャラクターデザイン・総作画監督：椛島 洋介",
+            "キャラクターデザイン：辻 智⼦",
+            "総作画監督：仁井 学・福⽥ 佳太・藤本 さとる",
+            "キャラクターデザイン監修：清永 みなみ",
+            "メインアニメーター：⼩畑 賢・式地 幸喜・中島 順",
+            "美術監督：作⼭ 拓⾒",
+            "⾊彩設計：中野 尚美",
+            "撮影監督：並⽊ 智",
+            "CGディレクター：⻘⽊ ともたか",
+            "編集：髙橋 歩",
+            "⾳響監督：森⽥ 祐⼀",
+            "⾳楽プロデュース：岩代 太郎",
+            "コンテンツディレクター：秋津 琢磨",
+            "アニメーションプロデューサー：増尾 将史・⻄村 謙⼈",
+            "アニメーション制作：スタジオKAI"
+        ],
+        "copyrights": [
+            "(C)2023 アニメ「ウマ娘 プリティーダービー Season 3」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703762160,
+    "endAt": 1735657200,
+    "transcodeVersion": "6N7PcV",
+    "sharedLink": {
+        "twitter": "https://abema.app/Rp6C",
+        "facebook": "https://abema.app/FKvz",
+        "google": "https://abema.app/8cGF",
+        "line": "https://abema.app/C2UW",
+        "copy": "https://abema.app/CZq1",
+        "instagram": "https://abema.app/ce45"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-71_s3_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-71_s3_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-71_s3_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-71_s3_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1356.1881666666666,
+        "opening": {
+            "start": 29.487791666666666,
+            "end": 118.993875
+        },
+        "ending": {
+            "start": 1356.730375,
+            "end": 1432.7646666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-71_s3_p5",
+        "title": "第5話 自分の証明",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703762160,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-71_s3_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-71_eg0"
+}

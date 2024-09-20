@@ -1,0 +1,146 @@
+{
+    "id": "143-2byynwxwmy4_s0_p21",
+    "series": {
+        "id": "143-1",
+        "title": "ポンコツクエスト～魔王と派遣の魔物たち～",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-1",
+            "filename": "thumb.png",
+            "query": "version=1711645698",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-1",
+            "filename": "portrait.png",
+            "query": "version=1711645698",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 244
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 21,
+        "title": "第二十一章",
+        "content": "「腐乱」"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "まつもと けいすけ"
+        ],
+        "crews": [
+            "かんとく・きゃくほん・せいゆう：まつもと けいすけ",
+            "きかく：まつもと けいすけ、しんかい たけと（Pie in the sky）",
+            "プロデュース：Pie in the sky",
+            "せいさく：VAP"
+        ],
+        "copyrights": [
+            "(C)PQC"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711948053,
+    "endAt": 1774969200,
+    "freeEndAt": 1726704000,
+    "transcodeVersion": "2AvbGh",
+    "sharedLink": {
+        "twitter": "https://abema.app/xkuW",
+        "facebook": "https://abema.app/WACg",
+        "google": "https://abema.app/XUEp",
+        "line": "https://abema.app/DbWi",
+        "copy": "https://abema.app/66mM",
+        "instagram": "https://abema.app/DkW8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-2byynwxwmy4_s0_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-2byynwxwmy4_s0_p21/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/143-2byynwxwmy4_s0_p21/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-2byynwxwmy4_s0_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-2byynwxwmy4_s0_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 224.946033,
+        "opening": {
+            "end": 9.997966
+        },
+        "ending": {
+            "start": 224.946033,
+            "end": 243.997067
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-2byynwxwmy4_s0_p22",
+        "title": "第二十二章",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1711948053,
+        "endAt": 1774969200,
+        "freeEndAt": 1726704000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726704000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-2byynwxwmy4_s0_p21/timeline",
+        "query": "version=2AvbGh",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726704000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1726882200
+        }
+    ],
+    "episodeGroupId": "143-1_eg0"
+}

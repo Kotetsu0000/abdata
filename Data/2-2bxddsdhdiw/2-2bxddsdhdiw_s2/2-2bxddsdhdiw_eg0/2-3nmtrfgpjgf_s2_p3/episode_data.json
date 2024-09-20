@@ -1,0 +1,157 @@
+{
+    "id": "2-3nmtrfgpjgf_s2_p3",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s2",
+        "sequence": 2,
+        "name": "第2シリーズ",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1505
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 野球部　始動！",
+        "content": "吾郎が右肩を壊した後の努力を聞き、自分ももう一度がんばってみようと野球部に戻った山根。メンバーが足りないため牟田と及川も加わり、新生・三船東中野球部がスタート！最初はいやいや練習をしていた牟田、及川も、少しずつ、野球の楽しさを知り始める。1週間後の朝、ランニング中に偶然、吾郎は清水と出会い…。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "茂野 吾郎：森久保 祥太郎",
+            "佐藤 寿也：森田 成一",
+            "茂野 桃子：野田 順子",
+            "茂野 英毅：咲野 俊介",
+            "清水 薫：笹本 優子"
+        ],
+        "crews": [
+            "原作：満田 拓也",
+            "監督：カサヰ ケンイチ",
+            "シリーズ構成：土屋 理敬",
+            "脚本：土屋 理敬、静谷 伊佐夫"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695277069,
+    "endAt": 1741446000,
+    "freeEndAt": 1726741800,
+    "transcodeVersion": "2erouZ",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/FNKek",
+        "facebook": "https://gxyt4.app.goo.gl/XWqaD",
+        "google": "https://gxyt4.app.goo.gl/UHmo9",
+        "line": "https://gxyt4.app.goo.gl/gr1DL",
+        "copy": "https://gxyt4.app.goo.gl/YUXvp",
+        "instagram": "https://gxyt4.app.goo.gl/xXLjP"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-3nmtrfgpjgf_s2_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-3nmtrfgpjgf_s2_p3/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/2-3nmtrfgpjgf_s2_p3/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-3nmtrfgpjgf_s2_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-3nmtrfgpjgf_s2_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1500.06,
+        "opening": {
+            "start": 65.752091,
+            "end": 153.969485
+        },
+        "ending": {
+            "start": 1395.816133,
+            "end": 1485.038665
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-3nmtrfgpjgf_s2_p4",
+        "title": "第4話 ライバル再会",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277069,
+        "endAt": 1741446000,
+        "freeEndAt": 1726741800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726741800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-3nmtrfgpjgf_s2_p3/timeline",
+        "query": "version=2erouZ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726741800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

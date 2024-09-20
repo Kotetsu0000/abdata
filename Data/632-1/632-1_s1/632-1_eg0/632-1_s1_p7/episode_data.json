@@ -1,0 +1,154 @@
+{
+    "id": "632-1_s1_p7",
+    "series": {
+        "id": "632-1",
+        "title": "女神のカフェテラス",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-1",
+            "filename": "thumb.png",
+            "query": "version=1722755068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-1",
+            "filename": "portrait.png",
+            "query": "version=1722755068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "632-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1437
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第七話「アタシの１年」",
+        "content": "紅葉の物憂げな様子に、何かあったのではないかと察する隼は、店を辞めるつもりなのではないかと、本人に直接尋ねる。何かを諦めたかのような紅葉の表情を見た隼は、最後のデートと称し、紅葉が愛する祖母直伝のコーヒーの淹れ方を教わる。理由を何も聞かない隼に、本当の家族ではないことを思い出してしまい、何も言えなくなる紅葉。そんな彼女が淹れたコーヒーを飲みながら、隼が口にした言葉は…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "粕壁 隼：水中雅章",
+            "小野白菊：和氣あず未",
+            "月島流星：山根 綺",
+            "鶴河秋水：鈴代紗弓",
+            "鳳凰寺紅葉：瀬戸麻沙美",
+            "幕澤桜花：青木瑠璃子",
+            "粕壁幸子：伊倉一恵"
+        ],
+        "crews": [
+            "原作：瀬尾公治（講談社「週刊少年マガジン」連載）",
+            "監督：桑原 智",
+            "シリーズ構成：大知慶一郎",
+            "脚本：大知慶一郎、森田眞由美",
+            "キャラクターデザイン：野口征恒",
+            "美術監督：斉藤雅己",
+            "色彩設計：油谷ゆみ",
+            "撮影監督：設楽 希（T2スタジオ）",
+            "編集：内田 渉（コンクエスト）",
+            "音楽：兼松 衆、櫻井美希",
+            "音響監督：本山 哲",
+            "音響制作：HALF H･P STUDIO",
+            "アニメーション制作：手塚プロダクション"
+        ],
+        "copyrights": [
+            "(C)瀬尾公治・講談社／「女神のカフェテラス」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726206738,
+    "endAt": 1759244400,
+    "transcodeVersion": "sv2AM",
+    "sharedLink": {
+        "twitter": "https://abema.app/EAJz",
+        "facebook": "https://abema.app/C3qC",
+        "google": "https://abema.app/s657",
+        "line": "https://abema.app/6vtC",
+        "copy": "https://abema.app/faAb",
+        "instagram": "https://abema.app/xBLP"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/632-1_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/632-1_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/632-1_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.632-1_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1422.068844,
+        "opening": {
+            "start": 68.049511,
+            "end": 158.0551
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "632-1_s1_p8",
+        "title": "第八話「海の家！」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1726206738,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/632-1_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "632-1_eg0"
+}

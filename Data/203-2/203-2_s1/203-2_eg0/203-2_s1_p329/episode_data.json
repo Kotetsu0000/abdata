@@ -1,0 +1,141 @@
+{
+    "id": "203-2_s1_p329",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s1",
+        "sequence": 101,
+        "name": "こちら葛飾区亀有公園前派出所",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1544
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 329,
+        "title": "第329話 日暮尋ねて三千里",
+        "content": "４年に一度、オリンピックの年に目を覚ます超能力警官日暮。\n日暮を迎えににニコニコ寮に赴く両津であったが、\nそこはもぬけの殻。どうやら寮の改築工事の際に行方不明に\nなってしまったらしい・・・"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382154,
+    "endAt": 1746025200,
+    "transcodeVersion": "6kHAMZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/KHVo",
+        "facebook": "https://abema.app/Wic6",
+        "google": "https://abema.app/bXRV",
+        "line": "https://abema.app/bhKx",
+        "copy": "https://abema.app/Rnij",
+        "instagram": "https://abema.app/oAZM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-2_s1_p329/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-2_s1_p329/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-2_s1_p329/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s1_p329"
+    },
+    "viewingPoint": {
+        "suggestion": 1419.975088,
+        "opening": {
+            "end": 79.869755
+        },
+        "ending": {
+            "start": 1419.975088,
+            "end": 1509.898355
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s1_p330",
+        "title": "第330話 パパはキャンプの若大将",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382154,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s1_p329/timeline",
+        "query": "version=6kHAMZ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

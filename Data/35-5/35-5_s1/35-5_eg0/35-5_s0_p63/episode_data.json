@@ -1,0 +1,155 @@
+{
+    "id": "35-5_s0_p63",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1507
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 63,
+        "title": "第63話 臭さの魅力",
+        "content": "東西新聞社とフランスのルタン社が業務提携する事になったが、その祝宴で社主同士が互いの国の料理の匂いをけなし合って喧嘩。そこで山岡は周大人に仲裁を依頼する。"
+    },
+    "credit": {
+        "released": 1990,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713424467,
+    "endAt": 1756652400,
+    "transcodeVersion": "7XakAr",
+    "sharedLink": {
+        "twitter": "https://abema.app/ztdR",
+        "facebook": "https://abema.app/wkS3",
+        "google": "https://abema.app/5Ukc",
+        "line": "https://abema.app/9s8a",
+        "copy": "https://abema.app/5VYk",
+        "instagram": "https://abema.app/ynmA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-5_s0_p63/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-5_s0_p63/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-5_s0_p63/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p63"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.349122,
+        "opening": {
+            "end": 81.070955
+        },
+        "ending": {
+            "start": 1427.349122,
+            "end": 1507.368796
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p64",
+        "title": "第64話 ペンションの名物",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424467,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726878060
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p63/timeline",
+        "query": "version=7XakAr",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726878060
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727545620
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

@@ -1,0 +1,78 @@
+{
+    "id": "15-2",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_28",
+                "name": "歴史・戦記"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "TVアニメ「キングダム」",
+    "content": "紀元前、中国。時代は春秋・戦国時代。\n西方の国・秦（しん）で、戦災孤児として暮らしていたふたりの少年・信（しん）と漂（ひょう）の夢は、日々鍛錬を積み、いつか戦で武功を立てて天下の大将軍になること。\nそんなふたりにある転機が訪れる。王宮に仕える大臣・昌文君（しょうぶんくん）の目に留まった漂が王宮に召し上げられたのだ。\nだがほどなくして王宮の勢力争いに巻き込まれ大けがを負った漂が、命からがら故郷へと戻ってくる。そして漂から託された地図を頼りに訪れた村で信は、漂とうり二つの少年・政（せい）と出会う。この少年こそ秦王・嬴政（えいせい）―――後の始皇帝であった。",
+    "seasons": [
+        {
+            "id": "15-2_s5",
+            "sequence": 5,
+            "name": "第5シリーズ",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/15-2_s5",
+                "filename": "default_thumb.png",
+                "query": "version=1703488469",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "15-2_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)原泰久／集英社・キングダム製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1722329199688342351",
+    "imageUpdatedAt": 1703488440,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/LtYQ",
+        "facebook": "https://abema.app/fPoC",
+        "google": "https://abema.app/hNam",
+        "line": "https://abema.app/ASgP",
+        "copy": "https://abema.app/RtYt",
+        "instagram": "https://abema.app/97tG"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-2",
+        "filename": "thumb.png",
+        "query": "version=1703488440",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-2",
+        "filename": "portrait.png",
+        "query": "version=1703488440",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,145 @@
+{
+    "id": "5-62_s1_p30",
+    "series": {
+        "id": "5-62",
+        "title": "トロピカル～ジュ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-62",
+            "filename": "thumb.png",
+            "query": "version=1721612377",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-62",
+            "filename": "portrait.png",
+            "query": "version=1721612377",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-62_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 30,
+        "title": "第30話　大選挙！　ローラが生徒会長！？",
+        "content": "次の生徒会長を決める選挙に立候補するローラ。なかなか支持を得られない中、最終演説にむけて諦めずにトロピカる部みんなでアイディアを話し合う。しかし最終演説当日に、超ゼッタイヤラネーダがあらわれて―…。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "夏海まなつ／キュアサマー：ファイルーズ あい",
+            "涼村さんご／キュアコーラル：花守 ゆみり",
+            "一之瀬みのり／キュアパパイア：石川 由依",
+            "滝沢あすか／キュアフラミンゴ：瀬戸 麻沙美",
+            "ローラ／キュアラメール ：日高 里菜",
+            "くるるん：田中 あいみ"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "シリーズディレクター：土田豊",
+            "シリーズ構成：横谷昌宏",
+            "キャラクターデザイン：中谷友紀子",
+            "美術デザイン：今井美紀",
+            "色彩設計：柳澤久美子",
+            "音楽：寺田志保",
+            "製作担当：井桁 啓介",
+            "プロデューサー：佐藤 有（ABCテレビ）、田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、村瀬 亜季"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722140389,
+    "endAt": 1740754800,
+    "transcodeVersion": "47oLah",
+    "sharedLink": {
+        "twitter": "https://abema.app/Cvox",
+        "facebook": "https://abema.app/syRc",
+        "google": "https://abema.app/UWb3",
+        "line": "https://abema.app/7Vsx",
+        "copy": "https://abema.app/2Hg8",
+        "instagram": "https://abema.app/HmrJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-62_s1_p30/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-62_s1_p30/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-62_s1_p30/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-62_s1_p30"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1721666666667,
+        "opening": {
+            "start": 109.06729166666666,
+            "end": 199.11558333333332
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1440.2304583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-62_s1_p31",
+        "title": "第31話　トラブル列車！　あすかの修学旅行！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722140389,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-62_s1_p30/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-62_eg0"
+}

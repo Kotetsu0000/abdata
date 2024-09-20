@@ -1,0 +1,136 @@
+{
+    "id": "26-2mzbynr-cph_s30_p103",
+    "series": {
+        "id": "26-2mzbynr-cph",
+        "title": "〈物語〉シリーズ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "thumb.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "portrait.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-2mzbynr-cph_s30",
+        "sequence": 30,
+        "name": "猫物語(黒)",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1609
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 103,
+        "title": "episode3 つばさファミリー其ノ參",
+        "content": "羽川家を訪れ、その異様な光景に逃げるように後を去る暦。その後、障り猫が次々に人を襲っているという噂が世に広まる中、再び障り猫に対峙した暦はついにその目的を知る。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "阿良々木 暦：神谷浩史",
+            "羽川 翼：堀江由衣",
+            "忍野メメ：櫻井孝宏",
+            "旧キスショット：坂本真綾"
+        ],
+        "crews": [
+            "原作：西尾維新",
+            "キャラクター原案：VOFAN",
+            "総監督：新房昭之",
+            "監督：板村智幸",
+            "キャラクターデザイン・総作画監督：渡辺明夫"
+        ],
+        "copyrights": [
+            "(c)西尾維新／講談社・アニプレックス・シャフト"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725262969,
+    "endAt": 1755442800,
+    "transcodeVersion": "yJovc",
+    "sharedLink": {
+        "twitter": "https://abema.app/j6pR",
+        "facebook": "https://abema.app/jjKm",
+        "google": "https://abema.app/X6R1",
+        "line": "https://abema.app/7Ycb",
+        "copy": "https://abema.app/nAuD",
+        "instagram": "https://abema.app/aje7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-2mzbynr-cph_s30_p103/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-2mzbynr-cph_s30_p103/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-2mzbynr-cph_s30_p103/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-2mzbynr-cph_s30_p103"
+    },
+    "viewingPoint": {
+        "suggestion": 1604.227625
+    },
+    "nextProgramInfo": {
+        "programId": "26-2mzbynr-cph_s30_p104",
+        "title": "episode4 つばさファミリー其ノ肆",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1725262969,
+        "endAt": 1755442800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755442800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-2mzbynr-cph_s30_p103/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755442800
+        }
+    ],
+    "episodeGroupId": "26-2mzbynr-cph_eg3"
+}

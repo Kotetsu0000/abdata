@@ -1,0 +1,170 @@
+{
+    "id": "19-16_s3_p8",
+    "series": {
+        "id": "19-16",
+        "title": "ハイキュー!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "thumb.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "portrait.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-16_s3",
+        "sequence": 3,
+        "name": "ハイキュー!! 烏野高校 ＶＳ 白鳥沢学園高校",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1452
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 嫌な男",
+        "content": "月島の負傷でブロックの要を欠いた烏野だったが、攻めの姿勢を崩さず白鳥沢に食らいついていく。\nそんな中、日向の執念あふれるプレーに、牛島は明確な対抗心を抱き始める。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "村瀬歩",
+            "石川界人",
+            "日野聡",
+            "入野自由",
+            "林勇",
+            "細谷佳正",
+            "内山昂輝",
+            "斉藤 壮馬",
+            "増田 俊樹",
+            "名塚 佳織",
+            "諸星 すみれ",
+            "神谷 浩史",
+            "田中 一成",
+            "竹内良太",
+            "木村昴",
+            "土屋神葉",
+            "豊永利行",
+            "寺島拓篤",
+            "丹沢晃之",
+            "福田賢二",
+            "大森大樹",
+            "中尾隆聖"
+        ],
+        "crews": [
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載中）",
+            "監督：満仲勧",
+            "副監督：石川真理子",
+            "シリーズ構成：岸本卓",
+            "キャラクターデザイン：岸田隆宏",
+            "総作画監督：千葉崇洋、八尋裕子",
+            "音響監督：菊田浩巳",
+            "音楽：林ゆうき、橘麻美",
+            "アニメーション制作：Production I.G"
+        ],
+        "copyrights": [
+            "(Ｃ)古舘春一／集英社・「ハイキュー!! 3rd」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684374728,
+    "endAt": 1738335600,
+    "transcodeVersion": "axXRA",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/afKUy",
+        "facebook": "https://gxyt4.app.goo.gl/phxEr",
+        "google": "https://gxyt4.app.goo.gl/qZPjQ",
+        "line": "https://gxyt4.app.goo.gl/7cafs",
+        "copy": "https://gxyt4.app.goo.gl/EYGFY",
+        "instagram": "https://gxyt4.app.goo.gl/WQYZ7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-16_s3_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-16_s3_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-16_s3_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-16_s3_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.077266,
+        "opening": {
+            "start": 27.098511,
+            "end": 117.098511
+        },
+        "ending": {
+            "start": 1347.083844,
+            "end": 1434.083844
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-16_s3_p9",
+        "title": "第9話 バレー馬鹿たち",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1684374728,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-16_s3_p8/timeline",
+        "query": "version=axXRA",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-16_eg0"
+}

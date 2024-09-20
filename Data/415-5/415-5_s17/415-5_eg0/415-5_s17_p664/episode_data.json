@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s17_p664",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s17",
+        "sequence": 17,
+        "name": "season17",
+        "thumbComponent": {},
+        "order": 17
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 664,
+        "title": "第664話 名犬クールのお手柄２",
+        "content": "コナンたちは図書館へ向かい、途中で光彦が手書きの地図を拾う。地図には４軒の家が描かれ、各家には藤木、香月、大賀、江口と名字も書かれていた。コナンたちは香月家を訪ね、昨晩、香月栄太郎が地下横断歩道で亡くなっていた事を知る。この後、何者かに地図が盗まれ、コナンは訪ねた３軒の中に犯人がいると睨む。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：北田修一、山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "6WaZu1",
+    "sharedLink": {
+        "twitter": "https://abema.app/a3Af",
+        "facebook": "https://abema.app/qYYh",
+        "google": "https://abema.app/uGaa",
+        "line": "https://abema.app/ycfA",
+        "copy": "https://abema.app/aeKY",
+        "instagram": "https://abema.app/RouJ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p664/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p664/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p664/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s17_p664"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0256,
+        "opening": {
+            "start": 95.02826666666667,
+            "end": 164.99816666666666
+        },
+        "ending": {
+            "start": 1292.4244666666666,
+            "end": 1372.4043666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s17_p665",
+        "title": "第665話 疑惑のイニシャルK",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s17_p664/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

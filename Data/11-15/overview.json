@@ -1,0 +1,96 @@
+{
+    "id": "11-15",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_14",
+                "name": "戦争・ミリタリー"
+            }
+        ]
+    },
+    "title": "ヨルムンガンド",
+    "content": "世界の敵でもあり、味方でもあるという矛盾をはらむ職業・武器商人――。\n世界的な海運王を父に持ち、HCLIヨーロッパ・アフリカ兵器運搬部門に所属し、世界の紛争地帯で“世界平和のために武器を売る”ココ・ヘクマティアルは、 両親を奪った“武器”を憎みながらも銃を持って戦場でしか生きられない寡黙な元少年兵ヨナを自らの私兵部隊に引き入れる。\nココの私兵には、経験豊富な古参の傭兵レームや圧倒的な戦闘力を誇る女兵士バルメなど個性豊かなメンバーが揃っていた。新しい仲間ヨナを加えたココと部隊のメンバーは、タフな交渉や激しい戦闘を切り抜けながら、世界各地で“ビジネス”を展開していく――。",
+    "seasons": [
+        {
+            "id": "11-15_s1",
+            "sequence": 1,
+            "name": "ヨルムンガンド",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-15_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1712552970",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "11-15_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "11-15_s2",
+            "sequence": 2,
+            "name": "ヨルムンガンド PERFECT ORDER",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-15_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1712552927",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "11-15_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "（c）2012 高橋慶太郎・小学館／ヨルムンガンド製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1721813480453946954",
+    "imageUpdatedAt": 1627288684,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/VXdo",
+        "facebook": "https://abema.app/m5gY",
+        "google": "https://abema.app/eHkU",
+        "line": "https://abema.app/6Kdo",
+        "copy": "https://abema.app/N6B8",
+        "instagram": "https://abema.app/7MhR"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-15",
+        "filename": "thumb.png",
+        "query": "version=1627288684",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-15",
+        "filename": "portrait.png",
+        "query": "version=1627288684",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

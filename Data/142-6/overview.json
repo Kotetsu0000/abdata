@@ -1,0 +1,72 @@
+{
+    "id": "142-6",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "烏は主を選ばない",
+    "content": "原作は、阿部智里による人気ファンタジー小説「八咫烏（やたがらす）シリーズ」。 人の姿をした八咫烏の一族が支配する異世界・山内（やまうち）を舞台にした和風大河ファンタジー。 美しくも風変わりな若宮の側仕えに抜擢された少年・雪哉（ゆきや）。陰謀渦巻く宮中でさまざまな事件に遭遇するなかで、若宮と奇妙な主従関係を結んでいく。",
+    "seasons": [
+        {
+            "id": "142-6_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/142-6_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1724045720",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "142-6_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)阿部智里／文藝春秋／NHK・NEP・ぴえろ"
+    ],
+    "label": {
+        "newest": true
+    },
+    "version": "1726035610126546788",
+    "imageUpdatedAt": 1724045766,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/JUFN",
+        "facebook": "https://abema.app/3fGx",
+        "google": "https://abema.app/Jv2F",
+        "line": "https://abema.app/KLRr",
+        "copy": "https://abema.app/d2mB",
+        "instagram": "https://abema.app/ALBH"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/142-6",
+        "filename": "thumb.png",
+        "query": "version=1724045766",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/142-6",
+        "filename": "portrait.png",
+        "query": "version=1724045766",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

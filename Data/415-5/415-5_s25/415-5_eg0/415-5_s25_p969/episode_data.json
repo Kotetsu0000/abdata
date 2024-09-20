@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s25_p969",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s25",
+        "sequence": 25,
+        "name": "season25",
+        "thumbComponent": {},
+        "order": 25
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 969,
+        "title": "第969話 加賀令嬢ミステリーツアー（前編）",
+        "content": "コナンは、蘭、小五郎とともに、蘭が福引で当てた金沢旅行にやってくる。3人が金沢を満喫していたところ不審な行動をする女性・マリに出会う。彼女は浮世離れしたお嬢様だった。コナン達は手助けをするが、後にマリがある事件に関わっていることを知る。さらに事件は思わぬ方向に進みだし、コナン達は巻き込まれていく…。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066320,
+    "endAt": 1740754800,
+    "transcodeVersion": "4CwJHp",
+    "sharedLink": {
+        "twitter": "https://abema.app/dBn3",
+        "facebook": "https://abema.app/rCrq",
+        "google": "https://abema.app/cFH5",
+        "line": "https://abema.app/8cbP",
+        "copy": "https://abema.app/iGYJ",
+        "instagram": "https://abema.app/wf8G"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p969/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p969/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p969/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s25_p969"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.09375,
+        "opening": {
+            "start": 89.75633333333333,
+            "end": 186.93675
+        },
+        "ending": {
+            "start": 1345.09375,
+            "end": 1424.9652083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s25_p970",
+        "title": "第970話 加賀令嬢ミステリーツアー（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066320,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s25_p969/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

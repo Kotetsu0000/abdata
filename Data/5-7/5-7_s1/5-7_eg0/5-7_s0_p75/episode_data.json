@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p75",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 75,
+        "title": "第75話 ｢許せ妹よ！北斗を襲うはわが星の宿命！！」",
+        "content": "サバト一味に支配された村を訪れたケンシロウは、大食い男サバトの秘孔を突いて撃破。明るさの戻った村を後にしたケンシロウの前にリュウガが現われる。しかしリュウガの瞳の輝きを見たケンシロウは戦いを避ける・・・"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "5pjdMP",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/4ySBP",
+        "facebook": "https://gxyt4.app.goo.gl/XhSmu",
+        "google": "https://gxyt4.app.goo.gl/DKQE5",
+        "line": "https://gxyt4.app.goo.gl/ESekf",
+        "copy": "https://gxyt4.app.goo.gl/ynMbF",
+        "instagram": "https://gxyt4.app.goo.gl/zYRKX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p75/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p75/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p75/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p75"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.961822,
+        "opening": {
+            "start": 31.688188,
+            "end": 124.581088
+        },
+        "ending": {
+            "start": 1339.961822,
+            "end": 1429.784988
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p76",
+        "title": "第76話 ｢吠える狼に鉄拳を!今、トキが危ない！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p75/timeline",
+        "query": "version=5pjdMP",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p59",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1451
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 59,
+        "title": "第59話 ｢天をおおう暗黒の星！死闘の果てに時代は動く！！」",
+        "content": "南斗六聖拳の一人盲目のシュウ。ケンシロウは彼との闘いの中で、シュウの拳に殺気が無いことに気付く。彼はケンシロウがサウザーを倒す事ができる者か試していたのだ。シュウは敵なのか味方なのか！？"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "2oHQ7P",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/JjmxJ",
+        "facebook": "https://gxyt4.app.goo.gl/GjEqc",
+        "google": "https://gxyt4.app.goo.gl/7pu26",
+        "line": "https://gxyt4.app.goo.gl/6Lj1d",
+        "copy": "https://gxyt4.app.goo.gl/G9qpY",
+        "instagram": "https://gxyt4.app.goo.gl/SNFGq"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p59/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p59/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p59/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p59"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.730255,
+        "opening": {
+            "start": 32.956122,
+            "end": 124.480988
+        },
+        "ending": {
+            "start": 1341.730255,
+            "end": 1431.253122
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p60",
+        "title": "第60話 ｢南斗白鷺拳シュウ！お前はこの世紀末に何を見るのか！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p59/timeline",
+        "query": "version=2oHQ7P",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

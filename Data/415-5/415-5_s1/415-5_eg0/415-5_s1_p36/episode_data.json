@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s1_p36",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1453
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 36,
+        "title": "第36話 月曜夜７時30分殺人事件",
+        "content": "歩美が歯科医・沢木葉子に歯を抜いてもらった夜、あるマンションで殺人事件が起こった。第一発見者は隣室に住む葉子。葉子には、歯科医院で歩美と一緒にテレビを見ていたというアリバイがあった。が、歩美は眠ってしまって番組の最初と最後しか見ていないという。コナンはどこかにトリックが隠されているとにらむが…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066296,
+    "endAt": 1740754800,
+    "transcodeVersion": "5sSr1i",
+    "sharedLink": {
+        "twitter": "https://abema.app/Z7Pv",
+        "facebook": "https://abema.app/UBQ1",
+        "google": "https://abema.app/mPFA",
+        "line": "https://abema.app/7BsR",
+        "copy": "https://abema.app/zmPj",
+        "instagram": "https://abema.app/YSq8"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s1_p36/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s1_p36/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s1_p36/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s1_p36"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.3896333333332,
+        "opening": {
+            "start": 15.5155,
+            "end": 89.42266666666667
+        },
+        "ending": {
+            "start": 1290.0888,
+            "end": 1381.0797
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s1_p37",
+        "title": "第37話 サボテンの花殺人事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066296,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s1_p36/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

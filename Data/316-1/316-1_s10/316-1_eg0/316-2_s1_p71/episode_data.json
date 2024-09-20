@@ -1,0 +1,152 @@
+{
+    "id": "316-2_s1_p71",
+    "series": {
+        "id": "316-1",
+        "title": "ダイヤのA",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/316-1",
+            "filename": "thumb.png",
+            "query": "version=1708496370",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/316-1",
+            "filename": "portrait.png",
+            "query": "version=1708496370",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "316-1_s10",
+        "sequence": 10,
+        "name": "ダイヤのA",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1445
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 71,
+        "title": "第71話 ９月の空の下",
+        "content": "イップスに陥る沢村。人が変わったように静かに五輪の書を読む。その姿を金丸はじっと黙って見守る。クリスもまた沢村のイップスを知りながらも、沢村ならスランプを飛躍に変えると信じていた。一方、同室の倉持は、あまりの落ち込み方を気にして御幸に相談するが、ふたりはスタンスの違いから口論になってしまう。心配する周囲をよそに、黙々とランニングを続ける沢村。そして、その表情は徐々に前を向いてきて——"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "沢村栄純：逢坂良太",
+            "降谷　 暁：島﨑信長",
+            "御幸一也：櫻井孝宏",
+            "小湊春市：花江夏樹",
+            "結城哲也：細谷佳正",
+            "倉持洋一：浅沼晋太郎",
+            "伊佐敷純：小野友樹",
+            "滝川・クリス・優：浪川大輔",
+            "丹波光一郎：森田成一",
+            "小湊亮介：岡本信彦",
+            "川上憲史：下野　紘",
+            "増子　 透：羽多野　渉",
+            "金丸信二：松岡禎丞",
+            "東　 清国：檜山修之",
+            "高島　 礼：内山夕実",
+            "片岡鉄心：東地 宏樹"
+        ],
+        "crews": [
+            "原作：寺嶋裕二「ダイヤのA」（週刊少年マガジン／講談社刊）",
+            "アニメーション制作：MADHOUSE×Production I.G",
+            "監督：増原 光幸（「しろくまカフェ」「こばと。」）",
+            "シリーズ構成：古怒田健志（「図書館戦争」）",
+            "音響監督：髙桑一"
+        ],
+        "copyrights": [
+            "(C)寺嶋裕二・講談社／2014「ダイヤのＡ」製作委員会・テレビ東京"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1710383920,
+    "endAt": 1743433200,
+    "transcodeVersion": "5wqQfF",
+    "sharedLink": {
+        "twitter": "https://abema.app/zGAj",
+        "facebook": "https://abema.app/CVVw",
+        "google": "https://abema.app/BZLx",
+        "line": "https://abema.app/C9zP",
+        "copy": "https://abema.app/hUdf",
+        "instagram": "https://abema.app/TLGu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/316-2_s1_p71/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/316-2_s1_p71/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/316-2_s1_p71/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.316-2_s1_p71"
+    },
+    "viewingPoint": {
+        "suggestion": 1324.946822,
+        "opening": {
+            "start": 138.027755,
+            "end": 228.050022
+        },
+        "ending": {
+            "start": 1324.946822,
+            "end": 1414.902355
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "316-2_s1_p72",
+        "title": "第72話 最後の教え",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1710383920,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/316-2_s1_p71/timeline",
+        "query": "version=5wqQfF",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "316-1_eg0"
+}

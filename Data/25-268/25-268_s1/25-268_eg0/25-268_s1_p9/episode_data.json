@@ -1,0 +1,151 @@
+{
+    "id": "25-268_s1_p9",
+    "series": {
+        "id": "25-268",
+        "title": "義妹生活",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-268",
+            "filename": "thumb.png",
+            "query": "version=1722826041",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-268",
+            "filename": "portrait.png",
+            "query": "version=1722826041",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-268_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 義妹　と　日記",
+        "content": "真綾たちとプールに行くことになった悠太と沙季。その帰り道、好きなプールで息抜きができたことに感謝する沙季だが、悠太はその後に沙季が放った一言に言葉を失う。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "浅村悠太：天﨑滉平",
+            "綾瀬沙季：中島由貴",
+            "読売 栞：鈴木みのり",
+            "奈良坂真綾：鈴木愛唯",
+            "丸 友和：濱野大輝",
+            "浅村太一：小林親弘",
+            "綾瀬亜季子：上田麗奈"
+        ],
+        "crews": [
+            "原作：三河ごーすと（MF文庫J「義妹生活」／KADOKAWA刊）",
+            "キャラクター原案：Hiten",
+            "監督： 上野壮大",
+            "シリーズ構成：広田光毅",
+            "キャラクターデザイン：仁井 学",
+            "音響監督：小沼則義",
+            "音響効果：山田香織",
+            "音響制作：100studio",
+            "音楽：CITOCA",
+            "音楽制作：one cushion",
+            "inc / 日本コロムビア",
+            "アニメーション制作：スタジオディーン"
+        ],
+        "copyrights": [
+            "(C)三河ごーすと・Hiten/KADOKAWA/義妹生活製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035469,
+    "endAt": 1759244400,
+    "transcodeVersion": "5nizHx",
+    "sharedLink": {
+        "twitter": "https://abema.app/KTJf",
+        "facebook": "https://abema.app/SE3i",
+        "google": "https://abema.app/uhJ2",
+        "line": "https://abema.app/prTJ",
+        "copy": "https://abema.app/xEzR",
+        "instagram": "https://abema.app/JEue"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-268_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-268_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-268_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-268_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1419.9852333333333,
+        "opening": {
+            "start": 312.97933333333333,
+            "end": 402.93586666666664
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-268_s1_p10",
+        "title": "第10話 縁　と　未練",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726035469,
+        "endAt": 1759244400,
+        "freeEndAt": 1726581600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726581600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-268_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726645500
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727855100
+        }
+    ],
+    "episodeGroupId": "25-268_eg0"
+}

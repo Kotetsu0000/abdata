@@ -1,0 +1,147 @@
+{
+    "id": "5-61_s1_p25",
+    "series": {
+        "id": "5-61",
+        "title": "ヒーリングっど・プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-61",
+            "filename": "thumb.png",
+            "query": "version=1721612140",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-61",
+            "filename": "portrait.png",
+            "query": "version=1721612140",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-61_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 25,
+        "title": "第25話　勇気を出して！とらわれのペギタン",
+        "content": "かっこよくなりたい、となやみながらちゆの部屋から出かけたペギタン。ところが小学生の女の子の家に「お持ち帰り」されてしまって―"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "キュアグレース／花寺のどか：悠木碧",
+            "キュアフォンテーヌ／沢泉ちゆ：依田菜津",
+            "キュアスパークル／平光ひなた：河野ひより",
+            "キュアアース／風鈴アスミ：三森すずこ",
+            "ラビリン：加隈亜衣",
+            "ペギタン：武田華",
+            "ニャトラン：金田アキ",
+            "ラテ：白石晴香"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：佐藤 有(ＡＢＣテレビ）、安井一成(ＡＢＣアニメーション)、矢﨑 史(ＡＤＫエモーションズ)、安見 香",
+            "シリーズディレクター：池田洋子",
+            "シリーズ構成：香村純子",
+            "音楽：寺田志保",
+            "キャラクターデザイン：山岡直子",
+            "美術デザイン：西田 渚",
+            "色彩設計：坂入希代美",
+            "製作担当：澤守洸、井桁啓介"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721898999,
+    "endAt": 1740754800,
+    "transcodeVersion": "3MHNsQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/nA7N",
+        "facebook": "https://abema.app/437M",
+        "google": "https://abema.app/W15U",
+        "line": "https://abema.app/HWN2",
+        "copy": "https://abema.app/E2YD",
+        "instagram": "https://abema.app/VmJK"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-61_s1_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-61_s1_p25/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-61_s1_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-61_s1_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1721666666667,
+        "opening": {
+            "start": 102.06029166666667,
+            "end": 192.10858333333334
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1430.2204583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-61_s1_p26",
+        "title": "第26話　びっくり！アスミのラテ日記",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721899006,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-61_s1_p25/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-61_eg0"
+}

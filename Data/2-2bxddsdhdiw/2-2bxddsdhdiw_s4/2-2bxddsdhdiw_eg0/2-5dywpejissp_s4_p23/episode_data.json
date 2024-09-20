@@ -1,0 +1,149 @@
+{
+    "id": "2-5dywpejissp_s4_p23",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s4",
+        "sequence": 4,
+        "name": "第4シリーズ",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 もう一つの決戦",
+        "content": "吾郎とギブソン・ジュニアが、再戦を約束していた同じころ。日本のプロ野球は、ウォリアーズが優勝に王手をかけていた。だが、ここへきてブルーオーシャンズ3連戦に連敗。3戦目に本拠地での胴上げをかけることになった。オーシャンズの先発投手は、眉村。この試合には寿也と眉村の新人王争いもかかっていた！"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "ジョー・ギブソンJr.：浪川大輔",
+            "陣内アリス：榎本温子",
+            "サンダース：石井康嗣",
+            "キーン：森川智之"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "中村能子"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "2SY2x2",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/tNzcG",
+        "facebook": "https://gxyt4.app.goo.gl/G51J1",
+        "google": "https://gxyt4.app.goo.gl/MvQSh",
+        "line": "https://gxyt4.app.goo.gl/nhkgr",
+        "copy": "https://gxyt4.app.goo.gl/fF3pE",
+        "instagram": "https://gxyt4.app.goo.gl/bFZXM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-5dywpejissp_s4_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 18.470662,
+            "end": 106.577272
+        },
+        "ending": {
+            "start": 1365.420547,
+            "end": 1454.442663
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-5dywpejissp_s4_p24",
+        "title": "第24話 偉大な男",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-5dywpejissp_s4_p23/timeline",
+        "query": "version=2SY2x2",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

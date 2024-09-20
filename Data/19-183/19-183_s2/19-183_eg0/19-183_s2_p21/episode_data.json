@@ -1,0 +1,149 @@
+{
+    "id": "19-183_s2_p21",
+    "series": {
+        "id": "19-183",
+        "title": "けいおん!",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "thumb.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "portrait.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-183_s2",
+        "sequence": 2,
+        "name": "けいおん！！",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 卒業アルバム!",
+        "content": "卒業アルバムの撮影が近づき､髪型を気にして､色々と挑戦してみる唯｡翌日の放課後に､部室でアルバム用の個人写真の練習をしてみる軽音部だが･･･｡"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "豊崎愛生",
+            "日笠陽子",
+            "佐藤聡美",
+            "寿 美菜子",
+            "竹達彩奈",
+            "真田アサミ",
+            "米澤 円",
+            "藤東知夏",
+            "永田依子"
+        ],
+        "crews": [
+            "監督：山田尚子",
+            "プロデューサー：中山佳久、中村伸一、太布尚弘、八田陽子",
+            "原作：｢けいおん!｣かきふらい",
+            "脚本：吉田玲子、村元克彦、花田十輝、横谷昌宏",
+            "音楽：百石 元"
+        ],
+        "copyrights": [
+            "(C)かきふらい･芳文社/桜高軽音部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1704340805,
+    "endAt": 1740754800,
+    "freeEndAt": 1726480800,
+    "transcodeVersion": "6XF84T",
+    "sharedLink": {
+        "twitter": "https://abema.app/oR7T",
+        "facebook": "https://abema.app/kUQr",
+        "google": "https://abema.app/Fgwp",
+        "line": "https://abema.app/GnbR",
+        "copy": "https://abema.app/EvBd",
+        "instagram": "https://abema.app/sYLf"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-183_s2_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-183_s2_p21/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-183_s2_p21/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-183_s2_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-183_s2_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.9119166666667,
+        "opening": {
+            "start": 90.04829166666667,
+            "end": 179.88804166666668
+        },
+        "ending": {
+            "start": 1329.9119166666667,
+            "end": 1419.8767916666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-183_s2_p22",
+        "title": "第22話 受験!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1704340805,
+        "endAt": 1740754800,
+        "freeEndAt": 1726480800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726480800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-183_s2_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726480800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-183_eg0"
+}

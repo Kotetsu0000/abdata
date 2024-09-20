@@ -1,0 +1,145 @@
+{
+    "id": "19-15_s0_p7",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s1",
+        "sequence": 1,
+        "name": "第1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1455
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 デクvsかっちゃん",
+        "content": "「対人戦闘訓練」で対峙する出久＆お茶子のヒーロー組と、爆豪＆飯田のヴィラン組。爆豪は怒りにまかせて暴走し、出久に向かって一直線に襲い掛かる。対する出久は、これまでヒーローを目指すうえで蓄えてきた知識と機転の良さで対抗。コンビを組むお茶子と一緒にこの訓練に勝つための作戦を練る。”無個性”だったはずの、自分より下のはずの出久が”個性”を隠し持っていた…。「俺の方が上だ！」それを完全に証明するために、爆豪はコスチュームに隠された強力な攻撃を放つ！"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "オールマイト：三宅健太",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平(集英社「週刊少年ジャンプ」連載)",
+            "シリーズ構成：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872422,
+    "endAt": 1759244400,
+    "transcodeVersion": "5vMZ3d",
+    "sharedLink": {
+        "twitter": "https://abema.app/BpTz",
+        "facebook": "https://abema.app/gLzV",
+        "google": "https://abema.app/pLFd",
+        "line": "https://abema.app/cdbA",
+        "copy": "https://abema.app/4EBA",
+        "instagram": "https://abema.app/RwSk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s0_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s0_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s0_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s0_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.0487,
+        "opening": {
+            "start": 85.01826666666666,
+            "end": 175.04153333333332
+        },
+        "ending": {
+            "start": 1350.0487,
+            "end": 1440.0052333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s0_p8",
+        "title": "第8話 スタートライン、爆豪の。",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872422,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s0_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

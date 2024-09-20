@@ -1,0 +1,146 @@
+{
+    "id": "35-53_s1_p5015",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2481
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5015,
+        "title": "未来の迷宮（ﾗﾋﾞﾘﾝｽ）おかし城（ｷｬｯｽﾙ）",
+        "content": "ドラえもんの誕生日、集まった皆の前でのび太はドラえもんに１枚のクッキーを差し出す。それは２２世紀で人気の“おかしキャッスル”の誕生日チケットだった。ドラミによるとおかしキャッスルは世界中で愛されているスイーツ工房で、その誕生日ケーキは１日１組限定のため中々当たらないのだが、見事のび太が当選したのだ！ のび太たちはさっそく、２２世紀へと出発する。\nたどり着いたおかしキャッスルは、チョコレートの噴水やおかしの実がなった木々に囲まれた夢のようなお城だった。案内係のキャンディにさそわれて工房を見学したのび太たちは、おかしキャッスルではメカたちが音波によって自動的にスイーツを作っていることを知る。その音波は、ビスケットタワーの中で回っている特別なレシピデータが記録されている“オカシックレコード”から出ており、そのレシピを生み出しているのが天才パティシエのミスターマキャロンだった。\nドラえもんが「ネコ型ロボット」だと聞いたキャンディは何故か激しく動揺し、テーブルの上のマカロンタワーを倒してしまう。\nしばらくすると、ジャイアンとスネ夫、さらにはしずかまですがたが見えなくなってしまった！ のび太たちがさがし回っていると、なんとしずかたちそっくりのおかしがならんでいたからビックリ！ \nはたして、お城の中で何が起こったのか？  ２２世紀のスイーツ工房を舞台に、のび太たちの大冒険が始まる…！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん:水田わさび",
+            "のび太:大原めぐみ",
+            "しずか:かかずゆみ",
+            "ジャイアン:木村昴",
+            "スネ夫:関智一"
+        ],
+        "crews": [
+            "脚本:鈴木洋介"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1722396215,
+    "endAt": 1756825200,
+    "freeEndAt": 1726398300,
+    "transcodeVersion": "Eheo1",
+    "sharedLink": {
+        "twitter": "https://abema.app/jrNh",
+        "facebook": "https://abema.app/JWKa",
+        "google": "https://abema.app/dk4z",
+        "line": "https://abema.app/srtz",
+        "copy": "https://abema.app/BY1E",
+        "instagram": "https://abema.app/GBuQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p5015/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p5015/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-53_s1_p5015/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p5015/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p5015"
+    },
+    "viewingPoint": {
+        "suggestion": 2476.9327916666666
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p5016",
+        "title": "ウルトラミキサー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1722396254,
+        "endAt": 1756825200,
+        "freeEndAt": 1726398300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726398300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p5015/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726398300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756825200
+        }
+    ],
+    "episodeGroupId": "35-53_eg1"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "420-61_s2_p500",
+    "series": {
+        "id": "420-61",
+        "title": "SHY",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-61",
+            "filename": "thumb.png",
+            "query": "version=1721295768",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-61",
+            "filename": "portrait.png",
+            "query": "version=1721295768",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-61_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 83
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【7/5より毎週金曜12:00〜配信】",
+        "content": "21世紀半ば、地球から戦争が無くなった――。\n各国に突如現れた超人的な力を持ち、平和を願う“ヒーロー”によって、世界は大きく変化したのだ。\n新たに得られた平和を維持すべく各国のヒーローたちが活躍する世界において、日本の平和を担っていたのは、人前に出るのが超絶苦手な“恥ずかしがり屋”の少女ヒーロー、シャイだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "シャイ/紅葉山テル：下地 紫野",
+            "小石川惟子：東山 奈央",
+            "天王寺曖：小岩井ことり",
+            "えびお：杉田 智和",
+            "スピリッツ：能登 麻美子",
+            "スターダスト：三木 眞一郎",
+            "レディ・ブラック：鈴代 紗弓",
+            "ミェンロン：村瀬 歩",
+            "ユニロード：井上 喜久子",
+            "センチュリー：羽多野 渉",
+            "朱鷺丸：下野 紘",
+            "ウツロ：上田 瞳",
+            "スティグマ：田村 睦心",
+            "クフフ：日高 里菜",
+            "ドキ：土岐 隼一",
+            "イノリ：早見 沙織",
+            "クァバラ：橘田いずみ",
+            "ツィベタ：沢城みゆき"
+        ],
+        "crews": [
+            "原作：実樹ぶきみ（秋田書店「週刊少年チャンピオン」連載）",
+            "監督：安藤正臣",
+            "助監督：谷口工作",
+            "シリーズ構成・脚本：中西やすひろ",
+            "キャラクターデザイン：田中雄一、髙井里沙",
+            "CGディレクター：相澤楓馬",
+            "美術監督：下山和人",
+            "色彩設計：斉藤麻記",
+            "撮影監督：魚山真志（chiptune）",
+            "編集：内田恵（MarvyJack）",
+            "音響監督：濱野高年",
+            "音楽：椿山日南子",
+            "アニメーション制作：エイトビット"
+        ],
+        "copyrights": [
+            "(C)実樹ぶきみ（秋田書店）／SHY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726206606,
+    "endAt": 1727708400,
+    "freeEndAt": 1727708400,
+    "transcodeVersion": "6Cmija",
+    "sharedLink": {
+        "twitter": "https://abema.app/cfZ2",
+        "facebook": "https://abema.app/Zmuu",
+        "google": "https://abema.app/HAbt",
+        "line": "https://abema.app/RPxx",
+        "copy": "https://abema.app/fGvk",
+        "instagram": "https://abema.app/4oFv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/420-61_s2_p500/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/420-61_s2_p500/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/420-61_s2_p500/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/420-61_s2_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-61_s2_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 78.453375
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-61_s2_p500/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "420-61_eg1"
+}

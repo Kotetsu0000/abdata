@@ -1,0 +1,141 @@
+{
+    "id": "415-3_s2_p4",
+    "series": {
+        "id": "415-3",
+        "title": "MIX MEISEI STORY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "thumb.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "portrait.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-3_s2",
+        "sequence": 2,
+        "name": "MIX MEISEI STORY ～二度目の夏、空の向こうへ～",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "#4 あいつをくどけ",
+        "content": "新年度を迎えた明青学園野球部。新戦力と言えば夏野くらいで、元々のメンバーたちも安定しているわけではない。一方、音美は亜里沙に身に覚えのない言いがかりをつけられていた。遼がサッカー部に入ったと思っていた亜里沙は、マネージャーとして入部届を出していた。しかし遼の姿はなく、亜里沙は影響力のある音美に…"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "立花投馬：梶裕貴",
+            "立花走一郎：内田雄馬",
+            "立花音美：内田真礼",
+            "大山春夏：花澤香菜",
+            "立花英介：高木渉",
+            "立花真弓：井上喜久子",
+            "西村勇：中尾隆聖",
+            "パンチ：金光宣明",
+            "ナレーション：日髙のり子"
+        ],
+        "crews": [
+            "監督：神谷智大",
+            "シリーズ構成：冨岡淳広",
+            "キャラクターデザイン：牧孝雄",
+            "音響監督：亀山俊樹",
+            "音楽：住友紀人",
+            "アニメーション制作：OLM"
+        ],
+        "copyrights": [
+            "(C) あだち充／MIX MEISEI STORY製作委員会 2023"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719302116,
+    "endAt": 1740754800,
+    "transcodeVersion": "6d5FtD",
+    "sharedLink": {
+        "twitter": "https://abema.app/DQGB",
+        "facebook": "https://abema.app/DacW",
+        "google": "https://abema.app/7FsR",
+        "line": "https://abema.app/BTMe",
+        "copy": "https://abema.app/G6jg",
+        "instagram": "https://abema.app/z96x"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-3_s2_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-3_s2_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-3_s2_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-3_s2_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.933625,
+        "opening": {
+            "start": 72.98958333333333,
+            "end": 162.99616666666665
+        },
+        "ending": {
+            "start": 1309.933625,
+            "end": 1399.9402083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-3_s2_p5",
+        "title": "#5 何だ？不審者",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719302116,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-3_s2_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-3_eg0"
+}

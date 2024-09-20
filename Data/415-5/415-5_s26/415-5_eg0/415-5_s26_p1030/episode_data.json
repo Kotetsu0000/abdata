@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s26_p1030",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s26",
+        "sequence": 26,
+        "name": "season26",
+        "thumbComponent": {},
+        "order": 26
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1030,
+        "title": "第1030話 空白の一年(前編)",
+        "content": "ひと仕事終えた小五郎が住宅街を歩いていると、悲鳴が聞こえてくる。小五郎が現場に向かうと、そこにはある男性がヘタり込んでいた。突然誰かに突きとばされて車にハネられそうになったようだ。コナンと小五郎が事務所で詳しく話を聞くと、一年間の記憶がなく、その間に何か恨みを買うことをしたのかもしれないという……。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：佐々木加奈・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066321,
+    "endAt": 1740754800,
+    "transcodeVersion": "7XrjC7",
+    "sharedLink": {
+        "twitter": "https://abema.app/yaV9",
+        "facebook": "https://abema.app/rU2p",
+        "google": "https://abema.app/GVqC",
+        "line": "https://abema.app/U8MK",
+        "copy": "https://abema.app/azxs",
+        "instagram": "https://abema.app/mUEK"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1030/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1030/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1030/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s26_p1030"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.09375,
+        "opening": {
+            "start": 95.38695833333334,
+            "end": 185.93575
+        },
+        "ending": {
+            "start": 1345.09375,
+            "end": 1424.9235
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s26_p1031",
+        "title": "第1031話 空白の一年(後編)",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066321,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s26_p1030/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

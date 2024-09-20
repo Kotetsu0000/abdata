@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s18_p681",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s18",
+        "sequence": 18,
+        "name": "season18",
+        "thumbComponent": {},
+        "order": 18
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 681,
+        "title": "第681話 命を賭けた恋愛中継（中継開始）",
+        "content": "光彦たちは笛本隆策から高木の贈り物という小包を佐藤刑事に渡してほしいと頼まれる。中にはタブレット端末が入っており、そこには口にテープを貼られ、首にロープを巻かれた高木が映っていた。地上から数メートルの所にある板の上に縛られた高木は眠っていて、寝返りを打って下に落ちたら首が吊られる危険な状況だった…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、山川剛史",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "3CA7iA",
+    "sharedLink": {
+        "twitter": "https://abema.app/va8F",
+        "facebook": "https://abema.app/Nz6y",
+        "google": "https://abema.app/9Vzk",
+        "line": "https://abema.app/RyHA",
+        "copy": "https://abema.app/5Gja",
+        "instagram": "https://abema.app/vgtn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s18_p681/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s18_p681/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s18_p681/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s18_p681"
+    },
+    "viewingPoint": {
+        "suggestion": 1384.2495333333334,
+        "opening": {
+            "start": 14.280933333333333,
+            "end": 100.23346666666667
+        },
+        "ending": {
+            "start": 1282.4144666666666,
+            "end": 1362.3943666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s18_p682",
+        "title": "第682話 命を賭けた恋愛中継（絶体絶命）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s18_p681/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

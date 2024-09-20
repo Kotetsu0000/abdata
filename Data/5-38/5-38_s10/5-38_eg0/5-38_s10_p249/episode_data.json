@@ -1,0 +1,145 @@
+{
+    "id": "5-38_s10_p249",
+    "series": {
+        "id": "5-38",
+        "title": "ワンピース",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+            "filename": "thumb.png",
+            "query": "version=1704865594",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+            "filename": "portrait.png",
+            "query": "version=1704865594",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-38_s10",
+        "sequence": 10,
+        "name": "ウォーターセブン編",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1427
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 249,
+        "title": "第249話　スパンダムの陰謀！ 海列車が揺れた日",
+        "content": "８年前、トムの“海賊王の船製造の罪”が無罪となる日。フランキーが作った戦艦が、司法船を襲った！　止めようと駆けつけたトムとアイスバーグにも、砲撃の雨が降りかかる！　トムが持つ設計図を狙うＣＰ５のスパンダムにハメられたのだ！"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "モンキー・Ｄ・ルフィ：田中真弓",
+            "ナミ：岡村明美",
+            "ロロノア・ゾロ：中井和哉",
+            "ウソップ：山口勝平",
+            "サンジ：平田広明",
+            "トニートニー・チョッパー：大谷育江",
+            "ニコ・ロビン：山口由里子",
+            "フランキー：矢尾一樹",
+            "ブルック：チョー"
+        ],
+        "crews": [
+            "シリーズ構成：上坂浩彦（第284～）",
+            "シリーズディレクター：宇田鋼之介（第1話～第278話）、志水淳児（第131話～第159話）、境宗久（第241話～製作第365話）、宮元宏彰（製作第343話～）",
+            "製作担当：樋口宗久（第1話～第115話）、藤岡和実（第50話～第302話）、坂本憲生知（第270話～第298話）、松坂一光（第303話～第425話）、黒木耕次郎（第426話～）",
+            "キャラクターデザイン：小泉昇（第1話～第425話）、久田和也（製作第378話～）",
+            "美術設定／美術デザイン：吉池隆司",
+            "音楽：田中公平、浜口史郎"
+        ],
+        "copyrights": [
+            "(C)尾田栄一郎／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1675063011,
+    "endAt": 1735138800,
+    "transcodeVersion": "4eHGDo",
+    "sharedLink": {
+        "twitter": "https://abema.app/FTND",
+        "facebook": "https://abema.app/9Z5E",
+        "google": "https://abema.app/WZ3k",
+        "line": "https://abema.app/iw3c",
+        "copy": "https://abema.app/R7U7",
+        "instagram": "https://abema.app/avNg"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-38_s10_p249/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-38_s10_p249/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-38_s10_p249/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-38_s10_p249"
+    },
+    "viewingPoint": {
+        "suggestion": 1326.114655,
+        "opening": {
+            "start": 88.316296,
+            "end": 196.316296
+        },
+        "ending": {
+            "start": 1326.114655,
+            "end": 1395.114655
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-38_s10_p250",
+        "title": "第250話　伝説の男の最期！ 海列車が泣いた日",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1675063011,
+        "endAt": 1735138800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735138800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-38_s10_p249/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735138800
+        }
+    ],
+    "episodeGroupId": "5-38_eg0"
+}

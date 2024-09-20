@@ -1,0 +1,163 @@
+{
+    "id": "194-39_s1_p1",
+    "series": {
+        "id": "194-39",
+        "title": "花野井くんと恋の病",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-39",
+            "filename": "thumb.png",
+            "query": "version=1709711906",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-39",
+            "filename": "portrait.png",
+            "query": "version=1709711906",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "194-39_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 はじめまして",
+        "content": "ある日の帰り道、頭も顔も偏差値80オーバーと噂の同級生・花野井くんがフラれる姿を目撃した日生ほたる。恋愛に興味のないほたるは「なんで恋なんてするんだろう」と思いながらも、雪がふる公園でひとり佇む彼に何気なく傘を差しだす。すると後日、そんな花野井くんに「付き合ってください」と告白されて…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "日生ほたる：花澤香菜",
+            "花野井くん：小林千晃",
+            "浅海 響：久保ユリカ",
+            "柴村月葉：坂本真綾",
+            "八尾創平：木村良平",
+            "倉田圭悟：逢坂良太"
+        ],
+        "crews": [
+            "原作：森野 萌",
+            "監督：牧野友映",
+            "シリーズ構成・脚本：雨宮ひとみ",
+            "キャラクターデザイン：佐藤秋子",
+            "音楽：yamazo",
+            "音響監督：大寺文彦",
+            "美術監督：中尾陽子",
+            "色彩設計：江本七海",
+            "持田克実",
+            "川上善美",
+            "撮影監督：丹羽拓也",
+            "編集：新居和弘",
+            "アニメーション制作：イーストフィッシュスタジオ"
+        ],
+        "copyrights": [
+            "(C)森野萌・講談社／「花野井くんと恋の病」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1718961137,
+    "endAt": 1782831600,
+    "freeEndAt": 1782831600,
+    "transcodeVersion": "7X2WU",
+    "sharedLink": {
+        "twitter": "https://abema.app/Gyd6",
+        "facebook": "https://abema.app/uJts",
+        "google": "https://abema.app/eBNU",
+        "line": "https://abema.app/CCvQ",
+        "copy": "https://abema.app/5eBM",
+        "instagram": "https://abema.app/6XHM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/194-39_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/194-39_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/194-39_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/194-39_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.194-39_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.9953333333333,
+        "opening": {
+            "start": 43.043,
+            "end": 132.96616666666668
+        },
+        "ending": {
+            "start": 1329.9953333333333,
+            "end": 1420.0019166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "194-39_s1_p2",
+        "title": "第2話 初めての彼氏",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1718961137,
+        "endAt": 1782831600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727077800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-39_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1782831600
+        }
+    ],
+    "episodeGroupId": "194-39_eg1"
+}

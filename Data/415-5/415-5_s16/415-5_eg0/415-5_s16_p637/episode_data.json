@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s16_p637",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s16",
+        "sequence": 16,
+        "name": "season16",
+        "thumbComponent": {},
+        "order": 16
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 637,
+        "title": "第637話 世界一受けたい授業事件（後編）",
+        "content": "「世界一受けたい授業」のリハーサル中、清朝の壺が盗まれ、小五郎は山崎が犯行に及んだと推理。山崎はヨーコのハンカチを盗んだ事を白状するが、壺を盗んだ犯人ではなかった。この後、本間が大きなバッグを持ってスタジオを出て行こうとする。小五郎は本間が清朝の壺をバッグに入れて持ち去ろうとしていると判断するが…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･石山桂一",
+            "プロデューサー：北田修一･山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066310,
+    "endAt": 1740754800,
+    "transcodeVersion": "6vyotK",
+    "sharedLink": {
+        "twitter": "https://abema.app/UtiH",
+        "facebook": "https://abema.app/3LKP",
+        "google": "https://abema.app/AgmE",
+        "line": "https://abema.app/TeWm",
+        "copy": "https://abema.app/TdRo",
+        "instagram": "https://abema.app/nozv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s16_p637/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s16_p637/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s16_p637/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s16_p637"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.1257,
+        "opening": {
+            "start": 61.2612,
+            "end": 148.08126666666666
+        },
+        "ending": {
+            "start": 1303.1351666666667,
+            "end": 1383.0149666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s16_p638",
+        "title": "第638話 紅葉御殿で謎を解く（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066310,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s16_p637/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

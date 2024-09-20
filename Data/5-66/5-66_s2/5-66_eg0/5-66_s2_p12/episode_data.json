@@ -1,0 +1,153 @@
+{
+    "id": "5-66_s2_p12",
+    "series": {
+        "id": "5-66",
+        "title": "ふたりはプリキュアMaxHeart",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "thumb.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "portrait.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-66_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話　商売繁盛！ 高原のカフェへいらっしゃい",
+        "content": "ひかりのもとに、ハーティエルたちが収まる場所・クイーンチェアレクトが出現。だが、それに呼応するように、新たな闇の戦士も現れる。そうとは知らないなぎさとほのかは、アカネにタコカフェの出張営業を手伝うように頼まれ、高原のお祭り会場へ。しかし、新鮮な牧場名物がひしめう中では、さすがに売上げも不調で…。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "美墨なぎさ：本名陽子",
+            "雪城ほのか：ゆかな",
+            "九条ひかり：田中理恵",
+            "メップル：関 智一",
+            "ミップル：矢島晶子",
+            "ポルン：池澤春菜",
+            "ルルン：谷井あすか",
+            "美墨亮太：高橋直純",
+            "雪城さなえ：野沢雅子",
+            "藤田アカネ：藤田美歌子",
+            "高清水莉奈：徳光由禾",
+            "久保田志穂：仙台エリ",
+            "藤村省吾：岸尾大輔",
+            "クイーン：松谷彼哉"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、大野逸雄、亀田雅之、鶴崎りか、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズディレクター：西尾大介",
+            "シリーズ構成：川崎 良",
+            "キャラクターデザイン：稲上 晃",
+            "色彩設計：沢田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721038807,
+    "endAt": 1740754800,
+    "transcodeVersion": "2epafw",
+    "sharedLink": {
+        "twitter": "https://abema.app/JcqT",
+        "facebook": "https://abema.app/yWPK",
+        "google": "https://abema.app/A58U",
+        "line": "https://abema.app/LV3A",
+        "copy": "https://abema.app/EYRi",
+        "instagram": "https://abema.app/qWXm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-66_s2_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-66_s2_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-66_s2_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-66_s2_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.1771666666666,
+        "opening": {
+            "start": 60.09336666666667,
+            "end": 140.00653333333332
+        },
+        "ending": {
+            "start": 1345.1771666666666,
+            "end": 1435.0669666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-66_s2_p13",
+        "title": "第13話　なぎさ親子で大バトル？ 母のココロ子知らず!?",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721038807,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-66_s2_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-66_eg0"
+}

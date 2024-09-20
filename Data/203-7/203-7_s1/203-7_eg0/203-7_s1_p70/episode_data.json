@@ -1,0 +1,154 @@
+{
+    "id": "203-7_s1_p70",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 70,
+        "title": "第70話 強襲！ファンシーケース",
+        "content": "突如六葉町に強襲してきた格安宇宙家具屋“セツリ”の代表、ザイオン！上城家に姿を現したザイオンは、お値段非情な見積もりで高性能歯車を作るようエポックに詰め寄る。脅迫に怯えるエポックを守るため、家庭教師のユウディアスがザイオンにデュエルを挑む！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944781,
+    "endAt": 1743433200,
+    "transcodeVersion": "UkTF9",
+    "sharedLink": {
+        "twitter": "https://abema.app/mrmu",
+        "facebook": "https://abema.app/RD86",
+        "google": "https://abema.app/3eL7",
+        "line": "https://abema.app/Lnig",
+        "copy": "https://abema.app/e1bD",
+        "instagram": "https://abema.app/p1qS"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p70/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p70/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p70/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p70"
+    },
+    "viewingPoint": {
+        "suggestion": 1320.041922,
+        "opening": {
+            "start": 20.26442,
+            "end": 109.757686
+        },
+        "ending": {
+            "start": 1320.355411,
+            "end": 1409.461917
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-7_s1_p71",
+        "title": "第71話 家具にかけた夢",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944781,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p70/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

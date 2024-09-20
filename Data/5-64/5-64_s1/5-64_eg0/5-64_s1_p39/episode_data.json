@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p39",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 39,
+        "title": "第39話 大魔女ヨヨとハロウィンパーティー！",
+        "content": "ハロウィンでましろの家を魔女の館のように飾り付け、子どもたちを迎えるソラたち。一方、街には「プリキュアの仲間」を名乗る「キュアパンプキン」があらわれる。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722331108,
+    "endAt": 1740754800,
+    "transcodeVersion": "58Jwim",
+    "sharedLink": {
+        "twitter": "https://abema.app/1Ugq",
+        "facebook": "https://abema.app/w8qA",
+        "google": "https://abema.app/95vQ",
+        "line": "https://abema.app/93sA",
+        "copy": "https://abema.app/fsyk",
+        "instagram": "https://abema.app/tXKU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p39/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p39/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p39/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p39"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.6806666666666,
+        "opening": {
+            "start": 80.03829166666667,
+            "end": 170.08658333333332
+        },
+        "ending": {
+            "start": 1348.6806666666666,
+            "end": 1440.18875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p40",
+        "title": "第40話 なかよち♡ エルちゃん結婚式☆",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722331117,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p39/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

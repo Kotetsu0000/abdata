@@ -1,0 +1,161 @@
+{
+    "id": "35-5dpiptebuab_s1_p1001",
+    "series": {
+        "id": "35-5dpiptebuab",
+        "title": "プロゴルファー猿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5dpiptebuab",
+            "filename": "thumb.png",
+            "query": "version=1720761411",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5dpiptebuab",
+            "filename": "portrait.png",
+            "query": "version=1720761411",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5dpiptebuab_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 760
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1001,
+        "title": "第1話 華麗なる世界の一匹猿",
+        "content": "ゴルフ場を駆ける野生児・猿谷猿丸。手製のクラブでスーパーショットを打つ彼こそはゴルフの申し子、その名も”プロゴルファー猿”！"
+    },
+    "credit": {
+        "released": 1985,
+        "casts": [
+            "猿谷猿丸:頓宮恭子",
+            "猿谷中丸:高木早苗",
+            "猿谷大丸:峰あつ子",
+            "猿谷小丸:原えりこ",
+            "母:高村章子",
+            "姉:鵜飼るみ子",
+            "ゴエモン:峰あつ子",
+            "おっちゃん:富田耕生",
+            "若葉:堀江美都子",
+            "ミスターX:内海賢二"
+        ],
+        "crews": [
+            "チーフディレクター:西村純二",
+            "脚本:城山昇",
+            "作画監督:本橋秀之",
+            "演出:鈴木幸雄",
+            "井内秀治",
+            "今川泰宏",
+            "音楽:筒井広志",
+            "制作協力:スタジオディーン",
+            "制作:テレビ朝日・シンエイ動画"
+        ],
+        "copyrights": [
+            "(C)藤子スタジオ／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1720761559,
+    "endAt": 1756652400,
+    "freeEndAt": 1756652400,
+    "transcodeVersion": "7LMKM6",
+    "sharedLink": {
+        "twitter": "https://abema.app/795Y",
+        "facebook": "https://abema.app/E1xE",
+        "google": "https://abema.app/qmKw",
+        "line": "https://abema.app/FGHY",
+        "copy": "https://abema.app/YDnq",
+        "instagram": "https://abema.app/42gA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-5dpiptebuab_s1_p1001/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-5dpiptebuab_s1_p1001/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-5dpiptebuab_s1_p1001/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-5dpiptebuab_s1_p1001/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5dpiptebuab_s1_p1001"
+    },
+    "viewingPoint": {
+        "suggestion": 755.755
+    },
+    "nextProgramInfo": {
+        "programId": "35-5dpiptebuab_s1_p1002",
+        "title": "第2話 ゴルフ殺法コング拳",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1720761786,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5dpiptebuab_s1_p1001/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5dpiptebuab_eg0"
+}

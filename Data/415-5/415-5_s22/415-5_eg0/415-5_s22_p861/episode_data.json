@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s22_p861",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s22",
+        "sequence": 22,
+        "name": "season22",
+        "thumbComponent": {},
+        "order": 22
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 861,
+        "title": "第861話 17年前と同じ現場（前編）",
+        "content": "不動産社長の樋山は阿笠が開発したハサミを持ったまま殺害され、コナンと沖矢は阿笠に同行して現場にやってくる。第一発見者は元駄菓子屋の仙波。この事件は被害者がハサミを持っていた点、現場の蛇口が開きっ放しだった点など、17年前の未解決事件に酷似していた。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066317,
+    "endAt": 1740754800,
+    "transcodeVersion": "3p4A4B",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ggmj",
+        "facebook": "https://abema.app/i3ex",
+        "google": "https://abema.app/SjkN",
+        "line": "https://abema.app/Q7Do",
+        "copy": "https://abema.app/96t4",
+        "instagram": "https://abema.app/6Hxc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p861/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p861/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p861/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s22_p861"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.218875,
+        "opening": {
+            "start": 386.761375,
+            "end": 473.9735
+        },
+        "ending": {
+            "start": 1345.218875,
+            "end": 1425.048625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s22_p862",
+        "title": "第862話 17年前と同じ現場（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066317,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s22_p861/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

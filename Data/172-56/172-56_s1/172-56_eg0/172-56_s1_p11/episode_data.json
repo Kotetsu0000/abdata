@@ -1,0 +1,142 @@
+{
+    "id": "172-56_s1_p11",
+    "series": {
+        "id": "172-56",
+        "title": "アンデッドアンラック",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "thumb.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "portrait.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "172-56_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 Rio de Janeiro",
+        "content": "リオデジャネイロの港に停泊する豪華客船。その中で開催される、ブラックオークションにユニオンが狙う“不治”の否定者アンリペアがいるとされ、アンディ、風子、タチアナが会場へ向かう。会場にはユニオンが管理できていない否定者やUMAなどが競売品として出回っていた。否定者やUMAをモノのように扱う人たちの会話を聞きながら、風子はユニオンに来るか、ここで売られるか、どっちが否定者にいいことなのかをアンディに問う。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "アンディ：中村悠一",
+            "出雲風子：佳原萌枝",
+            "シェン：花江夏樹",
+            "ボイド：乃村健次",
+            "ジーナ：悠木碧",
+            "ジュイス：伊瀬茉莉也",
+            "ビリー：小山力也",
+            "タチアナ：釘宮理恵",
+            "トップ：岡本信彦",
+            "ニコ：遊佐浩二",
+            "アポカリプス：杉田智和"
+        ],
+        "crews": [
+            "監督：八瀬祐樹",
+            "キャラクターデザイン：守岡英行",
+            "音楽：末廣健一郎",
+            "アニメーション制作：david production",
+            "企画プロデュース：UNLIMITED PRODUCE by TMS"
+        ],
+        "copyrights": [
+            "(C) 戸塚慶文／集英社・アンデッドアンラック製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711367781,
+    "endAt": 1743433200,
+    "transcodeVersion": "38JM97",
+    "sharedLink": {
+        "twitter": "https://abema.app/CWKW",
+        "facebook": "https://abema.app/7YjH",
+        "google": "https://abema.app/1Dez",
+        "line": "https://abema.app/AWyM",
+        "copy": "https://abema.app/AM6B",
+        "instagram": "https://abema.app/2LME"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/172-56_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/172-56_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/172-56_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.172-56_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1324.9903333333334,
+        "opening": {
+            "start": 150.024875,
+            "end": 239.90633333333332
+        },
+        "ending": {
+            "start": 1324.9903333333334,
+            "end": 1414.9135
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "172-56_s1_p12",
+        "title": "第12話 Activate",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711367781,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726954200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/172-56_s1_p11/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "172-56_eg0"
+}

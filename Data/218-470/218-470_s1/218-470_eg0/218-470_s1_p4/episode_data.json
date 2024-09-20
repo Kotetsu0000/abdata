@@ -1,0 +1,122 @@
+{
+    "id": "218-470_s1_p4",
+    "series": {
+        "id": "218-470",
+        "title": "5周年記念 声優と夜あそび28時間テレビ 大感謝祭 ~Say You Thank You~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "thumb.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "portrait.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-470_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4072
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "細谷怪談",
+        "content": "都市伝説好きの細谷佳正がオリジナル怪談を披露"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "細谷佳正",
+            "浪川大輔",
+            "森久保祥太郎",
+            "安元洋貴",
+            "仲村宗悟",
+            "小西克幸",
+            "前野智昭",
+            "林勇",
+            "明坂聡美",
+            "三上枝織"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680241391,
+    "endAt": 1755702000,
+    "transcodeVersion": "4Gkaco",
+    "sharedLink": {
+        "twitter": "https://abema.app/1mcz",
+        "facebook": "https://abema.app/CVKX",
+        "google": "https://abema.app/sSsr",
+        "line": "https://abema.app/bG1J",
+        "copy": "https://abema.app/pk7v",
+        "instagram": "https://abema.app/zPG1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-470_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-470_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-470_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-470_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 4067.8688
+    },
+    "nextProgramInfo": {
+        "programId": "218-470_s1_p5",
+        "title": "スナック智秋 ～ミッドナイトTALK ＆KARAOKE～",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1680241391,
+        "endAt": 1755702000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755702000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-470_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755702000
+        }
+    ],
+    "episodeGroupId": "218-470_eg0"
+}

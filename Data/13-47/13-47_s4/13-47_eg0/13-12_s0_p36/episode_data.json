@@ -1,0 +1,145 @@
+{
+    "id": "13-12_s0_p36",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 36,
+        "title": "第186話 死亡フラグに気をつけろ",
+        "content": "ケーキ屋で商品を物色する沖田。店の外に出たところで、一人の少女に正面から刺されてしまう!! 沖田を父の仇と呼び、そのような凶行に及んだ理由は、「六角事件」という事件に関係しているらしい。事件と沖田、そして彼女の父親との関係は？ そして何より、冒頭からいきなり刺されてしまった沖田の運命は!?"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296391,
+    "endAt": 1748703600,
+    "transcodeVersion": "2JvcAZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/uTSt",
+        "facebook": "https://abema.app/GZ1x",
+        "google": "https://abema.app/gXwf",
+        "line": "https://abema.app/gr78",
+        "copy": "https://abema.app/wyZx",
+        "instagram": "https://abema.app/Hmxi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p36/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p36/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p36/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p36"
+    },
+    "viewingPoint": {
+        "suggestion": 1364.984933,
+        "opening": {
+            "start": 142.096399,
+            "end": 231.4964
+        },
+        "ending": {
+            "start": 1365.008161,
+            "end": 1448.9082
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p37",
+        "title": "第187話 フラグを踏んだらサヨウナラ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296391,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p36/timeline",
+        "query": "version=2JvcAZ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

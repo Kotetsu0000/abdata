@@ -1,0 +1,160 @@
+{
+    "id": "194-29_s2_p3",
+    "series": {
+        "id": "194-15",
+        "title": "彼女、お借りします",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-15",
+            "filename": "thumb.png",
+            "query": "version=1681284100",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-15",
+            "filename": "portrait.png",
+            "query": "version=1681284100",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "194-15_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 「再来の彼女」-サイカノ-",
+        "content": "家に帰った和也のもとに、先ほど別れたばかりの千鶴が訪ねてくる。\n「鍵…失くした……」\n 自宅に千鶴を招き入れるという状況に、混乱と興奮が抑えられない和也。\nしかしそんな中、二度目のインターホンが鳴り響き、第二の来訪者が和也の部屋を訪れる。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "水原千鶴：雨宮 天",
+            "七海麻美：悠木 碧",
+            "更科瑠夏：東山奈央",
+            "桜沢 墨：高橋李依",
+            "木ノ下和也：堀江 瞬"
+        ],
+        "crews": [
+            "原作：宮島礼吏（講談社「週刊少年マガジン」連載）",
+            "監督：古賀一臣",
+            "シリーズ構成：広田光毅",
+            "キャラクターデザイン：平山寛菜",
+            "音楽：ヒャダイン",
+            "音響監督：髙桑 一",
+            "美術監督：秋葉みのる",
+            "色彩設計：石黒文子",
+            "撮影監督：坂井慎太郎",
+            "アニメーション制作：トムス・エンタテインメント",
+            "アニメーション制作協力：スタジオコメット"
+        ],
+        "copyrights": [
+            "(C)宮島礼吏・講談社／「彼女、お借りします」製作委員会2022"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711517839,
+    "endAt": 1738335600,
+    "transcodeVersion": "6dxxAB",
+    "sharedLink": {
+        "twitter": "https://abema.app/hSQN",
+        "facebook": "https://abema.app/AkeQ",
+        "google": "https://abema.app/d76o",
+        "line": "https://abema.app/4kPn",
+        "copy": "https://abema.app/XGUd",
+        "instagram": "https://abema.app/FVyC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/194-29_s2_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/194-29_s2_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/194-29_s2_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.194-29_s2_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1437.000433,
+        "opening": {
+            "start": 44.089739,
+            "end": 131.089739
+        },
+        "ending": {
+            "start": 1217.074067,
+            "end": 1304.074067
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "194-29_s2_p4",
+        "title": "第4話 「夜と彼女」-バンカノ-",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711517839,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726830000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-29_s2_p3/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726830000
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727478000
+        }
+    ],
+    "episodeGroupId": "194-15_eg0"
+}

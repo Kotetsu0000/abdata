@@ -1,0 +1,132 @@
+{
+    "id": "19-196_s1_p6",
+    "series": {
+        "id": "19-196",
+        "title": "僕らはみんな河合荘",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "thumb.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "portrait.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-196_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "#06 もしかして",
+        "content": "河合荘の黒電話は突然鳴った。それは警察署からシロあての電話であった。…ついに逮捕か……と思われたが違ったみたい（ホッ）。散歩中に拾った財布の持ち主が見つかり、その持ち主が河合荘へお礼にやって来るというのだ。あくる日、「お財布届けてくれて、ありがとうございました！」という黄色い声とともに現れたのは、小学生の少女・千夏だった。そこからシロにすっかり懐いてしまった千夏は、毎日河合荘を訪れるようになるが…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "井口祐一",
+            "花澤香菜",
+            "四宮 豪",
+            "佐藤利奈",
+            "金元寿子",
+            "小林沙苗"
+        ],
+        "crews": [
+            "監督：宮 繁之",
+            "原作：宮原るり『僕らはみんな河合荘』（「ヤングキングアワーズ」連載／少年画報社）",
+            "脚本：古怒田健志",
+            "松田彬人"
+        ],
+        "copyrights": [
+            "（C）宮原るり・少年画報社／委員会はみんな河合荘"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712564553,
+    "endAt": 1746025200,
+    "transcodeVersion": "2aJNmh",
+    "sharedLink": {
+        "twitter": "https://abema.app/JjH2",
+        "facebook": "https://abema.app/mLzL",
+        "google": "https://abema.app/g99H",
+        "line": "https://abema.app/PBa5",
+        "copy": "https://abema.app/u9f8",
+        "instagram": "https://abema.app/3AVX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-196_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-196_s1_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-196_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-196_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.0370416666667,
+        "opening": {
+            "start": 19.019,
+            "end": 109.02558333333333
+        },
+        "ending": {
+            "start": 1330.0370416666667,
+            "end": 1420.0019166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-196_s1_p7",
+        "title": "#07 おすすめの",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712564568,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-196_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-196_eg0"
+}

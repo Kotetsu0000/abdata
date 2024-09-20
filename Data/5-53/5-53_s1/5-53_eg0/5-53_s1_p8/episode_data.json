@@ -1,0 +1,141 @@
+{
+    "id": "5-53_s1_p8",
+    "series": {
+        "id": "5-53",
+        "title": "スマイルプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "thumb.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "portrait.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 みゆきとキャンディがイレカワ〜ル!?",
+        "content": "キャンディと一緒に学校へ行く途中、流れ星が落ちるのを見たの。落ちた場所へ行ってみたら、二つの指輪があって…。二人で拾ったら、勝手に指にはまっちゃった…えっ、キャンディと私、入れ替わっちゃったの!?"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "キュアハッピー/星空みゆき：福圓美里",
+            "キュアサニー/日野あかね：田野アサミ",
+            "キュアピース/黄瀬やよい：金元寿子",
+            "キュアマーチ/緑川なお：井上麻里奈",
+            "キュアビューティ/青木れいか：西村ちなみ",
+            "キャンディ：大谷育江"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、清水慎治",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔、長谷川昌也",
+            "シリーズディレクター：大塚隆史",
+            "シリーズ構成：米村正二",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：川村敏江"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721625476,
+    "endAt": 1740754800,
+    "transcodeVersion": "3YmyLU",
+    "sharedLink": {
+        "twitter": "https://abema.app/eJcb",
+        "facebook": "https://abema.app/9yza",
+        "google": "https://abema.app/16Yn",
+        "line": "https://abema.app/WKs6",
+        "copy": "https://abema.app/DBpA",
+        "instagram": "https://abema.app/oiVV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-53_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0103333333334,
+        "opening": {
+            "start": 92.02526666666667,
+            "end": 177.01016666666666
+        },
+        "ending": {
+            "start": 1345.0103333333334,
+            "end": 1435.0002333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-53_s1_p9",
+        "title": "第9話 うそ〜！ やよいちゃんが転校!?",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721625485,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-53_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-53_eg0"
+}

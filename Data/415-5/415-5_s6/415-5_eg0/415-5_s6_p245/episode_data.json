@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s6_p245",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s6",
+        "sequence": 6,
+        "name": "season6",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 245,
+        "title": "第245話 ヒマワリ館の銃声",
+        "content": "ストーカー調査のために依頼人の建築家・金沢柳一郎のもとに来たコナン、蘭、小五郎。3ヶ月前から毎週のように写真が送られてくるが、全く心当たりがないという。その日の夜、金沢の庭内で夕食の最中に一発の銃声が鳴り響く。12時間で一周するヒマワリ館と呼ばれる屋敷の部屋の中で金沢は銃で撃たれ死亡していた。"
+    },
+    "credit": {
+        "released": 2001,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066301,
+    "endAt": 1740754800,
+    "transcodeVersion": "4zXisX",
+    "sharedLink": {
+        "twitter": "https://abema.app/NSoV",
+        "facebook": "https://abema.app/PXGE",
+        "google": "https://abema.app/kfda",
+        "line": "https://abema.app/EEnK",
+        "copy": "https://abema.app/6SHn",
+        "instagram": "https://abema.app/wNxG"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p245/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p245/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p245/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s6_p245"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.5928333333334,
+        "opening": {
+            "start": 17.851166666666668,
+            "end": 101.96853333333334
+        },
+        "ending": {
+            "start": 1305.0370666666668,
+            "end": 1392.9916
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s6_p246",
+        "title": "第246話 網にかかった謎（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066301,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s6_p245/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

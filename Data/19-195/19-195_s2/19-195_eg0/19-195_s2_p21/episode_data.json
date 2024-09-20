@@ -1,0 +1,146 @@
+{
+    "id": "19-195_s2_p21",
+    "series": {
+        "id": "19-195",
+        "title": "CLANNAD",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "thumb.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "portrait.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-195_s2",
+        "sequence": 2,
+        "name": "CLANNAD AFTER STORY",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 世界の終わり",
+        "content": "汐が突然熱を出して倒れてしまう。\nその症状は渚と同じものだった。医者からも原因が分からないと告げられ、打つ手がない。\n秋生や早苗に助けられながら、懸命に看病する朋也だが、一ヶ月が過ぎても汐の熱は下がらなかった…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "中村悠一",
+            "中原麻衣",
+            "置鮎龍太郎",
+            "井上喜久子",
+            "緑川光",
+            "広橋　涼",
+            "神田朱未",
+            "桑島法子",
+            "能登麻美子",
+            "阪口大助",
+            "雪野五月",
+            "榎本温子"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：Key/ビジュアルアーツ",
+            "脚本：志茂文彦",
+            "音楽：戸越まごめ、麻枝准"
+        ],
+        "copyrights": [
+            "（C）VisualArt's/Key/光坂高校演劇部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712636059,
+    "endAt": 1746025200,
+    "transcodeVersion": "TUupN",
+    "sharedLink": {
+        "twitter": "https://abema.app/s5P5",
+        "facebook": "https://abema.app/Vews",
+        "google": "https://abema.app/DZKi",
+        "line": "https://abema.app/XomZ",
+        "copy": "https://abema.app/zJUV",
+        "instagram": "https://abema.app/7Q93"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-195_s2_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-195_s2_p21/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-195_s2_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-195_s2_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0720666666666,
+        "opening": {
+            "start": 73.03963333333333,
+            "end": 162.89606666666666
+        },
+        "ending": {
+            "start": 1340.0720666666666,
+            "end": 1429.9952333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-195_s2_p22",
+        "title": "第22話 小さな手のひら",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712636070,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-195_s2_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-195_eg0"
+}

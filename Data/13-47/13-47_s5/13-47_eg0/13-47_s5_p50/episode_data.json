@@ -1,0 +1,153 @@
+{
+    "id": "13-47_s5_p50",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s5",
+        "sequence": 5,
+        "name": "銀魂’",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 50,
+        "title": "第251話 コタツで寝る時は○玉熱しないよう気をつけろ",
+        "content": "日本の寒い冬を乗り切るための必需品といえばコタツ。もちろん万事屋にもコタツがあるのだが、調子が悪くなりリサイクルショップにて新たに購入することになった。万事屋に出社した新八が見た、ニューコタツの真価とは…？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "坂田銀時:杉田智和",
+            "志村新八:阪口大助",
+            "神楽:釘宮理恵",
+            "定春:高橋美佳子",
+            "近藤 勲:千葉進歩",
+            "土方十四郎:中井和哉",
+            "沖田総悟:鈴村健一",
+            "山崎 退:太田哲治",
+            "松平栗虎:若本規夫",
+            "桂 小太郎:石田 彰",
+            "志村 妙:雪野五月",
+            "お登勢:くじら",
+            "キャサリン:杉本ゆう",
+            "長谷川泰三:立木文彦",
+            "猿飛あやめ:小林ゆう",
+            "寺門 通:高橋美佳子"
+        ],
+        "crews": [
+            "原作:空知英秋",
+            "監督:藤田陽一"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296393,
+    "endAt": 1751295600,
+    "transcodeVersion": "2ghanw",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/c6Pqu",
+        "facebook": "https://gxyt4.app.goo.gl/9vuGd",
+        "google": "https://gxyt4.app.goo.gl/T5v24",
+        "line": "https://gxyt4.app.goo.gl/DuvjF",
+        "copy": "https://gxyt4.app.goo.gl/bPMzT",
+        "instagram": "https://gxyt4.app.goo.gl/GibTF"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-47_s5_p50/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-47_s5_p50/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-47_s5_p50/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-47_s5_p50"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.101977,
+        "opening": {
+            "start": 45.068222,
+            "end": 134.662083
+        },
+        "ending": {
+            "start": 1330.101977,
+            "end": 1420.107555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-47_s5_p51",
+        "title": "第252話 ごめんなさい",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296393,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-47_s5_p50/timeline",
+        "query": "version=2ghanw",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

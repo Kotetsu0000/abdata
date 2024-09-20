@@ -1,0 +1,155 @@
+{
+    "id": "169-145_s1_p7",
+    "series": {
+        "id": "169-145",
+        "title": "なぜ僕の世界を誰も覚えていないのか？",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "thumb.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "portrait.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "169-145_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 心無い天使",
+        "content": "「私は天の頂……もっとも高貴にして輝かしき明星である」\nレーレーンと共に天使宮殿に侵入するカイたち。立ちはだかるは蛮神族の英雄『主天アルフレイヤ』。\nレーレーンは心優しいアルフレイヤを慕っていたが、彼は変わり果てていた。レーレーンの想いが虚しく踏みにじられようとしたその時、カイはアルフレイヤに対峙する。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "カイ：千葉翔也",
+            "リンネ：市ノ瀬加那",
+            "ジャンヌ：白石晴香",
+            "花琳：Lynn",
+            "レーレーン：菱川花菜",
+            "アシュラン：山下誠一郎",
+            "サキ：鈴代紗弓",
+            "ヴァネッサ：日笠陽子"
+        ],
+        "crews": [
+            "原作：細音 啓「なぜ僕の世界を誰も覚えていないのか？」（MF文庫J）",
+            "キャラクター原案：neco、ありかん",
+            "監督：南川達馬",
+            "シリーズ構成：杉澤 悟",
+            "キャラクターデザイン：加藤裕美",
+            "音響制作：マジックカプセル",
+            "音響監督：明田川 仁",
+            "音楽制作：ファブトーン",
+            "プロデュース：ドリームシフト",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)2024 細音啓/KADOKAWA/なぜ僕製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035362,
+    "endAt": 1759244400,
+    "transcodeVersion": "239UUq",
+    "sharedLink": {
+        "twitter": "https://abema.app/K4YH",
+        "facebook": "https://abema.app/23XW",
+        "google": "https://abema.app/a12D",
+        "line": "https://abema.app/WkGh",
+        "copy": "https://abema.app/1wKg",
+        "instagram": "https://abema.app/woRU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/169-145_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/169-145_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/169-145_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.169-145_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.0380416666667,
+        "opening": {
+            "start": 145.019875,
+            "end": 234.98475
+        },
+        "ending": {
+            "start": 1331.0380416666667,
+            "end": 1422.0039166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "169-145_s1_p8",
+        "title": "第8話 天界の煉獄",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1726035362,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/169-145_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "169-145_eg0"
+}

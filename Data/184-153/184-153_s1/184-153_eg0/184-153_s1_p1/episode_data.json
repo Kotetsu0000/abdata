@@ -1,0 +1,125 @@
+{
+    "id": "184-153_s1_p1",
+    "series": {
+        "id": "184-153",
+        "title": "ドラゴンボール超 ブロリー",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-153",
+            "filename": "thumb.png",
+            "query": "version=1722830686",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-153",
+            "filename": "portrait.png",
+            "query": "version=1722830686",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "184-153_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5989
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "ドラゴンボール超 ブロリー",
+        "content": "「力の大会」後の平和な地球。宇宙にはまだまだ見た事のない強者がいると分かった悟空は、更なる高みを目指して修業に明け暮れていた。そんなある日、悟空とベジータの前に現れたのは、見たこともないサイヤ人“ブロリー”。惑星ベジータ消滅とともにほぼ全滅したはずの“サイヤ人”がなぜ地球に?再び地獄から舞い戻ったフリーザも巻き込み、全く違う運命をたどってきた3人のサイヤ人の出会いは、壮絶な闘いへ――。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "孫悟空:野沢雅子",
+            "べジータ:堀川りょう",
+            "フリーザ:中尾隆聖",
+            "ブロリー:島田敏",
+            "ブルマ:久川綾",
+            "ピッコロ:古川登志夫",
+            "トランクス:草尾毅",
+            "ビルス:山寺宏一",
+            "ウイス:森田成一",
+            "パラガス:宝亀克寿",
+            "チライ:水樹奈々",
+            "レモ:杉田智和"
+        ],
+        "crews": [
+            "原作・脚本・キャラクターデザイン:鳥山明",
+            "監督:長峯達也",
+            "音楽:住友紀人"
+        ],
+        "copyrights": [
+            "(C) バードスタジオ/集英社",
+            "(C)「2018 ドラゴンボール超」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722830752,
+    "endAt": 1756652400,
+    "transcodeVersion": "4jUw3j",
+    "sharedLink": {
+        "twitter": "https://abema.app/BjHS",
+        "facebook": "https://abema.app/M9rD",
+        "google": "https://abema.app/dB44",
+        "line": "https://abema.app/mY7B",
+        "copy": "https://abema.app/3iBP",
+        "instagram": "https://abema.app/c9vg"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/184-153_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/184-153_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/184-153_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.184-153_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 5762.2565
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/184-153_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726835700
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727498100
+        }
+    ],
+    "episodeGroupId": "184-153_eg0"
+}

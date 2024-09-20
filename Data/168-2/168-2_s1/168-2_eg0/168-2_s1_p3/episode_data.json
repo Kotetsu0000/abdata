@@ -1,0 +1,148 @@
+{
+    "id": "168-2_s1_p3",
+    "series": {
+        "id": "168-2",
+        "title": "ラーメン大好き小泉さん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "thumb.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "portrait.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1356
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "三杯目 「サイミン」「味集中カウンター」「即席麺」",
+        "content": "今日も順調（？）に小泉さんにフラれ続ける悠。\n最早なりふり構わない悠は、小泉さんの行きたい場所でいいから連れて行ってくれと土下座する始末。ラーメン屋でよいなら、と渋々了承する小泉さん。\nラーメン屋でもおしゃべりできるなら！と浮かれて向かったラーメン屋は変わった席をしており、、？"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "小泉さん：竹達彩奈",
+            "大澤 悠：佐倉綾音",
+            "中村美沙：鬼頭明里",
+            "高橋 潤：原 由実"
+        ],
+        "crews": [
+            "原作：鳴見なる「ラーメン大好き小泉さん」（竹書房刊）",
+            "監督：セトウケンジ",
+            "シリーズ構成：髙橋龍也",
+            "シナリオ：髙橋龍也、浦畑達彦、関根アユミ",
+            "キャラクターデザイン：谷 拓也、桜井正明、小関 雅",
+            "アニメーション制作：Studio五組、AXsiZ",
+            "製作：「ラーメン大好き小泉さん」製作委員会"
+        ],
+        "copyrights": [
+            "(C)鳴見なる・竹書房／「ラーメン大好き小泉さん」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683012855,
+    "endAt": 1740754800,
+    "transcodeVersion": "6reGiT",
+    "sharedLink": {
+        "twitter": "https://abema.app/ChNc",
+        "facebook": "https://abema.app/SvJH",
+        "google": "https://abema.app/swMZ",
+        "line": "https://abema.app/Vg1w",
+        "copy": "https://abema.app/ymKb",
+        "instagram": "https://abema.app/VWqZ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-2_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-2_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-2_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-2_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1240.359479,
+        "opening": {
+            "start": 78.585465,
+            "end": 167.979983
+        },
+        "ending": {
+            "start": 1240.170254,
+            "end": 1329.207421
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-2_s1_p4",
+        "title": "四杯目 「ようしょくてん」「赤or白」「コンビニ」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1683012855,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-2_s1_p3/timeline",
+        "query": "version=6reGiT",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "168-2_eg0"
+}

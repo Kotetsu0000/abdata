@@ -1,0 +1,154 @@
+{
+    "id": "30-3_s0_p12",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s1",
+        "sequence": 1,
+        "name": "Season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1447
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "#12 傷 ～トロスト区攻防戦⑧～",
+        "content": "ミカサに向けて振り下ろされた巨人化したエレンの拳。トロスト区奪還作戦は、いきなり暗礁に乗り上げていた。すんでのところでその拳をかわすミカサだったが、再度、エレンはミカサめがけて拳を振り上げる。ついに自らの拳を顔面に打ち込み、動けなくなってしまうエレン巨人。そこに3体の巨人が接近してきて……。作戦の現場指揮を任された精鋭班・班長イアンは判断に苦慮する。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創",
+            "監督：荒木哲郎",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248133,
+    "endAt": 1730386800,
+    "transcodeVersion": "6yoyys",
+    "sharedLink": {
+        "twitter": "https://abema.app/ofDV",
+        "facebook": "https://abema.app/1Fy3",
+        "google": "https://abema.app/XsrD",
+        "line": "https://abema.app/Qs5T",
+        "copy": "https://abema.app/JR2G",
+        "instagram": "https://abema.app/E99n"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/30-3_s0_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/30-3_s0_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/30-3_s0_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-3_s0_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.993299,
+        "opening": {
+            "start": 116.572875,
+            "end": 207.952067
+        },
+        "ending": {
+            "start": 1342.290562,
+            "end": 1432.017566
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-3_s0_p13",
+        "title": "#13 原初的欲求 ～トロスト区攻防戦⑨～",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248133,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-3_s0_p12/timeline",
+        "query": "version=6yoyys",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

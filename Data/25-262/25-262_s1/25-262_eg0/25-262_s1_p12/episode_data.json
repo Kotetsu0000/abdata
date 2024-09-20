@@ -1,0 +1,130 @@
+{
+    "id": "25-262_s1_p12",
+    "series": {
+        "id": "25-262",
+        "title": "Unnamed Memory",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-262",
+            "filename": "thumb.png",
+            "query": "version=1711868827",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-262",
+            "filename": "portrait.png",
+            "query": "version=1711868827",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-262_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 背中合わせの記憶",
+        "content": "それは、青き塔に棲む魔女。呪いを受けた王族。\n時を書き換えられるのなら何を望むのか。全ては塗り替えられる物語である。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "オスカー：中島ヨシキ",
+            "ティナーシャ：種﨑敦美",
+            "ラザル：梅田修一朗",
+            "シルヴィア：夏吉ゆうこ",
+            "メレディナ：赤﨑千夏",
+            "アルス：佐藤拓也",
+            "カーヴ：天﨑滉平",
+            "ナーク：森永千才",
+            "トラヴィス：福山潤",
+            "ルクレツィア：川澄綾子",
+            "ラナク：柳田淳一"
+        ],
+        "crews": [
+            "原作：古宮九時(株式会社 KADOKAWA 電撃の新文芸刊)",
+            "原作イラスト：chibi",
+            "監督：三浦和也",
+            "シリーズ構成：赤尾でこ",
+            "キャラクターデザイン：能海知佳",
+            "音楽：松田彬人",
+            "アニメーション制作：ENGI"
+        ],
+        "copyrights": [
+            "(C)2022 古宮九時/KADOKAWA/Project Unnamed Memory"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719816775,
+    "endAt": 1774969200,
+    "transcodeVersion": "4xfpro",
+    "sharedLink": {
+        "twitter": "https://abema.app/ycxu",
+        "facebook": "https://abema.app/LGrt",
+        "google": "https://abema.app/AcKy",
+        "line": "https://abema.app/LK5y",
+        "copy": "https://abema.app/8BLj",
+        "instagram": "https://abema.app/ikAw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-262_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-262_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-262_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-262_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.9802333333334,
+        "ending": {
+            "start": 1333.1985333333334,
+            "end": 1364.363
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-262_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727162400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1728435600
+        }
+    ],
+    "episodeGroupId": "25-262_eg0"
+}

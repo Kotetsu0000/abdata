@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s2_p76",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2893
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 76,
+        "title": "第76話 コナンVS怪盗キッド",
+        "content": "園子の家に怪盗キッドからの犯行予告状が届けられた。鈴木家の家宝の黒真珠“ブラックスター”を狙ったものだ。園子は小五郎に捜査を依頼する。予告状の暗号を解いたコナンがホテルの屋上で待機すると、目の前にキッドが現れるが、姿を見せただけで捜査を指揮する警部の手に再度の予告状を残して忽然と消えてしまう。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066297,
+    "endAt": 1740754800,
+    "transcodeVersion": "2TpneC",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZELa",
+        "facebook": "https://abema.app/3XK2",
+        "google": "https://abema.app/39JM",
+        "line": "https://abema.app/dmwt",
+        "copy": "https://abema.app/7Lqj",
+        "instagram": "https://abema.app/9VyR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s2_p76/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s2_p76/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s2_p76/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s2_p76"
+    },
+    "viewingPoint": {
+        "suggestion": 2847.6448,
+        "opening": {
+            "start": 15.048366666666666,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 2680.3109666666664,
+            "end": 2768.2655
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s2_p77",
+        "title": "第77話 名家連続変死事件（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066297,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s2_p76/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

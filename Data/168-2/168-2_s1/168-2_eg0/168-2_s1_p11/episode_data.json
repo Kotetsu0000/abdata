@@ -1,0 +1,148 @@
+{
+    "id": "168-2_s1_p11",
+    "series": {
+        "id": "168-2",
+        "title": "ラーメン大好き小泉さん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "thumb.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "portrait.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1356
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "十一杯目 「おいしいラーメン」「大阪」",
+        "content": "幼いころに食べたラーメンを再現しようとする悠。\n店の名も分からず、ただ「おいしいラーメン」という情報しかなく、途方に暮れる。\nしかし、小泉さんの試食をきっかけに元の店が判明する。\n果たして、「おいしいラーメン」の正体とは、、、？"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "小泉さん：竹達彩奈",
+            "大澤 悠：佐倉綾音",
+            "中村美沙：鬼頭明里",
+            "高橋 潤：原 由実"
+        ],
+        "crews": [
+            "原作：鳴見なる「ラーメン大好き小泉さん」（竹書房刊）",
+            "監督：セトウケンジ",
+            "シリーズ構成：髙橋龍也",
+            "シナリオ：髙橋龍也、浦畑達彦、関根アユミ",
+            "キャラクターデザイン：谷 拓也、桜井正明、小関 雅",
+            "アニメーション制作：Studio五組、AXsiZ",
+            "製作：「ラーメン大好き小泉さん」製作委員会"
+        ],
+        "copyrights": [
+            "(C)鳴見なる・竹書房／「ラーメン大好き小泉さん」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683012855,
+    "endAt": 1740754800,
+    "transcodeVersion": "256KjF",
+    "sharedLink": {
+        "twitter": "https://abema.app/8wVm",
+        "facebook": "https://abema.app/EgQY",
+        "google": "https://abema.app/yctQ",
+        "line": "https://abema.app/hbu1",
+        "copy": "https://abema.app/FYEE",
+        "instagram": "https://abema.app/5bkw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-2_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1240.246627,
+        "opening": {
+            "start": 246.377354,
+            "end": 335.917467
+        },
+        "ending": {
+            "start": 1240.43646,
+            "end": 1329.388183
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-2_s1_p12",
+        "title": "十二杯目 「名古屋」「再会」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1683012855,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-2_s1_p11/timeline",
+        "query": "version=256KjF",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "168-2_eg0"
+}

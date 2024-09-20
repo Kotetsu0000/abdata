@@ -1,0 +1,157 @@
+{
+    "id": "19-199_s1_p1",
+    "series": {
+        "id": "19-199",
+        "title": "下の階には澪がいる",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "thumb.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "portrait.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-199_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 出会い/頭かち割りさん",
+        "content": "高校生の頃から憧れの真珠先輩と同じ青葉大に入学した杉浦陽。ある日下宿先に帰ると門の前にどこか見覚えのある女性が立っていた。彼女は芸能界を突如引退した元人気アイドルの如月澪だった。澪は陽にライターの火を向けて威嚇し、警戒心をあらわにする。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "如月澪：坂本真綾",
+            "杉浦陽：河本啓佑",
+            "桃井真珠：大久保瑠美",
+            "三国紗羅：沼倉愛美"
+        ],
+        "crews": [
+            "原作：ミンソンア",
+            "監督：董易（ドン･イー）",
+            "脚本：江狐工作室",
+            "総演出監督：キム・シニョン",
+            "総作画監督：パク・ヨノク",
+            "音楽：楊秉音（ヤン・ビンイン）",
+            "アニメーション制作：RED DOG CULTURE HOUSE",
+            "日本語吹き替え版",
+            "演出：太田信乃",
+            "翻訳：鳥居怜子、本多由枝",
+            "音響制作：東北新社",
+            "日本版製作：フジテレビジョン、bilibili"
+        ],
+        "copyrights": [
+            "(C)bilibili"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129302,
+    "endAt": 1759244400,
+    "transcodeVersion": "3E9HSU",
+    "sharedLink": {
+        "twitter": "https://abema.app/uqtT",
+        "facebook": "https://abema.app/nS8y",
+        "google": "https://abema.app/foAt",
+        "line": "https://abema.app/N1qo",
+        "copy": "https://abema.app/BKgz",
+        "instagram": "https://abema.app/WJow"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-199_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-199_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-199_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-199_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1302.0090416666667,
+        "opening": {
+            "start": 134.008875,
+            "end": 224.01545833333333
+        },
+        "ending": {
+            "start": 1302.0090416666667,
+            "end": 1392.0573333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-199_s1_p2",
+        "title": "第2話 もっと彼女を知りたい/桜の下の本心",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129302,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-199_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-199_eg0"
+}

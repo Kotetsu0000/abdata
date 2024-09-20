@@ -1,0 +1,160 @@
+{
+    "id": "19-86_s1_p12",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "【MISSION：12】ペンギンパーク",
+        "content": "〈WISE(ワイズ)〉の任務に忙殺されて、この日もロイドはヘトヘトになって帰宅。そんな時、彼は自分が家族をないがしろにしているという近隣住人の噂話を聞く。わずかな疑惑がオペレーション〈梟(ストリクス)〉に支障をきたすことを恐れたロイドは、仲の良い家族を周囲に見せつけるため、次の休日に水族館へ行くことに。しかしそこでも〈WISE(ワイズ)〉の新たな任務が発生してしまい……！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "freeEndAt": 1726761600,
+    "transcodeVersion": "6GR8dB",
+    "sharedLink": {
+        "twitter": "https://abema.app/FFNT",
+        "facebook": "https://abema.app/fjnY",
+        "google": "https://abema.app/JHHa",
+        "line": "https://abema.app/Eg2X",
+        "copy": "https://abema.app/4Vzs",
+        "instagram": "https://abema.app/8b5i"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-86_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-86_s1_p12/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-86_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-86_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1360.090266,
+        "opening": {
+            "start": 75.063097,
+            "end": 162.0631
+        },
+        "ending": {
+            "start": 1360.109385,
+            "end": 1450.109388
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p13",
+        "title": "【MISSION：13】プロジェクト〈アップル〉",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726765200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p12/4/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726761600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

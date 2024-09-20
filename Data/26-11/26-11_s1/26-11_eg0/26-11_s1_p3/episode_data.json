@@ -1,0 +1,177 @@
+{
+    "id": "26-11_s1_p3",
+    "series": {
+        "id": "26-11",
+        "title": "傷物語",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-11",
+            "filename": "thumb.png",
+            "query": "version=1703226806",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-11",
+            "filename": "portrait.png",
+            "query": "version=1703226806",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-11_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4955
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "傷物語〈Ⅲ冷血篇〉",
+        "content": "ドラマツルギー、エピソード、そしてギロチンカッター― 怪異の専門家・忍野メメの助力も得て、３人の強敵との戦いに勝ち抜いた阿良々木暦。 彼はついに、吸血鬼キスショット・アセロラオリオン・ハートアンダーブレードの 四肢を奪い返すことに成功する。 すべては、普通の人間に戻るため……。 しかし再びキスショットのもとを訪れた暦は、吸血鬼という存在、 その恐るべき本質を知ることになるのだった。 決して取り返しのつかない自分の行為を悔やみ、そしてその顛末に困惑する暦。 後悔にさいなまれる彼の前に現れたのはほかでもない、暦の「友人」羽川翼だった。 そして彼女が暦に告げた、ある提案とは……。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "阿良々木暦：神谷浩史",
+            "キスショット・アセロラオリオン・ハートアンダーブレード：坂本真綾",
+            "羽川 翼：堀江由衣",
+            "忍野メメ：櫻井孝宏"
+        ],
+        "crews": [
+            "原作：西尾維新",
+            "総監督：新房昭之",
+            "監督：尾石達也",
+            "キャラクターデザイン：渡辺明夫、守岡英行",
+            "音楽：神前暁"
+        ],
+        "copyrights": [
+            "(C)西尾維新／講談社・アニプレックス・シャフト"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703223006,
+    "endAt": 1777647600,
+    "freeEndAt": 1726995600,
+    "transcodeVersion": "5Kcspa",
+    "sharedLink": {
+        "twitter": "https://abema.app/6fXt",
+        "facebook": "https://abema.app/xcei",
+        "google": "https://abema.app/5ET6",
+        "line": "https://abema.app/36Ar",
+        "copy": "https://abema.app/HAzv",
+        "instagram": "https://abema.app/hZfR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-11_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-11_s1_p3/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/26-11_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-11_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-11_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 4587.856477
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-11_s1_p3/timeline",
+        "query": "version=5Kcspa",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726995600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1777647600
+        }
+    ],
+    "rentalInfo": {
+        "availableDuration": 2592000,
+        "viewableDuration": 259200,
+        "items": [
+            {
+                "id": "DrfevrtumofrnT",
+                "startAt": 1607871600,
+                "endAt": 1677596400,
+                "subscriptionType": 1,
+                "deviceType": 1,
+                "coinAmount": 500,
+                "regularCoinAmount": 500,
+                "campaigns": null
+            },
+            {
+                "id": "Drffbfay15eHrX",
+                "startAt": 1607871600,
+                "endAt": 1677596400,
+                "subscriptionType": 1,
+                "deviceType": 2,
+                "coinAmount": 450,
+                "regularCoinAmount": 450,
+                "campaigns": null
+            },
+            {
+                "id": "DrfdbFWoKFizeK",
+                "startAt": 1607871600,
+                "endAt": 1677596400,
+                "subscriptionType": 2,
+                "deviceType": 1,
+                "coinAmount": 450,
+                "regularCoinAmount": 500,
+                "campaigns": null
+            },
+            {
+                "id": "DrfeG4CrYXhRiP",
+                "startAt": 1607871600,
+                "endAt": 1677596400,
+                "subscriptionType": 2,
+                "deviceType": 2,
+                "coinAmount": 400,
+                "regularCoinAmount": 450,
+                "campaigns": null
+            }
+        ]
+    },
+    "episodeGroupId": "26-11_eg0"
+}

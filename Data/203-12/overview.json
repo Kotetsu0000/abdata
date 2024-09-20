@@ -1,0 +1,101 @@
+{
+    "id": "203-12",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "Ｂビーダマン爆外伝",
+    "content": "しろボンたち「ビーダマン」とペットや家畜、虫や鳥などの生き物「ビーダロン」が平和に暮らす「ビーダシティ」に、悪の魂を持つ「ダークビーダ」が現れ、「ビーダマン」たちを襲った。\n　天才化学者、グレイボン博士が開発した「ビーダアーマー」で、正義感溢れる「しろボン」、ダジャレ連発・一本気な「きいろボン」、メカが得意な「あおボン」、紅一点の「あかボン」が立ち上がる。\n　グレイボン博士の助手、ビーダロンの「ルイルイ」をはじめ、次々に登場するビーダロン、敵か味方か謎の「くろボン」、そしてダークビーダたちの目的は？。",
+    "seasons": [
+        {
+            "id": "203-12_s1",
+            "sequence": 1,
+            "name": "season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/203-12_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1699864944",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "203-12_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "203-12_s2",
+            "sequence": 2,
+            "name": "season2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/203-12_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1699864964",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "203-12_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)Konami Digital Entertainment／ADK EM"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726221134850205906",
+    "imageUpdatedAt": 1699864787,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/vugF",
+        "facebook": "https://abema.app/FAhT",
+        "google": "https://abema.app/iWjv",
+        "line": "https://abema.app/yA8t",
+        "copy": "https://abema.app/MvWq",
+        "instagram": "https://abema.app/izcQ"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+        "filename": "thumb.png",
+        "query": "version=1699864787",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+        "filename": "portrait.png",
+        "query": "version=1699864787",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "1話〜24話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,145 @@
+{
+    "id": "413-12_s1_p10",
+    "series": {
+        "id": "413-12",
+        "title": "異世界ゆるり紀行 ～子育てしながら冒険者します～",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-12",
+            "filename": "thumb.png",
+            "query": "version=1721295603",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-12",
+            "filename": "portrait.png",
+            "query": "version=1721295603",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "413-12_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 「おともだち……できるかな……」",
+        "content": "新たな迷宮を見つけたタクミたちは、領主セドリック・リスナーの家に招かれる。そこで領主の息子テオドールとラティスを紹介されるアレンとエレナ。だが、歳の近い子供と話すのは初めての二人は思わず人見知りし、モジモジとタクミの背後に隠れてしまい……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "タクミ・カヤノ：白井悠介",
+            "アレン：鈴木愛奈",
+            "エレナ：花井美春",
+            "シルフィリール：戸松遥"
+        ],
+        "crews": [
+            "原作 ：水無月静琉（アルファポリス刊）",
+            "原作イラスト：やまかわ",
+            "漫画：みずなともみ",
+            "監督：濁川敦",
+            "シリーズ構成：前川淳",
+            "キャラクターデザイン：中野裕紀",
+            "美術監督：桑原悟",
+            "色彩設計：いわみみか。",
+            "撮影監督：設楽希",
+            "音響監督：森下広人",
+            "音響効果：櫻井陽子",
+            "録音：武藤雅人",
+            "録音助手：山田理紗子",
+            "音響スタジオ： スリーエススタジオ",
+            "音響制作： Ai Addiction",
+            "音楽：鈴木暁也",
+            "編集：新見元希（REAL-T）",
+            "制作スタジオ：EMTスクエアード",
+            "制作協力：ビー・バード",
+            "プロデュース：ジェンコ"
+        ],
+        "copyrights": [
+            "(C)水無月静琉・アルファポリス／異世界ゆるり紀行製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726129285,
+    "endAt": 1759244400,
+    "freeEndAt": 1726682400,
+    "transcodeVersion": "54Pq1K",
+    "sharedLink": {
+        "twitter": "https://abema.app/EFBN",
+        "facebook": "https://abema.app/899V",
+        "google": "https://abema.app/WpLq",
+        "line": "https://abema.app/Ztwh",
+        "copy": "https://abema.app/1Zi8",
+        "instagram": "https://abema.app/1htd"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/413-12_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/413-12_s1_p10/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/413-12_s1_p10/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/413-12_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.413-12_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.1254583333334,
+        "opening": {
+            "start": 21.021,
+            "end": 110.985875
+        },
+        "ending": {
+            "start": 1335.1254583333334,
+            "end": 1425.048625
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/413-12_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726682400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "413-12_eg0"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "19-193",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "喧嘩独学",
+    "content": "母親の入院費を稼ぐため貧乏生活を送る、スクールカースト最底辺の高校生・志村光太。\n学校では不良のハマケンからゴミのように扱われ、負け組人生に日々絶望していた。\nそんなある日、クラスメイトのカネゴンと殴り合う様子が誤って全世界へ生配信！？\n底辺同士のイタすぎる喧嘩動画は瞬く間に広がり、一晩でまさかの1000万再生を突破！！！\n再生数が金になることを知った光太が噛みつく相手は不良に、ヤンキーに、プロ格闘家とエスカレートしていき…\nプロのいじめられっ子、反撃開始───ッ！！！",
+    "seasons": [
+        {
+            "id": "19-193_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-193_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1712454454",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-193_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "19-193_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(Ｃ)PTJ cartoon company・金正賢/LDF・喧嘩独学製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1721215522784360586",
+    "imageUpdatedAt": 1712454400,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/EEPU",
+        "facebook": "https://abema.app/7rF7",
+        "google": "https://abema.app/bkMc",
+        "line": "https://abema.app/uK5v",
+        "copy": "https://abema.app/LD9q",
+        "instagram": "https://abema.app/7Gfx"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-193",
+        "filename": "thumb.png",
+        "query": "version=1712454400",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-193",
+        "filename": "portrait.png",
+        "query": "version=1712454400",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

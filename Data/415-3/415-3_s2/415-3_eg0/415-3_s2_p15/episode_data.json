@@ -1,0 +1,141 @@
+{
+    "id": "415-3_s2_p15",
+    "series": {
+        "id": "415-3",
+        "title": "MIX MEISEI STORY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "thumb.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "portrait.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-3_s2",
+        "sequence": 2,
+        "name": "MIX MEISEI STORY ～二度目の夏、空の向こうへ～",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "#15 えいしん？",
+        "content": "明青学園の次の対戦相手は栄新高校。２７年前の東東京大会準々決勝、走一郎と音美の実父・澤井圭一の選手生命が絶たれた試合の対戦相手だった。当事者として心に傷を負ったままの千本木は、当時のキャプテンでキャッチャーだった大山監督に「やりにくくないか？」と声をかける。公式戦での対戦は、その時以来。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "立花投馬：梶裕貴",
+            "立花走一郎：内田雄馬",
+            "立花音美：内田真礼",
+            "大山春夏：花澤香菜",
+            "立花英介：高木渉",
+            "立花真弓：井上喜久子",
+            "西村勇：中尾隆聖",
+            "パンチ：金光宣明",
+            "ナレーション：日髙のり子"
+        ],
+        "crews": [
+            "監督：神谷智大",
+            "シリーズ構成：冨岡淳広",
+            "キャラクターデザイン：牧孝雄",
+            "音響監督：亀山俊樹",
+            "音楽：住友紀人",
+            "アニメーション制作：OLM"
+        ],
+        "copyrights": [
+            "(C) あだち充／MIX MEISEI STORY製作委員会 2023"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719302117,
+    "endAt": 1740754800,
+    "transcodeVersion": "7VUdix",
+    "sharedLink": {
+        "twitter": "https://abema.app/X5Pc",
+        "facebook": "https://abema.app/6NXn",
+        "google": "https://abema.app/2Bhj",
+        "line": "https://abema.app/Zejm",
+        "copy": "https://abema.app/7SLN",
+        "instagram": "https://abema.app/8h7B"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-3_s2_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-3_s2_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-3_s2_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-3_s2_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0170416666667,
+        "opening": {
+            "start": 114.03058333333334,
+            "end": 203.95375
+        },
+        "ending": {
+            "start": 1310.0170416666667,
+            "end": 1400.023625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-3_s2_p16",
+        "title": "#16 全力プレーだ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719302117,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-3_s2_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-3_eg0"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "115-44_s1_p8",
+    "series": {
+        "id": "115-44",
+        "title": "kiss×sis",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "thumb.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "portrait.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-44_s1",
+        "sequence": 1,
+        "name": "Kiss×sis",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 八月はいつもアレ",
+        "content": "予備校の特別夏期講習に熱心に通い、いつになく勉強に励んでいる圭太。あことりこもいつものように圭太に迫ることなく、マッサージをしてあげたり夜食を作ってあげたりと、いいお姉ちゃんぶりを見せている。しかしそんな殊勝な態度はカモフラージュに過ぎなかった。２人は来たる夏祭りで、圭太と忘れられない夏の思い出を作ろうと燃えていたのだった。そして夏祭り当日。会場へ来たあことりこは、圭太の手を引っ張って取り合いを始める。ところがそこへ盆踊りの一団がやってきて、３人は人波に飲みこまれてしまうのだった。ようやく抜け出した時、圭太の腕がつかんでいたのは……。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "住之江あこ：竹達彩奈",
+            "住之江りこ：巽悠衣子",
+            "住之江圭太：武内健",
+            "三国美春：永田依子",
+            "桐生夕月：今井麻美",
+            "桐生三日月：大亀あすか"
+        ],
+        "crews": [
+            "原作：ぢたま某",
+            "企画：森山敦",
+            "監督：名和宗則",
+            "シリーズ構成：長谷川勝己",
+            "キャラクターデザイン：下谷智之"
+        ],
+        "copyrights": [
+            "（Ｃ）ぢたま某・講談社／kiss×sis製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1716522749,
+    "endAt": 1751295600,
+    "transcodeVersion": "5e1RUv",
+    "sharedLink": {
+        "twitter": "https://abema.app/1wjV",
+        "facebook": "https://abema.app/mAUn",
+        "google": "https://abema.app/X3Lg",
+        "line": "https://abema.app/Ck3s",
+        "copy": "https://abema.app/29A6",
+        "instagram": "https://abema.app/NA3n"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-44_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-44_s1_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-44_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-44_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.9853333333333,
+        "opening": {
+            "start": 66.03263333333334,
+            "end": 156.02253333333334
+        },
+        "ending": {
+            "start": 1319.9853333333333,
+            "end": 1409.9418666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-44_s1_p9",
+        "title": "第9話 苦しい時は神頼み",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1716522749,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-44_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "115-44_eg0"
+}

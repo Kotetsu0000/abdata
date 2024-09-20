@@ -1,0 +1,146 @@
+{
+    "id": "19-195_s1_p14",
+    "series": {
+        "id": "19-195",
+        "title": "CLANNAD",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "thumb.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "portrait.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-195_s1",
+        "sequence": 1,
+        "name": "CLANNAD",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 14,
+        "title": "第14話 Theory of Everything",
+        "content": "ことみのためにできること。渚と杏、椋はことみの誕生日にむけて動き出し\n 朋也はことみの家の荒れ果てた庭のそうじをはじめる。\n 渚たちも時間を見つけては朋也を手伝い、家の中のことみに呼びかけるが、返事はなく…。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "中村悠一",
+            "中原麻衣",
+            "広橋 涼",
+            "神田朱未",
+            "桑島法子",
+            "野中 藍",
+            "能登麻美子",
+            "阪口大助",
+            "置鮎龍太郎",
+            "井上喜久子",
+            "雪野五月",
+            "榎本温子"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：Key/ビジュアルアーツ",
+            "脚本：志茂文彦",
+            "音楽：折戸伸治、戸越まごめ、麻枝准"
+        ],
+        "copyrights": [
+            "（Ｃ）VisualArt's/Key/光坂高校演劇部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712635566,
+    "endAt": 1746025200,
+    "transcodeVersion": "mdWAm",
+    "sharedLink": {
+        "twitter": "https://abema.app/FsKr",
+        "facebook": "https://abema.app/AK9v",
+        "google": "https://abema.app/vAUY",
+        "line": "https://abema.app/dMuK",
+        "copy": "https://abema.app/MppA",
+        "instagram": "https://abema.app/mFDz"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p14/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p14/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-195_s1_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0387,
+        "opening": {
+            "start": 55.055,
+            "end": 144.81133333333332
+        },
+        "ending": {
+            "start": 1340.0387,
+            "end": 1429.9952333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-195_s1_p15",
+        "title": "第15話 困った問題",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712635578,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-195_s1_p14/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-195_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "25-259_s1_p23",
+    "series": {
+        "id": "25-259",
+        "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "thumb.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "portrait.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-259_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_28",
+                "name": "歴史・戦記"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23幕 仕組まれた災禍としかるべき報い",
+        "content": "テレオ村の麦粉に毒が混ざっていたとして、エンベルクが返金を求めてきた。村との不利な契約を反故にしたいエンベルクによる自作自演としか思えなかったが、村を守るためロレンスは犯人として突き出されそうになっていた。そこでロレンスは同じく立場の悪いエルサとエヴァンとともに、ホロの力を借りて逃げ出そうと考える。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クラフト・ロレンス：福山 潤",
+            "ホロ：小清水亜美"
+        ],
+        "crews": [
+            "原作：支倉凍砂（電撃文庫『狼と香辛料』/ＫＡＤＯＫＡＷＡ刊）",
+            "キャラクター原案：文倉 十",
+            "総監督：高橋丈夫",
+            "監督：さんぺい 聖",
+            "音楽：Kevin Penkin",
+            "プロデュース：ENISHIYA",
+            "アニメーション制作：パッショーネ"
+        ],
+        "copyrights": [
+            "(C)2024 支倉凍砂・KADOKAWA／ローエン商業組合"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725962588,
+    "endAt": 1790780400,
+    "freeEndAt": 1726507800,
+    "transcodeVersion": "5um4XD",
+    "sharedLink": {
+        "twitter": "https://abema.app/iPQg",
+        "facebook": "https://abema.app/GGDS",
+        "google": "https://abema.app/F1cW",
+        "line": "https://abema.app/GPYn",
+        "copy": "https://abema.app/4UQi",
+        "instagram": "https://abema.app/r279"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-259_s1_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-259_s1_p23/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-259_s1_p23/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-259_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-259_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1334.9669666666666,
+        "opening": {
+            "start": 198.9988,
+            "end": 288.95533333333333
+        },
+        "ending": {
+            "start": 1334.9669666666666,
+            "end": 1424.9235
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-259_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726507800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "25-259_eg0"
+}

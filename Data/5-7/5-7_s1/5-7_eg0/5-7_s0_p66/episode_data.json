@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p66",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1451
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 66,
+        "title": "第66話 ｢走れケンシロウ！また一人友が死んで行く！！」",
+        "content": "聖帝十字陵に着いたケンシロウ。時同じくしてラオウ、トキも姿を現した。死の階段を上りきったシュウにサウザーのとどめの槍が刺さる・・・その時シュウの身に奇跡が！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "w6QZ9",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Ay6aZ",
+        "facebook": "https://gxyt4.app.goo.gl/5UZjm",
+        "google": "https://gxyt4.app.goo.gl/PXFmS",
+        "line": "https://gxyt4.app.goo.gl/KeBd9",
+        "copy": "https://gxyt4.app.goo.gl/SnC2S",
+        "instagram": "https://gxyt4.app.goo.gl/xTR4Z"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p66/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p66/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p66/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p66"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.629155,
+        "opening": {
+            "start": 33.089886,
+            "end": 124.581088
+        },
+        "ending": {
+            "start": 1340.629155,
+            "end": 1430.387488
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p67",
+        "title": "第67話 ｢極星激突ケンＶＳサウザー！天を守るは我が星一つ！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p66/timeline",
+        "query": "version=w6QZ9",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

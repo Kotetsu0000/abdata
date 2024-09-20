@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s19_p743",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s19",
+        "sequence": 19,
+        "name": "season19",
+        "thumbComponent": {},
+        "order": 19
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 743,
+        "title": "第743話 偶然は二度かさなる",
+        "content": "美月が女性を襲ってバッグを奪う連続強盗犯フード男に襲われる事件が発生。近くにいたコナン、小五郎、蘭はフード男を捕まえ、美月を助けるが…。この後、現場周辺で美月のルームメイト、陽子の遺体が発見される。コナンは他の被害者たちが財布ごと奪われたのに陽子だけ財布から現金のみ奪われた事に違和感を抱いて…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066313,
+    "endAt": 1740754800,
+    "transcodeVersion": "NV7JQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/fex6",
+        "facebook": "https://abema.app/aae4",
+        "google": "https://abema.app/8nrW",
+        "line": "https://abema.app/wTV7",
+        "copy": "https://abema.app/wdX8",
+        "instagram": "https://abema.app/EDP8"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s19_p743/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s19_p743/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s19_p743/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s19_p743"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 75.34193333333333,
+            "end": 162.99616666666665
+        },
+        "ending": {
+            "start": 1316.315,
+            "end": 1396.0947
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s19_p744",
+        "title": "第744話 容疑者か京極真（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066313,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s19_p743/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

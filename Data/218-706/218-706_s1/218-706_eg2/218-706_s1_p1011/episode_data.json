@@ -1,0 +1,121 @@
+{
+    "id": "218-706_s1_p1011",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 688
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1011,
+        "title": "#6：WIT STUDIO アニメーター・浅野恭司インタビュー後編",
+        "content": "「アニメとは、自分にとって日常」浅野恭司が思い描く夢とは？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126679,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "5MVDiE",
+    "sharedLink": {
+        "twitter": "https://abema.app/3aar",
+        "facebook": "https://abema.app/NJa6",
+        "google": "https://abema.app/nX3G",
+        "line": "https://abema.app/fXaZ",
+        "copy": "https://abema.app/Q387",
+        "instagram": "https://abema.app/3KYu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-706_s1_p1011/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-706_s1_p1011/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-706_s1_p1011/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-706_s1_p1011/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p1011"
+    },
+    "viewingPoint": {
+        "suggestion": 683.3159666666667
+    },
+    "nextProgramInfo": {
+        "programId": "218-706_s1_p1013",
+        "title": "#7：声優事務所スタイルキューブ代表・野口隆行インタビュー前編",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726126679,
+        "endAt": 1745074800,
+        "freeEndAt": 1745074800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1745074800
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p1011/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg2"
+}

@@ -1,0 +1,149 @@
+{
+    "id": "19-183_s2_p10",
+    "series": {
+        "id": "19-183",
+        "title": "けいおん!",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "thumb.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "portrait.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-183_s2",
+        "sequence": 2,
+        "name": "けいおん！！",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 先生!",
+        "content": "朝の登校中に､紬は車に乗った人物と話すさわ子先生を見かける｡放課後､音楽室で気まずそうに電話しているさわ子先生｡それを怪しむ軽音部は､ある行動に出る｡"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "豊崎愛生",
+            "日笠陽子",
+            "佐藤聡美",
+            "寿 美菜子",
+            "竹達彩奈",
+            "真田アサミ",
+            "米澤 円",
+            "藤東知夏",
+            "永田依子"
+        ],
+        "crews": [
+            "監督：山田尚子",
+            "プロデューサー：中山佳久、中村伸一、太布尚弘、八田陽子",
+            "原作：｢けいおん!｣かきふらい",
+            "脚本：吉田玲子、村元克彦、花田十輝、横谷昌宏",
+            "音楽：百石 元"
+        ],
+        "copyrights": [
+            "(C)かきふらい･芳文社/桜高軽音部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1704340804,
+    "endAt": 1740754800,
+    "freeEndAt": 1726480800,
+    "transcodeVersion": "2kgqf7",
+    "sharedLink": {
+        "twitter": "https://abema.app/52Ay",
+        "facebook": "https://abema.app/XRBQ",
+        "google": "https://abema.app/VvUU",
+        "line": "https://abema.app/iBfH",
+        "copy": "https://abema.app/F45K",
+        "instagram": "https://abema.app/fAvv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-183_s2_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-183_s2_p10/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-183_s2_p10/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-183_s2_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-183_s2_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.7867916666667,
+        "opening": {
+            "start": 18.018,
+            "end": 107.81604166666666
+        },
+        "ending": {
+            "start": 1329.7867916666667,
+            "end": 1419.7516666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-183_s2_p11",
+        "title": "第11話 暑い!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1704340804,
+        "endAt": 1740754800,
+        "freeEndAt": 1726480800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726480800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-183_s2_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726480800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-183_eg0"
+}

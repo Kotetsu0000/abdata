@@ -1,0 +1,153 @@
+{
+    "id": "26-13_s1_p5",
+    "series": {
+        "id": "26-13",
+        "title": "黒執事Ⅱ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "thumb.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "portrait.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-13_s1",
+        "sequence": 1,
+        "name": "黒執事Ⅱ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "episode5 狼煙（のろ）執事",
+        "content": "トランシー家の主催する仮装舞踏会に招待されたシエル。舞踏会には、エリザベスやソーマたちも訪れており、思い思いの格好に仮装しながらパーティーを楽しんでいた。“女王の蜘蛛”と呼ばれるトランシー家を不審に思うシエルは、密かに邸内を探るよう、セバスチャンに命じる。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "セバスチャン・ミカエリス：小野大輔",
+            "シエル・ファントムハイヴ：坂本真綾",
+            "クロード・フォースタス：櫻井孝宏",
+            "アロイス・トランシー：水樹奈々",
+            "ハンナ・アナフェローズ：平野 綾"
+        ],
+        "crews": [
+            "原作：枢やな",
+            "監督：小倉宏文",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン・総作画監督：芝美奈子",
+            "音楽：岩崎　琢"
+        ],
+        "copyrights": [
+            "(C)枢やな/スクウェアエニックス・「黒執事Ⅱ」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708327427,
+    "endAt": 1741532400,
+    "transcodeVersion": "4jj1E9",
+    "sharedLink": {
+        "twitter": "https://abema.app/CnEe",
+        "facebook": "https://abema.app/ZPLR",
+        "google": "https://abema.app/5e6f",
+        "line": "https://abema.app/cYtj",
+        "copy": "https://abema.app/F2WR",
+        "instagram": "https://abema.app/dNY6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-13_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-13_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-13_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-13_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1462.09,
+        "opening": {
+            "start": 46.067333,
+            "end": 136.022866
+        },
+        "ending": {
+            "start": 1347.067033,
+            "end": 1437.122666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-13_s1_p6",
+        "title": "episode6 夜露（よろ）執事",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708327427,
+        "endAt": 1741532400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741532400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-13_s1_p5/timeline",
+        "query": "version=4jj1E9",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-13_eg0"
+}

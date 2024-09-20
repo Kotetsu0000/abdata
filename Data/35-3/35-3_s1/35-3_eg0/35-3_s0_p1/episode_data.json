@@ -1,0 +1,149 @@
+{
+    "id": "35-3_s0_p1",
+    "series": {
+        "id": "35-3",
+        "title": "新あたしンち",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "thumb.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "portrait.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 母『強気で！』／ユズ、サングラスかけたい／母、新兵器が好き",
+        "content": "「母『強気で！』」何事にも強気で突き進む母に、全くついて行けないみかん。そんなある日、みかんは岩木くんに近づく大チャンスを迎える…！？母の助言が、みかんの背中を押す！？"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "母：渡辺久美子",
+            "みかん：折笠富美子",
+            "ユズヒコ：阪口大助",
+            "父：緒方賢一"
+        ],
+        "crews": [
+            "監督：小倉宏文",
+            "脚本：けらえいこ、清水 東、福島直浩、田嶋久子、うえのきみこ"
+        ],
+        "copyrights": [
+            "ⓒけらえいこ/シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1689133951,
+    "endAt": 1756652400,
+    "freeEndAt": 1756652400,
+    "transcodeVersion": "6cM5NS",
+    "sharedLink": {
+        "twitter": "https://abema.app/3foq",
+        "facebook": "https://abema.app/yoPg",
+        "google": "https://abema.app/5dLr",
+        "line": "https://abema.app/o7PX",
+        "copy": "https://abema.app/jGHc",
+        "instagram": "https://abema.app/4FHi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-3_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-3_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.135133,
+        "opening": {
+            "end": 55.142066
+        },
+        "ending": {
+            "start": 1315.135133,
+            "end": 1375.127067
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-3_s0_p2",
+        "title": "第2話 みかん、初期化される／この町も長いわね／父は器が大きい",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1689133951,
+        "endAt": 1756652400,
+        "freeEndAt": 1726974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-3_s0_p1/timeline",
+        "query": "version=6cM5NS",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-3_eg0"
+}

@@ -1,0 +1,143 @@
+{
+    "id": "5-52_s1_p33",
+    "series": {
+        "id": "5-52",
+        "title": "スイートプリキュア♪",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-52",
+            "filename": "thumb.png",
+            "query": "version=1721021920",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-52",
+            "filename": "portrait.png",
+            "query": "version=1721021920",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-52_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1462
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 33,
+        "title": "第33話　ホワワ〜ン！ みんなの夢はプリキュアの力ニャ！",
+        "content": "加音町のピアノコンクールに向けて猛練習中！　なんだけど、私が出場すること、パパには言えなくて…。でも、なんとそのパパが審査員!?　どうしよう…。私だとバレないようにするには…そうだ、いいこと考えた！"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "北条 響(キュアメロディ)：小清水亜美",
+            "南野 奏(キュアリズム)：折笠富美子",
+            "黒川エレン(キュアビート)：豊口めぐみ",
+            "調辺アコ(キュアミューズ)：大久保瑠美"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、関 弘美",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔",
+            "シリーズディレクター：境 宗久",
+            "シリーズ構成：大野敏哉",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：高橋 晃"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721210182,
+    "endAt": 1740754800,
+    "transcodeVersion": "2Spm1g",
+    "sharedLink": {
+        "twitter": "https://abema.app/zZT8",
+        "facebook": "https://abema.app/sNxn",
+        "google": "https://abema.app/SGJ1",
+        "line": "https://abema.app/aw2K",
+        "copy": "https://abema.app/B19b",
+        "instagram": "https://abema.app/zBZm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-52_s1_p33/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-52_s1_p33/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-52_s1_p33/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-52_s1_p33"
+    },
+    "viewingPoint": {
+        "suggestion": 1342.8081333333334,
+        "opening": {
+            "start": 113.98053333333333,
+            "end": 198.8987
+        },
+        "ending": {
+            "start": 1342.8081333333334,
+            "end": 1432.7980333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-52_s1_p34",
+        "title": "第34話　ズドド〜ン！ メフィストがやって来ちゃったニャ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721210202,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-52_s1_p33/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-52_eg0"
+}

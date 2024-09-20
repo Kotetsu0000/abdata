@@ -1,0 +1,140 @@
+{
+    "id": "25-90_s0_p1",
+    "series": {
+        "id": "25-90",
+        "title": "劇場版 ソードアート・オンライン –オーディナル・スケール-",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-90",
+            "filename": "thumb.png",
+            "query": "version=1681283859",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-90",
+            "filename": "portrait.png",
+            "query": "version=1681283859",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-90_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 7215
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "劇場版 ソードアート・オンライン –オーディナル・スケール-",
+        "content": "世界初のフルダイブ専用デバイス≪ナーヴギア≫開発から4 年。フルダイブ機能を排除しAR機能を最大限に広げた次世代デバイス≪オーグマー≫が爆発的にヒットした。その人気を牽引したのは≪オーディナル・スケール≫という専用ARMMORPG。アスナたちもプレイするそのゲームに、キリトも参戦しようとするが……。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "キリト(桐ヶ谷和人)：松岡禎丞",
+            "アスナ(結城明日奈)：戸松遥",
+            "ユイ：伊藤かな恵",
+            "リーファ(桐ヶ谷直葉)：竹達彩奈",
+            "シリカ(綾野珪子)：日高里菜",
+            "リズベット(篠崎里香)：高垣彩陽",
+            "シノン(朝田詩乃)：沢城みゆき",
+            "クライン(壷井遼太郎)：平田広明",
+            "エギル(アンドリュー・ギルバート・ミルズ)：安元洋貴",
+            "茅場晶彦：山寺宏一",
+            "ユナ：神田沙也加",
+            "エイジ：井上芳雄",
+            "重村：鹿賀丈史"
+        ],
+        "crews": [
+            "原作：川原 礫（「電撃文庫」刊）",
+            "原作イラスト・キャラクターデザイン原案：abec",
+            "監督：伊藤智彦",
+            "脚本：川原 礫・伊藤智彦",
+            "キャラクターデザイン・総作画監督：足立慎吾",
+            "音楽：梶浦由記",
+            "制作：A-1 Pictures",
+            "配給：アニプレックス",
+            "製作：SAO MOVIE Project"
+        ],
+        "copyrights": [
+            "(C)2016 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス刊／SAO MOVIE Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689217495,
+    "endAt": 1756652400,
+    "transcodeVersion": "5siqsE",
+    "sharedLink": {
+        "twitter": "https://abema.app/N9yV",
+        "facebook": "https://abema.app/H5SL",
+        "google": "https://abema.app/VnGA",
+        "line": "https://abema.app/x53U",
+        "copy": "https://abema.app/9g7r",
+        "instagram": "https://abema.app/2szM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-90_s0_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-90_s0_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-90_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-90_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 7210.2
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-90_s0_p1/timeline",
+        "query": "version=5siqsE",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726490100
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727745300
+        }
+    ],
+    "episodeGroupId": "25-90_eg0"
+}

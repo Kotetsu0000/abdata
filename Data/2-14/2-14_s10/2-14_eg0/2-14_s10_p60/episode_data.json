@@ -1,0 +1,147 @@
+{
+    "id": "2-14_s10_p60",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 60,
+        "title": "第60話 はじめての雪！ホッホッゲ―！！",
+        "content": "ロイの応用テストのためフリッジタウンを目指すリコたちは、ナッペ山にやってくる。ロイとホゲータは、初めての雪に大はしゃぎ！ナッぺ山に住むたくさんのポケモンとの交流を楽しむ一行は、山小屋で一晩休むことにする。焚火の薪を探しに行くロイとホゲータだったが、雪の中はぐれてしまって…！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャローテ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "総監督：冨安大貴",
+            "監督：でんさおり",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872173,
+    "endAt": 1777647600,
+    "transcodeVersion": "p2z3h",
+    "sharedLink": {
+        "twitter": "https://abema.app/81kA",
+        "facebook": "https://abema.app/buH5",
+        "google": "https://abema.app/s3qp",
+        "line": "https://abema.app/ewL4",
+        "copy": "https://abema.app/RCtc",
+        "instagram": "https://abema.app/gAfb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p60/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p60/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p60/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p60"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.5224166666667,
+        "opening": {
+            "start": 159.74291666666667,
+            "end": 249.79120833333334
+        },
+        "ending": {
+            "start": 1327.4928333333332,
+            "end": 1417.4577083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p61",
+        "title": "第61話 響け魂！ライムへの挑戦",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872173,
+        "endAt": 1777647600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1777647600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p60/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1777647600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

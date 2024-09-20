@@ -1,0 +1,133 @@
+{
+    "id": "5-63_s1_p45",
+    "series": {
+        "id": "5-63",
+        "title": "デリシャスパーティ♡プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-63",
+            "filename": "thumb.png",
+            "query": "version=1721612271",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-63",
+            "filename": "portrait.png",
+            "query": "version=1721612271",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-63_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 45,
+        "title": "第45話 デリシャスマイル～！みんなあつまれ！いただきます！！",
+        "content": "たたかいを終え、開放されていくレシピッピたち。お料理が戻ってきたことをお祝いしておいしーなタウンはお祭り！そして、ゆいたちは再びクッキングダムを訪れる"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "キュアプレシャス／和実ゆい：菱川花菜",
+            "キュアスパイシー／芙羽ここね：清水理沙",
+            "キュアヤムヤム／華満らん：井口裕香",
+            "コメコメ：高森奈津美",
+            "パムパム：日岡なつみ",
+            "メンメン：半場友恵",
+            "ローズマリー：前野智昭",
+            "品田拓海：内田雄馬",
+            "ジェントルー：茅野愛衣"
+        ],
+        "crews": [
+            "シリーズディレクター：深澤敏則",
+            "シリーズ構成：平林佐和子",
+            "キャラクターデザイン：油布京子",
+            "美術設定：増田竜太郎",
+            "美術監督：いいだりえ",
+            "色彩設計：清田直美",
+            "音楽：寺田志保",
+            "プロデューサー：多田 香奈子（ABCアニメーション）、矢﨑 史（ADKエモーションズ）、安見 香"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722312432,
+    "endAt": 1740754800,
+    "transcodeVersion": "4eojic",
+    "sharedLink": {
+        "twitter": "https://abema.app/vTcn",
+        "facebook": "https://abema.app/mA9x",
+        "google": "https://abema.app/LScT",
+        "line": "https://abema.app/ZwrM",
+        "copy": "https://abema.app/7woY",
+        "instagram": "https://abema.app/mHin"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-63_s1_p45/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-63_s1_p45/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-63_s1_p45/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-63_s1_p45"
+    },
+    "viewingPoint": {
+        "suggestion": 1455.1620416666667,
+        "opening": {
+            "start": 159.033875,
+            "end": 249.08216666666667
+        },
+        "ending": {
+            "start": 1312.8532083333334,
+            "end": 1364.11275
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-63_s1_p45/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-63_eg0"
+}

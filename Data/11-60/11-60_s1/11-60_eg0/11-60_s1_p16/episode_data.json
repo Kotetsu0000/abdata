@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p16",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 庭掃除",
+        "content": "夜桜家当主のみが発動権限持つ夜桜屋敷の完全封鎖「冬ごもり」が突如発動!?起動させた人物を追う凶一郎の前には、９代目当主の「桜の指輪」を持つ男の姿が。一方、意識の戻らない太陽を看病していた六美だが、突如屋敷が停電に見舞われ兄妹との通信が遮断されてしまう。さらに医療機器も停止してしまい、太陽の脈はみるみる弱まっていく。このままでは太陽が死んでしまう…！大切な人の命を繋ぐために、六美はある決断を下す！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "transcodeVersion": "3U4AwN",
+    "sharedLink": {
+        "twitter": "https://abema.app/zEop",
+        "facebook": "https://abema.app/zzgk",
+        "google": "https://abema.app/HCjY",
+        "line": "https://abema.app/EDdp",
+        "copy": "https://abema.app/mkwL",
+        "instagram": "https://abema.app/d64o"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1352.0173333333332,
+        "opening": {
+            "start": 142.016875,
+            "end": 231.98175
+        },
+        "ending": {
+            "start": 1352.0173333333332,
+            "end": 1441.9405
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p17",
+        "title": "第17話 七悪のくすり",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s13_p511",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s13",
+        "sequence": 13,
+        "name": "season13",
+        "thumbComponent": {},
+        "order": 13
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 511,
+        "title": "第511話 推理対決！新一ｖｓ沖矢昴",
+        "content": "新一と沖矢の推理対決が始まり、紙飛行機はSOSを意味すると解読する。コナンは新一として、他の紙飛行機の画像が欲しいというメールを蘭に返信。蘭は沖矢にメールの相手は金一というクラスメイトだとウソをつく。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：北田修一、小島哲、小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066307,
+    "endAt": 1740754800,
+    "transcodeVersion": "5BcSre",
+    "sharedLink": {
+        "twitter": "https://abema.app/ASUu",
+        "facebook": "https://abema.app/hWTZ",
+        "google": "https://abema.app/FVUq",
+        "line": "https://abema.app/Wza4",
+        "copy": "https://abema.app/wV1k",
+        "instagram": "https://abema.app/myAu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s13_p511/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s13_p511/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s13_p511/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s13_p511"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 15.749066666666666,
+            "end": 99.9999
+        },
+        "ending": {
+            "start": 1300.6326666666666,
+            "end": 1385.6175666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s13_p512",
+        "title": "第512話 砕けたホロスコープ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066307,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s13_p511/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

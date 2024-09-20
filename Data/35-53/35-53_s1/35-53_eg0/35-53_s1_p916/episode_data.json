@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p916",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 682
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 916,
+        "title": "#916 人間用タイムスイッチ",
+        "content": "見たいテレビ番組を見るのも忘れ、しずかと遊ぶ約束も忘れ、パパから頼まれた記念コインを買うことまで忘れてしまい、落ち込むのび太。そんなのび太のために、ドラえもんは四次元ポケットから『人間用タイムスイッチ』を取り出す。このタイムスイッチに、何時に何をするかを吹き込み、腕に付けると、いやでもその通りに動くようになるというのだ。\n　さっそく明日の予定を吹き込み、安心して眠りにつくのび太。ところが深夜２時、勝手に体が起き上がり、机に向かったところで目を覚ましたのび太は大あわて。どうやら午前と午後をまちがえて吹き込んでしまったようで…！？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1751295600,
+    "transcodeVersion": "4orMCW",
+    "sharedLink": {
+        "twitter": "https://abema.app/68sV",
+        "facebook": "https://abema.app/kSqM",
+        "google": "https://abema.app/v2vY",
+        "line": "https://abema.app/BzLx",
+        "copy": "https://abema.app/DJV2",
+        "instagram": "https://abema.app/xGta"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p916/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p916/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p916/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p916"
+    },
+    "viewingPoint": {
+        "suggestion": 677.0096666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p917",
+        "title": "#917 のび太がキュウリで一等賞？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p916/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

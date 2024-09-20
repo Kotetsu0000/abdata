@@ -1,0 +1,75 @@
+{
+    "id": "420-43",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "転生したらスライムだった件 転スラ日記",
+    "content": "「貴重な紙を手に入れたので、俺のこれまでを日記形式で綴ることにした。書き出しはそうだな…『転生したらスライムだった』。そこから俺の冒険が――冒険…が?」\nお茶目でユーモラスなリムルとテンペストの仲間たちの日常をふんだんに描く、“スライムライフ系”転生エンターテインメント!",
+    "seasons": [
+        {
+            "id": "420-43_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-43",
+                "filename": "thumb.png",
+                "query": "version=1681283740",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-43_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)柴・伏瀬・講談社／転スラ日記製作委員会"
+    ],
+    "label": {},
+    "version": "1708502668119204650",
+    "imageUpdatedAt": 1681283740,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/essQ",
+        "facebook": "https://abema.app/LQVR",
+        "google": "https://abema.app/QoY2",
+        "line": "https://abema.app/TVmT",
+        "copy": "https://abema.app/v6NB",
+        "instagram": "https://abema.app/7DM1"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-43",
+        "filename": "thumb.png",
+        "query": "version=1681283740",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-43",
+        "filename": "portrait.png",
+        "query": "version=1681283740",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

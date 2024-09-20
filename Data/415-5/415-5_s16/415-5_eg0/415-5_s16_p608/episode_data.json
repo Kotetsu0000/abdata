@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s16_p608",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s16",
+        "sequence": 16,
+        "name": "season16",
+        "thumbComponent": {},
+        "order": 16
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 608,
+        "title": "第608話 裏切りのホワイトデー（前編）",
+        "content": "小五郎はコナン、蘭と共にウライ製菓のパーティーに出席。社長の浦井垂人は毎回出し物を披露する事で有名。小五郎は指名を受け、壇上でスピーチを行う。スピーチ中、垂人の妻で副社長の星江は蘭に声をかけて手相を占っていると、垂人が苦しみ出して倒れてしまう。ミステリーの寸劇かと思われたが、垂人は絶命していて…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一･山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066310,
+    "endAt": 1740754800,
+    "transcodeVersion": "BgKcx",
+    "sharedLink": {
+        "twitter": "https://abema.app/XhZg",
+        "facebook": "https://abema.app/X7FG",
+        "google": "https://abema.app/EGxX",
+        "line": "https://abema.app/LjfZ",
+        "copy": "https://abema.app/yxm2",
+        "instagram": "https://abema.app/uBsg"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s16_p608/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s16_p608/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s16_p608/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s16_p608"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.0123333333333,
+        "opening": {
+            "start": 110.77733333333333,
+            "end": 196.9968
+        },
+        "ending": {
+            "start": 1347.0123333333333,
+            "end": 1426.9588666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s16_p609",
+        "title": "第609話 裏切りのホワイトデー（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066310,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s16_p608/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

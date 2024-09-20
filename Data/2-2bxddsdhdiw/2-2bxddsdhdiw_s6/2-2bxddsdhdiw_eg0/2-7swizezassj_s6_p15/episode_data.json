@@ -1,0 +1,149 @@
+{
+    "id": "2-7swizezassj_s6_p15",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s6",
+        "sequence": 6,
+        "name": "第6シリーズ",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 ウイークポイント",
+        "content": "マードックがチームになじみ始め、キーンも怪我から復帰して、再び連勝を続けるホーネッツ。\n吾郎の次の登板は、かつて所属していたサーモンズ戦。試合前、サンチェスやフォックスに声をかけた吾郎だが、冷たくあしらわれてしまう。ネルソンも、サーモンズで1番を打つ日本人選手・坂口に何か思うところがあるらしい…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "キーン：森川智之",
+            "ワッツ：家中 宏",
+            "マードック：山野井 仁",
+            "サンダース：石井康嗣"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277071,
+    "endAt": 1741446000,
+    "transcodeVersion": "3kPg4o",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/zM581",
+        "facebook": "https://gxyt4.app.goo.gl/96FWk",
+        "google": "https://gxyt4.app.goo.gl/G3ba2",
+        "line": "https://gxyt4.app.goo.gl/zRndK",
+        "copy": "https://gxyt4.app.goo.gl/ChUN2",
+        "instagram": "https://gxyt4.app.goo.gl/d5sot"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-7swizezassj_s6_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1465.06,
+        "opening": {
+            "start": 0.645188,
+            "end": 99.605734
+        },
+        "ending": {
+            "start": 1360.51161,
+            "end": 1449.7791
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-7swizezassj_s6_p16",
+        "title": "第16話 断固たる意志",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277071,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-7swizezassj_s6_p15/timeline",
+        "query": "version=3kPg4o",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

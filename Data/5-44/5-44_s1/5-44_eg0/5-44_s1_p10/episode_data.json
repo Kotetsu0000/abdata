@@ -1,0 +1,134 @@
+{
+    "id": "5-44_s1_p10",
+    "series": {
+        "id": "5-44",
+        "title": "ガールズバンドクライ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "thumb.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "portrait.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-44_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 ワンダーフォーゲル",
+        "content": "バンドとして活動を続ける仁菜のもとに、田舎から両親が訪れる。逃げ回る仁菜だったが、みんなに諭され渋々実家に戻る。父親と話をするものの、相変わらず理解してもらえない。翌日、仁菜が父親に連れていかれた場所は、かつて通っていた学校だった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "井芹仁菜：理名",
+            "河原木桃香：夕莉",
+            "安和すばる：美怜",
+            "海老塚智：凪都",
+            "ルパ：朱李"
+        ],
+        "crews": [
+            "原作・企画・製作：東映アニメーション",
+            "シリーズ構成：花田十輝",
+            "音楽プロデューサー：玉井健二 (agehasprings)",
+            "劇伴音楽：田中ユウスケ (agehasprings)",
+            "キャラクターデザイン：手島nari",
+            "CGディレクター：鄭 載薫",
+            "シリーズディレクター：酒井和男"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719816812,
+    "endAt": 1751295600,
+    "transcodeVersion": "5HRi2W",
+    "sharedLink": {
+        "twitter": "https://abema.app/R4EP",
+        "facebook": "https://abema.app/M5Yq",
+        "google": "https://abema.app/anBe",
+        "line": "https://abema.app/bMJ3",
+        "copy": "https://abema.app/wjwv",
+        "instagram": "https://abema.app/9Gw9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p10/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-44_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.1731666666667,
+        "opening": {
+            "start": 70.07,
+            "end": 160.11829166666666
+        },
+        "ending": {
+            "start": 1341.1731666666667,
+            "end": 1426.2164583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-44_s1_p11",
+        "title": "第11話 世界のまん中",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719816812,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-44_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "5-44_eg0"
+}

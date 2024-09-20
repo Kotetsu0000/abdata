@@ -1,0 +1,140 @@
+{
+    "id": "25-268_s1_p10",
+    "series": {
+        "id": "25-268",
+        "title": "義妹生活",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-268",
+            "filename": "thumb.png",
+            "query": "version=1722826041",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-268",
+            "filename": "portrait.png",
+            "query": "version=1722826041",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-268_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 縁　と　未練",
+        "content": "2学期になり、沙季と悠太に三者面談の日程が近づく。学校では兄妹であることを隠していた二人。亜季子が二人の母だと知られれば、関係が周囲に露呈してしまうが……"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "浅村悠太：天﨑滉平",
+            "綾瀬沙季：中島由貴",
+            "読売 栞：鈴木みのり",
+            "奈良坂真綾：鈴木愛唯",
+            "丸 友和：濱野大輝",
+            "浅村太一：小林親弘",
+            "綾瀬亜季子：上田麗奈"
+        ],
+        "crews": [
+            "原作：三河ごーすと（MF文庫J「義妹生活」／KADOKAWA刊）",
+            "キャラクター原案：Hiten",
+            "監督： 上野壮大",
+            "シリーズ構成：広田光毅",
+            "キャラクターデザイン：仁井 学",
+            "音響監督：小沼則義",
+            "音響効果：山田香織",
+            "音響制作：100studio",
+            "音楽：CITOCA",
+            "音楽制作：one cushion",
+            "inc / 日本コロムビア",
+            "アニメーション制作：スタジオディーン"
+        ],
+        "copyrights": [
+            "(C)三河ごーすと・Hiten/KADOKAWA/義妹生活製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035469,
+    "endAt": 1759244400,
+    "freeEndAt": 1726581600,
+    "transcodeVersion": "6C3PhQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/vLtf",
+        "facebook": "https://abema.app/Ds3i",
+        "google": "https://abema.app/Va1U",
+        "line": "https://abema.app/k6Wg",
+        "copy": "https://abema.app/e4qU",
+        "instagram": "https://abema.app/Wbfj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-268_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-268_s1_p10/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-268_s1_p10/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-268_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-268_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.9619666666667,
+        "opening": {
+            "start": 119.0189,
+            "end": 208.97543333333334
+        },
+        "ending": {
+            "start": 1329.9619666666667,
+            "end": 1419.9185
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-268_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726581600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1726645500
+        }
+    ],
+    "episodeGroupId": "25-268_eg0"
+}

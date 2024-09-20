@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p100",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 100,
+        "title": "第100話 ｢究極の奥義無想転生！ラオウ、遂にお前を追いつめた！！」",
+        "content": "ラオウを倒さねばユリアの命はないと感じたケンシロウは、ユリアとの再会を前にラオウのもとへ走った。リハクとラオウの戦いに割って入ったケンシロウはラオウと向き合う。ケンシロウは最初の一撃でラオウを吹き飛ばす･･･！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756427,
+    "endAt": 1732978800,
+    "transcodeVersion": "a844H",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/W9ueY",
+        "facebook": "https://gxyt4.app.goo.gl/uwcsz",
+        "google": "https://gxyt4.app.goo.gl/8uogt",
+        "line": "https://gxyt4.app.goo.gl/vbnqN",
+        "copy": "https://gxyt4.app.goo.gl/ywz4h",
+        "instagram": "https://gxyt4.app.goo.gl/T1bLF"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p100/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p100/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p100/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p100"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.784988,
+        "opening": {
+            "start": 50.570722,
+            "end": 114.437622
+        },
+        "ending": {
+            "start": 1329.784988,
+            "end": 1429.718255
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p101",
+        "title": "第101話 ｢ラオウ倒れ野望果てるか？しかし天はまたよろめいた！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756427,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p100/timeline",
+        "query": "version=a844H",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

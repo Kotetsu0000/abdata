@@ -1,0 +1,164 @@
+{
+    "id": "26-150_s1_p1",
+    "series": {
+        "id": "26-75",
+        "title": "テレビアニメ「鬼滅の刃」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "thumb.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "portrait.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-75_s3",
+        "sequence": 3,
+        "name": "遊郭編",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2811
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第一話 音柱・宇髄天元",
+        "content": "無限列車での任務を終えた炭治郎たちは、蝶屋敷で療養生活を送っていた。\nそんななか、炭治郎は煉󠄁獄の言づてを伝えるべく煉󠄁獄の生家を訪れる。\n亡き杏寿郎を侮辱する父・槇寿郎に憤る炭治郎だったが、炭治郎の耳飾りを見た途端、槇寿郎は目の色を変える。\nはたして、炭治郎は煉󠄁獄家で何を知るのか――。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "竈門炭治郎：花江夏樹",
+            "竈門禰󠄀豆子：鬼頭明里",
+            "我妻善逸：下野　紘",
+            "嘴平伊之助：松岡禎丞",
+            "宇髄天元：小西克幸",
+            "堕姫（上弦の陸）：沢城みゆき",
+            "妓夫太郎（上弦の陸）：逢坂良太"
+        ],
+        "crews": [
+            "原作：吾峠呼世晴（集英社ジャンプ コミックス刊）",
+            "監督：外崎春雄",
+            "キャラクターデザイン・総作画監督：松島 晃",
+            "脚本制作：ufotable",
+            "サブキャラクターデザイン：佐藤美幸・梶山庸子・菊池美花",
+            "プロップデザイン：小山将治",
+            "美術監督：衛藤功二",
+            "撮影監督：寺尾優一",
+            "3D監督：西脇一樹",
+            "色彩設計：大前祐子",
+            "編集：神野 学",
+            "音楽：梶浦由記・椎名 豪",
+            "オープニングテーマ：Aimer「残響散歌」（SACRA MUSIC）",
+            "エンディングテーマ：Aimer「朝が来る」（SACRA MUSIC）",
+            "アニメーション制作：ufotable"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695885699,
+    "endAt": 1730386800,
+    "transcodeVersion": "4n5214",
+    "sharedLink": {
+        "twitter": "https://abema.app/4WdD",
+        "facebook": "https://abema.app/rfmF",
+        "google": "https://abema.app/prqV",
+        "line": "https://abema.app/VaGD",
+        "copy": "https://abema.app/1NKm",
+        "instagram": "https://abema.app/oskQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-150_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-150_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-150_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-150_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 2436.192158,
+        "opening": {
+            "start": 2435.0001549999934,
+            "end": 2523.979433999997
+        },
+        "ending": {
+            "start": 2523.9804339999973,
+            "end": 2673.9214769999976
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-150_s1_p2",
+        "title": "第二話 遊郭潜入",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1695885699,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-150_s1_p1/4/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "26-75_eg0"
+}

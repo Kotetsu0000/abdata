@@ -1,0 +1,155 @@
+{
+    "id": "35-55_s0_p9",
+    "series": {
+        "id": "35-55",
+        "title": "映画クレヨンしんちゃん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "thumb.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "portrait.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5400
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "映画クレヨンしんちゃん 嵐を呼ぶ モーレツ！オトナ帝国の逆襲",
+        "content": "ある日、春日部で突然「２０世紀博」というテーマパークが開催された。昔のテレビ番組や映画、暮らしなどを再現し、懐かしい世界にひたれる遊園地に大人たちは大喜び。でも、しんのすけをはじめとする子供たちには、ちっとも面白くない。毎日のように夢中になって遊びに行く大人たち…。\n　そのうちにひろしは会社に行かなくなり、みさえは家事をやめ、しんのすけがひまわりの面倒をみる始末。実はこれは、“ケンちゃんチャコちゃん”をリーダーとするグループの、大人だけの楽しい世界を作って時間を止めてしまう、恐るべき“オトナ”帝国化計画だった！\nやがて大人たちは、「２０世紀博」に行ったきり、帰ってこなくなってしまう。このままでは未来がなくなってしまう！そこで、しんのすけら“かすかべ防衛隊”のメンバーはオトナたちを取り戻すために、「２０世紀博」へ乗り込んでいくことにする。しかし、そこにはもうすっかり子供に戻ってしまった親たちが楽しそうに遊んでいた。 \n　果たして“かすかべ防衛隊”は“ケンちゃんチャコちゃん”に勝てるのか!?そして、しんのすけはオトナたちを今の世界に取り戻し、未来を守ることができるのか!?"
+    },
+    "credit": {
+        "released": 2001,
+        "casts": [
+            "しんのすけ：矢島晶子",
+            "みさえ：ならはしみき",
+            "ひろし：藤原啓治",
+            "ひまわり：こおろぎさとみ",
+            "風間くん：真柴摩利",
+            "ネネちゃん：林 玉緒",
+            "マサオくん：一龍斎貞友",
+            "ボーちゃん：佐藤智恵",
+            "ケン：津嘉山正種",
+            "チャコ：小林 愛",
+            "ＴＶの声：関根 勤、小堺一機"
+        ],
+        "crews": [
+            "原作：臼井儀人",
+            "監督・脚本：原 恵一",
+            "演出：水島 努",
+            "作画監督：原 勝徳・堤のりゆき、間々田益男",
+            "キャラクターデザイン：末吉裕一郎・原 勝徳",
+            "音楽：荒川敏行",
+            "主題歌「元気でいてね」歌：こばやしさちこ",
+            "作詞：白峰美津子",
+            "作曲・編曲：岩崎元是"
+        ],
+        "copyrights": [
+            "(C)臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2001"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1719656615,
+    "endAt": 1740754800,
+    "freeEndAt": 1726971240,
+    "transcodeVersion": "2cEBUx",
+    "sharedLink": {
+        "twitter": "https://abema.app/E9wX",
+        "facebook": "https://abema.app/2pY6",
+        "google": "https://abema.app/iv8Z",
+        "line": "https://abema.app/uR75",
+        "copy": "https://abema.app/TsuX",
+        "instagram": "https://abema.app/rzhU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-55_s0_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-55_s0_p9/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-55_s0_p9/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-55_s0_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-55_s0_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 5256.047525
+    },
+    "nextProgramInfo": {
+        "programId": "35-55_s0_p10",
+        "title": "映画クレヨンしんちゃん 嵐を呼ぶ アッパレ！戦国大合戦",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1719656615,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "linkText": "昨年公開映画｜独占見放題配信中！",
+        "link": "https://abema.tv/video/episode/35-55_s1_p31",
+        "buttonText": "確認する",
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-55_s0_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726971240
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "35-55_eg0"
+}

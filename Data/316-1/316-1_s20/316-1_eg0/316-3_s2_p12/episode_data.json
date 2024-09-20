@@ -1,0 +1,152 @@
+{
+    "id": "316-3_s2_p12",
+    "series": {
+        "id": "316-1",
+        "title": "ダイヤのA",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/316-1",
+            "filename": "thumb.png",
+            "query": "version=1708496370",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/316-1",
+            "filename": "portrait.png",
+            "query": "version=1708496370",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "316-1_s20",
+        "sequence": 20,
+        "name": "ダイヤのA -Second Season-",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 自壊",
+        "content": "稲城実業対鵜久森戦。７回裏、成宮がマウンドに立つ。しかし攻撃的な鵜久森打線を前に、成宮と多田野のバッテリーは全くかみ合わない。変化球を要求する多田野に対し、成宮は強引にストレートの力勝負に出た。打席の梅宮は、待っていたとばかりに大きくバットを振り、ボールは右中間まっぷたつ！鵜久森がまさかの２点追加で逆転！甲子園準優勝チームである稲実が、まさかの窮地に立たされる。ベンチの国友監督は、新チームの牽引役不在を憂い――。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "沢村栄純：逢坂良太",
+            "降谷　 暁：島﨑信長",
+            "御幸一也：櫻井孝宏",
+            "小湊春市：花江夏樹",
+            "結城哲也：細谷佳正",
+            "倉持洋一：浅沼晋太郎",
+            "伊佐敷純：小野友樹",
+            "滝川・クリス・優：浪川大輔",
+            "丹波光一郎：森田成一",
+            "小湊亮介：岡本信彦",
+            "川上憲史：下野　紘",
+            "増子　 透：羽多野　渉",
+            "金丸信二：松岡禎丞",
+            "東　 清国：檜山修之",
+            "高島　 礼：内山夕実",
+            "片岡鉄心：東地 宏樹"
+        ],
+        "crews": [
+            "原作：寺嶋裕二「ダイヤのA」（週刊少年マガジン／講談社刊）",
+            "アニメーション制作：MADHOUSE×Production I.G",
+            "監督：増原 光幸（「しろくまカフェ」「こばと。」）",
+            "シリーズ構成：古怒田健志（「図書館戦争」）",
+            "音響監督：髙桑一"
+        ],
+        "copyrights": [
+            "(C)寺嶋裕二・講談社／「ダイヤのＡ‐ＳＳ‐」製作委員会・テレビ東京"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1710383922,
+    "endAt": 1743433200,
+    "transcodeVersion": "3rEDzM",
+    "sharedLink": {
+        "twitter": "https://abema.app/htHm",
+        "facebook": "https://abema.app/5ABW",
+        "google": "https://abema.app/iPED",
+        "line": "https://abema.app/7ofP",
+        "copy": "https://abema.app/v4Nz",
+        "instagram": "https://abema.app/HsJW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/316-3_s2_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/316-3_s2_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/316-3_s2_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.316-3_s2_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.941822,
+        "opening": {
+            "start": 64.020488,
+            "end": 154.042755
+        },
+        "ending": {
+            "start": 1319.941822,
+            "end": 1409.964088
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "316-3_s2_p13",
+        "title": "第13話 亀裂",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1710383922,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/316-3_s2_p12/timeline",
+        "query": "version=3rEDzM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "316-1_eg0"
+}

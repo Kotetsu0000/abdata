@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p920",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 681
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 920,
+        "title": "#920 しあわせトランプの恐怖",
+        "content": "ピカピカの真新しいトランプを見つけたのび太は、「こんなカードでしずかちゃんとババヌキしたら楽しいだろうな」と考える。すると、しずかが部屋を訪ねてきたからビックリ！ のび太が落とした１００円を届けに来てくれたのだ。さっそく、しずかとババヌキを楽しむが、さっきまで全部そろっていたトランプが、なぜか一枚なくなっていた…！\n　その後帰宅したドラえもんは、のび太の話を聞いて大あわて。この『しあわせトランプ』は、持ち主の願いを自動的にかなえてくれるごとに一枚消え、最後にジョーカーが残った時、不運が束になって降りかかってくるカードだった…！？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1751295600,
+    "transcodeVersion": "bGnEi",
+    "sharedLink": {
+        "twitter": "https://abema.app/GdFH",
+        "facebook": "https://abema.app/LnLm",
+        "google": "https://abema.app/bejL",
+        "line": "https://abema.app/qFtp",
+        "copy": "https://abema.app/eQTp",
+        "instagram": "https://abema.app/tRc8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p920/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p920/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p920/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p920"
+    },
+    "viewingPoint": {
+        "suggestion": 676.92625
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p921",
+        "title": "#921 熱演カチンコ！！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335977,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p920/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

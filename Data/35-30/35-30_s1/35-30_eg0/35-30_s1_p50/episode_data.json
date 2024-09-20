@@ -1,0 +1,141 @@
+{
+    "id": "35-30_s1_p50",
+    "series": {
+        "id": "35-30",
+        "title": "笑ゥせぇるすまん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "thumb.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "portrait.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-30_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 600
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 50,
+        "title": "第50話 決断ステッキ",
+        "content": "何をするにも決断することができないサラリーマン・真夜井王志（25）に、喪黒は正しいほうに導いてくれる「決断ステッキ」を渡す。このステッキを使ってから良いこと続きの真夜井だったが、あるとき、ステッキの指示とは違う行動をしてしまう。"
+    },
+    "credit": {
+        "released": 1991,
+        "casts": [
+            "喪黒福造：大平透"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "監修：鈴木伸一",
+            "総監督：クニトシロウ",
+            "監督：米谷良知",
+            "脚本：梅野かおる",
+            "作画監督：岡迫亘弘",
+            "美術監督：宮野隆",
+            "撮影監督：山田廣明",
+            "録音監督：大熊昭",
+            "音楽：田中公平"
+        ],
+        "copyrights": [
+            "(C)藤子A／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683007466,
+    "endAt": 1756652400,
+    "transcodeVersion": "6PgAAM",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/byzqq",
+        "facebook": "https://gxyt4.app.goo.gl/kVhBd",
+        "google": "https://gxyt4.app.goo.gl/41UX9",
+        "line": "https://gxyt4.app.goo.gl/ubu1j",
+        "copy": "https://gxyt4.app.goo.gl/569kg",
+        "instagram": "https://gxyt4.app.goo.gl/FYtyN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-30_s1_p50/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-30_s1_p50/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-30_s1_p50/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-30_s1_p50"
+    },
+    "viewingPoint": {
+        "suggestion": 595.657,
+        "opening": {
+            "end": 18.408255
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-30_s1_p51",
+        "title": "第51話 温泉奇行",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1683007466,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-30_s1_p50/timeline",
+        "query": "version=6PgAAM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-30_eg0"
+}

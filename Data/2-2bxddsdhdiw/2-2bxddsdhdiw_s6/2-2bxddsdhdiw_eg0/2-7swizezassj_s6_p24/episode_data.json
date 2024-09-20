@@ -1,0 +1,148 @@
+{
+    "id": "2-7swizezassj_s6_p24",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s6",
+        "sequence": 6,
+        "name": "第6シリーズ",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 24,
+        "title": "第24話 栄光への執念",
+        "content": "手術が成功し、退院の日を迎えた吾郎。ディビジョンシリーズを勝ち上がったホーネッツは、次のシリーズを勝ち抜けばノーザンリーグ優勝を決め、ワールドシリーズに進出できる。\nチームメイトの活躍を見て、一日も早く復帰したいと焦る吾郎の前に突然ソフィアが現れ、吾郎の生活とリハビリを全面管理すると宣言するが…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "キーン：森川智之",
+            "ワッツ：家中 宏",
+            "マードック：山野井 仁",
+            "サンダース：石井康嗣"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277071,
+    "endAt": 1741446000,
+    "transcodeVersion": "37ey2k",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/ju9na",
+        "facebook": "https://gxyt4.app.goo.gl/AtgWa",
+        "google": "https://gxyt4.app.goo.gl/GYZi6",
+        "line": "https://gxyt4.app.goo.gl/CSSch",
+        "copy": "https://gxyt4.app.goo.gl/8n223",
+        "instagram": "https://gxyt4.app.goo.gl/Z8y29"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-7swizezassj_s6_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-7swizezassj_s6_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1465.06,
+        "opening": {
+            "end": 99.664729
+        },
+        "ending": {
+            "start": 1360.390296,
+            "end": 1449.525239
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-7swizezassj_s6_p25",
+        "title": "第25話 未来へ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277071,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-7swizezassj_s6_p24/timeline",
+        "query": "version=37ey2k",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

@@ -1,0 +1,158 @@
+{
+    "id": "54-85_s2_p2",
+    "series": {
+        "id": "54-85",
+        "title": "シルバニアファミリー",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-85",
+            "filename": "thumb.png",
+            "query": "version=1689077909",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-85",
+            "filename": "portrait.png",
+            "query": "version=1689077909",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-85_s2",
+        "sequence": 2,
+        "name": "フレアのゴー・フォー・ドリーム！",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 660
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 なかなおりサイクル",
+        "content": "ライラとラルフがけんか？！慌てるフレアの前に、ツインサイクルに乗った\nポーリーンとハイデンがやってきます。\nフレアが思いついたいいことって…？！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "フレア：山根 綺",
+            "ライラ：田中 沙耶",
+            "ラルフ：村上 まどか",
+            "ポーリーン：角倉 英里子",
+            "クレム：和多田 美咲",
+            "サリー：羊宮 妃那",
+            "ココ：大空 直美",
+            "フレイジャー：赤羽根 健治",
+            "テリー：伊藤 かな恵"
+        ],
+        "crews": [
+            "原作/企画：エポック社",
+            "シリーズ構成：三浦 有為子",
+            "脚本：三浦 有為子、木原 梨花、谷井美佳",
+            "絵コンテ：古谷 渓一郎 (スワロウテイルズ)、関 和也 (スワロウテイルズ)",
+            "CGディレクター：高野 日向、岩田 海斗",
+            "音楽：野中“まさ”雄一",
+            "音響監督：児玉 拓己",
+            "音響制作：ヘッドオフ",
+            "演技事務：後藤 慎人(青二プロダクション)",
+            "制作：LandQ Studios",
+            "監督：河原 真明",
+            "プロデューサー：佐々木 塁、金井 康則",
+            "製作：エポック社",
+            "製作総指揮：前田 道裕"
+        ],
+        "copyrights": [
+            "(C) EPOCH"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1697101190,
+    "endAt": 1727708400,
+    "freeEndAt": 1727479440,
+    "transcodeVersion": "3wMRLn",
+    "sharedLink": {
+        "twitter": "https://abema.app/H6D1",
+        "facebook": "https://abema.app/3Mxk",
+        "google": "https://abema.app/bH2N",
+        "line": "https://abema.app/nXUy",
+        "copy": "https://abema.app/HchA",
+        "instagram": "https://abema.app/wKVP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-85_s2_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-85_s2_p2/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/54-85_s2_p2/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-85_s2_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-85_s2_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 615.137722,
+        "opening": {
+            "start": 1.810385,
+            "end": 43.4849
+        },
+        "ending": {
+            "start": 615.641954,
+            "end": 644.719583
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "54-85_s2_p3",
+        "title": "第3話 ビューティーヘアサロンで大へんしん",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1697101190,
+        "endAt": 1727708400,
+        "freeEndAt": 1727479440,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727479440
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-85_s2_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727479440
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "54-85_eg0"
+}

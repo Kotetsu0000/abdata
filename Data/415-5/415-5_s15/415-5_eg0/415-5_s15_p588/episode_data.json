@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s15_p588",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s15",
+        "sequence": 15,
+        "name": "season15",
+        "thumbComponent": {},
+        "order": 15
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 588,
+        "title": "第588話 屋上農園の罠",
+        "content": "目白に招かれ、雑居ビルにある屋上農園を見学するコナン、小五郎、蘭。その時、奥の畑で中村と田口が言い争いに。中村は迷惑じいさんと呼ばれる厄介者。田口は防虫ネットを壊されたという。すると今度はオーガニック野菜に農薬をかけられた井上が中村に激怒。週末、コナンたちは再び農園を訪れ、絶命した中村を発見する…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066309,
+    "endAt": 1740754800,
+    "transcodeVersion": "7X84f8",
+    "sharedLink": {
+        "twitter": "https://abema.app/Z3ZV",
+        "facebook": "https://abema.app/MkG7",
+        "google": "https://abema.app/G2A7",
+        "line": "https://abema.app/QSFZ",
+        "copy": "https://abema.app/25L7",
+        "instagram": "https://abema.app/MFTR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s15_p588/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s15_p588/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s15_p588/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s15_p588"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.2955333333334,
+        "opening": {
+            "start": 139.3392,
+            "end": 211.3111
+        },
+        "ending": {
+            "start": 1309.308,
+            "end": 1389.2545333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s15_p589",
+        "title": "第589話 最悪な誕生日（バースデー）（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066309,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s15_p588/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

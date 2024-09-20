@@ -1,0 +1,160 @@
+{
+    "id": "35-5_s0_p105",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1478
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 105,
+        "title": "第105話 日本の根っこ",
+        "content": "パリで活躍するデザイナー平尾英が帰国した。疲れきった平尾に、引退を心配した近城は、士郎と雄山に平尾がパリに帰りたくなるような料理を作ってくれと頼む。"
+    },
+    "credit": {
+        "released": 1991,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424468,
+    "endAt": 1756652400,
+    "freeEndAt": 1726595220,
+    "transcodeVersion": "5eiTSJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/Steu",
+        "facebook": "https://abema.app/iD7h",
+        "google": "https://abema.app/gB15",
+        "line": "https://abema.app/mQG1",
+        "copy": "https://abema.app/Yfzq",
+        "instagram": "https://abema.app/58kG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-5_s0_p105/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-5_s0_p105/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-5_s0_p105/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-5_s0_p105/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p105"
+    },
+    "viewingPoint": {
+        "suggestion": 1398.887355,
+        "opening": {
+            "end": 81.037588
+        },
+        "ending": {
+            "start": 1398.887355,
+            "end": 1478.901132
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p106",
+        "title": "第106話 ジャンボ茶碗蒸し",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424468,
+        "endAt": 1756652400,
+        "freeEndAt": 1726595220,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726595220
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p105/timeline",
+        "query": "version=5eiTSJ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726595220
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

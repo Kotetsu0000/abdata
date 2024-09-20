@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p23",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 砕けた夢と、よみがえる力",
+        "content": "心が折れてしまったソラはスカイランドに戻り、家族と再会する。一方、ソラシド市には再びシャララを取り込んだランボーグがあらわれる。ソラがいない中、ましろたちは3人で立ち向かう。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722330950,
+    "endAt": 1740754800,
+    "transcodeVersion": "3iqarH",
+    "sharedLink": {
+        "twitter": "https://abema.app/2imW",
+        "facebook": "https://abema.app/8E8E",
+        "google": "https://abema.app/E34b",
+        "line": "https://abema.app/xuLC",
+        "copy": "https://abema.app/KMcF",
+        "instagram": "https://abema.app/R3H9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-64_s1_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-64_s1_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-64_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1363.737375,
+        "opening": {
+            "start": 126.08429166666667,
+            "end": 216.13258333333334
+        },
+        "ending": {
+            "start": 1363.737375,
+            "end": 1455.2454583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p24",
+        "title": "第24話 輝く一番星☆エルちゃんの秘密",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722330959,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

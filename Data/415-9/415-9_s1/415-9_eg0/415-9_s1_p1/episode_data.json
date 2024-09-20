@@ -1,0 +1,154 @@
+{
+    "id": "415-9_s1_p1",
+    "series": {
+        "id": "415-9",
+        "title": "犬夜叉",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-9",
+            "filename": "thumb.png",
+            "query": "version=1719133783",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-9",
+            "filename": "portrait.png",
+            "query": "version=1719133783",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-9_s1",
+        "sequence": 1,
+        "name": "第１期　出会い編！",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1447
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 時代を越えた少女と封印された少年",
+        "content": "戦国時代。巫女桔梗に封印された半妖の少年犬夜叉は、現代からタイムスリップしてきたかごめの手で甦った! 妖怪を強くする『四魂の玉』が体の中から出てきて驚くかごめ。犬夜叉は四魂の玉を飲み込んだ百足の妖怪を一撃で粉砕する。"
+    },
+    "credit": {
+        "released": 2000,
+        "casts": [
+            "犬夜叉：山口勝平",
+            "日暮かごめ：雪乃五月",
+            "七宝：渡辺久美子",
+            "弥勒：辻谷耕史",
+            "珊瑚：桑島法子",
+            "桔梗：日高のり子",
+            "殺生丸：成田剣",
+            "邪見：長島雄一",
+            "冥加：緒方賢一",
+            "奈落：家中宏（～＃２５）森川智之（＃２５～）",
+            "神楽：大神いずみ",
+            "神無：ゆかな",
+            "琥珀：矢島晶子",
+            "鋼牙：松野太紀",
+            "楓：京田尚子",
+            "刀々斎：八奈見乗児",
+            "じいちゃん：松尾銀三（＃１～３８）",
+            "日暮草太：中川亜紀子",
+            "ママ：百々麻子"
+        ],
+        "crews": [
+            "原作：高橋留美子",
+            "監督：池田成",
+            "キャラクターデザイン：菱沼義仁",
+            "美術監督：池田繁美",
+            "色彩設計：佐藤美由紀",
+            "撮影監督：伊藤久美子",
+            "編集：鶴渕友彰",
+            "音楽：和田薫",
+            "音響監督：鶴岡陽太",
+            "プロデューサー：諏訪道彦・富岡秀行"
+        ],
+        "copyrights": [
+            "(C)高橋留美子／小学館・読売テレビ・サンライズ 2000"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1720345009,
+    "endAt": 1753974000,
+    "transcodeVersion": "3rhcUo",
+    "sharedLink": {
+        "twitter": "https://abema.app/nEcv",
+        "facebook": "https://abema.app/95Rr",
+        "google": "https://abema.app/oo7h",
+        "line": "https://abema.app/YxDP",
+        "copy": "https://abema.app/XuPo",
+        "instagram": "https://abema.app/7VWV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-9_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-9_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-9_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-9_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1407.280875,
+        "opening": {
+            "end": 76.03429166666666
+        },
+        "ending": {
+            "start": 1311.685375,
+            "end": 1407.2391666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-9_s1_p2",
+        "title": "第2話 四魂の玉を狙う者たち",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1720345026,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-9_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "415-9_eg0"
+}

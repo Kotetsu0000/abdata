@@ -1,0 +1,79 @@
+{
+    "id": "2-14",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "アニメ「ポケットモンスター」",
+    "content": "ポケットモンスター、縮めてポケモン。\nこの星の不思議な不思議な生き物。\n空、海、森、街の中と至る所でその姿を見ることができる。\n\n不思議なペンダントを持つパルデア出身の少女、リコ。\n謎のモンスターボールを持つカントー出身の少年、ロイ。\n\n広大なポケットモンスターの世界を舞台に\nリコとロイの新たな冒険が始まる！\nふたりを待ち受ける出会い、そして運命とは―！？\n\nこれは、冒険を通じて大事な何かを「見つける」物語。",
+    "seasons": [
+        {
+            "id": "2-14_s10",
+            "sequence": 10,
+            "name": "2023",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/2-14_s10",
+                "filename": "default_thumb.png",
+                "query": "version=1682667082",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "2-14_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726135782779341622",
+    "imageUpdatedAt": 1682667068,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/gqaF",
+        "facebook": "https://abema.app/2nzG",
+        "google": "https://abema.app/tQki",
+        "line": "https://abema.app/6z3t",
+        "copy": "https://abema.app/9tXH",
+        "instagram": "https://abema.app/741f"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+        "filename": "thumb.png",
+        "query": "version=1682667068",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+        "filename": "portrait.png",
+        "query": "version=1682667068",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

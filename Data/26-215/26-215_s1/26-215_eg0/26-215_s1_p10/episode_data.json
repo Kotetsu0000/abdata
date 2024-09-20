@@ -1,0 +1,162 @@
+{
+    "id": "26-215_s1_p10",
+    "series": {
+        "id": "26-215",
+        "title": "俺だけレベルアップな件",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-215",
+            "filename": "thumb.png",
+            "query": "version=1704100961",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-215",
+            "filename": "portrait.png",
+            "query": "version=1704100961",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-215_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 What Is This, a Picnic?",
+        "content": "道門との戦いの末、再び惨劇を生き抜いた旬は、犬飼からS級ハンターである右京将人が旬を狙っているかもしれないと忠告される。\nレベルアップのため賢太と手を組んでC級ダンジョンを攻略する旬。寄せ集めのパーティで次から次へとダンジョンを攻略していく彼らに、大型ギルドのある人物が目を付け始めていた。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "水篠 旬：坂 泰斗",
+            "諸菱賢太：中村源太",
+            "水篠 葵：三川華月",
+            "向坂 雫：上田麗奈",
+            "最上 真：平川大輔",
+            "白川大虎：東地宏樹",
+            "後藤清臣：銀河万丈",
+            "犬飼 晃：古川 慎"
+        ],
+        "crews": [
+            "原作：DUBU(REDICE STUDIO)、Chugong、h-goon（D＆C WEBTOON Biz 発行）",
+            "監督：中重俊祐",
+            "シリーズ構成：木村 暢",
+            "キャラクターデザイン：須藤智子",
+            "サブキャラクターデザイン：古住千秋",
+            "モンスターデザイン：徳田大貴",
+            "プロップデザイン：白石創太郎",
+            "美術監督：奥村泰浩",
+            "色彩設計：中野尚美",
+            "撮影監督：井関大智",
+            "CG監督：森岡俊宇",
+            "モーショングラフィックス：大城丈宗(Production I.G)",
+            "編集：近藤勇二",
+            "音響監督：田中亮",
+            "音楽：澤野弘之",
+            "アニメーション制作：A-1 Pictures"
+        ],
+        "copyrights": [
+            "(C)Solo Leveling Animation Partners"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712059461,
+    "endAt": 1759244400,
+    "transcodeVersion": "2mBiSP",
+    "sharedLink": {
+        "twitter": "https://abema.app/KwT1",
+        "facebook": "https://abema.app/uaWG",
+        "google": "https://abema.app/KREa",
+        "line": "https://abema.app/zKHc",
+        "copy": "https://abema.app/GntW",
+        "instagram": "https://abema.app/qp6W"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-215_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-215_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-215_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-215_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.0320416666666,
+        "opening": {
+            "start": 186.97845833333332,
+            "end": 276.9850416666667
+        },
+        "ending": {
+            "start": 1325.0320416666666,
+            "end": 1414.9969166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-215_s1_p11",
+        "title": "第11話 A Knight Who Defends an Empty Throne",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1712059461,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-215_s1_p10/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "26-215_eg0"
+}

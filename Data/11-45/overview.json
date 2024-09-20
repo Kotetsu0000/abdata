@@ -1,0 +1,78 @@
+{
+    "id": "11-45",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_14",
+                "name": "戦争・ミリタリー"
+            }
+        ]
+    },
+    "title": "プリマドール",
+    "content": "喫茶・黒猫亭。\nそれは皇都五区の片隅に、ぽつんとある喫茶店。\nそこで働くのは、技術の粋を結集した、自律人形（オートマタ）の少女たち。\n\n数年前に終結したばかりの大戦争。\nそこで兵器として作られた彼女たち。\n\nやがて迎えた戦後の平和。\n新品同様に修復されて、ぴかぴかの着物に身を包んで、\n新しい役目を探して、高らかに歌声を上げていく。\n\nあなたも彼女達と素敵なひとときを過ごしてみませんか？",
+    "seasons": [
+        {
+            "id": "11-45_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-45_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1681968307",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "11-45_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)VISUAL ARTS / Key / BAS・プリマドール製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724919899321923422",
+    "imageUpdatedAt": 1655434913,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/uirj",
+        "facebook": "https://abema.app/iEvP",
+        "google": "https://abema.app/L5Hi",
+        "line": "https://abema.app/dCNQ",
+        "copy": "https://abema.app/1tw1",
+        "instagram": "https://abema.app/nFNF"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-45",
+        "filename": "thumb.png",
+        "query": "version=1655434913",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-45",
+        "filename": "portrait.png",
+        "query": "version=1655434913",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "420-68",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "杖と剣のウィストリア",
+    "content": "一人前の魔導士をめざして魔法学院に入学した少年ウィル。努力家の彼には魔導師として致命的な弱点があった。それは、“魔法がまったく使えない”こと。同級生や教師から冷たい視線を浴び、時にはくじけそうになりながらも、強い気持ちで邁進していくウィル。杖は使えなくとも剣を執り、魔法至上主義の世界で戦い抜く。自分だけに与えられた力を信じて。そして、大切な人との約束を守るためにーー",
+    "seasons": [
+        {
+            "id": "420-68_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-68_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1722755317",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-68_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "420-68_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)大森藤ノ・青井 聖・講談社／「杖と剣のウィストリア」製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726223005010733724",
+    "imageUpdatedAt": 1722755298,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/2YRE",
+        "facebook": "https://abema.app/bDK7",
+        "google": "https://abema.app/jXtq",
+        "line": "https://abema.app/eGWE",
+        "copy": "https://abema.app/1DP1",
+        "instagram": "https://abema.app/YkXB"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-68",
+        "filename": "thumb.png",
+        "query": "version=1722755298",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-68",
+        "filename": "portrait.png",
+        "query": "version=1722755298",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

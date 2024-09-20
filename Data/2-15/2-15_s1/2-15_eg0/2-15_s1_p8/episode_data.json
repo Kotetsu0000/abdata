@@ -1,0 +1,146 @@
+{
+    "id": "2-15_s1_p8",
+    "series": {
+        "id": "2-15",
+        "title": "姫様\"拷問\"の時間です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "thumb.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "portrait.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-15_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話",
+        "content": "上級拷問官になるための昇級試験に挑む陽鬼と陰鬼だったが、健闘むなしく魔王から不合格を言い渡されてしまう。二人は“拷問”の対象であり友達でもある姫にアドバイスを求めることに。ときに、姫の前に新たな拷問官が現れる。彼女は魔王軍の中で最も残忍酷薄な吸血鬼一族、ペシュッツ家の娘、バニラ・ペシュッツ！「恐怖と絶望の本物の“拷問”」を策略するバニラが姫に牙を剥く。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "姫：白石晴香",
+            "エクス：小林親弘",
+            "トーチャー・トルチュール：伊藤 静",
+            "魔王：玄田哲章",
+            "陽鬼：永瀬アンナ",
+            "陰鬼：井上ほの花",
+            "クロル：山根 綺",
+            "ジャイアント：茅野愛衣",
+            "マオマオちゃん：日高里菜",
+            "ルルン：中原麻衣"
+        ],
+        "crews": [
+            "原作：春原ロビンソン・ひらけい（集英社「少年ジャンプ＋」連載）",
+            "監督：金森陽子",
+            "シリーズ構成：筆安一幸",
+            "キャラクターデザイン：河野敏弥・古橋 聡",
+            "音響監督：明田川 仁",
+            "音楽：横山 克"
+        ],
+        "copyrights": [
+            "(C)春原ロビンソン・ひらけい／集英社・国王軍第三騎士団"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721886237,
+    "endAt": 1774969200,
+    "transcodeVersion": "4Uyb1x",
+    "sharedLink": {
+        "twitter": "https://abema.app/6J56",
+        "facebook": "https://abema.app/Hesn",
+        "google": "https://abema.app/9kpo",
+        "line": "https://abema.app/HMZZ",
+        "copy": "https://abema.app/MvDJ",
+        "instagram": "https://abema.app/BMtR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-15_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.038625,
+        "opening": {
+            "start": 189.98145833333334,
+            "end": 279.9880416666667
+        },
+        "ending": {
+            "start": 1314.0210416666666,
+            "end": 1403.9859166666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-15_s1_p9",
+        "title": "第9話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721886237,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726376400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-15_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726376400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1726981200
+        }
+    ],
+    "episodeGroupId": "2-15_eg0"
+}

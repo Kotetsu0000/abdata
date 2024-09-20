@@ -1,0 +1,149 @@
+{
+    "id": "13-12_s0_p1",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第151話 髪切りながら交わされる美容師との会話は世界で一番どうでもいい",
+        "content": "気質で閑古鳥が鳴く「髪結床」の留守番をすることになった万事屋一行。向かいに新しくオープンしたカリスマ美容院の様子をのぞいてみると、人だかりの中に入店拒否されている近藤の姿が！ 彼は落ち込んでこちらの髪結床に向かってくるが、銀時たちは散髪できないし何より気まずい。カツラをかぶって他人のフリをした上で、近藤を帰らせようとするが、あまりに憔悴した彼をかわいそうに思った新八と神楽が店へ招き入れてしまう。近藤のリクエストは大幅なイメージチェンジ。カッコいい周囲の中で自分だけ人気がないのがどうにもつらくなってきたらしいのだが…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1748703600,
+    "freeEndAt": 1748703600,
+    "transcodeVersion": "28ipzE",
+    "sharedLink": {
+        "twitter": "https://abema.app/QoFp",
+        "facebook": "https://abema.app/6bdt",
+        "google": "https://abema.app/g2Vb",
+        "line": "https://abema.app/zp1Y",
+        "copy": "https://abema.app/F2XR",
+        "instagram": "https://abema.app/oAYn"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/13-12_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1364.984933,
+        "opening": {
+            "start": 147.117821,
+            "end": 237.117821
+        },
+        "ending": {
+            "start": 1365.073371,
+            "end": 1454.773371
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p2",
+        "title": "第152話 天は人の上に人をつくらず髷をつくりました",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296390,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p1/timeline",
+        "query": "version=28ipzE",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

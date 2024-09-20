@@ -1,0 +1,142 @@
+{
+    "id": "19-195_s1_p101",
+    "series": {
+        "id": "19-195",
+        "title": "CLANNAD",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "thumb.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "portrait.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-195_s1",
+        "sequence": 1,
+        "name": "CLANNAD",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 101,
+        "title": "CLANNAD番外編 ｢もうひとつの世界 智代編｣",
+        "content": "進学校の中で不良扱いされている岡崎朋也。そんな朋也を毎朝起こしにくる一人の生徒、坂上智代。お弁当を作ってきたりとこまめに世話を焼いてくれる彼女の目標は生徒会長になること。ある朝、いつものように智代が朋也を起こしにくる。それは、生徒会長選挙当日。二人がつき合い始めて1ヶ月が経とうとしていた…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "岡崎朋也：中村悠一",
+            "古河 渚：中原麻衣",
+            "古河秋生：置鮎龍太郎",
+            "古河早苗：井上喜久子",
+            "芳野祐介：緑川光"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "プロデューサー：中山佳久、中村伸一、太布尚弘、八田陽子",
+            "原作：Key/ビジュアルアーツ",
+            "脚本：志茂文彦",
+            "音楽：戸越まごめ、麻枝准"
+        ],
+        "copyrights": [
+            "(C)VisualArt's/Key/光坂高校演劇部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712633619,
+    "endAt": 1746025200,
+    "transcodeVersion": "3P5VkH",
+    "sharedLink": {
+        "twitter": "https://abema.app/KqUa",
+        "facebook": "https://abema.app/PXH2",
+        "google": "https://abema.app/aMs3",
+        "line": "https://abema.app/j9oP",
+        "copy": "https://abema.app/Ahhi",
+        "instagram": "https://abema.app/wMCk"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p101/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p101/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p101/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-195_s1_p101"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.8134,
+        "opening": {
+            "start": 43.076366666666665,
+            "end": 132.79933333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-195_s2_p100",
+        "title": "CLANNAD AFTER STORY 番外編 ｢一年前の出来事｣",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1712636098,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-195_s1_p101/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-195_eg10"
+}

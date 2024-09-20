@@ -1,0 +1,145 @@
+{
+    "id": "143-44_s2_p23",
+    "series": {
+        "id": "143-44",
+        "title": "ちはやふる",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "thumb.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "portrait.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-44_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1370
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "第二十三首 をのへのさくらさきにけり",
+        "content": "個人戦決勝戦。A級は新とクイーン。B級は太一と理音。会場が違う決勝戦は瑞沢高校かるた部もそれぞれが別々の試合を観戦することに。新と太一、どちらの試合を応援するか迷う千早の出した答えは―!?"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "綾瀬千早：瀬戸麻沙美",
+            "綿谷新 ：細谷佳正",
+            "真島太一：宮野真守",
+            "大江奏：茅野愛衣",
+            "西田優征：奈良 徹",
+            "駒野勉：代永 翼"
+        ],
+        "crews": [
+            "原作：末次由紀（講談社「BE・LOVE」連載）",
+            "監督：浅香守生",
+            "シリーズ構成：柿原裕子、加藤綾子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "撮影監督：藤田賢治",
+            "色彩設定：鎌田千賀子、橋本 賢",
+            "デジタルアーティスト：石神亮一",
+            "編集：木村佳史子",
+            "音楽：山下康介",
+            "音響監督：三間雅文",
+            "アニメーション制作：マッドハウス",
+            "制作著作：バップ、日本テレビ"
+        ],
+        "copyrights": [
+            "(C)末次由紀／講談社・VAP・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708750581,
+    "endAt": 1743433200,
+    "transcodeVersion": "5wVUGN",
+    "sharedLink": {
+        "twitter": "https://abema.app/goKv",
+        "facebook": "https://abema.app/fQWx",
+        "google": "https://abema.app/Jovb",
+        "line": "https://abema.app/DmT6",
+        "copy": "https://abema.app/R1ox",
+        "instagram": "https://abema.app/hahr"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/143-44_s2_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/143-44_s2_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/143-44_s2_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-44_s2_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1284.9837,
+        "opening": {
+            "start": 43.043,
+            "end": 112.97953333333334
+        },
+        "ending": {
+            "start": 1284.9837,
+            "end": 1369.9686
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-44_s2_p24",
+        "title": "第二十四首 かくとだに",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708750592,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-44_s2_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-44_eg0"
+}

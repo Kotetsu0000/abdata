@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p899",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 661
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 899,
+        "title": "#899 空き地のジョーズ",
+        "content": "スネ夫から、海に釣りに行くことをじまんされた、のび太。\n　うらやましがるのび太のため、ドラえもんは『サカナコイコイゲート』と『サカナキタキタゲート』を取りだして、海のサカナたちを空き地によびよせる。こうしておけば、『地中つりざお』を使って、空き地にいながらにして海釣りを楽しむことができるのだ！\n　ところが、海からホオジロザメがまぎれこみ、大変なことに…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1738335600,
+    "transcodeVersion": "35uFE9",
+    "sharedLink": {
+        "twitter": "https://abema.app/kgHt",
+        "facebook": "https://abema.app/uqDp",
+        "google": "https://abema.app/P9UH",
+        "line": "https://abema.app/ZMTR",
+        "copy": "https://abema.app/xWdA",
+        "instagram": "https://abema.app/BvEU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p899/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p899/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p899/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p899"
+    },
+    "viewingPoint": {
+        "suggestion": 656.9896666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p900",
+        "title": "#900 アリガターヤ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p899/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s22_p868",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s22",
+        "sequence": 22,
+        "name": "season22",
+        "thumbComponent": {},
+        "order": 22
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 868,
+        "title": "第868話 汽笛の聞こえる古書店",
+        "content": "コナンたちは玉木古書店店主、玉木裕次郎と息子の一朗が言い争う現場に偶然立ち会う。店は老朽化し、一朗は裕次郎に早く店を畳んでほしいと思っていた。後日、コナンたちは古書店の横にある公園にやってくる。この後、コナンたちは古書店の本棚が将棋倒しになっている事に気付く。裕次郎は本棚の下敷きになって倒れていた…"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066317,
+    "endAt": 1740754800,
+    "transcodeVersion": "5FH5Jb",
+    "sharedLink": {
+        "twitter": "https://abema.app/pt5o",
+        "facebook": "https://abema.app/Q6sW",
+        "google": "https://abema.app/Hs9p",
+        "line": "https://abema.app/evTZ",
+        "copy": "https://abema.app/GLmP",
+        "instagram": "https://abema.app/HG9Q"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p868/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p868/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p868/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s22_p868"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.048625,
+        "opening": {
+            "start": 130.33854166666666,
+            "end": 217.96775
+        },
+        "ending": {
+            "start": 1250.2907083333334,
+            "end": 1330.1204583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s22_p869",
+        "title": "第869話 断崖に消えたコナン（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066317,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s22_p868/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

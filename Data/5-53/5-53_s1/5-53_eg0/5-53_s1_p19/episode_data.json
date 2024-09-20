@@ -1,0 +1,141 @@
+{
+    "id": "5-53_s1_p19",
+    "series": {
+        "id": "5-53",
+        "title": "スマイルプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "thumb.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "portrait.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 19,
+        "title": "第19話 パパ、ありがとう！ やよいのたからもの",
+        "content": "やよいちゃんの名前をつけたのは、小さい頃に天国に行ったお父さん。お父さんのことを覚えていなくて不安なやよいちゃんに、お母さんがある宝物を見せてくれたの。そこに、ウルフルンが現れて…。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "キュアハッピー/星空みゆき：福圓美里",
+            "キュアサニー/日野あかね：田野アサミ",
+            "キュアピース/黄瀬やよい：金元寿子",
+            "キュアマーチ/緑川なお：井上麻里奈",
+            "キュアビューティ/青木れいか：西村ちなみ",
+            "キャンディ：大谷育江"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、清水慎治",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔、長谷川昌也",
+            "シリーズディレクター：大塚隆史",
+            "シリーズ構成：米村正二",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：川村敏江"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721625600,
+    "endAt": 1740754800,
+    "transcodeVersion": "3jyDXY",
+    "sharedLink": {
+        "twitter": "https://abema.app/kzMq",
+        "facebook": "https://abema.app/6R3a",
+        "google": "https://abema.app/fNuu",
+        "line": "https://abema.app/6nHq",
+        "copy": "https://abema.app/GZdN",
+        "instagram": "https://abema.app/ggkX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-53_s1_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0053333333333,
+        "opening": {
+            "start": 60.06,
+            "end": 144.97816666666668
+        },
+        "ending": {
+            "start": 1340.0053333333333,
+            "end": 1430.0286
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-53_s1_p20",
+        "title": "第20話 透明人間？ みゆきとあかねがミエナクナ〜ル!?",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721625629,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-53_s1_p19/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-53_eg0"
+}

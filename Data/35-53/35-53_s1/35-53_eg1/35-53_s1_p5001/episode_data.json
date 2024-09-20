@@ -1,0 +1,137 @@
+{
+    "id": "35-53_s1_p5001",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1141
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5001,
+        "title": "ドラえもん、未来に帰る（前編）",
+        "content": "ドラえもんから借りたひみつ道具を使って、0点のテストをかくそうとした、のび太。だが、その作戦は失敗し、2人は大ゲンカしてしまう。 その夜、突然、のび太の部屋の天井にタイムマシンの出口があらわれ、黄色い物体が落ちてきたからビックリ！ 天井から出現したのは、なんとドラえもんの妹・ドラミちゃんだった!!　ケンカばかりしているドラえもんとのび太を見かねたセワシくんが、未来からドラミちゃんを送りこんできたのだ。 ドラえもんよりもシッカリ者で優秀なドラミちゃんは、のび太の世話もバッチリ。ドラえもんは内心、ションボリしてしまう。 そんなとき、ドラえもんはドラミちゃんと交代して22世紀にもどってくるよう、セワシくんから持ちかけられるが…!?"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "ドラえもん:水田わさび",
+            "のび太:大原めぐみ",
+            "しずか:かかずゆみ",
+            "ジャイアン:木村昴",
+            "スネ夫:関智一"
+        ],
+        "crews": [
+            "脚本:与口奈津江"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722391787,
+    "endAt": 1756825200,
+    "transcodeVersion": "5c4prK",
+    "sharedLink": {
+        "twitter": "https://abema.app/eLiS",
+        "facebook": "https://abema.app/Q7Wj",
+        "google": "https://abema.app/9KNK",
+        "line": "https://abema.app/d6wp",
+        "copy": "https://abema.app/P12G",
+        "instagram": "https://abema.app/VtMf"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p5001/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p5001/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p5001/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p5001"
+    },
+    "viewingPoint": {
+        "suggestion": 1136.0015333333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p5002",
+        "title": "ドラえもん、未来に帰る（後編）",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1722391816,
+        "endAt": 1756825200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756825200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p5001/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756825200
+        }
+    ],
+    "episodeGroupId": "35-53_eg1"
+}

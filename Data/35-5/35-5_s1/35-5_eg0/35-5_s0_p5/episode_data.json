@@ -1,0 +1,160 @@
+{
+    "id": "35-5_s0_p5",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1508
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 そばツユの深味",
+        "content": "日本そばの屋台を出した花川だが、うまいそばツユがどうしてもできない。そんな花川に士郎が助け船を・・・。一撤花川が心を開いて作ったツユでソバ通中松警部から営業許可証を取れるか。"
+    },
+    "credit": {
+        "released": 1988,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424465,
+    "endAt": 1756652400,
+    "freeEndAt": 1726854420,
+    "transcodeVersion": "2rjDae",
+    "sharedLink": {
+        "twitter": "https://abema.app/JcjZ",
+        "facebook": "https://abema.app/7Jfa",
+        "google": "https://abema.app/xibQ",
+        "line": "https://abema.app/rGzv",
+        "copy": "https://abema.app/QQzS",
+        "instagram": "https://abema.app/7B8a"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p5/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-5_s0_p5/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1423.376599,
+        "opening": {
+            "end": 76.064066
+        },
+        "ending": {
+            "start": 1423.376599,
+            "end": 1508.372333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p6",
+        "title": "第6話 幻の魚",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424465,
+        "endAt": 1756652400,
+        "freeEndAt": 1726854420,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726854420
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p5/timeline",
+        "query": "version=2rjDae",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726854420
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

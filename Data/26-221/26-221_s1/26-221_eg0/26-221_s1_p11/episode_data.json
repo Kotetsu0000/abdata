@@ -1,0 +1,147 @@
+{
+    "id": "26-221_s1_p11",
+    "series": {
+        "id": "26-221",
+        "title": "龍族 -The Blazing Dawn-（日本語吹替版）",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-221",
+            "filename": "thumb.png",
+            "query": "version=1712836273",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-221",
+            "filename": "portrait.png",
+            "query": "version=1712836273",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-221_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1226
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "10話 兄弟の記憶",
+        "content": "集結した学院の戦力に追い詰められ、ついに龍の姿へと変身したコンスタンティン。そこへアンジェ校長の言霊が発動し、ミンフェイは龍王との闘いに決着をつけるべく銃を握る。そして、その場に居合わせたラオタンにも異変が生じていた…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ルー・ミンフェイ／路明非：山下大輝",
+            "ノノ／諾諾：本渡 楓",
+            "ルー・ミンゼイ／路鳴沢：村瀬 歩",
+            "フィンゲル・フォン・フリングス：橘 龍丸",
+            "チュー・ズーハン／楚子航：小野賢章",
+            "シーザー・ガットゥーゾ：大塚剛央",
+            "リン：天城サリー",
+            "ノルマ・ローレンス：石見舞菜香",
+            "アンジェ：速水 奨"
+        ],
+        "crews": [
+            "原作：江南（ジャン・ナン）「龍族」",
+            "監督・シリーズ構成：王昕（ワン・シン）",
+            "キャラクターデザイン・総作画監督：李時旼（リー・シーミン）",
+            "音楽監督：伍婷（ウー・ティン）",
+            "BGM：KOHTA YAMAMOTO ほか",
+            "アニメーション制作：HANABARA Animation"
+        ],
+        "copyrights": [
+            "(C)2023 Shenzhen Tencent Computer Systems Company Limited"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719915787,
+    "endAt": 1744124400,
+    "transcodeVersion": "21N48k",
+    "sharedLink": {
+        "twitter": "https://abema.app/2ooQ",
+        "facebook": "https://abema.app/R6xm",
+        "google": "https://abema.app/Mft6",
+        "line": "https://abema.app/n511",
+        "copy": "https://abema.app/LLdw",
+        "instagram": "https://abema.app/wxwf"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-221_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-221_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-221_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-221_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1136.3435416666666,
+        "opening": {
+            "start": 139.18070833333334,
+            "end": 234.65108333333333
+        },
+        "ending": {
+            "start": 1136.3435416666666,
+            "end": 1226.3918333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-221_s1_p12",
+        "title": "11話 危険な任務",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719915787,
+        "endAt": 1744124400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1744124400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-221_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1744124400
+        }
+    ],
+    "episodeGroupId": "26-221_eg0"
+}

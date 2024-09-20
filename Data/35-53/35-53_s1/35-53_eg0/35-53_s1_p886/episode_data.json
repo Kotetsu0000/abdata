@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p886",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 886,
+        "title": "#886 しつけキャンデー２",
+        "content": "スネ夫のひいおばあちゃんが、ひさしぶりに田舎（いなか）からやってくる。ところが、スネ夫は「うそをついたら地獄（じごく）に落ちて、エンマさまに舌（した）をぬかれる」などの“迷信（めいしん）”を口にするひいおばあちゃんをバカにする…。\n　それを聞いたのび太も大笑いするが、ドラえもんは「おばあちゃんをバカにするのはけしからん！」とおこり出すと、『しつけキャンディー』を取り出し、ひいおばあちゃんになめてもらう。そして、スネ夫の様子を『スパイ衛星（えいせい）』で観察することに。\n　ママに向かって「オニババ」と言い放ったスネ夫に対し、ひいおばあちゃんが「親の悪口を言うと、口が曲がるよ」と注意したところ、なんとスネ夫の口がグニャリと曲がったからビックリ！　実は、しつけキャンディーは未来の世界で小さな子どもにしつけを教えるために使うもので、これをなめた人が口にしたことは本当になるのだという。\n　その後も、次々とおばあちゃんが口にした迷信が本当のことになって…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1727708400,
+    "transcodeVersion": "6iEuFa",
+    "sharedLink": {
+        "twitter": "https://abema.app/wvqt",
+        "facebook": "https://abema.app/p8F4",
+        "google": "https://abema.app/cDdi",
+        "line": "https://abema.app/PNRc",
+        "copy": "https://abema.app/CHkA",
+        "instagram": "https://abema.app/B3SH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p886/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p886/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p886/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p886"
+    },
+    "viewingPoint": {
+        "suggestion": 639.9726666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p887",
+        "title": "#887 ロビンソンクルーソーセット",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335975,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p886/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

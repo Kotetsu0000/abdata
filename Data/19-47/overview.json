@@ -1,0 +1,75 @@
+{
+    "id": "19-47",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ハイキュー!! OVA",
+    "content": "東京都代表決定戦、開幕―！！ 勝ち残るのは、どのチームか――",
+    "seasons": [
+        {
+            "id": "19-47_s1",
+            "sequence": 1,
+            "name": "-",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-47_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683702353",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-47_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(Ｃ)古舘春一／集英社・「ハイキュー!!」製作委員会・MBS"
+    ],
+    "label": {},
+    "version": "1724726248648652423",
+    "imageUpdatedAt": 1627288811,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/VUWHz",
+        "facebook": "https://gxyt4.app.goo.gl/o3Rom",
+        "google": "https://gxyt4.app.goo.gl/XatWf",
+        "line": "https://gxyt4.app.goo.gl/qd3cL",
+        "copy": "https://gxyt4.app.goo.gl/YLXJ4",
+        "instagram": "https://gxyt4.app.goo.gl/rzP6W"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-47",
+        "filename": "thumb.png",
+        "query": "version=1627288811",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-47",
+        "filename": "portrait.png",
+        "query": "version=1627288811",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

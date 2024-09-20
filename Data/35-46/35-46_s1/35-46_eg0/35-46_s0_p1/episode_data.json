@@ -1,0 +1,136 @@
+{
+    "id": "35-46_s0_p1",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5538
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "映画ドラえもん のび太の恐竜",
+        "content": "夜の公園で、のび太の声を聞いて池から現れるのは、フタバスズキリュウのピー助だ。１億年前の卵の化石から、のび太が誕生させたのだ。「でも、こんな大きな体では、やがてみんなに見つかってしまう。」のび太はドラえもんの助けを借りて、ピー助を１億年前の時代に帰してあげようとするのだが・・・。"
+    },
+    "credit": {
+        "released": 1980,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "原作：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 1980"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522814,
+    "endAt": 1741014000,
+    "transcodeVersion": "2D8JeD",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/G9UaR",
+        "facebook": "https://gxyt4.app.goo.gl/T51sS",
+        "google": "https://gxyt4.app.goo.gl/oomeY",
+        "line": "https://gxyt4.app.goo.gl/16Ta8",
+        "copy": "https://gxyt4.app.goo.gl/EsuAr",
+        "instagram": "https://gxyt4.app.goo.gl/kmc7b"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 5412.129918,
+        "opening": {
+            "start": 5.028222,
+            "end": 52.174488
+        },
+        "ending": {
+            "start": 5412.479144,
+            "end": 5538.818322
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p2",
+        "title": "映画ドラえもん のび太の宇宙開拓史",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1709522814,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

@@ -1,0 +1,134 @@
+{
+    "id": "5-29_s1_p144",
+    "series": {
+        "id": "5-29",
+        "title": "ドラゴンボール改",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-29",
+            "filename": "thumb.png",
+            "query": "version=1644640355",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-29",
+            "filename": "portrait.png",
+            "query": "version=1644640355",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-29_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1398
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 144,
+        "title": "第144話 大界王神の妙案！　よみがえれ孫悟空！！",
+        "content": "ゴテンクスとピッコロを吸収し、二人のパワーを手に入れた魔人ブウは悟飯を徹底的に傷めつける。これを見ていた老界王神は、歴代界王神のとっておきのお宝「ポタラ」で悟空と悟飯を合体させ、最強の戦士を誕生させることを思いつく！老界王神の命で復活する悟空。一方その頃、べジータが閻魔大王に呼び出されて…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "孫悟空＆孫悟飯＆孫悟天：野沢雅子，ブルマ：鶴ひろみ，クリリン：田中真弓，　ヤムチャ：古谷徹，　餃子：江森浩子，チチ：渡辺菜生子，神様：島田敏，ピッコロ：古川登志夫，べジータ：堀川りょう，トランクス：草尾毅，セル：若本規夫，魔人ブウ：塩屋浩三，ビーデル：柿沼紫乃，ミスター・サタン：石塚運昇，ナレーション：八奈見乗児"
+        ],
+        "crews": [
+            "企画：松崎容子、情野誠人、森下孝三，原作：鳥山明，プロデューサー：情野誠人、野崎理、渡辺和哉、佐川直子、若林 豪、林田師博",
+            "音楽：菊池俊輔",
+            "音響監督：長崎行男、本山哲",
+            "製作担当：風間厚徳",
+            "編集：福光伸一、片瀬健太、牧信公",
+            "シリーズ構成協力：佐渡和隆、キャラメル・ママ",
+            "オープニング・エンディング：山室直儀、長峯達也、志田直俊、後藤康徳"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683628650,
+    "endAt": 1732978800,
+    "transcodeVersion": "26DzQ8",
+    "sharedLink": {
+        "twitter": "https://abema.app/6AEx",
+        "facebook": "https://abema.app/xpGW",
+        "google": "https://abema.app/g84Z",
+        "line": "https://abema.app/XNUE",
+        "copy": "https://abema.app/WZ9x",
+        "instagram": "https://abema.app/YXk6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-29_s1_p144/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-29_s1_p144/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-29_s1_p144/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-29_s1_p144"
+    },
+    "viewingPoint": {
+        "suggestion": 1308.130022,
+        "opening": {
+            "start": 68.141853,
+            "end": 149.141855
+        },
+        "ending": {
+            "start": 1308.130022,
+            "end": 1365.190022
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-29_s1_p145",
+        "title": "第145話 奇跡は一度・・・　なるか悟空とアイツの超合体",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683628650,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-29_s1_p144/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-29_eg0"
+}

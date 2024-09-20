@@ -1,0 +1,105 @@
+{
+    "id": "25-240",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "【推しの子】",
+    "content": "新たな舞台の幕が開く──\n\n人気マンガ『東京ブレイド』の舞台稽古が始まった。\n劇団ララライの役者達に囲まれ、大きく飛躍するかな。\nかなの才能を認めながら、ライバル心を激しく燃やすあかね。\n才能と熱意のある役者が集う中、アクアは演技すらも利用してアイの死の真相を追い続ける──。\nそしてアイドルとして母の背中を追い続けるルビーは……。",
+    "seasons": [
+        {
+            "id": "25-240_s1",
+            "sequence": 1,
+            "name": "第1期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-240_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1716801338",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-240_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "25-240_s2",
+            "sequence": 2,
+            "name": "第2期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-240_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1718011794",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-240_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "25-240_eg2",
+                    "name": "特番"
+                },
+                {
+                    "id": "25-240_eg1",
+                    "name": "予告編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726218176111807852",
+    "imageUpdatedAt": 1718011758,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/vUDj",
+        "facebook": "https://abema.app/CiiA",
+        "google": "https://abema.app/PDYC",
+        "line": "https://abema.app/qobh",
+        "copy": "https://abema.app/4yM5",
+        "instagram": "https://abema.app/49Ug"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-240",
+        "filename": "thumb.png",
+        "query": "version=1718011758",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-240",
+        "filename": "portrait.png",
+        "query": "version=1718011758",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

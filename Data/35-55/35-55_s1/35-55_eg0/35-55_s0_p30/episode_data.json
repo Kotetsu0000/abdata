@@ -1,0 +1,155 @@
+{
+    "id": "35-55_s0_p30",
+    "series": {
+        "id": "35-55",
+        "title": "映画クレヨンしんちゃん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "thumb.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "portrait.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5968
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 30,
+        "title": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+        "content": "ひろしとみさえのもとに「しんのすけ」が誕生して5年。嵐のような平和な日々を過ごしていたが、ある日、屁祖隠ちよめと名乗る女性が野原家を訪れる。「私、しんのすけくんの本当の母親なんです」傍らには5才の少年、名は珍蔵。突然のことに戸惑いながらも、追い返すわけにもいかず、2人を泊めることに。しかし、その夜、突如謎の忍者軍団が襲い掛かる！ちよめはなんと、忍者の里を抜け出して追われているくノ一だった！そして、その息子として、しんのすけもさらわれてしまう。\n忍者の里には地球のエネルギー（ニントル）を閉じ込める「地球のへそ」があり、それを屁祖隠家は代々伝わる「もののけの術」を使って純金の栓で塞ぎ、守ってきたという。もしも栓が抜けたらニントルが漏れ出し、地球は枯れ、時点が止まり、世界の「明日」は失われてしまう！しんのすけは、果たして地球の未来、家族の明日を守れるのか！？"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "しんのすけ:小林由美子",
+            "みさえ:ならはしみき",
+            "ひろし:森川智之",
+            "ひまわり:こおろぎさとみ",
+            "シロ:真柴摩利",
+            "ネネちゃん:林 玉緒",
+            "マサオくん:一龍斎貞友",
+            "風間くん:真柴摩利",
+            "ボーちゃん:佐藤智恵",
+            "アクション仮面:玄田哲章",
+            "屁祖隠珍蔵:高垣彩陽",
+            "屁祖隠胡麻左衛門:花江夏樹",
+            "長老:浦山 迅",
+            "秘書:悠木 碧",
+            "風子:雨宮 天",
+            "兵衛刀便系:米良美一"
+        ],
+        "crews": [
+            "原作:臼井儀人（らくだ社）",
+            "監督:橋本昌和",
+            "脚本:うえのきみこ、橋本昌和"
+        ],
+        "copyrights": [
+            "(c)臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2022"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719656616,
+    "endAt": 1740754800,
+    "transcodeVersion": "2pK1fE",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZrnP",
+        "facebook": "https://abema.app/Apdz",
+        "google": "https://abema.app/G7ak",
+        "line": "https://abema.app/YtCw",
+        "copy": "https://abema.app/GR9A",
+        "instagram": "https://abema.app/Hvid"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-55_s0_p30/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-55_s0_p30/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-55_s0_p30/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-55_s0_p30"
+    },
+    "viewingPoint": {
+        "suggestion": 5763.233933
+    },
+    "nextProgramInfo": {
+        "programId": "35-55_s1_p31",
+        "title": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1722240332,
+        "endAt": 1882882740,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1882882740
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "linkText": "昨年公開映画｜独占見放題配信中！",
+        "link": "https://abema.tv/video/episode/35-55_s1_p31",
+        "buttonText": "確認する",
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-55_s0_p30/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726912860
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727575260
+        }
+    ],
+    "episodeGroupId": "35-55_eg0"
+}

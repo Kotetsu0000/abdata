@@ -1,0 +1,136 @@
+{
+    "id": "35-46_s0_p34",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6546
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 34,
+        "title": "映画ドラえもん 新・のび太の大魔境～ペコと５人の探検隊～",
+        "content": "夏休みのある日。のび太くんは「地球のどこかにまだかくされた秘境ひきょうがあるはずだ！」と大冒険だいぼうけんできる場所をさがしはじめた。そんな時、空き地で一匹の子犬・ペコに出会う。そのペコがなんと、山積やまづみの衛星えいせい写真の中から、ジャングルの奥地おくちに立つなぞの巨神像きょしんぞうを見つけ出した！　ふしぎに思ったのび太くんたちとペコは、巨神像きょしんぞうのなぞを解とき明かすために、未開みかいのジャングルに向かう。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "原作：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2014"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "2zhMNE",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/gVECp",
+        "facebook": "https://gxyt4.app.goo.gl/6iCQr",
+        "google": "https://gxyt4.app.goo.gl/GfNfv",
+        "line": "https://gxyt4.app.goo.gl/a5QWe",
+        "copy": "https://gxyt4.app.goo.gl/svjGc",
+        "instagram": "https://gxyt4.app.goo.gl/1jnrU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p34/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p34/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p34/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p34"
+    },
+    "viewingPoint": {
+        "suggestion": 6355.420387,
+        "opening": {
+            "start": 112.469655,
+            "end": 202.557888
+        },
+        "ending": {
+            "start": 6354.638155,
+            "end": 6546.610794
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p35",
+        "title": "映画ドラえもん のび太の宇宙英雄記（スペースヒーローズ）",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1709522815,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p34/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

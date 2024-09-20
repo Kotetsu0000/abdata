@@ -1,0 +1,107 @@
+{
+    "id": "218-591_s1_p105",
+    "series": {
+        "id": "218-591",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 ~Challenge Again~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "thumb.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "portrait.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-591_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 347
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 105,
+        "title": "サウナDE熱血朗読会〜三人の声優で三匹のこぶた〜",
+        "content": "生放送には収まりきらなかった、朝サウナの未公開シーンを大公開！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "小野賢章",
+            "花江夏樹",
+            "石川界人"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695359763,
+    "endAt": 1790607600,
+    "transcodeVersion": "5uBeFy",
+    "sharedLink": {
+        "twitter": "https://abema.app/7v2w",
+        "facebook": "https://abema.app/s9pc",
+        "google": "https://abema.app/EHL2",
+        "line": "https://abema.app/gdKq",
+        "copy": "https://abema.app/B12m",
+        "instagram": "https://abema.app/iRQv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-591_s1_p105/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-591_s1_p105/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-591_s1_p105/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-591_s1_p105"
+    },
+    "viewingPoint": {
+        "suggestion": 342.0083333333333
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-591_s1_p105/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1790607600
+        }
+    ],
+    "episodeGroupId": "218-591_eg2"
+}

@@ -1,0 +1,142 @@
+{
+    "id": "13-151_s1_p2",
+    "series": {
+        "id": "13-151",
+        "title": "ラブライブ！スーパースター!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-151",
+            "filename": "thumb.png",
+            "query": "version=1627615489",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-151",
+            "filename": "portrait.png",
+            "query": "version=1627615489",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-151_s1",
+        "sequence": 1,
+        "name": "1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 スクールアイドル禁止!?",
+        "content": "やっぱり歌が好きだ！という自分の気持ちに気付いたかのんは、スクールアイドルになることを決心する。しかし音楽科の葉月恋は、スクールアイドルは結ヶ丘に必要ないと、部の申請書すら受け取ってくれない。かのんは恋の弱点を握ろうと、音楽科の生徒であり幼馴染の嵐千砂都に協力してもらい情報を集める。しかし弱点どころか、恋を頼りにしている生徒は多い。そんな時、かのん達は急遽、理事長に呼び出され――。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "澁谷かのん：伊達さゆり",
+            "唐 可可：Liyuu",
+            "嵐 千砂都：岬 なこ",
+            "平安名すみれ：ペイトン尚未",
+            "葉月 恋：青山なぎさ"
+        ],
+        "crews": [
+            "原作：矢立 肇",
+            "原案：公野櫻子",
+            "監督：京極尚彦",
+            "シリーズ構成：花田十輝",
+            "キャラクターデザイン原案：室田雄平",
+            "キャラクターデザイン：斎藤敦史",
+            "音楽：藤澤慶昌"
+        ],
+        "copyrights": [
+            "（C）2021 プロジェクトラブライブ！スーパースター!!"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684480118,
+    "endAt": 1727708400,
+    "transcodeVersion": "2hU9bM",
+    "sharedLink": {
+        "twitter": "https://abema.app/DzNp",
+        "facebook": "https://abema.app/F2yM",
+        "google": "https://abema.app/zV4K",
+        "line": "https://abema.app/vpbL",
+        "copy": "https://abema.app/b3BG",
+        "instagram": "https://abema.app/TT1i"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-151_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-151_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-151_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-151_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1343.0083333333334,
+        "opening": {
+            "start": 92.02526666666667,
+            "end": 182.01516666666666
+        },
+        "ending": {
+            "start": 1343.0083333333334,
+            "end": 1423.9892333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-151_s1_p3",
+        "title": "第3話 クーカー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684480118,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727607600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-151_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727607600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "13-151_eg0"
+}

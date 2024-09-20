@@ -1,0 +1,79 @@
+{
+    "id": "11-23",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_28",
+                "name": "歴史・戦記"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ゴールデンカムイ",
+    "content": "明治時代後期。「不死身の杉元」の異名を持つ日露戦争の英雄・杉元佐一は、ある目的のために大金を手に入れるべく北海道にいた。そこにアイヌから奪われた莫大な埋蔵金という、一攫千金のチャンスが舞い込む。埋蔵金は網走監獄に収監中の男によって隠匿され、24人の脱獄囚の身体に刻まれた刺青がその在り処を示す手がかりだという。\nそんな折、ヒグマの襲撃を受けた杉元を、ひとりのアイヌの少女が救う。名をアシ(リ)パというその少女は、埋蔵金を奪った男に父親を殺されていた。さらに杉元の動きに呼応するように、かねてより埋蔵金を狙って暗躍していた北の最強部隊・第七師団や刺青を背負う脱獄囚たちの動きも顕在化。果たして、雄大な北の大地を舞台に巻き起こった一攫千金サバイバルの行方は……!?",
+    "seasons": [
+        {
+            "id": "11-23_s1",
+            "sequence": 1,
+            "name": "第一期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-23_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1684146279",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "11-23_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)野田サトル／集英社・ゴールデンカムイ製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1723699939900143573",
+    "imageUpdatedAt": 1627289121,
+    "caption": "奪われた金塊を巡る生存競争サバイバル",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/xx92",
+        "facebook": "https://abema.app/UfwD",
+        "google": "https://abema.app/xFkE",
+        "line": "https://abema.app/N3iC",
+        "copy": "https://abema.app/exH5",
+        "instagram": "https://abema.app/BPhA"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-23",
+        "filename": "thumb.png",
+        "query": "version=1627289121",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-23",
+        "filename": "portrait.png",
+        "query": "version=1627289121",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s11_p455",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s11",
+        "sequence": 11,
+        "name": "season11",
+        "thumbComponent": {},
+        "order": 11
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 455,
+        "title": "第455話 ひっくり返った結末（後編）",
+        "content": "コナンらは原本高平が家の中で殺害されているのを発見。哀はもう1つの部屋に不可解な点があると目暮らに伝え、その部屋へと移動。部屋では、ミニカーなどのコレクションが逆さまにひっくり返っていた。ハウスキーパーの市村の話に萬田は動揺し、話題を変える。コナンは誰が犯人かに気付き、物がひっくり返った謎も解く。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明、北田修一",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066306,
+    "endAt": 1740754800,
+    "transcodeVersion": "31Ltqi",
+    "sharedLink": {
+        "twitter": "https://abema.app/bHF5",
+        "facebook": "https://abema.app/3YXw",
+        "google": "https://abema.app/zQGd",
+        "line": "https://abema.app/1Riu",
+        "copy": "https://abema.app/qvKT",
+        "instagram": "https://abema.app/sJjx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s11_p455/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s11_p455/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s11_p455/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s11_p455"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0923333333333,
+        "opening": {
+            "start": 14.948266666666667,
+            "end": 102.06863333333334
+        },
+        "ending": {
+            "start": 1276.7755,
+            "end": 1361.6603
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s11_p456",
+        "title": "第456話 俺が愛したミステリー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066306,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s11_p455/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

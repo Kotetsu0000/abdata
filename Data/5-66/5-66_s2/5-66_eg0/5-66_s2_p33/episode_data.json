@@ -1,0 +1,153 @@
+{
+    "id": "5-66_s2_p33",
+    "series": {
+        "id": "5-66",
+        "title": "ふたりはプリキュアMaxHeart",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "thumb.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "portrait.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-66_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 33,
+        "title": "第33話　勇気を出して！ なぎさ波乱のバースデー!!",
+        "content": "もうすぐなぎさの誕生日。藤Ｐ先輩にお祝いしてほしいところだが、高等部のサッカーの試合が近いせいで、それどころではないようだ。そして誕生日。ほのかと買い物に出かけた道すがら、先輩の練習を見学に来たなぎさ。あまり調子の良くない先輩は、なぎさの言葉で元気を取り戻し、そのまま良い雰囲気になるが…。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "美墨なぎさ：本名陽子",
+            "雪城ほのか：ゆかな",
+            "九条ひかり：田中理恵",
+            "メップル：関 智一",
+            "ミップル：矢島晶子",
+            "ポルン：池澤春菜",
+            "ルルン：谷井あすか",
+            "美墨亮太：高橋直純",
+            "雪城さなえ：野沢雅子",
+            "藤田アカネ：藤田美歌子",
+            "高清水莉奈：徳光由禾",
+            "久保田志穂：仙台エリ",
+            "藤村省吾：岸尾大輔",
+            "クイーン：松谷彼哉"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、大野逸雄、亀田雅之、鶴崎りか、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズディレクター：西尾大介",
+            "シリーズ構成：川崎 良",
+            "キャラクターデザイン：稲上 晃",
+            "色彩設計：沢田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721038808,
+    "endAt": 1740754800,
+    "transcodeVersion": "2bCY2G",
+    "sharedLink": {
+        "twitter": "https://abema.app/3NFN",
+        "facebook": "https://abema.app/8FZn",
+        "google": "https://abema.app/QWz5",
+        "line": "https://abema.app/LYDY",
+        "copy": "https://abema.app/9A75",
+        "instagram": "https://abema.app/ShMQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-66_s2_p33/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-66_s2_p33/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-66_s2_p33/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-66_s2_p33"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.1438,
+        "opening": {
+            "start": 113.0129,
+            "end": 193.02616666666665
+        },
+        "ending": {
+            "start": 1345.1438,
+            "end": 1435.0669666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-66_s2_p34",
+        "title": "第34話　旅だ仲間だ！ 修学旅行だザケンナー!?",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721038808,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-66_s2_p33/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-66_eg0"
+}

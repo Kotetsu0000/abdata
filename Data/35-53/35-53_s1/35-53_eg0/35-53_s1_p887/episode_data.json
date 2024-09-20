@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p887",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 646
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 887,
+        "title": "#887 ロビンソンクルーソーセット",
+        "content": "だれにもじゃまされず、しずかと２人きりであそびたいと思った、のび太。\n　それを聞いたドラえもんは、『ロビンソン・クルーソー・セット』を取りだす。無人島への漂流のスリルを味わうためのレジャー用品だという。\nさっそく、しずかをボートに乗せて出発したのび太。計画どおり無人島に着くが、しずかは不安な表情をうかべる。\nそんなしずかのため、のび太はセットの中の道具を使って、木の家を作ったり、食べ物をさがしたりと奮闘するが…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1727708400,
+    "transcodeVersion": "4VWSfJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/Zfrc",
+        "facebook": "https://abema.app/xwZF",
+        "google": "https://abema.app/Mfpd",
+        "line": "https://abema.app/kT9t",
+        "copy": "https://abema.app/RFgS",
+        "instagram": "https://abema.app/V8mM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p887/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p887/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p887/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p887"
+    },
+    "viewingPoint": {
+        "suggestion": 641.9413
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p888",
+        "title": "#888 アトカラホントスピーカー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335975,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p887/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

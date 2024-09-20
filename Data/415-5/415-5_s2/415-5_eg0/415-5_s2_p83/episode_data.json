@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s2_p83",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1468
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 83,
+        "title": "第83話 総合病院殺人事件",
+        "content": "ある夜、ケガで入院中の小五郎が病室の窓ごしに殺人を目撃した。あわてて警察を呼び、現場と思われる病室に急行するが、そこには死体はおろか、事件の痕跡は何もなかった。精神科の医師・白井はストレスによる幻覚だと決めつけるが、コナンは小五郎が見たのは窓ガラスを利用したトリックだったことに気づく。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066297,
+    "endAt": 1740754800,
+    "transcodeVersion": "7Lt9nM",
+    "sharedLink": {
+        "twitter": "https://abema.app/B3EN",
+        "facebook": "https://abema.app/bM7F",
+        "google": "https://abema.app/kcqM",
+        "line": "https://abema.app/Deaj",
+        "copy": "https://abema.app/pDo8",
+        "instagram": "https://abema.app/nXyq"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p83/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p83/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p83/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s2_p83"
+    },
+    "viewingPoint": {
+        "suggestion": 1423.9558666666667,
+        "opening": {
+            "start": 14.948266666666667,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1305.4041,
+            "end": 1393.3586333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s2_p84",
+        "title": "第84話 スキーロッジ殺人事件（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066297,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s2_p83/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

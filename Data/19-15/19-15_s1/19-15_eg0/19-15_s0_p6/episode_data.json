@@ -1,0 +1,145 @@
+{
+    "id": "19-15_s0_p6",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s1",
+        "sequence": 1,
+        "name": "第1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 猛れクソナード",
+        "content": "個性把握テストで”個性”を発動、最小限の負傷で最大限の力を発揮した出久は自らの可能性を示した。翌日、オールマイトによる授業「屋内対人戦闘訓練」が生徒たちに課せられる。2人1組で一方がヒーロー、もう一方がヴィランとして対峙し、制限時間内にヒーロー側が仮想の核兵器を回収もしくは相手を捕獲するという訓練だ。出久はお茶子とヒーロー側のコンビに、対するヴィラン側は飯田と、出久が”個性”を持っていたことに怒り心頭の爆豪。訓練開始と同時に、爆豪が出久に襲い掛かる！"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "オールマイト：三宅健太",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平(集英社「週刊少年ジャンプ」連載)",
+            "シリーズ構成：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872421,
+    "endAt": 1759244400,
+    "transcodeVersion": "tyjC4",
+    "sharedLink": {
+        "twitter": "https://abema.app/pV9w",
+        "facebook": "https://abema.app/cb39",
+        "google": "https://abema.app/tx8z",
+        "line": "https://abema.app/bf5D",
+        "copy": "https://abema.app/Rsws",
+        "instagram": "https://abema.app/vw3c"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s0_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s0_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s0_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s0_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.0487,
+        "opening": {
+            "start": 43.043,
+            "end": 132.99953333333335
+        },
+        "ending": {
+            "start": 1350.0487,
+            "end": 1440.0052333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s0_p7",
+        "title": "第7話 デクvsかっちゃん",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872422,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s0_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

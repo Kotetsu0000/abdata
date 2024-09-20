@@ -1,0 +1,147 @@
+{
+    "id": "172-56_s1_p12",
+    "series": {
+        "id": "172-56",
+        "title": "アンデッドアンラック",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "thumb.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "portrait.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "172-56_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 Activate",
+        "content": "ブラックオークションには、否定者狩りのメンバーも紛れ込んでいた。彼らの目的は世界への復讐―。そんなヤツらに否定者を渡すまいと、競売品倉庫へ向かうアンディたち。一方、倉庫ではマフィアによって拉致された否定者、“不動”・アンムーブの能力をもつチカラが脱出を試みていたが、否定者狩りのメンバーが一足早くチカラの前に現れる。彼の能力を試そうと否定者狩りの一撃がチカラを襲う！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "アンディ：中村悠一",
+            "出雲風子：佳原萌枝",
+            "シェン：花江夏樹",
+            "ボイド：乃村健次",
+            "ジーナ：悠木碧",
+            "ジュイス：伊瀬茉莉也",
+            "ビリー：小山力也",
+            "タチアナ：釘宮理恵",
+            "トップ：岡本信彦",
+            "ニコ：遊佐浩二",
+            "アポカリプス：杉田智和"
+        ],
+        "crews": [
+            "監督：八瀬祐樹",
+            "キャラクターデザイン：守岡英行",
+            "音楽：末廣健一郎",
+            "アニメーション制作：david production",
+            "企画プロデュース：UNLIMITED PRODUCE by TMS"
+        ],
+        "copyrights": [
+            "(C) 戸塚慶文／集英社・アンデッドアンラック製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711367781,
+    "endAt": 1743433200,
+    "transcodeVersion": "6UXFvR",
+    "sharedLink": {
+        "twitter": "https://abema.app/avhi",
+        "facebook": "https://abema.app/LC4h",
+        "google": "https://abema.app/sZYk",
+        "line": "https://abema.app/d2uC",
+        "copy": "https://abema.app/G7EN",
+        "instagram": "https://abema.app/wkPN"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.172-56_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1324.948625,
+        "opening": {
+            "start": 221.05416666666667,
+            "end": 310.935625
+        },
+        "ending": {
+            "start": 1324.948625,
+            "end": 1414.8717916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "172-56_s1_p13",
+        "title": "第13話 Tatiana",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711367781,
+        "endAt": 1743433200,
+        "freeEndAt": 1726545600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726545600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/172-56_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726954200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727636400
+        }
+    ],
+    "episodeGroupId": "172-56_eg0"
+}

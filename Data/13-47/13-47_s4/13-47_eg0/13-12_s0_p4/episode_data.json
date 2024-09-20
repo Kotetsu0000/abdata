@@ -1,0 +1,145 @@
+{
+    "id": "13-12_s0_p4",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第154話 誕生日会はいつものアイツが違う奴に見える",
+        "content": "九兵衛の誕生パーティーの招待を受けたお妙と新八は、プレゼントの特注ケーキを手に柳生家の屋敷に向かう。しかし会場に入ってみると、芸能界、政界、あらゆる分野の著名人が！ 自分たちは場違いなのではと心配になってくる二人。見ると、向こうのテーブルで銀時、桂、長谷川、亀梨（ただし甲羅のみ）がパーティーそっちのけで大騒ぎ！ このメンバーが揃って会が無事に進行するわけもなく、いつものようにパプニングが起こり始め…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1748703600,
+    "transcodeVersion": "7Tcv7i",
+    "sharedLink": {
+        "twitter": "https://abema.app/Z3k6",
+        "facebook": "https://abema.app/9FU2",
+        "google": "https://abema.app/42zY",
+        "line": "https://abema.app/E5WB",
+        "copy": "https://abema.app/Xgbq",
+        "instagram": "https://abema.app/SH4V"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1365.051666,
+        "opening": {
+            "start": 134.056117,
+            "end": 223.456132
+        },
+        "ending": {
+            "start": 1365.074924,
+            "end": 1454.274932
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p5",
+        "title": "第155話 裏の裏の裏は裏",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296390,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p4/timeline",
+        "query": "version=7Tcv7i",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

@@ -1,0 +1,119 @@
+{
+    "id": "218-707_s1_p10",
+    "series": {
+        "id": "218-707",
+        "title": "鈴村健一のラジベース DUO",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-707",
+            "filename": "thumb.png",
+            "query": "version=1713153943",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-707",
+            "filename": "portrait.png",
+            "query": "version=1713153943",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-707_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1680
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "鈴村健一のラジベースDUO ＃10",
+        "content": "文化放送「超！A&G＋」にて、毎週火曜日に放送中の声優・鈴村健一さんによる1人しゃべり生放送番組『鈴村健一のラジベース』の特別版としてお届けする、文化放送「超！A&G＋」と「ABEMA」のアニメチャンネルによる共同制作・コラボ番組『鈴村健一のラジベースDUO』。パーソナリティを務める鈴村さんとゲストによるトークをメインに、ここでしか見られないオリジナル番組をお届けします。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "鈴村健一"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(c)Nippon Cultual Broadcasting Inc"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713688714,
+    "endAt": 1734274800,
+    "transcodeVersion": "Uewr7",
+    "sharedLink": {
+        "twitter": "https://abema.app/yyq9",
+        "facebook": "https://abema.app/zXcS",
+        "google": "https://abema.app/KuKZ",
+        "line": "https://abema.app/Z61t",
+        "copy": "https://abema.app/PRXW",
+        "instagram": "https://abema.app/qsG7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-707_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-707_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-707_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-707_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1609.8415666666667,
+        "ending": {
+            "start": 1611.3430666666666,
+            "end": 1679.9783
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "218-707_s1_p11",
+        "title": "鈴村健一のラジベースDUO ＃11",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1713688715,
+        "endAt": 1734879600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734879600
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-707_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734274800
+        }
+    ],
+    "episodeGroupId": "218-707_eg0"
+}

@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s3_p87",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 87,
+        "title": "第87話 鶴の恩返し殺人事件",
+        "content": "北海道でツルを観察していたコナンと蘭、小五郎は、ツルの世話をする老人と出会う。老人の家に招待されたコナンたちは、老人が引退した実業家で、全財産をツルのために村に寄付するという遺言書を作成中だということを知る。老人の弟と子供たちは猛反対。手続きが終了する直前に老人はボウガンの矢で射抜かれ、死亡する。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066297,
+    "endAt": 1740754800,
+    "transcodeVersion": "6X1vhx",
+    "sharedLink": {
+        "twitter": "https://abema.app/BVAV",
+        "facebook": "https://abema.app/1wGP",
+        "google": "https://abema.app/X1WK",
+        "line": "https://abema.app/wKQk",
+        "copy": "https://abema.app/gNpk",
+        "instagram": "https://abema.app/c4cR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p87/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p87/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p87/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s3_p87"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.0893333333333,
+        "opening": {
+            "start": 16.850166666666667,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1313.8792333333333,
+            "end": 1398.8307666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s3_p88",
+        "title": "第88話 ドラキュラ荘殺人事件（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066297,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s3_p87/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p9",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1426
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 黒百合の花言葉",
+        "content": "護送車が爆発し、黒百合を取り逃してしまった太陽。想定内だという翠から、黒百合の正体が５、６年前に亡くなったとされる伝説のスパイ・黒顔であることが明かされる。太陽たちが逃亡した黒顔を追う中、どういうわけか拉致した副総理を連れた黒顔が、ネット中継で人々の前に現れた。復讐を果たすために、副総理へ銃口を向ける黒顔。そこで語られる過去の因縁と目的――。駆けつけた太陽は中継を遮断して黒顔と対峙する！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "transcodeVersion": "Vw2PE",
+    "sharedLink": {
+        "twitter": "https://abema.app/ibzt",
+        "facebook": "https://abema.app/YXYt",
+        "google": "https://abema.app/3UsF",
+        "line": "https://abema.app/xUPJ",
+        "copy": "https://abema.app/6J7i",
+        "instagram": "https://abema.app/dBST"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/11-60_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/11-60_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/11-60_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.9973333333332,
+        "opening": {
+            "start": 54.054,
+            "end": 143.97716666666668
+        },
+        "ending": {
+            "start": 1331.9973333333332,
+            "end": 1421.9205
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p10",
+        "title": "第10話 夜桜家のメイド/浮気",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

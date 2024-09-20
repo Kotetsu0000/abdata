@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s26_p1027",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s26",
+        "sequence": 26,
+        "name": "season26",
+        "thumbComponent": {},
+        "order": 26
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1027,
+        "title": "第1027話 カーテンの向こう側",
+        "content": "街中にあるビルの三階に入っているレストランで、阿笠博士、元太、光彦、歩美は食事をしていた。席で外を見ていた四人は、向かいのマンションでカーテン越しに男女らしき人影が仲良くパーティーをしている様子を見る。それが一変、女性が男性に襲われている様子に変わる。慌てて四人は警察に電話するのだが……。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：佐々木加奈・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066321,
+    "endAt": 1740754800,
+    "transcodeVersion": "2vNFg4",
+    "sharedLink": {
+        "twitter": "https://abema.app/rgsw",
+        "facebook": "https://abema.app/qSNp",
+        "google": "https://abema.app/AGLz",
+        "line": "https://abema.app/yL9X",
+        "copy": "https://abema.app/1HaN",
+        "instagram": "https://abema.app/QqRQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s26_p1027/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s26_p1027/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s26_p1027/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s26_p1027"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.048625,
+        "opening": {
+            "start": 76.451375,
+            "end": 167.00016666666667
+        },
+        "ending": {
+            "start": 1278.2352916666666,
+            "end": 1358.1901666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s26_p1028",
+        "title": "第1028話 ケーキを愛する女のバラード",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066321,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s26_p1027/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

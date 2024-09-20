@@ -1,0 +1,144 @@
+{
+    "id": "26-226_s1_p5",
+    "series": {
+        "id": "26-226",
+        "title": "TRUMPシリーズTVアニメ『デリコズ・ナーサリー』",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-226",
+            "filename": "thumb.png",
+            "query": "version=1720434379",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-226",
+            "filename": "portrait.png",
+            "query": "version=1720434379",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-226_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 第二のナーサリー",
+        "content": "次々とヴラド機関のメンバーを襲うペンデュラム。ダリはこの状況を利用して、ヴラド機関の長官ヨハネス・ヴラドを囮に敵をおびき出す策を練る。作戦に賛同するヨハネスだったが、退避命令に応じないヴラド機関のメンバーが一人いることを告げる。一方、乳母クララの屋敷へ避難した子供たちは「おうちに帰りたい」と大騒ぎ。そんな中、ひとり離れて読書をしていたディーノの息子テオドールに異変が……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ダリ・デリコ：森田成一",
+            "ゲルハルト・フラ：小西克幸",
+            "エンリケ・ロルカ：下野 紘",
+            "ディーノ・クラシコ：佐藤拓也",
+            "ウル・デリコ：日高里菜",
+            "ラファエロ・デリコ：小原好美",
+            "アンジェリコ・フラ：伊藤彩沙",
+            "ルチア・ロルカ：和久井 優",
+            "エレーナ・ロルカ：福 沙奈恵",
+            "テオドール・クラシコ：安済知佳"
+        ],
+        "crews": [
+            "原作・シリーズ構成・脚本：末満健一",
+            "監督：錦織博",
+            "キャラクター原案：荒野",
+            "キャラクターデザイン・総作画監督：伊東葉子",
+            "美術監督：泉健太郎",
+            "色彩設計：木村美保",
+            "撮影監督：高橋昭裕",
+            "編集：西山茂(REAL-T)",
+            "音響監督：濱野高年",
+            "音楽：和田俊輔",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(C)末満健一／デリコズ・ナーサリー製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725873414,
+    "endAt": 1761922800,
+    "freeEndAt": 1726369200,
+    "transcodeVersion": "2rvxwb",
+    "sharedLink": {
+        "twitter": "https://abema.app/2nef",
+        "facebook": "https://abema.app/4Uk8",
+        "google": "https://abema.app/zq2d",
+        "line": "https://abema.app/ExuP",
+        "copy": "https://abema.app/Urtr",
+        "instagram": "https://abema.app/f6YW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-226_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-226_s1_p5/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/26-226_s1_p5/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-226_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-226_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.1471666666666,
+        "opening": {
+            "start": 103.01958333333333,
+            "end": 192.94275
+        },
+        "ending": {
+            "start": 1315.1471666666666,
+            "end": 1404.9452083333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-226_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726369200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "26-226_eg0"
+}

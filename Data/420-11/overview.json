@@ -1,0 +1,114 @@
+{
+    "id": "420-11",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "転生したらスライムだった件",
+    "content": "サラリーマン三上悟は通り魔に刺され死亡し、気がつくと異世界に転生していた。ただし、その姿はスライムだった！\nリムルという新しいスライム人生を得て、さまざまな種族がうごめくこの世界に放り出され、\n「種族問わず楽しく暮らせる国作り」を目指すことになる――！",
+    "seasons": [
+        {
+            "id": "420-11_s1",
+            "sequence": 1,
+            "name": "転生したらスライムだった件",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-11_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1690958505",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-11_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "420-11_s2",
+            "sequence": 2,
+            "name": "転生したらスライムだった件 第2期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-11_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1690958516",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-11_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "420-11_s3",
+            "sequence": 3,
+            "name": "転生したらスライムだった件 第3期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-11_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1711644631",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-11_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        }
+    ],
+    "copyrights": [
+        "(C)川上泰樹・伏瀬・講談社／転スラ製作委員会"
+    ],
+    "label": {
+        "newest": true
+    },
+    "version": "1726290102147497386",
+    "imageUpdatedAt": 1711644610,
+    "caption": "スライム生活、始まりました。",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/xX3v",
+        "facebook": "https://abema.app/DFxZ",
+        "google": "https://abema.app/MMCj",
+        "line": "https://abema.app/nFN7",
+        "copy": "https://abema.app/fxjh",
+        "instagram": "https://abema.app/Yx8L"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-11",
+        "filename": "thumb.png",
+        "query": "version=1711644610",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-11",
+        "filename": "portrait.png",
+        "query": "version=1711644610",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

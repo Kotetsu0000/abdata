@@ -1,0 +1,144 @@
+{
+    "id": "13-12_s0_p24",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 24,
+        "title": "第174話 海に向かってバカヤローとか言う人ってまだいるのだろうか／人は閉じ込められると自分の中の扉が開く",
+        "content": "「海に向かってバカヤローとか言う人ってまだいるのだろうか」借金返済のため、マグロ漁船に駆り出される万事屋一行。そこにはどこかで見たことのあるオッサンたちが…。\n「人は閉じ込められると自分の中の扉が開く」大企業の社長からの依頼で大金を手に入れた銀時たちは、焼肉を食べに行こうと浮かれていたが…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1748703600,
+    "transcodeVersion": "3LV2Uz",
+    "sharedLink": {
+        "twitter": "https://abema.app/GyAu",
+        "facebook": "https://abema.app/7Ypp",
+        "google": "https://abema.app/Wkew",
+        "line": "https://abema.app/4BGJ",
+        "copy": "https://abema.app/PNrK",
+        "instagram": "https://abema.app/auY3"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p24/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p24/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1375.061666,
+        "opening": {
+            "end": 90
+        },
+        "ending": {
+            "start": 1375.136255,
+            "end": 1462.084933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p25",
+        "title": "第175話 幾つになっても歯医者は嫌",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296391,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p24/timeline",
+        "query": "version=3LV2Uz",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

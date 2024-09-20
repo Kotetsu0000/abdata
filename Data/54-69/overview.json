@@ -1,0 +1,78 @@
+{
+    "id": "54-69",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "骸骨騎士様、只今異世界へお出掛け中",
+    "content": "目覚めるとMMORPGで自身が使用していたゲームキャラの姿のまま、\n異世界に放り出されていた「アーク」。\nその姿は、見た目が鎧、中身が全身骨格という“骸骨騎士”であった。\n\n──正体がバレたら、モンスターと勘違いされて討伐対象になりかねない!?\n\nアークは目立たないよう傭兵として過ごすことを決意する。\nだが、彼は目の前の悪事を捨て置けるような男ではなかった！\n\n骸骨騎士様による無自覚“世直し”異世界ファンタジー、\nここに参上!!",
+    "seasons": [
+        {
+            "id": "54-69_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-69_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1682928664",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-69_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)秤猿鬼・オーバーラップ／骸骨騎士様製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1725876137150280784",
+    "imageUpdatedAt": 1648705046,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/VD4T",
+        "facebook": "https://abema.app/R8bD",
+        "google": "https://abema.app/Nr9u",
+        "line": "https://abema.app/KywU",
+        "copy": "https://abema.app/mfXj",
+        "instagram": "https://abema.app/m3nD"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-69",
+        "filename": "thumb.png",
+        "query": "version=1648705046",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-69",
+        "filename": "portrait.png",
+        "query": "version=1648705046",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

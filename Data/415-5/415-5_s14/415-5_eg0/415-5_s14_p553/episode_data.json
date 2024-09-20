@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p553",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1459
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 553,
+        "title": "第553話 ザ・取調室",
+        "content": "富樫文孝と袴田恒夫は刑務所を出所。小五郎は刑事時代に逮捕した殺人犯、富樫を出迎えるが、すぐに姿を消してしまう。その日の夜、保護司の桜庭武彦が殺害され、富樫が容疑者として逮捕される。模範囚だった富樫が仮出所の日に殺人を犯した事が信じられずにいた小五郎は、送検する午後４時まで富樫を取り調べする事に。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "hxUoN",
+    "sharedLink": {
+        "twitter": "https://abema.app/ppDp",
+        "facebook": "https://abema.app/DfBt",
+        "google": "https://abema.app/oCPP",
+        "line": "https://abema.app/Gucg",
+        "copy": "https://abema.app/Nt9s",
+        "instagram": "https://abema.app/gDjg"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p553/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p553/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p553/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p553"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.7283,
+        "opening": {
+            "start": 64.29756666666667,
+            "end": 153.6535
+        },
+        "ending": {
+            "start": 1274.7401333333332,
+            "end": 1354.6533
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p554",
+        "title": "第554話 こうのとりミステリーツアー（蘭捜索編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p553/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

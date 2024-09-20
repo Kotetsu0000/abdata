@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s25_p982",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s25",
+        "sequence": 25,
+        "name": "season25",
+        "thumbComponent": {},
+        "order": 25
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 982,
+        "title": "第982話 坊っちゃん亭へようこそ（後編）",
+        "content": "コナンたち少年探偵団がケガをした猫を保護した日、料亭『坊っちゃん亭』で接客係主任の“うらなり”が遺体となって発見された。警察の捜査が進む中、犯人の有力候補と思われた経営者の“赤シャツ”までもが、翌日、遺体となって発見される。警察は逃げられないと考えた末の自殺だとするが……。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066320,
+    "endAt": 1740754800,
+    "transcodeVersion": "57PR6t",
+    "sharedLink": {
+        "twitter": "https://abema.app/r7M2",
+        "facebook": "https://abema.app/Xdqq",
+        "google": "https://abema.app/LHY8",
+        "line": "https://abema.app/exYo",
+        "copy": "https://abema.app/oDxd",
+        "instagram": "https://abema.app/RNfx"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p982/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p982/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s25_p982/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s25_p982"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667,
+        "opening": {
+            "start": 86.79504166666666,
+            "end": 183.93375
+        },
+        "ending": {
+            "start": 1318.6506666666667,
+            "end": 1398.6055416666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s25_p983",
+        "title": "第983話 キッドVS高明　狙われた唇（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066320,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s25_p982/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

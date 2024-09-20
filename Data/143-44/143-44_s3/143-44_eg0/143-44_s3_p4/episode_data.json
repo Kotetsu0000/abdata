@@ -1,0 +1,151 @@
+{
+    "id": "143-44_s3_p4",
+    "series": {
+        "id": "143-44",
+        "title": "ちはやふる",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "thumb.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "portrait.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-44_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1371
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第四首 たかさごの",
+        "content": "白波会所属の千早、太一、坪口、そして師匠の原田、4名がベスト8に残った。まるで団体戦のようだと勢いが増す白波会だったが、千早はかつて4連覇した産休明けの元クイーン・猪熊遥と対戦することに。これまで見たことが無い独特なかるたに千早は苦戦を強いられる。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "綾瀬千早：瀬戸麻沙美",
+            "綿谷 新：細谷佳正",
+            "真島太一：宮野真守",
+            "大江 奏：茅野愛衣",
+            "西田優征：奈良 徹",
+            "駒野 勉：代永 翼",
+            "花野 菫：潘めぐみ",
+            "筑波秋博：入野自由",
+            "猪熊 遥：坂本真綾"
+        ],
+        "crews": [
+            "原作：末次由紀（講談社「BE・LOVE」連載）",
+            "監督：浅香守生",
+            "シリーズ構成：柿原優子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "色彩設計：大野春恵",
+            "撮影監督：伏原あかね",
+            "CG監督：鈴木大輝",
+            "特殊効果：チーム・タニグチ",
+            "編集：木村佳史子",
+            "音楽：山下康介",
+            "音響監督：三間雅文",
+            "アニメーション制作：マッドハウス",
+            "オープニングテーマ：99RadioService 「COLORFUL」",
+            "エンディングテーマ：バンドハラスメント 「一目惚れ」",
+            "制作著作：アニメ「ちはやふる」プロジェクト2019"
+        ],
+        "copyrights": [
+            "(C)末次由紀／講談社・アニメ「ちはやふる」プロジェクト2019"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709261850,
+    "endAt": 1743433200,
+    "transcodeVersion": "iKMoB",
+    "sharedLink": {
+        "twitter": "https://abema.app/vu8R",
+        "facebook": "https://abema.app/W6d8",
+        "google": "https://abema.app/a4K8",
+        "line": "https://abema.app/XnwC",
+        "copy": "https://abema.app/DrCE",
+        "instagram": "https://abema.app/FTyV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-44_s3_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-44_s3_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-44_s3_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-44_s3_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1296.9957,
+        "opening": {
+            "start": 5.005,
+            "end": 74.9749
+        },
+        "ending": {
+            "start": 1296.9957,
+            "end": 1371.9372333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-44_s3_p5",
+        "title": "第五首 あまのかぐやま",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1709261862,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-44_s3_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-44_eg0"
+}

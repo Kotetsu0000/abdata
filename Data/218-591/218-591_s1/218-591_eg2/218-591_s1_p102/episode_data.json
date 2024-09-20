@@ -1,0 +1,123 @@
+{
+    "id": "218-591_s1_p102",
+    "series": {
+        "id": "218-591",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 ~Challenge Again~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "thumb.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "portrait.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-591_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 424
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 102,
+        "title": "炎の3本勝負 inタイ エキシビション！ そびーvs神の右脚を持つゾウ",
+        "content": "生放送のVTR、PPVではお伝えしきれなかったタイ旅を大公開！そびーとゾウの対決をお届け！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "金田朋子",
+            "仲村宗悟"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1693702620,
+    "endAt": 1788793200,
+    "transcodeVersion": "2LAjd1",
+    "sharedLink": {
+        "twitter": "https://abema.app/uRa4",
+        "facebook": "https://abema.app/rAfs",
+        "google": "https://abema.app/yv7A",
+        "line": "https://abema.app/zyy4",
+        "copy": "https://abema.app/1kuN",
+        "instagram": "https://abema.app/8Jv5"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-591_s1_p102/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-591_s1_p102/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-591_s1_p102/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-591_s1_p102"
+    },
+    "viewingPoint": {
+        "suggestion": 419.3189
+    },
+    "nextProgramInfo": {
+        "programId": "218-591_s1_p103",
+        "title": "安元くんと辻井くんのお皿洗いトーク！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1694138929,
+        "endAt": 1789398000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1789398000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-591_s1_p102/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1788793200
+        }
+    ],
+    "episodeGroupId": "218-591_eg2"
+}

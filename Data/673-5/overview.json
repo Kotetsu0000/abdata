@@ -1,0 +1,74 @@
+{
+    "id": "673-5",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "title": "妄想代理人",
+    "content": "事件は、一人の狂言から始まった――。\n東京・武蔵野で発生した通り魔事件。被害者の不明瞭な供述から、周囲は本人の自作自演によるものと疑う。しかし、程なくして第二の被害者が出て事態は一変。存在するはずのない犯人、「バットを持ち金色のロ-ラーブレードを履いた少年」は、やがて“少年バット”として、事件を取り巻く人たちを次々と襲ってゆく。“少年バット”とは一体何者なのか? そして、次なる標的は?",
+    "seasons": [
+        {
+            "id": "673-5_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/673-5",
+                "filename": "thumb.png",
+                "query": "version=1723090741",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "673-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)今 敏/株式会社マッドハウス/「妄想代理人」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1725004904976956635",
+    "imageUpdatedAt": 1723090741,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/hWo7",
+        "facebook": "https://abema.app/DrW9",
+        "google": "https://abema.app/h7Nc",
+        "line": "https://abema.app/1U1t",
+        "copy": "https://abema.app/ZGw6",
+        "instagram": "https://abema.app/zTMR"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/673-5",
+        "filename": "thumb.png",
+        "query": "version=1723090741",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/673-5",
+        "filename": "portrait.png",
+        "query": "version=1723090741",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

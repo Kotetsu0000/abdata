@@ -1,0 +1,169 @@
+{
+    "id": "202-2_s1_p2",
+    "series": {
+        "id": "202-2",
+        "title": "ばいばい、アース",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/202-2",
+            "filename": "thumb.png",
+            "query": "version=1722507650",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/202-2",
+            "filename": "portrait.png",
+            "query": "version=1722507650",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "202-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第二楽章 由縁。聖星照(アースシャイン)の下",
+        "content": "城のある都市を目指すベル。途中、<悪>の剣士たちに斬られそうになっていた長耳族(ラビッティア)の子供を助けるが、決闘許可証なしに剣を振るったことで投獄されてしまう。やがて兄弟子であり<正義>の四大剣士の一人、シャンディ=ガフにより牢獄から解放されたベルは、ガフのはからいでローハイド王との謁見を許される。一方、都市には<正義>でも<悪>でもない影法師集団の飢餓同盟が現れ、人々を不安にさせていた。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ラブラック=ベル:ファイルーズあい",
+            "クエスティオン=アドニス:内山昂輝",
+            "ラブラック=シアン:諏訪部順一",
+            "キティ=ザ・オール:花江夏樹",
+            "シャンディ=ガフ:日野聡",
+            "シェリー:早見沙織",
+            "ギネス:榎木淳弥",
+            "ベネディクティン:小清水亜美",
+            "ドランブイ:沢城みゆき",
+            "ローハイド王<正義>:津田健次郎",
+            "ローハイド王<悪>:佐藤せつじ"
+        ],
+        "crews": [
+            "原作:冲方丁「ばいばい、アース」(角川文庫 刊)",
+            "監督:西片康人",
+            "助監督:横手颯太",
+            "シリーズ構成:吉野弘幸",
+            "キャラクターデザイン:日野優希",
+            "モンスターデザイン:ツブキケン 原由知",
+            "美術監督:岡本穂高",
+            "色彩設計:篠原愛子",
+            "撮影監督:室塚勇伎",
+            "編集:山田聖実",
+            "音楽:Kevin Penkin",
+            "音響監督:久保宗一郎",
+            "アニメーション制作:ライデンフィルム"
+        ],
+        "copyrights": [
+            "(C) 冲方丁・KADOKAWA/WOWOW,ソニー・ピクチャーズ,クランチロール"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944693,
+    "endAt": 1782831600,
+    "transcodeVersion": "5oiQN9",
+    "sharedLink": {
+        "twitter": "https://abema.app/hX6S",
+        "facebook": "https://abema.app/DLga",
+        "google": "https://abema.app/vk6e",
+        "line": "https://abema.app/dNKs",
+        "copy": "https://abema.app/6nYQ",
+        "instagram": "https://abema.app/M5dM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/202-2_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/202-2_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/202-2_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.202-2_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1320.0270416666667,
+        "opening": {
+            "start": 54.054,
+            "end": 143.93545833333334
+        },
+        "ending": {
+            "start": 1320.0270416666667,
+            "end": 1409.9502083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "202-2_s1_p3",
+        "title": "第三楽章 決別。大地を奏でる者たち",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1725944693,
+        "endAt": 1782831600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1782831600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/202-2_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1782831600
+        }
+    ],
+    "episodeGroupId": "202-2_eg0"
+}

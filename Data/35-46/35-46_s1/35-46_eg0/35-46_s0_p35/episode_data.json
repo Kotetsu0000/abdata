@@ -1,0 +1,132 @@
+{
+    "id": "35-46_s0_p35",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6044
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 35,
+        "title": "映画ドラえもん のび太の宇宙英雄記（スペースヒーローズ）",
+        "content": "ある日、テレビのヒーローに憧(あこが)れたのび太は、みんなでヒーロー映画を創(つく)ろうと言い出す。ドラえもんは、ひみつ道具＜バーガー監督(かんとく)＞を出して、のび太たちが「銀河防衛隊(ぎんがぼうえいたい)」というヒーローになって宇宙(うちゅう)の平和を守るという映画を撮影(さつえい)し始めた。\nところがその時、地球に不時着(ふじちゃく)していたポックル星人のアロンに、本物のヒーローとまちがわれて一緒(いっしょ)に宇宙(うちゅう)へ行くことになってしまう……。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2015"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "cTjEH",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/1UJF8",
+        "facebook": "https://gxyt4.app.goo.gl/yoKnz",
+        "google": "https://gxyt4.app.goo.gl/TNeEX",
+        "line": "https://gxyt4.app.goo.gl/SVRsU",
+        "copy": "https://gxyt4.app.goo.gl/UJ595",
+        "instagram": "https://gxyt4.app.goo.gl/v3wyA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p35/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p35/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 5863.762332,
+        "opening": {
+            "start": 188.568183,
+            "end": 258.914188
+        },
+        "ending": {
+            "start": 5862.646655,
+            "end": 6044.316735
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p36",
+        "title": "映画ドラえもん 新・のび太の日本誕生",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1709522815,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p35/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

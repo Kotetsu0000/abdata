@@ -1,0 +1,167 @@
+{
+    "id": "26-75_s5_p2",
+    "series": {
+        "id": "26-75",
+        "title": "テレビアニメ「鬼滅の刃」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "thumb.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "portrait.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-75_s5",
+        "sequence": 5,
+        "name": "柱稽古編",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第二話 水柱・冨岡義勇の痛み",
+        "content": "珠世のもとに突如現れた耀哉の鎹鴉は、鬼である珠世を鬼殺隊の本拠地へ誘う。一方、蝶屋敷で耀哉からの手紙を受け取った炭治郎は、稽古に参加していないという義勇のもとを訪れる。はじめは拒否されつつも、根気強く義勇に話しかける炭治郎。根負けした義勇は、自分が稽古に参加しない理由を語り始める。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "竈門炭治郎：花江夏樹",
+            "竈門禰󠄀豆子：鬼頭明里",
+            "我妻善逸：下野 紘",
+            "嘴平伊之助：松岡禎丞",
+            "冨岡義勇：櫻井孝宏",
+            "宇髄天元：小西克幸",
+            "時透無一郎：河西健吾",
+            "胡蝶しのぶ：早見沙織",
+            "甘露寺蜜璃：花澤香菜",
+            "伊黒小芭内：鈴村健一",
+            "不死川実弥：関 智一",
+            "悲鳴嶼行冥：杉田智和"
+        ],
+        "crews": [
+            "原作：吾峠呼世晴（集英社ジャンプ コミックス刊）",
+            "監督：外崎春雄",
+            "キャラクターデザイン・総作画監督：松島 晃",
+            "脚本制作：ufotable",
+            "サブキャラクターデザイン：佐藤美幸、梶山庸子、菊池美花",
+            "プロップデザイン：小山将治",
+            "美術監督：矢中勝、樺澤侑里",
+            "美術監修：衛藤功二",
+            "撮影監督：寺尾優一",
+            "３Ｄ監督：西脇一樹",
+            "色彩設計：大前祐子",
+            "編集：神野 学",
+            "音楽：梶浦由記、椎名 豪",
+            "アニメーション制作：ufotable"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719915607,
+    "endAt": 1746975600,
+    "transcodeVersion": "2TYo8K",
+    "sharedLink": {
+        "twitter": "https://abema.app/Nkzv",
+        "facebook": "https://abema.app/xdTA",
+        "google": "https://abema.app/gpgW",
+        "line": "https://abema.app/bjt5",
+        "copy": "https://abema.app/79JT",
+        "instagram": "https://abema.app/fWwb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-75_s5_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-75_s5_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-75_s5_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-75_s5_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.03875,
+        "opening": {
+            "start": 187.97945833333333,
+            "end": 277.98604166666667
+        },
+        "ending": {
+            "start": 1290.03875,
+            "end": 1379.9619166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-75_s5_p3",
+        "title": "第三話 炭治郎全快!! 柱稽古大参加",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719915607,
+        "endAt": 1746975600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746975600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-75_s5_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746975600
+        }
+    ],
+    "episodeGroupId": "26-75_eg0"
+}

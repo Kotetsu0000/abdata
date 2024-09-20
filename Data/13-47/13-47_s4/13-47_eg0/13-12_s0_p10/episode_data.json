@@ -1,0 +1,137 @@
+{
+    "id": "13-12_s0_p10",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第160話 外国人から見たらこっちも外国人 宇宙人から見たらこっちも宇宙人",
+        "content": "参加者を全て丸め込んで親衛隊チームを妨害し、予選レースを１位でゴールした通選組のトッシー。ところが知謀を巡らせて蹴落としたはずの親衛隊チームがまさかの2位でゴール！ 当然、替玉疑惑にツッコむ土方だが、身内にタクシーでの不正疑惑があったりでお互い目をつぶることに。そこへコースを間違えた近藤と神楽がパトカーに乗せられてゴール。一方、未だレース中の新八は…？ それはそれとして、戦いの舞台はいよいよ本戦へ！"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1748703600,
+    "transcodeVersion": "ULgRP",
+    "sharedLink": {
+        "twitter": "https://abema.app/vJ1t",
+        "facebook": "https://abema.app/q8HM",
+        "google": "https://abema.app/XR2y",
+        "line": "https://abema.app/atcC",
+        "copy": "https://abema.app/yJ5d",
+        "instagram": "https://abema.app/zU1p"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1364.984933
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p11",
+        "title": "第161話 何回見てもラピュタはいい",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296390,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p10/timeline",
+        "query": "version=ULgRP",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

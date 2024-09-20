@@ -1,0 +1,145 @@
+{
+    "id": "143-44_s2_p15",
+    "series": {
+        "id": "143-44",
+        "title": "ちはやふる",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "thumb.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "portrait.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-44_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1370
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "第十五首 たごのうらに",
+        "content": "瑞沢かるた部は遂に決勝戦進出。相手は昨年団体優勝の富士崎高校。準決勝で怪我を負っていた奏ちゃんのかわりに筑波くんが出場することに。一方、3年にＡ級揃いの富士崎は、決勝をベストメンバーではなく1名下級生に入れ替えてのオーダーを組んでいた。その真意とは一体？優勝を目指して、全国大会決勝の火蓋が切って落とされる！"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "綾瀬千早：瀬戸麻沙美",
+            "綿谷新 ：細谷佳正",
+            "真島太一：宮野真守",
+            "大江奏：茅野愛衣",
+            "西田優征：奈良 徹",
+            "駒野勉：代永 翼"
+        ],
+        "crews": [
+            "原作：末次由紀（講談社「BE・LOVE」連載）",
+            "監督：浅香守生",
+            "シリーズ構成：柿原裕子、加藤綾子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "撮影監督：藤田賢治",
+            "色彩設定：鎌田千賀子、橋本 賢",
+            "デジタルアーティスト：石神亮一",
+            "編集：木村佳史子",
+            "音楽：山下康介",
+            "音響監督：三間雅文",
+            "アニメーション制作：マッドハウス",
+            "制作著作：バップ、日本テレビ"
+        ],
+        "copyrights": [
+            "(C)末次由紀／講談社・VAP・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708750486,
+    "endAt": 1743433200,
+    "transcodeVersion": "7LKc8q",
+    "sharedLink": {
+        "twitter": "https://abema.app/DnjY",
+        "facebook": "https://abema.app/ejN4",
+        "google": "https://abema.app/eBPF",
+        "line": "https://abema.app/RSAk",
+        "copy": "https://abema.app/pQ4P",
+        "instagram": "https://abema.app/g6rW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-44_s2_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-44_s2_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-44_s2_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-44_s2_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.0170666666668,
+        "opening": {
+            "start": 97.03026666666666,
+            "end": 167.00016666666667
+        },
+        "ending": {
+            "start": 1285.0170666666668,
+            "end": 1370.0019666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-44_s2_p16",
+        "title": "第十六首 みゆきまたなむ（総集編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708750497,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-44_s2_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-44_eg0"
+}

@@ -1,0 +1,163 @@
+{
+    "id": "168-49_s3_p1",
+    "series": {
+        "id": "168-49",
+        "title": "頭文字[イニシャル]D",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-49",
+            "filename": "thumb.png",
+            "query": "version=1691026069",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-49",
+            "filename": "portrait.png",
+            "query": "version=1691026069",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-49_s3",
+        "sequence": 3,
+        "name": "Third Stage",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6262
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "頭文字[イニシャル]D Third Stage",
+        "content": "若者たちはそれぞれの思いを胸に、新たに旅立つ…\n「オレたちの県外遠征チームに加わらないか？」。拓海の元に走り屋チーム・レッドサンズのリーダー高橋涼介が訪れた。即答できずに悩む拓海。そんなとき、SW20を駆る男、小柏カイが現れ拓海にバトルを迫る。数々のバトルを経験し、人間としても成長をしていく拓海。卒業を間近に控え、なつきが大切な人であることに気づいた拓海は、自分の素直な気持ちを伝える。そして、春。拓海はひとつの結論を下した…。"
+    },
+    "credit": {
+        "released": 2001,
+        "casts": [
+            "藤原拓海：三木眞一郎",
+            "武内 イツキ：岩田光央",
+            "茂木なつき：川澄綾子",
+            "藤原文太：石塚運昇",
+            "池谷浩一郎：矢尾一樹",
+            "祐一：西村知道",
+            "高橋涼介：子安武人",
+            "高橋啓介：関智一",
+            "須藤京一：田中正彦",
+            "岩城清次：川原和久",
+            "小柏カイ：神奈延年",
+            "庄司慎吾：藤原啓治",
+            "中村賢太：岡野浩介"
+        ],
+        "crews": [
+            "原作：しげの秀一（講談社「ヤングマガジン」所載）",
+            "企画：庄司隆三、林真司",
+            "エグゼクティブ・プロデューサー：宇佐美廉",
+            "キャラクターデザイン・総作画監督：佐藤和巳",
+            "CG監督：長尾聡浩",
+            "美術監督：宮前光春",
+            "音楽：勝又隆一",
+            "音響監督：三間雅文",
+            "監修：土屋圭市　ホットバージョン編集部",
+            "音楽協力：avex group",
+            "監督：山口史嗣",
+            "プロデューサー：福田佳与",
+            "アシスタントプロデューサー：市川邦泰、猪股一彦",
+            "制作：パステル",
+            "アニメーション協力：スタジオ・ディーン",
+            "製作：トゥーマックス　オービー企画"
+        ],
+        "copyrights": [
+            "(C)Kodansha et al."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701313432,
+    "endAt": 1753974000,
+    "transcodeVersion": "UrSd7",
+    "sharedLink": {
+        "twitter": "https://abema.app/9rcr",
+        "facebook": "https://abema.app/BL9A",
+        "google": "https://abema.app/AwGF",
+        "line": "https://abema.app/yxFL",
+        "copy": "https://abema.app/HaPo",
+        "instagram": "https://abema.app/WqdJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-49_s3_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-49_s3_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-49_s3_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-49_s3_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 6034.968811,
+        "opening": {
+            "start": 22.378888,
+            "end": 139.662722
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-49_s4_p1",
+        "title": "ACT.1 プロジェクトD",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1701313432,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-49_s3_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "168-49_eg0"
+}

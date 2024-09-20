@@ -1,0 +1,151 @@
+{
+    "id": "172-56_s1_p22",
+    "series": {
+        "id": "172-56",
+        "title": "アンデッドアンラック",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "thumb.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "portrait.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "172-56_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 22,
+        "title": "第22話 profile",
+        "content": "風子が次にやってきた場所はヴィクトルの記憶の部分だった。何度もヴィクトルに殺され、時代は進み、風子は次の章へと移行する。彼の狙いは、終末まで彼女を追いやり、風子の魂を本の中で潰し消すことだった。結果、風子はアンディと初めて出会った時代まで追い詰められることに。ヴィクトルが言っていたことが本当なら、チャンスはもうここしかない。アンディを求めて新宿をさまよう風子へ向け、ヴィクトルの狂刃が放たれる！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "アンディ：中村悠一",
+            "出雲風子：佳原萌枝",
+            "シェン：花江夏樹",
+            "ボイド：乃村健次",
+            "ジーナ：悠木碧",
+            "ジュイス：伊瀬茉莉也",
+            "ビリー：小山力也",
+            "タチアナ：釘宮理恵",
+            "トップ：岡本信彦",
+            "ニコ：遊佐浩二",
+            "アポカリプス：杉田智和"
+        ],
+        "crews": [
+            "監督：八瀬祐樹",
+            "キャラクターデザイン：守岡英行",
+            "音楽：末廣健一郎",
+            "アニメーション制作：david production",
+            "企画プロデュース：UNLIMITED PRODUCE by TMS"
+        ],
+        "copyrights": [
+            "(C) 戸塚慶文／集英社・アンデッドアンラック製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711367781,
+    "endAt": 1743433200,
+    "freeEndAt": 1726545600,
+    "transcodeVersion": "Aj6Y9",
+    "sharedLink": {
+        "twitter": "https://abema.app/DG3t",
+        "facebook": "https://abema.app/mfhE",
+        "google": "https://abema.app/Dm4y",
+        "line": "https://abema.app/vEUt",
+        "copy": "https://abema.app/CeKc",
+        "instagram": "https://abema.app/1WLS"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p22/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p22/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/172-56_s1_p22/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.172-56_s1_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0170416666667,
+        "opening": {
+            "start": 154.028875,
+            "end": 243.91033333333334
+        },
+        "ending": {
+            "start": 1310.0170416666667,
+            "end": 1400.023625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "172-56_s1_p23",
+        "title": "第23話 ボクの知らない物語",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711367781,
+        "endAt": 1743433200,
+        "freeEndAt": 1726545600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726545600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/172-56_s1_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726545600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "172-56_eg0"
+}

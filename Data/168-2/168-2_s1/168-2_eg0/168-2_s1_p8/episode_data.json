@@ -1,0 +1,148 @@
+{
+    "id": "168-2_s1_p8",
+    "series": {
+        "id": "168-2",
+        "title": "ラーメン大好き小泉さん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "thumb.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "portrait.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1356
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "八杯目 「ご当地袋麺」「家系」",
+        "content": "海で夏を満喫する悠と美沙。\n一方、潤は水着が恥ずかしいと図書館の夏の課題に取り組む。\n将来に関するレポートで悩む潤は、偶然会った小泉さんに将来の夢を問いかける。\n果たして、小泉さんの夢とは、、？"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "小泉さん：竹達彩奈",
+            "大澤 悠：佐倉綾音",
+            "中村美沙：鬼頭明里",
+            "高橋 潤：原 由実"
+        ],
+        "crews": [
+            "原作：鳴見なる「ラーメン大好き小泉さん」（竹書房刊）",
+            "監督：セトウケンジ",
+            "シリーズ構成：髙橋龍也",
+            "シナリオ：髙橋龍也、浦畑達彦、関根アユミ",
+            "キャラクターデザイン：谷 拓也、桜井正明、小関 雅",
+            "アニメーション制作：Studio五組、AXsiZ",
+            "製作：「ラーメン大好き小泉さん」製作委員会"
+        ],
+        "copyrights": [
+            "(C)鳴見なる・竹書房／「ラーメン大好き小泉さん」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683012855,
+    "endAt": 1740754800,
+    "transcodeVersion": "7Ea2RY",
+    "sharedLink": {
+        "twitter": "https://abema.app/WSAv",
+        "facebook": "https://abema.app/3LbD",
+        "google": "https://abema.app/5yrX",
+        "line": "https://abema.app/9orL",
+        "copy": "https://abema.app/GnYv",
+        "instagram": "https://abema.app/T9vq"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-2_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1240.255222,
+        "opening": {
+            "start": 105.382759,
+            "end": 194.884513
+        },
+        "ending": {
+            "start": 1240.39035,
+            "end": 1329.135377
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-2_s1_p9",
+        "title": "九杯目 「山」「豚野郎」「背脂」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1683012855,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-2_s1_p8/timeline",
+        "query": "version=7Ea2RY",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "168-2_eg0"
+}

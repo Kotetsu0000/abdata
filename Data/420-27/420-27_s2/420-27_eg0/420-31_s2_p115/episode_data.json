@@ -1,0 +1,149 @@
+{
+    "id": "420-31_s2_p115",
+    "series": {
+        "id": "420-27",
+        "title": "アイドリッシュセブン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "thumb.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "portrait.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-27_s2",
+        "sequence": 2,
+        "name": "アイドリッシュセブン Second BEAT!",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1455
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 115,
+        "title": "第15話 DiSCOVER THE FUTURE",
+        "content": "百の声が出なかったことも、千が気がかりだったこともすべて解決し、Re:valeはこけら落とし公演のラストステージに向かう。その前座を務めるのは、IDOLiSH7とTRIGGERをシャッフルした3組のユニット。後輩たちのパフォーマンスを見つめながら、共に歩んできた5年間の軌跡を振り返る百と千。二人は万感の思いでファンの前に立つと、5年分の感謝を込めて歌う。一方、ステージの裏側では、またしても不審者の影が目撃されていた……。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "和泉　一織：増田　俊樹",
+            "二階堂大和：白井　悠介",
+            "和泉　三月：代永　翼",
+            "四葉　環　：ＫＥＮＮ",
+            "逢坂　壮五：阿部　敦",
+            "六弥　ナギ：江口　拓也",
+            "七瀬　陸　：小野　賢章",
+            "八乙女　楽：羽多野　渉",
+            "九条　天　：斉藤　壮馬",
+            "十　龍之介：佐藤　拓也",
+            "百：保志総一朗",
+            "千：立花慎之介",
+            "小鳥遊音晴：千葉　進歩",
+            "大神　万理：興津　和幸",
+            "小鳥遊　紡：佐藤　聡美",
+            "八乙女宗助：小西　克幸",
+            "姉鷺カオル：川原　慶久",
+            "岡崎　凜人：古川　慎"
+        ],
+        "crews": [
+            "原作：バンダイナムコオンライン／都志見文太",
+            "監督：別所　誠人",
+            "シリーズ構成：関根アユミ",
+            "スーパーバイザー：あおきえい",
+            "キャラクター原案：種村　有菜",
+            "アニメーションキャラクターデザイン：深川　可純",
+            "総作画監督：猪股　雅美　他",
+            "アニメーション制作：トロイカ"
+        ],
+        "copyrights": [
+            "(C)BNOI/アイナナ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1724658510,
+    "endAt": 1730386800,
+    "transcodeVersion": "6rNQJ1",
+    "sharedLink": {
+        "twitter": "https://abema.app/h8fP",
+        "facebook": "https://abema.app/e2BF",
+        "google": "https://abema.app/e84H",
+        "line": "https://abema.app/qUu9",
+        "copy": "https://abema.app/Nd5z",
+        "instagram": "https://abema.app/rXvN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-31_s2_p115/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-31_s2_p115/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-31_s2_p115/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-31_s2_p115"
+    },
+    "viewingPoint": {
+        "suggestion": 1450.036911,
+        "ending": {
+            "start": 1345.223935,
+            "end": 1415.016148
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-44_s3_p101",
+        "title": "第1話 星を覆う雲",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1724658511,
+        "endAt": 1730386800,
+        "freeEndAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-31_s2_p115/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "420-27_eg0"
+}

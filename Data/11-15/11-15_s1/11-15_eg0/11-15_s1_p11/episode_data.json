@@ -1,0 +1,243 @@
+{
+    "id": "11-15_s1_p11",
+    "series": {
+        "id": "11-15",
+        "title": "ヨルムンガンド",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-15",
+            "filename": "thumb.png",
+            "query": "version=1627288684",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-15",
+            "filename": "portrait.png",
+            "query": "version=1627288684",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-15_s1",
+        "sequence": 1,
+        "name": "ヨルムンガンド",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_14",
+                "name": "戦争・ミリタリー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "＃11 滅びの丘 phase.1",
+        "content": "ココが話していても上の空のバルメ。かつて自分の部隊を全滅させた敵の手掛かりをつかんだ今、バルメはココ部隊を離れ、復讐のために一人敵地へ向かうことを決意していた。一方そのころ、３人組の殺し屋が、ココ部隊全員の殺害計画を練っていた……"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ココ：伊藤静",
+            "ヨナ：田村睦心",
+            "バルメ：大原さやか",
+            "レーム：石塚運昇",
+            "ワイリ：乃村健次",
+            "アール：小西克幸",
+            "マオ：四宮 豪",
+            "ウゴ：勝沼紀義",
+            "ルツ：羽多野 渉",
+            "トージョ：箭内 仁"
+        ],
+        "crews": [
+            "原作：高橋慶太郎",
+            "監督：元永慶太郎",
+            "シリーズ構成・脚本：黒田洋介",
+            "キャラクターデザイン：中村和久",
+            "音楽：岩崎琢"
+        ],
+        "copyrights": [
+            "（c）2012 高橋慶太郎・小学館／ヨルムンガンド製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708942699,
+    "endAt": 1746025200,
+    "transcodeVersion": "sUugn",
+    "sharedLink": {
+        "twitter": "https://abema.app/99fB",
+        "facebook": "https://abema.app/agvc",
+        "google": "https://abema.app/mScB",
+        "line": "https://abema.app/L4NA",
+        "copy": "https://abema.app/1ATP",
+        "instagram": "https://abema.app/BZt6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/11-15_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/11-15_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/11-15_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-15_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.943625,
+        "opening": {
+            "start": 103.01958333333333,
+            "end": 192.94275
+        },
+        "ending": {
+            "start": 1319.943625,
+            "end": 1409.9085
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-15_s1_p12",
+        "title": "＃12 滅びの丘 phase.2",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708942699,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ],
+        "rentalInfo": {
+            "availableDuration": 2592000,
+            "viewableDuration": 259200,
+            "items": [
+                {
+                    "id": "9sQrnEoGsy5PkB",
+                    "startAt": 1606748400,
+                    "endAt": 1677596400,
+                    "subscriptionType": 1,
+                    "deviceType": 1,
+                    "coinAmount": 250,
+                    "regularCoinAmount": 250,
+                    "campaigns": null
+                },
+                {
+                    "id": "9sQsT3VL7F3ppF",
+                    "startAt": 1606748400,
+                    "endAt": 1677596400,
+                    "subscriptionType": 1,
+                    "deviceType": 2,
+                    "coinAmount": 200,
+                    "regularCoinAmount": 200,
+                    "campaigns": null
+                },
+                {
+                    "id": "9sQr7S7Deh6xg7",
+                    "startAt": 1606748400,
+                    "endAt": 1677596400,
+                    "subscriptionType": 2,
+                    "deviceType": 2,
+                    "coinAmount": 150,
+                    "regularCoinAmount": 200,
+                    "campaigns": null
+                },
+                {
+                    "id": "9sQsSjuV9QSVb5",
+                    "startAt": 1606748400,
+                    "endAt": 1677596400,
+                    "subscriptionType": 2,
+                    "deviceType": 1,
+                    "coinAmount": 200,
+                    "regularCoinAmount": 250,
+                    "campaigns": null
+                }
+            ]
+        }
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-15_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "rentalInfo": {
+        "availableDuration": 2592000,
+        "viewableDuration": 259200,
+        "items": [
+            {
+                "id": "9sQr78XNgrVdSw",
+                "startAt": 1606748400,
+                "endAt": 1677596400,
+                "subscriptionType": 1,
+                "deviceType": 1,
+                "coinAmount": 250,
+                "regularCoinAmount": 250,
+                "campaigns": null
+            },
+            {
+                "id": "9sQrmwDRv8U4X1",
+                "startAt": 1606748400,
+                "endAt": 1677596400,
+                "subscriptionType": 1,
+                "deviceType": 2,
+                "coinAmount": 200,
+                "regularCoinAmount": 200,
+                "campaigns": null
+            },
+            {
+                "id": "9sQsSSKeBZqAMu",
+                "startAt": 1606748400,
+                "endAt": 1677596400,
+                "subscriptionType": 2,
+                "deviceType": 1,
+                "coinAmount": 200,
+                "regularCoinAmount": 250,
+                "campaigns": null
+            },
+            {
+                "id": "9sQt7F1hQqobRy",
+                "startAt": 1606748400,
+                "endAt": 1677596400,
+                "subscriptionType": 2,
+                "deviceType": 2,
+                "coinAmount": 150,
+                "regularCoinAmount": 200,
+                "campaigns": null
+            }
+        ]
+    },
+    "episodeGroupId": "11-15_eg0"
+}

@@ -1,0 +1,157 @@
+{
+    "id": "632-4_s5_p22",
+    "series": {
+        "id": "632-4",
+        "title": "七つの大罪 黙示録の四騎士",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-4",
+            "filename": "thumb.png",
+            "query": "version=1708917399",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-4",
+            "filename": "portrait.png",
+            "query": "version=1708917399",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "632-4_s5",
+        "sequence": 5,
+        "name": "シーズン5",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1426
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 22,
+        "title": "第22話 凍てつき燃ゆる心",
+        "content": "連携によってガランとメラスキュラを退けたパーシバルたち。その直後、とある気配を察知したランスロットはリオネス城へと向かう。城の地下牢には、過ぎた行動を咎められ拘束されたキオンと、見張り役のジェイドがいた。地下へと降りてきた一つの気配に気が付いた二人は、その人物を呼び止めるが……"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "パーシバル：小村 将",
+            "ドニー：戸谷菊之介",
+            "ナシエンス：島田愛野",
+            "アン：中村カンナ",
+            "シン：内山昂輝",
+            "イロンシッド：森川智之",
+            "ペルガルド：小山力也",
+            "アーサー・ペンドラゴン：國立幸",
+            "バルギス：大塚明夫"
+        ],
+        "crews": [
+            "原作：鈴木央（講談社「週刊少年マガジン」連載）",
+            "監督：小平麻紀",
+            "シリーズ構成･脚本：村越繁",
+            "キャラクターデザイン：髙田洋一",
+            "メインテーマ：澤野弘之／KOHTA YAMAMOTO",
+            "音楽：KOHTA YAMAMOTO",
+            "企画プロデュース：UNLIMITED PRODUCE by TMS",
+            "アニメーション制作：テレコム・アニメーションフィルム"
+        ],
+        "copyrights": [
+            "(C)鈴木央・講談社／「七つの大罪 黙示録の四騎士」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712553226,
+    "endAt": 1746025200,
+    "transcodeVersion": "gyitE",
+    "sharedLink": {
+        "twitter": "https://abema.app/95da",
+        "facebook": "https://abema.app/81X3",
+        "google": "https://abema.app/51da",
+        "line": "https://abema.app/x5tg",
+        "copy": "https://abema.app/qg6W",
+        "instagram": "https://abema.app/kTtA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/632-4_s5_p22/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/632-4_s5_p22/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/632-4_s5_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.632-4_s5_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1421.0029166666666,
+        "opening": {
+            "start": 129.003875,
+            "end": 218.96875
+        },
+        "ending": {
+            "start": 1270.1855833333334,
+            "end": 1360.1504583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "632-4_s5_p23",
+        "title": "第23話 王国聖騎士ＶＳメラガラン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1713180240,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/632-4_s5_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "632-4_eg0"
+}

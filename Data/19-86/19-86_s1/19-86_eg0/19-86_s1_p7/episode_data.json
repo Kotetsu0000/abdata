@@ -1,0 +1,161 @@
+{
+    "id": "19-86_s1_p7",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "【MISSION：7】標的(ターゲット)の次男",
+        "content": "入学初日、デズモンド家の次男ダミアンを殴り飛ばして“雷(トニト)”を食らってしまったアーニャ。早くもクラスで浮いてしまい落ち込むが、ベッキーと友達になって学校が楽しくなっていく。そしてダミアンに殴ったことを謝ろうとするが、なかなか言い出せない。オペレーション〈梟(ストリクス)〉遂行のためにロイドも学校関係者に変装しては、陰からアーニャに仲直りを促すのだが……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "freeEndAt": 1726761600,
+    "transcodeVersion": "4Gx2wj",
+    "sharedLink": {
+        "twitter": "https://abema.app/eTX1",
+        "facebook": "https://abema.app/481s",
+        "google": "https://abema.app/C3wh",
+        "line": "https://abema.app/9MUF",
+        "copy": "https://abema.app/ziiH",
+        "instagram": "https://abema.app/wJ46"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p7/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-86_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.003433,
+        "opening": {
+            "start": 67.055094,
+            "end": 154.055099
+        },
+        "ending": {
+            "start": 1308.123668,
+            "end": 1395.003433
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p8",
+        "title": "【MISSION：8】対秘密警察偽装作戦",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "freeEndAt": 1726761600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726761600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p7/4/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726761600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

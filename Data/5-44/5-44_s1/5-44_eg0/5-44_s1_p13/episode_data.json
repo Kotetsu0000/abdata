@@ -1,0 +1,120 @@
+{
+    "id": "5-44_s1_p13",
+    "series": {
+        "id": "5-44",
+        "title": "ガールズバンドクライ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "thumb.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "portrait.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-44_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 ロックンロールは鳴り止まないっ",
+        "content": "ダイヤモンドダストとの対バンライブ、仁菜達のチケットの売り上げは想定の半分にも満たなかった。一方、ダイヤモンドダストのチケットはSOLD OUT。突き付けられる厳しい現実。それでも自分の意思を貫き通した仁菜達の歌が始まる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "井芹仁菜：理名",
+            "河原木桃香：夕莉",
+            "安和すばる：美怜",
+            "海老塚智：凪都",
+            "ルパ：朱李"
+        ],
+        "crews": [
+            "原作・企画・製作：東映アニメーション",
+            "シリーズ構成：花田十輝",
+            "音楽プロデューサー：玉井健二 (agehasprings)",
+            "劇伴音楽：田中ユウスケ (agehasprings)",
+            "キャラクターデザイン：手島nari",
+            "CGディレクター：鄭 載薫",
+            "シリーズディレクター：酒井和男"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719816812,
+    "endAt": 1751295600,
+    "transcodeVersion": "3w8f44",
+    "sharedLink": {
+        "twitter": "https://abema.app/h6YG",
+        "facebook": "https://abema.app/ZmGC",
+        "google": "https://abema.app/yV3j",
+        "line": "https://abema.app/8x5Z",
+        "copy": "https://abema.app/TQmU",
+        "instagram": "https://abema.app/fhd4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-44_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-44_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-44_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-44_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1346.09475,
+        "opening": {
+            "start": 94.01058333333333,
+            "end": 184.058875
+        },
+        "ending": {
+            "start": 1346.09475,
+            "end": 1431.1380416666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-44_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "5-44_eg0"
+}

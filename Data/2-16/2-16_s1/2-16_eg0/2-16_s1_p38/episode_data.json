@@ -1,0 +1,155 @@
+{
+    "id": "2-16_s1_p38",
+    "series": {
+        "id": "2-16",
+        "title": "ケシカスくん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-16",
+            "filename": "thumb.png",
+            "query": "version=1712994283",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-16",
+            "filename": "portrait.png",
+            "query": "version=1712994283",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-16_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 519
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 38,
+        "title": "第38話 過ぎ去りし過去 他",
+        "content": "ケシカスくんは酷いやつだと呆れかえるボウズ。すると、エンピツがケシカスくんとの過去を語りはじめ！？他4本"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "岩田　光央（ケシカス）",
+            "高垣　彩陽（ボウズ、母）",
+            "日笠山　亜美（エンピツ）",
+            "下山　吉光（シャーペン）",
+            "牧口　真幸（文具A、男子A）",
+            "古田　恵（文具B、男子C）",
+            "直木　萌美（文具C、女子B）",
+            "高田　千裕（男子B）"
+        ],
+        "crews": [
+            "原作：村瀬　範行",
+            "スーパーバイザー：佐上　靖之、中沢　利洋",
+            "原案協力：秋本　武英",
+            "シリーズ構成：ふでやすかずゆき",
+            "キャラクターデザイン：桑波田　満",
+            "CGディレクター：西山　良輔",
+            "編集：沖田　秀樹",
+            "効果：北方　将実",
+            "音楽：末廣　健一郎",
+            "音響監督：藤田　亜紀子",
+            "音響制作：HALF　H・P　STUDIO",
+            "アニメーション制作：小学館ミュージック&デジタル　エンタテイメント",
+            "制作協力：XEBEC",
+            "アニメーションプロデューサー：吉澤　政昭",
+            "アシスタントプロデューサー：林　友里",
+            "番組担当：土方　真",
+            "プロデューサー：神宮字　真、齋藤　雅弘",
+            "監督：加戸　誉夫"
+        ],
+        "copyrights": [
+            "(C)村瀬範行/小学館・ShoPro・TV TOKYO"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1716803764,
+    "endAt": 1748703600,
+    "transcodeVersion": "2xP3BW",
+    "sharedLink": {
+        "twitter": "https://abema.app/urzg",
+        "facebook": "https://abema.app/jvCB",
+        "google": "https://abema.app/zeAd",
+        "line": "https://abema.app/uMuK",
+        "copy": "https://abema.app/hngh",
+        "instagram": "https://abema.app/GmTT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-16_s1_p38/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-16_s1_p38/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-16_s1_p38/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-16_s1_p38"
+    },
+    "viewingPoint": {
+        "suggestion": 514.9811333333333,
+        "opening": {
+            "end": 19.986633333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-16_s1_p39",
+        "title": "第39話 オレはサンカスロース！ 他",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1716803764,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-16_s1_p38/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "2-16_eg0"
+}

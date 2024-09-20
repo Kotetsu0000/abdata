@@ -1,0 +1,126 @@
+{
+    "id": "218-332_s99_p12",
+    "series": {
+        "id": "218-332",
+        "title": "声優と夜あそび 2021",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-332",
+            "filename": "thumb.png",
+            "query": "version=1630708935",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-332",
+            "filename": "portrait.png",
+            "query": "version=1630708935",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-332_s99",
+        "sequence": 99,
+        "name": "特別放送",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_39",
+                "name": "AbemaTVオリジナル"
+            },
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 312
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "大忘年会SP アフタートーク ＜浪川×前野×仲村＞",
+        "content": "毎週月曜から金曜、さらに週末も\"WEEKEND\"として人気声優がタッグを組んでMCを担当する、ABEMAオリジナル帯番組 「声優と夜あそび 2021」 の忘年会SP！\nABEMAプレミアム限定コンテンツとして、シャッフルMCによるここだけでしか見れない特別アフタートークを配信！"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "浪川大輔",
+            "前野智昭",
+            "仲村宗悟"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701061292,
+    "endAt": 1736089200,
+    "transcodeVersion": "3KuKXM",
+    "sharedLink": {
+        "twitter": "https://abema.app/HfPv",
+        "facebook": "https://abema.app/dE7Y",
+        "google": "https://abema.app/8Aqq",
+        "line": "https://abema.app/yX7G",
+        "copy": "https://abema.app/vnWZ",
+        "instagram": "https://abema.app/o9Vs"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-332_s99_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-332_s99_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-332_s99_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-332_s99_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 307.979333
+    },
+    "nextProgramInfo": {
+        "programId": "218-332_s99_p13",
+        "title": "大忘年会SP アフタートーク ＜森久保×安元×内田＞",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1701061292,
+        "endAt": 1736175600,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1736175600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-332_s99_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1736089200
+        }
+    ],
+    "episodeGroupId": "218-332_eg0"
+}

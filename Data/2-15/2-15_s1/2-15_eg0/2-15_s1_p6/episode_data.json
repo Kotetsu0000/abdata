@@ -1,0 +1,150 @@
+{
+    "id": "2-15_s1_p6",
+    "series": {
+        "id": "2-15",
+        "title": "姫様\"拷問\"の時間です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "thumb.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "portrait.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-15_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話",
+        "content": "「ハイパー上級見習い拷問官」から「やったねグレート見習い拷問官」に昇格したマオマオちゃんに、父である魔王はご褒美を与えようとする。さて、マオマオちゃんが魔王にお願いしたご褒美とは？ 一方、姫への“拷問”は月に一度の健康診断でお休み。魔王軍の手厚い福利厚生に驚くエクスをよそに、採血の準備をするトーチャーだったが、姫の様子がなにやらおかしくて…？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "姫：白石晴香",
+            "エクス：小林親弘",
+            "トーチャー・トルチュール：伊藤 静",
+            "魔王：玄田哲章",
+            "陽鬼：永瀬アンナ",
+            "陰鬼：井上ほの花",
+            "クロル：山根 綺",
+            "ジャイアント：茅野愛衣",
+            "マオマオちゃん：日高里菜",
+            "ルルン：中原麻衣"
+        ],
+        "crews": [
+            "原作：春原ロビンソン・ひらけい（集英社「少年ジャンプ＋」連載）",
+            "監督：金森陽子",
+            "シリーズ構成：筆安一幸",
+            "キャラクターデザイン：河野敏弥・古橋 聡",
+            "音響監督：明田川 仁",
+            "音楽：横山 克"
+        ],
+        "copyrights": [
+            "(C)春原ロビンソン・ひらけい／集英社・国王軍第三騎士団"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721886237,
+    "endAt": 1774969200,
+    "freeEndAt": 1727012700,
+    "transcodeVersion": "6ZAB26",
+    "sharedLink": {
+        "twitter": "https://abema.app/7uLz",
+        "facebook": "https://abema.app/exTF",
+        "google": "https://abema.app/Jo2V",
+        "line": "https://abema.app/Y8tc",
+        "copy": "https://abema.app/GdKA",
+        "instagram": "https://abema.app/tJmX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-15_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-15_s1_p6/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/2-15_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-15_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-15_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.9969166666667,
+        "opening": {
+            "start": 91.00758333333333,
+            "end": 180.93075
+        },
+        "ending": {
+            "start": 1285.9930416666666,
+            "end": 1375.9162083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-15_s1_p7",
+        "title": "第7話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721886237,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726376400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-15_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727012700
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "2-15_eg0"
+}

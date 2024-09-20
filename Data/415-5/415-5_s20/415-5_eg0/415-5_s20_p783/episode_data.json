@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s20_p783",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s20",
+        "sequence": 20,
+        "name": "season20",
+        "thumbComponent": {},
+        "order": 20
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 783,
+        "title": "第783話 緋色の真相",
+        "content": "来葉峠でジョディはキャメルが運転する車に乗り、公安から逃げていた。その時、赤井秀一が現れ、公安の車に発砲。ジョディたちは公安を振り切る事に成功するが、赤井はすぐに戻れと指示。その頃、工藤邸にいる安室に部下から連絡が入りタイヤを撃たれたと報告。赤井は公安から携帯を受け取り、安室と話し始める…。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066314,
+    "endAt": 1740754800,
+    "transcodeVersion": "75VhRR",
+    "sharedLink": {
+        "twitter": "https://abema.app/EfRL",
+        "facebook": "https://abema.app/Fi3E",
+        "google": "https://abema.app/Pa4C",
+        "line": "https://abema.app/W5kk",
+        "copy": "https://abema.app/tNBY",
+        "instagram": "https://abema.app/iEfQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s20_p783/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s20_p783/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s20_p783/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s20_p783"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 43.918875,
+            "end": 141.93345833333333
+        },
+        "ending": {
+            "start": 1307.7230833333333,
+            "end": 1387.63625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s20_p784",
+        "title": "第784話 織り姫クラブへようこそ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066314,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s20_p783/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

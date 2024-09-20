@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p41",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 41,
+        "title": "第41話 ｢北斗二千年の悲劇！拳王の足音が聞こえる！！」",
+        "content": "カサンドラで闘うケンシロウ、マミヤの勝利の知らせを待ち、希望を胸に抱き祈るリンとバット。その頃ケンシロウ達の行く手には拳王親衛隊がたちはだかろうとしていた。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756425,
+    "endAt": 1732978800,
+    "transcodeVersion": "4CMZay",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/BVikt",
+        "facebook": "https://gxyt4.app.goo.gl/56cRt",
+        "google": "https://gxyt4.app.goo.gl/PHV2q",
+        "line": "https://gxyt4.app.goo.gl/41ZgQ",
+        "copy": "https://gxyt4.app.goo.gl/3283M",
+        "instagram": "https://gxyt4.app.goo.gl/eBMmP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p41/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p41/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p41/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p41"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.495688,
+        "opening": {
+            "start": 32.98988,
+            "end": 124.547722
+        },
+        "ending": {
+            "start": 1340.495688,
+            "end": 1430.254022
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p42",
+        "title": "第42話 ｢明日なき世紀末！ケンおまえを待っていた！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756425,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p41/timeline",
+        "query": "version=4CMZay",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

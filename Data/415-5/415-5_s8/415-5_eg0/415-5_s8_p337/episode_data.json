@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s8_p337",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s8",
+        "sequence": 8,
+        "name": "season8",
+        "thumbComponent": {},
+        "order": 8
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1476
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 337,
+        "title": "第337話 転落事件の裏事情",
+        "content": "コナンと蘭は小五郎に連れられ、フランスレストランで食事をした。その帰り道、西須三田駅でケンカを目撃する。もみ合う２人は工事中の柵を押し倒し、さらにバランスを崩した中年男性がホームの外へ落下してしまう。警察や小五郎は、被害者の古田が窃盗の常習犯だったことから起こるべくして起こった事故だと納得するが…。"
+    },
+    "credit": {
+        "released": 2003,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明、監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066303,
+    "endAt": 1740754800,
+    "transcodeVersion": "6ULbmf",
+    "sharedLink": {
+        "twitter": "https://abema.app/vroq",
+        "facebook": "https://abema.app/DivT",
+        "google": "https://abema.app/LpzV",
+        "line": "https://abema.app/fUyW",
+        "copy": "https://abema.app/mLLG",
+        "instagram": "https://abema.app/jNAM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s8_p337/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s8_p337/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s8_p337/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s8_p337"
+    },
+    "viewingPoint": {
+        "suggestion": 1431.0296,
+        "opening": {
+            "start": 14.581233333333333,
+            "end": 106.07263333333333
+        },
+        "ending": {
+            "start": 1294.7267666666667,
+            "end": 1379.6783
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s8_p338",
+        "title": "第338話 ４台のポルシェ（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066303,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s8_p337/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,142 @@
+{
+    "id": "54-88_s1_p13",
+    "series": {
+        "id": "54-88",
+        "title": "魔法少女にあこがれて",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-88",
+            "filename": "thumb.png",
+            "query": "version=1703480516",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-88",
+            "filename": "portrait.png",
+            "query": "version=1703480516",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-88_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 やっぱり魔法少女にあこがれて",
+        "content": "バカンスで海にやってきたうてなたち。そこではるかたち3人とバッタリ出くわすと、仲良く夏の海を満喫していた。しかし、キウィの咄嗟の行動が仇となり、トレスマジアとエノルミータが大集合していた海は一瞬にして戦場に!?　今回もマジアベーゼが優勢かと思われたが……？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "柊 うてな / マジアベーゼ：和泉風花",
+            "阿良河 キウィ / レオパルト：古賀葵",
+            "杜乃 こりす / ネロアリス：杉浦しおり",
+            "花菱 はるか / マジアマゼンタ：前田佳織里",
+            "水神 小夜/ マジアアズール：風間万裕子",
+            "天川 薫子 / マジアサルファ：池田海咲",
+            "阿古屋 真珠/ ロコムジカ：相坂優歌",
+            "姉母 ネモ / ルベルブルーメ：津田美波",
+            "ロードエノルメ：日笠陽子",
+            "シスタギガント：井上喜久子",
+            "ヴェナリータ：福圓美里",
+            "ヴァ―ツ：阿澄佳奈"
+        ],
+        "crews": [
+            "原作：小野中彰大 「魔法少女にあこがれて」（連載「ストーリアダッシュ」竹書房刊）",
+            "監督：鈴木理人、大槻敦史",
+            "シリーズ構成・脚本：木村暢",
+            "キャラクターデザイン：大滝那佳",
+            "美術監督：平良亜梨沙",
+            "色彩設計：上村修司",
+            "撮影監督：鯨井亮",
+            "音響監督：本山哲",
+            "音響効果：櫻井陽子",
+            "音響制作：ダックスプロダクション",
+            "音楽：高梨康治、鈴木暁也、ヨハネスニルソン",
+            "音楽制作：ランティス",
+            "アニメーション制作：旭プロダクション",
+            "製作：魔法少⼥にあこがれて製作委員会"
+        ],
+        "copyrights": [
+            "(C)小野中彰大・⽵書房／魔法少女にあこがれて製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712141335,
+    "endAt": 1751295600,
+    "transcodeVersion": "27Edvp",
+    "sharedLink": {
+        "twitter": "https://abema.app/kexT",
+        "facebook": "https://abema.app/AhzQ",
+        "google": "https://abema.app/jxvx",
+        "line": "https://abema.app/RyZN",
+        "copy": "https://abema.app/SPfP",
+        "instagram": "https://abema.app/rKbZ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-88_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-88_s1_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-88_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-88_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.953625,
+        "opening": {
+            "start": 93.00958333333334,
+            "end": 182.93275
+        },
+        "ending": {
+            "start": 1329.953625,
+            "end": 1419.9185
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-88_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "54-88_eg0"
+}

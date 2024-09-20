@@ -1,0 +1,159 @@
+{
+    "id": "26-75_s1_p3",
+    "series": {
+        "id": "26-75",
+        "title": "テレビアニメ「鬼滅の刃」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "thumb.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "portrait.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-75_s1",
+        "sequence": 1,
+        "name": "竈門炭治郎 立志編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第三話 錆兎と真菰",
+        "content": "鬼殺隊――古より存在し、鬼を狩る組織。\n入隊のための試験「最終選別」に向けて、鱗滝左近次による炭治郎の訓練が始まった。\n様々な罠が張り巡らされた山下り、刀の素振り、滝修行、そして呼吸法……。\n狭霧山に来て一年、鱗滝は「もう教えることはない」と炭治郎へ言い放ち、巨大な岩の前で、最終選別へ行くための条件を突きつける―。\n\nテレビアニメ「鬼滅の刃」 無限列車編はこちら\nhttps://abema.tv/video/title/26-149"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "竈門炭治郎役：花江夏樹",
+            "竈門襧豆子役：鬼頭明里",
+            "我妻善逸：下野 紘",
+            "嘴平伊之助：松岡禎丞",
+            "冨岡義勇：櫻井孝宏"
+        ],
+        "crews": [
+            "原作：吾峠呼世晴（集英社ジャンプ コミックス刊）",
+            "監督：外崎春雄",
+            "キャラクターデザイン：松島 晃",
+            "サブキャラクターデザイン：佐藤美幸／梶山庸子／菊池美花",
+            "脚本制作：ufotable",
+            "コンセプトアート：衛藤功二／矢中勝／竹内香純／樺澤侑里",
+            "撮影監督：寺尾優一",
+            "3D監督：西脇一樹",
+            "色彩設計：大前祐子",
+            "編集：神野 学",
+            "音楽：梶浦由記／椎名 豪",
+            "制作プロデューサー：近藤 光",
+            "アニメーション制作：ufotable"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695885698,
+    "endAt": 1730386800,
+    "transcodeVersion": "JhhJg",
+    "sharedLink": {
+        "twitter": "https://abema.app/rF7u",
+        "facebook": "https://abema.app/z6bE",
+        "google": "https://abema.app/KgVm",
+        "line": "https://abema.app/RDRf",
+        "copy": "https://abema.app/UcHs",
+        "instagram": "https://abema.app/iMjs"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-75_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-75_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-75_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-75_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1289.019266,
+        "opening": {
+            "start": 34.00099300000005,
+            "end": 123.99899300000008
+        },
+        "ending": {
+            "start": 1290.0005330000006,
+            "end": 1379.9615330000006
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-75_s1_p4",
+        "title": "第四話 最終選別",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1695885698,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-75_s1_p3/timeline",
+        "query": "version=JhhJg",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "26-75_eg0"
+}

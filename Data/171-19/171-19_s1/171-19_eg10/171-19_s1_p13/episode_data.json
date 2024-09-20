@@ -1,0 +1,133 @@
+{
+    "id": "171-19_s1_p13",
+    "series": {
+        "id": "171-19",
+        "title": "GA 芸術科アートデザインクラス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-19",
+            "filename": "thumb.png",
+            "query": "version=1627288759",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-19",
+            "filename": "portrait.png",
+            "query": "version=1627288759",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "171-19_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1404
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "「GA 芸術科アートデザインクラス OVA　青空が描きたい」",
+        "content": "今回の授業は『テキスタイル(服飾)』。ファッションが苦手な如月は、一向に先生から合格を貰えず頭を悩ませます。キョージュとナミコさんにアドバイスをして貰っても、やっぱり描けない様子で……さてさて、如月は自分の答えを見つけられるのでしょうか？\n続いて後半は、お遣い（頼まれこと）のお話。宇佐美先生に用事を済ませた如月は、何故か行く先々で頼まれごとをされて。そのさなか、美術に向き合うことになった、自分自身の『原点』の作品とは？"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "キサラギ：戸松　遥",
+            "ノダミキ：徳永　愛",
+            "トモカネ：沢城みゆき",
+            "キョージュ：名塚佳織",
+            "ナミコ：堀江由衣",
+            "芦原ちかこ：神田朱未",
+            "水渕：小清水亜美",
+            "魚住：小西克幸",
+            "保村：内藤玲",
+            "外間先生：津久井教生",
+            "笹本先生：高山みなみ",
+            "宇佐美先生：南央美"
+        ],
+        "crews": [
+            "原作：きゆづきさとこ（芳文社まんがタイムKRコミックス）",
+            "監督：桜井弘明",
+            "シリーズ構成：待田堂子",
+            "キャラクターデザイン：渡辺敦子",
+            "制作スタジオ：AICPLUS+"
+        ],
+        "copyrights": [
+            "(C)きゆづきさとこ・芳文社/GA製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717727209,
+    "endAt": 1753974000,
+    "transcodeVersion": "TqEbF",
+    "sharedLink": {
+        "twitter": "https://abema.app/LS1z",
+        "facebook": "https://abema.app/jQ3y",
+        "google": "https://abema.app/mnev",
+        "line": "https://abema.app/qxKr",
+        "copy": "https://abema.app/JYfi",
+        "instagram": "https://abema.app/xDLP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/171-19_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/171-19_s1_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/171-19_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.171-19_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1323.1218,
+        "opening": {
+            "start": 9.009,
+            "end": 98.9989
+        },
+        "ending": {
+            "start": 1323.1218,
+            "end": 1404.9035
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/171-19_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "171-19_eg10"
+}

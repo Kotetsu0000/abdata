@@ -1,0 +1,170 @@
+{
+    "id": "26-2mzbynr-cph_s100_p5",
+    "series": {
+        "id": "26-2mzbynr-cph",
+        "title": "〈物語〉シリーズ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "thumb.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "portrait.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-2mzbynr-cph_s100",
+        "sequence": 100,
+        "name": "オフ＆モンスターシーズン",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1505
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "#05 撫物語 なでこドロー 其ノ肆",
+        "content": "今後の作戦を立てるため、一度千石家に戻った撫子と余接。残りの式神撫子を確保するために思案するも一歩踏み出せない撫子に対し、余接は当初の目的を思い出させる。事態を収拾するために、目的を達成するために、二人は決戦の地へと向かった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "戦場ヶ原ひたぎ：斎藤千和",
+            "八九寺真宵：加藤英美里",
+            "神原駿河：沢城みゆき",
+            "千石撫子：花澤香菜",
+            "阿良々木月火：井口裕香",
+            "忍野扇：水橋かおり",
+            "老倉育：井上麻里奈",
+            "斧乃木余接：早見沙織",
+            "忍野忍：坂本真綾"
+        ],
+        "crews": [
+            "原作：西尾維新『愚物語』『撫物語』（講談社BOX）",
+            "キャラクター原案：VOFAN",
+            "総監督：新房昭之",
+            "監督：吉澤　翠",
+            "シリーズ構成：東冨耶子、新房昭之",
+            "脚本：大嶋実句",
+            "キャラクターデザイン・総作画監督：渡辺明夫",
+            "総作画監督：杉山延寛、宮井加奈",
+            "美術監督：飯島寿治",
+            "色彩設計：渡辺康子",
+            "CG監督：島 久登",
+            "撮影監督：橋本日和、石川瑞帆",
+            "編集：松原理恵",
+            "音響監督：鶴岡陽太",
+            "音楽：神前　暁",
+            "アニメーション制作：シャフト"
+        ],
+        "copyrights": [
+            "(C)西尾維新／講談社・アニプレックス・シャフト"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725262972,
+    "endAt": 1909494000,
+    "transcodeVersion": "GtJQt",
+    "sharedLink": {
+        "twitter": "https://abema.app/dFHX",
+        "facebook": "https://abema.app/GPYD",
+        "google": "https://abema.app/ZKWN",
+        "line": "https://abema.app/N3FG",
+        "copy": "https://abema.app/qeqn",
+        "instagram": "https://abema.app/zntp"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s100_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s100_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s100_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-2mzbynr-cph_s100_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.9969166666667,
+        "opening": {
+            "start": 260.00975,
+            "end": 349.93291666666664
+        },
+        "ending": {
+            "start": 1414.9969166666667,
+            "end": 1504.9617916666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-2mzbynr-cph_s100_p6",
+        "title": "#06 撫物語 なでこドロー 其ノ伍",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725262972,
+        "endAt": 1909494000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1909494000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-2mzbynr-cph_s100_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1909494000
+        }
+    ],
+    "episodeGroupId": "26-2mzbynr-cph_eg0"
+}

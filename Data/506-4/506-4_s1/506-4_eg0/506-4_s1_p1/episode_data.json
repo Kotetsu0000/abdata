@@ -1,0 +1,147 @@
+{
+    "id": "506-4_s1_p1",
+    "series": {
+        "id": "506-4",
+        "title": "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-4",
+            "filename": "thumb.png",
+            "query": "version=1714017172",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-4",
+            "filename": "portrait.png",
+            "query": "version=1714017172",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "506-4_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "#1 追放",
+        "content": "世界を救った元英雄アレン。\n平穏な暮らしを望んで転生した先は、異世界の名門公爵家。ギフトを得られず、出来損ないと見なされて家を追放されてしまう。\nだが、息苦しい生活に辟易していたため、追放を喜び、自由気ままな旅を開始することに。\nその旅の途中、元婚約者であるリーズが魔物に襲われているところに遭遇してしまい……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "アレン：蒼井翔太",
+            "リーズ：栗坂南美",
+            "アンリエット：鬼頭明里",
+            "ノエル：雨宮 天",
+            "ミレーヌ：愛美"
+        ],
+        "crews": [
+            "原作：紅月シン『出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした』（ＴＯブックス刊）",
+            "原作イラスト：ちょこ庵",
+            "漫画：烏間ル",
+            "監督：古賀一臣",
+            "キャラクターデザイン・総作画監督：細田沙織",
+            "音楽：羽岡 佳"
+        ],
+        "copyrights": [
+            "(C) 紅月シン・ＴＯブックス／出来そこ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1718961182,
+    "endAt": 1751295600,
+    "freeEndAt": 1751295600,
+    "transcodeVersion": "3May7f",
+    "sharedLink": {
+        "twitter": "https://abema.app/9wYa",
+        "facebook": "https://abema.app/P6PW",
+        "google": "https://abema.app/zh8j",
+        "line": "https://abema.app/UGhh",
+        "copy": "https://abema.app/WQ19",
+        "instagram": "https://abema.app/FJVL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/506-4_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/506-4_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/506-4_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/506-4_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.506-4_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667
+    },
+    "nextProgramInfo": {
+        "programId": "506-4_s1_p2",
+        "title": "#2 聖剣の鍛冶師",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1718961182,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726457400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/506-4_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "506-4_eg0"
+}

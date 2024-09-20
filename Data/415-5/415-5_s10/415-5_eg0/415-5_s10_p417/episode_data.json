@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s10_p417",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s10",
+        "sequence": 10,
+        "name": "season10",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1485
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 417,
+        "title": "第417話 仏滅に出る悪霊（解決編）",
+        "content": "13年前の9月26日に関口が働く会社の社長が失踪した事が明らかに。それを機に関口は社長の後釜に入ったという。そして、その3日後の29日に淳大の船が沈んだ事実に驚く一同。捜査が一段落すると、蘭はペアルックのパジャマを購入した事をコナンに告げる。蘭の言葉にコナンはハッとした表情になり犯人の目星をつける。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066305,
+    "endAt": 1740754800,
+    "transcodeVersion": "5rRHcX",
+    "sharedLink": {
+        "twitter": "https://abema.app/Bhji",
+        "facebook": "https://abema.app/vPm5",
+        "google": "https://abema.app/EQYN",
+        "line": "https://abema.app/xaSP",
+        "copy": "https://abema.app/sjno",
+        "instagram": "https://abema.app/67Q6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s10_p417/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s10_p417/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s10_p417/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s10_p417"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.4723666666666,
+        "opening": {
+            "start": 15.4154,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1330.4624666666666,
+            "end": 1415.1137
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s10_p418",
+        "title": "第418話 米花町グルニエの家",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066305,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s10_p417/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

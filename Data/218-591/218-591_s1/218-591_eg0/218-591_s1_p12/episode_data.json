@@ -1,0 +1,116 @@
+{
+    "id": "218-591_s1_p12",
+    "series": {
+        "id": "218-591",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 ~Challenge Again~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "thumb.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "portrait.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-591_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1598
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "出張！安元くんと愉快な夜あそびADたち Part②",
+        "content": "安元くんが夜あそびの名物ＡＤ自宅に出張！今年も「制作の裏側」や「出演者の知られざる顔」「愚痴・不平不満」を座談会で聞きます。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "安元洋貴"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1693298641,
+    "endAt": 1786460400,
+    "transcodeVersion": "6oSVtc",
+    "sharedLink": {
+        "twitter": "https://abema.app/Jz5c",
+        "facebook": "https://abema.app/SL2Z",
+        "google": "https://abema.app/SeVW",
+        "line": "https://abema.app/uggH",
+        "copy": "https://abema.app/brRL",
+        "instagram": "https://abema.app/9GEw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-591_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-591_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-591_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-591_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1593.863933
+    },
+    "nextProgramInfo": {
+        "programId": "218-591_s1_p13",
+        "title": "ついに対面！トップ声優 ×声優の卵",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1693298641,
+        "endAt": 1786460400,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1786460400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-591_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1786460400
+        }
+    ],
+    "episodeGroupId": "218-591_eg0"
+}

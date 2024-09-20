@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p91",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 91,
+        "title": "第91話 ｢雲いぜん動かず！遂に仮面の将が素顔を見せた！！」",
+        "content": "拳王の手先ドルフィの村に連行されたケンシロウたち。その村で老人の死を目にしたケンシロウの怒りが爆発。しかし襲い掛かってきたドルフィの「泰山黒影拳」には裏技があった。その頃ジュウザは南斗最後の将の素顔を見ていた。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "6qL1HM",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/H9tQp",
+        "facebook": "https://gxyt4.app.goo.gl/BLCQi",
+        "google": "https://gxyt4.app.goo.gl/nwaML",
+        "line": "https://gxyt4.app.goo.gl/Kzamu",
+        "copy": "https://gxyt4.app.goo.gl/ZX7J8",
+        "instagram": "https://gxyt4.app.goo.gl/ETzWR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p91/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p91/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p91/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p91"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.051922,
+        "opening": {
+            "start": 50.670822,
+            "end": 114.504355
+        },
+        "ending": {
+            "start": 1330.051922,
+            "end": 1429.818355
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p92",
+        "title": "第92話 ｢よみがえった雲のジュウザ！俺はラオウを恐れない！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p91/timeline",
+        "query": "version=6qL1HM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p530",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1476
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 530,
+        "title": "第530話 都市伝説の正体（前編）",
+        "content": "米花公園で女性がハンマーで殴られる事件が発生。身長180センチ以上もあるという犯人はハンマー男と呼ばれ、髪の長い女性ばかり４人が被害者に。蘭と園子がハンマー男の話題を話していると、一緒にいたコナンが高木刑事と佐藤刑事を発見。２人はマンション３階の一室にいると思われるハンマー男を張り込み中だった。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "49x23y",
+    "sharedLink": {
+        "twitter": "https://abema.app/kJfm",
+        "facebook": "https://abema.app/eUsH",
+        "google": "https://abema.app/Z63C",
+        "line": "https://abema.app/otEb",
+        "copy": "https://abema.app/EKJn",
+        "instagram": "https://abema.app/7epC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s14_p530/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s14_p530/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s14_p530/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p530"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.9829666666667,
+        "opening": {
+            "start": 71.40466666666667,
+            "end": 161.9618
+        },
+        "ending": {
+            "start": 1350.9829666666667,
+            "end": 1430.9628666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p531",
+        "title": "第531話 都市伝説の正体（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p530/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

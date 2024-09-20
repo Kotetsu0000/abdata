@@ -1,0 +1,164 @@
+{
+    "id": "25-235_s1_p7",
+    "series": {
+        "id": "25-235",
+        "title": "スパイ教室",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-235",
+            "filename": "thumb.png",
+            "query": "version=1688972435",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-235",
+            "filename": "portrait.png",
+            "query": "version=1688972435",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-235_s1",
+        "sequence": 1,
+        "name": "1st season",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 File 《草原》のサラ",
+        "content": "訓練期間も終盤。庶民の出で心優しいサラは、自分にいまだ自信を持てずにいた。そんな中、クラウスは屋敷の修繕をめぐり、少女たちに異例の勝負を持ちかける。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リリィ：雨宮 天",
+            "グレーテ：伊藤美来",
+            "ジビア：東山奈央",
+            "モニカ：悠木 碧",
+            "ティア：上坂すみれ",
+            "サラ：佐倉綾音",
+            "アネット：楠木ともり",
+            "クラウス：梅原裕一郎"
+        ],
+        "crews": [
+            "原作：竹町（株式会社KADOKAWA ファンタジア文庫刊）",
+            "原作イラスト：トマリ",
+            "監督：川口敬一郎",
+            "シリーズ構成：猪爪慎一",
+            "キャラクターデザイン：木野下澄江",
+            "アニメーション制作：feel.",
+            "製作：「スパイ教室」製作委員会"
+        ],
+        "copyrights": [
+            "(C)竹町・トマリ／KADOKAWA／「スパイ教室」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695979847,
+    "endAt": 1759244400,
+    "freeEndAt": 1726527600,
+    "transcodeVersion": "77wEDh",
+    "sharedLink": {
+        "twitter": "https://abema.app/7bnu",
+        "facebook": "https://abema.app/ybPb",
+        "google": "https://abema.app/TgmA",
+        "line": "https://abema.app/7EmN",
+        "copy": "https://abema.app/HLDT",
+        "instagram": "https://abema.app/ZYMi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-235_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-235_s1_p7/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-235_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-235_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-235_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.085333,
+        "opening": {
+            "start": 85.164753,
+            "end": 172.064755
+        },
+        "ending": {
+            "start": 1263.17652,
+            "end": 1350.17652
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-235_s1_p8",
+        "title": "第8話 MISSION 《愛娘》Ⅰ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1695979847,
+        "endAt": 1759244400,
+        "freeEndAt": 1726527600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726527600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-235_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726527600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "25-235_eg0"
+}

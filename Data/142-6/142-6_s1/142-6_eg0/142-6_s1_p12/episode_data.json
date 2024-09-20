@@ -1,0 +1,152 @@
+{
+    "id": "142-6_s1_p12",
+    "series": {
+        "id": "142-6",
+        "title": "烏は主を選ばない",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/142-6",
+            "filename": "thumb.png",
+            "query": "version=1724045766",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/142-6",
+            "filename": "portrait.png",
+            "query": "version=1724045766",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "142-6_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1500
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話「后（きさき）選び」",
+        "content": "春たけなわの桜花宮（おうかぐう）。桜が舞い散る花見台で、雪哉が后（きさき）選びの開始を宣言した。若宮に指名されたのは、北家の姫・白珠（しらたま）。愛する人を喪い虚ろになった白珠は、それでもなお、入内にかける悲壮な思いを口にする。若宮はそんな白珠に、ある事実を突きつけるのだった。誇り高い西家の姫・真赭の薄（ますほのすすき）は、若宮に、ある疑問を投げかける。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "雪哉：田村睦心",
+            "若宮：入野自由",
+            "あせび：本泉莉奈",
+            "浜木綿：七海ひろき",
+            "真赭の薄：福原綾香",
+            "白珠：釘宮理恵"
+        ],
+        "crews": [
+            "原作：阿部智里",
+            "監督：京極義昭",
+            "シリーズ構成・脚本：山室有紀子",
+            "キャラクターデザイン：乘田拓茂",
+            "音楽：瀬川英史",
+            "音響監督：丹下雄二",
+            "アニメーション制作：ぴえろ",
+            "制作・著作：NHK、NHKエンタープライズ、ぴえろ"
+        ],
+        "copyrights": [
+            "(C)阿部智里／文藝春秋／NHK・NEP・ぴえろ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035437,
+    "endAt": 1756652400,
+    "transcodeVersion": "2KDUn9",
+    "sharedLink": {
+        "twitter": "https://abema.app/6CSU",
+        "facebook": "https://abema.app/R15y",
+        "google": "https://abema.app/EtSc",
+        "line": "https://abema.app/4pky",
+        "copy": "https://abema.app/UTxi",
+        "instagram": "https://abema.app/8EHn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/142-6_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/142-6_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/142-6_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.142-6_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1380.0453333333332,
+        "opening": {
+            "start": 98.973875,
+            "end": 188.93875
+        },
+        "ending": {
+            "start": 1380.0453333333332,
+            "end": 1469.9685
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "142-6_s1_p13",
+        "title": "第13話「烏（からす）に単（ひとえ）は似合わない」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1726035437,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/142-6_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "142-6_eg0"
+}

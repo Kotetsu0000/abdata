@@ -1,0 +1,141 @@
+{
+    "id": "115-44_s1_p2",
+    "series": {
+        "id": "115-44",
+        "title": "kiss×sis",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "thumb.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-44",
+            "filename": "portrait.png",
+            "query": "version=1717731456",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-44_s1",
+        "sequence": 1,
+        "name": "Kiss×sis",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 二人きりのレッスン",
+        "content": "圭太の模擬試験の結果が返ってきた。志望校への合格率は50％……。なかなか勉強に集中できないという圭太に、学業優秀なあこが家庭教師役を名乗り出た。あこはタイトミニのスーツ姿にメガネの“女教師”スタイルで挑むが、圭太には見えそうで見えないスカートの奥が気になってしまい逆効果。あこは作戦を変更し、インパクト勝負とばかりに自分の身体のあちこちに英単語や熟語を書いて圭太に覚えさせる。翌日、登校途中の三国と三日月の胸を見て、反射的に英単語を口にする圭太。その抜群の効果に、あこは日本史の年表も同様の作戦で挑むことに。一方、高校受験では鉛筆を転がしたほど勉強が苦手なりこは、すっかりカヤの外。せめて夜食を作ってあげたいと、苦手な料理に挑む。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "住之江あこ：竹達彩奈",
+            "住之江りこ：巽悠衣子",
+            "住之江圭太：武内健",
+            "三国美春：永田依子",
+            "桐生夕月：今井麻美",
+            "桐生三日月：大亀あすか"
+        ],
+        "crews": [
+            "原作：ぢたま某",
+            "企画：森山敦",
+            "監督：名和宗則",
+            "シリーズ構成：長谷川勝己",
+            "キャラクターデザイン：下谷智之"
+        ],
+        "copyrights": [
+            "（Ｃ）ぢたま某・講談社／kiss×sis製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1716522749,
+    "endAt": 1751295600,
+    "transcodeVersion": "5bMyHB",
+    "sharedLink": {
+        "twitter": "https://abema.app/2xKE",
+        "facebook": "https://abema.app/uByn",
+        "google": "https://abema.app/qQPi",
+        "line": "https://abema.app/h7tJ",
+        "copy": "https://abema.app/vdKx",
+        "instagram": "https://abema.app/FVj9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-44_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-44_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-44_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-44_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1320.0520666666666,
+        "opening": {
+            "start": 77.01026666666667,
+            "end": 166.9668
+        },
+        "ending": {
+            "start": 1320.0520666666666,
+            "end": 1409.9752333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-44_s1_p3",
+        "title": "第3話 魅惑のスイーツ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1716522749,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-44_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "115-44_eg0"
+}

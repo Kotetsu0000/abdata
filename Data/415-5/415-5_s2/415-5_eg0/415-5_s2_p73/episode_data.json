@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s2_p73",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 73,
+        "title": "第73話 少年探偵団遭難事件",
+        "content": "少年探偵団のメンバーたちと海に遊びにきたコナンは、春日財閥の御曹司・輝彦と恋人の忍と知り合い、モーターボートに乗せてもらって大はしゃぎ。夕方になって、コナンたちは先に帰ったはずの忍の名前と「SOS」とメッセージの入ったペットボトルを拾う。メッセージが本物だと考えた4人は、忍を捜して海辺の洞窟に入り込む。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066297,
+    "endAt": 1740754800,
+    "transcodeVersion": "4D95fo",
+    "sharedLink": {
+        "twitter": "https://abema.app/Pa2u",
+        "facebook": "https://abema.app/H6Ju",
+        "google": "https://abema.app/6Uu9",
+        "line": "https://abema.app/wm2v",
+        "copy": "https://abema.app/HWPQ",
+        "instagram": "https://abema.app/yv18"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s2_p73/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s2_p73/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s2_p73/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s2_p73"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.5231,
+        "opening": {
+            "start": 15.048366666666666,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1288.6206666666667,
+            "end": 1376.6085666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s2_p74",
+        "title": "第74話 死神陣内殺人事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066297,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s2_p73/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

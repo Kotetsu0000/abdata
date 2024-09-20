@@ -1,0 +1,141 @@
+{
+    "id": "5-8_s0_p73",
+    "series": {
+        "id": "5-8",
+        "title": "トリコ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "thumb.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "portrait.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1398
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 73,
+        "title": "第73話　ウワーッ！ 仰天ビックリアップル！",
+        "content": "トリコの家へ遊びにやって来た小松。玄関が開くやいなや、出迎えたトリコの恐ろしい形相にビックリ仰天。聞けばトリコ、ある食材をビックリさせる練習をしていたらしい。その食材とは、ビックリアップル。ビックリさせるほど美味しく変化する珍しいリンゴだ。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "トリコ：置鮎龍太郎",
+            "小松：朴璐美",
+            "ココ：櫻井孝宏",
+            "サニー：岩田光央",
+            "ゼブラ：松田賢二"
+        ],
+        "crews": [
+            "原作：島袋光年（集英社・週刊少年ジャンプ連載）",
+            "企画：高瀬敦也、渡辺和哉、清水慎治",
+            "プロデューサー：情野誠人、佐川直子、鷲尾天",
+            "シリーズ構成：村山功",
+            "音楽：水谷広実"
+        ],
+        "copyrights": [
+            "(C)島袋光年／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689061325,
+    "endAt": 1740754800,
+    "transcodeVersion": "3B73TM",
+    "sharedLink": {
+        "twitter": "https://abema.app/bkHd",
+        "facebook": "https://abema.app/xjfX",
+        "google": "https://abema.app/Uw5c",
+        "line": "https://abema.app/d7AR",
+        "copy": "https://abema.app/BTgY",
+        "instagram": "https://abema.app/wa8V"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p73/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p73/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p73/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-8_s0_p73"
+    },
+    "viewingPoint": {
+        "suggestion": 1383.004822,
+        "opening": {
+            "start": 17.974488,
+            "end": 102.892755
+        },
+        "ending": {
+            "start": 1232.988288,
+            "end": 1292.881555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-8_s0_p74",
+        "title": "第74話　ニワトラの卵！ よっち爺さんと妻の記憶",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689061325,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-8_s0_p73/timeline",
+        "query": "version=3B73TM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-8_eg0"
+}

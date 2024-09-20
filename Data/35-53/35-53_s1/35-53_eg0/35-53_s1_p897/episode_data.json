@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p897",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 661
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 897,
+        "title": "#897 悪魔の城のヒミツ",
+        "content": "大魔王デマオンの住む城に、いなかから出かせぎにやって来た、ノビマとドマエモン。\n　デマオンの部屋まで、ひみつの箱をとどけるよう命じられるが、じゃまが入ってウロウロ。はたして、ひみつの箱の中身とは…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1738335600,
+    "transcodeVersion": "5Eyimm",
+    "sharedLink": {
+        "twitter": "https://abema.app/gyjY",
+        "facebook": "https://abema.app/uJgV",
+        "google": "https://abema.app/ikLr",
+        "line": "https://abema.app/Q9XW",
+        "copy": "https://abema.app/eMQF",
+        "instagram": "https://abema.app/rTFs"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p897/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p897/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p897/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p897"
+    },
+    "viewingPoint": {
+        "suggestion": 656.9896666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p898",
+        "title": "#898 赤いくつの女の子",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335975,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p897/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

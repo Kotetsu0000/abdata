@@ -1,0 +1,134 @@
+{
+    "id": "5-44_s1_p4",
+    "series": {
+        "id": "5-44",
+        "title": "ガールズバンドクライ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "thumb.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "portrait.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-44_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 感謝（驚）",
+        "content": "すばるの祖⺟が突如上京してくる。⾃分のやりたいことは⼥優じゃない。バンドなんだ⾳楽なんだ。ここまできたら私、はっきり⾔う。みんなに啖呵を切るすばるだが、いざ会うと借りてきた猫のように微笑を浮かべてお嬢様を演じるばかりだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "井芹仁菜：理名",
+            "河原木桃香：夕莉",
+            "安和すばる：美怜",
+            "海老塚智：凪都",
+            "ルパ：朱李"
+        ],
+        "crews": [
+            "原作・企画・製作：東映アニメーション",
+            "シリーズ構成：花田十輝",
+            "音楽プロデューサー：玉井健二 (agehasprings)",
+            "劇伴音楽：田中ユウスケ (agehasprings)",
+            "キャラクターデザイン：手島nari",
+            "CGディレクター：鄭 載薫",
+            "シリーズディレクター：酒井和男"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719816812,
+    "endAt": 1751295600,
+    "transcodeVersion": "4twddK",
+    "sharedLink": {
+        "twitter": "https://abema.app/6Xjj",
+        "facebook": "https://abema.app/qDUJ",
+        "google": "https://abema.app/PL5R",
+        "line": "https://abema.app/jH8i",
+        "copy": "https://abema.app/JHVP",
+        "instagram": "https://abema.app/USqT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-44_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.0480416666667,
+        "opening": {
+            "start": 85.00158333333333,
+            "end": 175.049875
+        },
+        "ending": {
+            "start": 1341.0480416666667,
+            "end": 1426.0913333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-44_s1_p5",
+        "title": "第5話 歌声よおこれ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719816812,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-44_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "5-44_eg0"
+}

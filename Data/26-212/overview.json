@@ -1,0 +1,82 @@
+{
+    "id": "26-212",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "Fate/Apocrypha",
+    "content": "一族の悲願のため強奪した大聖杯を象徴に掲げ、魔術協会からの独立を目論む黒の陣営。\n彼らの野望を阻止せんと魔術協会によって招集された赤の陣営。\nルーマニア・トゥリファスを舞台に、二つの陣営に召喚された英霊十四騎によって繰り広げられた聖杯大戦は、\n此度の大戦の監督役である赤の陣営のマスターの一人、シロウ・コトミネによってその様相を変える。\n\n大聖杯による全人類の救済を願うシロウ・コトミネ――“奇跡の子”天草四郎時貞。\nルーラーとして聖杯大戦の調和を願う――“聖女”ジャンヌ・ダルク。\n“竜殺し”の力をその身に宿し、己の願いの為剣を取る、何者でもなかった少年――ジーク。\n\nそれぞれの願いの果てに、“外典”が紡がれる。",
+    "seasons": [
+        {
+            "id": "26-212_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-212",
+                "filename": "thumb.png",
+                "query": "version=1703213732",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-212_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)東出祐一郎・TYPE-MOON / FAPC"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1723000500672529845",
+    "imageUpdatedAt": 1703213732,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/vEsw",
+        "facebook": "https://abema.app/A86J",
+        "google": "https://abema.app/bX1U",
+        "line": "https://abema.app/shJ6",
+        "copy": "https://abema.app/RuPc",
+        "instagram": "https://abema.app/v3rk"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-212",
+        "filename": "thumb.png",
+        "query": "version=1703213732",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-212",
+        "filename": "portrait.png",
+        "query": "version=1703213732",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

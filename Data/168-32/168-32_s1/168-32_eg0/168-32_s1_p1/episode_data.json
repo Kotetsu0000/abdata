@@ -1,0 +1,162 @@
+{
+    "id": "168-32_s1_p1",
+    "series": {
+        "id": "168-32",
+        "title": "私、能力は平均値でって言ったよね！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-32",
+            "filename": "thumb.png",
+            "query": "version=1632717438",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-32",
+            "filename": "portrait.png",
+            "query": "version=1632717438",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-32_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 新天地でやり直しって言ったよね！",
+        "content": "マイルは、ごく普通の１２歳の女の子！　と見せかけて……実は日本の女子高生・栗原海里という前世の記憶を持つ、この頃流行りの異世界転生者！　なんやかんやあってハンターになるためティルス王国を訪れたマイルは、王都で子供たちの行方不明事件が起きていることを知る。お人好しのマイルは事件を追うのだが——"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "マイル：和氣あず未",
+            "レーナ：徳井青空",
+            "メーヴィス：内村史子",
+            "ポーリン：田澤茉純"
+        ],
+        "crews": [
+            "原作：ＦＵＮＡ・亜方逸樹 (アース・スターノベル刊)",
+            "監督：太田雅彦",
+            "シリーズ構成：あおしまたかし",
+            "キャラクターデザイン：渡辺奏",
+            "美術監督：松宮正純、宮本実生",
+            "色彩設計：鈴木ようこ",
+            "CGラインディレクター：濱村敏郎",
+            "撮影監督：二村文章",
+            "編集：小野寺絵美",
+            "音響監督：えびなやすのり",
+            "音響制作：ダックスプロダクション",
+            "音楽：三澤康広",
+            "音楽制作：エイベックス・ピクチャーズ",
+            "制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)ＦＵＮＡ・亜方逸樹／アース・スター エンターテイメント／のうきん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1682676400,
+    "endAt": 1730386800,
+    "freeEndAt": 1730386800,
+    "transcodeVersion": "54rj1e",
+    "sharedLink": {
+        "twitter": "https://abema.app/8JFs",
+        "facebook": "https://abema.app/mpve",
+        "google": "https://abema.app/vwDR",
+        "line": "https://abema.app/CqqQ",
+        "copy": "https://abema.app/FFUB",
+        "instagram": "https://abema.app/hMpp"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-32_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-32_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/168-32_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-32_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-32_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.060266,
+        "ending": {
+            "start": 1330.101486,
+            "end": 1420.178866
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-32_s1_p2",
+        "title": "第2話 四人でパーティーって言ったよね！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1682676400,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726783200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-32_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "168-32_eg0"
+}

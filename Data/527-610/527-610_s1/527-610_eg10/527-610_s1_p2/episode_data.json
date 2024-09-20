@@ -1,0 +1,129 @@
+{
+    "id": "527-610_s1_p2",
+    "series": {
+        "id": "527-610",
+        "title": "ABEMA×ヒプステ",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/527-610",
+            "filename": "thumb.png",
+            "query": "version=1690447916",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/527-610",
+            "filename": "portrait.png",
+            "query": "version=1690447916",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "527-610_s1",
+        "sequence": 1,
+        "name": "-",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_37",
+                "name": "ライブ舞台"
+            }
+        ]
+    },
+    "info": {
+        "duration": 7253
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "ヒプステ -track.2-",
+        "content": "本公演は、シブヤ・ディビジョン“Fling Posse“とシンジュク・ディビジョン“麻天狼“を中心とした舞台化第2弾。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "■シブヤ・ディビジョン“Fling Posse”",
+            "飴村乱数：世古口凌",
+            "夢野幻太郎：前山剛久",
+            "有栖川帝統：滝澤諒",
+            "■シンジュク・ディビジョン“麻天狼”",
+            "神宮寺寂雷：鮎川太陽",
+            "伊弉冉一二三：荒木宏文",
+            "観音坂独歩：宮城紘大",
+            "■アサクサ・ディビジョン“鬼瓦ボンバーズ”",
+            "鬼灯甚八：加藤良輔",
+            "駒形正宗：和田泰右",
+            "影向道四郎：結城伽寿也",
+            "■ディビジョン・ダンス・バトル “D.D.B”",
+            "Toyotaka",
+            "RYO",
+            "gash!",
+            "SHINSUKE",
+            "Dolton",
+            "KENTA",
+            "GeN",
+            "KIMUTAKU"
+        ],
+        "copyrights": [
+            "(C)『ヒプノシスマイク -Division Rap Battle-』Rule the Stage製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1723099676,
+    "endAt": 1751295540,
+    "transcodeVersion": "cFxDX",
+    "sharedLink": {
+        "twitter": "https://abema.app/znKP",
+        "facebook": "https://abema.app/QEJL",
+        "google": "https://abema.app/UaFL",
+        "line": "https://abema.app/9QZ9",
+        "copy": "https://abema.app/aeS4",
+        "instagram": "https://abema.app/po2X"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/527-610_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/527-610_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/527-610_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.527-610_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 7237.166917
+    },
+    "nextProgramInfo": {
+        "programId": "527-610_s1_p3",
+        "title": "ヒプステ -track.2 replay-",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1723099676,
+        "endAt": 1751295540,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295540
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/527-610_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295540
+        }
+    ],
+    "episodeGroupId": "527-610_eg10"
+}

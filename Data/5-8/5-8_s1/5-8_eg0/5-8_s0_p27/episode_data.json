@@ -1,0 +1,141 @@
+{
+    "id": "5-8_s0_p27",
+    "series": {
+        "id": "5-8",
+        "title": "トリコ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "thumb.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "portrait.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1337
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 27,
+        "title": "第27話　膳は急げ！ 氷土のサバイバルレース！",
+        "content": "アイスヘルを冒険するトリコたち。休憩中、ひとりで周囲の警戒を続けるトリコを気遣い、マッチが見張りを替わる。厳しい冒険の中、チームワークが生まれていた。一方、美食會副料理長のトミーロッドは、自分たち以外は全滅させようと不敵な笑みを浮かべていた。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "トリコ：置鮎龍太郎",
+            "小松：朴璐美",
+            "ココ：櫻井孝宏",
+            "サニー：岩田光央",
+            "ゼブラ：松田賢二"
+        ],
+        "crews": [
+            "原作：島袋光年（集英社・週刊少年ジャンプ連載）",
+            "企画：高瀬敦也、渡辺和哉、清水慎治",
+            "プロデューサー：情野誠人、佐川直子、鷲尾天",
+            "シリーズ構成：村山功",
+            "音楽：水谷広実"
+        ],
+        "copyrights": [
+            "(C)島袋光年／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689061324,
+    "endAt": 1740754800,
+    "transcodeVersion": "6gRCDf",
+    "sharedLink": {
+        "twitter": "https://abema.app/j22H",
+        "facebook": "https://abema.app/UZse",
+        "google": "https://abema.app/Todj",
+        "line": "https://abema.app/mDAh",
+        "copy": "https://abema.app/3dAN",
+        "instagram": "https://abema.app/fx37"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p27/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p27/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p27/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-8_s0_p27"
+    },
+    "viewingPoint": {
+        "suggestion": 1322.978188,
+        "opening": {
+            "start": 17.974488,
+            "end": 102.892755
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-8_s0_p28",
+        "title": "第28話　氷山揺るがす爆炎！ 覆面男の正体！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689061324,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726689600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-8_s0_p27/timeline",
+        "query": "version=6gRCDf",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726603200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727251200
+        }
+    ],
+    "episodeGroupId": "5-8_eg0"
+}

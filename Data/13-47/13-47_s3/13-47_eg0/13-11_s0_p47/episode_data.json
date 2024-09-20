@@ -1,0 +1,144 @@
+{
+    "id": "13-11_s0_p47",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s3",
+        "sequence": 3,
+        "name": "3年目",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 47,
+        "title": "第146話 昼間に飲む酒は一味違う",
+        "content": "常夜の街、吉原桃源郷についに太陽が昇った。激闘の末、最期に日輪への想いを吐き出しながら朽ち果てる鳳仙。そして、戦いの一部始終を傍観していた神威の前に神楽と新八が駆けつける。再会した兄に怒りをぶつける神楽だが、神威は銀時に“宣戦布告”して去っていく…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1746025200,
+    "transcodeVersion": "4bYAX6",
+    "sharedLink": {
+        "twitter": "https://abema.app/dLb7",
+        "facebook": "https://abema.app/D3qe",
+        "google": "https://abema.app/2qGi",
+        "line": "https://abema.app/qn3w",
+        "copy": "https://abema.app/tpkz",
+        "instagram": "https://abema.app/jkJC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-11_s0_p47/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-11_s0_p47/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-11_s0_p47/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-11_s0_p47"
+    },
+    "viewingPoint": {
+        "suggestion": 1455.074933,
+        "opening": {
+            "end": 90
+        },
+        "ending": {
+            "start": 1176.972758,
+            "end": 1377.277206
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p48",
+        "title": "第147話 全ての大人達は全ての子供達のインストラクター",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296390,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-11_s0_p47/timeline",
+        "query": "version=4bYAX6",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

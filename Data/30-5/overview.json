@@ -1,0 +1,133 @@
+{
+    "id": "30-5",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "進撃の巨人",
+    "content": "巨人がすべてを支配する世界。巨人の餌と化した人類は\n高さ50メートルの巨大な壁を築き、\n壁外への自由と引き換えに侵略を防いでいた･･･。\n\nまだ見ぬ壁外の世界を夢見る10歳の少年、エレン･イェーガー。\nエレンは仮初めの平和に満足し外の世界へ出ることを諦めた人々に違和感を覚える。\n彼らを「家畜」と呼ぶエレン。エレンを「異物」と感じる人々。\n\nだが、壁をも越える超大型巨人の出現により、エレンの「夢」も人々の「平和」も\n突如として崩れ去ってしまう･･･。",
+    "seasons": [
+        {
+            "id": "30-5_s1",
+            "sequence": 1,
+            "name": "Season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/30-5_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1684293868",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "30-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "30-5_s2",
+            "sequence": 2,
+            "name": "Season2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/30-5_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1684465851",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "30-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "30-5_s3",
+            "sequence": 3,
+            "name": "Season3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/30-5_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1683771497",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "30-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        },
+        {
+            "id": "30-5_s4",
+            "sequence": 4,
+            "name": "The Final Season",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/30-5_s4",
+                "filename": "default_thumb.png",
+                "query": "version=1684295390",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "30-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 4
+        }
+    ],
+    "copyrights": [
+        "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1724377005891224145",
+    "imageUpdatedAt": 1700030870,
+    "caption": "巨人VS人間のパニックファンタジー",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/fsyq",
+        "facebook": "https://abema.app/EXqx",
+        "google": "https://abema.app/r2V2",
+        "line": "https://abema.app/GGXF",
+        "copy": "https://abema.app/jr9R",
+        "instagram": "https://abema.app/Q8Lh"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+        "filename": "thumb.png",
+        "query": "version=1700030870",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+        "filename": "portrait.png",
+        "query": "version=1700030870",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "203-13_s1_p7",
+    "series": {
+        "id": "203-13",
+        "title": "ひみつのアイプリ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-13",
+            "filename": "thumb.png",
+            "query": "version=1713510606",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-13",
+            "filename": "portrait.png",
+            "query": "version=1713510606",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-13_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 ヴィクトリアのひみつ",
+        "content": "ヴィクトリア学園長先生によって、パラダイス学園の生徒は全員アイプリ禁止にされてしまう。消灯時間を過ぎたのにアイプリの配信をしたひまりは、自分のせいだと落ち込んでいた。生徒会長のサクラは、禁止をといてもらおうとヴィクトリアの元に。ヴィクトリアは、アイプリの素晴らしさをアピールできたら、アイプリを許してくれると言う。そこでサクラは、ひまりとみつきに言う。二人でデュオを組んで、素晴らしいライブを見せつけてほしいと。果たしてひまりとみつきは、ヴィクトリアが納得するようなライブができるのか……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "青空ひまり：藤寺美徳",
+            "星川みつき：平塚紗依",
+            "鈴風つむぎ：久保ユリカ",
+            "一条寺サクラ：日比優理香",
+            "二階堂タマキ：鈴木杏奈",
+            "三ツ葉アイリ：徳井青空",
+            "四之宮リンリン：和多田美咲",
+            "真実夜チィ：大地葉"
+        ],
+        "crews": [
+            "原作：タカラトミーアーツ／シンソフィア",
+            "監督：藤咲淳一、山口健太郎",
+            "チーフディレクター：Park Chi Man、Nam Sung Min、Choi Hun Cheol、Shin Gi Chuel",
+            "シリーズ構成：市川十億衛門",
+            "キャラクター原案：梨本裕美（シンソフィア）",
+            "キャラクターデザイン：永野佑貴",
+            "CG ディレクター：柳川智",
+            "音楽：森いづみ（bransic）",
+            "音響監督：小沼則義",
+            "アニメーション制作：OLM・DONGWOO A&E"
+        ],
+        "copyrights": [
+            "(C)Ｔ－ＡＲＴＳ / syn Sophia / テレビ東京 / AP製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035378,
+    "endAt": 1774969200,
+    "transcodeVersion": "2dW1NF",
+    "sharedLink": {
+        "twitter": "https://abema.app/fu2G",
+        "facebook": "https://abema.app/vKp3",
+        "google": "https://abema.app/ZqaE",
+        "line": "https://abema.app/WeNZ",
+        "copy": "https://abema.app/gaep",
+        "instagram": "https://abema.app/bmRc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-13_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-13_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-13_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-13_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0053333333333,
+        "opening": {
+            "start": 41.041,
+            "end": 130.96416666666667
+        },
+        "ending": {
+            "start": 1340.0053333333333,
+            "end": 1430.0119166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-13_s1_p8",
+        "title": "第8話 クラスメイトのひみつ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726035378,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-13_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "203-13_eg0"
+}

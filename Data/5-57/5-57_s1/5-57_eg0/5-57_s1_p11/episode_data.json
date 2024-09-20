@@ -1,0 +1,147 @@
+{
+    "id": "5-57_s1_p11",
+    "series": {
+        "id": "5-57",
+        "title": "魔法つかいプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-57",
+            "filename": "thumb.png",
+            "query": "version=1723107923",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-57",
+            "filename": "portrait.png",
+            "query": "version=1723107923",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-57_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話　モフルンの初登校？ワクワクのトパーズをゲットモフ！",
+        "content": "リコはみらいの家で暮らし、学校にも通うことに。でも、魔法を使うことを知られてはいけないのに、ほうきに乗って登校するところを見られたり、こっそりついてきたモフルンとはーちゃんを見つかってしまい大慌て。モフルンは甘い匂いに気がつくのですが…。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "キュアミラクル/朝日奈みらい：高橋李依",
+            "キュアマジカル/十六夜リコ：堀江由衣",
+            "モフルン：齋藤彩夏",
+            "キュアフェリーチェ/花海ことは：早見沙織"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：野下 洋、植月幹夫、遠藤里紗、内藤圭祐",
+            "シリーズ構成：村山 功",
+            "シリーズディレクター：三塚雅人",
+            "製作担当：山崎尊宗",
+            "キャラクターデザイン：宮本絵美子",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "音楽：高木 洋"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721301518,
+    "endAt": 1740754800,
+    "transcodeVersion": "555WUb",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZhGM",
+        "facebook": "https://abema.app/RJBC",
+        "google": "https://abema.app/p2Mn",
+        "line": "https://abema.app/MF3H",
+        "copy": "https://abema.app/ZKc7",
+        "instagram": "https://abema.app/QUkL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-57_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-57_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-57_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-57_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.2621666666666,
+        "opening": {
+            "start": 52.052,
+            "end": 142.10029166666666
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1430.2204583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-57_s1_p12",
+        "title": "第12話　満天の星空とみらいの思い出",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721301531,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726644600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-57_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726644600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727307000
+        }
+    ],
+    "episodeGroupId": "5-57_eg0"
+}

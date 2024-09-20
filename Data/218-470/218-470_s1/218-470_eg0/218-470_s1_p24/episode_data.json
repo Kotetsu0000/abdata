@@ -1,0 +1,113 @@
+{
+    "id": "218-470_s1_p24",
+    "series": {
+        "id": "218-470",
+        "title": "5周年記念 声優と夜あそび28時間テレビ 大感謝祭 ~Say You Thank You~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "thumb.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "portrait.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-470_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 24,
+        "title": "ベストセレクション 1st 忘年会",
+        "content": "過去の「夜あそびの名場面」をＶＴＲで振り返る"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680241391,
+    "endAt": 1755702000,
+    "transcodeVersion": "37X4bt",
+    "sharedLink": {
+        "twitter": "https://abema.app/E2CH",
+        "facebook": "https://abema.app/jPDW",
+        "google": "https://abema.app/5YCr",
+        "line": "https://abema.app/vfhg",
+        "copy": "https://abema.app/L8hG",
+        "instagram": "https://abema.app/JzhT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-470_s1_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1464.9685
+    },
+    "nextProgramInfo": {
+        "programId": "218-470_s1_p25",
+        "title": "ベストセレクション ヒーローショー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1680241391,
+        "endAt": 1755702000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755702000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-470_s1_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755702000
+        }
+    ],
+    "episodeGroupId": "218-470_eg0"
+}

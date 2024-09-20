@@ -1,0 +1,121 @@
+{
+    "id": "218-706_s1_p1033",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 740
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1033,
+        "title": "#17：音楽プロデューサー・野崎圭一インタビュー後編",
+        "content": "「作品の立体感を作り上げるのが音楽」100作品以上のアニメ音楽をプロデュースしてきた野崎さんが日々心がけていることは？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126679,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "UZVTn",
+    "sharedLink": {
+        "twitter": "https://abema.app/i95X",
+        "facebook": "https://abema.app/iPYt",
+        "google": "https://abema.app/qncw",
+        "line": "https://abema.app/4ZrZ",
+        "copy": "https://abema.app/iQ25",
+        "instagram": "https://abema.app/74FA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p1033/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p1033/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-706_s1_p1033/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p1033/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p1033"
+    },
+    "viewingPoint": {
+        "suggestion": 735.4680666666667
+    },
+    "nextProgramInfo": {
+        "programId": "218-706_s1_p1035",
+        "title": "#18：声優養成所「青二塾」塾長・古川登志夫インタビュー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726126679,
+        "endAt": 1745074800,
+        "freeEndAt": 1745074800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1745074800
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p1033/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg2"
+}

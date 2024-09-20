@@ -1,0 +1,162 @@
+{
+    "id": "149-20_s1_p11",
+    "series": {
+        "id": "149-20",
+        "title": "人間不信の冒険者たちが世界を救うようです",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-20",
+            "filename": "thumb.png",
+            "query": "version=1674634126",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-20",
+            "filename": "portrait.png",
+            "query": "version=1674634126",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "149-20_s1",
+        "sequence": 1,
+        "name": "シリーズ1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 「サバイバーズVSステッピングマン」",
+        "content": "遂にたどり着いたステッピングマンの正体。彼を廃工場内へと追いつめたサバイバーズの前に現れたのは、黒い鎧に身を包んだ怪しげな男。圧倒的な力を見せつけられ、なすすべがないニックたち。絶体絶命のピンチを前にサバイバーズの総力戦が今、始まる！！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ニック：小林裕介",
+            "ティアーナ：渡部紗弓",
+            "カラン：菊池紗矢香",
+            "ゼム：土岐隼一",
+            "キズナ：小松未可子",
+            "アゲート：石原夏織"
+        ],
+        "crews": [
+            "原作：富士伸太（『人間不信の冒険者たちが世界を救うようです』MFブックス/KADOKAWA刊）",
+            "キャラクター原案：黒井ススム",
+            "原作企画：フロンティアワークス",
+            "監督/シリーズ構成：いまざきいつき",
+            "キャラクターデザイン/総作画監督：長尾浩生",
+            "プロップデザイン：野沢弘樹",
+            "色彩設計：近藤直登",
+            "美術監督：SeoJungho",
+            "美術設定：中原英統",
+            "助監督/撮影監督/編集：堀川和人",
+            "音楽：高橋 諒、宝野聡史、藤井亮太",
+            "音響監督：納谷僚介",
+            "音楽制作：ポニーキャニオン",
+            "音楽制作協力：アップドリーム",
+            "アニメーション制作：GEEKTOYS",
+            "アニメーション制作協力：アニメーションスタジオ・セブン"
+        ],
+        "copyrights": [
+            "(C)富士伸太/MFブックス「人間不信の冒険者たちが世界を救うようです」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683627628,
+    "endAt": 1743433200,
+    "transcodeVersion": "2RCvwS",
+    "sharedLink": {
+        "twitter": "https://abema.app/PcbA",
+        "facebook": "https://abema.app/nY9U",
+        "google": "https://abema.app/SPwZ",
+        "line": "https://abema.app/i53t",
+        "copy": "https://abema.app/XR7R",
+        "instagram": "https://abema.app/m6aD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/149-20_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/149-20_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/149-20_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.149-20_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1337.692888,
+        "opening": {
+            "start": 96.376249,
+            "end": 185.228612
+        },
+        "ending": {
+            "start": 1338.09561,
+            "end": 1415.886558
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "149-20_s1_p12",
+        "title": "第12話 「冒険者はまだ世界を救えない」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1683627628,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/149-20_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "149-20_eg0"
+}

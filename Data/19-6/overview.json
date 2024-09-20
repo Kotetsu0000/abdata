@@ -1,0 +1,74 @@
+{
+    "id": "19-6",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "灰と幻想のグリムガル",
+    "content": "目が覚めると、ハルヒロは暗闇の中にいた。ここがどこなのか、なぜここにいるのか、そしてどこから来たのかも分からないまま。周りには自分と同じ境遇らしき数名の男女。彼らとともに暗闇から踏み出した先には見たことのない世界、「グリムガル」が広がっていた……。\n記憶も、お金も、特別な力も――何もない僕たちが手に入れた現実。",
+    "seasons": [
+        {
+            "id": "19-6_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-6_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1689153467",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-6_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(Ｃ)2016 十文字青・オーバーラップ／灰と幻想のグリムガル製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1725351278508065106",
+    "imageUpdatedAt": 1649653854,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/XWBP",
+        "facebook": "https://abema.app/NdEo",
+        "google": "https://abema.app/KdwF",
+        "line": "https://abema.app/vP56",
+        "copy": "https://abema.app/51gU",
+        "instagram": "https://abema.app/W9kw"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-6",
+        "filename": "thumb.png",
+        "query": "version=1649653854",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-6",
+        "filename": "portrait.png",
+        "query": "version=1649653854",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,127 @@
+{
+    "id": "5-64_s1_p50",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 50,
+        "title": "第50話 無限にひろがる！わたしたちの世界！",
+        "content": "カイゼリンを助け出したスカイたちの前に、アンダーグエナジーの海からダイジャーグがあらわれる。しかしスカイたちにはかなわず、ダイジャーグが逃げ込んだ先は――"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722331210,
+    "endAt": 1740754800,
+    "transcodeVersion": "4zA2g5",
+    "sharedLink": {
+        "twitter": "https://abema.app/psSe",
+        "facebook": "https://abema.app/F6sm",
+        "google": "https://abema.app/3Unf",
+        "line": "https://abema.app/A6vM",
+        "copy": "https://abema.app/KQNE",
+        "instagram": "https://abema.app/jgwP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p50/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p50/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p50/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p50"
+    },
+    "viewingPoint": {
+        "suggestion": 1455.1620416666667,
+        "opening": {
+            "start": 28.069708333333335,
+            "end": 118.118
+        },
+        "ending": {
+            "start": 1307.681375,
+            "end": 1388.63725
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p50/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

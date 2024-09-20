@@ -1,0 +1,159 @@
+{
+    "id": "506-3_s1_p2",
+    "series": {
+        "id": "506-3",
+        "title": "おかしな転生",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-3",
+            "filename": "thumb.png",
+            "query": "version=1688953130",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-3",
+            "filename": "portrait.png",
+            "query": "version=1688953130",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "506-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話「パティシエと領地防衛戦」",
+        "content": "盗賊がモルテールン領のすぐ傍まで迫り、急ピッチで迎撃準備を進めるペイスたち。だが、戦力不足の問題が解決されないまま、ついに領内に敵が攻め込んでくる。そこでカセロールは自身を囮にした短期決戦を挑むことを決意。モルテールン家の従士長・シイツ=ビートウィンと共に敵陣へと乗り込んでいく。その頃、父親から留守を任されたペイスは、幼馴染のマルカルロ=ドロバやルミニート=アイドリハッパらと協力してとある作戦の準備を進める……。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ペイストリー=ミル=モルテールン：村瀬 歩",
+            "マルカルロ=ドロバ：藤原 夏海",
+            "ルミニート=アイドリハッパ：内田 真礼",
+            "リコリス=ミル=フバーレク：本渡 楓",
+            "カセロール=ミル=モルテールン：土田 大",
+            "ジョゼフィーネ=ミル=モルテールン：大久保 瑠美",
+            "シイツ=ビートウィン：若林 佑",
+            "ペトラ=ミル=フバーレク：奥野 香耶",
+            "スクヮーレ=ミル=カドレチェク：加藤 渉",
+            "アニエス=ミル=モルテールン：生天目 仁美",
+            "ブリオシュ=サルグレット=ミル=レーテシュ：日笠 陽子"
+        ],
+        "crews": [
+            "原作：古流 望「おかしな転生」(TOブックス刊)",
+            "原作イラスト：珠梨 やすゆき",
+            "監督：葛谷 直行",
+            "シリーズ構成・脚本：広田 光毅",
+            "キャラクターデザイン：宮川 知子",
+            "音楽：中村 博",
+            "アニメーション制作：SynergySP",
+            "アニメーション制作協力：スタジオコメット"
+        ],
+        "copyrights": [
+            "(C)古流望・ＴＯブックス／おかしな転生製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695359395,
+    "endAt": 1727708400,
+    "transcodeVersion": "69mNo9",
+    "sharedLink": {
+        "twitter": "https://abema.app/TuFr",
+        "facebook": "https://abema.app/xHtC",
+        "google": "https://abema.app/CwXu",
+        "line": "https://abema.app/bH6Y",
+        "copy": "https://abema.app/GTx5",
+        "instagram": "https://abema.app/L2EV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/506-3_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/506-3_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/506-3_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.506-3_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.055266,
+        "opening": {
+            "start": 111.165252,
+            "end": 200.942664
+        },
+        "ending": {
+            "start": 1325.417923,
+            "end": 1414.020144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "506-3_s1_p3",
+        "title": "第3話「アップルパイは笑顔と共に」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1695359395,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/506-3_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "506-3_eg0"
+}

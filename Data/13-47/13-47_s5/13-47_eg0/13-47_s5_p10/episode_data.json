@@ -1,0 +1,152 @@
+{
+    "id": "13-47_s5_p10",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s5",
+        "sequence": 5,
+        "name": "銀魂’",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第211話 墓場で暴れるのは幽霊だけでない",
+        "content": "溝鼠組の構成員に手を出し窮地に立たされた銀時らは、全ては次郎長にかぶき町の天下をとらせるための策略に巻き込まれたことを知る。そして黒駒勝男も属する次郎長一家は、この町を手に入れるために既に動き出していた。最初に狙われたのは次郎長が最も忌み嫌う人物、お登勢。彼女を救える方法はたった一つ、銀時が次郎長一家に入ること！ 要求を呑まなければお登勢が狙われ、自分も命は無いと決断を迫られた銀時が下した決断は…。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "坂田銀時:杉田智和",
+            "志村新八:阪口大助",
+            "神楽:釘宮理恵",
+            "定春:高橋美佳子",
+            "近藤 勲:千葉進歩",
+            "土方十四郎:中井和哉",
+            "沖田総悟:鈴村健一",
+            "山崎 退:太田哲治",
+            "松平栗虎:若本規夫",
+            "桂 小太郎:石田 彰",
+            "志村 妙:雪野五月",
+            "お登勢:くじら",
+            "キャサリン:杉本ゆう",
+            "長谷川泰三:立木文彦",
+            "猿飛あやめ:小林ゆう",
+            "寺門 通:高橋美佳子"
+        ],
+        "crews": [
+            "原作:空知英秋",
+            "監督:藤田陽一"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296391,
+    "endAt": 1751295600,
+    "transcodeVersion": "FhDKH",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/fKqnZ",
+        "facebook": "https://gxyt4.app.goo.gl/mXgE9",
+        "google": "https://gxyt4.app.goo.gl/bKHBi",
+        "line": "https://gxyt4.app.goo.gl/LQi61",
+        "copy": "https://gxyt4.app.goo.gl/19vA1",
+        "instagram": "https://gxyt4.app.goo.gl/FwpXP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-47_s5_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-47_s5_p10/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-47_s5_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-47_s5_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1333.983474,
+        "opening": {
+            "end": 91.029811
+        },
+        "ending": {
+            "start": 1330.295953,
+            "end": 1419.885714
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-47_s5_p11",
+        "title": "第212話 侠の鎖",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296392,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-47_s5_p10/timeline",
+        "query": "version=FhDKH",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

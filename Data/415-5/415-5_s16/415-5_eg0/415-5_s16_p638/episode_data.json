@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s16_p638",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s16",
+        "sequence": 16,
+        "name": "season16",
+        "thumbComponent": {},
+        "order": 16
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 638,
+        "title": "第638話 紅葉御殿で謎を解く（前編）",
+        "content": "ひょんな事から中北楓と運転手の須坂衛子と知り合い、紅葉御殿と呼ばれる片寄王三郎の屋敷に案内されたコナン、小五郎、蘭。楓は交通事故で両親を失い、王三郎に最近引き取られたという。午後３時に人と会う約束をしていた王三郎が部屋で毒殺される事件が発生。コナンは状況を見て犯人が近くにいると推理するが…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･石山桂一",
+            "プロデューサー：北田修一･山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066310,
+    "endAt": 1740754800,
+    "transcodeVersion": "7AA3dH",
+    "sharedLink": {
+        "twitter": "https://abema.app/zz2d",
+        "facebook": "https://abema.app/kQpv",
+        "google": "https://abema.app/rbw5",
+        "line": "https://abema.app/6XUE",
+        "copy": "https://abema.app/VKk4",
+        "instagram": "https://abema.app/AboM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s16_p638/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s16_p638/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s16_p638/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s16_p638"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.9922333333334,
+        "opening": {
+            "start": 69.13573333333333,
+            "end": 155.9558
+        },
+        "ending": {
+            "start": 1313.2786333333333,
+            "end": 1393.1584333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s16_p639",
+        "title": "第639話 紅葉御殿で謎を解く（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066310,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s16_p638/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

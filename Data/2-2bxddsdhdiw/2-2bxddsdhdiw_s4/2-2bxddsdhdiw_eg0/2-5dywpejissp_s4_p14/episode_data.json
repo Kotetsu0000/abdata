@@ -1,0 +1,149 @@
+{
+    "id": "2-5dywpejissp_s4_p14",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s4",
+        "sequence": 4,
+        "name": "第4シリーズ",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 14,
+        "title": "第14話 キーンの過去",
+        "content": "キーンとの賭けに敗れた吾郎。思いは複雑だが、キーンのリードでチームが勝っているので、何もいえない。次のバイパース戦、先発のケサダは、前回の対戦でホームランをあびた敵の4番に、今度は抑える、と燃えていたが、キーンは敬遠を指示し、冷徹に「プライドを捨てろ」といい放つ…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "ジョー・ギブソンJr.：浪川大輔",
+            "陣内アリス：榎本温子",
+            "サンダース：石井康嗣",
+            "キーン：森川智之"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "中村能子"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "4yA58F",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/tDZpt",
+        "facebook": "https://gxyt4.app.goo.gl/uED9a",
+        "google": "https://gxyt4.app.goo.gl/z1jRH",
+        "line": "https://gxyt4.app.goo.gl/AbCmq",
+        "copy": "https://gxyt4.app.goo.gl/fhkPk",
+        "instagram": "https://gxyt4.app.goo.gl/uL5p5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p14/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p14/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-5dywpejissp_s4_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 110.666438,
+            "end": 198.133063
+        },
+        "ending": {
+            "start": 1366.078393,
+            "end": 1454.964679
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-5dywpejissp_s4_p15",
+        "title": "第15話 ヒーロー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-5dywpejissp_s4_p14/timeline",
+        "query": "version=4yA58F",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

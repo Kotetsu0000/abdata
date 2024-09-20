@@ -1,0 +1,145 @@
+{
+    "id": "13-21iyycernntt_s0_p43",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s2",
+        "sequence": 2,
+        "name": "2年目",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 43,
+        "title": "第92話 人の短所を見るより長所を見つけられる人になれ",
+        "content": "絶対に油断や過信をせず、あらゆる作戦を練りに練り、己の安全を万全に期したのち、確実にターゲットをしとめる…。自らを臆病者と称する暗殺者、人呼んで殺し屋“亀”が、ある仕事の依頼を受けた。ターゲットは、幕府の警察庁長官・松平片栗虎。半年間もの間彼を見張り続け、ついに計画実行の日を迎える。丹念に手入れした愛銃の引き金に指をかけ、標的を待つ“亀”。しかしそこに現れた人物は、松平ではなく銀時だった。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296388,
+    "endAt": 1743433200,
+    "transcodeVersion": "4HynFW",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZhRW",
+        "facebook": "https://abema.app/cVG6",
+        "google": "https://abema.app/5nWJ",
+        "line": "https://abema.app/LLSB",
+        "copy": "https://abema.app/rthW",
+        "instagram": "https://abema.app/fkTh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p43/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p43/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p43/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-21iyycernntt_s0_p43"
+    },
+    "viewingPoint": {
+        "suggestion": 1409.896466,
+        "opening": {
+            "start": 303.987151,
+            "end": 391.010933
+        },
+        "ending": {
+            "start": 1090.110333,
+            "end": 1178.564366
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-21iyycernntt_s0_p44",
+        "title": "第93話 ヒーローだって悩んでる",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296388,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-21iyycernntt_s0_p43/timeline",
+        "query": "version=4HynFW",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

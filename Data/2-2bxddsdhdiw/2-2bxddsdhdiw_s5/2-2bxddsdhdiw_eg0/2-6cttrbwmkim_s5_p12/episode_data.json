@@ -1,0 +1,148 @@
+{
+    "id": "2-6cttrbwmkim_s5_p12",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s5",
+        "sequence": 5,
+        "name": "第5シリーズ",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 呪縛",
+        "content": "ドミニカ対ベネズエラ戦を観にきた吾郎たちだったが、ドミニカのスタメンには主力選手がほとんどいなかった！体調不良の選手をベネズエラ戦で休ませ、日本戦に勝つほうが簡単と考えたらしい。日本は、ドミニカ戦に負けると、決勝リーグに進めない可能性がある。一方その翌日、清水は日本人少女の和香と知り合うが…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "佐藤寿也：森田成一",
+            "京四郎：内田夕夜",
+            "板尾：乃村健次",
+            "勝呂：松本保典"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理敬　吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "3HqqDX",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/QpGQk",
+        "facebook": "https://gxyt4.app.goo.gl/fVvSF",
+        "google": "https://gxyt4.app.goo.gl/GR9mW",
+        "line": "https://gxyt4.app.goo.gl/uv1Sc",
+        "copy": "https://gxyt4.app.goo.gl/AGQEY",
+        "instagram": "https://gxyt4.app.goo.gl/9Td4x"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-6cttrbwmkim_s5_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 2.25516,
+            "end": 89.298694
+        },
+        "ending": {
+            "start": 1365.450674,
+            "end": 1454.542898
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-6cttrbwmkim_s5_p13",
+        "title": "第13話 日本の野球",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-6cttrbwmkim_s5_p12/timeline",
+        "query": "version=3HqqDX",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

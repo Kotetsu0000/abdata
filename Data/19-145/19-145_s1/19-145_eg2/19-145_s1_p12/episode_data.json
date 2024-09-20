@@ -1,0 +1,137 @@
+{
+    "id": "19-145_s1_p12",
+    "series": {
+        "id": "19-145",
+        "title": "ギヴン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-145",
+            "filename": "thumb.png",
+            "query": "version=1669800059",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-145",
+            "filename": "portrait.png",
+            "query": "version=1669800059",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-145_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1343
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "ギヴン うらがわの存在",
+        "content": "高校生の上ノ山立夏は、佐藤真冬の歌声に衝撃を受け、中山春樹、梶秋彦と組んでいるバンドにボーカルとして真冬を加入させる。真冬加入後初のライブを成功させ、バンド「ギヴン」の活動が始動する中、立夏は真冬への想いを自覚し、ふたりは付き合い始める。夏休みに入り、フェス出場権をかけた次のライブに向け練習を重ねるメンバーたち。しかし、真冬は新曲作りに行き詰まっていた。そんな真冬を歯痒くも見守る立夏だったが、ささいなきっかけで二人は衝突してしまい・・・"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "佐藤真冬：矢野奨吾",
+            "上ノ山立夏：内田雄馬",
+            "中山春樹：中澤まさとも",
+            "梶秋彦：江口拓也"
+        ],
+        "crews": [
+            "監督：大橋明代",
+            "原作：キヅナツキ「ギヴン」（新書館「シェリプラス」掲載）",
+            "脚本：綾奈ゆにこ",
+            "キャラクターデザイン：大沢美奈",
+            "総作画監督：永田陽菜",
+            "美術監督：本田光平",
+            "色彩設計：加口大朗",
+            "撮影監督：芹澤直樹",
+            "撮影監督補佐：中川せな",
+            "ＣＧ監督：水野朋也",
+            "音響監督：菊田浩巳",
+            "音楽：未知瑠",
+            "編集：伊藤利恵",
+            "アニメーションプロデューサー：比嘉勇二・秋田信人"
+        ],
+        "copyrights": [
+            "（C）キヅナツキ・新書館／ギヴン製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1702862777,
+    "endAt": 1738335600,
+    "transcodeVersion": "4cjdBY",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ubpm",
+        "facebook": "https://abema.app/w5kh",
+        "google": "https://abema.app/KDho",
+        "line": "https://abema.app/nmHo",
+        "copy": "https://abema.app/XWHM",
+        "instagram": "https://abema.app/jPWm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-145_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-145_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-145_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-145_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1338.337,
+        "ending": {
+            "start": 1218.7175,
+            "end": 1309.683375
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-145_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-145_eg2"
+}

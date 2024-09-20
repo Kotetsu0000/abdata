@@ -1,0 +1,149 @@
+{
+    "id": "13-21iyycernntt_s0_p5",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s2",
+        "sequence": 2,
+        "name": "2年目",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第54話 どこの母ちゃんもだいたい同じ",
+        "content": "突然万事屋に乗り込んできた「おかん」。上京したまま消息を絶った息子・八郎を捜すため、万事屋に勝手に転がり込んでしまったのだ。あれこれ世話を焼いてくれるおかんに戸惑いつつ、写真を手がかりに八郎の捜索を始める銀時たち。何度か整形していることを突き止め、写真にマジックで髪と髭を面白半分に描き足す彼らの前を、その落書きされた写真にそっくりな八郎という名の男が通り過ぎた。その男こそが八郎に間違いないと確信する銀時たちは、おかんと八郎を引きあわせようとするが…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296387,
+    "endAt": 1743433200,
+    "transcodeVersion": "3hLAZ1",
+    "sharedLink": {
+        "twitter": "https://abema.app/GGhp",
+        "facebook": "https://abema.app/Y91r",
+        "google": "https://abema.app/hH31",
+        "line": "https://abema.app/F8Sh",
+        "copy": "https://abema.app/H6nC",
+        "instagram": "https://abema.app/aUZ2"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-21iyycernntt_s0_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1371.991933,
+        "opening": {
+            "start": 165.052866,
+            "end": 254.0074
+        },
+        "ending": {
+            "start": 1371.991933,
+            "end": 1463.015199
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-21iyycernntt_s0_p6",
+        "title": "第55話 ものを食べるとき　クチャクチャ音をたてない",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296387,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726719120
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-21iyycernntt_s0_p5/timeline",
+        "query": "version=3hLAZ1",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726719120
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727354220
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

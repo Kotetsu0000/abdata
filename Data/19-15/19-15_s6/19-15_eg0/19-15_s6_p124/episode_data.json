@@ -1,0 +1,147 @@
+{
+    "id": "19-15_s6_p124",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 124,
+        "title": "第124話 ダビダンス",
+        "content": "一般人に変身していたトガと交戦するお茶子。トガは「同じ人を好きな女の子」としてお茶子に言葉を投げかけていく。彼女の想いとは…!? 一方、瀕死の重傷を負ったデクと死柄木。オール・フォー・ワン(AFO)は退散を促すが、死柄木の意志がそれを許さない。そんな死柄木とAFOを轟たちが追い詰めていく！しかし、圧倒的なパワーと巨体を持つギガントマキアが現れたことで戦いの状況は逆転する。そして、ギガントマキアの肩の上から、荼毘が轟とエンデヴァーを見下ろしながら、2人に対し衝撃の事実を告白する…。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872427,
+    "endAt": 1759244400,
+    "transcodeVersion": "37ipit",
+    "sharedLink": {
+        "twitter": "https://abema.app/mgoR",
+        "facebook": "https://abema.app/Z9Fg",
+        "google": "https://abema.app/UmJb",
+        "line": "https://abema.app/FrNx",
+        "copy": "https://abema.app/wbw1",
+        "instagram": "https://abema.app/W3pX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p124/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p124/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p124/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p124"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.1004583333333,
+        "opening": {
+            "start": 24.024,
+            "end": 113.988875
+        },
+        "ending": {
+            "start": 1310.1004583333333,
+            "end": 1400.023625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s6_p125",
+        "title": "第125話 一縷の希望たち",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872427,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p124/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

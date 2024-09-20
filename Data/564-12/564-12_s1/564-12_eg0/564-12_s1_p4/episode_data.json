@@ -1,0 +1,171 @@
+{
+    "id": "564-12_s1_p4",
+    "series": {
+        "id": "564-12",
+        "title": "ダンジョンの中のひと",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-12",
+            "filename": "thumb.png",
+            "query": "version=1720761331",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-12",
+            "filename": "portrait.png",
+            "query": "version=1720761331",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "564-12_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 シーフギルドとダンジョン",
+        "content": "クレイとベルは「アントムルグのシーフギルド」に向かっていた。そこには、ギルドマスターのレンヒリンジとフーリンの姿が。ギルドとダンジョンは裏で繋がっており、支給されていた探索アイテムがダンジョン産だったと知り、ベルの掌で転がされていたといじけるクレイ。そんなクレイにベルは、先代の管理人が考案したことで自身は引き継いだだけだと弁解する。そして、特殊といわれる「アントムルグのシーフギルド」について、その成り立ちが明かされる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クレイ：千本木彩花",
+            "ベル：鈴代紗弓",
+            "ランガド：楠見尚己",
+            "先代：飛田展男",
+            "レンヒリンジ：大塚芳忠",
+            "フーリン：M・A・O",
+            "フェン：加藤渉",
+            "ラッタ：榊原優希",
+            "ブランス：大塚明夫"
+        ],
+        "crews": [
+            "原作：双見酔(双葉社「webアクション」連載)",
+            "監督：山井紗也香",
+            "シリーズ構成：竹内利光",
+            "キャラクターデザイン：中山裕美",
+            "美術監督：加藤賢司",
+            "色彩設計：佐藤直",
+            "撮影監督：佐藤敦",
+            "編集：後田良樹",
+            "音響監督：立石弥生",
+            "音響制作：ブシロードムーブ",
+            "音楽：Pieru　LASTorder",
+            "音楽制作：ユーズミュージック",
+            "アニメーション制作：OLM",
+            "製作：製作委員会の中のひと"
+        ],
+        "copyrights": [
+            "(C)双見酔／双葉社・製作委員会の中のひと"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035328,
+    "endAt": 1767193200,
+    "freeEndAt": 1727016300,
+    "transcodeVersion": "3WMexm",
+    "sharedLink": {
+        "twitter": "https://abema.app/3hLm",
+        "facebook": "https://abema.app/8nsZ",
+        "google": "https://abema.app/PXQG",
+        "line": "https://abema.app/ZM2a",
+        "copy": "https://abema.app/3ayF",
+        "instagram": "https://abema.app/yXma"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/564-12_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/564-12_s1_p4/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/564-12_s1_p4/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/564-12_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.564-12_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.0540416666668,
+        "opening": {
+            "start": 24.024,
+            "end": 114.03058333333334
+        },
+        "ending": {
+            "start": 1347.0540416666668,
+            "end": 1437.0189166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "564-12_s1_p5",
+        "title": "第5話 仕事仲間、家族",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726035328,
+        "endAt": 1767193200,
+        "freeEndAt": 1727016300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727016300
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/564-12_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727016300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "564-12_eg0"
+}

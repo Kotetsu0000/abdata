@@ -1,0 +1,121 @@
+{
+    "id": "218-706_s1_p2007",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 401
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2007,
+        "title": "#3：歌手/声優・佐々木李子がスタジオに登場！",
+        "content": "TVアニメ「リンカイ！」のオープニング主題歌を担当し、声優としても活躍中の佐々木李子がゲスト出演！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126680,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "7K7ouW",
+    "sharedLink": {
+        "twitter": "https://abema.app/cj2b",
+        "facebook": "https://abema.app/pYmt",
+        "google": "https://abema.app/S3xH",
+        "line": "https://abema.app/kNCR",
+        "copy": "https://abema.app/wu1o",
+        "instagram": "https://abema.app/jsYR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p2007/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p2007/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-706_s1_p2007/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p2007/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p2007"
+    },
+    "viewingPoint": {
+        "suggestion": 396.96323333333333
+    },
+    "nextProgramInfo": {
+        "programId": "218-706_s1_p2010",
+        "title": "#4：アニメ「〈物語〉シリーズ」の見どころを深掘り！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726126680,
+        "endAt": 1745074800,
+        "freeEndAt": 1745074800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1745074800
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p2007/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg3"
+}

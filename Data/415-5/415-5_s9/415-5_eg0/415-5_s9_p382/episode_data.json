@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s9_p382",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s9",
+        "sequence": 9,
+        "name": "season9",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1491
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 382,
+        "title": "第382話 どっちの推理ショー（後編）",
+        "content": "平次と和葉は、小五郎が依頼されていた殺人事件の推理勝負をすることになった。コナンと平次はお互いに、殺された辻谷玩具製作所の社長・辻谷賢仁の部屋で違和感を感じると明かすが、なぜそう思うのか、まだはっきりとしない。いっぽう、和葉が平次のヒントを基にして、ついにダイイング・メッセージの謎を解く。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066304,
+    "endAt": 1740754800,
+    "transcodeVersion": "442WqS",
+    "sharedLink": {
+        "twitter": "https://abema.app/VnZV",
+        "facebook": "https://abema.app/mJvw",
+        "google": "https://abema.app/cvGr",
+        "line": "https://abema.app/HMoC",
+        "copy": "https://abema.app/KP2h",
+        "instagram": "https://abema.app/d5Ca"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s9_p382/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s9_p382/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s9_p382/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s9_p382"
+    },
+    "viewingPoint": {
+        "suggestion": 1446.1780666666666,
+        "opening": {
+            "start": 32.29893333333333,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1296.7287666666666,
+            "end": 1381.7136666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s9_p383",
+        "title": "第383話 甲子園の奇跡！見えない悪魔に負けず嫌い",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066304,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s9_p382/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

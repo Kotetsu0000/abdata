@@ -1,0 +1,149 @@
+{
+    "id": "19-15_s0_p2",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s1",
+        "sequence": 1,
+        "name": "第1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 ヒーローの条件",
+        "content": "ヘドロヴィランから出久を救ったのは”平和の象徴”とも称されるNo.1ヒーローのオールマイトだった。出久が「個性がなくてもヒーローになれますか？」と彼に問いかけたその瞬間、目の前に現れたのは、過去の戦いにおける重傷で痩せ細ってしまったオールマイトの真の姿！「ヒーローはいつだって命がけ」その過酷さと自身の夢を叶える厳しさを憧れの人から告げられ、出久は絶望する。そんな中、オールマイトが捕まえたはずのヘドロヴィランが逃走し、下校中の爆豪が取り込まれてしまう！"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "オールマイト：三宅健太",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平(集英社「週刊少年ジャンプ」連載)",
+            "シリーズ構成：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725872421,
+    "endAt": 1759244400,
+    "freeEndAt": 1759244400,
+    "transcodeVersion": "Q7ZQS",
+    "sharedLink": {
+        "twitter": "https://abema.app/bDU3",
+        "facebook": "https://abema.app/t5P6",
+        "google": "https://abema.app/BTSs",
+        "line": "https://abema.app/w6Qm",
+        "copy": "https://abema.app/4Y6N",
+        "instagram": "https://abema.app/rrmY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s0_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s0_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-15_s0_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s0_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s0_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.0487,
+        "opening": {
+            "start": 153.0529,
+            "end": 242.97606666666667
+        },
+        "ending": {
+            "start": 1350.0487,
+            "end": 1440.0052333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s0_p3",
+        "title": "第3話 うなれ筋肉",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872421,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s0_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

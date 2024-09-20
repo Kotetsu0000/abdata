@@ -1,0 +1,154 @@
+{
+    "id": "203-7_s1_p69",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 69,
+        "title": "第69話 トレモロvsディノワ",
+        "content": "遊歩たち特別チームは“人間をカード化するシステム”の解明を進めていた。チームメンバーのディノワは、フェイザーがイセキの秘密を隠していると疑いトレモロを問い詰める。兄を疑われたトレモロは逆にズウィージョウを疑い、ディノワにデュエルを仕掛ける！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944781,
+    "endAt": 1743433200,
+    "transcodeVersion": "4yE1y6",
+    "sharedLink": {
+        "twitter": "https://abema.app/fa2j",
+        "facebook": "https://abema.app/HY9u",
+        "google": "https://abema.app/EPjN",
+        "line": "https://abema.app/wa9Q",
+        "copy": "https://abema.app/MkoX",
+        "instagram": "https://abema.app/T2Rm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p69/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p69/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p69/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p69"
+    },
+    "viewingPoint": {
+        "suggestion": 1320.075288,
+        "opening": {
+            "start": 133.154769,
+            "end": 222.552915
+        },
+        "ending": {
+            "start": 1320.476163,
+            "end": 1409.507336
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-7_s1_p70",
+        "title": "第70話 強襲！ファンシーケース",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944781,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p69/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

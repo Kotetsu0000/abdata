@@ -1,0 +1,137 @@
+{
+    "id": "218-562_s1_p123",
+    "series": {
+        "id": "218-562",
+        "title": "声優と夜あそび 2023",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-562",
+            "filename": "thumb.png",
+            "query": "version=1680764817",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-562",
+            "filename": "portrait.png",
+            "query": "version=1680764817",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-562_s1",
+        "sequence": 1,
+        "name": "見どころ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_39",
+                "name": "AbemaTVオリジナル"
+            },
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 368
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 123,
+        "title": "＜見どころ無料配信＞【安元洋貴×八代拓】 #23",
+        "content": "10/23放送分の見どころをお届け！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "月曜日：安元洋貴×八代拓",
+            "火曜日：谷山紀章×下野紘",
+            "水曜日：上坂すみれ×鈴木愛奈",
+            "木曜日：浪川大輔×花江夏樹",
+            "金曜日：関智一×岡本信彦",
+            "繋：金田朋子×仲村宗悟",
+            "ウォーカーズ：森久保祥太郎×○○",
+            "WEEKEND：石川界人×○○"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1714624426,
+    "endAt": 1792681200,
+    "freeEndAt": 1792681200,
+    "transcodeVersion": "4KFweU",
+    "sharedLink": {
+        "twitter": "https://abema.app/5YNQ",
+        "facebook": "https://abema.app/qev1",
+        "google": "https://abema.app/fSAn",
+        "line": "https://abema.app/KEs5",
+        "copy": "https://abema.app/ga8n",
+        "instagram": "https://abema.app/Bwfv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-562_s1_p123/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-562_s1_p123/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-562_s1_p123/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-562_s1_p123/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-562_s1_p123"
+    },
+    "viewingPoint": {
+        "suggestion": 363.368
+    },
+    "nextProgramInfo": {
+        "programId": "218-562_s1_p124",
+        "title": "＜見どころ無料配信＞【安元洋貴×八代拓】 #24",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1714624426,
+        "endAt": 1793286000,
+        "freeEndAt": 1793286000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1793286000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-562_s1_p123/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1792681200
+        }
+    ],
+    "episodeGroupId": "218-562_eg3"
+}

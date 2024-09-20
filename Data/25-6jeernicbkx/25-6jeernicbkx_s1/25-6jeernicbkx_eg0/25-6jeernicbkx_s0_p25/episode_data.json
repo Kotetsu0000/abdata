@@ -1,0 +1,129 @@
+{
+    "id": "25-6jeernicbkx_s0_p25",
+    "series": {
+        "id": "25-6jeernicbkx",
+        "title": "とらドラ！",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-6jeernicbkx",
+            "filename": "thumb.png",
+            "query": "version=1681283259",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-6jeernicbkx",
+            "filename": "portrait.png",
+            "query": "version=1681283259",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-6jeernicbkx_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1400
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 25,
+        "title": "第25話 「とらドラ!」",
+        "content": "竜児と大河が訪れた泰子の実家には、初めて会う祖父母、そして竜児の計画にまんまと乗せられ、十数年ぶりに実家の敷居をまたぐことになった泰子が待っていた……。その晩、竜児と大河は祖父母や大河の両親、仲間たち、みんなに祝福してもらえるような幸せを築こうと誓い合う。翌日、ふたりは泰子とともに東京の高須家へと帰って来た。竜児が晩御飯の仕度をしている間、大河は自分の部屋へ着替えに帰ることに。実の母親が残した留守電メッセージを聞き終えると、大河はふと思う。｢私はもう逃げない｣と! 自分は竜児のために変わらなければならないと決意した大河は、思いも寄らない行動に出る!! 竜児はそんな彼女をひたすら信じて……。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "逢坂大河：釘宮理恵",
+            "高須竜児：間島淳司",
+            "櫛枝実乃梨：堀江由衣",
+            "北村祐作：野島裕史",
+            "川嶋亜美：喜多村英梨",
+            "他"
+        ],
+        "crews": [
+            "原作：竹宮ゆゆこ(アスキー・メディアワークス；電撃文庫)",
+            "原作イラスト：ヤス",
+            "監督：長井龍雪",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン：田中将賀",
+            "他"
+        ],
+        "copyrights": [
+            "(C)竹宮ゆゆこ／アスキー・メディアワークス／｢とらドラ!｣製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1689062124,
+    "endAt": 1756652400,
+    "freeEndAt": 1726700400,
+    "transcodeVersion": "22iTem",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/GM1TR",
+        "facebook": "https://gxyt4.app.goo.gl/Mmm62",
+        "google": "https://gxyt4.app.goo.gl/nuzze",
+        "line": "https://gxyt4.app.goo.gl/fU2Wo",
+        "copy": "https://gxyt4.app.goo.gl/AsToU",
+        "instagram": "https://gxyt4.app.goo.gl/rEUXm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-6jeernicbkx_s0_p25/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-6jeernicbkx_s0_p25/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/25-6jeernicbkx_s0_p25/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-6jeernicbkx_s0_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-6jeernicbkx_s0_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1395.02
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-6jeernicbkx_s0_p25/timeline",
+        "query": "version=22iTem",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726700400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "25-6jeernicbkx_eg0"
+}

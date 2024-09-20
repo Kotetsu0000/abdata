@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s9_p351",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s9",
+        "sequence": 9,
+        "name": "season9",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1488
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 351,
+        "title": "第351話 忘れられた携帯電話（後編）",
+        "content": "喫茶店ポアロで携帯電話の持ち主捜しを頼まれた小五郎。コナンは携帯に入っていたメモリーの数字の暗号を解き、さらに、携帯を忘れた男は、わざと携帯を忘れ、電話をかけてきた男に携帯を渡そうとしていたのかもしれないと推理。だが、携帯を忘れた男は場所を間違えてしまったのだ。喫茶店ポアロと間違えた店というのは…。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066304,
+    "endAt": 1740754800,
+    "transcodeVersion": "79E2dZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/NHGi",
+        "facebook": "https://abema.app/b9fm",
+        "google": "https://abema.app/zoGK",
+        "line": "https://abema.app/PCzb",
+        "copy": "https://abema.app/2SDY",
+        "instagram": "https://abema.app/ePuZ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s9_p351/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s9_p351/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s9_p351/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s9_p351"
+    },
+    "viewingPoint": {
+        "suggestion": 1443.4086333333332,
+        "opening": {
+            "start": 15.348666666666666,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1271.7705,
+            "end": 1356.3883666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s9_p352",
+        "title": "第352話 フィッシング大会の悲劇（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066304,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s9_p351/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

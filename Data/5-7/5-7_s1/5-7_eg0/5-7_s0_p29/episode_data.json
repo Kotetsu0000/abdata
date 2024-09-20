@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p29",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 29,
+        "title": "第29話 ｢命ごいは遅すぎる！地獄へ落ちろ牙大王！！」",
+        "content": "レイに胸の７つの傷のことを話すケンシロウ。しかし、レイはケンシロウを信じていた。その頃ある街では、邪悪な仮面の男、偽のケンシロウが悪の限りを尽くしていた。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756425,
+    "endAt": 1732978800,
+    "transcodeVersion": "5Xq6do",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Ce5mP",
+        "facebook": "https://gxyt4.app.goo.gl/mTiZy",
+        "google": "https://gxyt4.app.goo.gl/cGRNu",
+        "line": "https://gxyt4.app.goo.gl/N69Yw",
+        "copy": "https://gxyt4.app.goo.gl/fLZcP",
+        "instagram": "https://gxyt4.app.goo.gl/tEYpM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p29/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p29/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p29/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p29"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.495688,
+        "opening": {
+            "start": 31.654822,
+            "end": 124.547722
+        },
+        "ending": {
+            "start": 1340.495688,
+            "end": 1430.318855
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p30",
+        "title": "第30話 ｢宿命はしのびよる！ジャギお前は何者！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756425,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p29/timeline",
+        "query": "version=5Xq6do",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

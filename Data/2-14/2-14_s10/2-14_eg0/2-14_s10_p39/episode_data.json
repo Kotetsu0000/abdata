@@ -1,0 +1,148 @@
+{
+    "id": "2-14_s10_p39",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 39,
+        "title": "第39話 カヌチャンとこだわりのハンマー",
+        "content": "工業製品が有名な街・テツロンタウンに買い出しに行ったリコ・ロイ・ドット。途中、ドットはリコとロイとはぐれてしまう。渋々単独行動をしていたところ、鉄くずをたたいてハンマーを作るというポケモン・カヌチャンに遭遇！カヌチャンはドットが買ったある物が気になるようで…！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャオハ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "監督：でんさおり",
+            "クリエイティブディレクター：冨安大貴",
+            "アクションディレクター：矢嶋哲生",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872173,
+    "endAt": 1747407600,
+    "transcodeVersion": "2583AB",
+    "sharedLink": {
+        "twitter": "https://abema.app/aob1",
+        "facebook": "https://abema.app/N5fd",
+        "google": "https://abema.app/U3aE",
+        "line": "https://abema.app/aERT",
+        "copy": "https://abema.app/BCnm",
+        "instagram": "https://abema.app/EdSf"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p39/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p39/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p39/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p39"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.4807083333333,
+        "opening": {
+            "start": 175.50866666666667,
+            "end": 265.139875
+        },
+        "ending": {
+            "start": 1327.451125,
+            "end": 1417.416
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p40",
+        "title": "第40話 さよなら、ニャオハ？",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872173,
+        "endAt": 1747407600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1747407600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p39/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1747407600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

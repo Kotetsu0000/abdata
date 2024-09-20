@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p26",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 26,
+        "title": "第26話 テイクオフ！飛行機でつながる想い",
+        "content": "久しぶりにましろの両親が海外から帰ってくることになり、空港まで迎えに来たソラたちは、空港内を見てまわるうちに、飛行機に詳しい翔子という女の子に出会う。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722330979,
+    "endAt": 1740754800,
+    "transcodeVersion": "2XjAXS",
+    "sharedLink": {
+        "twitter": "https://abema.app/TiFy",
+        "facebook": "https://abema.app/hDYG",
+        "google": "https://abema.app/XYYL",
+        "line": "https://abema.app/YodQ",
+        "copy": "https://abema.app/hY9w",
+        "instagram": "https://abema.app/eXS9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-64_s1_p26/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-64_s1_p26/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-64_s1_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.722375,
+        "opening": {
+            "start": 144.018875,
+            "end": 234.06716666666668
+        },
+        "ending": {
+            "start": 1348.722375,
+            "end": 1440.2304583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p27",
+        "title": "第27話 ミラーパッドでワクワクレッスン！？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722330990,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p26/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

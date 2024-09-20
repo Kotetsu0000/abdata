@@ -1,0 +1,144 @@
+{
+    "id": "512-11_s1_p12",
+    "series": {
+        "id": "512-11",
+        "title": "勇気爆発バーンブレイバーン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-11",
+            "filename": "thumb.png",
+            "query": "version=1706698786",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-11",
+            "filename": "portrait.png",
+            "query": "version=1706698786",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "512-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話『勇気爆発の、その先へ！！』",
+        "content": "ブレイバーンを失い、戦う意思をくじかれたイサミ。絶体絶命の危機に陥るイサミとルル。自分はヒーローにはなれない、それでも死にたくないと叫ぶイサミは、縋るようにコクピットに駆け込む。そこでイサミがみたものとは――\n　「キミなら、その先に行ける」 \n　「勇気爆発のその先に」 \n託された勇気を胸に、イサミは再び立ち上がる。  君たちは本当の勇気に出逢う。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "イサミ・アオ：鈴木崚汰",
+            "ルイス・スミス：阿座上洋平",
+            "ルル：会沢紗弥",
+            "ヒビキ・リオウ：宮本侑芽",
+            "ミユ・カトウ：加隈亜衣",
+            "ホノカ・スズナギ：前田佳織里",
+            "カレン・オルドレン：藤井ゆきよ",
+            "ニーナ・コワルスキー：森なな子",
+            "ハル・キング：三宅健太",
+            "トーマス・J・ブラウン：志村知幸"
+        ],
+        "crews": [
+            "企画：Cygames",
+            "監督：大張正己",
+            "シリーズ構成：小柳啓伍",
+            "キャラクターデザイン原案：かも仮面",
+            "キャラクターデザイン：本村晃一",
+            "メカニカルデザイン：MORUGA・桜水樹・石垣純哉・山根理宏・鈴木勘太",
+            "プロダクションデザイン：寺岡賢司",
+            "総作画監督：本村晃一・宇良隆太・小菅和久・小森篤",
+            "副監督：重原克也",
+            "美術監督：橋本巧(草薙)",
+            "色彩設計：岡崎菜々子",
+            "3DCGディレクター：中野祥典",
+            "撮影監督：林賢太",
+            "編集：三嶋章紀",
+            "音楽：渡邊崇",
+            "音響監督：大張正己",
+            "音響効果：小山恭正",
+            "音響制作：dugout",
+            "アニメーション制作：CygamesPictures"
+        ],
+        "copyrights": [
+            "(C)「勇気爆発バーンブレイバーン」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711794162,
+    "endAt": 1743433200,
+    "transcodeVersion": "5gzFT9",
+    "sharedLink": {
+        "twitter": "https://abema.app/GyBm",
+        "facebook": "https://abema.app/KEPL",
+        "google": "https://abema.app/pbap",
+        "line": "https://abema.app/p92U",
+        "copy": "https://abema.app/8hv9",
+        "instagram": "https://abema.app/37qK"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/512-11_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/512-11_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/512-11_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.512-11_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1338.8792083333333,
+        "ending": {
+            "start": 1338.8792083333333,
+            "end": 1419.8767916666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/512-11_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "512-11_eg0"
+}

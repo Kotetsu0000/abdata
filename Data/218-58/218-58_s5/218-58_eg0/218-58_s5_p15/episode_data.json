@@ -1,0 +1,129 @@
+{
+    "id": "218-58_s5_p15",
+    "series": {
+        "id": "218-58",
+        "title": "声優と夜あそび",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-58",
+            "filename": "thumb.png",
+            "query": "version=1632406377",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-58",
+            "filename": "portrait.png",
+            "query": "version=1632406377",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-58_s5",
+        "sequence": 5,
+        "name": "金曜日",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_39",
+                "name": "AbemaTVオリジナル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4763
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "【関智一×佐藤拓也】 #15",
+        "content": "【この番組は放送後1週間、Abemaビデオで何回でも無料見逃し視聴が可能！】【金曜日は、関智一×佐藤拓也】業界初・声優レギュラー番組を毎日生放送！人気声優が2名ずつ、曜日ごとにMCを担当。平日毎日、夜10時より90分の生放送でお届けします。また、番組内「夜あそび選手権」ではプレゼントキャンペーンも実施中！放送中、優勝した曜日の指定ハッシュタグをツイートした方の中から抽選で5名様に「キャストサイン入りAbemaTVオリジナルサイン色紙」をプレゼント！さらに、番組中、他プレゼントキャンペーンが入る可能性も！お見逃しなく！\n\n＜出演キャスト＞\n月曜日：緒方恵美×内田彩\n火曜日：小野友樹×大坪由佳\n水曜日：五十嵐裕美×三上枝織\n木曜日：浪川大輔×谷山紀章\n金曜日：関智一×佐藤拓也"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "関智一",
+            "佐藤拓也"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1679548598,
+    "endAt": 1804863600,
+    "transcodeVersion": "3jHZMd",
+    "sharedLink": {
+        "twitter": "https://abema.app/FSme",
+        "facebook": "https://abema.app/nisw",
+        "google": "https://abema.app/3JfM",
+        "line": "https://abema.app/KJDs",
+        "copy": "https://abema.app/VQVR",
+        "instagram": "https://abema.app/FLNa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-58_s5_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-58_s5_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-58_s5_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-58_s5_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 4758.72
+    },
+    "nextProgramInfo": {
+        "programId": "218-58_s5_p17",
+        "title": "【関智一×佐藤拓也】 #17",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1679548598,
+        "endAt": 1804863600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1804863600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-58_s5_p15/timeline",
+        "query": "version=3jHZMd",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1804863600
+        }
+    ],
+    "episodeGroupId": "218-58_eg0"
+}

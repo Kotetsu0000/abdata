@@ -1,0 +1,145 @@
+{
+    "id": "13-11_s0_p30",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s3",
+        "sequence": 3,
+        "name": "3年目",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 30,
+        "title": "第129話 拾い食いに気をつけろ",
+        "content": "近頃めっきり食欲がない定春を心配し、動物病院に連れて行く神楽。すると偶然、桂がそこに居合わせる。最近エリザベスの調子が悪く、手術をするために入院することになったのだという。幸い定春は重大な病気ではなかったものの、大事をとって一日だけ病院に泊まって行くことに。同じ頃、その病院に入院中の老犬が今まさに息を引き取ろうとしていた。どうやら飼い主も危篤状態らしく、お互いに死を待つのみの状況だという。その姿を見た神楽は、老犬を飼い主のもとへ連れて行こうと決意する。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296389,
+    "endAt": 1746025200,
+    "transcodeVersion": "4jZbth",
+    "sharedLink": {
+        "twitter": "https://abema.app/4ymF",
+        "facebook": "https://abema.app/QMCP",
+        "google": "https://abema.app/L7aC",
+        "line": "https://abema.app/H91B",
+        "copy": "https://abema.app/cGcT",
+        "instagram": "https://abema.app/nRLi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p30/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p30/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p30/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-11_s0_p30"
+    },
+    "viewingPoint": {
+        "suggestion": 1455.074933,
+        "opening": {
+            "start": 77.04336,
+            "end": 167.04336
+        },
+        "ending": {
+            "start": 1295.143357,
+            "end": 1381.743354
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p31",
+        "title": "第130話 猫好きと犬好きは相容れない",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296389,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-11_s0_p30/timeline",
+        "query": "version=4jZbth",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

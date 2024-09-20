@@ -1,0 +1,148 @@
+{
+    "id": "2-14_s10_p44",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 44,
+        "title": "第44話 レックウザ捕獲計画",
+        "content": "サンゴが言い残した「レックウザを呼び寄せる」という言葉…フリードは、手がかりを元にエクスプローラーズのアジトがある島を突き止める。島に向かったリコ、ロイ、フリード、ランドウだったが、そこで待ち受けていたのはスピネルの罠だった―！エクスプローラーズのレックウザ捕獲計画を、リコたちは止めることができるのか…！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャオハ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "監督：でんさおり",
+            "クリエイティブディレクター：冨安大貴",
+            "アクションディレクター：矢嶋哲生",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872173,
+    "endAt": 1747407600,
+    "transcodeVersion": "4ygm7h",
+    "sharedLink": {
+        "twitter": "https://abema.app/iKBp",
+        "facebook": "https://abema.app/Ds5n",
+        "google": "https://abema.app/svuV",
+        "line": "https://abema.app/ka6v",
+        "copy": "https://abema.app/h77v",
+        "instagram": "https://abema.app/4fW1"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p44/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p44/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p44/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p44"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.5224166666667,
+        "opening": {
+            "start": 96.88845833333333,
+            "end": 186.47795833333333
+        },
+        "ending": {
+            "start": 1327.4928333333332,
+            "end": 1417.4577083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p45",
+        "title": "第45話 はるか、遠くまで",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872173,
+        "endAt": 1747407600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1747407600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p44/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1747407600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

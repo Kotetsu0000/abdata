@@ -1,0 +1,145 @@
+{
+    "id": "420-60_s1_p4",
+    "series": {
+        "id": "420-60",
+        "title": "君のことが大大大大大好きな100人の彼女",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-60",
+            "filename": "thumb.png",
+            "query": "version=1694493283",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-60",
+            "filename": "portrait.png",
+            "query": "version=1694493283",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 いちゃいちゃ回と思いきや",
+        "content": "3人目の彼女に戸惑うも、恋太郎の誠意に満ちた姿勢もあり、静を迎え入れる羽香里と唐音。しかしどこか遠慮がちな様子の静。そこで恋太郎はとっておきの秘策を実行する…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "愛城恋太郎：加藤 渉",
+            "花園羽香里：本渡 楓",
+            "院田唐音：富田美憂",
+            "好本 静：長縄まりあ",
+            "栄逢凪乃：瀬戸麻沙美",
+            "薬膳楠莉：朝井彩加",
+            "神様：千葉 繁"
+        ],
+        "crews": [
+            "原作：中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載）",
+            "監督：佐藤 光",
+            "シリーズ構成：あおしまたかし",
+            "キャラクターデザイン・総作画監督：矢野 茜",
+            "美術監督：扇山秋仁",
+            "色彩設計：松山愛子",
+            "撮影監督：島 直美",
+            "編集：武宮むつみ",
+            "音響監督：土屋雅紀",
+            "音響効果：中島勝大",
+            "音響制作：ブシロードムーブ",
+            "音楽：睦月周平・滝澤俊輔（TRYTONELABO）・eba",
+            "音楽制作：ランティス",
+            "アニメーション制作：バイブリーアニメーションスタジオ"
+        ],
+        "copyrights": [
+            "(C)中村力斗・野澤ゆき子／集英社・君のことが大大大大大好きな製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703493050,
+    "endAt": 1735657200,
+    "transcodeVersion": "hDVJP",
+    "sharedLink": {
+        "twitter": "https://abema.app/LSwt",
+        "facebook": "https://abema.app/7hih",
+        "google": "https://abema.app/WnFZ",
+        "line": "https://abema.app/Z4Jn",
+        "copy": "https://abema.app/F7bJ",
+        "instagram": "https://abema.app/XEZc"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-60_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-60_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-60_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-60_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.08875,
+        "opening": {
+            "start": 39.039,
+            "end": 128.96216666666666
+        },
+        "ending": {
+            "start": 1340.08875,
+            "end": 1430.0119166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-60_s1_p5",
+        "title": "第5話 効率的な彼女",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1703493050,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-60_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "420-60_eg0"
+}

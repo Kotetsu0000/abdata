@@ -1,0 +1,159 @@
+{
+    "id": "168-49_s5_p14",
+    "series": {
+        "id": "168-49",
+        "title": "頭文字[イニシャル]D",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-49",
+            "filename": "thumb.png",
+            "query": "version=1691026069",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-49",
+            "filename": "portrait.png",
+            "query": "version=1691026069",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-49_s5",
+        "sequence": 5,
+        "name": "Fifth Stage",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1640
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 14,
+        "title": "ACT.14 決着！極限ヒルクライム",
+        "content": "勝敗に固執するあまり、豪が見失っていたのは走ることの楽しさだった。気持ちよさそうにコーナーを通過していく啓介の走りが、ドライビングの基本を豪に気づかせたのだ。モチベーションを回復した豪は啓介を猛追撃し、2 台の差はほとんどないまま、勝負は後半セクションへ。しかしタイヤのマネージメント能力の差が決め手となり、バトルは啓介が制する。それでも豪はこれまで感じたことのない充実感に、満足げな表情を浮かべていた。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "藤原拓海：三木眞一郎",
+            "藤原文太：石塚運昇",
+            "高橋涼介：子安武人",
+            "池谷浩一郎：矢尾一樹",
+            "高橋啓介： 関智一",
+            "武内樹： 岩田光央"
+        ],
+        "crews": [
+            "キャラクターデザイン:佐藤正樹",
+            "CGディレクター:安田兼盛",
+            "美術監督:池上伸治",
+            "監督:橋本みつお",
+            "脚本:岸間信明"
+        ],
+        "copyrights": [
+            "(C)Kodansha et al."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1701313433,
+    "endAt": 1753974000,
+    "freeEndAt": 1726521000,
+    "transcodeVersion": "2TudtQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/QZV7",
+        "facebook": "https://abema.app/Jhq4",
+        "google": "https://abema.app/xVhn",
+        "line": "https://abema.app/G1f4",
+        "copy": "https://abema.app/JcQG",
+        "instagram": "https://abema.app/hofi"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-49_s5_p14/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-49_s5_p14/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/168-49_s5_p14/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-49_s5_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-49_s5_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1520.2187,
+        "opening": {
+            "start": 4.004,
+            "end": 93.9939
+        },
+        "ending": {
+            "start": 1520.2187,
+            "end": 1639.9716666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-49_s6_p1",
+        "title": "ACT.1 ナチュラル",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1701313433,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726329600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-49_s5_p14/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726521000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "168-49_eg0"
+}

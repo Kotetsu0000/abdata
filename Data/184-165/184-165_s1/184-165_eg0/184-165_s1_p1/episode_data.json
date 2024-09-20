@@ -1,0 +1,137 @@
+{
+    "id": "184-165_s1_p1",
+    "series": {
+        "id": "184-165",
+        "title": "劇場版 ドラゴンボールZ 地球まるごと超決戦",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-165",
+            "filename": "thumb.png",
+            "query": "version=1722491303",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-165",
+            "filename": "portrait.png",
+            "query": "version=1722491303",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "184-165_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3654
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "劇場版 ドラゴンボールZ 地球まるごと超決戦",
+        "content": "宇宙の壊し屋ターレスの探査ロケットが落ちて山火事が起きる。悟飯たちはハイヤー・ドラゴンをはじめとする動物達の命を救い、神龍の力で森を元に戻す。さらにターレスは死の星にしてしまうという、恐ろしい植物神精樹の種を地球に植える。界王から危機を知らされた悟空たち究極戦士はターレス軍団に立ち向う。ターレスはハイヤー・ドラゴンを倒し、人工満月を作り悟飯を大猿へと変身させてしまう。ピッコロはターレスと対決するが、必殺技・魔貫光殺砲も通用せず倒されてしまう。ついに悟空とターレスの対決の時がやってきた!"
+    },
+    "credit": {
+        "released": 1990,
+        "casts": [
+            "孫悟空/孫悟飯/ターレス:野沢雅子",
+            "クリリン:田中真弓",
+            "ピッコロ:古川登志夫",
+            "ヤムチャ:古谷徹",
+            "天津飯:鈴置洋孝",
+            "餃子:江森浩子",
+            "ブルマ:鶴ひろみ",
+            "チチ:荘真由美",
+            "亀仙人:宮内幸平",
+            "ウーロン/ハイヤードラゴン:龍田直樹",
+            "プーアル:渡辺菜生子",
+            "神龍/レズン:内海賢ニ",
+            "界王:八奈見乗児",
+            "アモンド:銀河万丈",
+            "ラカセイ:佐藤正治",
+            "ダイーズ:真地勇志",
+            "カカオ:里内信夫"
+        ],
+        "crews": [
+            "原作:鳥山明",
+            "監督:西尾大介",
+            "脚本:小山高生"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション (C)東映・集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722491511,
+    "endAt": 1756652400,
+    "transcodeVersion": "2zF4i2",
+    "sharedLink": {
+        "twitter": "https://abema.app/Wjww",
+        "facebook": "https://abema.app/nZ8n",
+        "google": "https://abema.app/zuxh",
+        "line": "https://abema.app/F4vf",
+        "copy": "https://abema.app/LNna",
+        "instagram": "https://abema.app/EXYz"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/184-165_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/184-165_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/184-165_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.184-165_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 3566.688125,
+        "opening": {
+            "start": 345.470125,
+            "end": 450.4082916666667
+        },
+        "ending": {
+            "start": 3566.688125,
+            "end": 3654.9846666666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/184-165_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726485600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727148000
+        }
+    ],
+    "episodeGroupId": "184-165_eg0"
+}

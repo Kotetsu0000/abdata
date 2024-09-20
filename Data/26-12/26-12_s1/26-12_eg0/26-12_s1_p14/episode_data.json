@@ -1,0 +1,153 @@
+{
+    "id": "26-12_s1_p14",
+    "series": {
+        "id": "26-12",
+        "title": "黒執事",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "thumb.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "portrait.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12_s1",
+        "sequence": 1,
+        "name": "黒執事",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 14,
+        "title": "episode14 その執事、異能",
+        "content": "ソーマが寝た後、アグニが内緒でどこに行っているのか突き止めるため、こっそり後をつけたセバスチャン達。アグニがはいっていったのは、インドからの輸入品を手広く扱っているハロルド・ウェスト＝ジェブの屋敷だった。実はウェストは自分がロイヤルワラントを手に入れるために、アグニを操り、逆さ吊り事件を起こしていた首謀者だった。ふいにアグニはソーマが懸命に探していたミーナの名前を語り、それを聞いたソーマはウェストとアグニの部屋に駆け込んでしまう。その時セバスチャンがとった行動とは･･･。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "シエル・ファントムハイヴ：坂本 真綾",
+            "セバスチャン・ミカエリス：小野 大輔",
+            "バルドロイ：東地 宏樹",
+            "フィニアン：梶 裕貴",
+            "メイリン：加藤 英美里"
+        ],
+        "crews": [
+            "原作：枢 やな",
+            "監督：篠原俊哉",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン＆総作画監督：芝 美奈子",
+            "音楽：岩崎 琢"
+        ],
+        "copyrights": [
+            "(c)枢やな/スクウェアエニックス・女王の番犬・ＭＢＳ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708327133,
+    "endAt": 1741532400,
+    "transcodeVersion": "7PBqGc",
+    "sharedLink": {
+        "twitter": "https://abema.app/y9vj",
+        "facebook": "https://abema.app/rCAx",
+        "google": "https://abema.app/XnHE",
+        "line": "https://abema.app/9kSr",
+        "copy": "https://abema.app/DmZB",
+        "instagram": "https://abema.app/LYpX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-12_s1_p14/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-12_s1_p14/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-12_s1_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12_s1_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.067033,
+        "opening": {
+            "start": 23.0777,
+            "end": 113.0666
+        },
+        "ending": {
+            "start": 1347.067033,
+            "end": 1437.089299
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-12_s1_p15",
+        "title": "episode15 その執事、競争",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708327133,
+        "endAt": 1741532400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741532400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12_s1_p14/timeline",
+        "query": "version=7PBqGc",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-12_eg0"
+}

@@ -1,0 +1,160 @@
+{
+    "id": "194-35_s1_p5",
+    "series": {
+        "id": "194-35",
+        "title": "デキる猫は今日も憂鬱",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-35",
+            "filename": "thumb.png",
+            "query": "version=1687419910",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-35",
+            "filename": "portrait.png",
+            "query": "version=1687419910",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "194-35_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1417
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "５缶め デキる猫はお誕生会にも行く",
+        "content": "織塚から、優芽の誕生会の招待状を渡される幸来。“ユキちゃん”こと諭吉に懐いている優芽は、諭吉の分も招待状を用意していた。尻込みする幸来に対し、諭吉はプレゼントのぬいぐるみを縫ったり、持ち寄り用の料理を作ったりと、行く気満々。当日、仮装をしてパーティーに参加する二人だったが……。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "諭吉：安元洋貴",
+            "福澤幸来：石川由依",
+            "柴咲ゆり：加隈亜衣",
+            "織塚 馨：小西克幸",
+            "仁科理央：M･A･O",
+            "店長：入野自由",
+            "優芽：竹達彩奈",
+            "優芽の母：日笠陽子",
+            "優芽の祖母：久保田民絵",
+            "幸来の母：佐藤聡美",
+            "幸来の父：福山 潤",
+            "尾代：いなせあおい",
+            "おとなりのメイさん：太地琴恵"
+        ],
+        "crews": [
+            "原作：山田ヒツジ「デキる猫は今日も憂鬱」（講談社「月刊少年シリウス」連載）",
+            "総監督：工藤進",
+            "監督：横峯克昌",
+            "シリーズ構成：GoHands",
+            "脚本：八薙玉造",
+            "キャラクターデザイン：内田孝行",
+            "アニメーション制作：GoHands"
+        ],
+        "copyrights": [
+            "(C)山田ヒツジ・講談社／デキる猫は今日も憂鬱製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1697424242,
+    "endAt": 1727708400,
+    "transcodeVersion": "69rxyZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/Vmhq",
+        "facebook": "https://abema.app/w4kQ",
+        "google": "https://abema.app/1pz1",
+        "line": "https://abema.app/A5zX",
+        "copy": "https://abema.app/QmYt",
+        "instagram": "https://abema.app/4FWL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/194-35_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/194-35_s1_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/194-35_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.194-35_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1297.569477,
+        "opening": {
+            "start": 103.352017,
+            "end": 192.129584
+        },
+        "ending": {
+            "start": 1298.201969,
+            "end": 1386.98065
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "194-35_s1_p6",
+        "title": "６缶め デキる猫は写真映りがいい",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1697424242,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-35_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "194-35_eg0"
+}

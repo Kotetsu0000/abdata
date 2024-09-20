@@ -1,0 +1,75 @@
+{
+    "id": "35-55",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "映画クレヨンしんちゃん",
+    "content": "映画クレヨンしんちゃん",
+    "seasons": [
+        {
+            "id": "35-55_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+                "filename": "thumb.png",
+                "query": "version=1722910378",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "35-55_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 1993"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726226294644545304",
+    "imageUpdatedAt": 1722910378,
+    "programOrder": "-seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Az8f",
+        "facebook": "https://abema.app/AAZo",
+        "google": "https://abema.app/T2u1",
+        "line": "https://abema.app/h7vC",
+        "copy": "https://abema.app/kUu3",
+        "instagram": "https://abema.app/BGkY"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+        "filename": "thumb.png",
+        "query": "version=1722910378",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+        "filename": "portrait.png",
+        "query": "version=1722910378",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "1話〜1話無料",
+    "contentPattern": 4,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

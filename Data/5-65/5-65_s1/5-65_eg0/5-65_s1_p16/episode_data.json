@@ -1,0 +1,152 @@
+{
+    "id": "5-65_s1_p16",
+    "series": {
+        "id": "5-65",
+        "title": "わんだふるぷりきゅあ！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-65",
+            "filename": "thumb.png",
+            "query": "version=1721612689",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-65",
+            "filename": "portrait.png",
+            "query": "version=1721612689",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-65_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 鏡石のふしぎ",
+        "content": "街の鏡石に秘密を解く手がかりがあるかもしれない、と考えるこむぎたち。そんな中、犬の姿のこむぎが会話しているところをいろはの両親に見つかってしまう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "キュアワンダフル／犬飼こむぎ：長縄まりあ",
+            "キュアフレンディ／犬飼いろは：種﨑敦美"
+        ],
+        "crews": [
+            "シリーズディレクター：佐藤雅教",
+            "シリーズ構成：成田良美",
+            "キャラクターデザイン：内田陽子",
+            "衣装・プロップデザイン：NaSka",
+            "美術デザイン：いいだりえ",
+            "チーフ美術：今井美紀",
+            "色彩設計：清田直美",
+            "音楽：深澤恵梨香",
+            "プロデューサー：多田 香奈子（ABCアニメーション）、利根 里佳（ADKエモーションズ）、髙橋 麻樹",
+            "制作：ＡＢＣテレビ、ＡＢＣアニメーション、ＡＤＫエモーションズ、東映アニメーション"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035395,
+    "endAt": 1769871600,
+    "freeEndAt": 1726354800,
+    "transcodeVersion": "2LpQ9o",
+    "sharedLink": {
+        "twitter": "https://abema.app/d99N",
+        "facebook": "https://abema.app/nsxD",
+        "google": "https://abema.app/68n5",
+        "line": "https://abema.app/nii6",
+        "copy": "https://abema.app/xNH4",
+        "instagram": "https://abema.app/2ZUs"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-65_s1_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-65_s1_p16/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/5-65_s1_p16/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-65_s1_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-65_s1_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.213875,
+        "opening": {
+            "start": 115.07329166666666,
+            "end": 205.12158333333332
+        },
+        "ending": {
+            "start": 1340.213875,
+            "end": 1430.2621666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-65_s1_p17",
+        "title": "第17話 私が、あなたを守る！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726035395,
+        "endAt": 1769871600,
+        "freeEndAt": 1726441200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726441200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-65_s1_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726354800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1769871600
+        }
+    ],
+    "episodeGroupId": "5-65_eg0"
+}

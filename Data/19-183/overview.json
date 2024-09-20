@@ -1,0 +1,92 @@
+{
+    "id": "19-183",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "title": "けいおん!",
+    "content": "春、新入生がクラブを決めるころ---\n 田井中律（たいなか りつ）は幼馴染の秋山澪（あきやま みお）を連れて軽音部の見学へ行く。\n \n しかし部員全員が卒業してしまった軽音部は、あらたに４人の部員が集まらないと廃部になってしまうという。\n 琴吹紬（ことぶき つむぎ）という仲間を加えて、最後の一人をさがしているころ、\n 「軽音部」を軽い音楽（口笛など）と勘違いしていた楽器初心者・平沢唯（ひらさわ ゆい）が入部してくる。",
+    "seasons": [
+        {
+            "id": "19-183_s1",
+            "sequence": 1,
+            "name": "けいおん!",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+                "filename": "thumb.png",
+                "query": "version=1705397424",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-183_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "19-183_s2",
+            "sequence": 2,
+            "name": "けいおん！！",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-183_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1705397446",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-183_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "（C）かきふらい・芳文社／桜高軽音部"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724924259165541532",
+    "imageUpdatedAt": 1705397424,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Mxba",
+        "facebook": "https://abema.app/d3C2",
+        "google": "https://abema.app/gbTE",
+        "line": "https://abema.app/LZfC",
+        "copy": "https://abema.app/TYxT",
+        "instagram": "https://abema.app/3PLz"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+        "filename": "thumb.png",
+        "query": "version=1705397424",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+        "filename": "portrait.png",
+        "query": "version=1705397424",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

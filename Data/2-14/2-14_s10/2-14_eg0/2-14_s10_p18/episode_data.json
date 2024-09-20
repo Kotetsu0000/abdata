@@ -1,0 +1,144 @@
+{
+    "id": "2-14_s10_p18",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 18,
+        "title": "第18話 そらとぶピカチュウ、どこまでも高く！",
+        "content": "キャップが空を飛んだ―？バトル中に空を飛んでいる様に見えたキャプテンピカチュウ。その秘密を知るため、フリードを直撃するリコとロイだが、テキトーにはぐらかされてしまう。オリオや仲間たちの助けもあり、観念して語り出すフリード。それは、フリードとキャップの出会い。そして、ライジングボルテッカーズの結成にまつわる秘話だった…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャオハ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "監督：でんさおり",
+            "クリエイティブディレクター：冨安大貴",
+            "アクションディレクター：矢嶋哲生",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872172,
+    "endAt": 1747407600,
+    "transcodeVersion": "36AMjA",
+    "sharedLink": {
+        "twitter": "https://abema.app/K32e",
+        "facebook": "https://abema.app/8HM2",
+        "google": "https://abema.app/Yvja",
+        "line": "https://abema.app/6XNo",
+        "copy": "https://abema.app/VMZm",
+        "instagram": "https://abema.app/STBT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p18/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p18/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.545644,
+        "ending": {
+            "start": 1350.825361,
+            "end": 1437.825361
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p19",
+        "title": "第19話 マホイップのホント",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872172,
+        "endAt": 1747407600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1747407600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p18/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1747407600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

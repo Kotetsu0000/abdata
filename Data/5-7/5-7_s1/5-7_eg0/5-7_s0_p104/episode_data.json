@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p104",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 104,
+        "title": "第104話 ｢やさしき勇者フドウ！その涙は熱き心を呼びさます！！」",
+        "content": "激しく戦うラオウとフドウ。しかし戦いは終止ラオウが優勢。とどめの肘がフドウの背中に炸裂した。その時ラオウはフドウと子供達の哀しみに満ちた瞳に、ケンシロウの姿をみた。その瞳に恐怖が蘇ったラオウは思わず退いていた。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756427,
+    "endAt": 1732978800,
+    "transcodeVersion": "6NmEg5",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/ocZ6t",
+        "facebook": "https://gxyt4.app.goo.gl/25Jso",
+        "google": "https://gxyt4.app.goo.gl/hx5h6",
+        "line": "https://gxyt4.app.goo.gl/cLXyD",
+        "copy": "https://gxyt4.app.goo.gl/mRrCT",
+        "instagram": "https://gxyt4.app.goo.gl/WMv2f"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p104/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p104/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p104/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p104"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.552422,
+        "opening": {
+            "start": 50.637455,
+            "end": 114.504355
+        },
+        "ending": {
+            "start": 1330.552422,
+            "end": 1430.585788
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p105",
+        "title": "第105話 ｢南斗慈母星を守れ！たとえ五車の生命果てるとも！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756427,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p104/timeline",
+        "query": "version=6NmEg5",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

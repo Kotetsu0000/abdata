@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p12",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 ツエェェェ！キュアスカイ対カバトン！！",
+        "content": "カバトンから1対1の勝負を申し込まれるソラ。ソラが勝てばもうエルには手を出さないと聞いて勝負を受けたソラは、キャンプ場での3日間の特訓を経て、対決に挑む。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722330839,
+    "endAt": 1740754800,
+    "transcodeVersion": "2d7wMi",
+    "sharedLink": {
+        "twitter": "https://abema.app/nyDQ",
+        "facebook": "https://abema.app/xkgd",
+        "google": "https://abema.app/W4gt",
+        "line": "https://abema.app/T1HS",
+        "copy": "https://abema.app/H5Vw",
+        "instagram": "https://abema.app/ip4Z"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-64_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-64_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-64_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.6389583333332,
+        "opening": {
+            "start": 138.012875,
+            "end": 228.06116666666668
+        },
+        "ending": {
+            "start": 1348.6389583333332,
+            "end": 1440.18875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p13",
+        "title": "第13話 届けて！はじめてのおくりもの",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722330848,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

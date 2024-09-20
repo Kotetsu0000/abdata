@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p940",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 651
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 940,
+        "title": "#940 誕生！名探偵のび太",
+        "content": "“シャーロック・ホームズ”の本を読んだのび太は、自分もホームズのような名探偵になりたいと考える。そこで、ママが怒っている理由を推理してみるが、まったく当てられないどころか、よけいなことを言ってますます怒らせてしまう。\n　さらに、しずかの家にランドセルを置き忘れてきたことに気がついたのび太が、あわてて取りに戻ったところ、しずかが何やら探しものをしていた。「大事なものをなくした」というしずかの言葉を聞いたのび太は、見つけ出せばしずかにそんけいされると考え、名探偵になれる『シャーロック・ホームズセット』をドラえもんに出してもらうが…！？"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335977,
+    "endAt": 1751295600,
+    "transcodeVersion": "3uXcVd",
+    "sharedLink": {
+        "twitter": "https://abema.app/AdVS",
+        "facebook": "https://abema.app/tDWw",
+        "google": "https://abema.app/p4HL",
+        "line": "https://abema.app/WQHc",
+        "copy": "https://abema.app/ZUX9",
+        "instagram": "https://abema.app/yJAN"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p940/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p940/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p940/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p940"
+    },
+    "viewingPoint": {
+        "suggestion": 646.89625
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p941",
+        "title": "#941 のび太もたまには考える２",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335977,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p940/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

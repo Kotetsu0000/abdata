@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p534",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1476
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 534,
+        "title": "第534話 新たな傷跡と口笛の男",
+        "content": "連続殺人犯の時効まで後３日。TVに生出演した犯罪心理学者の平棟堂次は時効まで身を潜める犯人に対し、自分の所に来いと挑発する。平棟は歩美と同じマンションの住人で、歩美と哀がマンション入口で口笛を吹く男を目撃。コナンはその事を高木刑事に電話で伝えた後、平棟の部屋を訪ね、絶命した平棟を発見する。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "2ePniB",
+    "sharedLink": {
+        "twitter": "https://abema.app/4crC",
+        "facebook": "https://abema.app/WuDu",
+        "google": "https://abema.app/nrny",
+        "line": "https://abema.app/TyBt",
+        "copy": "https://abema.app/nDkJ",
+        "instagram": "https://abema.app/2oeR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s14_p534/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s14_p534/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s14_p534/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p534"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.9829666666667,
+        "opening": {
+            "start": 86.35293333333334,
+            "end": 176.9768
+        },
+        "ending": {
+            "start": 1350.9829666666667,
+            "end": 1430.9628666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p535",
+        "title": "第535話 古き傷跡と刑事の魂",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p534/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

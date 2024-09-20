@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s3_p109",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1468
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 109,
+        "title": "第109話 探偵団大追跡事件",
+        "content": "歩美をひいて逃げた黒塗りの車を追いかけたコナンと元太、光彦は、休業中の工場の前で車を見失ってしまう。が、2、3分後にまた現れた車はコナンたちの目の前で交番に乗り付け、運転していた宍戸という男が自首をした。そのころ、車を見失った工場内で社長の刺殺体が発見され、宍戸が工場の元従業員だったことが判明する。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066298,
+    "endAt": 1740754800,
+    "transcodeVersion": "3qnEe1",
+    "sharedLink": {
+        "twitter": "https://abema.app/NYGg",
+        "facebook": "https://abema.app/GAKo",
+        "google": "https://abema.app/tXjU",
+        "line": "https://abema.app/ftgk",
+        "copy": "https://abema.app/1cQd",
+        "instagram": "https://abema.app/gSJm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p109/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p109/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p109/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s3_p109"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.0226,
+        "opening": {
+            "start": 16.2162,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1316.0147,
+            "end": 1401.0329666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s3_p110",
+        "title": "第110話 料理教室殺人事件(前編)",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066298,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s3_p109/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

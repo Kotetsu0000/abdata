@@ -1,0 +1,150 @@
+{
+    "id": "5-55_s1_p36",
+    "series": {
+        "id": "5-55",
+        "title": "ハピネスチャージプリキュア！",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-55",
+            "filename": "thumb.png",
+            "query": "version=1721352883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-55",
+            "filename": "portrait.png",
+            "query": "version=1721352883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1458
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 36,
+        "title": "第36話 愛がいっぱい！ めぐみのイノセントバースデー！",
+        "content": "明日は私の誕生日。でも、お父さんとお母さんから、お母さんの病気の話を聞いて悩んじゃった。人の幸せって難しいな…。そんな時、オレスキーが誕生パーティーを襲ってきたの！　私はみんなに幸せになってほしい！"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "愛乃めぐみ／キュアラブリー：中島 愛",
+            "白雪ひめ／キュアプリンセス：潘めぐみ",
+            "大森ゆうこ／キュアハニー：北川里奈",
+            "キュアフォーチュン：戸松 遥",
+            "リボン：松井菜桜子",
+            "ぐらさん：小堀 幸"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、高橋知子、柴田宏明",
+            "シリーズ構成：成田良美",
+            "シリーズディレクター：長峯達也",
+            "製作担当：山崎尊宗",
+            "キャラクターデザイン：佐藤雅将",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "音楽：高木 洋"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721568124,
+    "endAt": 1740754800,
+    "freeEndAt": 1726875000,
+    "transcodeVersion": "5maVQ7",
+    "sharedLink": {
+        "twitter": "https://abema.app/dxhG",
+        "facebook": "https://abema.app/YZtV",
+        "google": "https://abema.app/EsuZ",
+        "line": "https://abema.app/sR5o",
+        "copy": "https://abema.app/mmu4",
+        "instagram": "https://abema.app/BE7X"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-55_s1_p36/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-55_s1_p36/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/5-55_s1_p36/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-55_s1_p36/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-55_s1_p36"
+    },
+    "viewingPoint": {
+        "suggestion": 1338.0033333333333,
+        "opening": {
+            "start": 59.99326666666666,
+            "end": 149.98316666666668
+        },
+        "ending": {
+            "start": 1338.0033333333333,
+            "end": 1427.9932333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-55_s1_p37",
+        "title": "第37話 やぶられたビッグバーン！ まさかの強敵登場！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721568124,
+        "endAt": 1740754800,
+        "freeEndAt": 1726875000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726875000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-55_s1_p36/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726875000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-55_eg0"
+}

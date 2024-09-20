@@ -1,0 +1,147 @@
+{
+    "id": "171-1_s0_p3",
+    "series": {
+        "id": "171-1",
+        "title": "東京喰種トーキョーグール",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-1",
+            "filename": "thumb.png",
+            "query": "version=1681282042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-1",
+            "filename": "portrait.png",
+            "query": "version=1681282042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "171-1_s10",
+        "sequence": 10,
+        "name": "東京喰種トーキョーグール",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1451
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 白鳩",
+        "content": "「あんていく」に、喰種の笛口リョーコ（フエグチ　リョーコ）とその娘・雛実（ヒナミ）が匿われることになった。ヒナミの寂しげな表情が気になるカネキ。そんな中、カネキは芳村の右腕である四方蓮示（ヨモ　レンジ）と共に人を狩れない喰種たちのための食料調達に行くことになる。　一方、東京の喰種殲滅を目指すＣＣＧ（喰種対策局）本部ではリゼの一件から、「あんていく」のある２０区が捜査対象に挙がっていた。上等捜査官の真戸呉緒（マド　クレオ）と亜門鋼太朗（アモン　コウタロウ）が２０区に向かうことになり…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "金木 研：花江夏樹",
+            "霧嶋董香：雨宮 天",
+            "神代利世：花澤香菜",
+            "月山 習：宮野真守",
+            "亜門鋼太朗：小西克幸",
+            "芳村：菅生隆之"
+        ],
+        "crews": [
+            "原作：石田スイ（集英社「週刊ヤングジャンプ」連載）",
+            "監督：森田修平",
+            "シリーズ構成：御笠ノ忠次",
+            "キャラクターデザイン:三輪和宏",
+            "音響監督：原口昇",
+            "音楽：やまだ豊"
+        ],
+        "copyrights": [
+            "(C)石田スイ／集英社・東京喰種製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689746561,
+    "endAt": 1753974000,
+    "transcodeVersion": "4Qm7vM",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/oN1vU",
+        "facebook": "https://gxyt4.app.goo.gl/369RG",
+        "google": "https://gxyt4.app.goo.gl/vfwvc",
+        "line": "https://gxyt4.app.goo.gl/Rdxjr",
+        "copy": "https://gxyt4.app.goo.gl/HGZvK",
+        "instagram": "https://gxyt4.app.goo.gl/b33nH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/171-1_s0_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/171-1_s0_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/171-1_s0_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.171-1_s0_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.560433
+    },
+    "nextProgramInfo": {
+        "programId": "171-1_s0_p4",
+        "title": "第4話 晩餐",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1689746561,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/171-1_s0_p3/timeline",
+        "query": "version=4Qm7vM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "171-1_eg0"
+}

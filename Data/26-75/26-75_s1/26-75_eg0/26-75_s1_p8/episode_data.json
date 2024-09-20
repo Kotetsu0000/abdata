@@ -1,0 +1,159 @@
+{
+    "id": "26-75_s1_p8",
+    "series": {
+        "id": "26-75",
+        "title": "テレビアニメ「鬼滅の刃」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "thumb.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "portrait.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-75_s1",
+        "sequence": 1,
+        "name": "竈門炭治郎 立志編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "第八話 幻惑の血の香り",
+        "content": "次なる任務の舞台は東京・浅草の町。大正の華やかな都会の街並みに戸惑う炭治郎だったが、そこで鬼の匂いを嗅ぎつける。\n匂いを追った先で出逢ったのは鬼舞辻無惨だった。鬼舞辻を斬ろうとする炭治郎。だが、鬼舞辻は行きかう人間を鬼に変え、町を混乱に陥れる。必死に事態を収拾しようとする炭治郎の前に、 とある人物が姿を現す―。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "竈門炭治郎役：花江夏樹",
+            "竈門襧豆子役：鬼頭明里",
+            "我妻善逸：下野 紘",
+            "嘴平伊之助：松岡禎丞",
+            "冨岡義勇：櫻井孝宏"
+        ],
+        "crews": [
+            "原作：吾峠呼世晴（集英社ジャンプ コミックス刊）",
+            "監督：外崎春雄",
+            "キャラクターデザイン：松島 晃",
+            "サブキャラクターデザイン：佐藤美幸／梶山庸子／菊池美花",
+            "脚本制作：ufotable",
+            "コンセプトアート：衛藤功二／矢中勝／竹内香純／樺澤侑里",
+            "撮影監督：寺尾優一",
+            "3D監督：西脇一樹",
+            "色彩設計：大前祐子",
+            "編集：神野 学",
+            "音楽：梶浦由記／椎名 豪",
+            "制作プロデューサー：近藤 光",
+            "アニメーション制作：ufotable"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695885698,
+    "endAt": 1730386800,
+    "transcodeVersion": "31D9CG",
+    "sharedLink": {
+        "twitter": "https://abema.app/TnNU",
+        "facebook": "https://abema.app/fQZz",
+        "google": "https://abema.app/JUNi",
+        "line": "https://abema.app/7rq1",
+        "copy": "https://abema.app/z9Ku",
+        "instagram": "https://abema.app/7CBg"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-75_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-75_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-75_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-75_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.274865,
+        "opening": {
+            "start": 22.022726999999996,
+            "end": 112.02872700000003
+        },
+        "ending": {
+            "start": 1290.0008200000002,
+            "end": 1380.04482
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-75_s1_p9",
+        "title": "第九話 手毬鬼と矢印鬼",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1695885698,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-75_s1_p8/timeline",
+        "query": "version=31D9CG",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "26-75_eg0"
+}

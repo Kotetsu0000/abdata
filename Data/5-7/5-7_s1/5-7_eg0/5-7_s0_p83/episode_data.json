@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p83",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 83,
+        "title": "第83話 ｢第四部最終章　ラオウ死すべし！伝説が恐怖に変わる！！」",
+        "content": "各地に軍隊を進め、着実に領土をひろげる拳王。一方、弔いの炎が消え、再び宿命の旅に出たケンシロウたちが訪れた村は水が豊富な村だった。しかし、その貴重な水を拳王の部下、転界無王拳のブーガルが独占してしまった。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "BXpc7",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/UCNgq",
+        "facebook": "https://gxyt4.app.goo.gl/gmTHs",
+        "google": "https://gxyt4.app.goo.gl/aSVmH",
+        "line": "https://gxyt4.app.goo.gl/MJWGF",
+        "copy": "https://gxyt4.app.goo.gl/8ZDHj",
+        "instagram": "https://gxyt4.app.goo.gl/rNozS"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p83/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p83/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p83/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p83"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.985188,
+        "opening": {
+            "start": 50.073222,
+            "end": 114.437622
+        },
+        "ending": {
+            "start": 1329.985188,
+            "end": 1429.985188
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p84",
+        "title": "第84話 ｢南斗の逆襲！風の旅団よ最後の将を守れ！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p83/timeline",
+        "query": "version=BXpc7",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

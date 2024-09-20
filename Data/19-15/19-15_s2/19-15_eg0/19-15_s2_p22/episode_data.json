@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s2_p22",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 22,
+        "title": "第22話 爆豪VS麗日",
+        "content": "爆豪とお茶子の戦いが始まった。先手必勝とばかりにお茶子は爆豪に突進するが、爆豪の「爆破」の前に近づくことができない。そんな中、お茶子が仕掛けた決死の作戦とは…！？"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "オールマイト：三宅健太",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872422,
+    "endAt": 1759244400,
+    "transcodeVersion": "6RSbvW",
+    "sharedLink": {
+        "twitter": "https://abema.app/7pU4",
+        "facebook": "https://abema.app/Q48d",
+        "google": "https://abema.app/yZfG",
+        "line": "https://abema.app/apYm",
+        "copy": "https://abema.app/1Uqx",
+        "instagram": "https://abema.app/tftp"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s2_p22/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s2_p22/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s2_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s2_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.1654333333333,
+        "opening": {
+            "start": 27.4274,
+            "end": 117.05026666666667
+        },
+        "ending": {
+            "start": 1310.1755333333333,
+            "end": 1400.1320666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s2_p23",
+        "title": "第23話 轟焦凍：オリジン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872422,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s2_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

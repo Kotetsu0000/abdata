@@ -1,0 +1,144 @@
+{
+    "id": "35-46_s0_p41",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6523
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 41,
+        "title": "映画ドラえもん のび太の宇宙小戦争2021",
+        "content": "夏休みのある日。のび太が拾った小さなロケットの中から、手のひらサイズの宇宙人・パピがあらわれる！彼は、宇宙のかなたにある小さな星・ピリカ星の大統領で、反乱軍から逃れるために地球にやってきたという。最初はパピのあまりの小ささに戸惑うドラえもんたちだったが、ひみつ道具‟スモールライト“で自分たちも小さくなって一緒に遊ぶうち、次第に仲良くなっていく。ところが、パピを追って地球にやってきたクジラ型の宇宙戦艦が、パピをとらえるためにドラえもんやのび太たちを攻撃。みんなを巻き込んでしまったことに責任を感じたパピは、ひとり反乱軍に立ち向かおうとするが......。\n大切な友だちと、その故郷を守るため、ドラえもんたちはピリカ星へと出発する！！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ドラえもん:水田わさび",
+            "のび太:大原めぐみ",
+            "しずか:かかずゆみ",
+            "ジャイアン:木村昴",
+            "スネ夫:関智一",
+            "パピ:朴璐美",
+            "ロコロコ:梶裕貴"
+        ],
+        "crews": [
+            "原作:藤子・F・不二雄",
+            "監督:山口晋",
+            "脚本:佐藤大"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2021"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "3jAtQ9",
+    "sharedLink": {
+        "twitter": "https://abema.app/Pik1",
+        "facebook": "https://abema.app/GSof",
+        "google": "https://abema.app/KZJx",
+        "line": "https://abema.app/zLY5",
+        "copy": "https://abema.app/sHqb",
+        "instagram": "https://abema.app/EHDa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p41/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p41/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p41/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p41"
+    },
+    "viewingPoint": {
+        "suggestion": 6345.305182,
+        "ending": {
+            "start": 6343.777896,
+            "end": 6523.576599
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s1_p42",
+        "title": "映画ドラえもん のび太と空の理想郷",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1710993378,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p41/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

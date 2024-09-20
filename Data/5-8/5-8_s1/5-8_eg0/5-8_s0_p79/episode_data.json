@@ -1,0 +1,141 @@
+{
+    "id": "5-8_s0_p79",
+    "series": {
+        "id": "5-8",
+        "title": "トリコ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "thumb.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "portrait.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1398
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 79,
+        "title": "第79話　直観調理！ 小松とサンサングラミー！",
+        "content": "どれだけ慎重に取り扱ってもサンサングラミーを捕獲できず、頭を抱える小松。いったいどうすれば…。と、その時、洞窟の天井から池へとしたたる黄金の雫に気が付いた。それはしっとりと滑らかで、まるで上質なオリーブオイルのよう。小松は池の中へと足を踏み入れていく。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "トリコ：置鮎龍太郎",
+            "小松：朴璐美",
+            "ココ：櫻井孝宏",
+            "サニー：岩田光央",
+            "ゼブラ：松田賢二"
+        ],
+        "crews": [
+            "原作：島袋光年（集英社・週刊少年ジャンプ連載）",
+            "企画：高瀬敦也、渡辺和哉、清水慎治",
+            "プロデューサー：情野誠人、佐川直子、鷲尾天",
+            "シリーズ構成：村山功",
+            "音楽：水谷広実"
+        ],
+        "copyrights": [
+            "(C)島袋光年／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689061325,
+    "endAt": 1740754800,
+    "transcodeVersion": "4koj36",
+    "sharedLink": {
+        "twitter": "https://abema.app/n2Zo",
+        "facebook": "https://abema.app/7ey9",
+        "google": "https://abema.app/XLTe",
+        "line": "https://abema.app/vrse",
+        "copy": "https://abema.app/wzSu",
+        "instagram": "https://abema.app/yX7u"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-8_s0_p79/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-8_s0_p79/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-8_s0_p79/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-8_s0_p79"
+    },
+    "viewingPoint": {
+        "suggestion": 1383.071555,
+        "opening": {
+            "start": 17.974488,
+            "end": 102.892755
+        },
+        "ending": {
+            "start": 1237.059022,
+            "end": 1296.952288
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-8_s0_p80",
+        "title": "第80話　ド派手演出！食事に最高のサービスを！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689061325,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-8_s0_p79/timeline",
+        "query": "version=4koj36",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-8_eg0"
+}

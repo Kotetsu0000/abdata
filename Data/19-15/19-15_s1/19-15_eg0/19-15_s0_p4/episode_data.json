@@ -1,0 +1,145 @@
+{
+    "id": "19-15_s0_p4",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s1",
+        "sequence": 1,
+        "name": "第1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 スタートライン",
+        "content": "オールマイトから個性”ワン・フォー・オール”を与えられた出久は、いざ国内最難関と言われる雄英高校ヒーロー科の入試に臨む。広大な模擬市街地で、そこに多数配置された仮想ヴィランを相手に戦いポイントを競うこの試験。皆が”個性”を生かし次々と仮想ヴィランを撃退する一方、まだ”個性”の使い方を理解していない出久はポイントが稼げない。そんな中、予想できないほどの巨大な仮想ヴィランが出現！ビルが倒壊し、その瓦礫の下には…！出久は”考えるより先に”拳を振り上げ叫ぶ！"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "オールマイト：三宅健太",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平(集英社「週刊少年ジャンプ」連載)",
+            "シリーズ構成：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872421,
+    "endAt": 1759244400,
+    "transcodeVersion": "5Tf6TP",
+    "sharedLink": {
+        "twitter": "https://abema.app/k6Ln",
+        "facebook": "https://abema.app/iivf",
+        "google": "https://abema.app/4uq8",
+        "line": "https://abema.app/stMa",
+        "copy": "https://abema.app/GyAa",
+        "instagram": "https://abema.app/UvS7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s0_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s0_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s0_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s0_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.0719666666666,
+        "opening": {
+            "start": 53.053,
+            "end": 143.00953333333334
+        },
+        "ending": {
+            "start": 1326.0580666666667,
+            "end": 1416.0146
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s0_p5",
+        "title": "第5話 今 僕に出来ることを",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872421,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s0_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

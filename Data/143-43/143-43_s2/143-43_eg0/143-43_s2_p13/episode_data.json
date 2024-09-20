@@ -1,0 +1,140 @@
+{
+    "id": "143-43_s2_p13",
+    "series": {
+        "id": "143-43",
+        "title": "君に届け",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-43",
+            "filename": "thumb.png",
+            "query": "version=1709286894",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-43",
+            "filename": "portrait.png",
+            "query": "version=1709286894",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-43_s2",
+        "sequence": 2,
+        "name": "君に届け　2ND SEASON",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1345
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "episode.12 大事な人",
+        "content": "爽子は風早と付き合い始めたことが学年中に知れ渡った頃、爽子をよく思わない女子たちが、未だ信じられないと話をしていた。そこへ現れたくるみ、そして爽子。女子たちに忠告をし屋上へと去るくるみを、爽子は風早と付き合ったことを報告するために追いかける。爽子の報告にくるみは・・・。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "黒沼爽子：能登麻美子",
+            "風早翔太：浪川大輔",
+            "矢野あやね：沢城みゆき",
+            "吉田千鶴：三瓶由布子",
+            "真田龍：中村悠一",
+            "胡桃沢 梅：平野 綾",
+            "三浦健人：宮野真守",
+            "ほか"
+        ],
+        "crews": [
+            "原作：椎名軽穂（集英社「別冊マーガレット」連載）",
+            "シリーズ構成：金春智子",
+            "キャラクターデザイン・総作画監督：柴田由香",
+            "小物設定：長谷川ひとみ、佐藤仁実",
+            "色彩設計：佐藤真由美、広瀬いづみ",
+            "美術監督：竹田悠介、岡本春美",
+            "美術設定：加藤浩、成田偉保、加藤朋則",
+            "3D監督：佐藤敦",
+            "特殊効果：村上正博",
+            "撮影監督：田中宏侍",
+            "編集：今井大介",
+            "音響監督：山田知明",
+            "音楽：S.E.N.S Project",
+            "副監督：長沼範裕",
+            "監督：鏑木ひろ",
+            "アニメーション制作：プロダクションI.G",
+            "製作著作：日本テレビ/D.N.ドリームパートナーズ、バップ、集英社、プロダクションI.G"
+        ],
+        "copyrights": [
+            "(C)椎名軽穂・集英社/「君に届け」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707194989,
+    "endAt": 1741014000,
+    "transcodeVersion": "2rCPCm",
+    "sharedLink": {
+        "twitter": "https://abema.app/UHqP",
+        "facebook": "https://abema.app/B7po",
+        "google": "https://abema.app/cU3V",
+        "line": "https://abema.app/PkCb",
+        "copy": "https://abema.app/Fx7X",
+        "instagram": "https://abema.app/EXF9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/143-43_s2_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/143-43_s2_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/143-43_s2_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-43_s2_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0053333333333,
+        "opening": {
+            "end": 60.026633333333336
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-43_s2_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727030400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727696400
+        }
+    ],
+    "episodeGroupId": "143-43_eg0"
+}

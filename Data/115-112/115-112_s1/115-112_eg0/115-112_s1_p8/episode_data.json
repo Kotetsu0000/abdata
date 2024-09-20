@@ -1,0 +1,150 @@
+{
+    "id": "115-112_s1_p8",
+    "series": {
+        "id": "115-112",
+        "title": "夜のクラゲは泳げない",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-112",
+            "filename": "thumb.png",
+            "query": "version=1711870430",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-112",
+            "filename": "portrait.png",
+            "query": "version=1711870430",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-112_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1425
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 カソウライブ",
+        "content": "夏真っ盛りの八月、二ヶ月後には結成一周年を控えた「JELEE」。自分たちの声をファンに直接届けたいという花音の提案で一周年記念の仮装ライブを行うことに。だが、それにはライブ用の新曲作成に会場の選定とやることだらけ。そこで一気に片付けてしまおうというまひるの提案で４人で合宿をすることになる。いざやってきた合宿の日、会場を予約しためいに案内されたのは……"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "光月まひる：伊藤美来",
+            "山ノ内花音：高橋李依",
+            "渡瀬キウイ：富田美憂",
+            "高梨・キム・アヌーク・めい：島袋美由利",
+            "みー子：上坂すみれ",
+            "瀬藤メロ：岡咲美保",
+            "柳桃子：首藤志奈",
+            "鈴村あかり：天城サリー"
+        ],
+        "crews": [
+            "原作：JELEE",
+            "監督：竹下良平",
+            "シリーズ構成・脚本：屋久ユウキ",
+            "キャラクター原案：popman3580",
+            "キャラクターデザイン：谷口淳一郎",
+            "サブキャラクターデザイン：中島千明／朱里",
+            "衣装デザイン：葛原詩乃／長澤翔子",
+            "プロップデザイン：服部未夢",
+            "総作画監督：谷口淳一郎／豊田暁子／鈴木明日香",
+            "メインアニメーター：太田慎之介／Saurabh Singh／中尾和麻",
+            "劇中イラスト原案：はむねずこ",
+            "美術監督：金子雄司",
+            "美術設定：平澤晃弘",
+            "色彩設計：石黒けい",
+            "撮影監督：桒野貴文",
+            "編集：木村佳史子",
+            "音響監督：木村絵理子",
+            "音楽：横山 克",
+            "音楽制作：キングレコード",
+            "アニメーション制作：動画工房"
+        ],
+        "copyrights": [
+            "(C)JELEE／「夜のクラゲは泳げない」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719817004,
+    "endAt": 1767193200,
+    "transcodeVersion": "wyeve",
+    "sharedLink": {
+        "twitter": "https://abema.app/nUKA",
+        "facebook": "https://abema.app/XoAv",
+        "google": "https://abema.app/HLXD",
+        "line": "https://abema.app/58av",
+        "copy": "https://abema.app/gUsZ",
+        "instagram": "https://abema.app/a5Tp"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-112_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-112_s1_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-112_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-112_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.2605833333334,
+        "opening": {
+            "start": 81.99858333333333,
+            "end": 172.00516666666667
+        },
+        "ending": {
+            "start": 1345.2605833333334,
+            "end": 1419.9602083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-112_s1_p9",
+        "title": "第9話 現実見ろ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719817004,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-112_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "115-112_eg0"
+}

@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p891",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 646
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 891,
+        "title": "#891 カップルテストバッジ",
+        "content": "みちばたではげしい夫婦ゲンカを目撃したのび太は、将来、しずかと結婚してうまくいくのか、心配になってしまう。\n　見かねたドラえもんは、『カップルテストバッジ』を取りだす。名前のとおり、結婚がうまくいくかどうか、あらかじめテストするためのバッジだという。\n　さっそく片方の白いバッジを自分のむねにつけ、もう一方の赤いバッジをしずかにつけてもらおうと、持っていったのび太。だが、途中でどこかに落としてしまって…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1732978800,
+    "transcodeVersion": "3HeoKb",
+    "sharedLink": {
+        "twitter": "https://abema.app/Sh3v",
+        "facebook": "https://abema.app/PdcQ",
+        "google": "https://abema.app/zefP",
+        "line": "https://abema.app/A1sK",
+        "copy": "https://abema.app/a1VA",
+        "instagram": "https://abema.app/mboc"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p891/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p891/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p891/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p891"
+    },
+    "viewingPoint": {
+        "suggestion": 641.9413
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p892",
+        "title": "#892 モーテン星",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335975,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p891/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

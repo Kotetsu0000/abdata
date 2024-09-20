@@ -1,0 +1,155 @@
+{
+    "id": "506-4_s1_p5",
+    "series": {
+        "id": "506-4",
+        "title": "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-4",
+            "filename": "thumb.png",
+            "query": "version=1714017172",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-4",
+            "filename": "portrait.png",
+            "query": "version=1714017172",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "506-4_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "#5 狂乱の開幕",
+        "content": "「死んだはずのシリル将軍が現れた」という噂に揺れる王都。その裏では、クレイグたちの謀略が進んでいた。\n訓練場に誘き出される第一騎士団のエドワード団長──悪魔に襲われる勇者・アキラ……\nそして、大司教と共に、民衆の前に姿を現すシリル将軍。クレイグと、ブレットの歪んだプライドが、王都を襲う！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "アレン：蒼井翔太",
+            "リーズ：栗坂南美",
+            "アンリエット：鬼頭明里",
+            "ノエル：雨宮 天",
+            "ミレーヌ：愛美"
+        ],
+        "crews": [
+            "原作：紅月シン『出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした』（ＴＯブックス刊）",
+            "原作イラスト：ちょこ庵",
+            "漫画：烏間ル",
+            "監督：古賀一臣",
+            "キャラクターデザイン・総作画監督：細田沙織",
+            "音楽：羽岡 佳"
+        ],
+        "copyrights": [
+            "(C) 紅月シン・ＴＯブックス／出来そこ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1718961183,
+    "endAt": 1751295600,
+    "transcodeVersion": "7Pzdid",
+    "sharedLink": {
+        "twitter": "https://abema.app/dm99",
+        "facebook": "https://abema.app/nUyp",
+        "google": "https://abema.app/ZvZd",
+        "line": "https://abema.app/CzbM",
+        "copy": "https://abema.app/j7rS",
+        "instagram": "https://abema.app/oAUb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/506-4_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/506-4_s1_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/506-4_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.506-4_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.4174166666667,
+        "opening": {
+            "start": 137.011875,
+            "end": 226.97675
+        },
+        "ending": {
+            "start": 1335.4174166666667,
+            "end": 1424.9235
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "506-4_s1_p6",
+        "title": "#6 憎悪の果て",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1718961183,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726457400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/506-4_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726457400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727145600
+        }
+    ],
+    "episodeGroupId": "506-4_eg0"
+}

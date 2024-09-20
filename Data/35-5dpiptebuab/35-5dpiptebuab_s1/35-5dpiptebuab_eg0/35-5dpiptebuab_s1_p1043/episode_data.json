@@ -1,0 +1,166 @@
+{
+    "id": "35-5dpiptebuab_s1_p1043",
+    "series": {
+        "id": "35-5dpiptebuab",
+        "title": "プロゴルファー猿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5dpiptebuab",
+            "filename": "thumb.png",
+            "query": "version=1720761411",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5dpiptebuab",
+            "filename": "portrait.png",
+            "query": "version=1720761411",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5dpiptebuab_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 760
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1043,
+        "title": "第43話 おっちゃん大奮闘",
+        "content": "勝負の途中、猿は不注意で左足を負傷しピンチを迎えてしまう。かつてないチャンスを前に、おっちゃんは猿から初勝利をつかめるか？"
+    },
+    "credit": {
+        "released": 1985,
+        "casts": [
+            "猿谷猿丸:頓宮恭子",
+            "猿谷中丸:高木早苗",
+            "猿谷大丸:峰あつ子",
+            "猿谷小丸:原えりこ",
+            "母:高村章子",
+            "姉:鵜飼るみ子",
+            "ゴエモン:峰あつ子",
+            "おっちゃん:富田耕生",
+            "若葉:堀江美都子",
+            "ミスターX:内海賢二"
+        ],
+        "crews": [
+            "チーフディレクター:西村純二",
+            "脚本:松岡清治",
+            "作画監督:本橋秀之",
+            "演出:鈴木幸雄",
+            "井内秀治",
+            "今川泰宏",
+            "音楽:筒井広志",
+            "制作協力:スタジオディーン",
+            "制作:テレビ朝日・シンエイ動画"
+        ],
+        "copyrights": [
+            "(C)藤子スタジオ／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1720764370,
+    "endAt": 1756652400,
+    "freeEndAt": 1726839540,
+    "transcodeVersion": "3BzSt6",
+    "sharedLink": {
+        "twitter": "https://abema.app/Y7RS",
+        "facebook": "https://abema.app/LKc4",
+        "google": "https://abema.app/Xner",
+        "line": "https://abema.app/6Wzv",
+        "copy": "https://abema.app/3jH9",
+        "instagram": "https://abema.app/Ugse"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-5dpiptebuab_s1_p1043/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-5dpiptebuab_s1_p1043/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-5dpiptebuab_s1_p1043/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-5dpiptebuab_s1_p1043/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5dpiptebuab_s1_p1043"
+    },
+    "viewingPoint": {
+        "suggestion": 755.755
+    },
+    "nextProgramInfo": {
+        "programId": "35-5dpiptebuab_s1_p1044",
+        "title": "第44話 新コース誕生",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1720764398,
+        "endAt": 1756652400,
+        "freeEndAt": 1726839540,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726839540
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5dpiptebuab_s1_p1043/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726839540
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5dpiptebuab_eg0"
+}

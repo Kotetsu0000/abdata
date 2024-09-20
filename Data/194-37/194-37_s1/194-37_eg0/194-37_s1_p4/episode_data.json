@@ -1,0 +1,148 @@
+{
+    "id": "194-37_s1_p4",
+    "series": {
+        "id": "194-37",
+        "title": "道産子ギャルはなまらめんこい",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-37",
+            "filename": "thumb.png",
+            "query": "version=1704332071",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-37",
+            "filename": "portrait.png",
+            "query": "version=1704332071",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "194-37_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "だい4わ「夜の電話はなまらもちょこい」",
+        "content": "猛吹雪の中、スキー授業で全身筋肉痛の翼は車で登校中の美波に声をかけられる。\n美波そっくりな母・眞衣が運転する車に同乗させてもらった翼は、\n親子揃ってギャル、そしてイジり体質を持つ冬木家の血筋を感じながら登校する。\nスキー授業の一件で打ち解けた翼と沙友理はゲームの師弟関係になっていた。\n二人を羨ましく思う美波も参加し、三人揃って遊びに行くことに。美波の屈託のない性格に触れ、沙友理の気持ちにも変化が起きていく。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "四季 翼：島﨑信長",
+            "冬木美波：佐倉綾音",
+            "秋野沙友理：花守ゆみり",
+            "夏川怜奈：上田麗奈"
+        ],
+        "crews": [
+            "原作：伊科田海（集英社「少年ジャンプ＋」連載）",
+            "総監督・シリーズ構成：湊 未來",
+            "監督：星野美鈴",
+            "キャラクターデザイン：佐藤勝行"
+        ],
+        "copyrights": [
+            "(C)伊科田海／集英社・道産子ギャルはなまらめんこい製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711971663,
+    "endAt": 1743433200,
+    "transcodeVersion": "uxfxS",
+    "sharedLink": {
+        "twitter": "https://abema.app/QaqF",
+        "facebook": "https://abema.app/RXki",
+        "google": "https://abema.app/6p5Y",
+        "line": "https://abema.app/bRnj",
+        "copy": "https://abema.app/GwCA",
+        "instagram": "https://abema.app/k9xG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/194-37_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/194-37_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/194-37_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.194-37_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.0153333333333,
+        "opening": {
+            "start": 153.027875,
+            "end": 242.95104166666667
+        },
+        "ending": {
+            "start": 1350.0153333333333,
+            "end": 1439.9385
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "194-37_s1_p5",
+        "title": "だい5わ「なまら苦くてなまら甘い」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711971663,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-37_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "194-37_eg0"
+}

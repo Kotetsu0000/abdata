@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p909",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 909,
+        "title": "#909 シャボン玉宅配便",
+        "content": "せっかくやった宿題を家にわすれてきてしまったのび太が青ざめていると、なぜか教室の窓（まど）の外に、のび太がわすれたはずのノートが入った大きなシャボン玉がフワフワと浮いていたからビックリ！ のび太が窓を開けると、シャボン玉は教室の中に入り、のび太の目の前でパチンとわれて中のノートが落ちる。無事に宿題を出したのび太は、ドラえもんがとどけてくれたのだと確信（かくしん）する。\n　家に帰ったのび太は、ドラえもんから『宅配（たくはい）シャボン玉ストローとスーパーシャボン玉液（えき）』を使って、ノートをとどけたことを聞く。これを使うと、とどけたいものをシャボン玉の中に入れて、確実にとどけることができるのだという。\n　自分もシャボン玉を使って、しずかに借りていた本を返したいと考えるのび太。さっそく借りていた本に向かってシャボン玉を作り、「しずかちゃんのところまで！」と行き先を言うと、本を包み込んだシャボン玉が窓から飛んで行った。無事にとどくか心配になったのび太は、シャボン玉を追いかけていくが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1748703600,
+    "transcodeVersion": "2xbvaC",
+    "sharedLink": {
+        "twitter": "https://abema.app/sWVv",
+        "facebook": "https://abema.app/M5Kr",
+        "google": "https://abema.app/2nqm",
+        "line": "https://abema.app/FWtB",
+        "copy": "https://abema.app/3t5u",
+        "instagram": "https://abema.app/dG88"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p909/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p909/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p909/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p909"
+    },
+    "viewingPoint": {
+        "suggestion": 639.88925
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p910",
+        "title": "#910 １０分おくれのエスパー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p909/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

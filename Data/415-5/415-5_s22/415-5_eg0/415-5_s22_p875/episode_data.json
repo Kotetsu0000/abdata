@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s22_p875",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s22",
+        "sequence": 22,
+        "name": "season22",
+        "thumbComponent": {},
+        "order": 22
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 875,
+        "title": "第875話 不思議な予知仏像",
+        "content": "小五郎は不思議な仏像の謎を解くため、コナン、蘭と方斗寺にやってくる。本堂の十一面観音は勝手に横や後ろを向く事があり、そうなった後は必ず悪い事が起きるという。この日も仏像は後ろを向いていて、住職の福原栄鏡の妻、昌子と娘の由佳はまた悪い事が起きるかもしれないと不安になる。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066317,
+    "endAt": 1740754800,
+    "transcodeVersion": "777Vos",
+    "sharedLink": {
+        "twitter": "https://abema.app/28SB",
+        "facebook": "https://abema.app/eFyp",
+        "google": "https://abema.app/5sas",
+        "line": "https://abema.app/wFQs",
+        "copy": "https://abema.app/45cU",
+        "instagram": "https://abema.app/gYKY"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p875/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p875/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s22_p875/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s22_p875"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 82.99958333333333,
+            "end": 181.93175
+        },
+        "ending": {
+            "start": 1281.7805,
+            "end": 1361.485125
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s22_p876",
+        "title": "第876話 機械じかけの目撃者",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066317,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s22_p875/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

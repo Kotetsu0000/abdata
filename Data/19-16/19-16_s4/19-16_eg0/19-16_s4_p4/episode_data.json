@@ -1,0 +1,180 @@
+{
+    "id": "19-16_s4_p4",
+    "series": {
+        "id": "19-16",
+        "title": "ハイキュー!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "thumb.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "portrait.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-16_s4",
+        "sequence": 4,
+        "name": "ハイキュー!! TO THE TOP",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1436
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 「”楽”」",
+        "content": "宮城県1年生選抜強化合宿も終盤。\nバレー歴が浅く練習についていけない角川学園の百沢に、日向はあることを伝える。\n一方全日本ユース強化合宿に参加している影山は、全国の猛者たちと共にプレーをする中で…。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "村瀬歩",
+            "石川界人",
+            "日野聡",
+            "入野自由",
+            "林勇",
+            "細谷佳正",
+            "岡本信彦",
+            "内山 昂輝",
+            "斉藤壮馬",
+            "増田俊樹",
+            "名塚佳織",
+            "諸星すみれ",
+            "神谷浩史",
+            "江川央生",
+            "花江夏樹",
+            "宮野真守"
+        ],
+        "crews": [
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載中）",
+            "監督：佐藤雅子",
+            "副監督：石川真理子",
+            "シリーズ構成：岸本卓",
+            "キャラクターデザイン：岸田隆宏",
+            "プロップデザイン：米川麻衣",
+            "総作画監督：小林祐",
+            "アクション作画監督：高橋英樹",
+            "美術監督・設定：立田一郎[スタジオ風雅]",
+            "色彩設計：佐藤真由美",
+            "色彩設計補佐：有澤法子",
+            "撮影監督：中田祐美子",
+            "撮影監督補佐：福井千耀",
+            "3D：岩崎浩平[V-sign]",
+            "2Dワークス：濱中亜希子",
+            "特殊効果：星美弥子",
+            "編集：植松淳一",
+            "音響監督：菊田浩巳",
+            "音楽：林ゆうき・橘麻美",
+            "制作：Production I.G"
+        ],
+        "copyrights": [
+            "(Ｃ)古舘春一／集英社・「ハイキュー!!」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684374729,
+    "endAt": 1738335600,
+    "transcodeVersion": "7DAkMd",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/PDp9f",
+        "facebook": "https://gxyt4.app.goo.gl/k9YWX",
+        "google": "https://gxyt4.app.goo.gl/ZxoDn",
+        "line": "https://gxyt4.app.goo.gl/iorPB",
+        "copy": "https://gxyt4.app.goo.gl/5LqYY",
+        "instagram": "https://gxyt4.app.goo.gl/cp3Jk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-16_s4_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-16_s4_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-16_s4_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-16_s4_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.997188,
+        "opening": {
+            "start": 53.132754,
+            "end": 140.032755
+        },
+        "ending": {
+            "start": 1342.053721,
+            "end": 1428.953722
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-16_s4_p5",
+        "title": "第5話 「空腹」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1684374729,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-16_s4_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-16_eg0"
+}

@@ -1,0 +1,157 @@
+{
+    "id": "26-225_s1_p1",
+    "series": {
+        "id": "26-225",
+        "title": "先輩はおとこのこ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-225",
+            "filename": "thumb.png",
+            "query": "version=1720762371",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-225",
+            "filename": "portrait.png",
+            "query": "version=1720762371",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-225_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1369
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 先輩はおとこのこ",
+        "content": "高校二年生の花岡まことには、“普通”じゃないところがある。それは、男の子だけど、学校では女の子の姿で過ごしていること。ある日、まことは「伝えたいことがあるので放課後教室に残っていてほしい」というラブレターを受け取る。放課後、まことの前に現れたのは、後輩の一年生女子・蒼井咲だった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "花岡まこと：梅田修一朗",
+            "蒼井 咲：関根明良",
+            "大我竜二：内田雄馬",
+            "花岡美香 ：中原麻衣",
+            "大我小夏 ：前田佳織里"
+        ],
+        "crews": [
+            "原作：『先輩はおとこのこ』ぽむ（「LINEマンガ」連載）",
+            "監督：柳 伸亮",
+            "シリーズ構成：冨田頼子",
+            "キャラクターデザイン：新海翔斗",
+            "プロップデザイン：北山景子",
+            "美術監督：安田ゆかり（オリーブ）",
+            "美術設定：秋山健太郎（スタジオPablo）",
+            "色彩設計：鈴木ようこ",
+            "撮影監督：上條智也",
+            "編集：新沼奈美（グラフィニカ）",
+            "3D/CG：齋藤威志（WIRED）",
+            "音響監督：本山 哲",
+            "音響制作：ビットグルーヴプロモーション",
+            "音楽：橋本由香利",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)pom・JOYNET/LINE Digital Frontier・「先輩はおとこのこ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725944764,
+    "endAt": 1751900400,
+    "freeEndAt": 1751900400,
+    "transcodeVersion": "6Xgm6Y",
+    "sharedLink": {
+        "twitter": "https://abema.app/db8C",
+        "facebook": "https://abema.app/FZvR",
+        "google": "https://abema.app/3Qw7",
+        "line": "https://abema.app/yRHJ",
+        "copy": "https://abema.app/eZrR",
+        "instagram": "https://abema.app/KNzg"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-225_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-225_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/26-225_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-225_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-225_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1280.02875,
+        "opening": {
+            "start": 186.97845833333332,
+            "end": 276.9850416666667
+        },
+        "ending": {
+            "start": 1280.02875,
+            "end": 1369.9519166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-225_s1_p2",
+        "title": "第2話 かわいいものめぐり",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725944764,
+        "endAt": 1751900400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751900400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-225_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1751900400
+        }
+    ],
+    "episodeGroupId": "26-225_eg0"
+}

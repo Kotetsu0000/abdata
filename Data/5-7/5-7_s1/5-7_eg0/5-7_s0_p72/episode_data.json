@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p72",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 72,
+        "title": "第72話 ｢さらばトキ！男の涙は一度だけ！！」",
+        "content": "宿命の幕を閉じるトキとラオウ。ラオウの闘勁呼法によって全闘力を拳に集約させたトキ。トキの蹴りにラオウの身体が宙を舞った。勝機と見たトキは天翔百裂拳を激しく叩き込む。しかし、トキの剛の拳はラオウには効かなかった！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "Mm17J",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/T9PQB",
+        "facebook": "https://gxyt4.app.goo.gl/Ew78M",
+        "google": "https://gxyt4.app.goo.gl/Eeo1q",
+        "line": "https://gxyt4.app.goo.gl/Gf5Ch",
+        "copy": "https://gxyt4.app.goo.gl/ymjxJ",
+        "instagram": "https://gxyt4.app.goo.gl/zWZsn"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p72/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p72/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p72/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p72"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.095288,
+        "opening": {
+            "start": 32.922755,
+            "end": 124.514355
+        },
+        "ending": {
+            "start": 1340.095288,
+            "end": 1429.918455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p73",
+        "title": "第73話 ｢天狼星の男リュウガ！俺は乱世に虹をつかむ！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p72/timeline",
+        "query": "version=Mm17J",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

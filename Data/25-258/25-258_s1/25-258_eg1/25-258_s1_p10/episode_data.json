@@ -1,0 +1,155 @@
+{
+    "id": "25-258_s1_p10",
+    "series": {
+        "id": "25-258",
+        "title": "じいさんばあさん若返る",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-258",
+            "filename": "thumb.png",
+            "query": "version=1713755448",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-258",
+            "filename": "portrait.png",
+            "query": "version=1713755448",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-258_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 じいさんばあさんの日常",
+        "content": "りんごの若木をもらって以来、未乃はますます正蔵たちのもとへ通うように。そんな折、正蔵とイネにハロウィンの仮装をやろうと提案する未乃。当日、将太を連れて遊びに行くと、仮装した正蔵たちの姿にびっくりする。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "正蔵：三木眞一郎",
+            "イネ：能登麻美子",
+            "未乃：三上枝織",
+            "詩織：東山奈央"
+        ],
+        "crews": [
+            "原作：新挑 限",
+            "監督：西田正義",
+            "シリーズ構成：菅原雪絵",
+            "キャラクターデザイン：たかはし なぎさ",
+            "音楽：長谷川智樹",
+            "アニメーション制作：月虹"
+        ],
+        "copyrights": [
+            "(C)新挑限・KADOKAWA／じいさんばあさん若返る製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721899281,
+    "endAt": 1782831600,
+    "freeEndAt": 1726786800,
+    "transcodeVersion": "7Ffws5",
+    "sharedLink": {
+        "twitter": "https://abema.app/o4zv",
+        "facebook": "https://abema.app/gtSS",
+        "google": "https://abema.app/zbRs",
+        "line": "https://abema.app/Szw5",
+        "copy": "https://abema.app/VSsU",
+        "instagram": "https://abema.app/viw7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-258_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-258_s1_p10/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-258_s1_p10/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-258_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-258_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1410.0419666666667,
+        "opening": {
+            "start": 87.9879,
+            "end": 178.01116666666667
+        },
+        "ending": {
+            "start": 1305.0370666666668,
+            "end": 1394.9936
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-258_s1_p11",
+        "title": "第11話 じいさんばあさんと冬休み",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1721899281,
+        "endAt": 1782831600,
+        "freeEndAt": 1726786800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726786800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-258_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726786800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1727055600
+        }
+    ],
+    "episodeGroupId": "25-258_eg1"
+}

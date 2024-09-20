@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s19_p739",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s19",
+        "sequence": 19,
+        "name": "season19",
+        "thumbComponent": {},
+        "order": 19
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 739,
+        "title": "第739話 小五郎はBARにいる（後編）",
+        "content": "実夏、初村、小暮は凶器や毒物を所持しておらず、目暮たちは凶器や毒物を見つけるため、店内をもう一度調べ直す事に。コナンはふと天井を見上げて何かに気付く。そして小五郎の靴底にはガムのような事件の証拠品が付いていた。コナンはこの証拠品を足がかかりに犯人が薄田を殺害したトリックを見破って…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066313,
+    "endAt": 1740754800,
+    "transcodeVersion": "4U6hFc",
+    "sharedLink": {
+        "twitter": "https://abema.app/3257",
+        "facebook": "https://abema.app/BgRy",
+        "google": "https://abema.app/UgXG",
+        "line": "https://abema.app/qti5",
+        "copy": "https://abema.app/qfKa",
+        "instagram": "https://abema.app/x7Lt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s19_p739/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s19_p739/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s19_p739/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s19_p739"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 146.31283333333334,
+            "end": 234.00043333333332
+        },
+        "ending": {
+            "start": 1179.7452333333333,
+            "end": 1259.6250333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s19_p740",
+        "title": "第740話 蘭も倒れたバスルーム（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066313,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s19_p739/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

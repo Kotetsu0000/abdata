@@ -1,0 +1,142 @@
+{
+    "id": "203-2_s1_p219",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s1",
+        "sequence": 101,
+        "name": "こちら葛飾区亀有公園前派出所",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1559
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 219,
+        "title": "第219話 魔法のヤカン",
+        "content": "両津は天国の魔法使い小梅からやかんをもらった。そのやかんは入れたお金を２倍に増やせるやかんだった。しかし、両津は5円しか持っていなくて…"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382152,
+    "endAt": 1743433200,
+    "transcodeVersion": "27Z6DE",
+    "sharedLink": {
+        "twitter": "https://abema.app/63zD",
+        "facebook": "https://abema.app/FdAC",
+        "google": "https://abema.app/kmGQ",
+        "line": "https://abema.app/9LpD",
+        "copy": "https://abema.app/YmhK",
+        "instagram": "https://abema.app/Q89R"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-2_s1_p219/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-2_s1_p219/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-2_s1_p219/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s1_p219"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.929255,
+        "opening": {
+            "start": 220.910555,
+            "end": 308.898555
+        },
+        "ending": {
+            "start": 1440.929255,
+            "end": 1524.846622
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s1_p220",
+        "title": "第220話 檸檬に一目惚れ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382152,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s1_p219/timeline",
+        "query": "version=27Z6DE",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

@@ -1,0 +1,154 @@
+{
+    "id": "210-9_s1_p5",
+    "series": {
+        "id": "210-9",
+        "title": "アークナイツ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "thumb.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "portrait.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-9_s1",
+        "sequence": 1,
+        "name": "【黎明前奏/PRELUDE TO DAWN】",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 信頼 Ripple",
+        "content": "ロドスはチェンに命じられ、感染者の少女・ミーシャを保護した。\nしかしスラム街には、ミーシャを狙う大量のレユニオンが集まっている。\n今度はレユニオンの幹部・スカルシュレッダーまで現れて……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ドクター：甲斐田ゆき",
+            "アーミヤ：黒沢ともよ",
+            "ドーベルマン：種﨑敦美",
+            "Ace：松山鷹志",
+            "ニアール：佐倉綾音",
+            "チェン:石上静香",
+            "ホシグマ：安野希世乃",
+            "フランカ：加隈亜衣",
+            "リスカム：石川由依",
+            "エクシア：石見舞菜香",
+            "テキサス：田所あずさ",
+            "メテオリーテ：種田梨沙",
+            "ケルシー：日笠陽子"
+        ],
+        "crews": [
+            "監督：渡邉 祐記",
+            "脚本：Yostar Pictures",
+            "原作者：Hypergryph / Studio Montagne"
+        ],
+        "copyrights": [
+            "（C）Hypergryph / Studio Montagne"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701063054,
+    "endAt": 1759244400,
+    "transcodeVersion": "5Y7rPn",
+    "sharedLink": {
+        "twitter": "https://abema.app/VrxL",
+        "facebook": "https://abema.app/Jsoi",
+        "google": "https://abema.app/7sKT",
+        "line": "https://abema.app/pKHi",
+        "copy": "https://abema.app/Lxg1",
+        "instagram": "https://abema.app/iB6y"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/210-9_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/210-9_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/210-9_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-9_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.061266,
+        "opening": {
+            "start": 60.700234,
+            "end": 148.461293
+        },
+        "ending": {
+            "start": 1332.051448,
+            "end": 1421.019789
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-9_s1_p6",
+        "title": "第6話 急襲 Farewell",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1701063054,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-9_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-9_eg0"
+}

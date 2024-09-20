@@ -1,0 +1,145 @@
+{
+    "id": "143-44_s2_p7",
+    "series": {
+        "id": "143-44",
+        "title": "ちはやふる",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "thumb.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "portrait.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-44_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1370
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第七首 しるもしらぬも あふさかのせき",
+        "content": "東京都予選で勝てなかったことに落ち込む千早。かるたの練習さえ手がつかない様子をみて、母親はあるところに千早を連れ出す。家族の想いや学校からの応援をうけて瑞沢高校かるた部は全国大会へ向けいざ全国大会、近江神宮へ！"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "綾瀬千早：瀬戸麻沙美",
+            "綿谷新 ：細谷佳正",
+            "真島太一：宮野真守",
+            "大江奏：茅野愛衣",
+            "西田優征：奈良 徹",
+            "駒野勉：代永 翼"
+        ],
+        "crews": [
+            "原作：末次由紀（講談社「BE・LOVE」連載）",
+            "監督：浅香守生",
+            "シリーズ構成：柿原裕子、加藤綾子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "撮影監督：藤田賢治",
+            "色彩設定：鎌田千賀子、橋本 賢",
+            "デジタルアーティスト：石神亮一",
+            "編集：木村佳史子",
+            "音楽：山下康介",
+            "音響監督：三間雅文",
+            "アニメーション制作：マッドハウス",
+            "制作著作：バップ、日本テレビ"
+        ],
+        "copyrights": [
+            "(C)末次由紀／講談社・VAP・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708750250,
+    "endAt": 1743433200,
+    "transcodeVersion": "5orKg5",
+    "sharedLink": {
+        "twitter": "https://abema.app/8rUq",
+        "facebook": "https://abema.app/ekRJ",
+        "google": "https://abema.app/3gdh",
+        "line": "https://abema.app/Q7c4",
+        "copy": "https://abema.app/g3vH",
+        "instagram": "https://abema.app/qksG"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-44_s2_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-44_s2_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-44_s2_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-44_s2_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.0170666666668,
+        "opening": {
+            "start": 104.03726666666667,
+            "end": 174.00716666666668
+        },
+        "ending": {
+            "start": 1285.0170666666668,
+            "end": 1370.0019666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-44_s2_p8",
+        "title": "第八首 みかさのやまに いでしつきかも",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708750261,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-44_s2_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-44_eg0"
+}

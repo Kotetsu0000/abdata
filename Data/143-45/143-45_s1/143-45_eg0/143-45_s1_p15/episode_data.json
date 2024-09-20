@@ -1,0 +1,154 @@
+{
+    "id": "143-45_s1_p15",
+    "series": {
+        "id": "143-45",
+        "title": "逆境無頼カイジ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "thumb.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-45",
+            "filename": "portrait.png",
+            "query": "version=1709345000",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-45_s1",
+        "sequence": 1,
+        "name": "逆境無頼カイジ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1368
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 天空",
+        "content": "地上74メートルの死の鉄骨渡りに成功したのは、結局、カイジと佐原の2人だけだった。大喜びの佐原は、涙を流しながら窓の方に近付く。そして、窓ガラスの向こうに俺の未来がある、と叫び、窓枠に小さな引っ掛かりを見つけて開けようとした。だが、カイジは、窓の内側で見物しているVIPたちを見て、イヤな雰囲気を感じた。VIPたちは、何かを期待するように薄笑いを浮かべていた…。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "カイジ：萩原聖人",
+            "利根川：白竜",
+            "遠藤：内田直哉",
+            "古畑：松本保典",
+            "安藤：桜井敏治",
+            "石田：家中宏",
+            "船井：石川英郎",
+            "ナレーション：立木文彦"
+        ],
+        "crews": [
+            "原作：福本伸行（講談社「ヤングマガジン」連載）",
+            "シリーズ構成：高屋敷英夫",
+            "キャラクターデザイン：高田晴仁",
+            "美術監督：横松紀彦",
+            "音楽：タニウチヒデキ",
+            "音響監督：本田保則",
+            "監督：佐藤雄三",
+            "アニメーション制作：マッドハウス"
+        ],
+        "copyrights": [
+            "(C)福本伸行,講談社・VAP・マッドハウス・NTV・D.N.ドリームパートナーズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1709085891,
+    "endAt": 1743433200,
+    "freeEndAt": 1726917300,
+    "transcodeVersion": "289TFv",
+    "sharedLink": {
+        "twitter": "https://abema.app/iKnZ",
+        "facebook": "https://abema.app/DnFU",
+        "google": "https://abema.app/9fWF",
+        "line": "https://abema.app/fNSy",
+        "copy": "https://abema.app/g73C",
+        "instagram": "https://abema.app/81Sv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/143-45_s1_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/143-45_s1_p15/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/143-45_s1_p15/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/143-45_s1_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-45_s1_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1282.1141666666667,
+        "opening": {
+            "end": 49.11573333333333
+        },
+        "ending": {
+            "start": 1282.1141666666667,
+            "end": 1353.0183333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-45_s1_p16",
+        "title": "第16話 怒髪",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1709085891,
+        "endAt": 1743433200,
+        "freeEndAt": 1726917300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726917300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-45_s1_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726917300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-45_eg0"
+}

@@ -1,0 +1,156 @@
+{
+    "id": "30-5_s2_p34",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s2",
+        "sequence": 2,
+        "name": "Season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 34,
+        "title": "#34 開口",
+        "content": "鎧の巨人との戦いに敗れたエレンは、巨大樹の森で目を覚ます。そこにはエレンと同様に巨人化の能力を有する者たちがいた。巨人の巣窟となった森では、たとえ巨人になったとしても生き抜くことは困難であり、そもそも戦い終えたばかりのエレンには巨人になれるだけの体力はない。即ち今のエレンに出来ることは、巨人が動かなくなる夜まで大人しく待つことだけ。そんなエレンに、ある人物が「俺達の故郷に来てもらう」と語りかける。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創（別冊少年マガジン連載／講談社）",
+            "総監督：荒木哲郎",
+            "監督：肥塚正史",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡、山田 歩",
+            "助監督：田中洋之"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248134,
+    "endAt": 1730386800,
+    "transcodeVersion": "2k7QKU",
+    "sharedLink": {
+        "twitter": "https://abema.app/Cv9Z",
+        "facebook": "https://abema.app/od7T",
+        "google": "https://abema.app/ajp8",
+        "line": "https://abema.app/Jtw7",
+        "copy": "https://abema.app/9WEK",
+        "instagram": "https://abema.app/9xDN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/30-5_s2_p34/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/30-5_s2_p34/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/30-5_s2_p34/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-5_s2_p34"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.976844,
+        "opening": {
+            "start": 80.019811,
+            "end": 170.0661
+        },
+        "ending": {
+            "start": 1329.976844,
+            "end": 1419.883433
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-5_s2_p35",
+        "title": "#35 子供達",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248134,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-5_s2_p34/timeline",
+        "query": "version=2k7QKU",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

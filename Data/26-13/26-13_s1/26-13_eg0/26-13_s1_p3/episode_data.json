@@ -1,0 +1,153 @@
+{
+    "id": "26-13_s1_p3",
+    "series": {
+        "id": "26-13",
+        "title": "黒執事Ⅱ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "thumb.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "portrait.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-13_s1",
+        "sequence": 1,
+        "name": "黒執事Ⅱ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "episode3 女郎（めろ）執事",
+        "content": "ロンドンで頻発している、原因不明の人体発火事件。女王の命を受けたシエルは、誇り高き“女王の番犬”として、事件を解明するためセバスチャンと共にロンドンへ向かう。やがて犯人を突き止めた2人の前に、死神――グレル・サトクリフが現れる。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "セバスチャン・ミカエリス：小野大輔",
+            "シエル・ファントムハイヴ：坂本真綾",
+            "クロード・フォースタス：櫻井孝宏",
+            "アロイス・トランシー：水樹奈々",
+            "ハンナ・アナフェローズ：平野 綾"
+        ],
+        "crews": [
+            "原作：枢やな",
+            "監督：小倉宏文",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン・総作画監督：芝美奈子",
+            "音楽：岩崎　琢"
+        ],
+        "copyrights": [
+            "(C)枢やな/スクウェアエニックス・「黒執事Ⅱ」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708327427,
+    "endAt": 1741532400,
+    "transcodeVersion": "3yNGoN",
+    "sharedLink": {
+        "twitter": "https://abema.app/6d9Q",
+        "facebook": "https://abema.app/p9qx",
+        "google": "https://abema.app/jg5x",
+        "line": "https://abema.app/MhRd",
+        "copy": "https://abema.app/ix5W",
+        "instagram": "https://abema.app/dvgP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-13_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-13_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-13_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-13_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1462.09,
+        "opening": {
+            "start": 75.029599,
+            "end": 165.051866
+        },
+        "ending": {
+            "start": 1293.417059,
+            "end": 1383.0353
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-13_s1_p4",
+        "title": "episode4 テロ執事",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708327427,
+        "endAt": 1741532400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741532400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-13_s1_p3/timeline",
+        "query": "version=3yNGoN",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-13_eg0"
+}

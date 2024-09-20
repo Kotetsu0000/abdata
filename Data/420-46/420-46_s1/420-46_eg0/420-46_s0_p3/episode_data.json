@@ -1,0 +1,155 @@
+{
+    "id": "420-46_s0_p3",
+    "series": {
+        "id": "420-46",
+        "title": "転生したらスライムだった件 OAD",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-46",
+            "filename": "thumb.png",
+            "query": "version=1631768034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-46",
+            "filename": "portrait.png",
+            "query": "version=1631768034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1492
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 外伝：リムルの華麗な教師生活　その１",
+        "content": "教師としてシズの教え子達と過ごすリムルだったが、恒例の学校行事・野外訓練に参加することに！クラスごとに目的地まで旅をしながら実地で戦闘を学ぶオリエンテーションだが、生徒たちの前に思わぬ敵が現れて…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "リムル:岡咲美保",
+            "大賢者:豊口めぐみ",
+            "ベニマル:古川慎",
+            "シュナ:千本木彩花",
+            "シオン:M・A・O",
+            "ソウエイ:江口拓也",
+            "ハクロウ:大塚芳忠",
+            "ゴブタ:泊明日菜",
+            "ランガ:小林親弘",
+            "リグルド:山本兼平",
+            "ガビル:福島潤",
+            "ソーカ:大久保瑠美",
+            "トレイニー:田中理恵",
+            "ミリム:日高里菜　他"
+        ],
+        "crews": [
+            "原作:川上泰樹・伏瀬・みっつばー（講談社「月刊少年シリウス」連載）",
+            "監督:菊地康仁",
+            "副監督:中山敦史",
+            "脚本:筆安一幸",
+            "キャラクターデザイン:江畑諒真",
+            "モンスターデザイン:岸田隆宏",
+            "美術監督:佐藤 歩",
+            "美術設定:藤瀬智康、佐藤正浩",
+            "色彩設計:斉藤麻記",
+            "撮影監督:佐藤 洋",
+            "グラフィックデザイナー:生原雄次",
+            "編集:神宮司由美",
+            "音響監督:明田川仁",
+            "音楽:Elements Garden",
+            "音響制作:マジックカプセル",
+            "アニメーション制作:エイトビット",
+            "製作:講談社"
+        ],
+        "copyrights": [
+            "(C)伏瀬・川上泰樹／講談社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689140251,
+    "endAt": 1759244400,
+    "transcodeVersion": "3SUse9",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ta5d",
+        "facebook": "https://abema.app/C4Rg",
+        "google": "https://abema.app/if7p",
+        "line": "https://abema.app/2HXE",
+        "copy": "https://abema.app/5Jys",
+        "instagram": "https://abema.app/cbnX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-46_s0_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-46_s0_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-46_s0_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-46_s0_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1402.340629,
+        "opening": {
+            "start": 153.885266,
+            "end": 243.849144
+        },
+        "ending": {
+            "start": 1402.340629,
+            "end": 1492.438365
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-46_s0_p4",
+        "title": "第4話 外伝：リムルの華麗な教師生活　その２",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689140251,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-46_s0_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "420-46_eg0"
+}

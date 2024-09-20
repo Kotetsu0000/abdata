@@ -1,0 +1,143 @@
+{
+    "id": "377-2_s1_p1",
+    "series": {
+        "id": "377-2",
+        "title": "ウルトラマンアーク",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/377-2",
+            "filename": "thumb.png",
+            "query": "version=1726117618",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/377-2",
+            "filename": "portrait.png",
+            "query": "version=1726117618",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "377-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 未来へ駆ける円弧(アーク)",
+        "content": "飛世ユウマは、怪獣災害の防止、調査、事後処理などを目的とする怪獣防災科学調査所、通称「SKIP」の新人所員である。\n「みんなを守りたい」の想いを込めユウマが日々の業務に追われるなか、地球防衛隊から石堂シュウという人物が「SKIP」にやってくる...。\n彼らは怪獣シャゴンの動向を追いかけるが、危険な状況に陥ってしまう!? その時!ユウマの前に現れたのは...!!"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "飛世 ユウマ:戸塚 有輝",
+            "石堂シュウ:金田 昇",
+            "夏目リン:水谷 果穂",
+            "伴ヒロシ:西 興一朗"
+        ],
+        "crews": [
+            "脚本:継田 淳",
+            "監督:辻本 貴則"
+        ],
+        "copyrights": [
+            "©円谷プロ ©ウルトラマンアーク製作委員会・テレビ東京"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726206618,
+    "endAt": 1769871600,
+    "transcodeVersion": "3jfDQD",
+    "sharedLink": {
+        "twitter": "https://abema.app/S7KX",
+        "facebook": "https://abema.app/WQdz",
+        "google": "https://abema.app/LqDU",
+        "line": "https://abema.app/fFLw",
+        "copy": "https://abema.app/CLi4",
+        "instagram": "https://abema.app/vCie"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/377-2_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/377-2_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/377-2_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.377-2_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1374.998625,
+        "opening": {
+            "start": 119.03558333333334,
+            "end": 216.96675
+        },
+        "ending": {
+            "start": 1374.998625,
+            "end": 1454.9535
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "377-2_s1_p2",
+        "title": "第2話 伝説は森の中に",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726206618,
+        "endAt": 1769871600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1769871600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/377-2_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1769871600
+        }
+    ],
+    "episodeGroupId": "377-2_eg0"
+}

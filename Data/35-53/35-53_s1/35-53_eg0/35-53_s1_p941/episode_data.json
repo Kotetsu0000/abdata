@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p941",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 580
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 941,
+        "title": "#941 のび太もたまには考える２",
+        "content": "「明日の算数のテストで０点を取ったら、幼稚園（ようちえん）からやり直してもらう」と、先生にクギをさされ、ドラえもんに泣きつくのび太。ところがドラえもんには、「いっぺんでいいから本気で悩んでみろ！」とつき放されてしまう。しかたなく勉強をはじめるのび太だったが、よりによってママから買い物をたのまれてしまった…。\n　一気にやる気がなくなったと落ちこむのび太を見たドラえもんは、しかたなく『能力（のうりょく）カセット』を取りだす。カセットには、さまざまな人の能力が入っており、それを体にセットすると、１時間だけ自分の能力として使うことができるのだ。\n　さっそく“マラソン選手の能力”を選んで、すばやくおつかいをすませたのび太は、カセットの中に“数学者の能力”が入っていることに気がつき、ドラえもんから取り上げてしまう。そして、あっという間に勉強を終わらせると、昼寝（ひるね）をする始末…。\n　次の日、ふたたびドラえもんから能力カセットを借り、算数のテストにのぞむのび太だったが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335977,
+    "endAt": 1751295600,
+    "transcodeVersion": "4YPYGT",
+    "sharedLink": {
+        "twitter": "https://abema.app/qAFd",
+        "facebook": "https://abema.app/pUAK",
+        "google": "https://abema.app/7X7Q",
+        "line": "https://abema.app/yqnk",
+        "copy": "https://abema.app/5HfT",
+        "instagram": "https://abema.app/1JJQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p941/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p941/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p941/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p941"
+    },
+    "viewingPoint": {
+        "suggestion": 575.950375
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p942",
+        "title": "#942 ドラえもんに恋したタヌキ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335977,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p941/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

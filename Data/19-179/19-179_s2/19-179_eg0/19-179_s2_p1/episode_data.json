@@ -1,0 +1,139 @@
+{
+    "id": "19-179_s2_p1",
+    "series": {
+        "id": "19-179",
+        "title": "To LOVEる -とらぶる-",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-179",
+            "filename": "thumb.png",
+            "query": "version=1705467257",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-179",
+            "filename": "portrait.png",
+            "query": "version=1705467257",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-179_s2",
+        "sequence": 2,
+        "name": "もっとTo LOVEる -とらぶる-",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 ｢もう一度ここから｣｢お風呂場戦争｣｢チクタクチクタク恋の音｣",
+        "content": "「もう一度ここから」いつものごとく偶然パンツを見てヤミにパンチされたリトは､大空高く舞い上り､落ちてきた｡それを見たララは･･･｡\n「お風呂場戦争」銭湯でくつろぐリト一行。そこにヤミを狙う宇宙の賞金稼ぎが現れ、リトを操ってヤミを…というかヤミのバスタオルを狙う、けしからん事件が勃発して…。\n「チクタクチクタク恋の音◇」帰宅中、どしゃ降りに見舞われた風紀委員の唯は、公園でリトと一緒に雨宿りをする羽目になり、思わず胸の鼓動が激しくなって…。\n※正式サブタイトルは、◇がハートマークとなります。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "渡辺明乃",
+            "戸松 遥",
+            "矢作紗友里",
+            "花澤香菜",
+            "名塚佳織",
+            "福圓美里",
+            "能登麻美子",
+            "伊藤かな恵",
+            "豊崎愛生"
+        ],
+        "crews": [
+            "監督：大槻敦史",
+            "原作：矢吹健太朗／長谷見沙貴「To LOVEる-とらぶる-」",
+            "脚本：玉井☆豪、大久保智康、山田靖智、木村暢",
+            "音楽：オープニングテーマ:｢Loop-the-Loop｣KOTOKO、エンディングテーマ:｢Baby Baby Love｣戸松遥"
+        ],
+        "copyrights": [
+            "（Ｃ）矢吹健太朗・長谷見沙貴／集英社・もっととらぶる製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1702026507,
+    "endAt": 1738249200,
+    "freeEndAt": 1738249200,
+    "transcodeVersion": "4ovwSH",
+    "sharedLink": {
+        "twitter": "https://abema.app/dL5G",
+        "facebook": "https://abema.app/o186",
+        "google": "https://abema.app/fQta",
+        "line": "https://abema.app/SHJ7",
+        "copy": "https://abema.app/vHoX",
+        "instagram": "https://abema.app/uZKZ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-179_s2_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-179_s2_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-179_s2_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-179_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-179_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.9286,
+        "opening": {
+            "end": 86.31956666666666
+        },
+        "ending": {
+            "start": 1329.9619666666667,
+            "end": 1416.9822333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-179_s2_p2",
+        "title": "第2話 ｢暗闇の中でうつるもの｣｢ようこそ!結城家へ｣｢お泊り会｣",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1702026507,
+        "endAt": 1738249200,
+        "freeEndAt": 1726685700,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726685700
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-179_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1738249200
+        }
+    ],
+    "episodeGroupId": "19-179_eg0"
+}

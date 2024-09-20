@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s3_p102",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 102,
+        "title": "第102話 時代劇俳優殺人事件(前編)",
+        "content": "探偵の心得を教えてほしいという時代劇俳優の土方幸三郎の自宅マンションに招かれた小五郎とコナン、蘭は、離婚騒動の渦中にある土方の妻・永倉勇美が隣の沖田一の部屋のベランダで変死するのを目撃する。沖田は勇美の不倫の相手と噂される俳優だ。一人で部屋にいたと言い張る沖田は、身の潔白を主張するが…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066298,
+    "endAt": 1740754800,
+    "transcodeVersion": "36aefw",
+    "sharedLink": {
+        "twitter": "https://abema.app/mwS2",
+        "facebook": "https://abema.app/VqRy",
+        "google": "https://abema.app/Zpwz",
+        "line": "https://abema.app/MtZV",
+        "copy": "https://abema.app/LVvM",
+        "instagram": "https://abema.app/Jktt"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s3_p102/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s3_p102/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s3_p102/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s3_p102"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.1044333333334,
+        "opening": {
+            "start": 16.249566666666666,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1339.1044333333334,
+            "end": 1424.0559666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s3_p103",
+        "title": "第103話 時代劇俳優殺人事件(後編)",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066298,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s3_p102/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,107 @@
+{
+    "id": "11-46_s1_p600",
+    "series": {
+        "id": "11-46",
+        "title": "転生したら剣でした",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-46",
+            "filename": "thumb.png",
+            "query": "version=1661505986",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-46",
+            "filename": "portrait.png",
+            "query": "version=1661505986",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 144
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 600,
+        "title": "三木眞一郎、加隈亜衣出演！ABEMA限定配信ショートボイスドラマ",
+        "content": "『転生したら剣でした』キャラクターデザイン総作画監督の齋藤温子氏が描き下ろした、ABEMAコラボイラストに基づくショートボイスドラマです。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "師匠：三木眞一郎",
+            "フラン：加隈亜衣"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C)棚架ユウ・るろお／マイクロマガジン社／転剣製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684211248,
+    "endAt": 1767193200,
+    "transcodeVersion": "C5GUk",
+    "sharedLink": {
+        "twitter": "https://abema.app/5YW3",
+        "facebook": "https://abema.app/f2L1",
+        "google": "https://abema.app/AeAx",
+        "line": "https://abema.app/RbcJ",
+        "copy": "https://abema.app/nX65",
+        "instagram": "https://abema.app/reus"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/11-46_s1_p600/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/11-46_s1_p600/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/11-46_s1_p600/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-46_s1_p600"
+    },
+    "viewingPoint": {
+        "suggestion": 135.700567
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-46_s1_p600/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "11-46_eg2"
+}

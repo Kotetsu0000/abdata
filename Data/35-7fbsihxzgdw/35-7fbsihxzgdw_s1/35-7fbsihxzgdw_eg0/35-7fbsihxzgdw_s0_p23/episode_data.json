@@ -1,0 +1,158 @@
+{
+    "id": "35-7fbsihxzgdw_s0_p23",
+    "series": {
+        "id": "35-7fbsihxzgdw",
+        "title": "忍者ハットリくん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-7fbsihxzgdw",
+            "filename": "thumb.png",
+            "query": "version=1686708615",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-7fbsihxzgdw",
+            "filename": "portrait.png",
+            "query": "version=1686708615",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-7fbsihxzgdw_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1116
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 飲みすぎにご用心の巻 他",
+        "content": "『飲みすぎにご用心の巻』…パパは連日お酒の飲みすぎで、きまって二日酔い。なんとかパパがお酒を嫌いになるように、ハットリくん、シンゾウ、獅子丸はあらゆる手を使う。パパは大好きなお酒を飲まずにいられるのか。"
+    },
+    "credit": {
+        "released": 1981,
+        "casts": [
+            "ハットリくん：堀絢子",
+            "ケン一：菅谷政子",
+            "シンゾウ：三田ゆう子",
+            "ケムマキ：肝付兼太",
+            "獅子丸：緒方賢一",
+            "影千代：山田栄子",
+            "パパ：藤本譲",
+            "ママ：梨羽侑里",
+            "夢子：あきやまるな",
+            "先生：二又一成"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "総監督：笹川ひろし",
+            "監修：鈴木伸一",
+            "シリーズ構成：桜井正明",
+            "脚本：城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子",
+            "作画監督：富永貞義　なかじまちゅうじ",
+            "美術監督：宮野隆",
+            "撮影監督：角原幸枝",
+            "録音監督：大熊昭",
+            "音楽：菊池俊輔"
+        ],
+        "copyrights": [
+            "(C)藤子スタジオ／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1697193237,
+    "endAt": 1756652400,
+    "freeEndAt": 1726858800,
+    "transcodeVersion": "6A6ayQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/MXz6",
+        "facebook": "https://abema.app/7ChM",
+        "google": "https://abema.app/g7sf",
+        "line": "https://abema.app/9zvJ",
+        "copy": "https://abema.app/ZKCn",
+        "instagram": "https://abema.app/hPfb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p23/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-7fbsihxzgdw_s0_p23/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-7fbsihxzgdw_s0_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1111.77
+    },
+    "nextProgramInfo": {
+        "programId": "35-7fbsihxzgdw_s0_p24",
+        "title": "第24話 ネズミの大好きな物は…の巻 他",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1697193237,
+        "endAt": 1756652400,
+        "freeEndAt": 1726945200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726945200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-7fbsihxzgdw_s0_p23/timeline",
+        "query": "version=6A6ayQ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726858800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-7fbsihxzgdw_eg0"
+}

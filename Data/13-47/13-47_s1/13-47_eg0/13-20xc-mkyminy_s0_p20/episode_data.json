@@ -1,0 +1,153 @@
+{
+    "id": "13-20xc-mkyminy_s0_p20",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s1",
+        "sequence": 1,
+        "name": "1年目",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1495
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話 ベルトコンベアには気を付けろ",
+        "content": "蚊の多い夏の夜、真選組の隊士たちは怪談に興じていた。隊士稲山が語るその怪談は、真夜中の寺子屋に赤い着物を着た女の幽霊が現れるというものだったが、その幽霊が真選組屯所にも現れた。隊士の半分以上が倒れ、みな「赤い服を着た女」のことをうわ言の様に口にしていた。隊士たちは本当に幽霊に襲われたのか？見えない影に怯える近藤は、拝み屋を雇ってこの事態を乗り切ろうとする。しかし、やって来た拝み屋は、インチキ臭い集団だった。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684296386,
+    "endAt": 1740754800,
+    "freeEndAt": 1726770600,
+    "transcodeVersion": "47ZDFm",
+    "sharedLink": {
+        "twitter": "https://abema.app/vX77",
+        "facebook": "https://abema.app/bzW1",
+        "google": "https://abema.app/ZpQB",
+        "line": "https://abema.app/Ju7Q",
+        "copy": "https://abema.app/G9j9",
+        "instagram": "https://abema.app/bmgT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p20/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p20/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/13-20xc-mkyminy_s0_p20/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-20xc-mkyminy_s0_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 1490.043199,
+        "opening": {
+            "end": 90.043599
+        },
+        "ending": {
+            "start": 1378.064666,
+            "end": 1465.083933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-20xc-mkyminy_s0_p21",
+        "title": "第21話 男ならとりあえずカジキ！／扇風機つけっぱなしで寝ちゃうとお腹こわしちゃうから気を付けて",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296387,
+        "endAt": 1740754800,
+        "freeEndAt": 1726770600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726770600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-20xc-mkyminy_s0_p20/timeline",
+        "query": "version=47ZDFm",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726770600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

@@ -1,0 +1,151 @@
+{
+    "id": "25-31rtb-j-u-pk_s0_p6",
+    "series": {
+        "id": "25-1nzan-whrxe",
+        "title": "ソードアート・オンライン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "thumb.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "portrait.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-1nzan-whrxe_s20",
+        "sequence": 20,
+        "name": "ソードアート・オンラインII",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "#06 ｢曠野の決闘｣",
+        "content": "予選第一回戦で勝利したキリトの戦いぶりを見て、「本物か？」と問いかけてきたボロマント姿の男。かつて、《ＳＡＯ》に存在した殺人ギルド、《ラフィン・コフィン》のタトゥーをしたその男は、キリトに「いつか殺す」と言い残し、姿を消した。ボロマントの男との接触で、《SAO》での死闘を思い出したキリトは、そのトラウマに苦しめられる。そんな中、互いに予選を勝ち進んだキリトとシノンが、Ｆブロック決勝で対戦するが……。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "キリト:松岡禎丞",
+            "アスナ:戸松遥",
+            "シノン:沢城みゆき"
+        ],
+        "crews": [
+            "原作:川原 礫（電撃文庫刊）",
+            "原作イラスト・キャラクター原案:abec",
+            "監督:伊藤智彦",
+            "キャラクターデザイン:足立慎吾"
+        ],
+        "copyrights": [
+            "(C)2014 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス刊／SAOⅡ Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1690870935,
+    "endAt": 1743433200,
+    "freeEndAt": 1727325900,
+    "transcodeVersion": "571xfS",
+    "sharedLink": {
+        "twitter": "https://abema.app/bLiN",
+        "facebook": "https://abema.app/cXvm",
+        "google": "https://abema.app/Wf7W",
+        "line": "https://abema.app/JsZd",
+        "copy": "https://abema.app/Ugd6",
+        "instagram": "https://abema.app/Fszr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p6/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-31rtb-j-u-pk_s0_p6/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-31rtb-j-u-pk_s0_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.011666,
+        "opening": {
+            "start": 132.019866,
+            "end": 221.843133
+        },
+        "ending": {
+            "start": 1325.011666,
+            "end": 1414.834933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-31rtb-j-u-pk_s0_p7",
+        "title": "#07 ｢紅の記憶｣",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1690870935,
+        "endAt": 1743433200,
+        "freeEndAt": 1727325900,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727325900
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-31rtb-j-u-pk_s0_p6/timeline",
+        "query": "version=571xfS",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727325900
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "25-1nzan-whrxe_eg0"
+}

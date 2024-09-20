@@ -1,0 +1,106 @@
+{
+    "id": "218-706_s1_p3015",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 683
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3015,
+        "title": "#15：「この世界は不完全すぎる」から石川界人・矢野妃菜喜・川島零士が登場！",
+        "content": "7月アニメ「この世界は不完全すぎる」を特集！7/5(金)から毎週金曜26:53～ABEMAにて独占見放題配信中！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126681,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "6sGJm8",
+    "sharedLink": {
+        "twitter": "https://abema.app/wypD",
+        "facebook": "https://abema.app/bo3S",
+        "google": "https://abema.app/fsEv",
+        "line": "https://abema.app/aRuX",
+        "copy": "https://abema.app/ejuW",
+        "instagram": "https://abema.app/wzeD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p3015/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p3015/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-706_s1_p3015/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p3015/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p3015"
+    },
+    "viewingPoint": {
+        "suggestion": 678.4110666666667
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p3015/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg4"
+}

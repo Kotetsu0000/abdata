@@ -1,0 +1,136 @@
+{
+    "id": "632-4_s5_p24",
+    "series": {
+        "id": "632-4",
+        "title": "七つの大罪 黙示録の四騎士",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-4",
+            "filename": "thumb.png",
+            "query": "version=1708917399",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-4",
+            "filename": "portrait.png",
+            "query": "version=1708917399",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "632-4_s5",
+        "sequence": 5,
+        "name": "シーズン5",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1407
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 24,
+        "title": "第24話 降臨",
+        "content": "人々の希望で力を増した魔力によって、メラガランにダメージを負わせるパーシバル。さらにイゾルデとの共闘で善戦するも、メラガランの力には未だ及ばない。絶体絶命の状況の中、再びメラガランの前に立つトリスタンは、最後の手段を使う決意を固める。だがそれは、あまりにも危険な賭けでもあった。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "パーシバル：小村 将",
+            "ドニー：戸谷菊之介",
+            "ナシエンス：島田愛野",
+            "アン：中村カンナ",
+            "シン：内山昂輝",
+            "イロンシッド：森川智之",
+            "ペルガルド：小山力也",
+            "アーサー・ペンドラゴン：國立幸",
+            "バルギス：大塚明夫"
+        ],
+        "crews": [
+            "原作：鈴木央（講談社「週刊少年マガジン」連載）",
+            "監督：小平麻紀",
+            "シリーズ構成･脚本：村越繁",
+            "キャラクターデザイン：髙田洋一",
+            "メインテーマ：澤野弘之／KOHTA YAMAMOTO",
+            "音楽：KOHTA YAMAMOTO",
+            "企画プロデュース：UNLIMITED PRODUCE by TMS",
+            "アニメーション制作：テレコム・アニメーションフィルム"
+        ],
+        "copyrights": [
+            "(C)鈴木央・講談社／「七つの大罪 黙示録の四騎士」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713180319,
+    "endAt": 1746025200,
+    "transcodeVersion": "5Phnig",
+    "sharedLink": {
+        "twitter": "https://abema.app/jdLL",
+        "facebook": "https://abema.app/KvxX",
+        "google": "https://abema.app/pRXR",
+        "line": "https://abema.app/f9nE",
+        "copy": "https://abema.app/8o55",
+        "instagram": "https://abema.app/ZEb5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/632-4_s5_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/632-4_s5_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/632-4_s5_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.632-4_s5_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1318.0250416666668,
+        "opening": {
+            "start": 63.980583333333335,
+            "end": 153.98716666666667
+        },
+        "ending": {
+            "start": 1318.0250416666668,
+            "end": 1407.9482083333332
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/632-4_s5_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "632-4_eg0"
+}

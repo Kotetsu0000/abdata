@@ -1,0 +1,147 @@
+{
+    "id": "19-15_s6_p118",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 118,
+        "title": "第118話 破滅のボルテージ",
+        "content": "荼毘に追い詰められていくホークスの窮地に、常闇が飛び込んできた！ホークスがトゥワイスを殺したことを嬉々として話し、ヒーローの汚さと現実を常闇に突きつける荼毘。常闇は、ホークスを救えるのか…!? そして、蛇腔病院では、ミルコとプレゼント・マイクの攻撃を受けながらも、死柄木がついに目覚めてしまった。死柄木の“個性”が伝播し、一気に崩壊していく蛇腔病院、そしてヒーローたち。その崩壊は、デクたちが市民の避難誘導に当たっていた市街地にまで及んでいく！いよいよ、死柄木が動き出す―。「今ここから 全てを壊す」"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872426,
+    "endAt": 1759244400,
+    "transcodeVersion": "5psiJT",
+    "sharedLink": {
+        "twitter": "https://abema.app/5qxf",
+        "facebook": "https://abema.app/m93z",
+        "google": "https://abema.app/LsSW",
+        "line": "https://abema.app/rnEc",
+        "copy": "https://abema.app/3ihj",
+        "instagram": "https://abema.app/6yZf"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p118/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p118/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p118/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p118"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0170416666667,
+        "opening": {
+            "start": 171.045875,
+            "end": 260.96904166666667
+        },
+        "ending": {
+            "start": 1310.0170416666667,
+            "end": 1399.9402083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s6_p119",
+        "title": "第119話 エンカウンター2",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872426,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p118/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

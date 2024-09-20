@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s9_p354",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s9",
+        "sequence": 9,
+        "name": "season9",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1489
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 354,
+        "title": "第354話 小さな依頼者（前編）",
+        "content": "自分を捨てた母親を捜してほしいという人気子役、絹川和輝の依頼で、熱海の旅館を訪れたコナン、蘭、小五郎。まもなく、フリーライターの鴨下保比呂の絞殺死体が客室の浴槽で発見される。鴨下はなぜか和輝が母親を捜していることを知っていた。しかも鴨下の携帯電話には、犯人とみられる顔のない女性の写真が映っていた。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066304,
+    "endAt": 1740754800,
+    "transcodeVersion": "5s2Hd2",
+    "sharedLink": {
+        "twitter": "https://abema.app/T4Da",
+        "facebook": "https://abema.app/xeBj",
+        "google": "https://abema.app/z6ww",
+        "line": "https://abema.app/p16d",
+        "copy": "https://abema.app/3oYE",
+        "instagram": "https://abema.app/uih3"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s9_p354/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s9_p354/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s9_p354/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s9_p354"
+    },
+    "viewingPoint": {
+        "suggestion": 1360.2589,
+        "opening": {
+            "start": 15.348666666666666,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1360.2589,
+            "end": 1444.8100333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s9_p355",
+        "title": "第355話 小さな依頼者（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066304,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s9_p354/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

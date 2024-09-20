@@ -1,0 +1,149 @@
+{
+    "id": "19-15_s4_p75",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s4",
+        "sequence": 4,
+        "name": "第4期",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 75,
+        "title": "第75話 見えない希望",
+        "content": "銃弾を撃ち込まれたミリオは、“個性”を失った。それでもミリオは、壊理を守るためにオーバーホールたちとたったひとりで戦う。そこに、間一髪のところで、デクやナイトアイたちが駆け付けた！形勢逆転かと思われたが、オーバーホールは壊理を渡すまいと、部下の音本を分解し自らと融合させて、4本の腕を持つ恐ろしい姿に変貌する。懸命に立ち向かうナイトアイだが、“個性”を発動しても対処しきれず、さらに絶望的な未来を「予知」してしまう。そして、「おまえのせいで人が死んでいく」そうオーバーホールに言われ、壊理がとった行動とは…？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成・脚本：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872424,
+    "endAt": 1759244400,
+    "transcodeVersion": "6Zc64Y",
+    "sharedLink": {
+        "twitter": "https://abema.app/gdpe",
+        "facebook": "https://abema.app/w1dW",
+        "google": "https://abema.app/UnQk",
+        "line": "https://abema.app/EkG9",
+        "copy": "https://abema.app/kcd3",
+        "instagram": "https://abema.app/oydY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s4_p75/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s4_p75/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s4_p75/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s4_p75"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.9086,
+        "opening": {
+            "start": 36.036,
+            "end": 125.99253333333333
+        },
+        "ending": {
+            "start": 1309.9086,
+            "end": 1399.9318666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s4_p76",
+        "title": "第76話 無限100%",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872424,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s4_p75/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

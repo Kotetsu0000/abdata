@@ -1,0 +1,175 @@
+{
+    "id": "54-92_s1_p2",
+    "series": {
+        "id": "54-92",
+        "title": "真夜中ぱんチ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-92",
+            "filename": "thumb.png",
+            "query": "version=1719971035",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-92",
+            "filename": "portrait.png",
+            "query": "version=1719971035",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-92_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1425
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 チャンネル開設！真夜中なのにおっはよー！",
+        "content": "りぶとの大胆な約束を思い出し、頭を抱える真咲。しかし、橘花と乙美、アンチを見返すのなら躊躇っている暇はない。覚悟を決めた真咲は晩杯荘を訪れ、りぶ、苺子、譜風とド派手な動画を撮影していく。ヴァンパイアの超人的な能力を使った動画はインパクト抜群。天下を取れると確信するが……思わぬ妨害が入ってしまう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "真咲：長谷川育美",
+            "りぶ：ファイルーズあい",
+            "苺子：伊藤ゆいな",
+            "譜風：羊宮妃那",
+            "十景：上田瞳",
+            "ゆき：茅野愛衣",
+            "橘花：安済知佳",
+            "乙美：近藤玲奈"
+        ],
+        "crews": [
+            "原作：動画投稿少女",
+            "監督：本間修",
+            "シリーズ構成：白坂英晃",
+            "キャラクター原案：ことぶきつかさ",
+            "キャラクターデザイン：有間涼太",
+            "総作画監督：有間涼太　さとう沙名栄　合田真さ美",
+            "メインアニメーター：鍋田香代子",
+            "美術設定；藤井祐太",
+            "美術監督；前田有紀",
+            "色彩設計；江口亜紗美",
+            "撮影監督；児玉純也",
+            "2Dworks：吉垣誠",
+            "3D監督：小川耕平",
+            "編集：髙橋歩",
+            "音楽：tape　樂",
+            "音楽制作：ハートカンパニー",
+            "音響監督：飯田里樹",
+            "音響効果：小山恭正",
+            "録音調整：安齋歩",
+            "音響制作：dugout",
+            "アニメーション制作：P.A.WORKS",
+            "製作：「真夜中ぱんチ」製作委員会"
+        ],
+        "copyrights": [
+            "(C)2024 KADOKAWA/P.A.WORKS/MAYOPAN PROJECT"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872319,
+    "endAt": 1767193200,
+    "transcodeVersion": "5edEVM",
+    "sharedLink": {
+        "twitter": "https://abema.app/N44f",
+        "facebook": "https://abema.app/N7x6",
+        "google": "https://abema.app/W3Gx",
+        "line": "https://abema.app/8bCe",
+        "copy": "https://abema.app/i5nN",
+        "instagram": "https://abema.app/MW8c"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-92_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-92_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-92_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-92_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.0220416666666,
+        "opening": {
+            "start": 186.97845833333332,
+            "end": 276.9850416666667
+        },
+        "ending": {
+            "start": 1315.0220416666666,
+            "end": 1404.9869166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "54-92_s1_p3",
+        "title": "第3話 新メンバー加入でDEAD or ALIVE",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1725872319,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726925400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-92_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726925400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727530200
+        }
+    ],
+    "episodeGroupId": "54-92_eg0"
+}

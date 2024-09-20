@@ -1,0 +1,145 @@
+{
+    "id": "35-30_s1_p40",
+    "series": {
+        "id": "35-30",
+        "title": "笑ゥせぇるすまん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "thumb.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-30",
+            "filename": "portrait.png",
+            "query": "version=1627289711",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-30_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 600
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 40,
+        "title": "第40話 若さ自慢",
+        "content": "年齢のわりに若いと思っていた会社部長・若狭万次郎（50）だが、老いを指摘され落ち込むことも。そんな若狭に、喪黒は念じることで若返る人形を渡す。ますます若さに磨きがかかる若狭だが、段々無理を重ねるように…。"
+    },
+    "credit": {
+        "released": 1990,
+        "casts": [
+            "喪黒福造：大平透"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "監修：鈴木伸一",
+            "総監督：クニトシロウ",
+            "監督：米谷良知",
+            "脚本：梅野かおる",
+            "作画監督：岡迫亘弘",
+            "美術監督：宮野隆",
+            "撮影監督：山田廣明",
+            "録音監督：大熊昭",
+            "音楽：田中公平"
+        ],
+        "copyrights": [
+            "(C)藤子A／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683007466,
+    "endAt": 1756652400,
+    "transcodeVersion": "9b6AE",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/HxNBU",
+        "facebook": "https://gxyt4.app.goo.gl/wbcZi",
+        "google": "https://gxyt4.app.goo.gl/ty1Yo",
+        "line": "https://gxyt4.app.goo.gl/KvPdh",
+        "copy": "https://gxyt4.app.goo.gl/6fvaW",
+        "instagram": "https://gxyt4.app.goo.gl/3JiHG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-30_s1_p40/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-30_s1_p40/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-30_s1_p40/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-30_s1_p40"
+    },
+    "viewingPoint": {
+        "suggestion": 595.657,
+        "opening": {
+            "end": 18.341522
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-30_s1_p41",
+        "title": "第41話 グルメ志願",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1683007466,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726688100
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-30_s1_p40/timeline",
+        "query": "version=9b6AE",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726601700
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727264100
+        }
+    ],
+    "episodeGroupId": "35-30_eg0"
+}

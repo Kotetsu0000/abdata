@@ -1,0 +1,74 @@
+{
+    "id": "560-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "魔法使いの嫁",
+    "content": "羽鳥チセは 15 歳の少女。\n彼女は帰れる場所も、生きる理由も、そのための術も、何も持ち合わせていない。\nただひとつ、生まれ持った特別な力を除いて。\nそんなチセを弟子として、そして将来の花嫁として迎え入れたのは、\n異形の魔法使い・エリアス。\n悠久の時を生きる魔法使いの暮しの中で、\nチセは大切な何かを少しずつ取り戻していく…。\nこれは、世界の美しさを識る為の物語。",
+    "seasons": [
+        {
+            "id": "560-1_s1",
+            "sequence": 1,
+            "name": "season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/560-1",
+                "filename": "thumb.png",
+                "query": "version=1623405842",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "560-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)2017 ヤマザキコレ/マッグガーデン・魔法使いの嫁製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1725933727662884984",
+    "imageUpdatedAt": 1623405842,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/F1SH",
+        "facebook": "https://abema.app/tQQE",
+        "google": "https://abema.app/RRk4",
+        "line": "https://abema.app/aTbc",
+        "copy": "https://abema.app/4Rvi",
+        "instagram": "https://abema.app/zWvW"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/560-1",
+        "filename": "thumb.png",
+        "query": "version=1623405842",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/560-1",
+        "filename": "portrait.png",
+        "query": "version=1623405842",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p930",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 660
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 930,
+        "title": "#930 アンラッキーポイントカード",
+        "content": "ついてないことばかり起こるのび太は、「僕は一生このまま不運が続くんだ」と落ち込む。そこでドラえもんは、不幸レベルによってポイントが貯まり、幸せと交換できる『アンラッキーポイントカード』を出してあげる。\n　ポイントカードを手にしたのび太は、いちご大福にいちごとあんこが入っていなかったり、道で転んだり…と次々とアクシデントに出くわし、あっという間にポイントが貯まっていく。そこで、貯まったポイントを幸せと交換すると答えたところ、スネ夫からおもちゃやマンガをもらうことができて…！？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335977,
+    "endAt": 1751295600,
+    "transcodeVersion": "TK4eU",
+    "sharedLink": {
+        "twitter": "https://abema.app/ax6u",
+        "facebook": "https://abema.app/KzGz",
+        "google": "https://abema.app/ZAGn",
+        "line": "https://abema.app/e8ET",
+        "copy": "https://abema.app/Zaur",
+        "instagram": "https://abema.app/3SX4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p930/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p930/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p930/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p930"
+    },
+    "viewingPoint": {
+        "suggestion": 655.0710833333334
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p931",
+        "title": "#931 ドラミとおはなしバッジ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335977,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p930/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

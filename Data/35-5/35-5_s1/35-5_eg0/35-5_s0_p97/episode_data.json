@@ -1,0 +1,160 @@
+{
+    "id": "35-5_s0_p97",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1478
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 97,
+        "title": "第97話 料理と絵ごころ",
+        "content": "一流料亭・芝浜の若旦那は”料理は総合芸術。私はプロデューサーだ”と言い放ち板場に立つ事を軽視する。だが彼の個展で絵を一目見た士郎は彼に料理素材の選択眼が全くないと指摘。"
+    },
+    "credit": {
+        "released": 1991,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424468,
+    "endAt": 1756652400,
+    "freeEndAt": 1726508820,
+    "transcodeVersion": "53Lyrv",
+    "sharedLink": {
+        "twitter": "https://abema.app/9gWi",
+        "facebook": "https://abema.app/6zoM",
+        "google": "https://abema.app/s9kP",
+        "line": "https://abema.app/Vep7",
+        "copy": "https://abema.app/kZAs",
+        "instagram": "https://abema.app/J6Zv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p97/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p97/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-5_s0_p97/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-5_s0_p97/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p97"
+    },
+    "viewingPoint": {
+        "suggestion": 1398.320122,
+        "opening": {
+            "end": 81.037588
+        },
+        "ending": {
+            "start": 1398.320122,
+            "end": 1478.343853
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p98",
+        "title": "第98話 ほうじ茶の心",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424468,
+        "endAt": 1756652400,
+        "freeEndAt": 1726508820,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726508820
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p97/timeline",
+        "query": "version=53Lyrv",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726508820
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

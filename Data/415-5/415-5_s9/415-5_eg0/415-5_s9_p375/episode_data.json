@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s9_p375",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s9",
+        "sequence": 9,
+        "name": "season9",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1488
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 375,
+        "title": "第375話 星と煙草の暗号（後編）",
+        "content": "天体観測をするため山奥のペンションにやってきたコナンたちは、そこで１年前に失踪した河埜麻雄の白骨化した遺体を発見する。近くにはダイイング・メッセージとなる６本のタバコが残されていた。その後、河埜から招待状が届きペンションに来ていた二川の遺体が発見される。しかも、手に７本のタバコを握っていた…。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066304,
+    "endAt": 1740754800,
+    "transcodeVersion": "5m2RqX",
+    "sharedLink": {
+        "twitter": "https://abema.app/Thwp",
+        "facebook": "https://abema.app/KUzr",
+        "google": "https://abema.app/pJ1L",
+        "line": "https://abema.app/wBLn",
+        "copy": "https://abema.app/vFkK",
+        "instagram": "https://abema.app/kaGr"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s9_p375/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s9_p375/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s9_p375/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s9_p375"
+    },
+    "viewingPoint": {
+        "suggestion": 1443.4753666666666,
+        "opening": {
+            "start": 32.29893333333333,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1288.3203666666666,
+            "end": 1372.8715
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s9_p376",
+        "title": "第376話 タイムリミットは15時！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066304,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s9_p375/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

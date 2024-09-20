@@ -1,0 +1,141 @@
+{
+    "id": "5-22_s2_p143",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s2",
+        "sequence": 2,
+        "name": "北斗の拳2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1463
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 143,
+        "title": "第143話　骨肉の兄弟対決!　もうヒョウの瞳に涙は帰らない!!",
+        "content": "ヒョウが村人たちを酷使し、沼の底から北斗琉拳発祥の地である「羅聖殿」を蘇らせようとしていることを聞くケンシロウたち。その地に赴き魔人と化したヒョウと対峙したケンシロウ。ケンがヒョウを兄だと意識する一方、記憶の封印で過去を失っていたヒョウは、ケンシロウを「サヤカの仇」としてしか見ずに敵意を新たにする。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：難波圭一",
+            "リン：冨永み～な",
+            "ファルコ：田中秀幸",
+            "カイオウ：内海賢二",
+            "ヒョウ：小川真司",
+            "ハン：戸谷公次",
+            "シャチ：鈴置洋孝",
+            "ナレーター：千葉繁"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／NSP・東映アニメーション1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756428,
+    "endAt": 1732978800,
+    "transcodeVersion": "3hAQEn",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/x1zgq",
+        "facebook": "https://gxyt4.app.goo.gl/ZYxpw",
+        "google": "https://gxyt4.app.goo.gl/rxGzx",
+        "line": "https://gxyt4.app.goo.gl/bgvXM",
+        "copy": "https://gxyt4.app.goo.gl/J44K8",
+        "instagram": "https://gxyt4.app.goo.gl/VtSXd"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-22_s2_p143/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-22_s2_p143/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-22_s2_p143/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-22_s2_p143"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.333855,
+        "opening": {
+            "start": 21.706555,
+            "end": 109.032222
+        },
+        "ending": {
+            "start": 1365.417188,
+            "end": 1463.459862
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-22_s2_p144",
+        "title": "第144話　北斗存亡の危機!　カイオウの魔の手が天帝にのびた!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756428,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-22_s2_p143/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

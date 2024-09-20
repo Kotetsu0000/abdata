@@ -1,0 +1,151 @@
+{
+    "id": "25-237_s1_p9",
+    "series": {
+        "id": "25-237",
+        "title": "久保さんは僕を許さない",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "thumb.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "portrait.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-237_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 新学期とクラス替え",
+        "content": "遂に今日から二年生。そわそわしている同級生たちをよそに、教室に入った白石くんが自分の席を探していると、「白石くんの席はね……」と話しかけられる。そこには、これまでと同じように久保さんの姿があった。葉月と玉緒も同じクラスだったことがわかり、迎えたホームルームでの委員会決め。去年と同じ環境委員になった白石くんだったが、クラスメイトの須藤くんは白石くんが環境委員だったことを知っているようで……？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "久保渚咲：花澤香菜",
+            "白石純太：河西健吾",
+            "久保明菜：伊藤美来",
+            "久保沙貴：雨宮 天",
+            "工藤葉月：加隈亜衣",
+            "平玉緒：竹達彩奈"
+        ],
+        "crews": [
+            "原作：雪森寧々（集英社「週刊ヤングジャンプ」連載）",
+            "監督：古賀一臣",
+            "シリーズ構成・脚本：高橋悠也",
+            "キャラクターデザイン：齊藤佳子",
+            "アニメーション制作：PINE JAM"
+        ],
+        "copyrights": [
+            "(C)雪森寧々／集英社・久保さんは僕を許さない製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1687342267,
+    "endAt": 1751295600,
+    "transcodeVersion": "2Z8z5o",
+    "sharedLink": {
+        "twitter": "https://abema.app/qE1N",
+        "facebook": "https://abema.app/jjNt",
+        "google": "https://abema.app/KaCu",
+        "line": "https://abema.app/uR9Q",
+        "copy": "https://abema.app/4z2Y",
+        "instagram": "https://abema.app/QyDE"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-237_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-237_s1_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-237_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-237_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.018555,
+        "opening": {
+            "start": 126.039021,
+            "end": 213.039022
+        },
+        "ending": {
+            "start": 1330.018555,
+            "end": 1417.086009
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-237_s1_p10",
+        "title": "第10話 背比べと壁ドン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1687342267,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-237_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "25-237_eg0"
+}

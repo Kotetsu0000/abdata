@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s3_p105",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 105,
+        "title": "第105話 盗賊団謎の洋館事件(後編)",
+        "content": "時計職人・出淵紋時郎が住んでいたという洋館は、やはり妙な家だった。1時10分に鳩時計から3匹の鬼が飛び出して鳴き始める。屋根裏部屋で人の気配がしたり、書斎にファイルしてあった犯罪記事も気にかかる。コナンも小五郎も謎の意味がつかみきれないでいると、蘭が家の中にライオンだけが飾られてないことに気づく。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066298,
+    "endAt": 1740754800,
+    "transcodeVersion": "7UdHxx",
+    "sharedLink": {
+        "twitter": "https://abema.app/jGzp",
+        "facebook": "https://abema.app/zDXa",
+        "google": "https://abema.app/DtGz",
+        "line": "https://abema.app/Rws6",
+        "copy": "https://abema.app/htks",
+        "instagram": "https://abema.app/kWTL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p105/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p105/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s3_p105/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s3_p105"
+    },
+    "viewingPoint": {
+        "suggestion": 1423.9558666666667,
+        "opening": {
+            "start": 16.182833333333335,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1238.7708666666667,
+            "end": 1323.7557666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s3_p106",
+        "title": "第106話 スクープ写真殺人事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066298,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s3_p105/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

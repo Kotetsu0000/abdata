@@ -1,0 +1,74 @@
+{
+    "id": "11-50",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
+    "content": "元サラリーマンが異世界で無双！？\n\n出世を目前に凶弾に倒れた一人のサラリーマン。\nなぜか神様によって十五歳の治癒士・ルシエルとして異世界に転生することになってしまった。\nしかも生まれ落ちたこの国では、治癒士は嫌われ者のようで……。\n身の危険を感じたルシエルは、護身のため敢えて冒険者ギルドの門を叩く。\nしかし、訓練は想像以上に厳しく、\nさらには「物体X」という謎の飲み物を飲まされる毎日。\nあれ？　何だか治癒士とは関係ない生活のような……？\n\n“ドＭ”で”ゾンビ”な“治癒士”の生き残りをかけた日常が始まる――！",
+    "seasons": [
+        {
+            "id": "11-50_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-50_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1687142306",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "11-50_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)秋風緋色・ブロッコリーライオン・講談社／聖者無双製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724724209081742754",
+    "imageUpdatedAt": 1687142331,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZfQF",
+        "facebook": "https://abema.app/Z1iW",
+        "google": "https://abema.app/Sz5P",
+        "line": "https://abema.app/BUw5",
+        "copy": "https://abema.app/d8XC",
+        "instagram": "https://abema.app/vapK"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-50",
+        "filename": "thumb.png",
+        "query": "version=1687142331",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-50",
+        "filename": "portrait.png",
+        "query": "version=1687142331",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

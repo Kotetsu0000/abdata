@@ -1,0 +1,149 @@
+{
+    "id": "2-5dywpejissp_s4_p2",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s4",
+        "sequence": 4,
+        "name": "第4シリーズ",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 トライアウト",
+        "content": "メジャーの4番・ボルトンに簡単に打たれた吾郎だったが、トライアウトの1次テストにはなんとか合格した。次のテストは試合形式。だがその合格条件は、テスト生同士で即席のチームを作り、格上の1Aチームを相手に10対0から逆転勝ちしなければならない、という厳しいものだった！"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "ジョー・ギブソンJr.：浪川大輔",
+            "陣内アリス：榎本温子",
+            "サンダース：石井康嗣",
+            "キーン：森川智之"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "中村能子"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "2RdLeY",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/6MA8M",
+        "facebook": "https://gxyt4.app.goo.gl/ZuKeR",
+        "google": "https://gxyt4.app.goo.gl/Pvuc8",
+        "line": "https://gxyt4.app.goo.gl/BYjCG",
+        "copy": "https://gxyt4.app.goo.gl/DhnU9",
+        "instagram": "https://gxyt4.app.goo.gl/hDhV5"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-5dywpejissp_s4_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 79.036442,
+            "end": 167.512098
+        },
+        "ending": {
+            "start": 1365.853831,
+            "end": 1454.361734
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-5dywpejissp_s4_p3",
+        "title": "第3話 やってやる！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-5dywpejissp_s4_p2/timeline",
+        "query": "version=2RdLeY",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "618-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "齢5000年の草食ドラゴン、いわれなき邪竜認定",
+    "content": "約5000年もの時を静かに生きてきた心優しく人畜無害な草食ドラゴンのもとに、村から「生贄」として献上された奴隷の少女・レーコが現れる。\n\nドラゴンを\"最強の邪竜\"だと信じたレーコは、魔王討伐に助力するよう懇願し、その対価として「私をお召し上がりください」と申し出る。しかしドラゴンは草しか食べない小心者で…。\n\n\n思い込みの力で最強となった“眷属少女”と、\n弱小巻き込まれ“邪竜様”による魔王討伐の旅が始まる！",
+    "seasons": [
+        {
+            "id": "618-1_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/618-1_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683790754",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "618-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "618-1_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/618-1_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1726110695",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "618-1_eg1",
+                    "name": "予告編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)bilibili (C)Kaisei Enomoto, Syugao / KADOKAWA 2022"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726220730120823433",
+    "imageUpdatedAt": 1670465301,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/5Lo6",
+        "facebook": "https://abema.app/jVf1",
+        "google": "https://abema.app/K4xU",
+        "line": "https://abema.app/8PEJ",
+        "copy": "https://abema.app/A8Yb",
+        "instagram": "https://abema.app/L5Kn"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/618-1",
+        "filename": "thumb.png",
+        "query": "version=1670465301",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/618-1",
+        "filename": "portrait.png",
+        "query": "version=1670465301",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

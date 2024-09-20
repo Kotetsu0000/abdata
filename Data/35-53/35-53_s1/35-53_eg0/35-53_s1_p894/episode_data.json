@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p894",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 661
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 894,
+        "title": "#894 アニメ制作なんてわけないよ",
+        "content": "スネ夫が、家のものおきを利用して、自分専用のアニメーションスタジオを作ったという。「これからみんなでアニメを作ろう！」ともりあがるが、のび太だけは絵がヘタだからと、仲間はずれにされてしまう。\n　くやしくてたまらないのび太は、自分もアニメを作りたいと、ドラえもんにすがりつく。だが、アニメ製作がとても大変なことを聞いたのび太は、すぐにあきらめてしまう。\n　そんなのび太のため、ドラえもんは、かんたんにアニメを作ることができる道具『アニメーカー』を取りだすが…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1735657200,
+    "transcodeVersion": "2tq3pA",
+    "sharedLink": {
+        "twitter": "https://abema.app/DNVo",
+        "facebook": "https://abema.app/sqxJ",
+        "google": "https://abema.app/dD1a",
+        "line": "https://abema.app/BpkX",
+        "copy": "https://abema.app/tjxr",
+        "instagram": "https://abema.app/eZHj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p894/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p894/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p894/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p894"
+    },
+    "viewingPoint": {
+        "suggestion": 656.9896666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p895",
+        "title": "#895 のび太のブラックホール",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335975,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p894/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

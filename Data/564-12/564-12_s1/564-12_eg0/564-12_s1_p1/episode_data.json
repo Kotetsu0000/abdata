@@ -1,0 +1,167 @@
+{
+    "id": "564-12_s1_p1",
+    "series": {
+        "id": "564-12",
+        "title": "ダンジョンの中のひと",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-12",
+            "filename": "thumb.png",
+            "query": "version=1720761331",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-12",
+            "filename": "portrait.png",
+            "query": "version=1720761331",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "564-12_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 ダンジョンの中に、ひと",
+        "content": "アントムルグのダンジョンに消えた父を追い、単独で挑み続けてきたシーフの少女クレイ。探索の末、ついに前人未踏の地下9階に到達する。厳しく父に育てられてきた彼女は、新たな階層でも冷静に探索を進めていく。その矢先、モンスターとの戦闘中にダンジョンの壁が崩落するアクシデントに見舞われてしまう。崩れた壁の中から現れたのは、居住空間だった！困惑するクレイの前にダンジョンの管理人を名乗る少女が現れるーー"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クレイ：千本木彩花",
+            "ベル：鈴代紗弓",
+            "ランガド：楠見尚己",
+            "先代：飛田展男",
+            "レンヒリンジ：大塚芳忠",
+            "フーリン：M・A・O",
+            "フェン：加藤渉",
+            "ラッタ：榊原優希",
+            "ブランス：大塚明夫"
+        ],
+        "crews": [
+            "原作：双見酔(双葉社「webアクション」連載)",
+            "監督：山井紗也香",
+            "シリーズ構成：竹内利光",
+            "キャラクターデザイン：中山裕美",
+            "美術監督：加藤賢司",
+            "色彩設計：佐藤直",
+            "撮影監督：佐藤敦",
+            "編集：後田良樹",
+            "音響監督：立石弥生",
+            "音響制作：ブシロードムーブ",
+            "音楽：Pieru　LASTorder",
+            "音楽制作：ユーズミュージック",
+            "アニメーション制作：OLM",
+            "製作：製作委員会の中のひと"
+        ],
+        "copyrights": [
+            "(C)双見酔／双葉社・製作委員会の中のひと"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035327,
+    "endAt": 1767193200,
+    "freeEndAt": 1767193200,
+    "transcodeVersion": "2fyEgJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/x74V",
+        "facebook": "https://abema.app/g4H9",
+        "google": "https://abema.app/uQ2T",
+        "line": "https://abema.app/kzzd",
+        "copy": "https://abema.app/Siep",
+        "instagram": "https://abema.app/h8vU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/564-12_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/564-12_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/564-12_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/564-12_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.564-12_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.0123333333333,
+        "opening": {
+            "start": 110.06829166666667,
+            "end": 199.99145833333333
+        },
+        "ending": {
+            "start": 1347.0123333333333,
+            "end": 1436.9772083333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "564-12_s1_p2",
+        "title": "第2話 ダンジョンの仕事始め",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726035327,
+        "endAt": 1767193200,
+        "freeEndAt": 1727016300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727016300
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/564-12_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "564-12_eg0"
+}

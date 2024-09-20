@@ -1,0 +1,156 @@
+{
+    "id": "675-1_s1_p8",
+    "series": {
+        "id": "675-1",
+        "title": "オーイ！とんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/675-1",
+            "filename": "thumb.png",
+            "query": "version=1712285908",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/675-1",
+            "filename": "portrait.png",
+            "query": "version=1712285908",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "675-1_s1",
+        "sequence": 1,
+        "name": "第1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1453
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 幻のホール",
+        "content": "台風が直撃した火之島。開発センターに避難している島民たちの中に、とんぼとつぶらの姿があった。停電する施設の中でも、大会に向けて黙々と日々のスイング練習をするつぶらは、自分の抱いている思いを打ち明ける。台風は無事通過し、火之島を後にするつぶらは、とんぼに愛用していた5番ウッドを贈る。一方、五十嵐は偶然にも島のゴルフコースの設計図を発見する。そこには、これまでプレーしてきたコースに隠された新たなホールの存在が描かれていた。五十嵐は早速とんぼを連れて、隠されたホールでラウンドを試みる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "原作：かわさき 健",
+            "作画：古沢 優",
+            "監督：オ ジング",
+            "シリーズ構成：広田 光毅",
+            "キャラクターデザイン：武内 啓",
+            "色彩設計：近藤 直登",
+            "美術監督：荒井 和浩",
+            "3Ｄディレクター：服部 恵大",
+            "撮影監督：石山 智之",
+            "音響監督：三間 雅文",
+            "音楽：戸田 信子",
+            "アニメーション制作：OLM",
+            "CGアニメーション制作：SMDE",
+            "ゴルフ設定監修：ゴルフダイジェスト社"
+        ],
+        "crews": [
+            "大井 とんぼ：はやし りか",
+            "五十嵐 一賀：東地 宏樹"
+        ],
+        "copyrights": [
+            "(C)かわさき健・古沢優／オーイ！とんぼ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726213779,
+    "endAt": 1893423600,
+    "transcodeVersion": "4mej2n",
+    "sharedLink": {
+        "twitter": "https://abema.app/xRGh",
+        "facebook": "https://abema.app/BzNp",
+        "google": "https://abema.app/cEJC",
+        "line": "https://abema.app/tLGT",
+        "copy": "https://abema.app/8XcJ",
+        "instagram": "https://abema.app/1c9J"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/675-1_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/675-1_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/675-1_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.675-1_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1338.1284583333334,
+        "opening": {
+            "start": 75.03329166666667,
+            "end": 165.039875
+        },
+        "ending": {
+            "start": 1338.1284583333334,
+            "end": 1428.051625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "675-1_s1_p9",
+        "title": "第9話 いざ、悪礫島へ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726213779,
+        "endAt": 1893423600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1893423600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/675-1_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1893423600
+        }
+    ],
+    "episodeGroupId": "675-1_eg0"
+}

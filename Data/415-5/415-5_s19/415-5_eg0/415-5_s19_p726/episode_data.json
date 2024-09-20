@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s19_p726",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s19",
+        "sequence": 19,
+        "name": "season19",
+        "thumbComponent": {},
+        "order": 19
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 726,
+        "title": "第726話 幸福（しあわせ）メールは不幸を呼ぶ",
+        "content": "コナン、小五郎、蘭は公園で絶命した広瀬ナナを発見。地面に「ナ」というダイイングメッセージが残されていた。ナナと会う約束をしていた婚約者の左門治は事件前にナナから元恋人の右田利彦と会うというメールが届いたと証言。ナナのメッセージは漢字の「右」か「左」を書く途中だった可能性が高く、右田と左門が容疑者に。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066312,
+    "endAt": 1740754800,
+    "transcodeVersion": "645sCE",
+    "sharedLink": {
+        "twitter": "https://abema.app/p7ua",
+        "facebook": "https://abema.app/TtKc",
+        "google": "https://abema.app/YEqM",
+        "line": "https://abema.app/sqiC",
+        "copy": "https://abema.app/2M1x",
+        "instagram": "https://abema.app/GRfD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s19_p726/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s19_p726/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s19_p726/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s19_p726"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 81.34793333333333,
+            "end": 169.00216666666665
+        },
+        "ending": {
+            "start": 1323.0550666666666,
+            "end": 1402.6679333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s19_p727",
+        "title": "第727話 果実が詰まった宝箱（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066312,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s19_p726/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,85 @@
+{
+    "id": "210-12",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_14",
+                "name": "戦争・ミリタリー"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "ブルーアーカイブ The Animation",
+    "content": "――ここが、私たちの居場所だから――\n数千を超える学校で形成された巨大な学園都市「キヴォトス」。\nここでは銃を手にした生徒たちの諍いが、日常的な風景になっている。\nその中で、砂に包まれた「アビドス高等学校」は廃校の危機に瀕していた。\n状況を脱すべく奮闘する「対策委員会」の5人の生徒が、「先生」と呼ばれる“大人”と出会い、物語は動き始める。\n生徒と青春、学園と銃。彼女たちが目指す未来は――",
+    "seasons": [
+        {
+            "id": "210-12_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/210-12_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1711871623",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "210-12_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "（c） NEXON Games／アビドス商店街"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724382913399273080",
+    "imageUpdatedAt": 1711871607,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/c7oC",
+        "facebook": "https://abema.app/Y27y",
+        "google": "https://abema.app/p8rn",
+        "line": "https://abema.app/V6fG",
+        "copy": "https://abema.app/dJ7Y",
+        "instagram": "https://abema.app/pZZU"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-12",
+        "filename": "thumb.png",
+        "query": "version=1711871607",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-12",
+        "filename": "portrait.png",
+        "query": "version=1711871607",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

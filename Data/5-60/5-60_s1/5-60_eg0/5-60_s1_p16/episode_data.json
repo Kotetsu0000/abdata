@@ -1,0 +1,145 @@
+{
+    "id": "5-60_s1_p16",
+    "series": {
+        "id": "5-60",
+        "title": "スター☆トゥインクルプリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-60",
+            "filename": "thumb.png",
+            "query": "version=1721628006",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-60",
+            "filename": "portrait.png",
+            "query": "version=1721628006",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話　目指せ優勝☆まどかの一矢！",
+        "content": "まどかが弓道の大会に出ることになりました。お父さんのためにも優勝したいと思うまどかですが、ライバルで天才中学生と言われるゆみかは強敵です。そして、ついに二人だけで競うことになりました。まどかを応援するため、ひかるたちはお守りを作って渡します。でも、アイワーンがゆみかを使ってノットリガーを生み出してしまいました。しかし、キュアセレーネの活躍でゆみかは無事に救い出され、ついに二人だけの決勝戦が始まります。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "キュアスター/星奈ひかる：成瀬瑛美",
+            "キュアミルキー/羽衣ララ：小原好美",
+            "キュアソレイユ/天宮えれな：安野希世乃",
+            "キュアセレーネ/香久矢まどか：小松未可子",
+            "キュアコスモ/ユニ：上坂すみれフワ：木野日菜",
+            "プルンス：吉野裕行"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：佐藤 有(ＡＢＣテレビ）、田中 昴(ＡＢＣアニメーション)、矢﨑 史(ＡＤＫエモーションズ)、柳川あかり",
+            "シリーズディレクター：宮元宏彰",
+            "シリーズ構成：村山 功",
+            "音楽：林 ゆうき、橘 麻美",
+            "キャラクターデザイン：高橋 晃",
+            "美術監督：増田竜太郎、いいだりえ",
+            "製作担当：澤守 洸、堀越圭文",
+            "色彩設計：佐久間ヨシ子"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721631116,
+    "endAt": 1740754800,
+    "transcodeVersion": "2kT3Jj",
+    "sharedLink": {
+        "twitter": "https://abema.app/bCVm",
+        "facebook": "https://abema.app/SnJC",
+        "google": "https://abema.app/4fLV",
+        "line": "https://abema.app/91hr",
+        "copy": "https://abema.app/uyna",
+        "instagram": "https://abema.app/vVei"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-60_s1_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-60_s1_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-60_s1_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-60_s1_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.2621666666666,
+        "opening": {
+            "start": 81.03929166666667,
+            "end": 171.08758333333333
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1430.2204583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-60_s1_p17",
+        "title": "第17話　敵？味方？ブルーキャットの探しモノ☆",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721631116,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-60_s1_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-60_eg0"
+}

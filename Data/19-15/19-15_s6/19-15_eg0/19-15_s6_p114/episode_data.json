@@ -1,0 +1,151 @@
+{
+    "id": "19-15_s6_p114",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 114,
+        "title": "第114話 静かな始まり",
+        "content": "ホークスの内偵により、死柄木率いる敵<ヴィラン>勢力“超常解放戦線線”の決起の情報を得たプロヒーローと警察は、敵<ヴィラン>一斉確保のために集結、最大規模の作戦に臨む。そこには、デクたち雄英高校ヒーロー科の生徒たちの姿もあった。そしていよいよヒーローたちが“超常解放戦線”のアジトである群訝山荘と、ドクターこと殻木球大のいる蛇腔病院に突入！エンデヴァーたちは早速ドクターを補足するが、そこに大量の脳無が出現！一気に戦いへとなだれ込んでいく。いよいよ、ヒーローと敵<ヴィラン>の全面戦争へ―！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725872426,
+    "endAt": 1759244400,
+    "freeEndAt": 1759244400,
+    "transcodeVersion": "6pQJAC",
+    "sharedLink": {
+        "twitter": "https://abema.app/ELzi",
+        "facebook": "https://abema.app/zXYc",
+        "google": "https://abema.app/A8uM",
+        "line": "https://abema.app/PKPf",
+        "copy": "https://abema.app/Pfp4",
+        "instagram": "https://abema.app/CNi4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p114/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p114/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-15_s6_p114/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p114/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p114"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.05875,
+        "opening": {
+            "start": 167.041875,
+            "end": 256.96504166666665
+        },
+        "ending": {
+            "start": 1310.05875,
+            "end": 1399.9819166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s6_p115",
+        "title": "第115話 No.5のミルコさん",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872426,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p114/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

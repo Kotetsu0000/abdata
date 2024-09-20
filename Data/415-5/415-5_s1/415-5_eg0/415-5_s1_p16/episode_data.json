@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s1_p16",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1484
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 骨董品コレクター殺人事件",
+        "content": "コナンたちが、資産家の丸伝次郎の屋敷に妻の浮気調査報告のために訪れていた時、伝次郎自身が何者かによって惨殺された。残された伝次郎の手帳に名前が書き込まれていたのは、小五郎、伝次郎の主治医・波多野、彫刻家の阿久津、そして居合の道場主・諏訪の4人。はたして、この中に犯人がいるのか？"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、柳内一彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066296,
+    "endAt": 1740754800,
+    "transcodeVersion": "5EsSND",
+    "sharedLink": {
+        "twitter": "https://abema.app/p4m5",
+        "facebook": "https://abema.app/ZZSi",
+        "google": "https://abema.app/xwxZ",
+        "line": "https://abema.app/Ets6",
+        "copy": "https://abema.app/rpd1",
+        "instagram": "https://abema.app/8Ukp"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s1_p16/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s1_p16/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s1_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s1_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1439.8384,
+        "opening": {
+            "start": 15.8158,
+            "end": 105.83906666666667
+        },
+        "ending": {
+            "start": 1319.0844333333334,
+            "end": 1410.0419666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s1_p17",
+        "title": "第17話 デパートジャック事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066296,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s1_p16/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

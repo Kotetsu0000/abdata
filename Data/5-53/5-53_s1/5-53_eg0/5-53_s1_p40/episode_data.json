@@ -1,0 +1,141 @@
+{
+    "id": "5-53_s1_p40",
+    "series": {
+        "id": "5-53",
+        "title": "スマイルプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "thumb.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-53",
+            "filename": "portrait.png",
+            "query": "version=1721350247",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 40,
+        "title": "第40話 熱血！ あかねの宝探し人生!!",
+        "content": "校内コンクールで「私の宝物」をテーマに、作文を書くことになったの。でも、あかねちゃんはなかなか宝物が思いつかないみたいで、自分で探してみるんだって。バレーボール？　お好み焼き？　それともブライアンからの手紙…？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "キュアハッピー/星空みゆき：福圓美里",
+            "キュアサニー/日野あかね：田野アサミ",
+            "キュアピース/黄瀬やよい：金元寿子",
+            "キュアマーチ/緑川なお：井上麻里奈",
+            "キュアビューティ/青木れいか：西村ちなみ",
+            "キャンディ：大谷育江"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、清水慎治",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔、長谷川昌也",
+            "シリーズディレクター：大塚隆史",
+            "シリーズ構成：米村正二",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：川村敏江"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721626313,
+    "endAt": 1740754800,
+    "transcodeVersion": "2U1Mqp",
+    "sharedLink": {
+        "twitter": "https://abema.app/bnvB",
+        "facebook": "https://abema.app/aNsJ",
+        "google": "https://abema.app/YmSM",
+        "line": "https://abema.app/RjcW",
+        "copy": "https://abema.app/Z5TN",
+        "instagram": "https://abema.app/5tgw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p40/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p40/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-53_s1_p40/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-53_s1_p40"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0720666666666,
+        "opening": {
+            "start": 60.06,
+            "end": 144.97816666666668
+        },
+        "ending": {
+            "start": 1340.0720666666666,
+            "end": 1430.0953333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-53_s1_p41",
+        "title": "第41話 私がマンガ家!? やよいがえがく将来の夢!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721626362,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-53_s1_p40/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-53_eg0"
+}

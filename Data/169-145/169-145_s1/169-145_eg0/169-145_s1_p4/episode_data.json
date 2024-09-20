@@ -1,0 +1,154 @@
+{
+    "id": "169-145_s1_p4",
+    "series": {
+        "id": "169-145",
+        "title": "なぜ僕の世界を誰も覚えていないのか？",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "thumb.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "portrait.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "169-145_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 そして世界を記憶する",
+        "content": "「目障りだ、人間」\nヴァネッサの繰り出す、人間の常識を超越した凄まじい法術を、コードホルダーの力でなんとか凌ぐカイ。駆けつけたリンネも、ヴァネッサの力に、その姿に戦慄する。\n全ての希望が潰えたかに見えたその時……リンネはその体を変容させていく。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "カイ：千葉翔也",
+            "リンネ：市ノ瀬加那",
+            "ジャンヌ：白石晴香",
+            "花琳：Lynn",
+            "レーレーン：菱川花菜",
+            "アシュラン：山下誠一郎",
+            "サキ：鈴代紗弓",
+            "ヴァネッサ：日笠陽子"
+        ],
+        "crews": [
+            "原作：細音 啓「なぜ僕の世界を誰も覚えていないのか？」（MF文庫J）",
+            "キャラクター原案：neco、ありかん",
+            "監督：南川達馬",
+            "シリーズ構成：杉澤 悟",
+            "キャラクターデザイン：加藤裕美",
+            "音響制作：マジックカプセル",
+            "音響監督：明田川 仁",
+            "音楽制作：ファブトーン",
+            "プロデュース：ドリームシフト",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)2024 細音啓/KADOKAWA/なぜ僕製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035361,
+    "endAt": 1759244400,
+    "transcodeVersion": "5gze7G",
+    "sharedLink": {
+        "twitter": "https://abema.app/RDqJ",
+        "facebook": "https://abema.app/9t8C",
+        "google": "https://abema.app/4XEE",
+        "line": "https://abema.app/KuzE",
+        "copy": "https://abema.app/beZw",
+        "instagram": "https://abema.app/5d1J"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/169-145_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/169-145_s1_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/169-145_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.169-145_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.0380416666667,
+        "opening": {
+            "start": 149.023875,
+            "end": 238.98875
+        },
+        "ending": {
+            "start": 1331.0380416666667,
+            "end": 1422.0039166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "169-145_s1_p5",
+        "title": "第5話 世界の東へ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1726035362,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/169-145_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "169-145_eg0"
+}

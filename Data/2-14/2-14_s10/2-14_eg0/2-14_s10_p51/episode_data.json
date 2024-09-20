@@ -1,0 +1,147 @@
+{
+    "id": "2-14_s10_p51",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 51,
+        "title": "第51話 トゲトゲニャローテ！？不思議な花ばしら",
+        "content": "レポートの題材を探すため、野生ポケモンの観察や情報集めをするリコ、ロイ、ドット。リコは、ドットから「花ばしら」という不思議な現象を聞く。『「花ばしら」を見た者は 幸せになれる』と噂されているらしい…！レポートを書くため、ニャローテと一緒に「花ばしら」を探すことにしたリコ。しかし、ニャローテはなぜかご機嫌ナナメで…！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャローテ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "総監督：冨安大貴",
+            "監督：でんさおり",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872173,
+    "endAt": 1777647600,
+    "transcodeVersion": "4b4yeC",
+    "sharedLink": {
+        "twitter": "https://abema.app/KaJY",
+        "facebook": "https://abema.app/f6p1",
+        "google": "https://abema.app/6TLa",
+        "line": "https://abema.app/qTJ8",
+        "copy": "https://abema.app/cfeq",
+        "instagram": "https://abema.app/eDC5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p51/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p51/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-14_s10_p51/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p51"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.5224166666667,
+        "opening": {
+            "start": 87.962875,
+            "end": 178.01116666666667
+        },
+        "ending": {
+            "start": 1327.4928333333332,
+            "end": 1417.4577083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p52",
+        "title": "第52話 カイデン、強風注意報！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872173,
+        "endAt": 1777647600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1777647600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p51/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1777647600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

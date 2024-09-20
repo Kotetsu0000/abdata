@@ -1,0 +1,152 @@
+{
+    "id": "5-33_s5_p57",
+    "series": {
+        "id": "5-33",
+        "title": "スラムダンク",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-33",
+            "filename": "thumb.png",
+            "query": "version=1681281931",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-33",
+            "filename": "portrait.png",
+            "query": "version=1681281931",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-33_s5",
+        "sequence": 5,
+        "name": "海南戦編（#50-62）",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1387
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 57,
+        "title": "第57話 安西・勝利への賭け！",
+        "content": "後半ラスト10分で73対63まで差を広げられた湘北は、安西のタイムアウトによって救われた｡湘北は、牧を赤木・流川・リョータ・三井の４人でマーク、花道が神にマンマークにつくという思い切った作戦に出る｡体力の消耗が激しかったチームの中で唯一驚異的なスタミナを誇る花道は、フリースローの場面で……。"
+    },
+    "credit": {
+        "released": 1993,
+        "casts": [
+            "桜木花道：草尾　毅",
+            "赤木晴子：平松晶子",
+            "赤木剛憲：梁田清之",
+            "流川楓：緑川　光",
+            "三井寿：置鮎龍太郎",
+            "宮城リョータ：塩屋　翼",
+            "彩子：原えり子",
+            "安西監督：西村知道",
+            "水戸洋平：森川智之",
+            "野間忠一郎：幹本雄之",
+            "高宮望：塩屋浩三",
+            "大楠雄二：林　延年",
+            "ナレーション：田中秀幸"
+        ],
+        "crews": [
+            "原作：井上雄彦",
+            "企画：岩本太郎、中村重喜、籏野義文、佐藤公宣、西沢信孝",
+            "製作担当：松下健吉",
+            "脚本:菅　良幸、岸間信明",
+            "シリーズディレクター：西沢信孝",
+            "演出：志水淳児、角銅博之、明比正行、他",
+            "キャラクターデザイン：佐藤正樹",
+            "美術：坂本信人",
+            "音楽：増田隆宣"
+        ],
+        "copyrights": [
+            "(C)井上雄彦・アイティープランニング・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684379927,
+    "endAt": 1759244400,
+    "transcodeVersion": "4T6PHw",
+    "sharedLink": {
+        "twitter": "https://abema.app/AiVA",
+        "facebook": "https://abema.app/eDWP",
+        "google": "https://abema.app/Bn6T",
+        "line": "https://abema.app/STb1",
+        "copy": "https://abema.app/HfDv",
+        "instagram": "https://abema.app/f7o7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-33_s5_p57/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-33_s5_p57/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-33_s5_p57/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-33_s5_p57"
+    },
+    "viewingPoint": {
+        "suggestion": 1264.786722,
+        "opening": {
+            "start": 8.364888,
+            "end": 105.462088
+        },
+        "ending": {
+            "start": 1264.786722,
+            "end": 1356.786722
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-33_s5_p58",
+        "title": "第58話 しぶとい奴ら！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684379927,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-33_s5_p57/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-33_eg0"
+}

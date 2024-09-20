@@ -1,0 +1,74 @@
+{
+    "id": "481-9",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "テクノロイド オーバーマインド",
+    "content": "人口減少のため、労働をロボットやアンドロイドに担わせることが推奨される世界。\n持ち主のいないアンドロイドの四人、コバルト、クロム、ケイ、ネオンは、電気代を稼ぐためアンドロイドたちによる歌唱パフォーマンスステージで賞金を得ようとしていた。\nステージをきっかけにある少年と出会った四人は、特別なプログラムが作動する。",
+    "seasons": [
+        {
+            "id": "481-9_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/481-9_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683619780",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "481-9_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)芝浦アンドロイド研究室/TECHNO-OM Project"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1725526492882131397",
+    "imageUpdatedAt": 1671694361,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/iL9f",
+        "facebook": "https://abema.app/o7WY",
+        "google": "https://abema.app/fiZb",
+        "line": "https://abema.app/UyCM",
+        "copy": "https://abema.app/hv1E",
+        "instagram": "https://abema.app/nHaP"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-9",
+        "filename": "thumb.png",
+        "query": "version=1671694361",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-9",
+        "filename": "portrait.png",
+        "query": "version=1671694361",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

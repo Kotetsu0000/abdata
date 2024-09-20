@@ -1,0 +1,154 @@
+{
+    "id": "30-3_s0_p19",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s1",
+        "sequence": 1,
+        "name": "Season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1447
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 19,
+        "title": "#19 噛みつく ～第５７回壁外調査③～",
+        "content": "“巨人殺し”のプロフェッショナルであるリヴァイ班の背後に迫る女型の巨人。しかし、リヴァイ班の面々は女型の巨人を足止めするべく、立ち向かう兵士にあえて増援することなく、ただひたすらに馬を走らせていた。エレンは問う「見殺しにする理由がわからない！　それを説明しない理由もわからない！」と。その問いにリヴァイは、ある選択を投げかける。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創",
+            "監督：荒木哲郎",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248133,
+    "endAt": 1730386800,
+    "transcodeVersion": "uCboo",
+    "sharedLink": {
+        "twitter": "https://abema.app/MBpN",
+        "facebook": "https://abema.app/BXjG",
+        "google": "https://abema.app/dz1G",
+        "line": "https://abema.app/MA3P",
+        "copy": "https://abema.app/X2mV",
+        "instagram": "https://abema.app/WiWa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-3_s0_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.060922,
+        "opening": {
+            "start": 102.058488,
+            "end": 192.046388
+        },
+        "ending": {
+            "start": 1342.063922,
+            "end": 1432.019455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-3_s0_p20",
+        "title": "#20 エルヴィン・スミス ～第５７回壁外調査④～",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248133,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-3_s0_p19/timeline",
+        "query": "version=uCboo",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

@@ -1,0 +1,158 @@
+{
+    "id": "26-207_s1_p2",
+    "series": {
+        "id": "26-207",
+        "title": "帰還者の魔法は特別です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-207",
+            "filename": "thumb.png",
+            "query": "version=1696251800",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-207",
+            "filename": "portrait.png",
+            "query": "version=1696251800",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-207_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 試験",
+        "content": "「影の迷宮」最後のボス・ナポールとの戦いに敗れ、すべてが終わったと思った瞬間、デジールは、13年前の魔法学院「へブリオン学園」入学式に戻っていた！\n入学試験で、かつての仲間であるロマンティカ・エルやアゼスト・キングスクラウンに再会し、思わず声をかけてしまったデジール。しかし、彼女たちに過去の記憶は無かった。\n二度とあんな絶望は繰り返さない、悲しい過去はこの手で変えてみせる――デジールは決意を固め、仲間と世界を救うため、行動を開始する。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "デジール・アルマン：寺島拓篤",
+            "ロマンティカ・エル：鈴代紗弓",
+            "プラム・シュナイザー：藤原夏海",
+            "アゼスト・キングスクラウン：瀬戸麻沙美"
+        ],
+        "crews": [
+            "原作：Wookjakga、Usonan（D&C WEBTOON Biz. 発行）",
+            "監督：川口太詩",
+            "シリーズ構成・脚本：鴻野貴光",
+            "キャラクターデザイン：加藤裕美",
+            "美術監督：岩瀬栄治",
+            "美術補佐：蒲昌浩",
+            "美術デザイン：金平和茂、平澤晃弘、奥村泰浩、藤瀬智康",
+            "プロップデザイン：橋口翔太郎",
+            "色彩設計：松山愛子",
+            "撮影監督：今泉秀樹",
+            "編集：兼重涼子",
+            "音楽：東大路憲太",
+            "音響監督：濱野高年",
+            "音響効果：小山恭正",
+            "音響制作：マジックカプセル",
+            "アニメーション制作：アルボアニメーション"
+        ],
+        "copyrights": [
+            "(C)A Returner's Magic Should Be Special Animation Partners"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703564186,
+    "endAt": 1728486000,
+    "transcodeVersion": "XWM6j",
+    "sharedLink": {
+        "twitter": "https://abema.app/7Fqo",
+        "facebook": "https://abema.app/NhD4",
+        "google": "https://abema.app/Y2ax",
+        "line": "https://abema.app/iv6G",
+        "copy": "https://abema.app/eGtf",
+        "instagram": "https://abema.app/E5jy"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-207_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-207_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-207_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-207_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.038625,
+        "opening": {
+            "start": 66.27454166666666,
+            "end": 153.06958333333333
+        },
+        "ending": {
+            "start": 1292.2492916666667,
+            "end": 1378.8357916666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-207_s1_p3",
+        "title": "第3話 仲間",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1703564186,
+        "endAt": 1728486000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1728486000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-207_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1728486000
+        }
+    ],
+    "episodeGroupId": "26-207_eg0"
+}

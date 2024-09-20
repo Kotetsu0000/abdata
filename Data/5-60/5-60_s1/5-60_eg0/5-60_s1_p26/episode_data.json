@@ -1,0 +1,145 @@
+{
+    "id": "5-60_s1_p26",
+    "series": {
+        "id": "5-60",
+        "title": "スター☆トゥインクルプリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-60",
+            "filename": "thumb.png",
+            "query": "version=1721628006",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-60",
+            "filename": "portrait.png",
+            "query": "version=1721628006",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 26,
+        "title": "第26話　ナゾの侵入者!?恐怖のパジャマパーティー☆",
+        "content": "ララのお兄さんからプリンセスの力が見つかったという連絡がありました。そこでひかるたちは、ララの故郷の惑星サマーンに向かうことになります。サマーンまでの長い旅の途中、ひかるたちはパジャマパーティーで楽しい時を過ごし、お互いのことを話し合いました。でも、カッパードの攻撃でロケットが壊されてしまいます。ロケットに潜り込んでいたヤンヤンの住むプルルン星で、ひかるたちはロケットの修理をすることになりました。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "キュアスター/星奈ひかる：成瀬瑛美",
+            "キュアミルキー/羽衣ララ：小原好美",
+            "キュアソレイユ/天宮えれな：安野希世乃",
+            "キュアセレーネ/香久矢まどか：小松未可子",
+            "キュアコスモ/ユニ：上坂すみれフワ：木野日菜",
+            "プルンス：吉野裕行"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：佐藤 有(ＡＢＣテレビ）、田中 昴(ＡＢＣアニメーション)、矢﨑 史(ＡＤＫエモーションズ)、柳川あかり",
+            "シリーズディレクター：宮元宏彰",
+            "シリーズ構成：村山 功",
+            "音楽：林 ゆうき、橘 麻美",
+            "キャラクターデザイン：高橋 晃",
+            "美術監督：増田竜太郎、いいだりえ",
+            "製作担当：澤守 洸、堀越圭文",
+            "色彩設計：佐久間ヨシ子"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721631116,
+    "endAt": 1740754800,
+    "transcodeVersion": "6W1VGS",
+    "sharedLink": {
+        "twitter": "https://abema.app/G66P",
+        "facebook": "https://abema.app/bFgy",
+        "google": "https://abema.app/eduk",
+        "line": "https://abema.app/AY7o",
+        "copy": "https://abema.app/7WHS",
+        "instagram": "https://abema.app/i31u"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-60_s1_p26/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-60_s1_p26/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-60_s1_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-60_s1_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.303875,
+        "opening": {
+            "start": 47.08870833333334,
+            "end": 137.137
+        },
+        "ending": {
+            "start": 1340.213875,
+            "end": 1430.2621666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-60_s1_p27",
+        "title": "第27話　海の星！人魚になってスーイスイ☆",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721631116,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-60_s1_p26/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-60_eg0"
+}

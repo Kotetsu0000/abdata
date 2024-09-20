@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s15_p573",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s15",
+        "sequence": 15,
+        "name": "season15",
+        "thumbComponent": {},
+        "order": 15
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 573,
+        "title": "第573話 恥ずかしいお守りの行方（前編）",
+        "content": "国末を捜して上京した平次と和葉。国末は和葉にお守りを作って欲しいと頼み受け取りに来るも、平次が間違って和葉のものの方を国末に渡してしまった。国末は数日前から行方不明で、友人とスポーツカフェで落ち合う事を突き止める。コナンらはカフェに向かうが、国末はトイレで何者かに襲われ、意識不明の重体だった…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066309,
+    "endAt": 1740754800,
+    "transcodeVersion": "2JBrgP",
+    "sharedLink": {
+        "twitter": "https://abema.app/q7U4",
+        "facebook": "https://abema.app/oHDm",
+        "google": "https://abema.app/MN1i",
+        "line": "https://abema.app/wBWa",
+        "copy": "https://abema.app/p3ma",
+        "instagram": "https://abema.app/VCqE"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s15_p573/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s15_p573/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s15_p573/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s15_p573"
+    },
+    "viewingPoint": {
+        "suggestion": 1349.7150333333334,
+        "opening": {
+            "start": 41.60823333333333,
+            "end": 130.66386666666668
+        },
+        "ending": {
+            "start": 1349.7150333333334,
+            "end": 1429.6949333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s15_p574",
+        "title": "第574話 恥ずかしいお守りの行方（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066309,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s15_p573/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

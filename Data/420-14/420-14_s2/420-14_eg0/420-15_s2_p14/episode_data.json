@@ -1,0 +1,146 @@
+{
+    "id": "420-15_s2_p14",
+    "series": {
+        "id": "420-14",
+        "title": "ワンパンマン",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-14",
+            "filename": "thumb.png",
+            "query": "version=1681283586",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-14",
+            "filename": "portrait.png",
+            "query": "version=1681283586",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-14_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 14,
+        "title": "第14話 人間の怪人",
+        "content": "無数に集まった賞金首たち、A級ヒーロー３人を全滅させ、ヒーロー協会へ宣戦布告をしてみせたガロウ。ヒーロー協会のシッチは、その凄まじい戦闘力に慄く。その頃、B級７位に昇格したサイタマを手下にしようと目論む地獄のフブキ(B級１位)は、誘いに興味を示さないサイタマに超能力で襲いかかる。ジェノスはしつこくサイタマを探す音速のソニックを「変質者」と即断。渾身のマシンガンブローとソニックの奥義が激突する。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "サイタマ：古川慎",
+            "ジェノス：石川界人",
+            "音速のソニック：梶裕貴",
+            "戦慄のタツマキ：悠木碧",
+            "キング：安元洋貴",
+            "地獄のフブキ：早見沙織",
+            "ガロウ：緑川光",
+            "スイリュー：松風雅也"
+        ],
+        "crews": [
+            "原作：ONE・村田雄介「ワンパンマン」（集英社「となりのヤングジャンプ」連載）",
+            "監督：櫻井親良",
+            "シリーズ構成：鈴木智尋",
+            "キャラクターデザイン：久保田誓",
+            "美術監督：池田繁美、丸山由紀子",
+            "色彩設計：店橋真弓",
+            "撮影監督：大河内喜夫",
+            "編集：後藤正浩(REAL-T)",
+            "音響監督：岩浪美和",
+            "音楽：宮崎誠",
+            "オープニング主題歌：JAM Project「静寂のアポストル」",
+            "エンディング主題歌：古川慎「地図が無くても戻るから」",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(C)ONE・村田雄介／集英社・ヒーロー協会本部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1714542503,
+    "endAt": 1740754800,
+    "transcodeVersion": "36qifJ",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/it2PK",
+        "facebook": "https://gxyt4.app.goo.gl/sFfek",
+        "google": "https://gxyt4.app.goo.gl/Kri4Q",
+        "line": "https://gxyt4.app.goo.gl/YPM2e",
+        "copy": "https://gxyt4.app.goo.gl/jSykm",
+        "instagram": "https://gxyt4.app.goo.gl/fbcuk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-15_s2_p14/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-15_s2_p14/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-15_s2_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-15_s2_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1445.06,
+        "opening": {
+            "start": 240.555177,
+            "end": 329.919555
+        },
+        "ending": {
+            "start": 1243.056677,
+            "end": 1332.963266
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-15_s2_p15",
+        "title": "第15話 狩りの始まり",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1714542503,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-15_s2_p14/timeline",
+        "query": "version=36qifJ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "420-14_eg0"
+}

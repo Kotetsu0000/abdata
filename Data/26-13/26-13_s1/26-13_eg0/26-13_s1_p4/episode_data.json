@@ -1,0 +1,153 @@
+{
+    "id": "26-13_s1_p4",
+    "series": {
+        "id": "26-13",
+        "title": "黒執事Ⅱ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "thumb.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "portrait.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-13_s1",
+        "sequence": 1,
+        "name": "黒執事Ⅱ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "episode4 テロ執事",
+        "content": "女王の命を受け、誘拐事件の犯人の乗り込んだ列車へと潜入するシエルとセバスチャン。そんな中、列車内で護送中の殺し屋が脱走、さらには仕掛けられた爆弾の存在まで明らかになる。危機的フルコースの連続に、セバスチャンはどう対処するのか…！？"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "セバスチャン・ミカエリス：小野大輔",
+            "シエル・ファントムハイヴ：坂本真綾",
+            "クロード・フォースタス：櫻井孝宏",
+            "アロイス・トランシー：水樹奈々",
+            "ハンナ・アナフェローズ：平野 綾"
+        ],
+        "crews": [
+            "原作：枢やな",
+            "監督：小倉宏文",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン・総作画監督：芝美奈子",
+            "音楽：岩崎　琢"
+        ],
+        "copyrights": [
+            "(C)枢やな/スクウェアエニックス・「黒執事Ⅱ」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708327427,
+    "endAt": 1741532400,
+    "transcodeVersion": "78pvHJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/5zPE",
+        "facebook": "https://abema.app/KucD",
+        "google": "https://abema.app/bEUV",
+        "line": "https://abema.app/zzn1",
+        "copy": "https://abema.app/6CDh",
+        "instagram": "https://abema.app/VuB1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-13_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-13_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-13_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-13_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1462.09,
+        "opening": {
+            "start": 90.044599,
+            "end": 180.066866
+        },
+        "ending": {
+            "start": 1321.095405,
+            "end": 1411.0633
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-13_s1_p5",
+        "title": "episode5 狼煙（のろ）執事",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708327427,
+        "endAt": 1741532400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741532400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-13_s1_p4/timeline",
+        "query": "version=78pvHJ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-13_eg0"
+}

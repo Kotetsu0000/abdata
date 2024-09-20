@@ -1,0 +1,151 @@
+{
+    "id": "171-12_s3_p3",
+    "series": {
+        "id": "171-1",
+        "title": "東京喰種トーキョーグール",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-1",
+            "filename": "thumb.png",
+            "query": "version=1681282042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-1",
+            "filename": "portrait.png",
+            "query": "version=1681282042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "171-1_s30",
+        "sequence": 30,
+        "name": "東京喰種トーキョーグール:re",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 前夜祭　fresh",
+        "content": "[CCG]内での出世に執着する瓜江は、さらなる力を得るため、上官である琲世の許可を偽って自らの赫子の稼動レベルを引き上げる施術を受ける。一方クインクス班は、エース捜査官である鈴屋什造（すずや　じゅうぞう）率いる鈴屋班と、“ナッツクラッカー”と呼ばれる喰種の合同捜査を行うことに。ナッツクラッカーがＳＳレート喰種“ビッグマダム”の関与するオークションに出品するため、若い女性を中心にヒト攫いを行っていることを知り……。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "佐々木琲世（ささき　はいせ）：花江夏樹",
+            "瓜江久生（うりえ　くき）：石川界人",
+            "不知吟士（しらず　ぎんし）：内田雄馬",
+            "六月　透（むつき　とおる）：藤原夏海",
+            "米林才子（よねばやし　さいこ）：佐倉綾音"
+        ],
+        "crews": [
+            "原作：石田スイ（集英社「週刊ヤングジャンプ」連載中）",
+            "監督・絵コンテ：渡部穏寛",
+            "演出：川西泰二",
+            "シリーズ構成・脚本：御笠ノ忠次",
+            "キャラクターデザイン：中嶋敦子",
+            "作画監督：Chang Bum Chul",
+            "音響監督：原口昇",
+            "音楽：やまだ豊",
+            "アニメーション制作：studioぴえろ",
+            "アニメーション制作協力： studioぴえろ+"
+        ],
+        "copyrights": [
+            "©石田スイ／集英社・東京喰種:re製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689746561,
+    "endAt": 1753974000,
+    "transcodeVersion": "77K1wg",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/XWPQn",
+        "facebook": "https://gxyt4.app.goo.gl/3wGTB",
+        "google": "https://gxyt4.app.goo.gl/um4xX",
+        "line": "https://gxyt4.app.goo.gl/ak5iY",
+        "copy": "https://gxyt4.app.goo.gl/cnr56",
+        "instagram": "https://gxyt4.app.goo.gl/7Mbd6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/171-12_s3_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/171-12_s3_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/171-12_s3_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.171-12_s3_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.106977
+    },
+    "nextProgramInfo": {
+        "programId": "171-12_s3_p4",
+        "title": "第4話 オークション　MAIN",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1689746562,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/171-12_s3_p3/timeline",
+        "query": "version=77K1wg",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "171-1_eg0"
+}

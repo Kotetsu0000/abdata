@@ -1,0 +1,134 @@
+{
+    "id": "5-50_s2_p48",
+    "series": {
+        "id": "5-50",
+        "title": "Yes！プリキュア５GoGo！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-50",
+            "filename": "thumb.png",
+            "query": "version=1721019096",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-50",
+            "filename": "portrait.png",
+            "query": "version=1721019096",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-50_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1435
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 48,
+        "title": "第48話　未来へ！ 永遠不滅のプリキュア５！",
+        "content": "プリキュア５とミルキィローズを倒した館長は、キュアローズガーデンを征服。ついに世界をその手におさめてしまった。それでもプリキュア５は、誰ひとりとしてあきらめようとはしない。ココとナッツも希望を捨てずに、何度倒れても立ち上がろうとする。すると、メルポからたくさんの手紙が飛び出してきて…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "キュアドリーム：三瓶由布子",
+            "キュアルージュ：竹内順子",
+            "キュアレモネード：伊瀬茉莉也",
+            "キュアミント：永野 愛",
+            "キュアアクア：前田 愛",
+            "ココ：草尾 毅",
+            "ナッツ：入野自由",
+            "ミルク：仙台エリ",
+            "シロップ：朴 璐美"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：吉田健一郎、麻生一宏、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズ構成：成田良美",
+            "シリーズディレクター：小村敏明",
+            "キャラクターデザイン：川村敏江",
+            "色彩設計：澤田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721090685,
+    "endAt": 1740754800,
+    "transcodeVersion": "5kh86g",
+    "sharedLink": {
+        "twitter": "https://abema.app/NrWK",
+        "facebook": "https://abema.app/Zs8S",
+        "google": "https://abema.app/WU5g",
+        "line": "https://abema.app/6yDU",
+        "copy": "https://abema.app/RS77",
+        "instagram": "https://abema.app/NwLF"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-50_s2_p48/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-50_s2_p48/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-50_s2_p48/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-50_s2_p48"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0520416666666,
+        "opening": {
+            "start": 81.99858333333333,
+            "end": 166.95845833333334
+        },
+        "ending": {
+            "start": 1345.0520416666666,
+            "end": 1435.058625
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-50_s2_p48/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-50_eg0"
+}

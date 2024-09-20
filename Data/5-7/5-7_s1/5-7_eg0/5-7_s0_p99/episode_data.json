@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p99",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 99,
+        "title": "第99話 ｢悲しき五車星！お前は愛と宿命をひきずる女！！」",
+        "content": "世紀末、覇者の鍵を握る南斗最後の将、ユリア。先に城に入ったのはラオウ。ユリアを目指すケンシロウの前に拳王影部隊が立ちはだかっていた。黒王号とともに群がる南斗の兵を蹴散らし、ラオウは遂にユリアの前に立った。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756427,
+    "endAt": 1732978800,
+    "transcodeVersion": "57URuP",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/hG3de",
+        "facebook": "https://gxyt4.app.goo.gl/3zYNf",
+        "google": "https://gxyt4.app.goo.gl/QPgMj",
+        "line": "https://gxyt4.app.goo.gl/6nPc5",
+        "copy": "https://gxyt4.app.goo.gl/CrWN4",
+        "instagram": "https://gxyt4.app.goo.gl/vS43w"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p99/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p99/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p99/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p99"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.385588,
+        "opening": {
+            "start": 50.604088,
+            "end": 114.437622
+        },
+        "ending": {
+            "start": 1330.385588,
+            "end": 1430.252222
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p100",
+        "title": "第100話 ｢究極の奥義無想転生！ラオウ、遂にお前を追いつめた！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756427,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p99/timeline",
+        "query": "version=57URuP",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

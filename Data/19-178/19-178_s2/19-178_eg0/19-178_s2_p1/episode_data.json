@@ -1,0 +1,150 @@
+{
+    "id": "19-178_s2_p1",
+    "series": {
+        "id": "19-178",
+        "title": "アマガミSS",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-178",
+            "filename": "thumb.png",
+            "query": "version=1702607248",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-178",
+            "filename": "portrait.png",
+            "query": "version=1702607248",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-178_s2",
+        "sequence": 2,
+        "name": "アマガミSS+plus",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 ユウワク",
+        "content": "橘純一と絢辻詞はクリスマスに行われた創設祭をきっかけに付き合い始めることになった。1ヶ月後、輝日東高校では期末試験を前に生徒会長選挙が行われ、純一たちのクラスからは詞が立候補することに。選挙には詞の他に三名の立候補者がいる中、副会長候補が発表される。副会長は当選した会長が指名をすることになり、詞は純一を指名する。驚く純一だが、さらにもう一人純一を指名する立候補者が現れた。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "前野智昭",
+            "名塚佳織",
+            "新谷良子",
+            "佐藤利奈",
+            "今野宏美",
+            "ゆかな",
+            "伊藤 静",
+            "阿澄佳奈",
+            "寺島拓篤"
+        ],
+        "crews": [
+            "監督：小林智樹",
+            "脚本：木村暢",
+            "待田堂子",
+            "音楽：大森俊之"
+        ],
+        "copyrights": [
+            "(Ｃ)KADOKAWA CORPORATION ENTERBRAIN",
+            "アマガミSS+製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1701488040,
+    "endAt": 1735657200,
+    "freeEndAt": 1735657200,
+    "transcodeVersion": "5qySrR",
+    "sharedLink": {
+        "twitter": "https://abema.app/KRho",
+        "facebook": "https://abema.app/ouGs",
+        "google": "https://abema.app/4cHz",
+        "line": "https://abema.app/EXgY",
+        "copy": "https://abema.app/EJEp",
+        "instagram": "https://abema.app/aK35"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-178_s2_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-178_s2_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-178_s2_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-178_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-178_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.2389
+    },
+    "nextProgramInfo": {
+        "programId": "19-178_s2_p2",
+        "title": "第2話 ケッセン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1701488097,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-178_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-178_eg0"
+}

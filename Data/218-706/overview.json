@@ -1,0 +1,96 @@
+{
+    "id": "218-706",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "SHIBUYA ANIME BASE",
+    "content": "アニメ/ポップカルチャー情報番組のSHIBUYA ANIME BASE（シブアニ）。「ABEMA」の独占情報や、今知りたいアニメ・アニソン・ゲーム・漫画、そして最新鋭かつちょっとマニアックな\"1週間のトピックス\"をテーマにゲストたちが言いたい放題語りつくします。ほかにも関係者、声優を招いての激レアトークも！？金曜日の夜、アニメ/ポップカルチャーがもっと好きになる1時間を、渋谷よりお届けいたします。",
+    "seasons": [
+        {
+            "id": "218-706_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+                "filename": "thumb.png",
+                "query": "version=1712891168",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "218-706_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "218-706_eg1",
+                    "name": "今週、話題の〇〇!"
+                },
+                {
+                    "id": "218-706_eg2",
+                    "name": "業界深掘りコネクション!"
+                },
+                {
+                    "id": "218-706_eg3",
+                    "name": "シブアニ特集!"
+                },
+                {
+                    "id": "218-706_eg6",
+                    "name": "シブアニ名作劇場"
+                },
+                {
+                    "id": "218-706_eg4",
+                    "name": "新作アニメ調べてみました!"
+                },
+                {
+                    "id": "218-706_eg5",
+                    "name": "ポップカルチャー最前線"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)AbemaTV, Inc."
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1726213238616090667",
+    "imageUpdatedAt": 1712891168,
+    "programOrder": "-seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/vkFD",
+        "facebook": "https://abema.app/6Ldq",
+        "google": "https://abema.app/HkQN",
+        "line": "https://abema.app/jfhy",
+        "copy": "https://abema.app/4whe",
+        "instagram": "https://abema.app/33p9"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+        "filename": "thumb.png",
+        "query": "version=1712891168",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+        "filename": "portrait.png",
+        "query": "version=1712891168",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 3,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png",
+    "isOriginal": true
+}

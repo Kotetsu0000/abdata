@@ -1,0 +1,139 @@
+{
+    "id": "218-434_s13_p15",
+    "series": {
+        "id": "218-434",
+        "title": "声優と夜あそび 2022",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-434",
+            "filename": "thumb.png",
+            "query": "version=1649125880",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-434",
+            "filename": "portrait.png",
+            "query": "version=1649125880",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-434_s13",
+        "sequence": 13,
+        "name": "火曜日",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_39",
+                "name": "AbemaTVオリジナル"
+            },
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4810
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "【たかはし智秋×徳井青空】 #15",
+        "content": "【火曜日はたかはし智秋×徳井青空】\n月曜〜週末まで人気声優が豪華なゲストや作品と共にお届けするディープな\"夜あそび\"。\nこの番組はABEMAビデオにて放送後1週間無料配信！\nABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "月曜日：安元洋貴×岡本信彦",
+            "火曜日：たかはし智秋×徳井青空",
+            "水曜日：森久保祥太郎×蒼井翔太",
+            "木曜日：浪川大輔×細谷佳正",
+            "金曜日：関智一×仲村宗悟",
+            "繋/平日毎日：金田朋子×石川界人",
+            "ウォーカーズ/土曜日：下野紘×内田真礼",
+            "WEEKEND/週末：シャッフル"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680234315,
+    "endAt": 1754060400,
+    "transcodeVersion": "26tMEW",
+    "sharedLink": {
+        "twitter": "https://abema.app/WqBe",
+        "facebook": "https://abema.app/HoKA",
+        "google": "https://abema.app/1AYn",
+        "line": "https://abema.app/n68V",
+        "copy": "https://abema.app/YCvw",
+        "instagram": "https://abema.app/xFQg"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-434_s13_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-434_s13_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-434_s13_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-434_s13_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 4805.338867
+    },
+    "nextProgramInfo": {
+        "programId": "218-434_s13_p16",
+        "title": "【関智一×金田朋子】 #16",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1680234315,
+        "endAt": 1754665200,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1754665200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-434_s13_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1754060400
+        }
+    ],
+    "episodeGroupId": "218-434_eg0"
+}

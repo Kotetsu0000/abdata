@@ -1,0 +1,139 @@
+{
+    "id": "35-46_s0_p12",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5984
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "映画ドラえもん のび太のドラビアンナイト",
+        "content": "絵本の世界で迷子になったしずかちゃんを助けに、ドラえもんたちはアラビアンナイトの世界へ。ところが、盗賊団に襲われて大ピンチ。そして、砂漠をさまよう一行の前に、巨大な魔人が現れた！"
+    },
+    "credit": {
+        "released": 1991,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "制作総指揮・原作・脚本：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 1991"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522814,
+    "endAt": 1741014000,
+    "transcodeVersion": "4dof5p",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Y3xmz",
+        "facebook": "https://gxyt4.app.goo.gl/vdUFX",
+        "google": "https://gxyt4.app.goo.gl/CZ64R",
+        "line": "https://gxyt4.app.goo.gl/CDosB",
+        "copy": "https://gxyt4.app.goo.gl/CdmWv",
+        "instagram": "https://gxyt4.app.goo.gl/6681H"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-46_s0_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-46_s0_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-46_s0_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 5833.973462,
+        "opening": {
+            "start": 260.343082,
+            "end": 329.351155
+        },
+        "ending": {
+            "start": 5842.360355,
+            "end": 5984.668555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p13",
+        "title": "映画ドラえもん のび太と雲の王国",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1709522814,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "5-22_s2_p128",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s2",
+        "sequence": 2,
+        "name": "北斗の拳2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1463
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 128,
+        "title": "第128話　修羅の国に救世主伝説走る!　その名はラオウ!!",
+        "content": "ケンシロウとハンの戦いを観戦しながら、この国で生きるには強さが必要だと語るシャチ。北斗琉拳の使い手だったその老人に弟子入りしたシャチは、愛を説く恋人のレイアの反対を押し切って鬼になることを決意。「いずれ救世主がこの国を変える」と発言したジュウケイの下で拳を磨いた。しかしジュウケイから救世主だと聞かされていた者の名は、なんと「ラオウ」だった！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：難波圭一",
+            "リン：冨永み～な",
+            "ファルコ：田中秀幸",
+            "カイオウ：内海賢二",
+            "ヒョウ：小川真司",
+            "ハン：戸谷公次",
+            "シャチ：鈴置洋孝",
+            "ナレーター：千葉繁"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／NSP・東映アニメーション1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756428,
+    "endAt": 1732978800,
+    "transcodeVersion": "5nj8N9",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/kW7Qq",
+        "facebook": "https://gxyt4.app.goo.gl/zfztH",
+        "google": "https://gxyt4.app.goo.gl/1K2Nv",
+        "line": "https://gxyt4.app.goo.gl/C1nDj",
+        "copy": "https://gxyt4.app.goo.gl/yQopy",
+        "instagram": "https://gxyt4.app.goo.gl/Wtvad"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-22_s2_p128/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-22_s2_p128/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-22_s2_p128/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-22_s2_p128"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.333855,
+        "opening": {
+            "start": 21.644822,
+            "end": 109.032222
+        },
+        "ending": {
+            "start": 1365.320488,
+            "end": 1463.459862
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-22_s2_p129",
+        "title": "第129話　暴かれたケンシロウの秘密!　修羅の国は母の国!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756428,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-22_s2_p128/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

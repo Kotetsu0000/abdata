@@ -1,0 +1,127 @@
+{
+    "id": "420-62_s1_p3",
+    "series": {
+        "id": "420-62",
+        "title": "転生したらスライムだった件 コリウスの夢",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-62",
+            "filename": "thumb.png",
+            "query": "version=1696918082",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-62",
+            "filename": "portrait.png",
+            "query": "version=1696918082",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-62_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1481
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "紫と薔薇",
+        "content": "グスタフとカールの陰謀を暴いたリムルだが、王子達と共に結界に閉じ込められてしまう。結界の外では驚いたことに、ルミナスとヴィオレが激突し始めていた。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "Coming Soon"
+        ],
+        "crews": [
+            "原作:川上泰樹・伏瀬・みっつばー（『転生したらスライムだった件』講談社「月刊少年シリウス」連載）",
+            "監督:中山敦史",
+            "シリーズ構成:根元歳三",
+            "キャラクターデザイン:江畑諒真",
+            "モンスターデザイン:岸田隆宏",
+            "コンセプトアート:富安健一郎（INEI）",
+            "美術:スタジオなや",
+            "美術監督:佐藤 歩",
+            "美術設定:ボワセイユ レミ、藤瀬智康、佐藤正浩",
+            "色彩設計:斉藤麻記",
+            "撮影監督:佐藤 洋",
+            "グラフィックデザイナー:生原雄次",
+            "編集:神宮司由美",
+            "音響監督:明田川 仁",
+            "音楽:藤間 仁（Elements Garden）",
+            "アニメーション制作:エイトビット"
+        ],
+        "copyrights": [
+            "(C)川上泰樹・伏瀬・講談社／転スラ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1700140334,
+    "endAt": 1759244400,
+    "transcodeVersion": "3D2Zbj",
+    "sharedLink": {
+        "twitter": "https://abema.app/qUDp",
+        "facebook": "https://abema.app/Db1U",
+        "google": "https://abema.app/2pdn",
+        "line": "https://abema.app/MRz5",
+        "copy": "https://abema.app/izWm",
+        "instagram": "https://abema.app/ddUv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-62_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-62_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-62_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-62_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1476.0579166666666,
+        "opening": {
+            "start": 17.058708333333332,
+            "end": 100.93416666666667
+        },
+        "ending": {
+            "start": 1350.0570416666667,
+            "end": 1440.0219166666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-62_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "420-62_eg0"
+}

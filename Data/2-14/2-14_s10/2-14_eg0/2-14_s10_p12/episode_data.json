@@ -1,0 +1,148 @@
+{
+    "id": "2-14_s10_p12",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 わたしが選ぶ未来",
+        "content": "あらためて山火事の惨状を目の当たりにしたリコとロイ。リコは、そこで暮らしていた野生のポケモンたちのために、森を復活させようと思い立つ。ライジングボルテッカーズの仲間たちの力も借り、きのみを埋め、土を耕し、と奮闘するリコたち。その懸命な姿を見ていたオリーヴァに、ある異変が起こる！さらに、リコのペンダントが再び輝き出して…！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャオハ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "ホゲータ：山下大輝"
+        ],
+        "crews": [
+            "監督：でんさおり",
+            "クリエイティブディレクター：冨安大貴",
+            "アクションディレクター：矢嶋哲生",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872172,
+    "endAt": 1747407600,
+    "transcodeVersion": "i9bHn",
+    "sharedLink": {
+        "twitter": "https://abema.app/Bd6P",
+        "facebook": "https://abema.app/1qN8",
+        "google": "https://abema.app/93t5",
+        "line": "https://abema.app/stbm",
+        "copy": "https://abema.app/pk4W",
+        "instagram": "https://abema.app/ywtE"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-14_s10_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-14_s10_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-14_s10_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.545644,
+        "opening": {
+            "start": 90.943695,
+            "end": 177.943695
+        },
+        "ending": {
+            "start": 1305.723582,
+            "end": 1392.723582
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-14_s10_p13",
+        "title": "第13話 ピクニックは突然に",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1725872172,
+        "endAt": 1747407600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1747407600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p12/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1747407600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0"
+}

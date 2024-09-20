@@ -1,0 +1,153 @@
+{
+    "id": "25-1nzan-whrxe_s0_p15",
+    "series": {
+        "id": "25-1nzan-whrxe",
+        "title": "ソードアート・オンライン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "thumb.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "portrait.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-1nzan-whrxe_s10",
+        "sequence": 10,
+        "name": "ソードアート・オンライン",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "#15 「帰還」",
+        "content": "ヒースクリフとの死闘のすえ、キリトこと、桐ヶ谷和人は現実世界へ帰還した。同時にデスゲームを生き残った者たちも生還するものの、アスナをはじめ300人のプレイヤーたちは意識を取り戻さず、眠りつづけている。それから2か月後、アスナ──結城明日奈に会いに病院へ赴いた和人は、同じく見舞いにやってきた明日奈の父・彰三と彼の部下・須郷伸之と遭遇。須郷が昏睡状態の明日奈と1週間後に結婚すると知り──。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "キリト：松岡禎丞",
+            "アスナ：戸松遥",
+            "リーファ：竹達彩奈",
+            "ユイ：伊藤かな恵",
+            "シリカ：日高里菜"
+        ],
+        "crews": [
+            "原作：川原 礫(電撃文庫／アスキー・メディアワークス刊)",
+            "原作イラスト・キャラクターデザイン原案：abec",
+            "監督：伊藤智彦",
+            "キャラクターデザイン：足立慎吾"
+        ],
+        "copyrights": [
+            "(C)川原 礫／アスキー・メディアワークス／SAO Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1690870934,
+    "endAt": 1743433200,
+    "freeEndAt": 1727239500,
+    "transcodeVersion": "6gRqtt",
+    "sharedLink": {
+        "twitter": "https://abema.app/gLFG",
+        "facebook": "https://abema.app/c1Tf",
+        "google": "https://abema.app/KpqF",
+        "line": "https://abema.app/1hru",
+        "copy": "https://abema.app/jn7z",
+        "instagram": "https://abema.app/Z9hz"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-1nzan-whrxe_s0_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-1nzan-whrxe_s0_p15/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-1nzan-whrxe_s0_p15/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-1nzan-whrxe_s0_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-1nzan-whrxe_s0_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.045033,
+        "opening": {
+            "start": 117.104966,
+            "end": 206.8615
+        },
+        "ending": {
+            "start": 1325.045033,
+            "end": 1414.9683
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-1nzan-whrxe_s0_p16",
+        "title": "#16 「妖精たちの国」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1690870934,
+        "endAt": 1743433200,
+        "freeEndAt": 1727239500,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727239500
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-1nzan-whrxe_s0_p15/timeline",
+        "query": "version=6gRqtt",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727239500
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "25-1nzan-whrxe_eg0"
+}

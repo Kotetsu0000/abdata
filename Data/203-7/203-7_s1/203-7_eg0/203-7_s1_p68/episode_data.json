@@ -1,0 +1,154 @@
+{
+    "id": "203-7_s1_p68",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 68,
+        "title": "第68話 はじめてのラッシュデュエル",
+        "content": "デュエル家庭教師としてエポックにデッキ構築を教え、特訓で秘策を授るユウディアス。あとは実践あるのみ！ギャラクシーカップに参戦すべくエポックの対戦相手を探していると、ラッシュ・ブーターの光が遊飛を指し示す。エポックはじめてのラッシュデュエル！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944781,
+    "endAt": 1743433200,
+    "transcodeVersion": "49zvnb",
+    "sharedLink": {
+        "twitter": "https://abema.app/oAmf",
+        "facebook": "https://abema.app/ZyHw",
+        "google": "https://abema.app/VHff",
+        "line": "https://abema.app/neVr",
+        "copy": "https://abema.app/XSmP",
+        "instagram": "https://abema.app/Yrcf"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p68/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p68/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p68/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p68"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.741622,
+        "opening": {
+            "start": 31.054222,
+            "end": 120.403915
+        },
+        "ending": {
+            "start": 1320.084145,
+            "end": 1409.600176
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-7_s1_p69",
+        "title": "第69話 トレモロvsディノワ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944781,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p68/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

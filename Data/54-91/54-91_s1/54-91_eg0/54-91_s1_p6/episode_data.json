@@ -1,0 +1,133 @@
+{
+    "id": "54-91_s1_p6",
+    "series": {
+        "id": "54-91",
+        "title": "まぁるい彼女と残念な彼氏",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-91",
+            "filename": "thumb.png",
+            "query": "version=1719970788",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-91",
+            "filename": "portrait.png",
+            "query": "version=1719970788",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-91_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 690
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 君の好きなところ",
+        "content": "万莉子の誤解を解こうと連絡をとる凪。\nお互いが抱えていた気持ちを正直に伝え合い、二人の恋は加速する――"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "細井万莉子：徳井青空",
+            "桐ヶ谷凪：田丸篤志"
+        ],
+        "crews": [
+            "原作：葉山いずみ",
+            "作画：丘邑やち代",
+            "制作：una toon studio（「LINEマンガ」連載）",
+            "総監督：久保洋祐",
+            "監督：うもとゆーじ",
+            "音響監督：今泉雄一",
+            "音響効果：小林亜依里",
+            "音楽：bermei.inazawa",
+            "アニメーション制作：Imageworks Studio",
+            "制作協力：ウサギ王"
+        ],
+        "copyrights": [
+            "(C)Izumi Hayama・Yachiyo Okamura・una toon studio/LDF/「まるカノ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721966762,
+    "endAt": 1772290800,
+    "transcodeVersion": "4YkQtF",
+    "sharedLink": {
+        "twitter": "https://abema.app/wQpW",
+        "facebook": "https://abema.app/sCP7",
+        "google": "https://abema.app/4pEx",
+        "line": "https://abema.app/5uzC",
+        "copy": "https://abema.app/S8yB",
+        "instagram": "https://abema.app/Qcd4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-91_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-91_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-91_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-91_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 600.0160833333333,
+        "opening": {
+            "end": 89.964875
+        },
+        "ending": {
+            "start": 600.0160833333333,
+            "end": 689.9809583333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-91_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1772290800
+        }
+    ],
+    "episodeGroupId": "54-91_eg0"
+}

@@ -1,0 +1,159 @@
+{
+    "id": "19-9dpgpzmmsbb_s0_p17",
+    "series": {
+        "id": "19-16",
+        "title": "ハイキュー!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "thumb.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "portrait.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-16_s1",
+        "sequence": 1,
+        "name": "ハイキュー!!",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1455
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 17,
+        "title": "第17話 鉄壁",
+        "content": "東峰にとって因縁のある伊達工業とのインターハイ２回戦目が始まった。立ち上がりに、サーブで崩しブロックで仕留める戦術をとる伊達工に対し、烏野はレシーブ重視のフォーメーションをとる。大きく立ちはだかる伊達工の『壁』を前に、日向たちは―。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "村瀬歩",
+            "石川界人",
+            "日野聡",
+            "入野自由",
+            "林勇",
+            "細谷佳正",
+            "岡本信彦",
+            "内山昂輝",
+            "斉藤壮馬",
+            "名塚佳織",
+            "神谷浩史",
+            "田中一成",
+            "浪川大輔"
+        ],
+        "crews": [
+            "監督：満仲勧",
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載中）",
+            "シリーズ構成：岸本卓",
+            "キャラクターデザイン：岸田隆宏",
+            "総作画監督：千葉崇洋、海谷敏久",
+            "音響監督：菊田浩巳",
+            "音楽：林ゆうき、橘麻美"
+        ],
+        "copyrights": [
+            "(C)古舘春一／集英社・「ハイキュー!!」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684374727,
+    "endAt": 1738335600,
+    "transcodeVersion": "34mrPZ",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/gVVvq",
+        "facebook": "https://gxyt4.app.goo.gl/zWwSK",
+        "google": "https://gxyt4.app.goo.gl/PAHCm",
+        "line": "https://gxyt4.app.goo.gl/uKTDQ",
+        "copy": "https://gxyt4.app.goo.gl/hP1bj",
+        "instagram": "https://gxyt4.app.goo.gl/iwjx1"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p17/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p17/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-9dpgpzmmsbb_s0_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.467433,
+        "opening": {
+            "start": 75.686732,
+            "end": 162.586733
+        },
+        "ending": {
+            "start": 1347.557333,
+            "end": 1434.457333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-9dpgpzmmsbb_s0_p18",
+        "title": "第18話 背中の護り",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1684374728,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-9dpgpzmmsbb_s0_p17/timeline",
+        "query": "version=34mrPZ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-16_eg0"
+}

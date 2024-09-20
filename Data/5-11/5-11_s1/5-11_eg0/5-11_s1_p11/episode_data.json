@@ -1,0 +1,148 @@
+{
+    "id": "5-11_s1_p11",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 怪盗紳士の殺人 ファイル2",
+        "content": "本物の怪盗紳士によって絵が奪われ、モデルのさくらが襲われた。幸い命に別状はなかったが、有力な手がかりがつかめないまま、ついには蒲生画伯が殺害されてしまう。はじめは怪盗紳士らしからぬ手口に違和感を抱き、盗まれた絵を利用して罠を仕掛ける。その夜、姿を現したのは思いもよらない人物だった。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833280,
+    "endAt": 1732978800,
+    "transcodeVersion": "797jDM",
+    "sharedLink": {
+        "twitter": "https://abema.app/fQYg",
+        "facebook": "https://abema.app/P3WU",
+        "google": "https://abema.app/rcem",
+        "line": "https://abema.app/ab7N",
+        "copy": "https://abema.app/ThVw",
+        "instagram": "https://abema.app/CPs1"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1308.864088,
+        "opening": {
+            "start": 7.530722,
+            "end": 99.088855
+        },
+        "ending": {
+            "start": 1308.864088,
+            "end": 1409.664888
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p12",
+        "title": "第12話 怪盗紳士の殺人 ファイル3",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833280,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p11/timeline",
+        "query": "version=797jDM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

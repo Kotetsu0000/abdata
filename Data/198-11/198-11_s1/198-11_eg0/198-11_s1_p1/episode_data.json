@@ -1,0 +1,168 @@
+{
+    "id": "198-11_s1_p1",
+    "series": {
+        "id": "198-11",
+        "title": "黄昏アウトフォーカス",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-11",
+            "filename": "thumb.png",
+            "query": "version=1722493155",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-11",
+            "filename": "portrait.png",
+            "query": "version=1722493155",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "198-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 始まる前に終わる恋なんか",
+        "content": "男子校の寮で、不良で一匹狼の寿と同室になった真央。\n「寿がゲイで彼氏がいることを口外しない」「寿は真央を恋愛対象とせず、手出しもしない」「互いの自慰行為は邪魔しない」という３つの約束を交わし、ルームメイトとして仲良くやってきた。\n高２の春、真央は映画部の活動でBLがテーマの映画を撮ることに。監督から「主役は寿にしたい」と頼まれ、だんだんと寿から目が離せなくなっていき――!?"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "土屋真央：松岡禎丞",
+            "大友寿：内田雄馬",
+            "菊地原仁：古川慎",
+            "市川義一：中澤まさとも",
+            "稲葉礼：江口拓也",
+            "吉乃詩音：斉藤壮馬"
+        ],
+        "crews": [
+            "原作：じゃのめ『黄昏アウトフォーカス』『残像スローモーション』『黄昏アウトフォーカスoverlap』『宵々モノローグ』（講談社「ハニーミルク」所載）",
+            "監督：渡部穏寛",
+            "シリーズ構成：成田良美",
+            "キャラクターデザイン：菊地洋子",
+            "美術監督：山梨絵里",
+            "色彩設計：安住唯",
+            "撮影監督：越山麻彦",
+            "編集：小池祐樹",
+            "音響監督：矢野さとし",
+            "音響効果：奥田維城　牛黒希美",
+            "音響制作：Ai Addiction",
+            "音楽：宝野聡史　中野香梨",
+            "音楽制作：AQUA ARIS",
+            "アニメーション制作：スタジオディーン"
+        ],
+        "copyrights": [
+            "(C)じゃのめ・講談社／「黄昏アウトフォーカス」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726206684,
+    "endAt": 1790780400,
+    "freeEndAt": 1790780400,
+    "transcodeVersion": "23W3xj",
+    "sharedLink": {
+        "twitter": "https://abema.app/VupX",
+        "facebook": "https://abema.app/VDQy",
+        "google": "https://abema.app/9aPj",
+        "line": "https://abema.app/ZxFe",
+        "copy": "https://abema.app/DGiz",
+        "instagram": "https://abema.app/vvxP"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/198-11_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/198-11_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/198-11_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/198-11_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.198-11_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1312.2692916666667,
+        "opening": {
+            "start": 119.53608333333334,
+            "end": 208.95875
+        },
+        "ending": {
+            "start": 1312.2692916666667,
+            "end": 1401.9005
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "198-11_s1_p2",
+        "title": "第2話 俺にしなよ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726206684,
+        "endAt": 1790780400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1790780400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/198-11_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "198-11_eg0"
+}

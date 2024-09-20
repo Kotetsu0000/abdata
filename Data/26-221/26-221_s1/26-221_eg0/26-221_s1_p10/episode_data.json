@@ -1,0 +1,146 @@
+{
+    "id": "26-221_s1_p10",
+    "series": {
+        "id": "26-221",
+        "title": "龍族 -The Blazing Dawn-（日本語吹替版）",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-221",
+            "filename": "thumb.png",
+            "query": "version=1712836273",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-221",
+            "filename": "portrait.png",
+            "query": "version=1712836273",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-221_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1317
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "9話 再会の誓い",
+        "content": "学院襲撃の知らせを受け下山を急ぐミンフェイとノノ。道中で13番ことラオタンと再会するミンフェイだったが喜びも束の間、復活した青銅と炎の龍王・コンスタンティンの不安定ながらも強大な力で学院は混乱に陥る。身を隠すミンフェイたちだが、コンスタンティンはある人物を探し求めて彼らの跡を追う。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ルー・ミンフェイ／路明非：山下大輝",
+            "ノノ／諾諾：本渡 楓",
+            "ルー・ミンゼイ／路鳴沢：村瀬 歩",
+            "フィンゲル・フォン・フリングス：橘 龍丸",
+            "チュー・ズーハン／楚子航：小野賢章",
+            "シーザー・ガットゥーゾ：大塚剛央",
+            "リン：天城サリー",
+            "ノルマ・ローレンス：石見舞菜香",
+            "アンジェ：速水 奨"
+        ],
+        "crews": [
+            "原作：江南（ジャン・ナン）「龍族」",
+            "監督・シリーズ構成：王昕（ワン・シン）",
+            "キャラクターデザイン・総作画監督：李時旼（リー・シーミン）",
+            "音楽監督：伍婷（ウー・ティン）",
+            "BGM：KOHTA YAMAMOTO ほか",
+            "アニメーション制作：HANABARA Animation"
+        ],
+        "copyrights": [
+            "(C)2023 Shenzhen Tencent Computer Systems Company Limited"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719915787,
+    "endAt": 1744124400,
+    "transcodeVersion": "64vq1p",
+    "sharedLink": {
+        "twitter": "https://abema.app/WgC7",
+        "facebook": "https://abema.app/jfsU",
+        "google": "https://abema.app/xJs2",
+        "line": "https://abema.app/Rc99",
+        "copy": "https://abema.app/wv65",
+        "instagram": "https://abema.app/DcWG"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-221_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-221_s1_p10/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-221_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-221_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1226.97575,
+        "opening": {
+            "end": 95.470375
+        },
+        "ending": {
+            "start": 1226.97575,
+            "end": 1317.0240416666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-221_s1_p11",
+        "title": "10話 兄弟の記憶",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719915787,
+        "endAt": 1744124400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1744124400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-221_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1744124400
+        }
+    ],
+    "episodeGroupId": "26-221_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p90",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 90,
+        "title": "第90話 ｢俺は雲のジュウザ！時の流れに身を任す！！」",
+        "content": "ケンシロウの前に現われた拳王配下の長槍騎兵隊。ケンシロウは隊長ヤコブの秘孔を突いた。その頃リハクの頼みを拒んでいたジュウザの城に盗賊ゲルガが女を取り返しにきた。ゲルガの拳にジュウザは我流の拳で応戦する！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "5oHjeh",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/1sFAh",
+        "facebook": "https://gxyt4.app.goo.gl/x958v",
+        "google": "https://gxyt4.app.goo.gl/hYwVS",
+        "line": "https://gxyt4.app.goo.gl/CTfsN",
+        "copy": "https://gxyt4.app.goo.gl/bAuqe",
+        "instagram": "https://gxyt4.app.goo.gl/a19qA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-7_s0_p90/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-7_s0_p90/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-7_s0_p90/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p90"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.589888,
+        "opening": {
+            "start": 56.956555,
+            "end": 123.889888
+        },
+        "ending": {
+            "start": 1339.589888,
+            "end": 1439.989888
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p91",
+        "title": "第91話 ｢雲いぜん動かず！遂に仮面の将が素顔を見せた！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p90/timeline",
+        "query": "version=5oHjeh",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

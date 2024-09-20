@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p913",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 679
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 913,
+        "title": "#913 空とぶさかな",
+        "content": "庭の池で飼っているニシキゴイをスネ夫にじまんされたのび太は、自分もスネ夫みたいに魚を飼ったり、芸を教えたりしてみたい…とため息をつく。それを聞いたドラえもんは、「飼う魚を探しに行こう！」と、のび太を海に連れ出した。そして、海の上で四次元ポケットから『ペット用魚エサ』の袋を取り出すと、のび太にエサを強くにぎってから海に投げるようにと言う。\n　のび太が言われたとおりにすると、海の中からさまざまな魚が飛び出し、のび太に向かってきたからビックリ！ しかも魚たちは、なぜかのび太になついてきて…！？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1751295600,
+    "transcodeVersion": "xibF8",
+    "sharedLink": {
+        "twitter": "https://abema.app/6TMr",
+        "facebook": "https://abema.app/dNo4",
+        "google": "https://abema.app/RMus",
+        "line": "https://abema.app/7ios",
+        "copy": "https://abema.app/AVyM",
+        "instagram": "https://abema.app/7Lno"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p913/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p913/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p913/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p913"
+    },
+    "viewingPoint": {
+        "suggestion": 674.0066666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p914",
+        "title": "#914 ひい木でひいき",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p913/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

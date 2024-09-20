@@ -1,0 +1,149 @@
+{
+    "id": "35-7fbsihxzgdw_s0_p6",
+    "series": {
+        "id": "35-7fbsihxzgdw",
+        "title": "忍者ハットリくん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-7fbsihxzgdw",
+            "filename": "thumb.png",
+            "query": "version=1686708615",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-7fbsihxzgdw",
+            "filename": "portrait.png",
+            "query": "version=1686708615",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-7fbsihxzgdw_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1116
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 UFOってなんでござるかの巻 他",
+        "content": "『UFOってなんでござるかの巻』…学級新聞にのせる写真をとるため神社に行ったケン一。そこで偶然、UFOらしきものを撮影し、学校で話題になる。先生や夢子ちゃん達と再度UFOを撮影しに行くのだが、そこで見たものとは？"
+    },
+    "credit": {
+        "released": 1981,
+        "casts": [
+            "ハットリくん：堀絢子",
+            "ケン一：菅谷政子",
+            "シンゾウ：三田ゆう子",
+            "ケムマキ：肝付兼太",
+            "獅子丸：緒方賢一",
+            "影千代：山田栄子",
+            "パパ：藤本譲",
+            "ママ：梨羽侑里",
+            "夢子：あきやまるな",
+            "先生：二又一成"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "総監督：笹川ひろし",
+            "監修：鈴木伸一",
+            "シリーズ構成：桜井正明",
+            "脚本：城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子",
+            "作画監督：富永貞義　なかじまちゅうじ",
+            "美術監督：宮野隆",
+            "撮影監督：角原幸枝",
+            "録音監督：大熊昭",
+            "音楽：菊池俊輔"
+        ],
+        "copyrights": [
+            "(C)藤子スタジオ／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1697193237,
+    "endAt": 1756652400,
+    "transcodeVersion": "4YSi3X",
+    "sharedLink": {
+        "twitter": "https://abema.app/rsfi",
+        "facebook": "https://abema.app/VNPg",
+        "google": "https://abema.app/4jfZ",
+        "line": "https://abema.app/F69A",
+        "copy": "https://abema.app/fqv9",
+        "instagram": "https://abema.app/TS8Q"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-7fbsihxzgdw_s0_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1111.6
+    },
+    "nextProgramInfo": {
+        "programId": "35-7fbsihxzgdw_s0_p7",
+        "title": "第7話 シンゾウ危しの巻 他",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1697193237,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-7fbsihxzgdw_s0_p6/timeline",
+        "query": "version=4YSi3X",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-7fbsihxzgdw_eg0"
+}

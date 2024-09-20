@@ -1,0 +1,146 @@
+{
+    "id": "13-20xc-mkyminy_s0_p1",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s1",
+        "sequence": 1,
+        "name": "1年目",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1455
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 てめーらァァァ!!それでも銀魂ついてんのかァァァ！（前編）",
+        "content": "侍の国―そう呼ばれていたのは今は昔。かつて侍たちが仰ぎ夢をはせた江戸の空には、突如舞い降り台頭した『天人』の船が飛び交い、街には天人たちがふんぞり返って歩く。侍は剣も地位も、そして誇りも失った…。そんな江戸の街で万事屋を営む坂田銀時の元に依頼人・加藤健が現れる。無くした物を取り戻したい。そのためには三千万ほど必要だという。身に続く不幸を語る加藤に、万事屋はやむなく協力することになる。一方そのころ、江戸の片隅では天人カリヤとその一味が、江戸掌握を目論み策謀を交わしていた…。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684296386,
+    "endAt": 1740754800,
+    "freeEndAt": 1740754800,
+    "transcodeVersion": "394rhV",
+    "sharedLink": {
+        "twitter": "https://abema.app/537m",
+        "facebook": "https://abema.app/V3kR",
+        "google": "https://abema.app/MT4E",
+        "line": "https://abema.app/5yuQ",
+        "copy": "https://abema.app/gbpi",
+        "instagram": "https://abema.app/Tw3Q"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/13-20xc-mkyminy_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-20xc-mkyminy_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1450.517426,
+        "opening": {
+            "start": 218.039133,
+            "end": 307.994666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-20xc-mkyminy_s0_p2",
+        "title": "第2話 てめーらァァァ!!それでも銀魂ついてんのかァァァ！（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296386,
+        "endAt": 1740754800,
+        "freeEndAt": 1726490220,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726490220
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-20xc-mkyminy_s0_p1/timeline",
+        "query": "version=394rhV",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

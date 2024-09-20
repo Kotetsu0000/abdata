@@ -1,0 +1,160 @@
+{
+    "id": "198-11_s1_p7",
+    "series": {
+        "id": "198-11",
+        "title": "黄昏アウトフォーカス",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-11",
+            "filename": "thumb.png",
+            "query": "version=1722493155",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-11",
+            "filename": "portrait.png",
+            "query": "version=1722493155",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "198-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1423
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 因縁の決着",
+        "content": "仁から「好きなんだ」と告げられ、流されそうになりながらも動揺する義一。実は幼い過去、２人は映画を介して出会っていた。義一の作品を見て、仁は映画のもつ熱に触れ――。寮で隣り合って長い映画を観ながら、部活のこと、卒業後のことを語り合う穏やかな夜。ついに義一は、仁に「本音が知りたい」と告げて…!?"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "土屋真央：松岡禎丞",
+            "大友寿：内田雄馬",
+            "菊地原仁：古川慎",
+            "市川義一：中澤まさとも",
+            "稲葉礼：江口拓也",
+            "吉乃詩音：斉藤壮馬"
+        ],
+        "crews": [
+            "原作：じゃのめ『黄昏アウトフォーカス』『残像スローモーション』『黄昏アウトフォーカスoverlap』『宵々モノローグ』（講談社「ハニーミルク」所載）",
+            "監督：渡部穏寛",
+            "シリーズ構成：成田良美",
+            "キャラクターデザイン：菊地洋子",
+            "美術監督：山梨絵里",
+            "色彩設計：安住唯",
+            "撮影監督：越山麻彦",
+            "編集：小池祐樹",
+            "音響監督：矢野さとし",
+            "音響効果：奥田維城　牛黒希美",
+            "音響制作：Ai Addiction",
+            "音楽：宝野聡史　中野香梨",
+            "音楽制作：AQUA ARIS",
+            "アニメーション制作：スタジオディーン"
+        ],
+        "copyrights": [
+            "(C)じゃのめ・講談社／「黄昏アウトフォーカス」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726206684,
+    "endAt": 1790780400,
+    "transcodeVersion": "5jM6jL",
+    "sharedLink": {
+        "twitter": "https://abema.app/s3B6",
+        "facebook": "https://abema.app/qMVB",
+        "google": "https://abema.app/3XnR",
+        "line": "https://abema.app/YdZ8",
+        "copy": "https://abema.app/Baj4",
+        "instagram": "https://abema.app/yemL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/198-11_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/198-11_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/198-11_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.198-11_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1401.9422083333334,
+        "opening": {
+            "end": 89.964875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "198-11_s1_p8",
+        "title": "第8話 どクズな彼氏",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726206684,
+        "endAt": 1790780400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1790780400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/198-11_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "198-11_eg0"
+}

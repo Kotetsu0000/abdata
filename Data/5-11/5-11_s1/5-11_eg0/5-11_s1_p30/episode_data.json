@@ -1,0 +1,148 @@
+{
+    "id": "5-11_s1_p30",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1441
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 30,
+        "title": "第30話 幽霊客船殺人事件 ファイル3",
+        "content": "若王子が自殺し、オリエンタル号の沈没に端を発する一連の事件は終わったかのように思えた。彼の遺書には、自分こそ真犯人であると書かれていたのだ。ところが、乗客の時原が続いて海に身を投げた。何とか無事に助け出されたものの、自ら命を絶とうとした動機はハッキリしない。船は航路から外れてある島に辿り着き…。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833281,
+    "endAt": 1732978800,
+    "transcodeVersion": "558oR3",
+    "sharedLink": {
+        "twitter": "https://abema.app/JwBT",
+        "facebook": "https://abema.app/pue7",
+        "google": "https://abema.app/dm4z",
+        "line": "https://abema.app/RFVk",
+        "copy": "https://abema.app/KMPs",
+        "instagram": "https://abema.app/yWs8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p30/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p30/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p30/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p30"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.064288,
+        "opening": {
+            "start": 11.935122,
+            "end": 99.455888
+        },
+        "ending": {
+            "start": 1309.064288,
+            "end": 1411.800355
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p31",
+        "title": "第31話 幽霊客船殺人事件 ファイル4",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833281,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p30/timeline",
+        "query": "version=558oR3",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

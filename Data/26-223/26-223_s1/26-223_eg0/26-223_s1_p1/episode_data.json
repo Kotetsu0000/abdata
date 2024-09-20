@@ -1,0 +1,157 @@
+{
+    "id": "26-223_s1_p1",
+    "series": {
+        "id": "26-223",
+        "title": "ATRI -My Dear Moments-",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-223",
+            "filename": "thumb.png",
+            "query": "version=1719452503",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-223",
+            "filename": "portrait.png",
+            "query": "version=1719452503",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-223_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "【Log 01】「うみのゆりかごへ」",
+        "content": "海面上昇により世界の多くが海の底に忘れられた近未来。海の上に取り残された小さな町に生きる斑鳩夏生は、謎の女・キャサリンに誘われ海洋地質学者だった祖母の家にある宝を探している。ある日、潜水艦で海底に潜った彼は、謎のカプセルとその中に眠る少女に出会う。彼女は、人間と見紛うほど精巧なヒューマノイドだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "斑鳩夏生：小野賢章",
+            "アトリ：赤尾ひかる",
+            "神白水菜萌：髙橋ミナミ",
+            "野島竜司：細谷佳正",
+            "キャサリン：日笠陽子",
+            "名波凜々花：春野杏"
+        ],
+        "crews": [
+            "原作：『ATRI -My Dear Moments-』（ANIPLEX.EXE）",
+            "監督：加藤誠",
+            "シリーズ構成・脚本：花田十輝",
+            "ストーリー原案：紺野アスタ",
+            "キャラクター原案：ゆさの・基4",
+            "キャラクターデザイン・総作画監督：サトウミチオ",
+            "美術監督：内藤健",
+            "美術設定：滝口勝久",
+            "色彩設計：篠原真理子",
+            "CGディレクター：井口光隆",
+            "撮影監督：加藤友宜",
+            "編集：右山章太",
+            "音響監督：明田川仁",
+            "音楽：松本文紀",
+            "アニメーション制作：TROYCA"
+        ],
+        "copyrights": [
+            "(C)ATRI ANIME PROJECT"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725944240,
+    "endAt": 1729004400,
+    "freeEndAt": 1729004400,
+    "transcodeVersion": "ebpPi",
+    "sharedLink": {
+        "twitter": "https://abema.app/iA4o",
+        "facebook": "https://abema.app/L5cT",
+        "google": "https://abema.app/Z6qf",
+        "line": "https://abema.app/W8NJ",
+        "copy": "https://abema.app/1QFV",
+        "instagram": "https://abema.app/JwrF"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-223_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-223_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/26-223_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-223_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-223_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1380.003625,
+        "ending": {
+            "start": 1380.003625,
+            "end": 1469.9685
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-223_s1_p2",
+        "title": "【Log 02】「暖かな景色をふたりで」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944240,
+        "endAt": 1729004400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726578000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-223_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729004400
+        }
+    ],
+    "episodeGroupId": "26-223_eg0"
+}

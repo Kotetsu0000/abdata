@@ -1,0 +1,93 @@
+{
+    "id": "172-57",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "title": "ReLIFE",
+    "content": "海崎新太（27歳）は、新卒として入社した会社を３ヶ月で退職。その後の就活もうまく行かず、親からの仕送りも打ち切られ田舎に戻ることを迫られる。悩みを打ち明けられる友達も彼女もいない……途方に暮れる海崎の前に謎の人物・夜明了が現れる。夜明は海崎にニートを対象にした社会復帰プログラム「リライフ」への参加をもちかける。その内容は、謎の秘薬で見た目だけ若返り、1年間高校生として高校に通うことだった―。",
+    "seasons": [
+        {
+            "id": "172-57_s1",
+            "sequence": 1,
+            "name": "ReLIFE",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-57_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1716947476",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "172-57_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "172-57_s2",
+            "sequence": 2,
+            "name": "ReLIFE\"完結編\"",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-57_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1718257801",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "172-57_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)夜宵草/comico/リライフ研究所"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1724982901344568454",
+    "imageUpdatedAt": 1716859050,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/6NL1",
+        "facebook": "https://abema.app/iDSN",
+        "google": "https://abema.app/g13v",
+        "line": "https://abema.app/4xEY",
+        "copy": "https://abema.app/XChd",
+        "instagram": "https://abema.app/vFn8"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-57",
+        "filename": "thumb.png",
+        "query": "version=1716859050",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-57",
+        "filename": "portrait.png",
+        "query": "version=1716859050",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

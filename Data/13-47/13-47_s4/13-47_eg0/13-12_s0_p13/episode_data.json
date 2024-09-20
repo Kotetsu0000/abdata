@@ -1,0 +1,144 @@
+{
+    "id": "13-12_s0_p13",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第163話 黒船は沈む時も派手",
+        "content": "激闘の末、リングに倒れ込む新八と土方。ライフポイントはともにゼロ。ところが、ボロボロになりながらも立ち上がり、再び戦い始める二人。命を削るかのような殴り合いに、悲痛な叫び声をあげて制止しようとするお通。しかし、もう誰も彼らを止めることはできない。二人は既に、公式ファンクラブの座のためだけに戦っているのではないのだった――。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296390,
+    "endAt": 1748703600,
+    "transcodeVersion": "784WCi",
+    "sharedLink": {
+        "twitter": "https://abema.app/ACP2",
+        "facebook": "https://abema.app/RwLB",
+        "google": "https://abema.app/gUwC",
+        "line": "https://abema.app/VbA9",
+        "copy": "https://abema.app/dmbP",
+        "instagram": "https://abema.app/oMQh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-12_s0_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.089933,
+        "opening": {
+            "end": 90
+        },
+        "ending": {
+            "start": 1002.027889,
+            "end": 1091.527888
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p14",
+        "title": "第164話 松茸のお吸い物ってアレ ホンモノよりうまいよね／人は死んだら生き返らない",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296390,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p13/timeline",
+        "query": "version=784WCi",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

@@ -1,0 +1,113 @@
+{
+    "id": "218-470_s1_p25",
+    "series": {
+        "id": "218-470",
+        "title": "5周年記念 声優と夜あそび28時間テレビ 大感謝祭 ~Say You Thank You~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "thumb.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "portrait.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-470_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1503
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 25,
+        "title": "ベストセレクション ヒーローショー",
+        "content": "過去の「夜あそびの名場面」をＶＴＲで振り返る"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680241391,
+    "endAt": 1755702000,
+    "transcodeVersion": "24Kz2o",
+    "sharedLink": {
+        "twitter": "https://abema.app/CRdy",
+        "facebook": "https://abema.app/efqp",
+        "google": "https://abema.app/NAom",
+        "line": "https://abema.app/73Uw",
+        "copy": "https://abema.app/hrfu",
+        "instagram": "https://abema.app/nkfH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p25/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-470_s1_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1498.0015
+    },
+    "nextProgramInfo": {
+        "programId": "218-470_s1_p26",
+        "title": "ベストセレクション ローション",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1680241391,
+        "endAt": 1755702000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755702000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-470_s1_p25/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755702000
+        }
+    ],
+    "episodeGroupId": "218-470_eg0"
+}

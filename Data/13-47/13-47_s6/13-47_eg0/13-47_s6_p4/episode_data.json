@@ -1,0 +1,151 @@
+{
+    "id": "13-47_s6_p4",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s6",
+        "sequence": 6,
+        "name": "銀魂’延長戦",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1445
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第256話 主人公とは",
+        "content": "かぶき町中の住人を敵に回したかに思われた銀時。だが、銀時の仲間たちは次々に銀時のことを思い出し、形勢が逆転したかに見えた…しかし金時から恐るべき計画の全貌を聞かされる。銀時VS金時の戦いはついに最終局面に突入する。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "坂田銀時:杉田智和",
+            "志村新八:阪口大助",
+            "神楽:釘宮理恵",
+            "定春:高橋美佳子",
+            "志村 妙:雪野五月",
+            "近藤 勲:千葉進歩",
+            "土方十四郎:中井和哉",
+            "沖田総悟:鈴村健一",
+            "山崎 退:太田哲治",
+            "桂 小太郎:石田 彰",
+            "高杉晋助:子安武人",
+            "長谷川泰三:立木文彦",
+            "猿飛あやめ:小林ゆう",
+            "たま:南 央美",
+            "柳生九兵衛:折笠富美子",
+            "月詠:甲斐田裕子",
+            "お登勢:くじら",
+            "キャサリン:杉本ゆう"
+        ],
+        "crews": [
+            "原作:空知英秋",
+            "監督:藤田陽一"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296393,
+    "endAt": 1753974000,
+    "transcodeVersion": "7VU8un",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/xg5bm",
+        "facebook": "https://gxyt4.app.goo.gl/WpHiA",
+        "google": "https://gxyt4.app.goo.gl/DMr3Y",
+        "line": "https://gxyt4.app.goo.gl/xdQHy",
+        "copy": "https://gxyt4.app.goo.gl/4p3F2",
+        "instagram": "https://gxyt4.app.goo.gl/ZmYb3"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-47_s6_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-47_s6_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-47_s6_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-47_s6_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.121977,
+        "ending": {
+            "start": 1350.121977,
+            "end": 1440.127555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-47_s6_p5",
+        "title": "第257話 傾城逆転",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296393,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-47_s6_p4/timeline",
+        "query": "version=7VU8un",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

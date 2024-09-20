@@ -1,0 +1,165 @@
+{
+    "id": "420-27_s1_p1",
+    "series": {
+        "id": "420-27",
+        "title": "アイドリッシュセブン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "thumb.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "portrait.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-27_s1",
+        "sequence": 1,
+        "name": "アイドリッシュセブン",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 shaking your heart",
+        "content": "「小鳥遊事務所」に入社した小鳥遊紡は、デビュー前のアイドルグループのマネージャーを担当することになる。そこで紹介されたのは7人のアイドルの卵たち。個性豊かな彼らは、思わず応援したくなる魅力を持っていた。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "和泉一織：増田俊樹",
+            "二階堂大和：白井悠介",
+            "和泉三月：代永翼",
+            "四葉 環：KENN",
+            "逢坂壮五：阿部敦",
+            "六弥ナギ：江口拓也",
+            "七瀬 陸：小野賢章",
+            "八乙女楽：羽多野渉",
+            "九条 天：斉藤壮馬",
+            "十龍之介：佐藤拓也",
+            "小鳥遊音晴：千葉進歩",
+            "大神万理：興津和幸",
+            "小鳥遊紡：佐藤聡美",
+            "八乙女宗助：小西克幸",
+            "姉鷺カオル：川原慶久"
+        ],
+        "crews": [
+            "原作：バンダイナムコオンライン・都志見文太",
+            "監督：別所誠人",
+            "スーパーバイザー：あおきえい",
+            "シリーズ構成：関根アユミ",
+            "キャラクター原案：種村有菜",
+            "アニメーションキャラクターデザイン：深川可純",
+            "総作画監督：猪股雅美・サトウミチオ",
+            "美術監督：高橋麻穂",
+            "色彩設計：篠原真理子",
+            "2Dデザイン：髙橋清太・志野木良太（ステロタイプ）",
+            "撮影監督：津田涼介",
+            "CGディレクター：ヨシダ.ミキ",
+            "3Dワークス：井口光隆",
+            "編集：右山章太",
+            "音響監督：濱野高年",
+            "音楽：加藤達也",
+            "音楽制作：ランティス",
+            "アニメーション制作：TROYCA",
+            "製作：アイナナ製作委員会"
+        ],
+        "copyrights": [
+            "(C)BNOI/アイナナ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1724658508,
+    "endAt": 1730386800,
+    "freeEndAt": 1730386800,
+    "transcodeVersion": "6uSqbe",
+    "sharedLink": {
+        "twitter": "https://abema.app/pe7e",
+        "facebook": "https://abema.app/K98y",
+        "google": "https://abema.app/sCE4",
+        "line": "https://abema.app/9Qtr",
+        "copy": "https://abema.app/B8ez",
+        "instagram": "https://abema.app/bAAY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-27_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-27_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/420-27_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-27_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-27_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1365.012433,
+        "opening": {
+            "start": 99.107084,
+            "end": 193.744005
+        },
+        "ending": {
+            "start": 1365.336991,
+            "end": 1459.645667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-27_s1_p2",
+        "title": "第2話 はじまりのステージ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1724658508,
+        "endAt": 1730386800,
+        "freeEndAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-27_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "420-27_eg0"
+}

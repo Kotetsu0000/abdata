@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p42",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 42,
+        "title": "第42話 迷いをこえて　未熟なヒーロー！",
+        "content": "ツバサの研究の成果を持ち帰るため、ソラシド市にやってくるシャララ。一方、スキアヘッドとの戦いのあとから心ここにあらずだったソラは、悩みをシャララに打ち明ける。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722331134,
+    "endAt": 1740754800,
+    "transcodeVersion": "2nLkjw",
+    "sharedLink": {
+        "twitter": "https://abema.app/BEVt",
+        "facebook": "https://abema.app/WMyE",
+        "google": "https://abema.app/tyWG",
+        "line": "https://abema.app/psYz",
+        "copy": "https://abema.app/YhUU",
+        "instagram": "https://abema.app/ED1g"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-64_s1_p42/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-64_s1_p42/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-64_s1_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.7640833333332,
+        "opening": {
+            "start": 54.095708333333334,
+            "end": 144.144
+        },
+        "ending": {
+            "start": 1348.7640833333332,
+            "end": 1440.2721666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p43",
+        "title": "第43話 プリズムシャイン！心を照らして！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722331143,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p42/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s18_p687",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s18",
+        "sequence": 18,
+        "name": "season18",
+        "thumbComponent": {},
+        "order": 18
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 687,
+        "title": "第687話 誰にもとけない氷の罠",
+        "content": "コナンたちは阿笠と共に準備中のアイスフェスティバルの会場を見学する。氷彫刻家の塩田が作業中のメイン広場に村長の山口と秘書の小木が現れる。お祭りに否定的な山口はこの場所にレジャー施設を建設しようと計画していた。翌朝、氷でできたアイスホテルに泊まっていた山口が遺体となって発見される。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、山川剛史",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "4agzME",
+    "sharedLink": {
+        "twitter": "https://abema.app/4SDF",
+        "facebook": "https://abema.app/pyx8",
+        "google": "https://abema.app/cxtn",
+        "line": "https://abema.app/E17Q",
+        "copy": "https://abema.app/6VKo",
+        "instagram": "https://abema.app/VAap"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s18_p687/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s18_p687/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s18_p687/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s18_p687"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.5251,
+        "opening": {
+            "start": 76.7767,
+            "end": 163.49666666666667
+        },
+        "ending": {
+            "start": 1306.1381666666666,
+            "end": 1386.1180666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s18_p688",
+        "title": "第688話 高木刑事３千万拾う",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s18_p687/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

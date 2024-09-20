@@ -1,0 +1,148 @@
+{
+    "id": "420-44_s3_p110",
+    "series": {
+        "id": "420-27",
+        "title": "アイドリッシュセブン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "thumb.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "portrait.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-27_s3",
+        "sequence": 3,
+        "name": "アイドリッシュセブン Third BEAT!",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 110,
+        "title": "第10話 合宿開始！",
+        "content": "24時間番組『Friends Day』で、Re:vale、TRIGGERと共にパーソナリティを務めることになったIDOLiSH7。その制作ミーティングの日、全員で24時間合宿をして、番組のテーマソングを作るという企画がいきなりスタートする。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "和泉　一織：増田　俊樹",
+            "二階堂大和：白井　悠介",
+            "和泉　三月：代永　翼",
+            "四葉　環　：ＫＥＮＮ",
+            "逢坂　壮五：阿部　敦",
+            "六弥　ナギ：江口　拓也",
+            "七瀬　陸　：小野　賢章",
+            "八乙女　楽：羽多野　渉",
+            "九条　天　：斉藤　壮馬",
+            "十　龍之介：佐藤　拓也",
+            "百：保志総一朗",
+            "千：立花慎之介",
+            "小鳥遊音晴：千葉　進歩",
+            "大神　万理：興津　和幸",
+            "小鳥遊　紡：佐藤　聡美",
+            "八乙女宗助：小西　克幸",
+            "姉鷺カオル：川原　慶久",
+            "岡崎　凜人：古川　慎"
+        ],
+        "crews": [
+            "原作：バンダイナムコオンライン／都志見文太",
+            "監督：別所　誠人",
+            "シリーズ構成：関根アユミ",
+            "スーパーバイザー：あおきえい",
+            "キャラクター原案：種村　有菜",
+            "アニメーションキャラクターデザイン：深川　可純",
+            "総作画監督：猪股　雅美",
+            "アニメーション制作：トロイカ"
+        ],
+        "copyrights": [
+            "(C)BNOI/アイナナ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1724658511,
+    "endAt": 1730386800,
+    "transcodeVersion": "5UrmQR",
+    "sharedLink": {
+        "twitter": "https://abema.app/9HCg",
+        "facebook": "https://abema.app/f7Sb",
+        "google": "https://abema.app/5vF1",
+        "line": "https://abema.app/9HBR",
+        "copy": "https://abema.app/9TVW",
+        "instagram": "https://abema.app/5YtN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-44_s3_p110/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-44_s3_p110/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-44_s3_p110/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-44_s3_p110"
+    },
+    "viewingPoint": {
+        "suggestion": 1437.8346,
+        "opening": {
+            "start": 50.278985,
+            "end": 144.61528
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-44_s3_p111",
+        "title": "第11話 周到な悪意",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1724658511,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-44_s3_p110/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "420-27_eg0"
+}

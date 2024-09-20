@@ -1,0 +1,155 @@
+{
+    "id": "19-105_s1_p2",
+    "series": {
+        "id": "19-105",
+        "title": "あの日見た花の名前を僕達はまだ知らない。",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-105",
+            "filename": "thumb.png",
+            "query": "version=1660125406",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-105",
+            "filename": "portrait.png",
+            "query": "version=1660125406",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-105_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1380
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 ゆうしゃめんま",
+        "content": "秘密基地で再会した「ぽっぽ」に「じんたん」は、「めんま」が願いごとを叶えてほしいと自分の前に現れたことを正直に打ち明ける。それを素直に信じた「ぽっぽ」は、「じんたん」にアドバイスするのだが・・・。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "宿海仁太：入野自由",
+            "本間芽衣子：茅野愛衣",
+            "安城鳴子：戸松遥",
+            "松雪集：櫻井孝宏",
+            "鶴見知利子：早見沙織",
+            "久川鉄道：近藤孝行"
+        ],
+        "crews": [
+            "原作：超平和バスターズ",
+            "監督：長井龍雪",
+            "脚本：岡田麿里",
+            "キャラクターデザイン・総作画監督：田中将賀",
+            "音楽：REMEDIOS",
+            "美術監督：福島孝喜",
+            "色彩設定：中島和子",
+            "撮影・CG監督：那須信司",
+            "編集：西山 茂",
+            "音響監督：明田川仁",
+            "アニメーションプロデューサー：岩田幹宏",
+            "チーフプロデューサー：清水博之、山本幸治",
+            "プロデューサー：斎藤俊輔、尾崎紀子",
+            "アニメーション制作：A-1 Pictures",
+            "制作：「あの花」制作委員会(アニプレックス/フジテレビジョン/電通)"
+        ],
+        "copyrights": [
+            "（C）ANOHANA PROJECT"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681986267,
+    "endAt": 1756652400,
+    "transcodeVersion": "3mYeKz",
+    "sharedLink": {
+        "twitter": "https://abema.app/p1D4",
+        "facebook": "https://abema.app/yvYY",
+        "google": "https://abema.app/eXGm",
+        "line": "https://abema.app/oPqz",
+        "copy": "https://abema.app/Wjnt",
+        "instagram": "https://abema.app/MQ68"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-105_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-105_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-105_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-105_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1292.948188
+    },
+    "nextProgramInfo": {
+        "programId": "19-105_s1_p3",
+        "title": "第3話 めんまを探そうの会",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681986267,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727161200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-105_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727161200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727766000
+        }
+    ],
+    "episodeGroupId": "19-105_eg0"
+}

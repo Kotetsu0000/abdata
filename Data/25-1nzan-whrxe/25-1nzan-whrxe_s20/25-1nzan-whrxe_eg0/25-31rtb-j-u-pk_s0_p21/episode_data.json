@@ -1,0 +1,151 @@
+{
+    "id": "25-31rtb-j-u-pk_s0_p21",
+    "series": {
+        "id": "25-1nzan-whrxe",
+        "title": "ソードアート・オンライン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "thumb.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "portrait.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-1nzan-whrxe_s20",
+        "sequence": 20,
+        "name": "ソードアート・オンラインII",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "#21 「剣士の碑」",
+        "content": "第27層のボスを攻略しようとするアスナと《スリーピング・ナイツ》の動きは、ボス攻略専門ギルドに察知されていた。ボス攻略のノウハウを知られた上に、先を越させまいとするギルドの妨害を受け、窮地に追い込まれるアスナたち。そこへ、キリトとクラインが駆けつけ、アスナたちに加勢。キリト達が時間を稼いでいる間にアスナと《スリーピング・ナイツ》は、行く手に立ちふさがるボス攻略ギルドの先遣隊20人を蹴散らし、ボス戦に挑む。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "キリト:松岡禎丞",
+            "アスナ:戸松遥",
+            "シノン:沢城みゆき"
+        ],
+        "crews": [
+            "原作:川原 礫（電撃文庫刊）",
+            "原作イラスト・キャラクター原案:abec",
+            "監督:伊藤智彦",
+            "キャラクターデザイン:足立慎吾"
+        ],
+        "copyrights": [
+            "(C)2014 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス刊／SAOⅡ Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1690870935,
+    "endAt": 1743433200,
+    "freeEndAt": 1727412300,
+    "transcodeVersion": "2Jytmf",
+    "sharedLink": {
+        "twitter": "https://abema.app/Df4R",
+        "facebook": "https://abema.app/dJ5s",
+        "google": "https://abema.app/t1Ym",
+        "line": "https://abema.app/medV",
+        "copy": "https://abema.app/vRrj",
+        "instagram": "https://abema.app/Gnz7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p21/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-31rtb-j-u-pk_s0_p21/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-31rtb-j-u-pk_s0_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.011666,
+        "opening": {
+            "start": 68.0226,
+            "end": 157.845866
+        },
+        "ending": {
+            "start": 1325.011666,
+            "end": 1414.834933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-31rtb-j-u-pk_s0_p22",
+        "title": "#22 「旅路の果て」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1690870935,
+        "endAt": 1743433200,
+        "freeEndAt": 1727412300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727412300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-31rtb-j-u-pk_s0_p21/timeline",
+        "query": "version=2Jytmf",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727412300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "25-1nzan-whrxe_eg0"
+}

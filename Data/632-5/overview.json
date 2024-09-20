@@ -1,0 +1,78 @@
+{
+    "id": "632-5",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "title": "ゆびさきと恋々",
+    "content": "この手で「好き」って伝えたい…。\n\n累計発行部数340万部突破（電子含む）、各種賞にランクインし、\nSNSなどでも多くの反響を集める森下suuが描く『ゆびさきと恋々』。\n\n女子大生の雪は、ある日困っているところを同じ大学の先輩・逸臣に助けてもらう。\n聴覚障がいがあって耳が聴こえない雪にも動じることなく、自然に接してくれる逸臣。\n自分に新しい世界を感じさせてくれる逸臣のことを雪は次第に意識し始めて…!?\n\n聴覚障がいのある女の子・雪と世界を旅する大学の先輩・逸臣のピュアラブストーリーがはじまる。",
+    "seasons": [
+        {
+            "id": "632-5_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/632-5_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1702962584",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "632-5_eg10",
+                    "name": "字幕なし"
+                },
+                {
+                    "id": "632-5_eg20",
+                    "name": "字幕あり"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)森下suu・講談社／ゆびさきと恋々製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726130419023463463",
+    "imageUpdatedAt": 1702962477,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/vYUe",
+        "facebook": "https://abema.app/Fo1o",
+        "google": "https://abema.app/pdYx",
+        "line": "https://abema.app/wPnH",
+        "copy": "https://abema.app/bwqH",
+        "instagram": "https://abema.app/dxzv"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-5",
+        "filename": "thumb.png",
+        "query": "version=1702962477",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-5",
+        "filename": "portrait.png",
+        "query": "version=1702962477",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

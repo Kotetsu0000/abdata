@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p24",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 24,
+        "title": "第24話 輝く一番星☆エルちゃんの秘密",
+        "content": "王様と王妃様の呪いを解き、「ヒーロー」としてスカイランドの人々に迎えられるソラたち。久しぶりに両親と過ごすエルだったが、不思議な紫色の光があらわれて――"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722330959,
+    "endAt": 1740754800,
+    "transcodeVersion": "7M12Yq",
+    "sharedLink": {
+        "twitter": "https://abema.app/jea5",
+        "facebook": "https://abema.app/Tudm",
+        "google": "https://abema.app/Z7S1",
+        "line": "https://abema.app/QtTc",
+        "copy": "https://abema.app/Tj3U",
+        "instagram": "https://abema.app/L1fL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.722375,
+        "opening": {
+            "start": 100.05829166666666,
+            "end": 190.10658333333333
+        },
+        "ending": {
+            "start": 1348.722375,
+            "end": 1440.2304583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p25",
+        "title": "第25話 ワクワク！プリンセス、動物園に行く！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722330969,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

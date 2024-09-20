@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s17_p672",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s17",
+        "sequence": 17,
+        "name": "season17",
+        "thumbComponent": {},
+        "order": 17
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 672,
+        "title": "第672話 探偵たちの夜想曲（誘拐）",
+        "content": "トイレを借りるため、圭の部屋に上がったコナンたち。この時、安室は部屋に盗聴器が仕掛けられている事に気付き、設置場所を突き止める事に。この後、小五郎は一室から男の遺体を見つけ、安室は圭が発覚を恐れて逃げたと推理。その頃、コナンは圭からもらったジュースを飲んで眠りに落ちていた…。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、山川剛史",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "3zCHwC",
+    "sharedLink": {
+        "twitter": "https://abema.app/zQMw",
+        "facebook": "https://abema.app/f5r4",
+        "google": "https://abema.app/rZTa",
+        "line": "https://abema.app/A7YE",
+        "copy": "https://abema.app/Z1U5",
+        "instagram": "https://abema.app/o9HM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s17_p672/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s17_p672/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s17_p672/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s17_p672"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0256,
+        "opening": {
+            "start": 209.94306666666665,
+            "end": 296.9967
+        },
+        "ending": {
+            "start": 1291.8572333333334,
+            "end": 1371.8371333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s17_p673",
+        "title": "第673話 探偵たちの夜想曲（推理）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s17_p672/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

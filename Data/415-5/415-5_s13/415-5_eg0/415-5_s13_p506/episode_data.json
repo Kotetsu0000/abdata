@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s13_p506",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s13",
+        "sequence": 13,
+        "name": "season13",
+        "thumbComponent": {},
+        "order": 13
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 506,
+        "title": "第506話 弁護士妃英理の証言（後編）",
+        "content": "格闘家、永作司朗の遺体がゴミ置き場で発見され、元恋人の美容師、葉坂皆代に疑惑の目が向けられる。だが、妃英理が皆代のアリバイを証言。コナンは皆代が犯人だと疑い、永作の遺体を移動させたトリックを見破る…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：北田修一、小島哲、小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066307,
+    "endAt": 1740754800,
+    "transcodeVersion": "6E1EFa",
+    "sharedLink": {
+        "twitter": "https://abema.app/2aLK",
+        "facebook": "https://abema.app/vj8T",
+        "google": "https://abema.app/heuZ",
+        "line": "https://abema.app/pKJM",
+        "copy": "https://abema.app/NGCB",
+        "instagram": "https://abema.app/Jyqm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s13_p506/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s13_p506/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s13_p506/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s13_p506"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 15.7157,
+            "end": 99.9999
+        },
+        "ending": {
+            "start": 1284.8502333333333,
+            "end": 1369.8017666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s13_p507",
+        "title": "第507話 カラオケボックスの死角（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066307,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s13_p506/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,115 @@
+{
+    "id": "316-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ダイヤのA",
+    "content": "もう一度、あのミットに投げ込みたい‥・・。　\n\n捕手・御幸一也との出会いが、少年の人生を一変させる。沢村栄純１５歳。\n己の力を試すため、仲間に別れを告げ、野球名門校・青道の扉を叩く。そこには己のすべてをかけた誇り高き球児達がいた！",
+    "seasons": [
+        {
+            "id": "316-1_s10",
+            "sequence": 10,
+            "name": "ダイヤのA",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/316-1_s10",
+                "filename": "default_thumb.png",
+                "query": "version=1709259278",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "316-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "316-1_s20",
+            "sequence": 20,
+            "name": "ダイヤのA -Second Season-",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/316-1_s20",
+                "filename": "default_thumb.png",
+                "query": "version=1709259303",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "316-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "316-1_s30",
+            "sequence": 30,
+            "name": "ダイヤのA actII",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/316-1_s30",
+                "filename": "default_thumb.png",
+                "query": "version=1710649009",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "316-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        }
+    ],
+    "copyrights": [
+        "(C)寺嶋裕二・講談社／「ダイヤのＡ」製作委員会・テレビ東京"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1721902067672170845",
+    "imageUpdatedAt": 1708496370,
+    "caption": "「週刊少年マガジン」で連載中 大人気高校野球漫画のアニメ化",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/98tF",
+        "facebook": "https://abema.app/JFcs",
+        "google": "https://abema.app/mjhG",
+        "line": "https://abema.app/QEi9",
+        "copy": "https://abema.app/JTnd",
+        "instagram": "https://abema.app/whKF"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/316-1",
+        "filename": "thumb.png",
+        "query": "version=1708496370",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/316-1",
+        "filename": "portrait.png",
+        "query": "version=1708496370",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

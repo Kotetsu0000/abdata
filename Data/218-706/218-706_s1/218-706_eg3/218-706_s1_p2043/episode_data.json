@@ -1,0 +1,121 @@
+{
+    "id": "218-706_s1_p2043",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 838
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2043,
+        "title": "#15：来年新アニメ化が決定した「地獄先生ぬ〜べ〜」を特集！",
+        "content": "「地獄先生ぬ〜べ〜」の\"怖かったトラウマエピソード\"を語ったXの\"トラウマポスト\"を紹介。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126680,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "3Ck9qR",
+    "sharedLink": {
+        "twitter": "https://abema.app/MzUn",
+        "facebook": "https://abema.app/ivs7",
+        "google": "https://abema.app/WfpZ",
+        "line": "https://abema.app/oi7y",
+        "copy": "https://abema.app/ugxW",
+        "instagram": "https://abema.app/XRbN"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p2043/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p2043/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-706_s1_p2043/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p2043/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p2043"
+    },
+    "viewingPoint": {
+        "suggestion": 833.833
+    },
+    "nextProgramInfo": {
+        "programId": "218-706_s1_p2044",
+        "title": "#15：9月開催のABEMAアニメ祭の続報解禁！「しかのこ」参戦決定！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726126681,
+        "endAt": 1745074800,
+        "freeEndAt": 1745074800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1745074800
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p2043/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg3"
+}

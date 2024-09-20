@@ -1,0 +1,149 @@
+{
+    "id": "19-15_s4_p72",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s4",
+        "sequence": 4,
+        "name": "第4期",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 72,
+        "title": "第72話 烈怒頼雄斗",
+        "content": "死穢八斎會本拠地内を走るデクたち。入中が壁を変化させて“個性”を消せる相澤を狙うが、ファットガムと切島が身代わりとなって、別の部屋に落ちていった。そこで待っていたのは戦闘狂の乱波とバリアの“個性”を持つ天蓋だった。迎え撃つ切島だが、乱波のすさまじいパワーで安無嶺過武瑠（アンブレイカブル）を破られてしまう。「俺はまた何もできねえのかよ…」今の自分と中学時代の出来事を重ねてしまう切島。果たして切島は再び立ち上がれるのか…！？そして、動けない切島を守るために乱波の打撃を受け続けるファットガムだが、彼の秘策とは…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成・脚本：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872424,
+    "endAt": 1759244400,
+    "transcodeVersion": "5uXptT",
+    "sharedLink": {
+        "twitter": "https://abema.app/NLP1",
+        "facebook": "https://abema.app/iE7r",
+        "google": "https://abema.app/vWhF",
+        "line": "https://abema.app/wxYo",
+        "copy": "https://abema.app/etjE",
+        "instagram": "https://abema.app/Lf4x"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s4_p72/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s4_p72/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s4_p72/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s4_p72"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.9753333333333,
+        "opening": {
+            "start": 39.039,
+            "end": 128.99553333333333
+        },
+        "ending": {
+            "start": 1309.9753333333333,
+            "end": 1399.9986
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s4_p73",
+        "title": "第73話 出向",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872424,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s4_p72/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

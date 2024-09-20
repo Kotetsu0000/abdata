@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s3_p62",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 62,
+        "title": "第62話 出会いの季節",
+        "content": "街角のモーテルで、煙草をふかす男が一人…敵連合の一員・トゥワイスが街へ繰り出すと、そこには、“平和の象徴”不在で荒れる社会があった。徒党を組み好き放題暴れる犯罪者たち。そんな中、トゥワイスは、謎の男・オーバーホールと出会う。一方雄英高校は後期課程がスタート！始業式でカリキュラムの一つ「ヒーローインターン」を知るＡ組だったが、出久と爆豪は謹慎中。翌日、寮で清掃中の出久は不思議な男と出会う。見たことがある顔であったものの思い出せない出久。やがて謹慎が解け、授業に戻った出久の前に現れたのは―！？"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872424,
+    "endAt": 1759244400,
+    "transcodeVersion": "5EP97K",
+    "sharedLink": {
+        "twitter": "https://abema.app/vqhY",
+        "facebook": "https://abema.app/Yc3H",
+        "google": "https://abema.app/N39e",
+        "line": "https://abema.app/ykmY",
+        "copy": "https://abema.app/2w3o",
+        "instagram": "https://abema.app/FFrh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s3_p62/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s3_p62/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s3_p62/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s3_p62"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0087,
+        "opening": {
+            "start": 40.073366666666665,
+            "end": 129.99653333333333
+        },
+        "ending": {
+            "start": 1310.0087,
+            "end": 1399.9986
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s3_p63",
+        "title": "第63話 無敵",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872424,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s3_p62/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

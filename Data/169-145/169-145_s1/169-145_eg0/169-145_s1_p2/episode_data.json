@@ -1,0 +1,150 @@
+{
+    "id": "169-145_s1_p2",
+    "series": {
+        "id": "169-145",
+        "title": "なぜ僕の世界を誰も覚えていないのか？",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "thumb.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-145",
+            "filename": "portrait.png",
+            "query": "version=1722507315",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "169-145_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 リンネ",
+        "content": "「……あなたは……誰？」\n『世界輪廻』によって『五種族大戦が終わっていない世界』に紛れこんでしまうカイ。そこで出会ったのは、鎖で拘束された少女、リンネだった。\nリンネの求めに応じ、彼女を助けるカイ。安堵したのも束の間、突如として、異形の怪物『ラスタライザ』が襲来する！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "カイ：千葉翔也",
+            "リンネ：市ノ瀬加那",
+            "ジャンヌ：白石晴香",
+            "花琳：Lynn",
+            "レーレーン：菱川花菜",
+            "アシュラン：山下誠一郎",
+            "サキ：鈴代紗弓",
+            "ヴァネッサ：日笠陽子"
+        ],
+        "crews": [
+            "原作：細音 啓「なぜ僕の世界を誰も覚えていないのか？」（MF文庫J）",
+            "キャラクター原案：neco、ありかん",
+            "監督：南川達馬",
+            "シリーズ構成：杉澤 悟",
+            "キャラクターデザイン：加藤裕美",
+            "音響制作：マジックカプセル",
+            "音響監督：明田川 仁",
+            "音楽制作：ファブトーン",
+            "プロデュース：ドリームシフト",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)2024 細音啓/KADOKAWA/なぜ僕製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035361,
+    "endAt": 1759244400,
+    "transcodeVersion": "6ECMh2",
+    "sharedLink": {
+        "twitter": "https://abema.app/kNQY",
+        "facebook": "https://abema.app/263T",
+        "google": "https://abema.app/T3Pm",
+        "line": "https://abema.app/VimQ",
+        "copy": "https://abema.app/cqJR",
+        "instagram": "https://abema.app/poR2"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/169-145_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/169-145_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/169-145_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.169-145_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1416.9572083333333,
+        "opening": {
+            "start": 97.01358333333333,
+            "end": 186.93675
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "169-145_s1_p3",
+        "title": "第3話 悪魔の英雄",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1726035361,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/169-145_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "169-145_eg0"
+}

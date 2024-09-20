@@ -1,0 +1,147 @@
+{
+    "id": "19-15_s6_p117",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 117,
+        "title": "第117話 継承",
+        "content": "群訝山荘でのヒーローと敵<ヴィラン>の戦い。トゥワイスを殺したホークスを、荼毘が不気味な笑みを浮かべながら“個性”の蒼炎で追い詰める。素性など一切が謎に満ちた荼毘にホークスが問い掛ける。「お前は誰だ―!?」 一方、蛇腔病院ではエンデヴァーや相澤たちがドクターを追い、ハイエンド脳無と戦っていた。先行し、カプセルに入った死柄木を目撃したミルコに戦慄が走る。「こいつは起こしちゃいけねえ…何を差し置いても！」死柄木の覚醒を食い止めるべく、プレゼント・マイクが叫ぶ。そして、眠っている死柄木の脳裏に去来するものとは…!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872426,
+    "endAt": 1759244400,
+    "transcodeVersion": "547QT4",
+    "sharedLink": {
+        "twitter": "https://abema.app/G75b",
+        "facebook": "https://abema.app/d1Xf",
+        "google": "https://abema.app/XXaJ",
+        "line": "https://abema.app/YX4d",
+        "copy": "https://abema.app/aLg4",
+        "instagram": "https://abema.app/bgDu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s6_p117/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s6_p117/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s6_p117/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p117"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.05875,
+        "opening": {
+            "start": 117.03358333333334,
+            "end": 206.95675
+        },
+        "ending": {
+            "start": 1310.05875,
+            "end": 1399.9819166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s6_p118",
+        "title": "第118話 破滅のボルテージ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872426,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p117/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

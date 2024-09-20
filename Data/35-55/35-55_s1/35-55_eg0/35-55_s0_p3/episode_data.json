@@ -1,0 +1,147 @@
+{
+    "id": "35-55_s0_p3",
+    "series": {
+        "id": "35-55",
+        "title": "映画クレヨンしんちゃん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "thumb.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "portrait.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5770
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "映画クレヨンしんちゃん 雲黒斎の野望",
+        "content": "「おおっ、シロがしゃべった…！」未来の30世紀からやってきたタイムパトロール隊員のリングが、シロの体を借りてオラに話しかけてきたんだ。悪いヤツが時間をこえて、過去を変えようと企んでるって！人類の大ピンチ!!\n　そんでもって、オラが人類をオタスケするっていうワケ。敵は雲黒斎（うんこくさい）なんてとーってもにおいそうなヤツだゾ～　”タスケテケスタ”の呪文でオラが３回大変身！？　カンタムロボも活躍するゾ!!"
+    },
+    "credit": {
+        "released": 1995,
+        "casts": [
+            "しんのすけ：矢島晶子",
+            "みさえ：ならはしみき",
+            "ひろし：藤原啓治",
+            "シロ：真柴摩利",
+            "リング：佐久間レイ",
+            "吹雪丸：浦和めぐみ",
+            "雪乃：水谷優子",
+            "フリードキン：玄田哲章",
+            "猫ノ進：戸谷公次",
+            "お銀：萩森侚子",
+            "雲黒斎：加藤精三",
+            "ヒエール：富山 敬"
+        ],
+        "crews": [
+            "原作：臼井儀人（らくだ社）",
+            "監督：本郷みつる",
+            "脚本・絵コンテ：本郷みつる・原 恵一",
+            "作画監督：原 勝徳・堤 のりゆき",
+            "美術監督：中村 隆・野村可南子",
+            "撮影監督：高橋秀子",
+            "音楽：荒川敏行",
+            "録音監督：大熊 昭"
+        ],
+        "copyrights": [
+            "(C)臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 1995"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719656615,
+    "endAt": 1740754800,
+    "transcodeVersion": "Pa1t5",
+    "sharedLink": {
+        "twitter": "https://abema.app/2PY9",
+        "facebook": "https://abema.app/XuBx",
+        "google": "https://abema.app/kqsC",
+        "line": "https://abema.app/avwG",
+        "copy": "https://abema.app/JhDn",
+        "instagram": "https://abema.app/nLrw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-55_s0_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-55_s0_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-55_s0_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-55_s0_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 5620.237822
+    },
+    "nextProgramInfo": {
+        "programId": "35-55_s0_p4",
+        "title": "映画クレヨンしんちゃん ヘンダーランドの大冒険",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1719656615,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "linkText": "昨年公開映画｜独占見放題配信中！",
+        "link": "https://abema.tv/video/episode/35-55_s1_p31",
+        "buttonText": "確認する",
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-55_s0_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "35-55_eg0"
+}

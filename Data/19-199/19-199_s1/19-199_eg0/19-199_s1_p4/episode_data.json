@@ -1,0 +1,157 @@
+{
+    "id": "19-199_s1_p4",
+    "series": {
+        "id": "19-199",
+        "title": "下の階には澪がいる",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "thumb.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "portrait.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-199_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 仲直り/変わらない心",
+        "content": "澪とキスをしてしまった陽は動揺が隠せない。しかし冷静に思い返すと澪の気持ちを考えずにいたことを反省し、陽は澪に仲直りしようと声をかける。大学では真珠先輩が知らない男子学生と楽しそうに話している姿を見て、陽は嫉妬で思い悩むのだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "如月澪：坂本真綾",
+            "杉浦陽：河本啓佑",
+            "桃井真珠：大久保瑠美",
+            "三国紗羅：沼倉愛美"
+        ],
+        "crews": [
+            "原作：ミンソンア",
+            "監督：董易（ドン･イー）",
+            "脚本：江狐工作室",
+            "総演出監督：キム・シニョン",
+            "総作画監督：パク・ヨノク",
+            "音楽：楊秉音（ヤン・ビンイン）",
+            "アニメーション制作：RED DOG CULTURE HOUSE",
+            "日本語吹き替え版",
+            "演出：太田信乃",
+            "翻訳：鳥居怜子、本多由枝",
+            "音響制作：東北新社",
+            "日本版製作：フジテレビジョン、bilibili"
+        ],
+        "copyrights": [
+            "(C)bilibili"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129302,
+    "endAt": 1759244400,
+    "transcodeVersion": "5R8mJQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/MxtS",
+        "facebook": "https://abema.app/G8Ep",
+        "google": "https://abema.app/hU7y",
+        "line": "https://abema.app/Ufmp",
+        "copy": "https://abema.app/Kco4",
+        "instagram": "https://abema.app/qJdV"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-199_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-199_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-199_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-199_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1299.0060416666668,
+        "opening": {
+            "start": 118.03458333333333,
+            "end": 207.95775
+        },
+        "ending": {
+            "start": 1299.0060416666668,
+            "end": 1389.0543333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-199_s1_p5",
+        "title": "第5話 時を超えた告白",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129302,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-199_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-199_eg0"
+}

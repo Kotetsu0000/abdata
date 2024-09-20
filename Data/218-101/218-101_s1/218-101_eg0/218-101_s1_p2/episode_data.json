@@ -1,0 +1,131 @@
+{
+    "id": "218-101_s1_p2",
+    "series": {
+        "id": "218-101",
+        "title": "声優と夜あそび 2nd season",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-101",
+            "filename": "thumb.png",
+            "query": "version=1632404987",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-101",
+            "filename": "portrait.png",
+            "query": "version=1632404987",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-101_s1",
+        "sequence": 1,
+        "name": "月曜日",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_39",
+                "name": "AbemaTVオリジナル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5166
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "映像ラストにビデオ限定映像も！【安元洋貴×江口拓也】 #2",
+        "content": "【ビデオ限定】映像ラストで「声優と夜あそび 延長戦」として出演者のアフタートークもお楽しみいただけます。\n\n【月：安元洋貴×江口拓也】 \n「声優と夜あそび」は業界初＆唯一！毎週月曜から金曜まで人気声優がタッグを組んでMCを担当するAbemaTVオリジナルの帯番組！\nこの番組は放送後1週間、Abemaビデオで何回でも無料見逃し視聴が可能です！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "月曜日：安元洋貴×江口拓也",
+            "火曜日：金田朋子×木村昴",
+            "水曜日：下野紘×内田真礼",
+            "木曜日：浪川大輔×森久保祥太郎（マンスリーMC）",
+            "金曜日：関智一×大河元気"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1679458369,
+    "endAt": 1747321200,
+    "transcodeVersion": "6MtxcB",
+    "sharedLink": {
+        "twitter": "https://abema.app/4hyz",
+        "facebook": "https://abema.app/rgXZ",
+        "google": "https://abema.app/Tbm6",
+        "line": "https://abema.app/qHtx",
+        "copy": "https://abema.app/gRL5",
+        "instagram": "https://abema.app/UDh6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-101_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-101_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-101_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-101_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 5161.56
+    },
+    "nextProgramInfo": {
+        "programId": "218-101_s1_p3",
+        "title": "映像ラストにビデオ限定映像も！【安元洋貴×江口拓也】 #3",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1679458369,
+        "endAt": 1747321200,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1747321200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-101_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1747321200
+        }
+    ],
+    "episodeGroupId": "218-101_eg0"
+}

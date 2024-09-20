@@ -1,0 +1,170 @@
+{
+    "id": "536-3_s1_p2",
+    "series": {
+        "id": "536-3",
+        "title": "チェンソーマン",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-3",
+            "filename": "thumb.png",
+            "query": "version=1662516281",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-3",
+            "filename": "portrait.png",
+            "query": "version=1662516281",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "536-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1435
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 東京到着",
+        "content": "デビルハンター東京本部に連れてこられたデンジは、マキマから先輩の早川アキを紹介され、二人で任務に就くことに。しかしデンジは早川に殴られた上、「仕事を辞めろ」と言われてしまい――。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "デンジ：戸谷菊之介",
+            "マキマ：楠木ともり",
+            "早川アキ：坂田将吾",
+            "パワー：ファイルーズあい",
+            "姫野：伊瀬茉莉也",
+            "東山コベニ：高橋花林",
+            "荒井ヒロカズ：八代拓",
+            "岸辺：津田健次郎"
+        ],
+        "crews": [
+            "原作：藤本タツキ（集英社「少年ジャンプ+」連載）",
+            "監督：中山 竜",
+            "脚本：瀬古浩司",
+            "キャラクターデザイン：杉山和隆",
+            "アクションディレクター：吉原達矢",
+            "チーフ演出：中園真登",
+            "悪魔デザイン：押山清高",
+            "美術監督：竹田悠介",
+            "色彩設計：中野尚美",
+            "撮影監修：宮原洋平",
+            "音楽：牛尾憲輔",
+            "アニメーションプロデューサー：瀬下恵介",
+            "制作：MAPPA"
+        ],
+        "copyrights": [
+            "(c)藤本タツキ／集英社・ＭＡＰＰＡ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683617824,
+    "endAt": 1735657200,
+    "freeEndAt": 1726398000,
+    "transcodeVersion": "75WuG1",
+    "sharedLink": {
+        "twitter": "https://abema.app/VZNU",
+        "facebook": "https://abema.app/LCvE",
+        "google": "https://abema.app/FZ3m",
+        "line": "https://abema.app/eQ92",
+        "copy": "https://abema.app/nCxX",
+        "instagram": "https://abema.app/ctDe"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/536-3_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/536-3_s1_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/536-3_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/536-3_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.536-3_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.033555,
+        "opening": {
+            "start": 112.018827,
+            "end": 199.972566
+        },
+        "ending": {
+            "start": 1345.179371,
+            "end": 1435.132517
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "536-3_s1_p3",
+        "title": "第3話 ニャーコの行方",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1683617824,
+        "endAt": 1735657200,
+        "freeEndAt": 1726398000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726398000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/536-3_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726398000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "536-3_eg0"
+}

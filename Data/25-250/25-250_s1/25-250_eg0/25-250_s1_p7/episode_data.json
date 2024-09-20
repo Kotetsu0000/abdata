@@ -1,0 +1,164 @@
+{
+    "id": "25-250_s1_p7",
+    "series": {
+        "id": "25-250",
+        "title": "悪役令嬢レベル99～私は裏ボスですが魔王ではありません～",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-250",
+            "filename": "thumb.png",
+            "query": "version=1703925777",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-250",
+            "filename": "portrait.png",
+            "query": "version=1703925777",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-250_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 裏ボス、ダンスに挑む",
+        "content": "突然、エドウィンからアリシアの私物がなくなることについて問われたユミエラ。当然心当たりはないが、イジメのショックでアリシアのレベル上げに支障があっては困ると、犯人探しのために教室で張り込みをはじめる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ユミエラ・ドルクネス：ファイルーズあい",
+            "パトリック・アッシュバトン：内田雄馬",
+            "アリシア・エンライト：和氣あず未",
+            "エドウィン・バルシャイン：八代拓",
+            "ウィリアム・アレス：石谷春貴",
+            "オズワルド・グリムザード：天﨑滉平",
+            "エレノーラ・ヒルローズ：日高里菜"
+        ],
+        "crews": [
+            "原作：七夕さとり（カドカワBOOKS）",
+            "原作イラスト：Tea",
+            "漫画 ：のこみ",
+            "監督：山岡 実",
+            "シリーズ構成：志茂 文彦",
+            "キャラクターデザイン：海保 仁美 / 金 璐浩",
+            "音楽：うたたね歌菜",
+            "アニメーション制作：寿門堂"
+        ],
+        "copyrights": [
+            "(C)七夕さとり・Tea・のこみ/KADOKAWA/「悪役令嬢レベル99」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711537601,
+    "endAt": 1774969200,
+    "freeEndAt": 1726981200,
+    "transcodeVersion": "5cz7dr",
+    "sharedLink": {
+        "twitter": "https://abema.app/8WGY",
+        "facebook": "https://abema.app/E73v",
+        "google": "https://abema.app/jfKc",
+        "line": "https://abema.app/GVBx",
+        "copy": "https://abema.app/25TP",
+        "instagram": "https://abema.app/WpzD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-250_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-250_s1_p7/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/25-250_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-250_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-250_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.9619666666667,
+        "opening": {
+            "start": 97.9979,
+            "end": 187.95443333333333
+        },
+        "ending": {
+            "start": 1329.9619666666667,
+            "end": 1419.8851333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-250_s1_p8",
+        "title": "第8話 裏ボス、ドラゴンに出会う",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711537601,
+        "endAt": 1774969200,
+        "freeEndAt": 1726981200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726981200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-250_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726981200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "25-250_eg0"
+}

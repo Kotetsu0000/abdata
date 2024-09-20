@@ -1,0 +1,147 @@
+{
+    "id": "5-31_s0_p29",
+    "series": {
+        "id": "5-31",
+        "title": "ドラゴンボールGT",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-31",
+            "filename": "thumb.png",
+            "query": "version=1650264213",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-31",
+            "filename": "portrait.png",
+            "query": "version=1650264213",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-31_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1492
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 29,
+        "title": "第29話 超ヤバイ!? 超サイヤ人3敗れる!!",
+        "content": "悟空とベビーに操られたべジータの、全面対決がはじまった！　べジータベビーはスーパーベビー最強形態1、そして2に変身し、圧倒的な強さを見せつける。超サイヤ人3になった悟空でも、スーパーべビー最強形態2には太刀打ちできない…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "孫悟空＆孫悟飯＆孫悟天：野沢雅子",
+            "パン：皆口裕子",
+            "トランクス：草尾毅",
+            "ブルマ：鶴ひろみ",
+            "ベジータ：堀川亮",
+            "ピッコロ：古川登志夫",
+            "クリリン：田中真弓",
+            "亀仙人：増岡弘"
+        ],
+        "crews": [
+            "原作：鳥山明",
+            "企画：清水賢治、森下孝三",
+            "プロデューサー：金田耕司、蛭田成一",
+            "シリーズ構成：松井亜弥",
+            "シリーズディレクター：葛西治",
+            "キャラクターデザイン：中鶴勝祥",
+            "美術デザイン：吉池隆司",
+            "音楽：徳永暁人",
+            "製作担当：末永雄一"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689060909,
+    "endAt": 1732978800,
+    "transcodeVersion": "3ek6E",
+    "sharedLink": {
+        "twitter": "https://abema.app/zVg9",
+        "facebook": "https://abema.app/L5qG",
+        "google": "https://abema.app/B7ya",
+        "line": "https://abema.app/XU8c",
+        "copy": "https://abema.app/LiVK",
+        "instagram": "https://abema.app/EGPQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-31_s0_p29/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-31_s0_p29/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-31_s0_p29/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-31_s0_p29"
+    },
+    "viewingPoint": {
+        "suggestion": 1366.930433,
+        "opening": {
+            "start": 15,
+            "end": 120.062811
+        },
+        "ending": {
+            "start": 1396.930433,
+            "end": 1489.5557
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-31_s0_p30",
+        "title": "第30話 悟空消滅!? オラは死んじまっただ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689060909,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-31_s0_p29/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-31_eg0"
+}

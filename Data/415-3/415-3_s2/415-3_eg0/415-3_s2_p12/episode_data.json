@@ -1,0 +1,141 @@
+{
+    "id": "415-3_s2_p12",
+    "series": {
+        "id": "415-3",
+        "title": "MIX MEISEI STORY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "thumb.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "portrait.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-3_s2",
+        "sequence": 2,
+        "name": "MIX MEISEI STORY ～二度目の夏、空の向こうへ～",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "#12 呼んだんですよ",
+        "content": "昼食をとっていた投馬は、４月に明青学園へ転勤してきた千本木に「きみの父親のことで話がある」と声をかけられる。千本木が語ったのは走一郎と音美の実父・澤井圭一についてだった。走一郎を呼びに行き、改めて語られたのは過去――東東京大会準々決勝でのできごと。千本木が澤井の選手生命を奪ってしまった試合について…"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "立花投馬：梶裕貴",
+            "立花走一郎：内田雄馬",
+            "立花音美：内田真礼",
+            "大山春夏：花澤香菜",
+            "立花英介：高木渉",
+            "立花真弓：井上喜久子",
+            "西村勇：中尾隆聖",
+            "パンチ：金光宣明",
+            "ナレーション：日髙のり子"
+        ],
+        "crews": [
+            "監督：神谷智大",
+            "シリーズ構成：冨岡淳広",
+            "キャラクターデザイン：牧孝雄",
+            "音響監督：亀山俊樹",
+            "音楽：住友紀人",
+            "アニメーション制作：OLM"
+        ],
+        "copyrights": [
+            "(C) あだち充／MIX MEISEI STORY製作委員会 2023"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719302117,
+    "endAt": 1740754800,
+    "transcodeVersion": "2kXSbF",
+    "sharedLink": {
+        "twitter": "https://abema.app/F36e",
+        "facebook": "https://abema.app/NoV3",
+        "google": "https://abema.app/wcm7",
+        "line": "https://abema.app/qEJE",
+        "copy": "https://abema.app/a2WU",
+        "instagram": "https://abema.app/hzRU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-3_s2_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-3_s2_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-3_s2_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-3_s2_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.933625,
+        "opening": {
+            "start": 160.034875,
+            "end": 249.95804166666667
+        },
+        "ending": {
+            "start": 1309.933625,
+            "end": 1399.9402083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-3_s2_p13",
+        "title": "#13 この季節には",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719302117,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-3_s2_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-3_eg0"
+}

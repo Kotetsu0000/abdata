@@ -1,0 +1,160 @@
+{
+    "id": "168-49_s5_p5",
+    "series": {
+        "id": "168-49",
+        "title": "頭文字[イニシャル]D",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-49",
+            "filename": "thumb.png",
+            "query": "version=1691026069",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-49",
+            "filename": "portrait.png",
+            "query": "version=1691026069",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-49_s5",
+        "sequence": 5,
+        "name": "Fifth Stage",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1640
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "ACT.5 藤原ゾーン",
+        "content": "大方の予想を裏切って、バトル中盤から拓海とカイの差は少しずつ開いていった。涼介が密かに見抜いた拓海の才能――特定の条件が揃うとハチロクの特性と完全にシンクロし、カタログスペックからは考えられない潜在能力を引き出す――が覚醒したのだ。人車一体となったハチロクは4WDマシンのような挙動でコーナーを駆け抜けていき、限界を超えたオーバーステア勝負にすっかりペースを乱されたカイは敗北を認めるしかなかった。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "藤原拓海：三木眞一郎",
+            "藤原文太：石塚運昇",
+            "高橋涼介：子安武人",
+            "池谷浩一郎：矢尾一樹",
+            "高橋啓介： 関智一",
+            "武内樹： 岩田光央"
+        ],
+        "crews": [
+            "キャラクターデザイン:佐藤正樹",
+            "CGディレクター:安田兼盛",
+            "美術監督:池上伸治",
+            "監督:橋本みつお",
+            "脚本:岸間信明"
+        ],
+        "copyrights": [
+            "(C)Kodansha et al."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1701313433,
+    "endAt": 1753974000,
+    "freeEndAt": 1726560000,
+    "transcodeVersion": "DdVWY",
+    "sharedLink": {
+        "twitter": "https://abema.app/gzd2",
+        "facebook": "https://abema.app/fNDz",
+        "google": "https://abema.app/CHUu",
+        "line": "https://abema.app/jGNn",
+        "copy": "https://abema.app/T7Uz",
+        "instagram": "https://abema.app/5wex"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-49_s5_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-49_s5_p5/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/168-49_s5_p5/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-49_s5_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-49_s5_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1519.9851333333334,
+        "opening": {
+            "start": 4.004,
+            "end": 93.9939
+        },
+        "ending": {
+            "start": 1519.9851333333334,
+            "end": 1639.9716666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-49_s5_p6",
+        "title": "ACT.6 啓介の意地",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1701313433,
+        "endAt": 1753974000,
+        "freeEndAt": 1726560000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726560000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-49_s5_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726560000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "168-49_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s25_p981",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s25",
+        "sequence": 25,
+        "name": "season25",
+        "thumbComponent": {},
+        "order": 25
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 981,
+        "title": "第981話 坊っちゃん亭へようこそ（前編）",
+        "content": "江戸川コナンたち少年探偵団は公園で、何者かに暴行された傷だらけの猫を発見する。猫の爪に残っていた血痕と繊維から犯人捜しをすることになる。一方、『坊っちゃん亭』という料亭では接客係主任が遺体となって発見されていた。彼の上着は、猫の爪に残ってた繊維と酷似していて……。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066320,
+    "endAt": 1740754800,
+    "transcodeVersion": "5p84qB",
+    "sharedLink": {
+        "twitter": "https://abema.app/9BvH",
+        "facebook": "https://abema.app/wXjm",
+        "google": "https://abema.app/2bJh",
+        "line": "https://abema.app/kCPz",
+        "copy": "https://abema.app/bqwF",
+        "instagram": "https://abema.app/k1wD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s25_p981/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s25_p981/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s25_p981/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s25_p981"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0520416666666,
+        "opening": {
+            "start": 137.88775,
+            "end": 234.98475
+        },
+        "ending": {
+            "start": 1345.0520416666666,
+            "end": 1424.9652083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s25_p982",
+        "title": "第982話 坊っちゃん亭へようこそ（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066320,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s25_p981/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,130 @@
+{
+    "id": "5-44_s1_p7",
+    "series": {
+        "id": "5-44",
+        "title": "ガールズバンドクライ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "thumb.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "portrait.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-44_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 名前をつけてやる",
+        "content": "智とルパが加わり、5人のバンドとして動き出した仁菜達。桃香から新たなライブの提案があったものの、5人はそれぞれ個性があって簡単にまとまりそうにない。仁菜と桃香のバンドへの思いはすれ違い、どこかギクシャクしたままライブが始まる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "井芹仁菜：理名",
+            "河原木桃香：夕莉",
+            "安和すばる：美怜",
+            "海老塚智：凪都",
+            "ルパ：朱李"
+        ],
+        "crews": [
+            "原作・企画・製作：東映アニメーション",
+            "シリーズ構成：花田十輝",
+            "音楽プロデューサー：玉井健二 (agehasprings)",
+            "劇伴音楽：田中ユウスケ (agehasprings)",
+            "キャラクターデザイン：手島nari",
+            "CGディレクター：鄭 載薫",
+            "シリーズディレクター：酒井和男"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719816812,
+    "endAt": 1751295600,
+    "transcodeVersion": "5iD567",
+    "sharedLink": {
+        "twitter": "https://abema.app/eCqU",
+        "facebook": "https://abema.app/k18F",
+        "google": "https://abema.app/T6Lk",
+        "line": "https://abema.app/AhNF",
+        "copy": "https://abema.app/7S3T",
+        "instagram": "https://abema.app/8iL4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-44_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-44_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-44_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-44_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.0913333333333,
+        "opening": {
+            "start": 71.98858333333334,
+            "end": 162.036875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-44_s1_p8",
+        "title": "第8話 もしも君が泣くならば",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719816812,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-44_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "5-44_eg0"
+}

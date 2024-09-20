@@ -1,0 +1,133 @@
+{
+    "id": "248-16_s2_p100",
+    "series": {
+        "id": "248-16",
+        "title": "戦国妖狐",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-16",
+            "filename": "thumb.png",
+            "query": "version=1724652445",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-16",
+            "filename": "portrait.png",
+            "query": "version=1724652445",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "248-16_s2",
+        "sequence": 2,
+        "name": "千魔混沌編",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 100,
+        "title": "「戦国妖狐 千魔混沌編」放送直前キャスト特番",
+        "content": "千本妖狐となった迅火が姿を消した世界――\n\n「千魔混沌編」の主人公は、千の闇（かたわら）を身に宿す霊力改造人間の少年・千夜と、彼を守るために強くなりたいと願う人間の少女・月湖。\n\n彼らに慕われその歩みを見守る真介と、暴走した迅火の行方を探し求める妖狐・たま。\n\nそして、千夜の力を狙う、闇（かたわら）の頂点に立つ黒龍の少年・ムドが襲いかかる。\n\n己の力と向き合い、その身を極めようとする千夜の前に、次々と現れる強敵――\n旅の果てに彼を待ち受けるものとは…!?"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "千夜：七海ひろき",
+            "月湖：内田真礼",
+            "なう：豊崎愛生",
+            "真介：木村良平",
+            "迅火：斉藤壮馬",
+            "たま：高田憂希",
+            "灼岩：黒沢ともよ",
+            "神雲：乃村健次",
+            "道錬：稲田徹",
+            "山の神：高垣彩陽",
+            "りんず：鈴木愛奈",
+            "野禅：津田健次郎",
+            "くずのは：ゆかな",
+            "雷堂斬蔵：東地宏樹"
+        ],
+        "crews": [
+            "原作：水上悟志（マッグガーデン刊）",
+            "監督：相澤伽月",
+            "シリーズ構成・脚本：花田十輝",
+            "キャラクターデザイン：奥田陽介",
+            "サブキャラクターデザイン：小林真平",
+            "総作画監督：奥田陽介、小林真平、八重樫洋平",
+            "プロップデザイン：張 紹偉、林 可爲、児玉裕之",
+            "闇デザイン：張 紹偉",
+            "美術監督：宮本実生",
+            "色彩設計：佐藤美由紀",
+            "撮影監督：堀野大輔",
+            "3DCGディレクター：秋元 央",
+            "編集：黒澤雅之",
+            "音響監督：飯田里樹",
+            "音楽：EVAN CALL",
+            "制作：WHITE FOX"
+        ],
+        "copyrights": [
+            "(C)水上悟志/マッグガーデン・戦国妖狐アニメ化事業部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872352,
+    "endAt": 1761922800,
+    "transcodeVersion": "3gBu4y",
+    "sharedLink": {
+        "twitter": "https://abema.app/eEUF",
+        "facebook": "https://abema.app/RxU1",
+        "google": "https://abema.app/ng98",
+        "line": "https://abema.app/M1dX",
+        "copy": "https://abema.app/7eUi",
+        "instagram": "https://abema.app/WtDh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/248-16_s2_p100/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/248-16_s2_p100/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/248-16_s2_p100/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.248-16_s2_p100"
+    },
+    "viewingPoint": {
+        "suggestion": 1434.9752083333333
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/248-16_s2_p100/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "248-16_eg3"
+}

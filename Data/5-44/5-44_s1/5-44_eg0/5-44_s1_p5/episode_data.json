@@ -1,0 +1,130 @@
+{
+    "id": "5-44_s1_p5",
+    "series": {
+        "id": "5-44",
+        "title": "ガールズバンドクライ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "thumb.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-44",
+            "filename": "portrait.png",
+            "query": "version=1712300389",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-44_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 歌声よおこれ",
+        "content": "桃⾹がかつてお世話になったライブハウスから出演のオファーがあり、対バンライブに初めて参加することになる仁菜達。チケットのノルマに四苦八苦しているとき、桃⾹が以前バンドを組んでいた時から知り合いだったバンドのチケットをもらう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "井芹仁菜：理名",
+            "河原木桃香：夕莉",
+            "安和すばる：美怜",
+            "海老塚智：凪都",
+            "ルパ：朱李"
+        ],
+        "crews": [
+            "原作・企画・製作：東映アニメーション",
+            "シリーズ構成：花田十輝",
+            "音楽プロデューサー：玉井健二 (agehasprings)",
+            "劇伴音楽：田中ユウスケ (agehasprings)",
+            "キャラクターデザイン：手島nari",
+            "CGディレクター：鄭 載薫",
+            "シリーズディレクター：酒井和男"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719816812,
+    "endAt": 1751295600,
+    "transcodeVersion": "43U5EE",
+    "sharedLink": {
+        "twitter": "https://abema.app/KebL",
+        "facebook": "https://abema.app/pBnV",
+        "google": "https://abema.app/wwZh",
+        "line": "https://abema.app/8KVD",
+        "copy": "https://abema.app/tJXw",
+        "instagram": "https://abema.app/usS7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-44_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-44_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.1330416666667,
+        "opening": {
+            "start": 56.056,
+            "end": 146.10429166666665
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-44_s1_p6",
+        "title": "第6話 はぐれ者賛歌",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719816812,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-44_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "5-44_eg0"
+}

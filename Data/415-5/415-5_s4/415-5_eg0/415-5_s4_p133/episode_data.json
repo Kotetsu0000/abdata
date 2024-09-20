@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s4_p133",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s4",
+        "sequence": 4,
+        "name": "season4",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 133,
+        "title": "第133話 奇術愛好家殺人事件（疑惑篇）",
+        "content": "園子と蘭が参加した『奇術愛好家連盟』の集まりは連続殺人事件の様相を呈してきた。ボードリーダーの西山が自宅で殺されたのに続き、雪の山中で孤立したロッジでは浜野の死体が雪の降り積もる裏庭に放置されていた。疑心暗鬼に陥るメンバーから西山と影法師との口論のいきさつを聞いたコナンは第三の事件に身構えるが…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066298,
+    "endAt": 1740754800,
+    "transcodeVersion": "6ZUwmX",
+    "sharedLink": {
+        "twitter": "https://abema.app/Tzi4",
+        "facebook": "https://abema.app/6Xx6",
+        "google": "https://abema.app/5ZwH",
+        "line": "https://abema.app/3Qum",
+        "copy": "https://abema.app/CxxR",
+        "instagram": "https://abema.app/rPRx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s4_p133/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s4_p133/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s4_p133/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s4_p133"
+    },
+    "viewingPoint": {
+        "suggestion": 1336.0680666666667,
+        "opening": {
+            "start": 15.749066666666666,
+            "end": 94.9949
+        },
+        "ending": {
+            "start": 1336.0680666666667,
+            "end": 1424.0226
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s4_p134",
+        "title": "第134話 奇術愛好家殺人事件（解決篇）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066298,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s4_p133/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,146 @@
+{
+    "id": "2-15_s1_p9",
+    "series": {
+        "id": "2-15",
+        "title": "姫様\"拷問\"の時間です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "thumb.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-15",
+            "filename": "portrait.png",
+            "query": "version=1703038228",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-15_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話",
+        "content": "出張中のトーチャーは仕事を終え、ホテルで疲れた体を休めていた。普段はバランスを考えた食事をとる彼女だが、今日は出張のため特別。トーチャー流「頑張った自分へのご褒美晩ごはん」が始まる。魔王城では魔王とルルン、マオマオちゃんが家族でクッキー作りに挑戦！ 初めてのクッキー作りに、「上手にできるかな」と意気込むマオマオちゃん。マオマオちゃんの就寝後には、魔王と王妃・ルルンが語らう姿も。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "姫：白石晴香",
+            "エクス：小林親弘",
+            "トーチャー・トルチュール：伊藤 静",
+            "魔王：玄田哲章",
+            "陽鬼：永瀬アンナ",
+            "陰鬼：井上ほの花",
+            "クロル：山根 綺",
+            "ジャイアント：茅野愛衣",
+            "マオマオちゃん：日高里菜",
+            "ルルン：中原麻衣"
+        ],
+        "crews": [
+            "原作：春原ロビンソン・ひらけい（集英社「少年ジャンプ＋」連載）",
+            "監督：金森陽子",
+            "シリーズ構成：筆安一幸",
+            "キャラクターデザイン：河野敏弥・古橋 聡",
+            "音響監督：明田川 仁",
+            "音楽：横山 克"
+        ],
+        "copyrights": [
+            "(C)春原ロビンソン・ひらけい／集英社・国王軍第三騎士団"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721886237,
+    "endAt": 1774969200,
+    "transcodeVersion": "3LfYHT",
+    "sharedLink": {
+        "twitter": "https://abema.app/N3QK",
+        "facebook": "https://abema.app/kYGy",
+        "google": "https://abema.app/6q11",
+        "line": "https://abema.app/uZcu",
+        "copy": "https://abema.app/VCwh",
+        "instagram": "https://abema.app/fvxF"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/2-15_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-15_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.038625,
+        "opening": {
+            "start": 50.30025,
+            "end": 139.97316666666666
+        },
+        "ending": {
+            "start": 1188.1035833333333,
+            "end": 1277.9850416666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-15_s1_p10",
+        "title": "第10話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721886237,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726396200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-15_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726376400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1726981200
+        }
+    ],
+    "episodeGroupId": "2-15_eg0"
+}

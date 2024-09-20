@@ -1,0 +1,154 @@
+{
+    "id": "210-9_s1_p6",
+    "series": {
+        "id": "210-9",
+        "title": "アークナイツ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "thumb.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "portrait.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-9_s1",
+        "sequence": 1,
+        "name": "【黎明前奏/PRELUDE TO DAWN】",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 急襲 Farewell",
+        "content": "ロドスはレユニオンの追っ手を振り切り、チェンと合流してミーシャの身柄を近衛局に預けた。\n引き続きロドスはスラム街に残りレユニオンの注意を惹くも、狙いに気づいたレユニオンの幹部・Wが動き出す。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ドクター：甲斐田ゆき",
+            "アーミヤ：黒沢ともよ",
+            "ドーベルマン：種﨑敦美",
+            "Ace：松山鷹志",
+            "ニアール：佐倉綾音",
+            "チェン:石上静香",
+            "ホシグマ：安野希世乃",
+            "フランカ：加隈亜衣",
+            "リスカム：石川由依",
+            "エクシア：石見舞菜香",
+            "テキサス：田所あずさ",
+            "メテオリーテ：種田梨沙",
+            "ケルシー：日笠陽子"
+        ],
+        "crews": [
+            "監督：渡邉 祐記",
+            "脚本：Yostar Pictures",
+            "原作者：Hypergryph / Studio Montagne"
+        ],
+        "copyrights": [
+            "（C）Hypergryph / Studio Montagne"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701063054,
+    "endAt": 1759244400,
+    "transcodeVersion": "4C43Jd",
+    "sharedLink": {
+        "twitter": "https://abema.app/1f6X",
+        "facebook": "https://abema.app/kHzP",
+        "google": "https://abema.app/bqHi",
+        "line": "https://abema.app/7Hz7",
+        "copy": "https://abema.app/JoKz",
+        "instagram": "https://abema.app/qhbr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/210-9_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/210-9_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/210-9_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-9_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.061266,
+        "opening": {
+            "start": 84.300548,
+            "end": 171.764519
+        },
+        "ending": {
+            "start": 1331.969608,
+            "end": 1420.693879
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-9_s1_p7",
+        "title": "第7話 邂逅 Separation",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1701063054,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-9_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-9_eg0"
+}

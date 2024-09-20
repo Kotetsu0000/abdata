@@ -1,0 +1,147 @@
+{
+    "id": "5-31_s0_p9",
+    "series": {
+        "id": "5-31",
+        "title": "ドラゴンボールGT",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-31",
+            "filename": "thumb.png",
+            "query": "version=1650264213",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-31",
+            "filename": "portrait.png",
+            "query": "version=1650264213",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-31_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1492
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 シマッタ!! 悟空飛び込む罠の星!?",
+        "content": "ズーナマーをこらしめた悟空たちだが、パラパラブラザーズという妙な宇宙人の三人組にドラゴンボールを盗まれてしまった！　宇宙船に飛び乗って、逃げるパラパラブラザーズを追跡！　だが、惑星ビーヘで彼らを見失い、しかも肉食宇宙動物のムーマに襲撃されてしまう！"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "孫悟空＆孫悟飯＆孫悟天：野沢雅子",
+            "パン：皆口裕子",
+            "トランクス：草尾毅",
+            "ブルマ：鶴ひろみ",
+            "ベジータ：堀川亮",
+            "ピッコロ：古川登志夫",
+            "クリリン：田中真弓",
+            "亀仙人：増岡弘"
+        ],
+        "crews": [
+            "原作：鳥山明",
+            "企画：清水賢治、森下孝三",
+            "プロデューサー：金田耕司、蛭田成一",
+            "シリーズ構成：松井亜弥",
+            "シリーズディレクター：葛西治",
+            "キャラクターデザイン：中鶴勝祥",
+            "美術デザイン：吉池隆司",
+            "音楽：徳永暁人",
+            "製作担当：末永雄一"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689060909,
+    "endAt": 1732978800,
+    "transcodeVersion": "PrAo4",
+    "sharedLink": {
+        "twitter": "https://abema.app/SHqZ",
+        "facebook": "https://abema.app/yrmt",
+        "google": "https://abema.app/p7aF",
+        "line": "https://abema.app/4MUt",
+        "copy": "https://abema.app/t5Ry",
+        "instagram": "https://abema.app/EVSU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-31_s0_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-31_s0_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-31_s0_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-31_s0_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1367.013844,
+        "opening": {
+            "start": 15,
+            "end": 120.021099
+        },
+        "ending": {
+            "start": 1397.013844,
+            "end": 1489.972789
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-31_s0_p10",
+        "title": "第10話 踊ってアタック!? ボンパッパー!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689060909,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-31_s0_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-31_eg0"
+}

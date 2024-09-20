@@ -1,0 +1,147 @@
+{
+    "id": "5-58_s1_p42",
+    "series": {
+        "id": "5-58",
+        "title": "キラキラ☆プリキュアアラモード",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-58",
+            "filename": "thumb.png",
+            "query": "version=1721612029",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-58",
+            "filename": "portrait.png",
+            "query": "version=1721612029",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-58_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 42,
+        "title": "第42話　歌えWOW！あおいラストソング！",
+        "content": "ミサキと対バンライブをすることになったあおいのバンド。でも、リーダーの園部がバンドを抜けることになり、悩むあおい。そんなあおいを元気づけようと、いちかたちはパジャマパーティを開きます。あおいはライブを成功させることができるのでしょうか？"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "キュアホイップ/宇佐美いちか：美山加恋",
+            "キュアカスタード/有栖川ひまり：福原 遥",
+            "キュアジェラート/立神あおい：村中 知",
+            "キュアマカロン/琴爪ゆかり：藤田 咲",
+            "キュアショコラ/剣城あきら：森 なな子",
+            "キュアパルフェ/キラ星シエル：水瀬いのり",
+            "ペコリン：かないみか"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：野下 洋、板井昭浩、田中 昂、遠藤里紗、矢﨑史、神木 優",
+            "シリーズディレクター：暮田公平、貝澤幸男",
+            "シリーズ構成：田中 仁",
+            "音楽：林 ゆうき",
+            "製作担当：太田有紀",
+            "美術デザイン：飯野敏典",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイナー：井野真理恵",
+            "スイーツ監修：福田淳子"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721961289,
+    "endAt": 1740754800,
+    "transcodeVersion": "yJSSv",
+    "sharedLink": {
+        "twitter": "https://abema.app/2Jua",
+        "facebook": "https://abema.app/r5Gb",
+        "google": "https://abema.app/LSLA",
+        "line": "https://abema.app/AjMq",
+        "copy": "https://abema.app/bRMG",
+        "instagram": "https://abema.app/TM2K"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-58_s1_p42/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-58_s1_p42/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-58_s1_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-58_s1_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1721666666667,
+        "opening": {
+            "start": 128.08629166666665,
+            "end": 218.13458333333332
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1430.2204583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-58_s1_p43",
+        "title": "第43話　かくし味は勇気です！ひまりの未来レシピ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721961315,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-58_s1_p42/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-58_eg0"
+}

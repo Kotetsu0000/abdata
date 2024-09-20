@@ -1,0 +1,143 @@
+{
+    "id": "5-52_s1_p45",
+    "series": {
+        "id": "5-52",
+        "title": "スイートプリキュア♪",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-52",
+            "filename": "thumb.png",
+            "query": "version=1721021920",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-52",
+            "filename": "portrait.png",
+            "query": "version=1721021920",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-52_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1462
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 45,
+        "title": "第45話　ブォ〜ン♪ ノイズの好きにはさせないニャ！",
+        "content": "完全体になったノイズの力で、人々がみんな石にされて、音のない世界になってしまったの…。そして次はメイジャーランドの人たちも!?　でも、私たちは絶対あきらめない！　みんなの幸福を取り戻すために！"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "北条 響(キュアメロディ)：小清水亜美",
+            "南野 奏(キュアリズム)：折笠富美子",
+            "黒川エレン(キュアビート)：豊口めぐみ",
+            "調辺アコ(キュアミューズ)：大久保瑠美"
+        ],
+        "crews": [
+            "企画：西出将之、三宅将典、関 弘美",
+            "プロデューサー：松下洋幸、佐々木礼子、梅澤淳稔",
+            "シリーズディレクター：境 宗久",
+            "シリーズ構成：大野敏哉",
+            "音楽：高梨康治",
+            "製作担当：額賀康彦",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイン：高橋 晃"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721212121,
+    "endAt": 1740754800,
+    "transcodeVersion": "eFnow",
+    "sharedLink": {
+        "twitter": "https://abema.app/V6Zu",
+        "facebook": "https://abema.app/qCBH",
+        "google": "https://abema.app/X8t9",
+        "line": "https://abema.app/s4kc",
+        "copy": "https://abema.app/He4u",
+        "instagram": "https://abema.app/R3eQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-52_s1_p45/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-52_s1_p45/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-52_s1_p45/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-52_s1_p45"
+    },
+    "viewingPoint": {
+        "suggestion": 1342.9416,
+        "opening": {
+            "start": 144.37756666666667,
+            "end": 228.9287
+        },
+        "ending": {
+            "start": 1342.9416,
+            "end": 1432.9315
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-52_s1_p46",
+        "title": "第46話　ズゴーン！　プリキュア最後の戦いニャ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721212726,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-52_s1_p45/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-52_eg0"
+}

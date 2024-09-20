@@ -1,0 +1,74 @@
+{
+    "id": "632-4",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "七つの大罪 黙示録の四騎士",
+    "content": "\"神の指\"と呼ばれる辺境の地で祖父と暮らす、心優しき少年・パーシバル。\nしかし、世界はその安寧を許すことはなかった。\nある謎の騎士・イロンシッドとの出会いが彼らの運命を変え、明らかになる驚愕の秘密。\n少年は果て無き旅路へと足を踏み出す。\n全世界待望の痛快冒険ファンタジー！！",
+    "seasons": [
+        {
+            "id": "632-4_s5",
+            "sequence": 5,
+            "name": "シーズン5",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/632-4_s5",
+                "filename": "default_thumb.png",
+                "query": "version=1708917448",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "632-4_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)鈴木央・講談社／「七つの大罪 黙示録の四騎士」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726125409305294541",
+    "imageUpdatedAt": 1708917399,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/FU3d",
+        "facebook": "https://abema.app/E3eR",
+        "google": "https://abema.app/HbbK",
+        "line": "https://abema.app/unLb",
+        "copy": "https://abema.app/KoLu",
+        "instagram": "https://abema.app/1PHj"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-4",
+        "filename": "thumb.png",
+        "query": "version=1708917399",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-4",
+        "filename": "portrait.png",
+        "query": "version=1708917399",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

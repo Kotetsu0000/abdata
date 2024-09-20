@@ -1,0 +1,132 @@
+{
+    "id": "19-196_s1_p8",
+    "series": {
+        "id": "19-196",
+        "title": "僕らはみんな河合荘",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "thumb.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "portrait.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-196_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "#08 うれしぬ",
+        "content": "変人処理能力の圧倒的高さを買われ、書生カフェでアルバイトを始めるはめになった宇佐の初出勤日。『姉小路』というとても素敵な名札を渡されたあと宇佐の前に現れたのは、「まとも」からは数億光年も離れた場所にいらっしゃるバイト仲間だった。そんなバイト先に、同級生・田神らが合コンの二次会で偶然にもやって来てしまう。しかもその中には、見事なまでに高校デビューを飾った中学時代の霊感女・林がいて―。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "井口祐一",
+            "花澤香菜",
+            "四宮 豪",
+            "佐藤利奈",
+            "金元寿子",
+            "小林沙苗"
+        ],
+        "crews": [
+            "監督：宮 繁之",
+            "原作：宮原るり『僕らはみんな河合荘』（「ヤングキングアワーズ」連載／少年画報社）",
+            "脚本：古怒田健志",
+            "松田彬人"
+        ],
+        "copyrights": [
+            "（C）宮原るり・少年画報社／委員会はみんな河合荘"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712564586,
+    "endAt": 1746025200,
+    "transcodeVersion": "5D859N",
+    "sharedLink": {
+        "twitter": "https://abema.app/VbD9",
+        "facebook": "https://abema.app/iChv",
+        "google": "https://abema.app/VhhX",
+        "line": "https://abema.app/GTGT",
+        "copy": "https://abema.app/wTJ5",
+        "instagram": "https://abema.app/W6qy"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-196_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-196_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-196_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-196_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.9953333333333,
+        "opening": {
+            "start": 40.04,
+            "end": 129.96316666666667
+        },
+        "ending": {
+            "start": 1329.9953333333333,
+            "end": 1419.9602083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-196_s1_p9",
+        "title": "#09 禁断の",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712564603,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-196_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-196_eg0"
+}

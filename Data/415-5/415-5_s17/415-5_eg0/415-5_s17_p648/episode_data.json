@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s17_p648",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s17",
+        "sequence": 17,
+        "name": "season17",
+        "thumbComponent": {},
+        "order": 17
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 648,
+        "title": "第648話 探偵事務所籠城事件（勃発）",
+        "content": "探偵事務所に女流作家の光井、湯地、二瓶がやってくる。その直後、沢栗勲が拳銃を持って現れる。沢栗の妹、未紅は３人のSNS仲間だった。先月、未紅は温泉旅館で手首を切って自殺。沢栗は３人の誰かが殺害したと考えていた。阿笠の家にいたコナンは電話を通して事務所の状況を知り、事件を解決しようと考える。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：北田修一、山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066310,
+    "endAt": 1740754800,
+    "transcodeVersion": "4zMGg2",
+    "sharedLink": {
+        "twitter": "https://abema.app/kJTG",
+        "facebook": "https://abema.app/uDUu",
+        "google": "https://abema.app/cfQz",
+        "line": "https://abema.app/f26m",
+        "copy": "https://abema.app/A7tc",
+        "instagram": "https://abema.app/aWBC"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p648/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p648/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p648/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s17_p648"
+    },
+    "viewingPoint": {
+        "suggestion": 1346.9789666666666,
+        "opening": {
+            "start": 68.03463333333333,
+            "end": 137.9378
+        },
+        "ending": {
+            "start": 1346.9789666666666,
+            "end": 1426.9588666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s17_p649",
+        "title": "第649話 探偵事務所籠城事件（狙撃）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066310,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s17_p648/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

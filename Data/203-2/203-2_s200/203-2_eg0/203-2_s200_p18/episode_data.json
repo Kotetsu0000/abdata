@@ -1,0 +1,140 @@
+{
+    "id": "203-2_s200_p18",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s200",
+        "sequence": 200,
+        "name": "TVスペシャル",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3110
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 18,
+        "title": "SP18 両津家三代、黄金郷への珍道中！",
+        "content": "ひょんなことから、勘兵衛、銀二、勘吉の両津家男３代がブラジル旅行をすることになってしまった。血縁とはいえ超個性的なこの３人。旅は一筋縄でいくはずもなく・・・"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382155,
+    "endAt": 1743433200,
+    "transcodeVersion": "3J3bFZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/QX5e",
+        "facebook": "https://abema.app/MmmL",
+        "google": "https://abema.app/NAJ6",
+        "line": "https://abema.app/bKvC",
+        "copy": "https://abema.app/81T1",
+        "instagram": "https://abema.app/eMXp"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-2_s200_p18/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-2_s200_p18/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-2_s200_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s200_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 3020.040222,
+        "opening": {
+            "end": 79.836488
+        },
+        "ending": {
+            "start": 3020.040222,
+            "end": 3110.102946
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s200_p19",
+        "title": "SP19 両津ＶＳ泣き虫アイドル！？日本1周大すごろくゲーム！！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382155,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s200_p18/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

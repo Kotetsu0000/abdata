@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p61",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1452
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 61,
+        "title": "第61話 ｢戦場の恋！時代は愛をも引き裂くのか！！」",
+        "content": "聖帝正規軍ガルザスの部隊によってレジスタンスの青年ジェイが襲われ、そして彼の婚約者が隠れている村も襲われた。駆けつけたケンシロウを待っていたのは湖の中の刺客。北斗神拳が水中で炸裂する！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "5TRPEx",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/PWCVN",
+        "facebook": "https://gxyt4.app.goo.gl/7d66e",
+        "google": "https://gxyt4.app.goo.gl/GjQ4k",
+        "line": "https://gxyt4.app.goo.gl/KC5VM",
+        "copy": "https://gxyt4.app.goo.gl/KjCwc",
+        "instagram": "https://gxyt4.app.goo.gl/K2VwF"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p61/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p61/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p61/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p61"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.496688,
+        "opening": {
+            "start": 31.688188,
+            "end": 124.614455
+        },
+        "ending": {
+            "start": 1341.496688,
+            "end": 1431.319855
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p62",
+        "title": "第62話 ｢俺は聖帝サウザー！愛も情も許さない！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p61/timeline",
+        "query": "version=5TRPEx",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s2_p61",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 61,
+        "title": "第61話 幽霊船殺人事件（前編）",
+        "content": "水軍伝説の伝わる瀬戸内海の小島・敷島では、7年前に金塊を積んで沈没したはずの小型船・竜神丸が浜に打ち上げられた。講演会を依頼されて島にやって来た小五郎は10億円の金塊探しも依頼される。が、小五郎の代わりにくす玉の紐を引いた村役場の職員がガソリンを浴びて火だるまになった。何者かが小五郎の命を狙ったのだ。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066297,
+    "endAt": 1740754800,
+    "transcodeVersion": "6JXVv4",
+    "sharedLink": {
+        "twitter": "https://abema.app/TDGq",
+        "facebook": "https://abema.app/GJAv",
+        "google": "https://abema.app/GaaQ",
+        "line": "https://abema.app/KZjv",
+        "copy": "https://abema.app/NNW1",
+        "instagram": "https://abema.app/X88v"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p61/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p61/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p61/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s2_p61"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0387,
+        "opening": {
+            "start": 14.981633333333333,
+            "end": 94.92816666666667
+        },
+        "ending": {
+            "start": 1340.0387,
+            "end": 1425.0236
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s2_p62",
+        "title": "第62話 幽霊船殺人事件（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066297,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s2_p61/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

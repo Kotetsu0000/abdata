@@ -1,0 +1,74 @@
+{
+    "id": "536-3",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "チェンソーマン",
+    "content": "『チェンソーの悪魔』ポチタと共にデビルハンターとして暮らす少年デンジ。\n親が遺した借金返済のため、貧乏な生活を送る中、\n裏切りに遭い殺されてしまう。薄れる意識の中、デンジはポチタと契約し、\n悪魔の心臓 を持つもの 『 チェンソーマン 』として蘇る ── 。",
+    "seasons": [
+        {
+            "id": "536-3_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/536-3_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683617845",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "536-3_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(c)藤本タツキ／集英社・ＭＡＰＰＡ"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724389188641398087",
+    "imageUpdatedAt": 1662516281,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/KJuP",
+        "facebook": "https://abema.app/4moe",
+        "google": "https://abema.app/r497",
+        "line": "https://abema.app/AmzF",
+        "copy": "https://abema.app/R5ih",
+        "instagram": "https://abema.app/g7yF"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-3",
+        "filename": "thumb.png",
+        "query": "version=1662516281",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/536-3",
+        "filename": "portrait.png",
+        "query": "version=1662516281",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

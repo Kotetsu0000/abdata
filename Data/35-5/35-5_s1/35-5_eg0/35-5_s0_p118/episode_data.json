@@ -1,0 +1,160 @@
+{
+    "id": "35-5_s0_p118",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1477
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 118,
+        "title": "第118話 猿蟹合戦",
+        "content": "借金の肩代わりに結婚資金を失った写真家・荒川に、美術品蒐集家・佐高が木彫りのきかザル入手の代理交渉を依頼。持ち主は荒川と親しいが一刻な松森。高額の成功報酬を約束され荒川は松森邸に足を運ぶが・・・"
+    },
+    "credit": {
+        "released": 1992,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424468,
+    "endAt": 1756652400,
+    "freeEndAt": 1726760340,
+    "transcodeVersion": "64H4h1",
+    "sharedLink": {
+        "twitter": "https://abema.app/NZ6D",
+        "facebook": "https://abema.app/yasC",
+        "google": "https://abema.app/46cd",
+        "line": "https://abema.app/2dvQ",
+        "copy": "https://abema.app/bYkc",
+        "instagram": "https://abema.app/zB3u"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-5_s0_p118/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-5_s0_p118/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-5_s0_p118/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-5_s0_p118/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p118"
+    },
+    "viewingPoint": {
+        "suggestion": 1397.819622,
+        "opening": {
+            "end": 81.037588
+        },
+        "ending": {
+            "start": 1397.819622,
+            "end": 1477.856234
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p119",
+        "title": "第119話 カレイとヒラメ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424468,
+        "endAt": 1756652400,
+        "freeEndAt": 1726760340,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726760340
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p118/timeline",
+        "query": "version=64H4h1",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726760340
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

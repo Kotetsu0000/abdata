@@ -1,0 +1,153 @@
+{
+    "id": "26-12_s1_p10",
+    "series": {
+        "id": "26-12",
+        "title": "黒執事",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "thumb.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "portrait.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12_s1",
+        "sequence": 1,
+        "name": "黒執事",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "episode10 その執事、氷上",
+        "content": "凍ったテムズ河で開かれている氷上マーケットを訪れたシエルとセバスチャン。偶然出逢ったアバーラインから、非常に価値のあるブルーダイヤを追っていることを聞き、ダイヤ探しに付き合うことうことにする。一方、エリザベスもシエルにあげるプレゼントを探しにマーケットを訪れていた…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "シエル・ファントムハイヴ：坂本 真綾",
+            "セバスチャン・ミカエリス：小野 大輔",
+            "バルドロイ：東地 宏樹",
+            "フィニアン：梶 裕貴",
+            "メイリン：加藤 英美里"
+        ],
+        "crews": [
+            "原作：枢 やな",
+            "監督：篠原俊哉",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン＆総作画監督：芝 美奈子",
+            "音楽：岩崎 琢"
+        ],
+        "copyrights": [
+            "(c)枢やな/スクウェアエニックス・女王の番犬・ＭＢＳ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708327133,
+    "endAt": 1741532400,
+    "transcodeVersion": "3VijoB",
+    "sharedLink": {
+        "twitter": "https://abema.app/4sHa",
+        "facebook": "https://abema.app/fbFD",
+        "google": "https://abema.app/jnyU",
+        "line": "https://abema.app/Sssn",
+        "copy": "https://abema.app/CXnh",
+        "instagram": "https://abema.app/U5wz"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-12_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-12_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-12_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.6009,
+        "opening": {
+            "start": 77.565466,
+            "end": 167.6211
+        },
+        "ending": {
+            "start": 1347.6009,
+            "end": 1437.623166
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-12_s1_p11",
+        "title": "episode11 その執事、如何様",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708327133,
+        "endAt": 1741532400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741532400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12_s1_p10/timeline",
+        "query": "version=3VijoB",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-12_eg0"
+}

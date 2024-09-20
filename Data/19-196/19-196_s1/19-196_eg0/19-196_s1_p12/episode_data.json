@@ -1,0 +1,118 @@
+{
+    "id": "19-196_s1_p12",
+    "series": {
+        "id": "19-196",
+        "title": "僕らはみんな河合荘",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "thumb.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-196",
+            "filename": "portrait.png",
+            "query": "version=1712564423",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-196_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "#12 近づきたくて",
+        "content": "図書室で声をかけて以来、律にべったりの眼鏡女子・前村。そんな前村が本好きの集まりと称して律を誘い出したのは、カラオケ合コンだった！一方河合荘では、偶然駅前でグループに混じる律を目撃した彩花の証言で、宇佐が焦りまくっていた。「ねえ、歌わないの？」律の耳元で話しかける眼鏡男子、三井―。どうなる律!? どうする宇佐!? \n友達とか恋愛とか付き合いって一体何なのか。それは難しくってよく分からないけれど、結局僕らはみんな「かわいそう」。それでも、河合荘に帰れば毎日毎日くだらないことを吹っかけてくる仲間がいるっていうことに、どこか幸せを感じている（はずの）宇佐と律であった。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "井口祐一",
+            "花澤香菜",
+            "四宮 豪",
+            "佐藤利奈",
+            "金元寿子",
+            "小林沙苗"
+        ],
+        "crews": [
+            "監督：宮 繁之",
+            "原作：宮原るり『僕らはみんな河合荘』（「ヤングキングアワーズ」連載／少年画報社）",
+            "脚本：古怒田健志",
+            "松田彬人"
+        ],
+        "copyrights": [
+            "（C）宮原るり・少年画報社／委員会はみんな河合荘"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712564657,
+    "endAt": 1746025200,
+    "transcodeVersion": "6dWV3E",
+    "sharedLink": {
+        "twitter": "https://abema.app/qTmP",
+        "facebook": "https://abema.app/9dVw",
+        "google": "https://abema.app/1j1e",
+        "line": "https://abema.app/ffqx",
+        "copy": "https://abema.app/Tgf4",
+        "instagram": "https://abema.app/7keh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-196_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-196_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-196_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-196_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.0370416666667,
+        "opening": {
+            "start": 51.051,
+            "end": 140.97416666666666
+        },
+        "ending": {
+            "start": 1330.0370416666667,
+            "end": 1420.0019166666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-196_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-196_eg0"
+}

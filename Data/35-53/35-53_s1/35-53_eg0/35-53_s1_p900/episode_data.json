@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p900",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 646
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 900,
+        "title": "#900 アリガターヤ",
+        "content": "学校からの帰り道、ジャイアンとスネ夫からランドセルを押しつけられた、のび太。ランドセルを３つ持つハメになったのび太は「ボクはみんなのたのみを聞いてあげるのに、ボクの言うことはだれも聞いてくれない！」と悲たんにくれる。\n　そんなのび太をかわいそうに思ったドラえもんは、『アリガターヤ』を取りだす。これを身につけると、だれもがのび太の言うことをありがたがって聞いてくれるという。\n　みんなが自分の言いなりになってくれて大よろこびののび太は、アリガターヤをつけたまま、野球に参加して…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1740754800,
+    "transcodeVersion": "4tN5ur",
+    "sharedLink": {
+        "twitter": "https://abema.app/Mx95",
+        "facebook": "https://abema.app/4QpW",
+        "google": "https://abema.app/qByR",
+        "line": "https://abema.app/q1ZH",
+        "copy": "https://abema.app/rXUu",
+        "instagram": "https://abema.app/vg8Q"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p900/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p900/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p900/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p900"
+    },
+    "viewingPoint": {
+        "suggestion": 641.9413
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p901",
+        "title": "#901 あの人は居間",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p900/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

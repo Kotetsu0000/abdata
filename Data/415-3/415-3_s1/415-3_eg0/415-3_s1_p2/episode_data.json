@@ -1,0 +1,148 @@
+{
+    "id": "415-3_s1_p2",
+    "series": {
+        "id": "415-3",
+        "title": "MIX MEISEI STORY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "thumb.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-3",
+            "filename": "portrait.png",
+            "query": "version=1675922259",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-3_s1",
+        "sequence": 1,
+        "name": "MIX MEISEI STORY",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 おれが兄貴でおまえが弟",
+        "content": "明青学園野球部でバッテリーとして活躍することを夢見ている投馬と走一郎。しかし監督の黒柳は、大親友であるOB会長の息子の二階堂をエースとして背番号１を与え、そのわがままを野放しにしている。反発する投馬と走一郎は、監督の見ている前で自分たちの実力を見せつけるように投球練習を始める。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "立花投馬:梶裕貴",
+            "立花走一郎:内田雄馬",
+            "立花音美:内田真礼",
+            "大山春夏:花澤香菜",
+            "立花英介:高木渉",
+            "立花真弓:井上喜久子",
+            "西村勇:中尾隆聖"
+        ],
+        "crews": [
+            "原作:あだち充",
+            "監督:渡部穏寛",
+            "シリーズ構成・脚本:冨岡淳広",
+            "脚本:樋口達人:山田健一:福嶋幸典:北条千夏",
+            "キャラクターデザイン:牧孝雄",
+            "音響監督:亀山俊樹",
+            "音楽:住友紀人"
+        ],
+        "copyrights": [
+            "(C) あだち充・小学館／読売テレビ・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719302116,
+    "endAt": 1740754800,
+    "transcodeVersion": "4E5vGh",
+    "sharedLink": {
+        "twitter": "https://abema.app/wGkf",
+        "facebook": "https://abema.app/taYm",
+        "google": "https://abema.app/HjLC",
+        "line": "https://abema.app/ki3k",
+        "copy": "https://abema.app/iYdt",
+        "instagram": "https://abema.app/tAAD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-3_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-3_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-3_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-3_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.956844,
+        "opening": {
+            "start": 36.066684,
+            "end": 159.9055
+        },
+        "ending": {
+            "start": 1309.956844,
+            "end": 1400.004144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-3_s1_p3",
+        "title": "第3話 明青学園なんて",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1719302116,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-3_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-3_eg0"
+}

@@ -1,0 +1,149 @@
+{
+    "id": "2-5dywpejissp_s4_p7",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s4",
+        "sequence": 4,
+        "name": "第4シリーズ",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 度胸満点！",
+        "content": "クーガースを解雇され、テネシー州メンフィスにやって来た吾郎。空港で若い日本人女性とぶつかり、ひと揉めする隙にまた置き引きにあい、野球道具と紹介状を失ってしまう。気を取り直し、トライアウトを受けに3Aチーム、メンフィス・バッツのオフィスへ行った吾郎。そこではち合わせたのは、なんと先程揉めた女性だった！"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "ジョー・ギブソンJr.：浪川大輔",
+            "陣内アリス：榎本温子",
+            "サンダース：石井康嗣",
+            "キーン：森川智之"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "中村能子"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "51hT74",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/eAn7o",
+        "facebook": "https://gxyt4.app.goo.gl/QKwWb",
+        "google": "https://gxyt4.app.goo.gl/yKRvN",
+        "line": "https://gxyt4.app.goo.gl/9JjKN",
+        "copy": "https://gxyt4.app.goo.gl/uS6hd",
+        "instagram": "https://gxyt4.app.goo.gl/6uxD9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-5dywpejissp_s4_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-5dywpejissp_s4_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 87.5063,
+            "end": 176.012783
+        },
+        "ending": {
+            "start": 1365.853792,
+            "end": 1454.239509
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-5dywpejissp_s4_p8",
+        "title": "第8話 デビュー！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-5dywpejissp_s4_p7/timeline",
+        "query": "version=51hT74",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

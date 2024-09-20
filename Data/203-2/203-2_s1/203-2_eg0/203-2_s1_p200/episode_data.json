@@ -1,0 +1,142 @@
+{
+    "id": "203-2_s1_p200",
+    "series": {
+        "id": "203-2",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "thumb.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-2",
+            "filename": "portrait.png",
+            "query": "version=1681282723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-2_s1",
+        "sequence": 101,
+        "name": "こちら葛飾区亀有公園前派出所",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1560
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 200,
+        "title": "第200話 親愛なる兄貴へ",
+        "content": "両津の弟の金次郎に子供が産まれることに。出産のその日に、金次郎は、安産のお守りではなく合格祈願のお守りを渡す。そのお守りには兄との思いでがあったのだ"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "両津勘吉：ラサール石井",
+            "秋本麗子：森尾由美",
+            "中川圭一：宮本充",
+            "大原大次郎：菱谷紘二/佐山陽規",
+            "麻里愛：麻生かほ里",
+            "本田速人：家中宏"
+        ],
+        "crews": [
+            "原作：秋本治（集英社「週刊少年ジャンプ」連載）",
+            "監督：やすみ哲夫、三沢伸、高松信司、高本宣弘、鴫野彰",
+            "キャラクターデザイン：丹内司、山内昇寿郎、北崎正浩",
+            "アニメーション制作：ぎゃろっぷ",
+            "製作：ADK"
+        ],
+        "copyrights": [
+            "(C) 秋本治・アトリエびーだま／集英社・ＡＤＫ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684382152,
+    "endAt": 1743433200,
+    "transcodeVersion": "4mVeua",
+    "sharedLink": {
+        "twitter": "https://abema.app/U9vR",
+        "facebook": "https://abema.app/vvnr",
+        "google": "https://abema.app/yrx3",
+        "line": "https://abema.app/K5st",
+        "copy": "https://abema.app/jTVk",
+        "instagram": "https://abema.app/k27H"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-2_s1_p200/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-2_s1_p200/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-2_s1_p200/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-2_s1_p200"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.795888,
+        "opening": {
+            "start": 37.927755,
+            "end": 125.915755
+        },
+        "ending": {
+            "start": 1440.795888,
+            "end": 1524.913355
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-2_s1_p201",
+        "title": "第201話 義理と人情の子守歌",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684382152,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-2_s1_p200/timeline",
+        "query": "version=4mVeua",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-2_eg0"
+}

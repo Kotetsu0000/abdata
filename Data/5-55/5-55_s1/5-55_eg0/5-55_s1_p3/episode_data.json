@@ -1,0 +1,150 @@
+{
+    "id": "5-55_s1_p3",
+    "series": {
+        "id": "5-55",
+        "title": "ハピネスチャージプリキュア！",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-55",
+            "filename": "thumb.png",
+            "query": "version=1721352883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-55",
+            "filename": "portrait.png",
+            "query": "version=1721352883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1458
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 秘密がばれちゃった!? プリキュアの正体は絶対秘密!!",
+        "content": "プリキュアのことは秘密にしなきゃいけないんだって。私、ウソが苦手なのに…。幼なじみの誠司にはもう疑われてるし。大変、誠司がサイアークに襲われてる！　でも、誠司の前で変身したら、私がプリキュアだってことがバレちゃう。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "愛乃めぐみ／キュアラブリー：中島 愛",
+            "白雪ひめ／キュアプリンセス：潘めぐみ",
+            "大森ゆうこ／キュアハニー：北川里奈",
+            "キュアフォーチュン：戸松 遥",
+            "リボン：松井菜桜子",
+            "ぐらさん：小堀 幸"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、高橋知子、柴田宏明",
+            "シリーズ構成：成田良美",
+            "シリーズディレクター：長峯達也",
+            "製作担当：山崎尊宗",
+            "キャラクターデザイン：佐藤雅将",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "音楽：高木 洋"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721568123,
+    "endAt": 1740754800,
+    "freeEndAt": 1726702200,
+    "transcodeVersion": "4L4CaN",
+    "sharedLink": {
+        "twitter": "https://abema.app/bWRX",
+        "facebook": "https://abema.app/PLSE",
+        "google": "https://abema.app/j5Lk",
+        "line": "https://abema.app/m5pT",
+        "copy": "https://abema.app/ifmr",
+        "instagram": "https://abema.app/FeUW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-55_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-55_s1_p3/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/5-55_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-55_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-55_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1338.0033333333333,
+        "opening": {
+            "start": 100.96753333333334,
+            "end": 190.95743333333334
+        },
+        "ending": {
+            "start": 1338.0033333333333,
+            "end": 1427.9932333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-55_s1_p4",
+        "title": "第4話 転校生はお姫様!! ひめの友達ゲット大作戦!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721568123,
+        "endAt": 1740754800,
+        "freeEndAt": 1726702200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726702200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-55_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726702200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-55_eg0"
+}

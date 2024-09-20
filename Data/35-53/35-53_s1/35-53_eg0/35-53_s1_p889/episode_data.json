@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p889",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 645
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 889,
+        "title": "#889 22世紀で夏休み（ドラえもんの里帰り）",
+        "content": "「１日くらい、２２世紀に帰ってゆっくりしたら？」とドラミにさそわれたドラえもんは、のび太のことを心配しつつ、ひさしぶりに未来にいるセワシのもとに里帰り。ふだんはのび太の世話でつかれているだろうから、ここではのんびりしていってとセワシに言われたものの、ドラミも出かけてしまい、することもなく落ち着かないドラえもん。\n　そこで、夏休みの宿題でロボットを作るというセワシを手伝うことに。安物の部品しかないとなげくセワシに、おもちゃに液（えき）をたらすだけで本物のロボットに育ってくれるという『キカイソダテール』を取り出す。ところが、液のかけすぎで、ロボットが育ちすぎてしまい、ヨボヨボになってしまった…。\n　その後も、ドラえもんの出す道具ではうまくロボットを作ることができず、あきれたセワシから、「お願いだから休んでいて」と言われてしまうドラえもん。それでも、ついついセワシに手をかしたくなってしまい…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1730386800,
+    "transcodeVersion": "3UMLnq",
+    "sharedLink": {
+        "twitter": "https://abema.app/PAsa",
+        "facebook": "https://abema.app/wtMc",
+        "google": "https://abema.app/xHn5",
+        "line": "https://abema.app/2hBm",
+        "copy": "https://abema.app/EdVn",
+        "instagram": "https://abema.app/cCb5"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p889/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p889/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p889/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p889"
+    },
+    "viewingPoint": {
+        "suggestion": 640.014375
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p890",
+        "title": "#890 世界沈没",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335975,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p889/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "143-49",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "多数欠",
+    "content": "そのゲームは突然始まった―――。\n『多数欠』それは “多数派が失われる” 過酷な生き残りゲーム。\n絶大な力を持つ首謀者・皇帝に立ち向かうため、\n少年少女たちは謎の特殊能力「特権利」を手に 運命を切り開いていく！",
+    "seasons": [
+        {
+            "id": "143-49_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/143-49_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1725945256",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "143-49_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "143-49_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)宮川大河／COMICSMART INC.／多数欠製作委員会"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1726224421765054868",
+    "imageUpdatedAt": 1725940524,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/hRra",
+        "facebook": "https://abema.app/bgaR",
+        "google": "https://abema.app/41EV",
+        "line": "https://abema.app/D8Zi",
+        "copy": "https://abema.app/6jpc",
+        "instagram": "https://abema.app/D2X4"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-49",
+        "filename": "thumb.png",
+        "query": "version=1725940524",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-49",
+        "filename": "portrait.png",
+        "query": "version=1725940524",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

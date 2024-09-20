@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p82",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 82,
+        "title": "第82話 ｢聖帝サウザー！お前は愛深きゆえに愛におぼれる！！」",
+        "content": "南斗聖拳に崩壊をもたらしたユダ。そのユダを陰で操り真に南斗聖拳を崩壊させたのが拳王でさえ戦いを避けた将星の男・サウザー。ケンシロウはサウザーとの秘奥義を尽くした戦いを弔いの炎の中に見ていた。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "2jYG62",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/jgPhM",
+        "facebook": "https://gxyt4.app.goo.gl/8cFG3",
+        "google": "https://gxyt4.app.goo.gl/kCNkb",
+        "line": "https://gxyt4.app.goo.gl/1YGrL",
+        "copy": "https://gxyt4.app.goo.gl/RxHd5",
+        "instagram": "https://gxyt4.app.goo.gl/f4iZA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p82/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p82/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p82/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p82"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.328855,
+        "opening": {
+            "start": 31.654822,
+            "end": 124.514355
+        },
+        "ending": {
+            "start": 1340.328855,
+            "end": 1430.085288
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p83",
+        "title": "第83話 ｢第四部最終章　ラオウ死すべし！伝説が恐怖に変わる！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p82/timeline",
+        "query": "version=2jYG62",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p55",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 55,
+        "title": "第55話 ｢死に行くのかレイ！今・男はここまで美しい！！」",
+        "content": "残りわずかな命をマミヤに捧げ、ユダ打倒に燃えるレイ。今こそ自分より強く美しい男レイを倒す好機と、ユダは攻め込み、南斗二聖拳の宿命の対決が始まる。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756425,
+    "endAt": 1732978800,
+    "transcodeVersion": "2LWNZD",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/VEWA9",
+        "facebook": "https://gxyt4.app.goo.gl/hbHWH",
+        "google": "https://gxyt4.app.goo.gl/mycrJ",
+        "line": "https://gxyt4.app.goo.gl/p3A2R",
+        "copy": "https://gxyt4.app.goo.gl/6hiXm",
+        "instagram": "https://gxyt4.app.goo.gl/J4NWR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p55/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p55/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p55/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p55"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.162022,
+        "opening": {
+            "start": 31.554722,
+            "end": 124.447622
+        },
+        "ending": {
+            "start": 1340.162022,
+            "end": 1429.885088
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p56",
+        "title": "第56話 ｢美しき拳士レイＶＳユダ！男の花道に涙はいらぬ！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756425,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p55/timeline",
+        "query": "version=2LWNZD",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

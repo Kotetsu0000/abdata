@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s3_p52",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 52,
+        "title": "第52話 編め必殺技",
+        "content": "A組の生徒たちは、プロヒーロー仮免試験に向けて自らの「必殺技」を編み出す特訓に入る。それぞれが順調に必殺技のヒントをつかむ中、自身の武器である腕に“爆弾”を抱えている出久は無理ができず悩む。まず腕の負担を減らすコスチューム改良のため、出久が学校内の開発工房へ行くと、サポート科の発目明が入り浸ってサポートアイテムの開発に精を出していた。お茶子、飯田と共に、自由気ままな発目に振り回される出久だったが、彼女の何気ないひと言やオールマイトの言葉から、新たなスタイルのヒントを得る！"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872423,
+    "endAt": 1759244400,
+    "transcodeVersion": "3aUnJw",
+    "sharedLink": {
+        "twitter": "https://abema.app/wSUf",
+        "facebook": "https://abema.app/GNLd",
+        "google": "https://abema.app/z68F",
+        "line": "https://abema.app/tMvB",
+        "copy": "https://abema.app/qf6H",
+        "instagram": "https://abema.app/fJoS"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s3_p52/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s3_p52/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s3_p52/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s3_p52"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.9753333333333,
+        "opening": {
+            "start": 19.986633333333334,
+            "end": 110.0099
+        },
+        "ending": {
+            "start": 1309.9419666666668,
+            "end": 1400.0319666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s3_p53",
+        "title": "第53話 THE試験",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872423,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s3_p52/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

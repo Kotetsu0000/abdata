@@ -1,0 +1,154 @@
+{
+    "id": "210-9_s1_p4",
+    "series": {
+        "id": "210-9",
+        "title": "アークナイツ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "thumb.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-9",
+            "filename": "portrait.png",
+            "query": "version=1697097097",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-9_s1",
+        "sequence": 1,
+        "name": "【黎明前奏/PRELUDE TO DAWN】",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 契約 Loyalty",
+        "content": "ロドスはBSWのフランカ、リスカムの協力を得て、次にレユニオンが侵攻を目論む龍門へ向かう。\n龍門近衛局の隊長・チェンの迎えを受け、龍門総督・ウェイが待つ面会の場まで案内されると、そこには先に到着していたケルシーが待っていた。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ドクター：甲斐田ゆき",
+            "アーミヤ：黒沢ともよ",
+            "ドーベルマン：種﨑敦美",
+            "Ace：松山鷹志",
+            "ニアール：佐倉綾音",
+            "チェン:石上静香",
+            "ホシグマ：安野希世乃",
+            "フランカ：加隈亜衣",
+            "リスカム：石川由依",
+            "エクシア：石見舞菜香",
+            "テキサス：田所あずさ",
+            "メテオリーテ：種田梨沙",
+            "ケルシー：日笠陽子"
+        ],
+        "crews": [
+            "監督：渡邉 祐記",
+            "脚本：Yostar Pictures",
+            "原作者：Hypergryph / Studio Montagne"
+        ],
+        "copyrights": [
+            "（C）Hypergryph / Studio Montagne"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701063054,
+    "endAt": 1759244400,
+    "transcodeVersion": "6qcM3k",
+    "sharedLink": {
+        "twitter": "https://abema.app/uFm5",
+        "facebook": "https://abema.app/Jzdk",
+        "google": "https://abema.app/Ltet",
+        "line": "https://abema.app/GNpJ",
+        "copy": "https://abema.app/ehgR",
+        "instagram": "https://abema.app/sWac"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/210-9_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/210-9_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/210-9_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-9_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.019555,
+        "opening": {
+            "start": 60.162337,
+            "end": 147.386224
+        },
+        "ending": {
+            "start": 1331.925995,
+            "end": 1421.174077
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-9_s1_p5",
+        "title": "第5話 信頼 Ripple",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1701063054,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-9_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-9_eg0"
+}

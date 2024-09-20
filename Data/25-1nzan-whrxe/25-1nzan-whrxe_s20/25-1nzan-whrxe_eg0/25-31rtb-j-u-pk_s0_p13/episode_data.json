@@ -1,0 +1,143 @@
+{
+    "id": "25-31rtb-j-u-pk_s0_p13",
+    "series": {
+        "id": "25-1nzan-whrxe",
+        "title": "ソードアート・オンライン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "thumb.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "portrait.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-1nzan-whrxe_s20",
+        "sequence": 20,
+        "name": "ソードアート・オンラインII",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "#13 「ファントム・バレット」",
+        "content": "《ＧＧＯ》には存在しない《ＳＡＯ》のスキル《スター・スプラッシュ》を模した死銃の剣技を受け、キリトは追い詰められる。銃撃のみならず、剣撃の腕前も高いレベルにあった死銃にキリトは追い詰められ、次第に体力を奪われてしまう。一方、死銃との狙撃戦でスコープを破壊され狙撃が出来なくなってしまったシノンは、キリトと死銃の戦いを見守るしかなかった。シノンは歯がみしながらも、今自分に出来ることがないか必死に考える。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "キリト:松岡禎丞",
+            "アスナ:戸松遥",
+            "シノン:沢城みゆき"
+        ],
+        "crews": [
+            "原作:川原 礫（電撃文庫刊）",
+            "原作イラスト・キャラクター原案:abec",
+            "監督:伊藤智彦",
+            "キャラクターデザイン:足立慎吾"
+        ],
+        "copyrights": [
+            "(C)2014 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス刊／SAOⅡ Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1690870935,
+    "endAt": 1743433200,
+    "freeEndAt": 1727412300,
+    "transcodeVersion": "7HuVwq",
+    "sharedLink": {
+        "twitter": "https://abema.app/BbpL",
+        "facebook": "https://abema.app/5dQo",
+        "google": "https://abema.app/sw91",
+        "line": "https://abema.app/FP4Z",
+        "copy": "https://abema.app/kBQh",
+        "instagram": "https://abema.app/ovuF"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p13/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/25-31rtb-j-u-pk_s0_p13/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-31rtb-j-u-pk_s0_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-31rtb-j-u-pk_s0_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.12
+    },
+    "nextProgramInfo": {
+        "programId": "25-31rtb-j-u-pk_s0_p14",
+        "title": "#14 「小さな一歩」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1690870935,
+        "endAt": 1743433200,
+        "freeEndAt": 1727412300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727412300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-31rtb-j-u-pk_s0_p13/timeline",
+        "query": "version=7HuVwq",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727412300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "25-1nzan-whrxe_eg0"
+}

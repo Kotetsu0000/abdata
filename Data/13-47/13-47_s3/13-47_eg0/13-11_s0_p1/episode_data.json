@@ -1,0 +1,145 @@
+{
+    "id": "13-11_s0_p1",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s3",
+        "sequence": 3,
+        "name": "3年目",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第100話 好かれないものほど愛おしい",
+        "content": "電車の中で漫画雑誌を読みふけっていた銀時は、連載中の漫画「ギンタマン」を酷評。するとそのそばには「ギンタマン」の担当、小西の姿が。銀時のあまりの暴言に憤慨した小西は、担当編集者としての怒りと仕事の愚痴を爆発させる。それを聞いた銀時は「ギンタマン」を面白い漫画にするため、自ら担当編集者となって漫画家に会いに行くことに…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684296389,
+    "endAt": 1746025200,
+    "freeEndAt": 1746025200,
+    "transcodeVersion": "3ww4b8",
+    "sharedLink": {
+        "twitter": "https://abema.app/hcY2",
+        "facebook": "https://abema.app/14Qm",
+        "google": "https://abema.app/YcjY",
+        "line": "https://abema.app/i1Hn",
+        "copy": "https://abema.app/Lzn6",
+        "instagram": "https://abema.app/iYrU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-11_s0_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-11_s0_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/13-11_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-11_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-11_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1275.4288,
+        "ending": {
+            "start": 1272.078628,
+            "end": 1446.678624
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p2",
+        "title": "第101話 掟は破るためにこそある",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296389,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-11_s0_p1/timeline",
+        "query": "version=3ww4b8",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

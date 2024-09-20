@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p15",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 夜桜の血",
+        "content": "家族の死に関り、六美の命を狙う謎の組織「タンポポ」の重要な手掛かりとして皮下 真を追い、高級ホテルへ乗り込んだ太陽。だが「葉桜」でドーピングされたノウメンによって妨害されてしまう。手も足も出ない太陽のピンチに、辛三が駆けつける。太陽を逃がしノウメンと渡り合う辛三だったが、ホテルに滞在する一般人を人質に取られて窮地に陥ってしまう。投降の選択しかない不利な状況の中、辛三が取った選択とは…!?"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "transcodeVersion": "4ESXuJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/fS8o",
+        "facebook": "https://abema.app/CkHU",
+        "google": "https://abema.app/nJqj",
+        "line": "https://abema.app/8sdh",
+        "copy": "https://abema.app/TnRf",
+        "instagram": "https://abema.app/FUw6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/11-60_s1_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/11-60_s1_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/11-60_s1_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1352.0173333333332,
+        "opening": {
+            "start": 241.99175,
+            "end": 331.956625
+        },
+        "ending": {
+            "start": 1352.0173333333332,
+            "end": 1441.9405
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p16",
+        "title": "第16話 庭掃除",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

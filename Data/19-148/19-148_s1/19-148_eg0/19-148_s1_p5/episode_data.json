@@ -1,0 +1,143 @@
+{
+    "id": "19-148_s1_p5",
+    "series": {
+        "id": "19-148",
+        "title": "僕だけがいない街",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-148",
+            "filename": "thumb.png",
+            "query": "version=1673591227",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-148",
+            "filename": "portrait.png",
+            "query": "version=1673591227",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-148_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1380
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第五話 逃走",
+        "content": "姿を消した雛月は、いつまで経っても学校に現れない。焦燥感を募らせる悟。さらにその6日後、別の児童も行方不明になったという情報がもたらされる。時の流れは、確実に18年前と同じレールに乗っていた。そして失意に沈む悟の目の前に、残酷な現実が突きつけられる・・・"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "藤沼 悟：土屋太鳳、満島真之介",
+            "雛月加代：悠木 碧",
+            "片桐愛梨：赤﨑千夏",
+            "ケンヤ：大地 葉",
+            "ヒロミ：鬼頭明里",
+            "オサム：七瀬彩夏",
+            "カズ：菊池幸利",
+            "白鳥 潤：水島大宙",
+            "藤沼佐知子：高山みなみ",
+            "八代 学：宮本 充"
+        ],
+        "crews": [
+            "原作：三部けい （「ヤングエース」連載）",
+            "監督：伊藤智彦",
+            "シリーズ構成：岸本 卓",
+            "キャラクターデザイン：佐々木啓悟",
+            "色彩設計：佐々木梓",
+            "美術監督：佐藤 勝",
+            "美術設定：長谷川弘行",
+            "撮影監督：青嶋俊明",
+            "CG監督：那須信司",
+            "編集：西山 茂",
+            "音楽：梶浦由記",
+            "音響監督：岩浪美和",
+            "アニメーション制作：A-1 Pictures"
+        ],
+        "copyrights": [
+            "(C)2016 三部けい／KADOKAWA／アニメ「僕街」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683802676,
+    "endAt": 1759244400,
+    "transcodeVersion": "3QsJMW",
+    "sharedLink": {
+        "twitter": "https://abema.app/Fnsj",
+        "facebook": "https://abema.app/mb3X",
+        "google": "https://abema.app/QtK7",
+        "line": "https://abema.app/DmR6",
+        "copy": "https://abema.app/sK7q",
+        "instagram": "https://abema.app/esnT"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-148_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-148_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-148_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-148_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.493825
+    },
+    "nextProgramInfo": {
+        "programId": "19-148_s1_p6",
+        "title": "第六話 死神",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683802676,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-148_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-148_eg0"
+}

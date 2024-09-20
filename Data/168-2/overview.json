@@ -1,0 +1,74 @@
+{
+    "id": "168-2",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ラーメン大好き小泉さん",
+    "content": "今日もどこかで、彼女はラーメンを食べている―\n\nクールで無口な美人女子高生の小泉さんは毎日おいしいラーメンを求めて食べ歩く生粋の“ラーメン通”だった。\n小泉さんはラーメン以外のことには興味がなく他人と馴れ合わない。ただひたすら求め続けるのは“ラーメン”のみ！\nラーメンあるところに小泉さんあり！ひたすらストイックにラーメンを食べ続けるその姿は見る人すべてを魅了する。\n\nガツンと本格派ラーメングラフィティ、いざ着丼！",
+    "seasons": [
+        {
+            "id": "168-2_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/168-2_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683012573",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-2_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)鳴見なる・竹書房／「ラーメン大好き小泉さん」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1707296050298623277",
+    "imageUpdatedAt": 1657005921,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/2SXq",
+        "facebook": "https://abema.app/M4a6",
+        "google": "https://abema.app/p5sJ",
+        "line": "https://abema.app/6Rze",
+        "copy": "https://abema.app/nktv",
+        "instagram": "https://abema.app/B9GQ"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+        "filename": "thumb.png",
+        "query": "version=1657005921",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+        "filename": "portrait.png",
+        "query": "version=1657005921",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

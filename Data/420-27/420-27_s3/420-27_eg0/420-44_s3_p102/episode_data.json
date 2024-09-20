@@ -1,0 +1,148 @@
+{
+    "id": "420-44_s3_p102",
+    "series": {
+        "id": "420-27",
+        "title": "アイドリッシュセブン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "thumb.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-27",
+            "filename": "portrait.png",
+            "query": "version=1681283649",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-27_s3",
+        "sequence": 3,
+        "name": "アイドリッシュセブン Third BEAT!",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 102,
+        "title": "第2話 知らない傷",
+        "content": "パーティー会場での様子から、大和が秘密を抱えていることを知る三月とナギ。ナギは秘密そのものより、仲間にも心を閉ざす大和の態度が納得できなかった。当の大和は映画の撮影現場で、初めて演技の壁にぶつかる……。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "和泉　一織：増田　俊樹",
+            "二階堂大和：白井　悠介",
+            "和泉　三月：代永　翼",
+            "四葉　環　：ＫＥＮＮ",
+            "逢坂　壮五：阿部　敦",
+            "六弥　ナギ：江口　拓也",
+            "七瀬　陸　：小野　賢章",
+            "八乙女　楽：羽多野　渉",
+            "九条　天　：斉藤　壮馬",
+            "十　龍之介：佐藤　拓也",
+            "百：保志総一朗",
+            "千：立花慎之介",
+            "小鳥遊音晴：千葉　進歩",
+            "大神　万理：興津　和幸",
+            "小鳥遊　紡：佐藤　聡美",
+            "八乙女宗助：小西　克幸",
+            "姉鷺カオル：川原　慶久",
+            "岡崎　凜人：古川　慎"
+        ],
+        "crews": [
+            "原作：バンダイナムコオンライン／都志見文太",
+            "監督：別所　誠人",
+            "シリーズ構成：関根アユミ",
+            "スーパーバイザー：あおきえい",
+            "キャラクター原案：種村　有菜",
+            "アニメーションキャラクターデザイン：深川　可純",
+            "総作画監督：猪股　雅美",
+            "アニメーション制作：トロイカ"
+        ],
+        "copyrights": [
+            "(C)BNOI/アイナナ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1724658511,
+    "endAt": 1730386800,
+    "transcodeVersion": "4TZz8u",
+    "sharedLink": {
+        "twitter": "https://abema.app/8WAu",
+        "facebook": "https://abema.app/6158",
+        "google": "https://abema.app/uJW8",
+        "line": "https://abema.app/aEMY",
+        "copy": "https://abema.app/r3dh",
+        "instagram": "https://abema.app/neLy"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/420-44_s3_p102/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/420-44_s3_p102/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/420-44_s3_p102/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-44_s3_p102"
+    },
+    "viewingPoint": {
+        "suggestion": 1379.059645,
+        "ending": {
+            "start": 1378.270945,
+            "end": 1457.376709
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-44_s3_p103",
+        "title": "第3話 亀裂",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1724658511,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-44_s3_p102/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "420-27_eg0"
+}

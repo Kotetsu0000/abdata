@@ -1,0 +1,147 @@
+{
+    "id": "5-58_s1_p46",
+    "series": {
+        "id": "5-58",
+        "title": "キラキラ☆プリキュアアラモード",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-58",
+            "filename": "thumb.png",
+            "query": "version=1721612029",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-58",
+            "filename": "portrait.png",
+            "query": "version=1721612029",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-58_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1490
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 46,
+        "title": "第46話　ノワール大決戦！笑顔の消えたバースデー！",
+        "content": "みんなは大好きな夢に向かって歩き始めたのに、自分だけ夢が見つからないことを不安に思ういちか。いちかのお誕生日会の日、現れたエリシオそっくりの男。それは、今までエリシオを操っていたノワールの本当の姿だったのです。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "キュアホイップ/宇佐美いちか：美山加恋",
+            "キュアカスタード/有栖川ひまり：福原 遥",
+            "キュアジェラート/立神あおい：村中 知",
+            "キュアマカロン/琴爪ゆかり：藤田 咲",
+            "キュアショコラ/剣城あきら：森 なな子",
+            "キュアパルフェ/キラ星シエル：水瀬いのり",
+            "ペコリン：かないみか"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：野下 洋、板井昭浩、田中 昂、遠藤里紗、矢﨑史、神木 優",
+            "シリーズディレクター：暮田公平、貝澤幸男",
+            "シリーズ構成：田中 仁",
+            "音楽：林 ゆうき",
+            "製作担当：太田有紀",
+            "美術デザイン：飯野敏典",
+            "色彩設計：佐久間ヨシ子",
+            "キャラクターデザイナー：井野真理恵",
+            "スイーツ監修：福田淳子"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721961358,
+    "endAt": 1740754800,
+    "transcodeVersion": "4TK2ha",
+    "sharedLink": {
+        "twitter": "https://abema.app/dRe7",
+        "facebook": "https://abema.app/Ebki",
+        "google": "https://abema.app/DdGr",
+        "line": "https://abema.app/Ey7h",
+        "copy": "https://abema.app/kB6T",
+        "instagram": "https://abema.app/rN7A"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-58_s1_p46/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-58_s1_p46/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-58_s1_p46/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-58_s1_p46"
+    },
+    "viewingPoint": {
+        "suggestion": 1485.3171666666667,
+        "opening": {
+            "start": 112.07029166666666,
+            "end": 202.11858333333333
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1430.2204583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-58_s1_p47",
+        "title": "第47話　大好きをとりもどせ！キュアペコリンできあがり！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721961367,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-58_s1_p46/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-58_eg0"
+}

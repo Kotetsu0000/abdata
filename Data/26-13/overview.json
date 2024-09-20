@@ -1,0 +1,82 @@
+{
+    "id": "26-13",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "黒執事Ⅱ",
+    "content": "私は、旦那様を\n「飽くまで」貪りたい――。\n\n19世紀後半 英国名門貴族トランシー家\n執事は踊る　ただ主の為に\n\n孤独､新たな闇･･･",
+    "seasons": [
+        {
+            "id": "26-13_s1",
+            "sequence": 1,
+            "name": "黒執事Ⅱ",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+                "filename": "thumb.png",
+                "query": "version=1709632893",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-13_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)枢やな/スクウェアエニックス・「黒執事Ⅱ」製作委員会・MBS"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1724900784481878757",
+    "imageUpdatedAt": 1709632893,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/aSv1",
+        "facebook": "https://abema.app/cKzC",
+        "google": "https://abema.app/RB7x",
+        "line": "https://abema.app/rcVo",
+        "copy": "https://abema.app/kFgb",
+        "instagram": "https://abema.app/KNFi"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+        "filename": "thumb.png",
+        "query": "version=1709632893",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+        "filename": "portrait.png",
+        "query": "version=1709632893",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

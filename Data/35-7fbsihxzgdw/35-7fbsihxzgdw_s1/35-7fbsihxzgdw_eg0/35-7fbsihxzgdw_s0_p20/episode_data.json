@@ -1,0 +1,158 @@
+{
+    "id": "35-7fbsihxzgdw_s0_p20",
+    "series": {
+        "id": "35-7fbsihxzgdw",
+        "title": "忍者ハットリくん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-7fbsihxzgdw",
+            "filename": "thumb.png",
+            "query": "version=1686708615",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-7fbsihxzgdw",
+            "filename": "portrait.png",
+            "query": "version=1686708615",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-7fbsihxzgdw_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1116
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話 ケン一くん空をとぶの巻 他",
+        "content": "『ケン一くん空をとぶの巻』…ケムマキのラジコン飛行機に対抗して、ハットリくんの作った人力飛行機に乗るため特訓を重ねるケン一。いよいよ飛行に挑戦するが、なかなかうまく飛ぶことが出来ない。そこでハットリくんは秘策を考え出す。"
+    },
+    "credit": {
+        "released": 1981,
+        "casts": [
+            "ハットリくん：堀絢子",
+            "ケン一：菅谷政子",
+            "シンゾウ：三田ゆう子",
+            "ケムマキ：肝付兼太",
+            "獅子丸：緒方賢一",
+            "影千代：山田栄子",
+            "パパ：藤本譲",
+            "ママ：梨羽侑里",
+            "夢子：あきやまるな",
+            "先生：二又一成"
+        ],
+        "crews": [
+            "原作：藤子不二雄A",
+            "総監督：笹川ひろし",
+            "監修：鈴木伸一",
+            "シリーズ構成：桜井正明",
+            "脚本：城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子",
+            "作画監督：富永貞義　なかじまちゅうじ",
+            "美術監督：宮野隆",
+            "撮影監督：角原幸枝",
+            "録音監督：大熊昭",
+            "音楽：菊池俊輔"
+        ],
+        "copyrights": [
+            "(C)藤子スタジオ／シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1697193237,
+    "endAt": 1756652400,
+    "freeEndAt": 1726772400,
+    "transcodeVersion": "129v4N",
+    "sharedLink": {
+        "twitter": "https://abema.app/zskJ",
+        "facebook": "https://abema.app/gNJ1",
+        "google": "https://abema.app/5WGK",
+        "line": "https://abema.app/1e2T",
+        "copy": "https://abema.app/8cRo",
+        "instagram": "https://abema.app/RMkW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p20/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-7fbsihxzgdw_s0_p20/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-7fbsihxzgdw_s0_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-7fbsihxzgdw_s0_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 1111.84
+    },
+    "nextProgramInfo": {
+        "programId": "35-7fbsihxzgdw_s0_p21",
+        "title": "第21話 これぞシャッターチャンスの巻 他",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1697193237,
+        "endAt": 1756652400,
+        "freeEndAt": 1726858800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726858800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-7fbsihxzgdw_s0_p20/timeline",
+        "query": "version=129v4N",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726772400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-7fbsihxzgdw_eg0"
+}

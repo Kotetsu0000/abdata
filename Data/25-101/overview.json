@@ -1,0 +1,72 @@
+{
+    "id": "25-101",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "劇場版 魔法科高校の劣等生 星を呼ぶ少女",
+    "content": "季節は過ぎ、もうすぐ二度目の春――。\n劣等生の兄と、優等生の妹。\nふたりの魔法科高校での生活は、その一学年目を終えようとしていた。\n達也、そして深雪たちは春休みを利用して、\n小笠原諸島のとある別荘へと休暇に訪れていた。\n束の間の休息に羽根を伸ばす達也たち。\nしかし、そんな達也たちの前にひとりの少女”九亜”が現れる。\n海軍基地から脱走してきたその少女は達也にひとつの願いを告げる――。",
+    "seasons": [
+        {
+            "id": "25-101_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-101_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1689150978",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-101_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)2016 佐島 勤/KADOKAWA　アスキー・メディアワークス刊/劇場版魔法科高校製作委員会"
+    ],
+    "label": {},
+    "version": "1724643726879439040",
+    "imageUpdatedAt": 1681283810,
+    "caption": "そして司波達也は、伝説となる――",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/jmBi",
+        "facebook": "https://abema.app/GErd",
+        "google": "https://abema.app/qchy",
+        "line": "https://abema.app/fkzK",
+        "copy": "https://abema.app/1b7R",
+        "instagram": "https://abema.app/kDUh"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-101",
+        "filename": "thumb.png",
+        "query": "version=1681283810",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-101",
+        "filename": "portrait.png",
+        "query": "version=1681283810",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 4,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

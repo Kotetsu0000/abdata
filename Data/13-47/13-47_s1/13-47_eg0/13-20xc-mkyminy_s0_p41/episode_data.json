@@ -1,0 +1,149 @@
+{
+    "id": "13-20xc-mkyminy_s0_p41",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s1",
+        "sequence": 1,
+        "name": "1年目",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 41,
+        "title": "第41話 タイトルだけじゃ映画の面白さはわかんない",
+        "content": "銀時に別れの言葉をつげられた神楽は、失意のまま、父・星海坊主とともにターミナルの宇宙船乗り場にいた。神楽を解雇したことを銀時から聞きいた新八は、神楽が万事屋を、そして銀時をどれだけ大事に思っていたか考えろと食って掛かる。そして自分も辞めると言い放ち、万事屋を去るのだった。一方、発進を控えた宇宙船の貨物室では、ハタ皇子のじいが積み荷の整理を指示していた。気味の悪い積み荷に怯える整備員たちの目の前で、じいが一つの瓶を割ってしまう。それが、江戸を混乱に陥れる事件の始まりだった…。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296387,
+    "endAt": 1740754800,
+    "transcodeVersion": "5FmT8h",
+    "sharedLink": {
+        "twitter": "https://abema.app/zoXC",
+        "facebook": "https://abema.app/2Hwx",
+        "google": "https://abema.app/aX9E",
+        "line": "https://abema.app/T78m",
+        "copy": "https://abema.app/G7Tc",
+        "instagram": "https://abema.app/f3F7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p41/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p41/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p41/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-20xc-mkyminy_s0_p41"
+    },
+    "viewingPoint": {
+        "suggestion": 1362.982933,
+        "opening": {
+            "start": 56.077333,
+            "end": 143.029866
+        },
+        "ending": {
+            "start": 1362.982933,
+            "end": 1452.839366
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-20xc-mkyminy_s0_p42",
+        "title": "第42話 みみずにおしっこかけると腫れるよ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296387,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726519200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-20xc-mkyminy_s0_p41/timeline",
+        "query": "version=5FmT8h",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726452000
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727067600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

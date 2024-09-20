@@ -1,0 +1,145 @@
+{
+    "id": "5-38_s28_p1095",
+    "series": {
+        "id": "5-38",
+        "title": "ワンピース",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+            "filename": "thumb.png",
+            "query": "version=1704865594",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+            "filename": "portrait.png",
+            "query": "version=1704865594",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-38_s28",
+        "sequence": 28,
+        "name": "エッグヘッド編",
+        "thumbComponent": {},
+        "order": 28
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1095,
+        "title": "第1095話　天才の頭脳 6人のベガパンク！",
+        "content": "セラフィム・Ｓ-シャークが、ラボ内部のナミたち五人に襲いかかった。攻撃を食らったナミを見たサンジの怒りが爆発し、ロビン、ウソップ、フランキーとともに反撃する。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "モンキー・Ｄ・ルフィ：田中真弓",
+            "ナミ：岡村明美",
+            "ロロノア・ゾロ：中井和哉",
+            "ウソップ：山口勝平",
+            "サンジ：平田広明",
+            "トニートニー・チョッパー：大谷育江",
+            "ニコ・ロビン：山口由里子",
+            "フランキー：矢尾一樹",
+            "ブルック：チョー"
+        ],
+        "crews": [
+            "シリーズ構成：上坂浩彦（第284～）",
+            "シリーズディレクター：宇田鋼之介（第1話～第278話）、志水淳児（第131話～第159話）、境宗久（第241話～製作第365話）、宮元宏彰（製作第343話～）",
+            "製作担当：樋口宗久（第1話～第115話）、藤岡和実（第50話～第302話）、坂本憲生知（第270話～第298話）、松坂一光（第303話～第425話）、黒木耕次郎（第426話～）",
+            "キャラクターデザイン：小泉昇（第1話～第425話）、久田和也（製作第378話～）",
+            "美術設定／美術デザイン：吉池隆司",
+            "音楽：田中公平、浜口史郎"
+        ],
+        "copyrights": [
+            "(C)尾田栄一郎／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1723702771,
+    "endAt": 1736607600,
+    "transcodeVersion": "6Yj7ZD",
+    "sharedLink": {
+        "twitter": "https://abema.app/tFue",
+        "facebook": "https://abema.app/LP9j",
+        "google": "https://abema.app/3wzS",
+        "line": "https://abema.app/RWwp",
+        "copy": "https://abema.app/mnmH",
+        "instagram": "https://abema.app/rQtX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-38_s28_p1095/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-38_s28_p1095/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-38_s28_p1095/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-38_s28_p1095"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.3572916666667,
+        "opening": {
+            "start": 15.015,
+            "end": 105.06329166666667
+        },
+        "ending": {
+            "start": 1220.1772916666666,
+            "end": 1310.2255833333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-38_s28_p1096",
+        "title": "第1096話　禁じられた歴史！ある王国の仮説",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1723702771,
+        "endAt": 1736607600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1736607600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-38_s28_p1095/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1736607600
+        }
+    ],
+    "episodeGroupId": "5-38_eg0"
+}

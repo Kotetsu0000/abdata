@@ -1,0 +1,142 @@
+{
+    "id": "115-106_s1_p24",
+    "series": {
+        "id": "115-106",
+        "title": "ラグナクリムゾン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-106",
+            "filename": "thumb.png",
+            "query": "version=1703597358",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-106",
+            "filename": "portrait.png",
+            "query": "version=1703597358",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-106_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1425
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 24,
+        "title": "#24『光』",
+        "content": "互いに持てる力の全てを賭して激突するラグナとカムイ。絶対の力を求め積み上げてきた両者による異次元の戦いも遂に決着を迎える。\n絶望的な状況下で時を操る力をとり戻したアルテマティアは、失ってきた血族全てを取り戻すため力を振るおうとし…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ラグナ：小林千晃",
+            "クリムゾン：村瀬 歩",
+            "レオニカ：水瀬いのり",
+            "スライム：ファイルーズあい",
+            "キメラ：能登麻美子",
+            "ゴーレム：東地宏樹",
+            "アルテマティア：上田麗奈",
+            "ウォルテカムイ：諏訪部順一",
+            "グリュムウェルテ：子安武人",
+            "ディザス・トロワ：武内駿輔",
+            "メルグブデ：塩屋浩三",
+            "未来ラグナ：神奈延年",
+            "スターリア・レーゼ：日高里菜",
+            "へゼラ/グレア：土屋李央"
+        ],
+        "crews": [
+            "監督：高橋賢",
+            "キャラクターデザイン：青木慎平",
+            "シリーズ構成・脚本：赤尾でこ",
+            "美術監督：込山明日香（コスモプロジェクト）",
+            "色彩設計：水野多恵子（スタジオ・ロード）",
+            "撮影監督：佐藤敦（スタジオシャムロック）",
+            "3D監督：遠藤誠（トライスラッシュ）",
+            "編集：坪根健太郎（REAL-T）",
+            "音響監督：郷文裕貴",
+            "音楽：藤本コウジ（Sus4 Inc.）/ ササキオサム",
+            "アニメーション制作：SILVER LINK.",
+            "原作：小林大樹（掲載　月刊「ガンガンJOKER」スクウェア・エニックス刊）"
+        ],
+        "copyrights": [
+            "(C)小林大樹／SQUARE ENIX・「ラグナクリムゾン」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712312608,
+    "endAt": 1743433200,
+    "transcodeVersion": "3HLu7Y",
+    "sharedLink": {
+        "twitter": "https://abema.app/2HWz",
+        "facebook": "https://abema.app/u6V3",
+        "google": "https://abema.app/DMy5",
+        "line": "https://abema.app/wJU3",
+        "copy": "https://abema.app/aPTp",
+        "instagram": "https://abema.app/MmDP"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-106_s1_p24/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-106_s1_p24/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-106_s1_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-106_s1_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1337.7947916666667,
+        "opening": {
+            "start": 175.049875,
+            "end": 264.9730416666667
+        },
+        "ending": {
+            "start": 1337.7947916666667,
+            "end": 1425.0069166666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-106_s1_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "115-106_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s20_p795",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s20",
+        "sequence": 20,
+        "name": "season20",
+        "thumbComponent": {},
+        "order": 20
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 795,
+        "title": "第795話 若奥様が消えた秘密",
+        "content": "下校中、歩美が真壁邸を見ると、住人の真壁純が毛布に包んだ何かを運んでいた。真壁の顔や服には血が付着し、包まれていたのは生気のない妻の百合だった。歩美は真壁が百合を殺害したと疑い、元太たちと真壁邸へ。コナンは殺害されたとは限らないと指摘するが、若い女性と真壁の会話から事件の可能性もあると考え直して…。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066314,
+    "endAt": 1740754800,
+    "transcodeVersion": "RRd51",
+    "sharedLink": {
+        "twitter": "https://abema.app/xVxd",
+        "facebook": "https://abema.app/E38J",
+        "google": "https://abema.app/j64U",
+        "line": "https://abema.app/aNSy",
+        "copy": "https://abema.app/6qiJ",
+        "instagram": "https://abema.app/hEjt"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s20_p795/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s20_p795/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s20_p795/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s20_p795"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0903333333333,
+        "opening": {
+            "start": 70.23683333333334,
+            "end": 169.00216666666665
+        },
+        "ending": {
+            "start": 1326.1164583333334,
+            "end": 1406.0713333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s20_p796",
+        "title": "第796話 おしどり夫婦の策略",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066314,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s20_p795/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

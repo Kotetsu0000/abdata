@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p86",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 86,
+        "title": "第86話 ｢燃える真紅の軍団！炎の涙がシュレンをぬらす！！」",
+        "content": "人の命より車を大事にする拳王先遣隊隊長モーガン。気ままに車を乗り回し、村人をひき殺すなどその暴走ぶりにケンシロウの怒りは爆発。そんなモーガンにとどめを刺したのはバットだった。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "dpNv4",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/N7aBj",
+        "facebook": "https://gxyt4.app.goo.gl/GvycY",
+        "google": "https://gxyt4.app.goo.gl/5V4dJ",
+        "line": "https://gxyt4.app.goo.gl/4VFwj",
+        "copy": "https://gxyt4.app.goo.gl/gTBRW",
+        "instagram": "https://gxyt4.app.goo.gl/7WYzb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p86/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p86/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p86/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p86"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.918455,
+        "opening": {
+            "start": 50.073222,
+            "end": 114.437622
+        },
+        "ending": {
+            "start": 1329.918455,
+            "end": 1429.918455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p87",
+        "title": "第87話 ｢危うし五車星！遂にラオウが炎をも突き破った！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p86/timeline",
+        "query": "version=dpNv4",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

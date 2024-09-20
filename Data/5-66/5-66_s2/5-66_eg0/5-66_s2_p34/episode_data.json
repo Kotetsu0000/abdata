@@ -1,0 +1,153 @@
+{
+    "id": "5-66_s2_p34",
+    "series": {
+        "id": "5-66",
+        "title": "ふたりはプリキュアMaxHeart",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "thumb.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "portrait.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-66_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1464
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 34,
+        "title": "第34話　旅だ仲間だ！ 修学旅行だザケンナー!?",
+        "content": "なぎさたちは、修学旅行で京都にやって来た。心ゆくまで旅を満喫する一同。その頃、いつも通りの学校生活を送っていたひかりは、そこかしこに不穏な気配を感じていた。ハーティエルのウィシュンも、「真実が近づいてきます」と予言を口にする。いてもたってもいられなくなったひかりは、書き置きを残して京都に向かう。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "美墨なぎさ：本名陽子",
+            "雪城ほのか：ゆかな",
+            "九条ひかり：田中理恵",
+            "メップル：関 智一",
+            "ミップル：矢島晶子",
+            "ポルン：池澤春菜",
+            "ルルン：谷井あすか",
+            "美墨亮太：高橋直純",
+            "雪城さなえ：野沢雅子",
+            "藤田アカネ：藤田美歌子",
+            "高清水莉奈：徳光由禾",
+            "久保田志穂：仙台エリ",
+            "藤村省吾：岸尾大輔",
+            "クイーン：松谷彼哉"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、大野逸雄、亀田雅之、鶴崎りか、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズディレクター：西尾大介",
+            "シリーズ構成：川崎 良",
+            "キャラクターデザイン：稲上 晃",
+            "色彩設計：沢田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721038808,
+    "endAt": 1740754800,
+    "transcodeVersion": "5SX38V",
+    "sharedLink": {
+        "twitter": "https://abema.app/kUfX",
+        "facebook": "https://abema.app/Cw5X",
+        "google": "https://abema.app/93Yg",
+        "line": "https://abema.app/9wQ8",
+        "copy": "https://abema.app/hN4S",
+        "instagram": "https://abema.app/X9nB"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p34/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p34/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p34/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-66_s2_p34"
+    },
+    "viewingPoint": {
+        "suggestion": 1344.9769666666666,
+        "opening": {
+            "start": 80.9809,
+            "end": 160.99416666666667
+        },
+        "ending": {
+            "start": 1344.9769666666666,
+            "end": 1434.9001333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-66_s2_p35",
+        "title": "第35話　マジヤバ修学旅行 思い出作りは危険な香り",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721038808,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-66_s2_p34/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-66_eg0"
+}

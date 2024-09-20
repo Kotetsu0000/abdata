@@ -1,0 +1,147 @@
+{
+    "id": "5-57_s1_p15",
+    "series": {
+        "id": "5-57",
+        "title": "魔法つかいプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-57",
+            "filename": "thumb.png",
+            "query": "version=1723107923",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-57",
+            "filename": "portrait.png",
+            "query": "version=1723107923",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-57_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1459
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話　ハチャメチャ大混乱！はーちゃん七変化！",
+        "content": "お腹が減ったはーちゃんですが、みらいもリコもかまってくれず、仕方なく自分で、魔法で朝ご飯を出して食べました。お腹一杯になったはーちゃんですが、くしゃみをするたびに変身してしまうようです。そのまま外へ遊びに出掛け、みんなに目撃されて大騒ぎに！"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "キュアミラクル/朝日奈みらい：高橋李依",
+            "キュアマジカル/十六夜リコ：堀江由衣",
+            "モフルン：齋藤彩夏",
+            "キュアフェリーチェ/花海ことは：早見沙織"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：野下 洋、植月幹夫、遠藤里紗、内藤圭祐",
+            "シリーズ構成：村山 功",
+            "シリーズディレクター：三塚雅人",
+            "製作担当：山崎尊宗",
+            "キャラクターデザイン：宮本絵美子",
+            "美術デザイン：増田竜太郎",
+            "色彩設計：佐久間ヨシ子",
+            "音楽：高木 洋"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721301564,
+    "endAt": 1740754800,
+    "transcodeVersion": "4JxMTf",
+    "sharedLink": {
+        "twitter": "https://abema.app/T8Wi",
+        "facebook": "https://abema.app/ZspM",
+        "google": "https://abema.app/hwnA",
+        "line": "https://abema.app/QVk9",
+        "copy": "https://abema.app/hSi8",
+        "instagram": "https://abema.app/F5Xc"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-57_s1_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-57_s1_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-57_s1_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-57_s1_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.2611666666667,
+        "opening": {
+            "start": 93.05129166666667,
+            "end": 182.09858333333332
+        },
+        "ending": {
+            "start": 1339.1711666666667,
+            "end": 1429.2194583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-57_s1_p16",
+        "title": "第16話　久しぶりっ！補習メイトがやってきた！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721301572,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726644600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-57_s1_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726644600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727307000
+        }
+    ],
+    "episodeGroupId": "5-57_eg0"
+}

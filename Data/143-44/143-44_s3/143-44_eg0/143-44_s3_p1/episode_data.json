@@ -1,0 +1,147 @@
+{
+    "id": "143-44_s3_p1",
+    "series": {
+        "id": "143-44",
+        "title": "ちはやふる",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "thumb.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-44",
+            "filename": "portrait.png",
+            "query": "version=1708656224",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-44_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1372
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第一首 なつのよは",
+        "content": "7月の全国大会で見事団体戦初優勝を果たした瑞沢高校かるた部。しかし、千早と太一は落ち着くことなく、富士崎高校かるた部の夏合宿に参加することになった。そこで待っていたのはストレッチやランニングに加え1日7試合もおこなう桜沢先生のスパルタ指導だった――！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "綾瀬千早：瀬戸麻沙美",
+            "綿谷 新：細谷佳正",
+            "真島太一：宮野真守",
+            "大江 奏：茅野愛衣",
+            "西田優征：奈良 徹",
+            "駒野 勉：代永 翼",
+            "花野 菫：潘めぐみ",
+            "筑波秋博：入野自由",
+            "猪熊 遥：坂本真綾"
+        ],
+        "crews": [
+            "原作：末次由紀（講談社「BE・LOVE」連載）",
+            "監督：浅香守生",
+            "シリーズ構成：柿原優子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "色彩設計：大野春恵",
+            "撮影監督：伏原あかね",
+            "CG監督：鈴木大輝",
+            "特殊効果：チーム・タニグチ",
+            "編集：木村佳史子",
+            "音楽：山下康介",
+            "音響監督：三間雅文",
+            "アニメーション制作：マッドハウス",
+            "オープニングテーマ：99RadioService 「COLORFUL」",
+            "エンディングテーマ：バンドハラスメント 「一目惚れ」",
+            "制作著作：アニメ「ちはやふる」プロジェクト2019"
+        ],
+        "copyrights": [
+            "(C)末次由紀／講談社・アニメ「ちはやふる」プロジェクト2019"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1709261821,
+    "endAt": 1743433200,
+    "freeEndAt": 1743433200,
+    "transcodeVersion": "5UqPZo",
+    "sharedLink": {
+        "twitter": "https://abema.app/vFYc",
+        "facebook": "https://abema.app/kuCx",
+        "google": "https://abema.app/kxQ4",
+        "line": "https://abema.app/gR2S",
+        "copy": "https://abema.app/LyHB",
+        "instagram": "https://abema.app/2FWu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-44_s3_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-44_s3_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/143-44_s3_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-44_s3_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-44_s3_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1367.0323333333333
+    },
+    "nextProgramInfo": {
+        "programId": "143-44_s3_p2",
+        "title": "第二首 あさぼらけありあけのつきと",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1709261830,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-44_s3_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "143-44_eg0"
+}

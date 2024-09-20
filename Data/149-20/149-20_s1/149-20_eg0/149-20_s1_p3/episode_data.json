@@ -1,0 +1,162 @@
+{
+    "id": "149-20_s1_p3",
+    "series": {
+        "id": "149-20",
+        "title": "人間不信の冒険者たちが世界を救うようです",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-20",
+            "filename": "thumb.png",
+            "query": "version=1674634126",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-20",
+            "filename": "portrait.png",
+            "query": "version=1674634126",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "149-20_s1",
+        "sequence": 1,
+        "name": "シリーズ1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 「カランの秘密」",
+        "content": "竜人族の使命、それは勇者となる人間に仕え、世界を救うこと。カランはその使命を託せると信じた仲間に裏切られ、捨てられた過去があった。解き明かされるカランの境遇。サバイバーズの仲間たちは彼女の救いとなれるのだろうか？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ニック：小林裕介",
+            "ティアーナ：渡部紗弓",
+            "カラン：菊池紗矢香",
+            "ゼム：土岐隼一",
+            "キズナ：小松未可子",
+            "アゲート：石原夏織"
+        ],
+        "crews": [
+            "原作：富士伸太（『人間不信の冒険者たちが世界を救うようです』MFブックス/KADOKAWA刊）",
+            "キャラクター原案：黒井ススム",
+            "原作企画：フロンティアワークス",
+            "監督/シリーズ構成：いまざきいつき",
+            "キャラクターデザイン/総作画監督：長尾浩生",
+            "プロップデザイン：野沢弘樹",
+            "色彩設計：近藤直登",
+            "美術監督：SeoJungho",
+            "美術設定：中原英統",
+            "助監督/撮影監督/編集：堀川和人",
+            "音楽：高橋 諒、宝野聡史、藤井亮太",
+            "音響監督：納谷僚介",
+            "音楽制作：ポニーキャニオン",
+            "音楽制作協力：アップドリーム",
+            "アニメーション制作：GEEKTOYS",
+            "アニメーション制作協力：アニメーションスタジオ・セブン"
+        ],
+        "copyrights": [
+            "(C)富士伸太/MFブックス「人間不信の冒険者たちが世界を救うようです」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683627628,
+    "endAt": 1743433200,
+    "transcodeVersion": "XCDBj",
+    "sharedLink": {
+        "twitter": "https://abema.app/DDCx",
+        "facebook": "https://abema.app/C7av",
+        "google": "https://abema.app/XphY",
+        "line": "https://abema.app/g1cE",
+        "copy": "https://abema.app/fWgw",
+        "instagram": "https://abema.app/NYtQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/149-20_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/149-20_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/149-20_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.149-20_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1337.692888,
+        "opening": {
+            "start": 39.300442,
+            "end": 128.191139
+        },
+        "ending": {
+            "start": 1338.356197,
+            "end": 1415.994139
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "149-20_s1_p4",
+        "title": "第4話 「絆の迷宮」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1683627628,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/149-20_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "149-20_eg0"
+}

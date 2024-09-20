@@ -1,0 +1,153 @@
+{
+    "id": "30-3_s0_p23",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s1",
+        "sequence": 1,
+        "name": "Season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1447
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "#23 微笑み ～ストヘス区急襲①～",
+        "content": "第57回壁外調査は、人類のなかに潜む敵━━巨人化能力を持ち、壁の破壊を企む人間を捉える作戦でもあった。しかし、調査兵団はこの作戦に失敗してしまう。政治的判断からエルヴィンら責任者が王都に召集されるだけでなく、エレンの引き渡しも決まってしまう。そんなおり、ストヘス区憲兵団支部に所属するアニは、調査兵団がストヘス区を通過する間の警備を命じられる。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創",
+            "監督：荒木哲郎",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248133,
+    "endAt": 1730386800,
+    "transcodeVersion": "2aM9C1",
+    "sharedLink": {
+        "twitter": "https://abema.app/fzrw",
+        "facebook": "https://abema.app/fquG",
+        "google": "https://abema.app/S2zt",
+        "line": "https://abema.app/DN27",
+        "copy": "https://abema.app/5ySm",
+        "instagram": "https://abema.app/3x4U"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/30-3_s0_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/30-3_s0_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/30-3_s0_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-3_s0_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.060922,
+        "opening": {
+            "end": 90.044488
+        },
+        "ending": {
+            "start": 1342.063922,
+            "end": 1432.018455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-3_s0_p24",
+        "title": "#24 慈悲 ～ストヘス区急襲②～",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248133,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-3_s0_p23/timeline",
+        "query": "version=2aM9C1",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

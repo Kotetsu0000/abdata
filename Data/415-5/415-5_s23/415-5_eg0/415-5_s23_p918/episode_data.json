@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s23_p918",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s23",
+        "sequence": 23,
+        "name": "season23",
+        "thumbComponent": {},
+        "order": 23
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 918,
+        "title": "第918話 ミニパトポリス大追跡",
+        "content": "コナンたちとデパートに来た元太が2人組に連れ去られる事件が起きる。2人組はワンボックスカーに乗って逃走。コナン、光彦、歩美は交通課の由美と苗子を見つけ、ミニパトで追跡してほしいと頼む。コナンは元太が持っているDBバッジを通して車内の2人組の会話を聞く。光彦はその会話から2人組が宝石泥棒だと推理する。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "3cwPAZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/Zqyg",
+        "facebook": "https://abema.app/1Bwb",
+        "google": "https://abema.app/1uWD",
+        "line": "https://abema.app/mRnE",
+        "copy": "https://abema.app/2KFo",
+        "instagram": "https://abema.app/aMzy"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s23_p918/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s23_p918/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s23_p918/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s23_p918"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 92.17541666666666,
+            "end": 191.94175
+        },
+        "ending": {
+            "start": 1186.43525,
+            "end": 1266.390125
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s23_p919",
+        "title": "第919話 JKトリオ秘密のカフェ（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s23_p918/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

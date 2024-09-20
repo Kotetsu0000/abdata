@@ -1,0 +1,137 @@
+{
+    "id": "5-8_s0_p43",
+    "series": {
+        "id": "5-8",
+        "title": "トリコ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "thumb.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "portrait.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1337
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 43,
+        "title": "第43話　絆の一品！ パートナーは永遠に",
+        "content": "七色ネッシーのクリスが食べられる物を求めて、トリコら四天王はそれぞれ食材探しへと向かっていた。トリコと小松は究極のフルーツ・グランドベリーを狙い、サニーとリンはミルクジラのミルクを、ココはハニードラゴンのハチミツを狙う。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "トリコ：置鮎龍太郎",
+            "小松：朴璐美",
+            "ココ：櫻井孝宏",
+            "サニー：岩田光央",
+            "ゼブラ：松田賢二"
+        ],
+        "crews": [
+            "原作：島袋光年（集英社・週刊少年ジャンプ連載）",
+            "企画：高瀬敦也、渡辺和哉、清水慎治",
+            "プロデューサー：情野誠人、佐川直子、鷲尾天",
+            "シリーズ構成：村山功",
+            "音楽：水谷広実"
+        ],
+        "copyrights": [
+            "(C)島袋光年／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689061324,
+    "endAt": 1740754800,
+    "transcodeVersion": "5Tx7yN",
+    "sharedLink": {
+        "twitter": "https://abema.app/CfRn",
+        "facebook": "https://abema.app/CwvK",
+        "google": "https://abema.app/9XFn",
+        "line": "https://abema.app/i3QA",
+        "copy": "https://abema.app/xXVo",
+        "instagram": "https://abema.app/5Tjm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p43/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p43/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-8_s0_p43/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-8_s0_p43"
+    },
+    "viewingPoint": {
+        "suggestion": 1322.911455,
+        "opening": {
+            "start": 17.974488,
+            "end": 102.892755
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-8_s0_p44",
+        "title": "第44話　白熱！ トリコ対ＩＧＯ会長！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689061324,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-8_s0_p43/timeline",
+        "query": "version=5Tx7yN",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-8_eg0"
+}

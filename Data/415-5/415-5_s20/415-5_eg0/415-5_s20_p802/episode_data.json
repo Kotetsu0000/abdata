@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s20_p802",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s20",
+        "sequence": 20,
+        "name": "season20",
+        "thumbComponent": {},
+        "order": 20
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 802,
+        "title": "第802話 鳥取砂丘ミステリーツアー（鳥取編）",
+        "content": "鳥取の名家、熊堂家から家宝の香炉が盗まれた。小五郎は巌、万亀江、惣一、淳二という熊堂家の誰かが犯人と推理。コナンは直美のわざとらしいアリバイが引っかかり、直美の伯父、足立が働くなしっこ館を訪ねる。コナンは足立から修子が弱みを握られている状況を知り、修子が縛られていた訳に気付く。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066314,
+    "endAt": 1740754800,
+    "transcodeVersion": "4bB9rH",
+    "sharedLink": {
+        "twitter": "https://abema.app/82N5",
+        "facebook": "https://abema.app/9fL7",
+        "google": "https://abema.app/G1cs",
+        "line": "https://abema.app/x4e1",
+        "copy": "https://abema.app/xuWs",
+        "instagram": "https://abema.app/Guas"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s20_p802/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s20_p802/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s20_p802/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s20_p802"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667,
+        "opening": {
+            "start": 47.21383333333333,
+            "end": 146.020875
+        },
+        "ending": {
+            "start": 1296.0030416666666,
+            "end": 1375.9579166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s20_p803",
+        "title": "第803話 火の用心の落とし穴",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066314,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s20_p802/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

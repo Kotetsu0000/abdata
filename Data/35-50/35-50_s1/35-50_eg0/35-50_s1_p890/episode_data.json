@@ -1,0 +1,131 @@
+{
+    "id": "35-50_s1_p890",
+    "series": {
+        "id": "35-50",
+        "title": "クレヨンしんちゃん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "thumb.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "portrait.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-50_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 484
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 890,
+        "title": "#890 三角関係ベースボールだゾ",
+        "content": "ネネちゃんをピッチャーに、三角ベースをすることになるしんのすけ達。だがネネちゃんはピッチャーとしてまともな球を投げず、試合は意外な方向へ……!?"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "野原しんのすけ：矢島晶子or小林由美子",
+            "野原みさえ：ならはしみき",
+            "野原ひろし：藤原啓治or森川智之",
+            "野原ひまわり：こおろぎさとみ",
+            "風間くん：真柴摩利",
+            "ネネちゃん：林 玉緒",
+            "マサオくん：一龍斎貞友",
+            "ボーちゃん：佐藤智恵"
+        ],
+        "crews": [
+            "監督：ムトウユージ"
+        ],
+        "copyrights": [
+            "(C)臼井儀人/双葉社・シンエイ・テレビ朝日・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719800055,
+    "endAt": 1730386800,
+    "transcodeVersion": "29rQYh",
+    "sharedLink": {
+        "twitter": "https://abema.app/cacv",
+        "facebook": "https://abema.app/W9ke",
+        "google": "https://abema.app/WQr3",
+        "line": "https://abema.app/ve3K",
+        "copy": "https://abema.app/QXT9",
+        "instagram": "https://abema.app/1Xfn"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-50_s1_p890/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-50_s1_p890/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-50_s1_p890/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-50_s1_p890"
+    },
+    "viewingPoint": {
+        "suggestion": 479.93779166666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-50_s1_p891",
+        "title": "#891 おパンツストーリーだゾ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719800055,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-50_s1_p890/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "35-50_eg0"
+}

@@ -1,0 +1,175 @@
+{
+    "id": "168-26_s1_p22",
+    "series": {
+        "id": "168-26",
+        "title": "フルーツバスケット 1st season",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-26",
+            "filename": "thumb.png",
+            "query": "version=1627289231",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-26",
+            "filename": "portrait.png",
+            "query": "version=1627289231",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-26_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 22,
+        "title": "#22 だって嬉しかったのよ",
+        "content": "人の心の声、所謂“電波”を受け取ることができる花島。しかし、幼い頃はコントロールすることが難しく、頭に響く声に苦しめられていた。家族に迷惑をかけたくないと小学生の時から他人と距離を置くも、周りからは「魔女」と呼ばれてイジメられる日々。それがエスカレートしたことで、とある事件が起こってしまい……。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "本田 透：石見舞菜香",
+            "草摩 由希：島﨑信長",
+            "草摩 夾：内田雄馬",
+            "草摩 紫呉：中村悠一",
+            "草摩 楽羅：釘宮理恵",
+            "草摩 紅葉：潘 めぐみ",
+            "草摩 潑春：古川 慎",
+            "草摩 はとり：興津和幸",
+            "草摩 綾女：櫻井孝宏",
+            "草摩 慊人：坂本真綾",
+            "魚谷 ありさ：種﨑敦美",
+            "花島 咲：佐藤聡美",
+            "本田 今日子：沢城みゆき",
+            "ほか"
+        ],
+        "crews": [
+            "原作・総監修：高屋奈月「フルーツバスケット」（白泉社・花とゆめCOMICS）",
+            "監督：井端義秀",
+            "シリーズ構成：岸本 卓",
+            "キャラクターデザイン：進藤 優",
+            "美術監督：神山瑶子",
+            "色彩設計：菅原美佳",
+            "撮影監督：設楽 希",
+            "編集：肥田 文",
+            "音響監督：明田川 仁",
+            "音楽：横山 克",
+            "音楽制作：トムス・ミュージック",
+            "アニメーション制作：トムス・エンタテインメント",
+            "製作：フルーツバスケット製作委員会"
+        ],
+        "copyrights": [
+            "(C)高屋奈月・白泉社／フルーツバスケット製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1700193506,
+    "endAt": 1740754800,
+    "transcodeVersion": "3RDhiT",
+    "sharedLink": {
+        "twitter": "https://abema.app/2Uu9",
+        "facebook": "https://abema.app/wn79",
+        "google": "https://abema.app/Fchf",
+        "line": "https://abema.app/JKfv",
+        "copy": "https://abema.app/7bF5",
+        "instagram": "https://abema.app/Y7D6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-26_s1_p22/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-26_s1_p22/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-26_s1_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-26_s1_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1334.9336,
+        "opening": {
+            "start": 54.054,
+            "end": 141.0409
+        },
+        "ending": {
+            "start": 1334.9669666666666,
+            "end": 1421.9872333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-26_s1_p23",
+        "title": "#23 元気そうだな……",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1700193506,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-26_s1_p22/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "168-26_eg0"
+}

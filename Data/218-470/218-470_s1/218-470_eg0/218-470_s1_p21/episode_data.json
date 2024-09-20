@@ -1,0 +1,115 @@
+{
+    "id": "218-470_s1_p21",
+    "series": {
+        "id": "218-470",
+        "title": "5周年記念 声優と夜あそび28時間テレビ 大感謝祭 ~Say You Thank You~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "thumb.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-470",
+            "filename": "portrait.png",
+            "query": "version=1658915580",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-470_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1725
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "視聴者が選ぶ！もう１度観たいあのあそび！〜すごろく〜",
+        "content": "視聴者が選んだもう一度観たいあのあそびをやってみよう！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "岡本信彦",
+            "岩田光央",
+            "畠中祐"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1680241391,
+    "endAt": 1755702000,
+    "transcodeVersion": "4QYb7c",
+    "sharedLink": {
+        "twitter": "https://abema.app/ELwG",
+        "facebook": "https://abema.app/8q4r",
+        "google": "https://abema.app/6GX2",
+        "line": "https://abema.app/41oP",
+        "copy": "https://abema.app/cKbB",
+        "instagram": "https://abema.app/Mj87"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p21/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-470_s1_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-470_s1_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1720.090033
+    },
+    "nextProgramInfo": {
+        "programId": "218-470_s1_p22",
+        "title": "視聴者が選ぶ！ もう１度観たいあのあそび！〜ルビ無しニュース〜",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1680241391,
+        "endAt": 1755702000,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755702000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-470_s1_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755702000
+        }
+    ],
+    "episodeGroupId": "218-470_eg0"
+}

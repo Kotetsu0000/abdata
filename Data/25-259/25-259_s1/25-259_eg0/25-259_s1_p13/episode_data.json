@@ -1,0 +1,167 @@
+{
+    "id": "25-259_s1_p13",
+    "series": {
+        "id": "25-259",
+        "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "thumb.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "portrait.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-259_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_28",
+                "name": "歴史・戦記"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13幕 三人の晩餐と二人の午後",
+        "content": "リュビンハイゲンでの金の密輸は、ホロとノーラの協力もあって成功を収め、ロレンスは無事借金を返済することができた。ロレンスは今回の件を労るために酒場に一席設けて、ノーラと身の上話に花を咲かせる。しかしホロはどこか元気がなく、美味しい料理を目の前にしてもあまり手をつけずにいた。そしてふとした拍子に椅子から倒れて、気を失ってしまう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クラフト・ロレンス：福山 潤",
+            "ホロ：小清水亜美"
+        ],
+        "crews": [
+            "原作：支倉凍砂（電撃文庫『狼と香辛料』/ＫＡＤＯＫＡＷＡ刊）",
+            "キャラクター原案：文倉 十",
+            "総監督：高橋丈夫",
+            "監督：さんぺい 聖",
+            "音楽：Kevin Penkin",
+            "プロデュース：ENISHIYA",
+            "アニメーション制作：パッショーネ"
+        ],
+        "copyrights": [
+            "(C)2024 支倉凍砂・KADOKAWA／ローエン商業組合"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725962588,
+    "endAt": 1790780400,
+    "freeEndAt": 1727096400,
+    "transcodeVersion": "5fMgUM",
+    "sharedLink": {
+        "twitter": "https://abema.app/XCkb",
+        "facebook": "https://abema.app/fWZ8",
+        "google": "https://abema.app/Btwp",
+        "line": "https://abema.app/rnng",
+        "copy": "https://abema.app/eDCs",
+        "instagram": "https://abema.app/yEDn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-259_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-259_s1_p13/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-259_s1_p13/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-259_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-259_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9902333333334,
+        "opening": {
+            "start": 32.032,
+            "end": 121.95516666666667
+        },
+        "ending": {
+            "start": 1302.0007,
+            "end": 1391.9238666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-259_s1_p14",
+        "title": "第14幕 新しい町と望郷の思い",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1725962588,
+        "endAt": 1790780400,
+        "freeEndAt": 1727096400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727096400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-259_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727096400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "25-259_eg0"
+}

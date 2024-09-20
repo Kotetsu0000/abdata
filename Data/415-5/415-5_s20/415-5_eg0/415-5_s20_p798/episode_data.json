@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s20_p798",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s20",
+        "sequence": 20,
+        "name": "season20",
+        "thumbComponent": {},
+        "order": 20
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 798,
+        "title": "第798話 動く標的",
+        "content": "コナンはビル屋上から会社員の袋小路が落下する現場を目撃する。真下には会社員の小松が佇んでおり、直撃すれば危険な状態。コナンはボールを袋小路に向かって蹴り、袋小路はゴミの山に落ちて助かる。翌朝、目暮警部たちが捜査をしていた。目暮は、誰かが袋小路を屋上まで運んで落とした殺人未遂事件と考えていた。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066314,
+    "endAt": 1740754800,
+    "transcodeVersion": "6m2hcp",
+    "sharedLink": {
+        "twitter": "https://abema.app/zfsu",
+        "facebook": "https://abema.app/1F1G",
+        "google": "https://abema.app/MrCZ",
+        "line": "https://abema.app/dgjf",
+        "copy": "https://abema.app/LwWq",
+        "instagram": "https://abema.app/M6vJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s20_p798/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s20_p798/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s20_p798/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s20_p798"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667,
+        "opening": {
+            "start": 111.19441666666667,
+            "end": 209.95975
+        },
+        "ending": {
+            "start": 1320.193875,
+            "end": 1400.14875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s20_p799",
+        "title": "第799話 探偵団の密室推理合戦",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066314,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s20_p798/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

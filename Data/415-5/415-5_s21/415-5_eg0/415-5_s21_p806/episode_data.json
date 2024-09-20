@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s21_p806",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s21",
+        "sequence": 21,
+        "name": "season21",
+        "thumbComponent": {},
+        "order": 21
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 806,
+        "title": "第806話 腹話術師の錯覚（前編）",
+        "content": "小五郎、コナン、蘭は人気腹話術師の天願リイチのライブにやってくる。小五郎は天願から仕事を依頼されたのだ。ライブの演目は相棒の人形に魂を乗っ取られた腹話術師が妻を殺害するという内容だった。ライブ後、小五郎たちが楽屋に向かうと、天願の弟子、登川春臣と天願の妻、天願和子の会話が聞こえてくる。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066316,
+    "endAt": 1740754800,
+    "transcodeVersion": "PUezT",
+    "sharedLink": {
+        "twitter": "https://abema.app/1Kio",
+        "facebook": "https://abema.app/hox7",
+        "google": "https://abema.app/k2Cw",
+        "line": "https://abema.app/wx2G",
+        "copy": "https://abema.app/UVgz",
+        "instagram": "https://abema.app/jUWM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p806/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p806/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p806/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s21_p806"
+    },
+    "viewingPoint": {
+        "suggestion": 1344.9269166666666,
+        "opening": {
+            "start": 118.743625,
+            "end": 218.96875
+        },
+        "ending": {
+            "start": 1344.8852083333334,
+            "end": 1424.7149583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s21_p807",
+        "title": "第807話 腹話術師の錯覚（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066316,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s21_p806/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,157 @@
+{
+    "id": "13-20xc-mkyminy_s0_p25",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s1",
+        "sequence": 1,
+        "name": "1年目",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 25,
+        "title": "第25話 鍋は人生の縮図である",
+        "content": "祝放送半年！ということで、寄せ集めの総集編でお茶を濁そうなどと話をしている万事屋一行。しかし本心はそこには無く、久々に食卓へのぼったすき焼きから注意を逸らし、一切れでも多く肉にありつこうと、お互いが牽制しあっていたのだ。激しい腹の探り合いが繰り広げられる中、銀時と新八が神楽を陥れ鍋へと襲い掛かる。が、勢い余って鍋の中身は四散。騙されたと気づいた神楽は銀時と言い争いを始める。殺伐とした空気が流れる中、先程の悲劇を繰り返さぬために、まずは肉の安全を確保することが先決と思案を巡らせる新八。と、そこへ新たな鍋の参加者が…肉争奪戦はますます混迷の一途を辿る。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684296387,
+    "endAt": 1740754800,
+    "freeEndAt": 1726835820,
+    "transcodeVersion": "6u3Ha7",
+    "sharedLink": {
+        "twitter": "https://abema.app/XxGW",
+        "facebook": "https://abema.app/JWfs",
+        "google": "https://abema.app/hxmn",
+        "line": "https://abema.app/JDxz",
+        "copy": "https://abema.app/9ALA",
+        "instagram": "https://abema.app/2tWQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p25/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/13-20xc-mkyminy_s0_p25/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-20xc-mkyminy_s0_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-20xc-mkyminy_s0_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1475.48922,
+        "opening": {
+            "start": 122.009866,
+            "end": 219.039133
+        },
+        "ending": {
+            "start": 1350.1034,
+            "end": 1440.058933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-20xc-mkyminy_s0_p26",
+        "title": "第26話 恥ずかしがらずに手を挙げて言え",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296387,
+        "endAt": 1740754800,
+        "freeEndAt": 1726779600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726779600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-20xc-mkyminy_s0_p25/timeline",
+        "query": "version=6u3Ha7",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726835820
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

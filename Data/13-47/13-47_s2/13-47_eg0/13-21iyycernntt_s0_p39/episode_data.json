@@ -1,0 +1,144 @@
+{
+    "id": "13-21iyycernntt_s0_p39",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s2",
+        "sequence": 2,
+        "name": "2年目",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 39,
+        "title": "第88話 合コンは始まるまでが一番楽しい",
+        "content": "九兵衛の部屋から『天人の最新技術でロリータな女の子もナイスガイに変身！』などと書かれた整形外科のチラシを見つけた東城。本来女の子である若が男になろうとしているかもしれないと心配し、その企みを阻止すべく銀時らに相談を持ちかけた。若に女であることを自覚させるためには男に惚れさせればいい―ということで一同は無駄に意気込み、合コン開催する。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296388,
+    "endAt": 1743433200,
+    "transcodeVersion": "67XRZH",
+    "sharedLink": {
+        "twitter": "https://abema.app/w7CC",
+        "facebook": "https://abema.app/k1sS",
+        "google": "https://abema.app/3tjR",
+        "line": "https://abema.app/ZvGT",
+        "copy": "https://abema.app/2Kqc",
+        "instagram": "https://abema.app/kcdb"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p39/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p39/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p39/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-21iyycernntt_s0_p39"
+    },
+    "viewingPoint": {
+        "suggestion": 1377.063666,
+        "opening": {
+            "end": 88.0416
+        },
+        "ending": {
+            "start": 1377.063666,
+            "end": 1465.083933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-21iyycernntt_s0_p40",
+        "title": "第89話 2度あることは3度ある",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296388,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-21iyycernntt_s0_p39/timeline",
+        "query": "version=67XRZH",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

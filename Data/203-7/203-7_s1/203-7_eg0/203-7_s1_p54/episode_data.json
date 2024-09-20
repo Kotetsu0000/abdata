@@ -1,0 +1,155 @@
+{
+    "id": "203-7_s1_p54",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 54,
+        "title": "第54話 ユウナの決意",
+        "content": "『オペレーションＭＩＫ』迷惑異星人完全排除を目的としたこの計画は、宇宙人とその関係者を地下宇宙人居住区に追いやった。反旗を翻し、単身ゴーハ堂へと戻ってきたユウナは、社長室で待ち構えていたマナブにフェイザーの行方を聞き出そうとデュエルを挑む！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944780,
+    "endAt": 1743433200,
+    "transcodeVersion": "iKD4K",
+    "sharedLink": {
+        "twitter": "https://abema.app/NgDn",
+        "facebook": "https://abema.app/CCBs",
+        "google": "https://abema.app/SRPE",
+        "line": "https://abema.app/tQoJ",
+        "copy": "https://abema.app/ezvF",
+        "instagram": "https://abema.app/c7xL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p54/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p54/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-7_s1_p54/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p54"
+    },
+    "viewingPoint": {
+        "suggestion": 1320.075288,
+        "opening": {
+            "start": 81.444081,
+            "end": 170.535368
+        },
+        "ending": {
+            "start": 1320.204205,
+            "end": 1409.747905
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-7_s1_p55",
+        "title": "第55話 第８宇宙人中学校",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944780,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p54/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

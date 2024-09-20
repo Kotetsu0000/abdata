@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p888",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 646
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 888,
+        "title": "#888 アトカラホントスピーカー",
+        "content": "今日も調子のいいウソばかりつくスネ夫にあきれるのび太。そんな中、空き地でジャイアンが人気アイドルのいとうつばさの生写真をじまんしているのを見たスネ夫は、自分はつばさと友だちで、今日あたり家に来るかもしれないとウソをついてしまう。すると、それを聞いたジャイアンが大こうふん！ 写真を撮（と）らせてほしいと言い出して…。\n　後に引けなくなってしまったスネ夫に泣きつかれたドラえもんは、しかたなく『アトカラホントスピーカー』をかすことに。これを口に入れたままついたウソは、あとから本当のことになるのだという。スネ夫がためしに、「オオカミが来たぞ」と言ってみたところ、なんと本当にのび太の部屋にオオカミが飛びこんできたからビックリ！ 動物園からにげ出したシベリアオオカミで、おいかけてきた猟友会（りょうゆうかい）のおじさんが撃（う）った麻酔銃（ますいじゅう）で、危機一髪（ききいっぱつ）助かる。\n　その後、スネ夫が「つばさちゃんが、うちへ来るぞー！」と言いながら帰宅すると、本当につばさがやってきて…！？"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335975,
+    "endAt": 1730386800,
+    "transcodeVersion": "5JxwyK",
+    "sharedLink": {
+        "twitter": "https://abema.app/GhC2",
+        "facebook": "https://abema.app/zq3C",
+        "google": "https://abema.app/KJ3H",
+        "line": "https://abema.app/VjdN",
+        "copy": "https://abema.app/qLnX",
+        "instagram": "https://abema.app/9mit"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p888/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p888/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p888/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p888"
+    },
+    "viewingPoint": {
+        "suggestion": 641.9413
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p889",
+        "title": "#889 22世紀で夏休み（ドラえもんの里帰り）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335975,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p888/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

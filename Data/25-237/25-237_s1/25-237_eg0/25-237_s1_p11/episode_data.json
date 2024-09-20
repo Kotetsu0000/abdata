@@ -1,0 +1,151 @@
+{
+    "id": "25-237_s1_p11",
+    "series": {
+        "id": "25-237",
+        "title": "久保さんは僕を許さない",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "thumb.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "portrait.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-237_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 映画館と表情筋",
+        "content": "大好きな漫画の映画公開を金曜日に控えて上機嫌な白石くん。以前、白石くんから勧められて漫画を読んでいた久保さんは、一緒に映画を観に行こうと誘い出す。そして迎えた当日。可愛くおしゃれにおめかししたポニーテール姿の久保さんと映画館に向かう白石くんだったが、街中では存在感が薄すぎて、白石くんが隣にいるのに、久保さんに声を掛ける男たちが現れてしまう。困っている様子の久保さんを見て、白石くんは――。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "久保渚咲：花澤香菜",
+            "白石純太：河西健吾",
+            "久保明菜：伊藤美来",
+            "久保沙貴：雨宮 天",
+            "工藤葉月：加隈亜衣",
+            "平玉緒：竹達彩奈"
+        ],
+        "crews": [
+            "原作：雪森寧々（集英社「週刊ヤングジャンプ」連載）",
+            "監督：古賀一臣",
+            "シリーズ構成・脚本：高橋悠也",
+            "キャラクターデザイン：齊藤佳子",
+            "アニメーション制作：PINE JAM"
+        ],
+        "copyrights": [
+            "(C)雪森寧々／集英社・久保さんは僕を許さない製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1687342267,
+    "endAt": 1751295600,
+    "transcodeVersion": "6yR67P",
+    "sharedLink": {
+        "twitter": "https://abema.app/x1Y6",
+        "facebook": "https://abema.app/oe1h",
+        "google": "https://abema.app/fRBw",
+        "line": "https://abema.app/UwwE",
+        "copy": "https://abema.app/4HUr",
+        "instagram": "https://abema.app/eWqz"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-237_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-237_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-237_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-237_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.074214,
+        "opening": {
+            "start": 74.053755,
+            "end": 161.053755
+        },
+        "ending": {
+            "start": 1330.074214,
+            "end": 1417.132426
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-237_s1_p12",
+        "title": "第12話 主役とお祝い",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1687565341,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-237_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "25-237_eg0"
+}

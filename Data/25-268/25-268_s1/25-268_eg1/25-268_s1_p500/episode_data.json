@@ -1,0 +1,126 @@
+{
+    "id": "25-268_s1_p500",
+    "series": {
+        "id": "25-268",
+        "title": "義妹生活",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-268",
+            "filename": "thumb.png",
+            "query": "version=1722826041",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-268",
+            "filename": "portrait.png",
+            "query": "version=1722826041",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-268_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 117
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【7/9より毎週火曜22:00~配信】",
+        "content": "高校生・浅村悠太は父・太一の再婚をきっかけに、同い年の少女・綾瀬沙季とその母・亜季子と一つ屋根の下で暮らしていくこととなる。\n互いに両親の不仲と離婚を経験しているがゆえに、男女関係に慎重な価値観の二人は、義理の兄妹として適切な距離感を保とうと約束する。\n\n「私はあなたに何も期待しないから、あなたも私に何も期待しないでほしいの」\n\n考えを述べあい、すり合わせを重ねることで、互いを理解していく悠太と沙季。\n新たな生活に居心地の良さを感じはじめた時、二人の関係はゆっくりと、しかし確実に、変化をはじめて…………\n\nこれは、いつか恋に至るかもしれない物語。\n“他人”が“家族”へ、そしてその先へ。\n少しずつ変わりゆく日々を映す、恋愛生活物語。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "浅村悠太：天﨑滉平",
+            "綾瀬沙季：中島由貴",
+            "読売 栞：鈴木みのり",
+            "奈良坂真綾：鈴木愛唯",
+            "丸 友和：濱野大輝",
+            "浅村太一：小林親弘",
+            "綾瀬亜季子：上田麗奈"
+        ],
+        "crews": [
+            "原作：三河ごーすと（MF文庫J「義妹生活」／KADOKAWA刊）",
+            "キャラクター原案：Hiten",
+            "監督： 上野壮大",
+            "シリーズ構成：広田光毅",
+            "キャラクターデザイン：仁井 学",
+            "音響監督：小沼則義",
+            "音響効果：山田香織",
+            "音響制作：100studio",
+            "音楽：CITOCA",
+            "音楽制作：one cushion",
+            "inc / 日本コロムビア",
+            "アニメーション制作：スタジオディーン"
+        ],
+        "copyrights": [
+            "(C)三河ごーすと・Hiten/KADOKAWA/義妹生活製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035469,
+    "endAt": 1727708400,
+    "freeEndAt": 1727708400,
+    "transcodeVersion": "5EjhZy",
+    "sharedLink": {
+        "twitter": "https://abema.app/8y1d",
+        "facebook": "https://abema.app/DrfU",
+        "google": "https://abema.app/mjEJ",
+        "line": "https://abema.app/1z7P",
+        "copy": "https://abema.app/CKTz",
+        "instagram": "https://abema.app/Pkaa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-268_s1_p500/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-268_s1_p500/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-268_s1_p500/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-268_s1_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-268_s1_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 112.40395833333334
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-268_s1_p500/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "25-268_eg1"
+}

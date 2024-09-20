@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s18_p689",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s18",
+        "sequence": 18,
+        "name": "season18",
+        "thumbComponent": {},
+        "order": 18
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 689,
+        "title": "第689話 依頼人からのメッセージ",
+        "content": "小五郎に彼氏の浮気調査を依頼した後、石段から落ちて他界した笹森薫。兄の隆司は薫の恋人だった柘植を疑っていた。\n　３ヵ月後、柘植から犯人を教えると連絡があり、小五郎はコナン、蘭と共に山中にある柘植のアトリエへ向かう。到着後、コナンたちはアトリエで頭から血を流して絶命した柘植を発見する。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、山川剛史",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "yvSzC",
+    "sharedLink": {
+        "twitter": "https://abema.app/ChCy",
+        "facebook": "https://abema.app/jMFw",
+        "google": "https://abema.app/ysJ5",
+        "line": "https://abema.app/navA",
+        "copy": "https://abema.app/Bpy2",
+        "instagram": "https://abema.app/oRRE"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s18_p689/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s18_p689/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s18_p689/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s18_p689"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.425,
+        "opening": {
+            "start": 96.76333333333334,
+            "end": 183.41656666666665
+        },
+        "ending": {
+            "start": 1302.8682333333334,
+            "end": 1382.8481333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s18_p690",
+        "title": "第690話 工藤優作の未解決事件（コールド・ケース）（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s18_p689/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,153 @@
+{
+    "id": "5-66_s2_p15",
+    "series": {
+        "id": "5-66",
+        "title": "ふたりはプリキュアMaxHeart",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "thumb.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-66",
+            "filename": "portrait.png",
+            "query": "version=1721036047",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-66_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1464
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話　あこがれの先輩は大親友!?",
+        "content": "クラスメートの奈緒と美羽に誘われ、ひかりは遊びに出かける。初めてできた友達に、ひかりの表情は徐々に明るくなっていく。やがて奈緒と美羽の話題は、あこがれの先輩のことになり、ひかりは奈緒と美羽が、なぎさとほのかにあこがれていることを知る。そこへ偶然にも、なぎさが現れ…。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "美墨なぎさ：本名陽子",
+            "雪城ほのか：ゆかな",
+            "九条ひかり：田中理恵",
+            "メップル：関 智一",
+            "ミップル：矢島晶子",
+            "ポルン：池澤春菜",
+            "ルルン：谷井あすか",
+            "美墨亮太：高橋直純",
+            "雪城さなえ：野沢雅子",
+            "藤田アカネ：藤田美歌子",
+            "高清水莉奈：徳光由禾",
+            "久保田志穂：仙台エリ",
+            "藤村省吾：岸尾大輔",
+            "クイーン：松谷彼哉"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：土肥繁葉樹、大野逸雄、亀田雅之、鶴崎りか、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズディレクター：西尾大介",
+            "シリーズ構成：川崎 良",
+            "キャラクターデザイン：稲上 晃",
+            "色彩設計：沢田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721038807,
+    "endAt": 1740754800,
+    "transcodeVersion": "2XBLBD",
+    "sharedLink": {
+        "twitter": "https://abema.app/eZVd",
+        "facebook": "https://abema.app/KQUp",
+        "google": "https://abema.app/NAKS",
+        "line": "https://abema.app/AHp1",
+        "copy": "https://abema.app/xQLh",
+        "instagram": "https://abema.app/HMhj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-66_s2_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-66_s2_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0103333333334,
+        "opening": {
+            "start": 58.058,
+            "end": 137.97116666666668
+        },
+        "ending": {
+            "start": 1345.0103333333334,
+            "end": 1434.9001333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-66_s2_p16",
+        "title": "第16話　なぎさノリノリ！ ラッキーカラーで絶好調!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721038807,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-66_s2_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-66_eg0"
+}

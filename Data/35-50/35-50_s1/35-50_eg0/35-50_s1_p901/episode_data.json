@@ -1,0 +1,131 @@
+{
+    "id": "35-50_s1_p901",
+    "series": {
+        "id": "35-50",
+        "title": "クレヨンしんちゃん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "thumb.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "portrait.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-50_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 901,
+        "title": "#901 耳フーラグビーで勝負だゾ",
+        "content": "相手の耳にフーッと息を吹きかけ、ボールを奪うという新しいスポーツ「耳フーラグビー」。この変なラグビーでチーター達と勝負することになったしんのすけ達は……！？"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "野原しんのすけ：矢島晶子or小林由美子",
+            "野原みさえ：ならはしみき",
+            "野原ひろし：藤原啓治or森川智之",
+            "野原ひまわり：こおろぎさとみ",
+            "風間くん：真柴摩利",
+            "ネネちゃん：林 玉緒",
+            "マサオくん：一龍斎貞友",
+            "ボーちゃん：佐藤智恵"
+        ],
+        "crews": [
+            "監督：ムトウユージ"
+        ],
+        "copyrights": [
+            "(C)臼井儀人/双葉社・シンエイ・テレビ朝日・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719800055,
+    "endAt": 1740754800,
+    "transcodeVersion": "3Zn6Ki",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZDN9",
+        "facebook": "https://abema.app/6Y3A",
+        "google": "https://abema.app/2fwC",
+        "line": "https://abema.app/XWBH",
+        "copy": "https://abema.app/CpTS",
+        "instagram": "https://abema.app/bdBZ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p901/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p901/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p901/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-50_s1_p901"
+    },
+    "viewingPoint": {
+        "suggestion": 417.9592083333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-50_s1_p902",
+        "title": "#902 紅さそり隊、肉まんで勝負だゾ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719800055,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-50_s1_p901/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "35-50_eg0"
+}

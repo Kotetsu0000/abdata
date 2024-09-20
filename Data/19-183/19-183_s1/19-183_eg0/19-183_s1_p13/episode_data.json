@@ -1,0 +1,153 @@
+{
+    "id": "19-183_s1_p13",
+    "series": {
+        "id": "19-183",
+        "title": "けいおん!",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "thumb.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "portrait.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-183_s1",
+        "sequence": 1,
+        "name": "けいおん!",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "けいおん！番外編「冬の日！」",
+        "content": "季節が過ぎ、寒い冬がやってきた。唯は、日曜日にみんなで鍋をしようと提案するが、軽音部のメンバーにはそれぞれ用事があるようで…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "豊崎愛生",
+            "日笠陽子",
+            "佐藤聡美",
+            "寿美菜子",
+            "竹達彩奈",
+            "米澤円",
+            "永田依子",
+            "伊藤実華",
+            "庄子裕衣",
+            "清水祐太朗",
+            "金田アキ"
+        ],
+        "crews": [
+            "監督：北之原孝將",
+            "原作： かきふらい (芳文社「まんがタイムきらら」連載)",
+            "脚本：吉田玲子",
+            "音楽：百石 元"
+        ],
+        "copyrights": [
+            "（Ｃ）かきふらい・芳文社／桜高軽音部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1704340804,
+    "endAt": 1740754800,
+    "freeEndAt": 1726419600,
+    "transcodeVersion": "WCU5f",
+    "sharedLink": {
+        "twitter": "https://abema.app/L3c4",
+        "facebook": "https://abema.app/jgbe",
+        "google": "https://abema.app/NVAG",
+        "line": "https://abema.app/7QR1",
+        "copy": "https://abema.app/nk6t",
+        "instagram": "https://abema.app/DGNE"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-183_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-183_s1_p13/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-183_s1_p13/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-183_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-183_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.7867916666667,
+        "opening": {
+            "start": 120.995875,
+            "end": 210.79391666666666
+        },
+        "ending": {
+            "start": 1329.7867916666667,
+            "end": 1419.7099583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-183_s1_p14",
+        "title": "けいおん！番外編「ライブハウス！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1704340804,
+        "endAt": 1740754800,
+        "freeEndAt": 1726419600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726419600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-183_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726419600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-183_eg0"
+}

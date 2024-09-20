@@ -1,0 +1,163 @@
+{
+    "id": "25-259_s1_p9",
+    "series": {
+        "id": "25-259",
+        "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "thumb.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-259",
+            "filename": "portrait.png",
+            "query": "version=1711704006",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-259_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_28",
+                "name": "歴史・戦記"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9幕 甘い蜜と苦い鎧",
+        "content": "リュビンハイゲンに着いたロレンスは、同郷の商人たちが所属しているローエン商業組合に顔を出した。組合の主であり父と仰ぐヤコブとの再会を喜び、組合所属の証明書発行を依頼するロレンスだったが、商品の売却先を聞いた途端にヤコブの顔色が曇ってしまう。一方、ロレンスたちと別れたノーラは仕事を斡旋してくれている教会の司祭に、羊を放牧する場所についてお願いするが……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クラフト・ロレンス：福山 潤",
+            "ホロ：小清水亜美"
+        ],
+        "crews": [
+            "原作：支倉凍砂（電撃文庫『狼と香辛料』/ＫＡＤＯＫＡＷＡ刊）",
+            "キャラクター原案：文倉 十",
+            "総監督：高橋丈夫",
+            "監督：さんぺい 聖",
+            "音楽：Kevin Penkin",
+            "プロデュース：ENISHIYA",
+            "アニメーション制作：パッショーネ"
+        ],
+        "copyrights": [
+            "(C)2024 支倉凍砂・KADOKAWA／ローエン商業組合"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725962588,
+    "endAt": 1790780400,
+    "freeEndAt": 1727096400,
+    "transcodeVersion": "7Qq3WJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/mHa4",
+        "facebook": "https://abema.app/kRtm",
+        "google": "https://abema.app/1uSm",
+        "line": "https://abema.app/xskD",
+        "copy": "https://abema.app/fka2",
+        "instagram": "https://abema.app/DcpD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-259_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-259_s1_p9/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/25-259_s1_p9/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-259_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-259_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9902333333334,
+        "opening": {
+            "start": 119.0189,
+            "end": 208.97543333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-259_s1_p10",
+        "title": "第10幕 狼の知恵と商人の口車",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1725962588,
+        "endAt": 1790780400,
+        "freeEndAt": 1727096400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727096400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-259_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727096400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "25-259_eg0"
+}

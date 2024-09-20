@@ -1,0 +1,169 @@
+{
+    "id": "564-8_s1_p4",
+    "series": {
+        "id": "564-8",
+        "title": "はめつのおうこく",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-8",
+            "filename": "thumb.png",
+            "query": "version=1696254581",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-8",
+            "filename": "portrait.png",
+            "query": "version=1696254581",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "564-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話「魔女の国」",
+        "content": "瀕死のアドニスが目を覚ますと、そこは楽園のような「魔女の国」。長であるオフィーリアは、クロエとの思い出や魔女の神秘を語るのだった。自身の記述式召喚魔法で、クロエが蘇る…。愛する人を取り戻すための鍵となった魔女の愛弟子は、復活の儀式に臨む。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "アドニス：石川界人",
+            "ドロカ：和氣あず未",
+            "クロエ：白石涼子",
+            "ヤマト：日野聡",
+            "ユキ：遠野ひかる",
+            "シロウサギ：谷山紀章"
+        ],
+        "crews": [
+            "原作：yoruhashi (マッグガーデン「月刊コミックガーデン」「MAGCOMI」連載)",
+            "監督：元永慶太郎",
+            "シリーズ構成：鴻野貴光",
+            "キャラクターデザイン：加藤裕美",
+            "プロップデザイン：村山章子",
+            "銃器デザイン：松田未来",
+            "美術監督：栫ヒロツグ（鹿児島ラメカヒリム）",
+            "美術設定：山口大悟郎（鹿児島ラメカヒリム）、三浦 智（鹿児島ラメカヒリム）",
+            "色彩設計：松山愛子（颱風グラフィックス）",
+            "2Dワークス：矢崎宏幸",
+            "CG監督：遠藤 誠（トライスラッシュ）",
+            "撮影監督：今泉秀樹（颱風グラフィックス）",
+            "編集：木村祥明",
+            "音響監督：えびなやすのり",
+            "音楽：櫻井美希、兼松 衆、中村巴奈重",
+            "音楽制作：日音",
+            "アニメーション制作：横浜アニメーションラボ"
+        ],
+        "copyrights": [
+            "(C)2023 yoruhashi／マッグガーデン・「はめつのおうこく」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703564146,
+    "endAt": 1735657200,
+    "freeEndAt": 1726398000,
+    "transcodeVersion": "3JzK7y",
+    "sharedLink": {
+        "twitter": "https://abema.app/TMWX",
+        "facebook": "https://abema.app/TCxe",
+        "google": "https://abema.app/4LkC",
+        "line": "https://abema.app/ZyeQ",
+        "copy": "https://abema.app/viJu",
+        "instagram": "https://abema.app/76jv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/564-8_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/564-8_s1_p4/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/564-8_s1_p4/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/564-8_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.564-8_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1377.0423333333333,
+        "opening": {
+            "start": 61.72833333333333,
+            "end": 149.98316666666668
+        },
+        "ending": {
+            "start": 1377.9599166666667,
+            "end": 1467.0072083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "564-8_s1_p5",
+        "title": "第5話「もろびとこぞりて」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703564146,
+        "endAt": 1735657200,
+        "freeEndAt": 1726398000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726398000
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/564-8_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726398000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "564-8_eg0"
+}

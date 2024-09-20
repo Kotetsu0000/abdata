@@ -1,0 +1,169 @@
+{
+    "id": "19-174_s1_p11",
+    "series": {
+        "id": "19-174",
+        "title": "薬屋のひとりごと",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-174",
+            "filename": "thumb.png",
+            "query": "version=1702261900",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-174",
+            "filename": "portrait.png",
+            "query": "version=1702261900",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-174_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1370
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "#11『二つを一つに』",
+        "content": "後宮の書物によって、養父である羅門と、阿多妃とその息子の身に起こった過去のある事件を知った猫猫。そこで阿多妃の侍女頭の風明を訪ねて皇子の死因を探ろうとするが、敬愛する阿多妃に生涯を捧げて仕える風明は、重大な秘密を抱えていた。そんな彼女の思いを汲んだ猫猫は一計を案じる。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "猫猫：悠木碧",
+            "壬氏：大塚剛央",
+            "高順：小西克幸",
+            "玉葉妃：種﨑敦美",
+            "梨花妃：石川由依",
+            "里樹妃：木野日菜",
+            "阿多妃：甲斐田裕子",
+            "梅梅：潘めぐみ",
+            "白鈴：小清水亜美",
+            "女華：七海ひろき",
+            "やり手婆：斉藤貴美子",
+            "羅門：家中宏",
+            "李白：赤羽根健治",
+            "小蘭：久野美咲",
+            "やぶ医者：かぬか光明",
+            "ナレーション：島本須美"
+        ],
+        "crews": [
+            "原作：日向夏（ヒーロー文庫／イマジカインフォス刊）",
+            "キャラクター原案：しのとうこ",
+            "監督・シリーズ構成：長沼 範裕",
+            "副監督：筆坂 明規",
+            "キャラクターデザイン：中谷 友紀子",
+            "色彩設計：相田 美里",
+            "美術監督：髙尾 克己",
+            "CGIディレクター：永井 有",
+            "撮影監督：石黒 瑠美",
+            "編集：今井 大介",
+            "音響監督：はた しょう二",
+            "音楽：神前 暁・Kevin Penkin・桶狭間 ありさ",
+            "アニメーション制作：TOHO animation STUDIO×OLM",
+            "製作：「薬屋のひとりごと」製作委員会"
+        ],
+        "copyrights": [
+            "(C)日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711368225,
+    "endAt": 1743433200,
+    "transcodeVersion": "7EgoBn",
+    "sharedLink": {
+        "twitter": "https://abema.app/f2Jt",
+        "facebook": "https://abema.app/zJGB",
+        "google": "https://abema.app/FBCa",
+        "line": "https://abema.app/ANPD",
+        "copy": "https://abema.app/DhW7",
+        "instagram": "https://abema.app/P2cH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-174_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-174_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-174_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-174_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1265.0554583333333,
+        "opening": {
+            "end": 87.04529166666667
+        },
+        "ending": {
+            "start": 1265.0971666666667,
+            "end": 1352.10075
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-174_s1_p12",
+        "title": "#12『宦官と妓女』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711368225,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-174_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "19-174_eg0"
+}

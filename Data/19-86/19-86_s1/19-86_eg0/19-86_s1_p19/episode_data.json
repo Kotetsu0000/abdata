@@ -1,0 +1,155 @@
+{
+    "id": "19-86_s1_p19",
+    "series": {
+        "id": "19-86",
+        "title": "SPY×FAMILY",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "thumb.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-86",
+            "filename": "portrait.png",
+            "query": "version=1696561056",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-86_s1",
+        "sequence": 1,
+        "name": "Season 1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 19,
+        "title": "【MISSION：19】デズモンドへの復讐計画／母、風になる",
+        "content": "「デズモンドへの復讐計画」中間試験で優秀な成績を修めて〈星(ステラ)〉を獲得したダミアン。周囲からちやほやされる彼を、クラスメイトのジョージは恨めしそうに見ていた。その理由とは……。／「母、風になる」アーニャを学校に送り出した直後、ヨルは机の上に体操着を見つける。このままではアーニャが体育の授業で困ってしまう。ヨルは忘れ物を届けるために走り出した！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ロイド・フォージャー：江口拓也",
+            "アーニャ・フォージャー：種﨑敦美",
+            "ヨル・フォージャー：早見沙織"
+        ],
+        "crews": [
+            "監督：古橋一浩",
+            "原作：遠藤達哉（集英社「少年ジャンプ＋」連載）",
+            "音楽：(K)NoW_NAME",
+            "キャラクターデザイン：嶋田和晃",
+            "制作会社：WIT STUDIO×CloverWorks"
+        ],
+        "copyrights": [
+            "(C)遠藤達哉／集英社・SPY×FAMILY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703492597,
+    "endAt": 1735657200,
+    "transcodeVersion": "6iBWqN",
+    "sharedLink": {
+        "twitter": "https://abema.app/68eV",
+        "facebook": "https://abema.app/Gmq7",
+        "google": "https://abema.app/62Qd",
+        "line": "https://abema.app/VU7J",
+        "copy": "https://abema.app/GZ3R",
+        "instagram": "https://abema.app/kF9j"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-86_s1_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-86_s1_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.359996,
+        "opening": {
+            "end": 87.029811
+        },
+        "ending": {
+            "start": 1349.275667,
+            "end": 1436.961722
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-86_s1_p20",
+        "title": "【MISSION：20】総合病院を調査せよ／難解な暗号を解読せよ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703492597,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726765200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-86_s1_p19/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726765200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727370000
+        }
+    ],
+    "episodeGroupId": "19-86_eg0"
+}

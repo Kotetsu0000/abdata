@@ -1,0 +1,147 @@
+{
+    "id": "5-11_s1_p139",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1457
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 139,
+        "title": "第139話 露西亜人形殺人事件 ファイル1",
+        "content": "ミステリー作家の山ノ内恒聖が亡くなり、遺族や関係者たちが浮島の上に建つ別荘に集められた。山ノ内が生前に残した謎を解いた者だけが、莫大な遺産を相続することが出来るのだ。相続候補者の一人・宝田光二は、いつきを通じてはじめに協力を要請する。やって来たはじめを待ち受けていたのは、宿敵・地獄の傀儡師だった。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833283,
+    "endAt": 1732978800,
+    "transcodeVersion": "5BTeuA",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZRi9",
+        "facebook": "https://abema.app/AhqY",
+        "google": "https://abema.app/KCx5",
+        "line": "https://abema.app/wu9A",
+        "copy": "https://abema.app/yhuN",
+        "instagram": "https://abema.app/B6Rd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-11_s1_p139/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-11_s1_p139/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-11_s1_p139/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p139"
+    },
+    "viewingPoint": {
+        "suggestion": 1332.053922,
+        "opening": {
+            "end": 99.989855
+        },
+        "ending": {
+            "start": 1332.053922,
+            "end": 1426.982188
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p140",
+        "title": "第140話 露西亜人形殺人事件 ファイル2",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833283,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p139/timeline",
+        "query": "version=5BTeuA",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

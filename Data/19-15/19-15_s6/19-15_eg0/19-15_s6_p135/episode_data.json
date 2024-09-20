@@ -1,0 +1,147 @@
+{
+    "id": "19-15_s6_p135",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s6",
+        "sequence": 6,
+        "name": "第6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 135,
+        "title": "第135話 友だち",
+        "content": "デクの姿勢に心を動かされたナガンだったが、裏切った時に備えたオール・フォー・ワン(AFO)の仕掛けで体が爆発してしまう。デクたちはナガンから得た情報である洋館に向かうが、そこにはデクを挑発するAFOの映像が残されていただけだった。自分が狙われるせいで、周囲の人間が傷ついていく…。焦燥感を募らせるデクはオールマイトの声すらも振り払い、独りで戦うことを誓う。戦い続けていくデクの姿は、血と汚れでヒーローのそれですらなくなっていた。そして新たな“ダツゴク”が刺客としてデクを襲う。デクの危機に現れたのは―!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "轟焦凍：梶裕貴",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872427,
+    "endAt": 1759244400,
+    "transcodeVersion": "LfXgr",
+    "sharedLink": {
+        "twitter": "https://abema.app/5H5F",
+        "facebook": "https://abema.app/KNTA",
+        "google": "https://abema.app/DqpT",
+        "line": "https://abema.app/NA2Y",
+        "copy": "https://abema.app/LNii",
+        "instagram": "https://abema.app/uaR9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p135/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p135/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s6_p135/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s6_p135"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0170416666667,
+        "opening": {
+            "start": 161.035875,
+            "end": 250.95904166666668
+        },
+        "ending": {
+            "start": 1310.0170416666667,
+            "end": 1399.9402083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s6_p136",
+        "title": "第136話 デクvsA組",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872427,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s6_p135/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

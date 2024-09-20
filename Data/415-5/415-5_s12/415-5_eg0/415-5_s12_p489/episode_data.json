@@ -1,0 +1,136 @@
+{
+    "id": "415-5_s12_p489",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s12",
+        "sequence": 12,
+        "name": "season12",
+        "thumbComponent": {},
+        "order": 12
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2850
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 489,
+        "title": "第489話 法廷の対決Ⅲ 目撃者は検察官",
+        "content": "東京拘置所の接見室で、妃英理は竹内浩明と面会する。竹内は酒を飲んだ後、車で被害者を跳ね、逃走したのだ。担当検事の九条は竹内を10日も拘留。妃は釈放を請求するが、九条はそれを断る。小五郎、コナン、蘭は妃を手助けするため警察署にある事故車両を調べる。保釈後、竹内が死んだという信じられない連絡が入る。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明、北田修一",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066307,
+    "endAt": 1740754800,
+    "transcodeVersion": "6N3ZF",
+    "sharedLink": {
+        "twitter": "https://abema.app/CJYf",
+        "facebook": "https://abema.app/7a6c",
+        "google": "https://abema.app/UK2K",
+        "line": "https://abema.app/iXw5",
+        "copy": "https://abema.app/4sCg",
+        "instagram": "https://abema.app/bMyT"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s12_p489/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s12_p489/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s12_p489/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s12_p489"
+    },
+    "viewingPoint": {
+        "suggestion": 2835.0322
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s12_p490",
+        "title": "第490話 服部平次vs工藤新一 ゲレンデの推理対決",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066307,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s12_p489/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,159 @@
+{
+    "id": "19-9dpgpzmmsbb_s0_p15",
+    "series": {
+        "id": "19-16",
+        "title": "ハイキュー!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "thumb.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "portrait.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-16_s1",
+        "sequence": 1,
+        "name": "ハイキュー!!",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 復活",
+        "content": "ついに迎えた、インターハイ予選当日。烏野高校初戦の相手は常波高校。澤村の中学時代のチームメイト・池尻との対戦だった。一度でも負ければ、次に進むことの出来ない公式試合。強豪・烏野の復活をかけ、いざ決戦へ―！"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "村瀬歩",
+            "石川界人",
+            "日野聡",
+            "入野自由",
+            "林勇",
+            "細谷佳正",
+            "岡本信彦",
+            "内山昂輝",
+            "斉藤壮馬",
+            "名塚佳織",
+            "神谷浩史",
+            "田中一成",
+            "浪川大輔"
+        ],
+        "crews": [
+            "監督：満仲勧",
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載中）",
+            "シリーズ構成：岸本卓",
+            "キャラクターデザイン：岸田隆宏",
+            "総作画監督：千葉崇洋、海谷敏久",
+            "音響監督：菊田浩巳",
+            "音楽：林ゆうき、橘麻美"
+        ],
+        "copyrights": [
+            "(C)古舘春一／集英社・「ハイキュー!!」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684374727,
+    "endAt": 1738335600,
+    "transcodeVersion": "SE8Zw",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/v1jVS",
+        "facebook": "https://gxyt4.app.goo.gl/jezYh",
+        "google": "https://gxyt4.app.goo.gl/XXpwT",
+        "line": "https://gxyt4.app.goo.gl/9qoHF",
+        "copy": "https://gxyt4.app.goo.gl/rNpqa",
+        "instagram": "https://gxyt4.app.goo.gl/fHzDC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-9dpgpzmmsbb_s0_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-9dpgpzmmsbb_s0_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1362.549166,
+        "opening": {
+            "start": 155.633266,
+            "end": 242.533266
+        },
+        "ending": {
+            "start": 1362.539066,
+            "end": 1449.539066
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-9dpgpzmmsbb_s0_p16",
+        "title": "第16話 勝者と敗者",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1684374727,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-9dpgpzmmsbb_s0_p15/timeline",
+        "query": "version=SE8Zw",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-16_eg0"
+}

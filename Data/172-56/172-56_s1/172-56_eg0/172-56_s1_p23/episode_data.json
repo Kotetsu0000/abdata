@@ -1,0 +1,151 @@
+{
+    "id": "172-56_s1_p23",
+    "series": {
+        "id": "172-56",
+        "title": "アンデッドアンラック",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "thumb.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-56",
+            "filename": "portrait.png",
+            "query": "version=1696388411",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "172-56_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 ボクの知らない物語",
+        "content": "彼はどこにでもいる普通の少年だった。漫画の読みきかせで寝つく変わった子でもあった。いつからか、母親が逆に彼の想像の物語を聞かされるようになった。\nある日、彼は古代遺物(アーティファクト)・Ｇライナーと出会い、触れてしまう。その瞬間、彼は否定者に選ばれる。その出来事が後の彼の運命を大きく変えてしまう。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "アンディ：中村悠一",
+            "出雲風子：佳原萌枝",
+            "シェン：花江夏樹",
+            "ボイド：乃村健次",
+            "ジーナ：悠木碧",
+            "ジュイス：伊瀬茉莉也",
+            "ビリー：小山力也",
+            "タチアナ：釘宮理恵",
+            "トップ：岡本信彦",
+            "ニコ：遊佐浩二",
+            "アポカリプス：杉田智和"
+        ],
+        "crews": [
+            "監督：八瀬祐樹",
+            "キャラクターデザイン：守岡英行",
+            "音楽：末廣健一郎",
+            "アニメーション制作：david production",
+            "企画プロデュース：UNLIMITED PRODUCE by TMS"
+        ],
+        "copyrights": [
+            "(C) 戸塚慶文／集英社・アンデッドアンラック製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711367781,
+    "endAt": 1743433200,
+    "freeEndAt": 1726545600,
+    "transcodeVersion": "2BVPn3",
+    "sharedLink": {
+        "twitter": "https://abema.app/1FjJ",
+        "facebook": "https://abema.app/pXSg",
+        "google": "https://abema.app/tL2W",
+        "line": "https://abema.app/DA8p",
+        "copy": "https://abema.app/ePMX",
+        "instagram": "https://abema.app/D5uU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p23/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/172-56_s1_p23/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/172-56_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.172-56_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.0653333333332,
+        "opening": {
+            "start": 75.99258333333333,
+            "end": 165.99916666666667
+        },
+        "ending": {
+            "start": 1110.0255833333333,
+            "end": 1199.9904583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "172-56_s1_p24",
+        "title": "第24話 君に伝われ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711367781,
+        "endAt": 1743433200,
+        "freeEndAt": 1726545600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726545600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/172-56_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726545600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "172-56_eg0"
+}

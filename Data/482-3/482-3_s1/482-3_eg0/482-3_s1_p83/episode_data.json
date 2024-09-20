@@ -1,0 +1,139 @@
+{
+    "id": "482-3_s1_p83",
+    "series": {
+        "id": "482-3",
+        "title": "クッキングパパ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-3",
+            "filename": "thumb.png",
+            "query": "version=1627289147",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-3",
+            "filename": "portrait.png",
+            "query": "version=1627289147",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "482-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1361
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 83,
+        "title": "第85話 おめでとうおバァちゃん",
+        "content": "お正月。東京から昧知姉ちゃん一家もやってきた。おばあちゃんの家でお祝いだ！"
+    },
+    "credit": {
+        "released": 1992,
+        "casts": [
+            "荒岩　一味:玄田　哲章",
+            "荒岩　虹子:勝生　真沙子",
+            "荒岩　誠/荒岩　みゆき:高山　みなみ",
+            "木村　夢子:冬馬　由美",
+            "田中　一:飛田　展男",
+            "みつぐ:頓宮　恭子/丸山　裕子",
+            "えつ子:矢島　晶子",
+            "さなえ:かない　みか",
+            "コックさん:峰　あつ子"
+        ],
+        "crews": [
+            "原作：うえやまとち（講談社 週刊モーニング掲載）",
+            "監督：角田利隆",
+            "キャラクターデザイン：敷島博英",
+            "脚本：雪室俊一",
+            "音楽：佐橋俊彦"
+        ],
+        "copyrights": [
+            "(C)うえやまとち／講談社・エイケン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682940754,
+    "endAt": 1767193200,
+    "transcodeVersion": "2ikE63",
+    "sharedLink": {
+        "twitter": "https://abema.app/jw7i",
+        "facebook": "https://abema.app/M3r1",
+        "google": "https://abema.app/V8c4",
+        "line": "https://abema.app/1Usu",
+        "copy": "https://abema.app/vgpV",
+        "instagram": "https://abema.app/BhzH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p83/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p83/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/482-3_s1_p83/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.482-3_s1_p83"
+    },
+    "viewingPoint": {
+        "suggestion": 1251.273222,
+        "opening": {
+            "end": 90.013222
+        },
+        "ending": {
+            "start": 1251.273222,
+            "end": 1331.253222
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "482-3_s1_p84",
+        "title": "第86話 空ちゃんは人気者！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1682940754,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/482-3_s1_p83/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "482-3_eg0"
+}

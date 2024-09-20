@@ -1,0 +1,147 @@
+{
+    "id": "26-221_s1_p3",
+    "series": {
+        "id": "26-221",
+        "title": "龍族 -The Blazing Dawn-（日本語吹替版）",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-221",
+            "filename": "thumb.png",
+            "query": "version=1712836273",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-221",
+            "filename": "portrait.png",
+            "query": "version=1712836273",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-221_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1286
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "2話 自由の日",
+        "content": "ミンフェイが学院に到着すると突然、大規模な戦闘に巻き込まれる。怯えていたミンフェイだが目の前でノノが撃たれたことで意を決し、一騎打ちをしていた二人の男子学生に対して反撃を開始する。この二人こそ学院の二大勢力である獅子心会と学生自治会のリーダー、チュー・ズーハンとシーザー・ガットゥーゾであった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ルー・ミンフェイ／路明非：山下大輝",
+            "ノノ／諾諾：本渡 楓",
+            "ルー・ミンゼイ／路鳴沢：村瀬 歩",
+            "フィンゲル・フォン・フリングス：橘 龍丸",
+            "チュー・ズーハン／楚子航：小野賢章",
+            "シーザー・ガットゥーゾ：大塚剛央",
+            "リン：天城サリー",
+            "ノルマ・ローレンス：石見舞菜香",
+            "アンジェ：速水 奨"
+        ],
+        "crews": [
+            "原作：江南（ジャン・ナン）「龍族」",
+            "監督・シリーズ構成：王昕（ワン・シン）",
+            "キャラクターデザイン・総作画監督：李時旼（リー・シーミン）",
+            "音楽監督：伍婷（ウー・ティン）",
+            "BGM：KOHTA YAMAMOTO ほか",
+            "アニメーション制作：HANABARA Animation"
+        ],
+        "copyrights": [
+            "(C)2023 Shenzhen Tencent Computer Systems Company Limited"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719915787,
+    "endAt": 1744124400,
+    "transcodeVersion": "3AqDUq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Jxun",
+        "facebook": "https://abema.app/KVu6",
+        "google": "https://abema.app/df2m",
+        "line": "https://abema.app/NBtY",
+        "copy": "https://abema.app/Tah7",
+        "instagram": "https://abema.app/YvyQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-221_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-221_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-221_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-221_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1196.0281666666667,
+        "opening": {
+            "start": 38.038,
+            "end": 133.6335
+        },
+        "ending": {
+            "start": 1196.0281666666667,
+            "end": 1286.0764583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-221_s1_p4",
+        "title": "3話 二体の龍王",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719915787,
+        "endAt": 1744124400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1744124400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-221_s1_p3/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1744124400
+        }
+    ],
+    "episodeGroupId": "26-221_eg0"
+}

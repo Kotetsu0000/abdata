@@ -1,0 +1,75 @@
+{
+    "id": "35-50",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "クレヨンしんちゃん",
+    "content": "イタズラ大好きでナマイキ盛りの幼稚園児･野原しんのすけが巻き起こす騒動と、ふりまわされる大人たちの毎日を、ギャグをふんだんにまじえて描いたアニメ。1992年に放送スタートして以来、子どもから大人まで幅広い層に愛され続け、お茶の間に大反響を巻き起こしてきた。これまで30カ国以上で放送されており、日本でいちばん有名な5歳児･野原しんのすけは、今や“国民的キャラクター”の枠を超え、インド、スペイン、台湾、韓国などを中心に各国に熱烈なファンを持つ“世界の人気者”に成長している。",
+    "seasons": [
+        {
+            "id": "35-50_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+                "filename": "thumb.png",
+                "query": "version=1681282160",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "35-50_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)臼井儀人/双葉社・シンエイ・テレビ朝日・ADK"
+    ],
+    "label": {},
+    "version": "1726220575078416554",
+    "imageUpdatedAt": 1681282160,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/4b9x",
+        "facebook": "https://abema.app/CRxK",
+        "google": "https://abema.app/5f1d",
+        "line": "https://abema.app/ZRF8",
+        "copy": "https://abema.app/wqG6",
+        "instagram": "https://abema.app/gSFB"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+        "filename": "thumb.png",
+        "query": "version=1681282160",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+        "filename": "portrait.png",
+        "query": "version=1681282160",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

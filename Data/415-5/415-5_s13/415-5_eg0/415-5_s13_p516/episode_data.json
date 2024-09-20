@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s13_p516",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s13",
+        "sequence": 13,
+        "name": "season13",
+        "thumbComponent": {},
+        "order": 13
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2922
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 516,
+        "title": "第516話 風林火山　迷宮の鎧武者",
+        "content": "小五郎らは長野県にある虎田家の屋敷を訪ね、当主の虎田直信から転落死した跡取り息子の義郎の話を聞く。誰かが瀕死の義郎を見殺しにしたというのだ。達栄は虎田家と長年いがみ合う龍尾家の中に犯人はいると訴える。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：北田修一、小島哲、小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066307,
+    "endAt": 1740754800,
+    "transcodeVersion": "TjAGX",
+    "sharedLink": {
+        "twitter": "https://abema.app/QZcs",
+        "facebook": "https://abema.app/6Cs3",
+        "google": "https://abema.app/SSVt",
+        "line": "https://abema.app/XUCZ",
+        "copy": "https://abema.app/9adj",
+        "instagram": "https://abema.app/dNkg"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s13_p516/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s13_p516/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s13_p516/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s13_p516"
+    },
+    "viewingPoint": {
+        "suggestion": 2797.5614333333333,
+        "opening": {
+            "start": 162.5624,
+            "end": 249.58266666666665
+        },
+        "ending": {
+            "start": 2797.5614333333333,
+            "end": 2877.4746
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s13_p517",
+        "title": "第517話 風林火山　陰と雷光の決着",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066307,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s13_p516/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

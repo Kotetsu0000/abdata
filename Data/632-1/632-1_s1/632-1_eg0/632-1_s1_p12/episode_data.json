@@ -1,0 +1,150 @@
+{
+    "id": "632-1_s1_p12",
+    "series": {
+        "id": "632-1",
+        "title": "女神のカフェテラス",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-1",
+            "filename": "thumb.png",
+            "query": "version=1722755068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-1",
+            "filename": "portrait.png",
+            "query": "version=1722755068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "632-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第十二話「二つの出会い」",
+        "content": "お互いの本音・隼への恋心をさらけ出し、ライバル宣言をした流星と紅葉。一方、喫茶店「Familia」の新メニューを開発しようと意気込む隼は、白菊と共に試行錯誤を重ねる。そんな中、２人が近所のお店仲間の面々と店のメニューについて相談していると、魚屋のおじさんが、祖母との思わぬ思い出を口にする。その言葉に反応する白菊の様子に、隼は何かを確信し、白菊が語る、過去にあった“ある出会い”を知る。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "粕壁 隼：水中雅章",
+            "小野白菊：和氣あず未",
+            "月島流星：山根 綺",
+            "鶴河秋水：鈴代紗弓",
+            "鳳凰寺紅葉：瀬戸麻沙美",
+            "幕澤桜花：青木瑠璃子",
+            "粕壁幸子：伊倉一恵"
+        ],
+        "crews": [
+            "原作：瀬尾公治（講談社「週刊少年マガジン」連載）",
+            "監督：桑原 智",
+            "シリーズ構成：大知慶一郎",
+            "脚本：大知慶一郎、森田眞由美",
+            "キャラクターデザイン：野口征恒",
+            "美術監督：斉藤雅己",
+            "色彩設計：油谷ゆみ",
+            "撮影監督：設楽 希（T2スタジオ）",
+            "編集：内田 渉（コンクエスト）",
+            "音楽：兼松 衆、櫻井美希",
+            "音響監督：本山 哲",
+            "音響制作：HALF H･P STUDIO",
+            "アニメーション制作：手塚プロダクション"
+        ],
+        "copyrights": [
+            "(C)瀬尾公治・講談社／「女神のカフェテラス」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726206738,
+    "endAt": 1759244400,
+    "transcodeVersion": "3jTCgz",
+    "sharedLink": {
+        "twitter": "https://abema.app/DF5u",
+        "facebook": "https://abema.app/AHKC",
+        "google": "https://abema.app/Pw5R",
+        "line": "https://abema.app/zrHG",
+        "copy": "https://abema.app/tyKF",
+        "instagram": "https://abema.app/2qZ9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/632-1_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/632-1_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/632-1_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.632-1_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1417.003911
+    },
+    "nextProgramInfo": {
+        "programId": "632-1_s2_p13",
+        "title": "第十三話 ファミリアに黒い影",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1726206739,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726750800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/632-1_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "632-1_eg0"
+}

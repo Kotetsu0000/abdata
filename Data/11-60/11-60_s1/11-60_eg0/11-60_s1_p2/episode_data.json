@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p2",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1427
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 夜桜の命",
+        "content": "兄妹たちの協力のもと、凶一郎の妨害に打ち勝ち夫婦となった太陽と六美。翌朝、自分の部屋で目を覚ました太陽は、突然、凶一郎に吊るし上げられ外に出ると同時に、自宅が大爆発してしまう。何者かに爆弾を仕掛けられていたことがわかり驚愕する太陽。凶一郎の口から夜桜家の使命を知らされ、「六美を守る」という本当の意味を理解する。そして夜桜家の一員として「今日一日、六美を暗殺者から守れ」という初任務が与えられる！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "transcodeVersion": "23CZWk",
+    "sharedLink": {
+        "twitter": "https://abema.app/P4b2",
+        "facebook": "https://abema.app/Ggkb",
+        "google": "https://abema.app/xzGB",
+        "line": "https://abema.app/isY5",
+        "copy": "https://abema.app/MLR4",
+        "instagram": "https://abema.app/UmPo"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1422.0039166666666,
+        "opening": {
+            "start": 57.974583333333335,
+            "end": 147.98116666666667
+        },
+        "ending": {
+            "start": 1292.6246666666666,
+            "end": 1382.5478333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p3",
+        "title": "第3話 気持ち",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

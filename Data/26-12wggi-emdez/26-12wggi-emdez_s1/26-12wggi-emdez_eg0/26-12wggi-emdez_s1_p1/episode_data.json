@@ -1,0 +1,137 @@
+{
+    "id": "26-12wggi-emdez_s1_p1",
+    "series": {
+        "id": "26-12wggi-emdez",
+        "title": "Angel Beats!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "thumb.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12wggi-emdez",
+            "filename": "portrait.png",
+            "query": "version=1627289263",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12wggi-emdez_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1561
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "episode1 Departure",
+        "content": "ある日、見知らぬ学校の敷地で目覚めた少年・音無(おとなし)は、そこで、ゆりと名乗る少女に声を掛けられる。\n彼女は「ここは死後の世界」「自分たちは神に抗い、その神の使い・天使と日夜戦っている」のだと告げながら、構えるライフルの照準を天使に向けていた。\nその余りに現実離れした光景と言動が理解できなかった音無は、ゆりの元を離れ、天使と呼ばれる可憐な少女に声を掛ける。\nだが、その少女からも「ここは死後の世界」だと訳の分からない説明を受けた音無は、声を荒らげてその証拠を求める。\nそして、その少女の手から伸びた光の刃に、胸をひと突きにされてしまう……。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "音無：神谷浩史",
+            "ゆり：櫻井浩美",
+            "天使：花澤香菜",
+            "ユイ：喜多村英梨",
+            "日向：木村良平"
+        ],
+        "crews": [
+            "原作・脚本：麻枝准",
+            "監督：岸誠二",
+            "キャラクター原案：Na-Ga",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "音響監督：飯田里樹"
+        ],
+        "copyrights": [
+            "(C)VisualArt's/Key/Angel Beats! Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1681805442,
+    "endAt": 1748703600,
+    "freeEndAt": 1748703600,
+    "transcodeVersion": "6wLNjj",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/m5qkv",
+        "facebook": "https://gxyt4.app.goo.gl/gtVqd",
+        "google": "https://gxyt4.app.goo.gl/CicCM",
+        "line": "https://gxyt4.app.goo.gl/V7oNu",
+        "copy": "https://gxyt4.app.goo.gl/zYy9N",
+        "instagram": "https://abema.app/J4aP"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/26-12wggi-emdez_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-12wggi-emdez_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12wggi-emdez_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1556.58
+    },
+    "nextProgramInfo": {
+        "programId": "26-12wggi-emdez_s1_p2",
+        "title": "episode2 Guild",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1681805442,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726592400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12wggi-emdez_s1_p1/timeline",
+        "query": "version=6wLNjj",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "26-12wggi-emdez_eg0"
+}

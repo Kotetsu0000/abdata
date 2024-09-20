@@ -1,0 +1,78 @@
+{
+    "id": "564-12",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "ダンジョンの中のひと",
+    "content": "アントムルグのダンジョンに消えた父を追い、単独で挑み続けてきたシーフの少女クレイ。\n探索の末、ついに前人未踏の地下9階に到達。\nそんな矢先にモンスターとの戦闘でダンジョンの壁が崩落！\n崩れた壁の中から現れたのは――管理人！？\nダンジョンで働くもの達が織り成す、迷宮お仕事ファンタジー。",
+    "seasons": [
+        {
+            "id": "564-12_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/564-12_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1720761353",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "564-12_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "564-12_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)双見酔／双葉社・製作委員会の中のひと"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1726035607237846209",
+    "imageUpdatedAt": 1720761331,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/iX8U",
+        "facebook": "https://abema.app/ULAs",
+        "google": "https://abema.app/2vwZ",
+        "line": "https://abema.app/vnMg",
+        "copy": "https://abema.app/3TMX",
+        "instagram": "https://abema.app/uGkX"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-12",
+        "filename": "thumb.png",
+        "query": "version=1720761331",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-12",
+        "filename": "portrait.png",
+        "query": "version=1720761331",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

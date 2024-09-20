@@ -1,0 +1,167 @@
+{
+    "id": "19-34_s1_p1",
+    "series": {
+        "id": "19-34",
+        "title": "Ｄｒ．ＳＴＯＮＥ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-34",
+            "filename": "thumb.png",
+            "query": "version=1693822160",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-34",
+            "filename": "portrait.png",
+            "query": "version=1693822160",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-34_s1",
+        "sequence": 1,
+        "name": "第１期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "#01 STONE　WORLD",
+        "content": "幼馴染の杠に、長年片想いし続けている高校生の大樹。親友の千空にからかわれつつも、ついに杠への想いを告げようとしたその時、突如、空がまばゆい光で覆われ、世界中の人類が一瞬にして全て〝石化〟してしまう謎の現象が起こる……!!それから約3700年後――。文明が全て消えたストーンワールドで、石化から解放された大樹。かつての親友・千空と再会を果たし、２人はゼロから文明を作り出すことを誓う！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "小林裕介",
+            "古川慎",
+            "市ノ瀬加那",
+            "中村悠一"
+        ],
+        "crews": [
+            "原作",
+            "稲垣理一郎・Boichi",
+            "（集英社「週刊少年ジャンプ」連載）",
+            "監督",
+            "飯野慎也",
+            "シリーズ構成・脚本",
+            "木戸雄一郎",
+            "キャラクターデザイン",
+            "岩佐裕子",
+            "音楽",
+            "加藤達也・堤 博明・YUKI KANESAKA",
+            "オープニングテーマ",
+            "BURNOUT SYNDROMES",
+            "「Good Morning World!」",
+            "エンディングテーマ",
+            "Rude-α「LIFE」",
+            "アニメーション制作",
+            "トムス・エンタテインメント"
+        ],
+        "copyrights": [
+            "(C)米スタジオ・Boichi／集英社・Dr.STONE製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1703241646,
+    "endAt": 1735657200,
+    "freeEndAt": 1735657200,
+    "transcodeVersion": "7HSvTr",
+    "sharedLink": {
+        "twitter": "https://abema.app/ExLM",
+        "facebook": "https://abema.app/NBjY",
+        "google": "https://abema.app/8rWd",
+        "line": "https://abema.app/Pkqh",
+        "copy": "https://abema.app/AtFS",
+        "instagram": "https://abema.app/gZ3w"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-34_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-34_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-34_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-34_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-34_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.023555,
+        "ending": {
+            "start": 1335.023555,
+            "end": 1425.045822
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-34_s1_p2",
+        "title": "#02 KING　OF　THE　STONE　WORLD",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1703241646,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726581600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-34_s1_p1/timeline",
+        "query": "version=7HSvTr",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "19-34_eg0"
+}

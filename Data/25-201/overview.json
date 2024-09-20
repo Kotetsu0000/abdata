@@ -1,0 +1,74 @@
+{
+    "id": "25-201",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "乙女ゲー世界はモブに厳しい世界です",
+    "content": "とある剣と魔法の“乙女ゲー”世界に転生した元・社会人のリオン。\n そこは超女尊男卑な世界で、例外はゲーム内で攻略対象だった王太子率いるイケメン軍団のみ。\n しかし、虐げられ絶望するリオンにはある一つの武器があった。\nそれは前世で妹に無理矢理攻略させられていたこのゲームの「知識」。\n\nモブとして田舎でのんびり過ごすことを目標にしていたリオンだったが\nゲームの知識を使い、\nやりたい放題の女たちとイケメン軍団に図らずも反旗を翻してしまうのだった――。",
+    "seasons": [
+        {
+            "id": "25-201_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-201_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1681982947",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-201_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)三嶋与夢／マイクロマガジン社／モブせか製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1721726541942416064",
+    "imageUpdatedAt": 1649064110,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/FEqR",
+        "facebook": "https://abema.app/cP99",
+        "google": "https://abema.app/aU9H",
+        "line": "https://abema.app/aGrG",
+        "copy": "https://abema.app/oUCj",
+        "instagram": "https://abema.app/XUo2"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-201",
+        "filename": "thumb.png",
+        "query": "version=1649064110",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-201",
+        "filename": "portrait.png",
+        "query": "version=1649064110",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

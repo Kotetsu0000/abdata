@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s1_p26",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 26,
+        "title": "第26話 愛犬ジョン殺人事件",
+        "content": "コナンたちは、学校帰りに坂口家の愛犬ジョンと遊ぶのを楽しみにしていた。ある夜、コナンが小五郎と蘭と共に坂口家の前を通りかかると、犬の鳴き声と悲鳴が聞こえ、若い女性が飛び出してきた。家の中では倒れた男性と唸っているジョンの姿が。コナンや蘭には人懐っこいジョンが訳もなく人を襲うとは考えられないのだが…。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、柳内一彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066296,
+    "endAt": 1740754800,
+    "transcodeVersion": "6TCxSv",
+    "sharedLink": {
+        "twitter": "https://abema.app/TVb6",
+        "facebook": "https://abema.app/1unU",
+        "google": "https://abema.app/eYRL",
+        "line": "https://abema.app/TJH5",
+        "copy": "https://abema.app/xbpC",
+        "instagram": "https://abema.app/1UJd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s1_p26/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s1_p26/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s1_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s1_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.7586666666666,
+        "opening": {
+            "start": 15.4154,
+            "end": 92.72596666666666
+        },
+        "ending": {
+            "start": 1267.0658,
+            "end": 1358.0233333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s1_p27",
+        "title": "第27話 小五郎の同窓会殺人事件（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066296,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s1_p26/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

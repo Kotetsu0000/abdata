@@ -1,0 +1,157 @@
+{
+    "id": "26-12_s1_p1",
+    "series": {
+        "id": "26-12",
+        "title": "黒執事",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "thumb.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-12",
+            "filename": "portrait.png",
+            "query": "version=1709632912",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-12_s1",
+        "sequence": 1,
+        "name": "黒執事",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1466
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "episode1 その執事、有能",
+        "content": "ファントムハイヴ家に来客予定の日。朝、いつものようにシエルを起こした後、超一流なファントムハイヴのもてなしの準備にかかる執事セバスチャン。しかしその一方で、セバスチャンをあっと言わそうと、使用人のバルド、フィニ、メイリンが独自に準備にかかる。その結果は…、全て大失敗。来客まで残り時間わずかとなった最悪の状況で、セバスチャンがとった行動とは！？"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "シエル・ファントムハイヴ：坂本 真綾",
+            "セバスチャン・ミカエリス：小野 大輔",
+            "バルドロイ：東地 宏樹",
+            "フィニアン：梶 裕貴",
+            "メイリン：加藤 英美里"
+        ],
+        "crews": [
+            "原作：枢 やな",
+            "監督：篠原俊哉",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン＆総作画監督：芝 美奈子",
+            "音楽：岩崎 琢"
+        ],
+        "copyrights": [
+            "(c)枢やな/スクウェアエニックス・女王の番犬・ＭＢＳ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1708327133,
+    "endAt": 1741532400,
+    "freeEndAt": 1741532400,
+    "transcodeVersion": "itM8i",
+    "sharedLink": {
+        "twitter": "https://abema.app/4xTE",
+        "facebook": "https://abema.app/71PH",
+        "google": "https://abema.app/75Xb",
+        "line": "https://abema.app/NjqT",
+        "copy": "https://abema.app/xM5N",
+        "instagram": "https://abema.app/PDw3"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-12_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-12_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/26-12_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-12_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-12_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1346.900199,
+        "opening": {
+            "start": 44.8995,
+            "end": 134.855033
+        },
+        "ending": {
+            "start": 1346.900199,
+            "end": 1436.889099
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-12_s1_p2",
+        "title": "episode2 その執事、最強",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1708327133,
+        "endAt": 1741532400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741532400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-12_s1_p1/timeline",
+        "query": "version=itM8i",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-12_eg0"
+}

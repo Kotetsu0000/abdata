@@ -1,0 +1,124 @@
+{
+    "id": "218-591_s1_p11",
+    "series": {
+        "id": "218-591",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 ~Challenge Again~",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "thumb.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-591",
+            "filename": "portrait.png",
+            "query": "version=1688375618",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-591_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6807
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "ライブイベント 1部 28時間テレビ中夜祭",
+        "content": "声優28時間テレビの中夜祭1部をライブイベントでお届け！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "安元洋貴",
+            "浪川大輔",
+            "金田朋子",
+            "仲村宗悟",
+            "森久保祥太郎",
+            "岩田光央",
+            "林勇",
+            "三上枝織",
+            "徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1693298641,
+    "endAt": 1786460400,
+    "transcodeVersion": "2CYUbD",
+    "sharedLink": {
+        "twitter": "https://abema.app/mxSp",
+        "facebook": "https://abema.app/fuF6",
+        "google": "https://abema.app/iqet",
+        "line": "https://abema.app/iPdV",
+        "copy": "https://abema.app/eaaq",
+        "instagram": "https://abema.app/zPjR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-591_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-591_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-591_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-591_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 6802.534067
+    },
+    "nextProgramInfo": {
+        "programId": "218-591_s1_p12",
+        "title": "出張！安元くんと愉快な夜あそびADたち Part②",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1693298641,
+        "endAt": 1786460400,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1786460400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-591_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1786460400
+        }
+    ],
+    "episodeGroupId": "218-591_eg0"
+}

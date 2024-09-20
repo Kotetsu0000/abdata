@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p1",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 桜の指輪",
+        "content": "極度の人見知りの高校生・朝野太陽は、事故で家族を亡くして以来、他人と関わることを極端に避けていた。そんな太陽にとって、幼なじみの夜桜六美は唯一気を許せる特別な存在だった。ある日の放課後、昼川先生に呼び出された太陽は教頭室を訪れる。そこで見せられたものは六美の隠し撮りコレクションで、陰からずっと彼女を見守ってきたという。昼川の異常さに危機感を覚える太陽。突如ナイフを突きつけられ…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "freeEndAt": 1885474800,
+    "transcodeVersion": "5a48BD",
+    "sharedLink": {
+        "twitter": "https://abema.app/Fz6E",
+        "facebook": "https://abema.app/gniS",
+        "google": "https://abema.app/bT7R",
+        "line": "https://abema.app/19nd",
+        "copy": "https://abema.app/ihiB",
+        "instagram": "https://abema.app/R91P"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/11-60_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/11-60_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/11-60_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/11-60_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1358.9409166666667,
+        "ending": {
+            "start": 1358.9409166666667,
+            "end": 1441.8570833333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p2",
+        "title": "第2話 夜桜の命",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

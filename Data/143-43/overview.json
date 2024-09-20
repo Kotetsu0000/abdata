@@ -1,0 +1,96 @@
+{
+    "id": "143-43",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "title": "君に届け",
+    "content": "陰気な容姿のせいで霊感があると恐れられ、「貞子」というあだながついてしまっていた爽子は、わけへだてなく接してくれる風早翔太に憧れている。自分を変えたいという爽子の背中を押してくれる風早や、矢野あやね、吉田千鶴、真田龍といったクラスメイトたちとの関わりの中で、爽子は少しずつだが自分の殻を破っていく。ピュアな爽子が友情や恋、ライバルや友達の失恋などいろんな「初めて」を知っていく過程を、丁寧に描いていく学園青春ストーリー。",
+    "seasons": [
+        {
+            "id": "143-43_s1",
+            "sequence": 1,
+            "name": "君に届け",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/143-43_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1709517488",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "143-43_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "143-43_s2",
+            "sequence": 2,
+            "name": "君に届け　2ND SEASON",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/143-43_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1709286921",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "143-43_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)椎名軽穂・集英社/「君に届け」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726129255146473605",
+    "imageUpdatedAt": 1709286894,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/3DtL",
+        "facebook": "https://abema.app/YhLo",
+        "google": "https://abema.app/Cix7",
+        "line": "https://abema.app/v8hK",
+        "copy": "https://abema.app/zY75",
+        "instagram": "https://abema.app/1HeU"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-43",
+        "filename": "thumb.png",
+        "query": "version=1709286894",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-43",
+        "filename": "portrait.png",
+        "query": "version=1709286894",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

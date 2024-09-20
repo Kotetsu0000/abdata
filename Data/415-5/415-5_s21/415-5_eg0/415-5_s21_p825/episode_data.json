@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s21_p825",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s21",
+        "sequence": 21,
+        "name": "season21",
+        "thumbComponent": {},
+        "order": 21
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 825,
+        "title": "第825話 潮入り公園逆転事件",
+        "content": "小五郎、コナン、蘭は海と池が繋がり、潮の満ち引きで景色が変わる公園にやってくる。コナンは潮が引いて現れた沈下橋に倒れている男性を発見。遺体の首には絞められた痕があり、小五郎は事件と事故、両方の可能性を探る。公園管理人の丹波は朝の引き潮の時、遺体はなかったと証言して…。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066316,
+    "endAt": 1740754800,
+    "transcodeVersion": "5g2dsQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/Wpm5",
+        "facebook": "https://abema.app/b3j3",
+        "google": "https://abema.app/HFYf",
+        "line": "https://abema.app/hcdo",
+        "copy": "https://abema.app/UHau",
+        "instagram": "https://abema.app/HZph"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s21_p825/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s21_p825/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s21_p825/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s21_p825"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.7566666666667,
+        "opening": {
+            "start": 110.94416666666666,
+            "end": 208.95875
+        },
+        "ending": {
+            "start": 1327.2425833333334,
+            "end": 1407.1974583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s21_p826",
+        "title": "第826話 美女とウソと秘密",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066316,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s21_p825/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

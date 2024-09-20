@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s11_p454",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s11",
+        "sequence": 11,
+        "name": "season11",
+        "thumbComponent": {},
+        "order": 11
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 454,
+        "title": "第454話 ひっくり返った結末（前編）",
+        "content": "小説家の萬田年久は原稿執筆のため、猫のノベルと共に部屋にカンヅメにされていた。萬田はホテルを抜け出し、弟子の原本高平の家に急ぐ。原本は原稿が入ったディスクを差し出す。萬田は編集者の島木に原稿を渡し、萬田の家に帰宅すると、ガラスが割れる音が響く。コナンたちの野球の球が原本の家の中に入ってしまったのだ。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明、北田修一",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066306,
+    "endAt": 1740754800,
+    "transcodeVersion": "36fQaH",
+    "sharedLink": {
+        "twitter": "https://abema.app/aSbY",
+        "facebook": "https://abema.app/RXQe",
+        "google": "https://abema.app/QyVF",
+        "line": "https://abema.app/Kurx",
+        "copy": "https://abema.app/GP24",
+        "instagram": "https://abema.app/NWjM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s11_p454/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s11_p454/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s11_p454/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s11_p454"
+    },
+    "viewingPoint": {
+        "suggestion": 1342.1408,
+        "opening": {
+            "start": 14.981633333333333,
+            "end": 102.06863333333334
+        },
+        "ending": {
+            "start": 1342.1408,
+            "end": 1427.0589666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s11_p455",
+        "title": "第455話 ひっくり返った結末（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066306,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s11_p454/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

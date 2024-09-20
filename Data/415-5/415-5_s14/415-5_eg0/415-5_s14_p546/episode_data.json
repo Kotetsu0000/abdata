@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p546",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1476
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 546,
+        "title": "第546話 霧にむせぶ魔女（後編）",
+        "content": "銀白の魔女の事を相談した宮本由美から連絡をもらった蘭は検問にひっかかった白いFD３台の事を報告。助手席にいた間船、半藤、遠田の腕はいずれも魔女の腕とはほど遠く、３組とも帰してしまった事を由美に伝える。由美は車に同乗している佐藤刑事に魔女の話題をふる。数年前、佐藤は冬名峠に通っていた時期があったのだ。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "5X4G6z",
+    "sharedLink": {
+        "twitter": "https://abema.app/MfXG",
+        "facebook": "https://abema.app/dgL4",
+        "google": "https://abema.app/GS7h",
+        "line": "https://abema.app/osNV",
+        "copy": "https://abema.app/6hQd",
+        "instagram": "https://abema.app/Vr3n"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p546/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p546/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p546/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p546"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.9295,
+        "opening": {
+            "start": 106.37293333333334,
+            "end": 196.93006666666668
+        },
+        "ending": {
+            "start": 1280.5793,
+            "end": 1360.5592
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p547",
+        "title": "第547話 犯人との二日間（一日目）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p546/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

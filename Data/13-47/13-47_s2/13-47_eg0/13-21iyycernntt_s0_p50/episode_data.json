@@ -1,0 +1,145 @@
+{
+    "id": "13-21iyycernntt_s0_p50",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s2",
+        "sequence": 2,
+        "name": "2年目",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1479
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 50,
+        "title": "第99話 人生もゲームもバグだらけ",
+        "content": "最新ゲーム機を手に入れるべく秋葉原に集結した万事屋、桂、真選組の面々。各々の暴走で行列もメチャクチャになり、結局、万事屋チームと真選組チームのゲーム対決で入手権を争うことに。第一戦目の種目は、先にヒロインと恋に落ちた方が勝利というギャルゲー対決。古今東西あらゆるギャルゲーをやりつくした達人・近藤と桂のバトルが始まった！ 並行して行われる第ニ戦目は新八VS山崎という地味キャラ同士のパズルゲーム対決。両陣営ともに一進一退の白熱した攻防が続き、勝負は最終局面へ！"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296388,
+    "endAt": 1743433200,
+    "transcodeVersion": "77gmZG",
+    "sharedLink": {
+        "twitter": "https://abema.app/nnL7",
+        "facebook": "https://abema.app/JHx7",
+        "google": "https://abema.app/qTep",
+        "line": "https://abema.app/U6PA",
+        "copy": "https://abema.app/kNpH",
+        "instagram": "https://abema.app/bhqM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p50/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p50/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-21iyycernntt_s0_p50/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-21iyycernntt_s0_p50"
+    },
+    "viewingPoint": {
+        "suggestion": 1376.996933,
+        "opening": {
+            "end": 55.075333
+        },
+        "ending": {
+            "start": 1376.996933,
+            "end": 1465.0172
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p1",
+        "title": "第100話 好かれないものほど愛おしい",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296389,
+        "endAt": 1746025200,
+        "freeEndAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-21iyycernntt_s0_p50/timeline",
+        "query": "version=77gmZG",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

@@ -1,0 +1,144 @@
+{
+    "id": "142-6_s1_p18",
+    "series": {
+        "id": "142-6",
+        "title": "烏は主を選ばない",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/142-6",
+            "filename": "thumb.png",
+            "query": "version=1724045766",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/142-6",
+            "filename": "portrait.png",
+            "query": "version=1724045766",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "142-6_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1500
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 18,
+        "title": "第18話「外界」",
+        "content": "猿の猛追から逃れ、道なき道を進む雪哉と若宮。雪哉が手にした“白いカケラ”の正体に、若宮は確信めいたものを感じていた。しるべの糸が途切れたとき、異常な現象が二人を襲う。時間や方向の感覚を失わせ、侵入者を死に至らしめる洞穴から、二人は脱出することができるのか。若宮は雪哉に語りかける。“真の金烏（きんう）”の役割、“外界”が意味するもの、そして、山内の世界の行く先を。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "雪哉：田村睦心",
+            "若宮：入野自由",
+            "あせび：本泉莉奈",
+            "浜木綿：七海ひろき",
+            "真赭の薄：福原綾香",
+            "白珠：釘宮理恵",
+            "澄尾：竹内栄治",
+            "長束：日野聡",
+            "路近：白熊寛嗣",
+            "敦房：河西健吾",
+            "藤波：青山吉能",
+            "大紫の御前：田中敦子",
+            "滝本：清水はる香",
+            "うこぎ：宮寺智子",
+            "菊野：大地葉",
+            "苧麻：きそひろこ",
+            "茶の花：磯辺万沙子",
+            "雪正：近藤浩徳",
+            "雪馬：梶原岳人",
+            "雪雉：引坂理絵",
+            "東家当主：家中宏",
+            "西家当主：三上哲",
+            "南家当主：咲野俊介",
+            "北家当主：楠見尚己"
+        ],
+        "crews": [
+            "原作：阿部智里",
+            "監督：京極義昭",
+            "シリーズ構成：山室有紀子",
+            "キャラクターデザイン：乘田拓茂",
+            "音楽：瀬川英史",
+            "音響監督：丹下雄二",
+            "アニメーション制作：ぴえろ",
+            "制作・著作：NHK　NHKエンタープライズ　ぴえろ"
+        ],
+        "copyrights": [
+            "(C)阿部智里／文藝春秋／NHK・NEP・ぴえろ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726035438,
+    "endAt": 1756652400,
+    "transcodeVersion": "34gvEa",
+    "sharedLink": {
+        "twitter": "https://abema.app/NA27",
+        "facebook": "https://abema.app/YWjd",
+        "google": "https://abema.app/RpFC",
+        "line": "https://abema.app/L93F",
+        "copy": "https://abema.app/NQTV",
+        "instagram": "https://abema.app/STRH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/142-6_s1_p18/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/142-6_s1_p18/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/142-6_s1_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.142-6_s1_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 1380.0453333333332,
+        "opening": {
+            "start": 123.998875,
+            "end": 213.96375
+        },
+        "ending": {
+            "start": 1380.0453333333332,
+            "end": 1469.9685
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/142-6_s1_p18/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "142-6_eg0"
+}

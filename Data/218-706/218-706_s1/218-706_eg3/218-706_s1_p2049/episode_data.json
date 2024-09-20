@@ -1,0 +1,121 @@
+{
+    "id": "218-706_s1_p2049",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 492
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2049,
+        "title": "#17：9月開催のABEMAアニメ祭の続報解禁！「劇場総集編ぼっち・ざ・ろっく」特別上映など、追加作品が続々決定！",
+        "content": "「劇場総集編ぼっち・ざ・ろっく」や「傷物語 -こよみヴァンプ-」「君は冥土様。」など追加作品の上映が決定！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726126681,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "2X1qNj",
+    "sharedLink": {
+        "twitter": "https://abema.app/5fzK",
+        "facebook": "https://abema.app/iCh4",
+        "google": "https://abema.app/EjXv",
+        "line": "https://abema.app/wpxE",
+        "copy": "https://abema.app/Z2HM",
+        "instagram": "https://abema.app/2wDc"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-706_s1_p2049/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-706_s1_p2049/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-706_s1_p2049/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-706_s1_p2049/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p2049"
+    },
+    "viewingPoint": {
+        "suggestion": 487.8874
+    },
+    "nextProgramInfo": {
+        "programId": "218-706_s1_p2055",
+        "title": "#19：漫画「ドカ食いダイスキ！ もちづきさん」を紹介！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726126681,
+        "endAt": 1745074800,
+        "freeEndAt": 1745074800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1745074800
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p2049/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg3"
+}

@@ -1,0 +1,162 @@
+{
+    "id": "481-9_s1_p1",
+    "series": {
+        "id": "481-9",
+        "title": "テクノロイド オーバーマインド",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-9",
+            "filename": "thumb.png",
+            "query": "version=1671694361",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-9",
+            "filename": "portrait.png",
+            "query": "version=1671694361",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-9_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話",
+        "content": "空き家に暮らすアンドロイドのコバルト、クロム、ケイ、ネオン。四人は巨額の借金を返済するためエンターテインメントタワー『バベル』で賞金を得ようとしていた。そんな中、父を亡くした少年・エソラとの出会いによって、四人の特別なプログラムが作動し始める。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "コバルト：浦和希",
+            "クロム：渋谷慧",
+            "ケイ：峯田大夢",
+            "ネオン：kayto",
+            "カイト：古川慎",
+            "ライト：萩谷慧悟",
+            "ナイト：梶原岳人",
+            "エソラ：田村睦心",
+            "エリザ：瀬戸麻沙美",
+            "デンタロボ：堀江瞬"
+        ],
+        "crews": [
+            "原案：上松範康×RUCCA×Elements Garden",
+            "原作：芝浦アンドロイド研究室",
+            "監督：イムガヒ",
+            "スーパーバイザー：吉村愛",
+            "シリーズ構成：関根アユミ",
+            "キャラクター原案：LAM",
+            "キャラクターデザイン：﨑口さおり",
+            "音楽：Elements Garden×RUCCA",
+            "音響監督：長崎行男",
+            "タイトル＆ロゴ制作：雷雷公社",
+            "CG制作：LOGIC&MAGIC",
+            "アニメーション制作：動画工房"
+        ],
+        "copyrights": [
+            "(C)芝浦アンドロイド研究室/TECHNO-OM Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1701400077,
+    "endAt": 1838127600,
+    "freeEndAt": 1838127600,
+    "transcodeVersion": "7WqAsV",
+    "sharedLink": {
+        "twitter": "https://abema.app/M2XK",
+        "facebook": "https://abema.app/87Mf",
+        "google": "https://abema.app/PZHT",
+        "line": "https://abema.app/XwsA",
+        "copy": "https://abema.app/YGeV",
+        "instagram": "https://abema.app/dwrd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/481-9_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/481-9_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/481-9_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/481-9_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-9_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.012911,
+        "ending": {
+            "start": 1232.212511,
+            "end": 1317.806555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "481-9_s1_p2",
+        "title": "第2話",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1701400077,
+        "endAt": 1838127600,
+        "freeEndAt": 1726868400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726868400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-9_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1838127600
+        }
+    ],
+    "episodeGroupId": "481-9_eg0"
+}

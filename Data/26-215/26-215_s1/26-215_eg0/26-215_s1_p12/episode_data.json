@@ -1,0 +1,142 @@
+{
+    "id": "26-215_s1_p12",
+    "series": {
+        "id": "26-215",
+        "title": "俺だけレベルアップな件",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-215",
+            "filename": "thumb.png",
+            "query": "version=1704100961",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-215",
+            "filename": "portrait.png",
+            "query": "version=1704100961",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-215_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 Arise",
+        "content": "赤い騎士“イグリット”を倒すも、終わりのない戦いに消耗していく旬。最弱だった過去の幻影を見た旬は、より強い自分を目指すためクエスト攻略の糸口を探る。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "水篠 旬：坂 泰斗",
+            "諸菱賢太：中村源太",
+            "水篠 葵：三川華月",
+            "向坂 雫：上田麗奈",
+            "最上 真：平川大輔",
+            "白川大虎：東地宏樹",
+            "後藤清臣：銀河万丈",
+            "犬飼 晃：古川 慎"
+        ],
+        "crews": [
+            "原作：DUBU(REDICE STUDIO)、Chugong、h-goon（D＆C WEBTOON Biz 発行）",
+            "監督：中重俊祐",
+            "シリーズ構成：木村 暢",
+            "キャラクターデザイン：須藤智子",
+            "サブキャラクターデザイン：古住千秋",
+            "モンスターデザイン：徳田大貴",
+            "プロップデザイン：白石創太郎",
+            "美術監督：奥村泰浩",
+            "色彩設計：中野尚美",
+            "撮影監督：井関大智",
+            "CG監督：森岡俊宇",
+            "モーショングラフィックス：大城丈宗(Production I.G)",
+            "編集：近藤勇二",
+            "音響監督：田中亮",
+            "音楽：澤野弘之",
+            "アニメーション制作：A-1 Pictures"
+        ],
+        "copyrights": [
+            "(C)Solo Leveling Animation Partners"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712059461,
+    "endAt": 1759244400,
+    "transcodeVersion": "4fvuLF",
+    "sharedLink": {
+        "twitter": "https://abema.app/yPMk",
+        "facebook": "https://abema.app/2KEJ",
+        "google": "https://abema.app/xbGR",
+        "line": "https://abema.app/fPWV",
+        "copy": "https://abema.app/w8Mj",
+        "instagram": "https://abema.app/G9Uu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-215_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-215_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-215_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-215_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.9969166666667,
+        "opening": {
+            "start": 120.03658333333334,
+            "end": 209.95975
+        },
+        "ending": {
+            "start": 1301.7587916666666,
+            "end": 1391.7236666666668
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-215_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "26-215_eg0"
+}

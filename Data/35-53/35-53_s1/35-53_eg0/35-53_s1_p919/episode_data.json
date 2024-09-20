@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p919",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 645
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 919,
+        "title": "#919 ツバメののび太",
+        "content": "のび太の部屋のまどから見える電線に、季節外れのツバメがとまっているのを見つけたドラえもんとのび太。ねぼうしておき去りにされたか、方向オンチで帰り道がわからなくなったんじゃないかと言うのび太に、ドラえもんは、顔ものび太ににていると答える。\n　ツバメが飛び去った後、スネ夫がのび太をさそいに来た。様々な熱帯魚の入った大きな水そうを見せつけるためだった。くやしくなったのび太は、思わず「自分はクジラをかっている」と言ってしまう…。だったら見に行くと、そのままジャイアンとスネ夫、しずかがのび太の家にやってくる。\n　意を決し、のび太が部屋のドアを開けると、なんと、部屋の中には大きな水そうがあり、中に小さなクジラが入っていたからビックリ！ 『自家用人工衛星（えいせい）』でのび太の様子を見ていたドラえもんが、自然のままの動物の生態（せいたい）を見ることができるひみつ道具『動物観察ケース』を、クジラのいる南氷洋とつないでいたのだ。\n　みんなが帰った後、のび太たちは世界中のいろいろな場所と観察ケースをつないでみるが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1751295600,
+    "transcodeVersion": "3dK49V",
+    "sharedLink": {
+        "twitter": "https://abema.app/yFnW",
+        "facebook": "https://abema.app/WNSS",
+        "google": "https://abema.app/oRhz",
+        "line": "https://abema.app/zRCx",
+        "copy": "https://abema.app/dX1q",
+        "instagram": "https://abema.app/43nr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p919/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p919/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p919/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p919"
+    },
+    "viewingPoint": {
+        "suggestion": 640.0977916666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p920",
+        "title": "#920 しあわせトランプの恐怖",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p919/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

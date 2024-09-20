@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s16_p605",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s16",
+        "sequence": 16,
+        "name": "season16",
+        "thumbComponent": {},
+        "order": 16
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 605,
+        "title": "第605話 降霊会Ｗ密室事件（密室開放）",
+        "content": "澤南が殺害前に書き残したキラという文字を見て犯人に気付いたコナン。だが、小五郎の推理が間違いである事を証明するためには２つの密室トリックを暴かなければならなかった。この後、コナンは比良坂の部屋、瞑想の間を調べ、２つの密室の謎を解く。そして、小五郎に麻酔銃を発射。眠りの小五郎として解決劇を始める…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一･山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066309,
+    "endAt": 1740754800,
+    "transcodeVersion": "73cXP7",
+    "sharedLink": {
+        "twitter": "https://abema.app/ie75",
+        "facebook": "https://abema.app/CHbZ",
+        "google": "https://abema.app/gfL5",
+        "line": "https://abema.app/ipKa",
+        "copy": "https://abema.app/3D45",
+        "instagram": "https://abema.app/9TSJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s16_p605/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s16_p605/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s16_p605/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s16_p605"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0589666666667,
+        "opening": {
+            "start": 33.767066666666665,
+            "end": 120.05326666666667
+        },
+        "ending": {
+            "start": 1311.0097,
+            "end": 1390.9896
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s16_p606",
+        "title": "第606話 法廷の対決Ⅳ　裁判員小林澄子（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066309,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s16_p605/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

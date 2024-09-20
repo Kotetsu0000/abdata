@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p902",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 645
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 902,
+        "title": "#902 ねこっかぶり",
+        "content": "今日もママにおこられたのび太は、のんびり日向ぼっこをしているノラネコを見て、自由でいいなぁと言い出す。それを聞いたドラえもんは、「ネコにはネコの苦労がある」と話すが、自分もネコになりたいと言うのび太に、「そこまで言うなら、なってみればいい」と、かぶるだけでネコになれるという『ねこっかぶり』をわたす。\n\nさっそくのび太がねこっかぶりをかぶったところ、体が毛でおおわれ、あっという間にネコのすがたになったからビックリ！ これをかぶっている間は、人間に言葉が通じなくなり、ネコの言葉がわかるようになるのだという。\n\nネコになったのび太は大よろこびで外に出ると、屋根の上で日向ぼっこをしたり、すてられているダンボールでツメを研いだり、しずかにネコじゃらしで遊んでもらったりと、自由を満喫（まんきつ）。その後、ノラネコたちの集会に参加したのび太は、ニャン太郎というノラネコと意気投合し、いっしょにエサをさがしに行くが、なれないことだらけで…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335976,
+    "endAt": 1740754800,
+    "transcodeVersion": "2k9dz1",
+    "sharedLink": {
+        "twitter": "https://abema.app/fJrT",
+        "facebook": "https://abema.app/goh2",
+        "google": "https://abema.app/gEbu",
+        "line": "https://abema.app/ckk4",
+        "copy": "https://abema.app/g8oV",
+        "instagram": "https://abema.app/Vi2x"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p902/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p902/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p902/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p902"
+    },
+    "viewingPoint": {
+        "suggestion": 640.0560833333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p903",
+        "title": "#903 強～いイシ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335976,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p902/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

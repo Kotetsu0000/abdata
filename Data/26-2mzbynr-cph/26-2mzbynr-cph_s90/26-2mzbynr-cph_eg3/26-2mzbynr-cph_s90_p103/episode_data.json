@@ -1,0 +1,143 @@
+{
+    "id": "26-2mzbynr-cph_s90_p103",
+    "series": {
+        "id": "26-2mzbynr-cph",
+        "title": "〈物語〉シリーズ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "thumb.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-2mzbynr-cph",
+            "filename": "portrait.png",
+            "query": "version=1725948475",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-2mzbynr-cph_s90",
+        "sequence": 90,
+        "name": "続・終物語",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1565
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 103,
+        "title": "#3 こよみリバース 其ノ参",
+        "content": "事態の解決方法はわからないまま、長い一日を終えた暦は眠りにつこうとする。しかしベッドに入ったのもつかの間、余接によって起こされた暦は、ある人物の元へと案内されていく。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "阿良々木暦：神谷浩史",
+            "戦場ヶ原ひたぎ：斎藤千和",
+            "八九寺真宵：加藤英美里",
+            "神原駿河：沢城みゆき",
+            "千石撫子：花澤香菜",
+            "羽川翼：堀江由衣",
+            "阿良々木火憐：喜多村英梨",
+            "阿良々木月火：井口裕香",
+            "斧乃木余接：早見沙織",
+            "老倉育：井上麻里奈"
+        ],
+        "crews": [
+            "原作：西尾維新（『続・終物語』講談社BOX）",
+            "キャラクター原案：VOFAN",
+            "監督：新房昭之",
+            "シリーズ構成：東冨耶子、新房昭之",
+            "キャラクターデザイン・総作画監督：渡辺明夫",
+            "アニメーション制作：シャフト"
+        ],
+        "copyrights": [
+            "(C)西尾維新／講談社・アニプレックス・シャフト"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725262972,
+    "endAt": 1755442800,
+    "transcodeVersion": "12FoMz",
+    "sharedLink": {
+        "twitter": "https://abema.app/grSk",
+        "facebook": "https://abema.app/fxMp",
+        "google": "https://abema.app/cgwU",
+        "line": "https://abema.app/rQRy",
+        "copy": "https://abema.app/k7jZ",
+        "instagram": "https://abema.app/i8cN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s90_p103/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s90_p103/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-2mzbynr-cph_s90_p103/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-2mzbynr-cph_s90_p103"
+    },
+    "viewingPoint": {
+        "suggestion": 1560.0167916666667
+    },
+    "nextProgramInfo": {
+        "programId": "26-2mzbynr-cph_s90_p104",
+        "title": "#4 こよみリバース 其ノ肆",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1725262972,
+        "endAt": 1755442800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1755442800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-2mzbynr-cph_s90_p103/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1755442800
+        }
+    ],
+    "episodeGroupId": "26-2mzbynr-cph_eg3"
+}

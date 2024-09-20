@@ -1,0 +1,145 @@
+{
+    "id": "5-38_s11_p272",
+    "series": {
+        "id": "5-38",
+        "title": "ワンピース",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+            "filename": "thumb.png",
+            "query": "version=1704865594",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+            "filename": "portrait.png",
+            "query": "version=1704865594",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-38_s11",
+        "sequence": 11,
+        "name": "エニエスロビー編",
+        "thumbComponent": {},
+        "order": 11
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1417
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 272,
+        "title": "第272話　ルフィ目前！ 裁判所前広場へ集結せよ",
+        "content": "麦わら海賊団による衛兵の被害総数は、なんと２千人以上！　エニエス・ロビーの歴史始まって以来、最悪の事態だ。千人以上を一人で倒したルフィは、今も裁判所屋上で交戦中。ブルーノの「六式」を完全に見切り、さらに技を進化させると言い放つ！"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "モンキー・Ｄ・ルフィ：田中真弓",
+            "ナミ：岡村明美",
+            "ロロノア・ゾロ：中井和哉",
+            "ウソップ：山口勝平",
+            "サンジ：平田広明",
+            "トニートニー・チョッパー：大谷育江",
+            "ニコ・ロビン：山口由里子",
+            "フランキー：矢尾一樹",
+            "ブルック：チョー"
+        ],
+        "crews": [
+            "シリーズ構成：上坂浩彦（第284～）",
+            "シリーズディレクター：宇田鋼之介（第1話～第278話）、志水淳児（第131話～第159話）、境宗久（第241話～製作第365話）、宮元宏彰（製作第343話～）",
+            "製作担当：樋口宗久（第1話～第115話）、藤岡和実（第50話～第302話）、坂本憲生知（第270話～第298話）、松坂一光（第303話～第425話）、黒木耕次郎（第426話～）",
+            "キャラクターデザイン：小泉昇（第1話～第425話）、久田和也（製作第378話～）",
+            "美術設定／美術デザイン：吉池隆司",
+            "音楽：田中公平、浜口史郎"
+        ],
+        "copyrights": [
+            "(C)尾田栄一郎／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1675063012,
+    "endAt": 1735138800,
+    "transcodeVersion": "2UX6st",
+    "sharedLink": {
+        "twitter": "https://abema.app/mWmh",
+        "facebook": "https://abema.app/T8Dr",
+        "google": "https://abema.app/8v5Z",
+        "line": "https://abema.app/Gqj8",
+        "copy": "https://abema.app/ZjzA",
+        "instagram": "https://abema.app/N9jY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-38_s11_p272/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-38_s11_p272/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-38_s11_p272/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-38_s11_p272"
+    },
+    "viewingPoint": {
+        "suggestion": 1316.171388,
+        "opening": {
+            "start": 294.164787,
+            "end": 402.164787
+        },
+        "ending": {
+            "start": 1316.171388,
+            "end": 1385.171388
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-38_s11_p273",
+        "title": "第273話　全ては仲間を守る為に！ ギア２発動！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1675063012,
+        "endAt": 1735138800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735138800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-38_s11_p272/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735138800
+        }
+    ],
+    "episodeGroupId": "5-38_eg0"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "5-64_s1_p35",
+    "series": {
+        "id": "5-64",
+        "title": "ひろがるスカイ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "thumb.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-64",
+            "filename": "portrait.png",
+            "query": "version=1721612564",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 35,
+        "title": "第35話 助っ人ソラ！エースとヒーロー",
+        "content": "女子野球部のエース・四宮たまきが肘の故障で休養する間、女子野球部のコーチを頼まれたソラ。しかし、たまきの治療のためには手術が必要なことが明らかになる。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ソラ・ハレワタール／キュアスカイ：関根明良",
+            "虹ヶ丘ましろ（にじがおか ましろ）／キュアプリズム：加隈亜衣",
+            "エル：古賀葵"
+        ],
+        "crews": [
+            "シリーズディレクター：小川孝治",
+            "シリーズ構成：金月龍之介",
+            "キャラクターデザイン：斎藤敦史",
+            "美術デザイン：今井美紀",
+            "チーフ美術：門口亜矢",
+            "色彩設計：柳澤久美子",
+            "音楽：深澤恵梨香",
+            "プロデューサー：田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、鷲尾 天、髙橋 麻樹"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722331070,
+    "endAt": 1740754800,
+    "transcodeVersion": "3MJ9ZL",
+    "sharedLink": {
+        "twitter": "https://abema.app/U98Q",
+        "facebook": "https://abema.app/D9S4",
+        "google": "https://abema.app/mPJX",
+        "line": "https://abema.app/ttBk",
+        "copy": "https://abema.app/r1C1",
+        "instagram": "https://abema.app/DVh5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p35/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p35/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-64_s1_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-64_s1_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.722375,
+        "opening": {
+            "start": 109.06729166666666,
+            "end": 199.11558333333332
+        },
+        "ending": {
+            "start": 1348.722375,
+            "end": 1440.2304583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-64_s1_p36",
+        "title": "第36話 あげは、最強の保育士失格！？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722331079,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-64_s1_p35/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-64_eg0"
+}

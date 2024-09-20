@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s17_p679",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s17",
+        "sequence": 17,
+        "name": "season17",
+        "thumbComponent": {},
+        "order": 17
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 679,
+        "title": "第679話 長崎ミステリー劇場（現代篇）",
+        "content": "コナンは蝶々夫人をオペラ歌手の三浦環さんと喜波貞子さんが演じた事を知り、蘭の役、みうら屋のお貞と何か関係があると確信する。警察はこの付近で目撃された巽耕作を犯人と疑う。そんな中、漣兆次郎が展望台近くで巽に殴られる事件が起きてしまう。翌日、コナンは撮影シーンを足掛かりに事件の真相に近づき…。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人、山川剛史",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋、牟田清司"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066311,
+    "endAt": 1740754800,
+    "transcodeVersion": "45bVFJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/4eoX",
+        "facebook": "https://abema.app/BiYa",
+        "google": "https://abema.app/ZsfG",
+        "line": "https://abema.app/bgbv",
+        "copy": "https://abema.app/YYQT",
+        "instagram": "https://abema.app/qatr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p679/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p679/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s17_p679/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s17_p679"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.0256,
+        "opening": {
+            "start": 94.094,
+            "end": 181.01416666666665
+        },
+        "ending": {
+            "start": 1295.4274666666668,
+            "end": 1375.4073666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s17_p680",
+        "title": "第680話 サボテン狂騒曲",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066311,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s17_p679/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

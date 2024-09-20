@@ -1,0 +1,179 @@
+{
+    "id": "30-5_s4_p63",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s4",
+        "sequence": 4,
+        "name": "The Final Season",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1435
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 63,
+        "title": "#63 手から手へ",
+        "content": "戦士候補生の一人、ファルコ・グライス。想いを寄せるガビ・ブラウンを守るためには、自分が「鎧の巨人」を継承しなければならない。しかし、ガビとの成績の差は開くばかり。肩を落として歩く彼に声を掛けたのは、クルーガーと名乗る男だった。クルーガーは家族に無事を伝える手紙をファルコに託す。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "エレン・イェーガー：梶 裕貴",
+            "ミカサ・アッカーマン：石川由依",
+            "アルミン・アルレルト：井上麻里奈",
+            "コニー・スプリンガー：下野 紘",
+            "サシャ・ブラウス：小林ゆう",
+            "ヒストリア・レイス：三上枝織",
+            "ジャン・キルシュタイン：谷山紀章",
+            "ライナー・ブラウン：細谷佳正",
+            "ハンジ・ゾエ：朴 璐美",
+            "リヴァイ：神谷浩史",
+            "ジーク：子安武人",
+            "ファルコ・グライス：花江夏樹",
+            "ガビ・ブラウン：佐倉綾音",
+            "ピーク：沼倉愛美",
+            "ポルコ・ガリアード：増田俊樹",
+            "ウド：村瀬歩",
+            "ゾフィア：川島悠美",
+            "コルト・グライス：松風雅也"
+        ],
+        "crews": [
+            "原作：諫山 創(別冊少年マガジン連載/講談社)",
+            "監督：林祐一郎",
+            "シリーズ構成：瀬古浩司",
+            "キャラクターデザイン：岸 友洋",
+            "総作画監督：新沼大祐",
+            "演出チーフ：宍戸淳",
+            "エフェクト作画監督：酒井智史、古俣太一",
+            "色彩設計：末永絢子",
+            "美術監督：小倉一男",
+            "画面設計：淡輪雄介",
+            "3DCG 監督：上薗隆浩",
+            "撮影監督：浅川茂輝",
+            "編集：吉武将人",
+            "音響監督：三間雅文",
+            "音楽：澤野弘之/KOHTA YAMAMOTO",
+            "音響効果：山谷尚人(サウンドボックス)",
+            "音響制作：テクノサウンド",
+            "アニメーションプロデューサー：松永理人",
+            "制作：MAPPA"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」The Final Season製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248134,
+    "endAt": 1730386800,
+    "transcodeVersion": "6HUUgo",
+    "sharedLink": {
+        "twitter": "https://abema.app/oyfN",
+        "facebook": "https://abema.app/3qh2",
+        "google": "https://abema.app/35mk",
+        "line": "https://abema.app/Zf4Y",
+        "copy": "https://abema.app/gGPu",
+        "instagram": "https://abema.app/5T91"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/30-5_s4_p63/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/30-5_s4_p63/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/30-5_s4_p63/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-5_s4_p63"
+    },
+    "viewingPoint": {
+        "suggestion": 1420.025144,
+        "opening": {
+            "start": 52.075222,
+            "end": 142.0381
+        },
+        "ending": {
+            "start": 1288.769011,
+            "end": 1350.035555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-5_s4_p64",
+        "title": "#64 宣戦布告",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1699248134,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-5_s4_p63/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

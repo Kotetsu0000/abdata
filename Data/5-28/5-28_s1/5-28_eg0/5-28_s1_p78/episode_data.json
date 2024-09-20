@@ -1,0 +1,147 @@
+{
+    "id": "5-28_s1_p78",
+    "series": {
+        "id": "5-28",
+        "title": "ドラゴンボール",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+            "filename": "thumb.png",
+            "query": "version=1681281962",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+            "filename": "portrait.png",
+            "query": "version=1681281962",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-28_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1496
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 78,
+        "title": "第78話　神龍ふたたび",
+        "content": "７個のドラゴンボールを集めた悟空は、ウパとともに聖地カリンに戻った。再び姿を現す神龍。神龍はウパの願いを叶え、死んだ父親ボラをよみがえらせる。長かったレッドリボン軍とのドラゴンボール争奪戦は、完全に決着したのだ。四星球を確保した悟空は、さらなる修行の場を求めて仲間たちに別れを告げる。"
+    },
+    "credit": {
+        "released": 1986,
+        "casts": [
+            "孫悟空：野沢雅子",
+            "ブルマ：鶴ひろみ",
+            "ヤムチャ：古谷徹",
+            "ウーロン：龍田直樹",
+            "プーアル：渡辺菜生子",
+            "ピラフ：千葉繁",
+            "シュウ：玄田哲章",
+            "マイ：山田栄子",
+            "亀仙人：宮内幸平",
+            "天津飯：鈴置洋孝",
+            "クリリン：田中真弓",
+            "ピッコロ大魔王：青野武",
+            "牛魔王：郷里大輔",
+            "ナレーター：八奈見乗児"
+        ],
+        "crews": [
+            "原作：鳥山明",
+            "企画：土屋登喜蔵、清水賢治、七條敬三",
+            "製作担当：岸本松司",
+            "チーフディレクター：岡崎稔、西尾大介",
+            "チーフアニメーター：前田実",
+            "チーフデザイナー：辻忠直、池田祐二",
+            "音楽：菊池俊輔"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ／集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683628305,
+    "endAt": 1756652400,
+    "transcodeVersion": "6tpR3U",
+    "sharedLink": {
+        "twitter": "https://abema.app/guQC",
+        "facebook": "https://abema.app/yD9h",
+        "google": "https://abema.app/G6hn",
+        "line": "https://abema.app/ojv4",
+        "copy": "https://abema.app/Sfrd",
+        "instagram": "https://abema.app/28LE"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-28_s1_p78/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-28_s1_p78/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-28_s1_p78/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-28_s1_p78"
+    },
+    "viewingPoint": {
+        "suggestion": 1368.367,
+        "opening": {
+            "start": 15.015,
+            "end": 124.08229166666666
+        },
+        "ending": {
+            "start": 1368.367,
+            "end": 1465.4222916666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-28_s1_p79",
+        "title": "第79話　金角・銀角の人食いひょうたん",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683628305,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-28_s1_p78/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "5-28_eg0"
+}

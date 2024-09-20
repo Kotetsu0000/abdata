@@ -1,0 +1,140 @@
+{
+    "id": "35-46_s0_p26",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6407
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 26,
+        "title": "映画ドラえもん のび太の恐竜2006",
+        "content": "のび太くんがぐうぜんに掘（ほ）り当てた卵（たまご）の化石をタイムふろしきで元の姿にもどすと…。のび太くんとピー助の心あたたまる物語。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "原作：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2006"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "2iQEir",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/vJmBn",
+        "facebook": "https://gxyt4.app.goo.gl/1sHVf",
+        "google": "https://gxyt4.app.goo.gl/JvE4y",
+        "line": "https://gxyt4.app.goo.gl/81k9G",
+        "copy": "https://gxyt4.app.goo.gl/L4ni4",
+        "instagram": "https://gxyt4.app.goo.gl/czcfL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-46_s0_p26/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-46_s0_p26/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-46_s0_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 6180.183593,
+        "opening": {
+            "start": 10.467155,
+            "end": 100.589679
+        },
+        "ending": {
+            "start": 6178.662282,
+            "end": 6407.918005
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p27",
+        "title": "映画ドラえもん のび太の新魔界大冒険～7人の魔法使い～",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1709522815,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p26/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

@@ -1,0 +1,148 @@
+{
+    "id": "2-6cttrbwmkim_s5_p24",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s5",
+        "sequence": 5,
+        "name": "第5シリーズ",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 24,
+        "title": "第24話 死闘の果て",
+        "content": "決着したワールド・カップ決勝戦。試合後、ギブソンが運ばれた病院へ向かう吾郎。ギブソンの手術成功を寿也に告げた吾郎は、日本代表チームの解散式を欠席。寿也のもとには、美穂が訪ねてきた。再会を果たした兄と妹…それを陰から見守る清水。翌朝、日本へ帰国する寿也たち。そして吾郎は…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "佐藤寿也：森田成一",
+            "京四郎：内田夕夜",
+            "板尾：乃村健次",
+            "勝呂：松本保典"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理敬　吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277071,
+    "endAt": 1741446000,
+    "transcodeVersion": "2xAJ4L",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Kd1xe",
+        "facebook": "https://gxyt4.app.goo.gl/bfqkL",
+        "google": "https://gxyt4.app.goo.gl/LsSsc",
+        "line": "https://gxyt4.app.goo.gl/rbwBh",
+        "copy": "https://gxyt4.app.goo.gl/mAuha",
+        "instagram": "https://gxyt4.app.goo.gl/DkRKC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p24/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p24/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-6cttrbwmkim_s5_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 2.310086,
+            "end": 89.11079
+        },
+        "ending": {
+            "start": 1366.540794,
+            "end": 1454.671575
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-6cttrbwmkim_s5_p25",
+        "title": "第25話 明日への道",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277071,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-6cttrbwmkim_s5_p24/timeline",
+        "query": "version=2xAJ4L",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

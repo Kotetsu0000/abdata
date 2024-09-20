@@ -1,0 +1,127 @@
+{
+    "id": "35-46_s1_p42",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6455
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 42,
+        "title": "映画ドラえもん のび太と空の理想郷",
+        "content": "空に謎の三日月型の島を見つけたのび太は「あれこそ僕が探していたユートピアだ！」と言い張り、\nドラえもんたちと一緒にひみつ道具の飛行船『タイムツェッペリン』で、その島を探しに出かけることに！\n色々な時代・場所を探してやっと見つけたその正体は、誰もがパーフェクトになれる夢のような楽園＜パラダピア＞だった！\nそしてそこで出会ったのは、何もかも完璧なパーフェクトネコ型ロボット・ソーニャ。\nすっかり仲良くなったドラえもんたちとソーニャだったが、どうやらこの楽園には大きな秘密が隠されているようで･･･。\nはたしてのび太たちは、その楽園の謎を解き明かすことができるのか！？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "のび太：大原めぐみ",
+            "しずか：かかずゆみ",
+            "ジャイアン：木村昴",
+            "スネ夫：関智一",
+            "マリンバ：井上麻里奈",
+            "ハンナ：水瀬いのり",
+            "未来デパートの配達員：山里亮太（南海キャンディーズ）",
+            "パラダピアの学校の先生：藤本美貴",
+            "ソーニャ：永瀬廉（King & Prince）"
+        ],
+        "crews": [
+            "原作：藤子・F・不二雄",
+            "監督：堂山　卓見",
+            "脚本：古沢　良太",
+            "音楽：服部　隆之"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2023"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1710993378,
+    "endAt": 1741014000,
+    "transcodeVersion": "6iwXZB",
+    "sharedLink": {
+        "twitter": "https://abema.app/Tkjk",
+        "facebook": "https://abema.app/5wn5",
+        "google": "https://abema.app/6PGZ",
+        "line": "https://abema.app/Pzup",
+        "copy": "https://abema.app/NDDB",
+        "instagram": "https://abema.app/xG61"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-46_s1_p42/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-46_s1_p42/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-46_s1_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s1_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 6246.281708333333,
+        "ending": {
+            "start": 6245.822916666667,
+            "end": 6455.031916666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s1_p42/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

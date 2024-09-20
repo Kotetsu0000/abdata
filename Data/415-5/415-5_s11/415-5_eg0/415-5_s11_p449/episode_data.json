@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s11_p449",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s11",
+        "sequence": 11,
+        "name": "season11",
+        "thumbComponent": {},
+        "order": 11
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2857
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 449,
+        "title": "第449話 本庁の刑事恋物語 偽りのウエディング",
+        "content": "小五郎、コナン、蘭は東都迎賓館で挙げられた結婚式に出席した後、式場の廊下で花婿姿の高木刑事とバッタリ会う。高木の後ろには花嫁姿の婦警、由美もいる。状況が掴めない蘭たち。実は、ある花嫁、花婿から強盗犯に命を狙われていると警察に通報があり、高木と由美は本物の2人の代わりに立てられた替え玉だという。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066306,
+    "endAt": 1740754800,
+    "transcodeVersion": "4v7ydi",
+    "sharedLink": {
+        "twitter": "https://abema.app/B8A2",
+        "facebook": "https://abema.app/mXnW",
+        "google": "https://abema.app/Wb9K",
+        "line": "https://abema.app/k8TL",
+        "copy": "https://abema.app/3S5y",
+        "instagram": "https://abema.app/pjJv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s11_p449/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s11_p449/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s11_p449/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s11_p449"
+    },
+    "viewingPoint": {
+        "suggestion": 2812.0759333333335,
+        "opening": {
+            "start": 14.7147,
+            "end": 102.06863333333334
+        },
+        "ending": {
+            "start": 2636.3337,
+            "end": 2721.3186
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s11_p450",
+        "title": "第450話 トリックvsマジック（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066306,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s11_p449/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

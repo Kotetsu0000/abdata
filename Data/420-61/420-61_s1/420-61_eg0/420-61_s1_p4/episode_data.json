@@ -1,0 +1,150 @@
+{
+    "id": "420-61_s1_p4",
+    "series": {
+        "id": "420-61",
+        "title": "SHY",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-61",
+            "filename": "thumb.png",
+            "query": "version=1721295768",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-61",
+            "filename": "portrait.png",
+            "query": "version=1721295768",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-61_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話「心ない人」",
+        "content": "熱・空気・力など「流れ」を操る能力を持つスターダストを前に、シャイはなすすべもなくやられてしまう。甘さゆえにヒーローに向かないことを看破されてしまうシャイだったが、惟子の応援を受けて徐々に自身の持つ力に目覚めていく。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "シャイ/紅葉山テル：下地紫野",
+            "小石川惟子：東山奈央",
+            "えびお：杉田智和",
+            "スピリッツ：能登麻美子",
+            "スターダスト：三木眞一郎",
+            "レディ・ブラック：鈴代紗弓",
+            "ミェンロン：村瀬歩",
+            "ユニロード：井上喜久子"
+        ],
+        "crews": [
+            "原作：実樹ぶきみ（秋田書店「週刊少年チャンピオン」連載）",
+            "監督：安藤正臣",
+            "助監督：谷口工作",
+            "シリーズ構成・脚本：中西やすひろ",
+            "メインキャラクターデザイン：田中雄一",
+            "キャラクターデザイン・総作画監督：髙井里沙　末田晃大",
+            "アクションディレクター：諸貫哲朗",
+            "CGディレクター：相澤楓馬",
+            "美術監督：下山和人",
+            "色彩設計：斉藤麻記",
+            "撮影監督：魚山真志（chiptune）",
+            "編集：内田恵（MarvyJack）",
+            "音響監督：濱野高年",
+            "音楽：椿山日南子",
+            "アニメーション制作：エイトビット"
+        ],
+        "copyrights": [
+            "(C)実樹ぶきみ（秋田書店）／SHY製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726206605,
+    "endAt": 1759244400,
+    "transcodeVersion": "2AFTkq",
+    "sharedLink": {
+        "twitter": "https://abema.app/yT3Y",
+        "facebook": "https://abema.app/KpZ3",
+        "google": "https://abema.app/vo9P",
+        "line": "https://abema.app/Tnda",
+        "copy": "https://abema.app/ddC8",
+        "instagram": "https://abema.app/nNcX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/420-61_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/420-61_s1_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/420-61_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-61_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.0079166666667,
+        "opening": {
+            "start": 52.052,
+            "end": 141.93345833333333
+        },
+        "ending": {
+            "start": 1321.6119583333334,
+            "end": 1410.6175416666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-61_s1_p5",
+        "title": "第5話「灯をともせ」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726206605,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-61_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "420-61_eg0"
+}

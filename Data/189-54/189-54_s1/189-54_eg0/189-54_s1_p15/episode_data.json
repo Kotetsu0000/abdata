@@ -1,0 +1,154 @@
+{
+    "id": "189-54_s1_p15",
+    "series": {
+        "id": "189-54",
+        "title": "ダークギャザリング",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-54",
+            "filename": "thumb.png",
+            "query": "version=1688117358",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-54",
+            "filename": "portrait.png",
+            "query": "version=1688117358",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-54_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 旧旧Fトンネル",
+        "content": "螢多朗と夜宵は力を合わせ、詠子を救い出すことに成功。夜宵は『旧Ｆトンネル』へ向かう途中に回収した卒業生『殉国禁獄鬼軍曹』で反撃に転じる。「殺してくれ」と祈る鬼軍曹の本領が発揮される時──辺りは戦場と化し、囚われた者は飢えた兵士の餌食となるのだった…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "寶月夜宵：篠原侑",
+            "幻燈河螢多朗：島﨑信長",
+            "寶月詠子：花澤香菜",
+            "神代愛依：川口莉奈"
+        ],
+        "crews": [
+            "原作：近藤憲⼀（集英社『ジャンプSQ.』連載）",
+            "監督：博史池畠（『群れなせ!シートン学園』『キラッとプリ☆チャン』）",
+            "シリーズ構成：村越繁",
+            "美術監督：長田泰治郎",
+            "撮影監督：安藤優穂",
+            "3Dディレクター：上薗隆浩",
+            "色彩設計：歌川律子",
+            "音響監督：吉田光平",
+            "音楽：KOHTA YAMAMOTO、成田旬、瀬尾祐介（Starving Trancer / Xceon）",
+            "制作スタジオ：OLM（『ポケモン』シリーズ、『ベイブレードバースト』シリーズ）"
+        ],
+        "copyrights": [
+            "(C)近藤憲一／集英社・ダークギャザリング製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704338326,
+    "endAt": 1735657200,
+    "transcodeVersion": "6A9sHn",
+    "sharedLink": {
+        "twitter": "https://abema.app/ND62",
+        "facebook": "https://abema.app/DWGG",
+        "google": "https://abema.app/ofWB",
+        "line": "https://abema.app/h7nY",
+        "copy": "https://abema.app/Bb9H",
+        "instagram": "https://abema.app/G7jB"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-54_s1_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-54_s1_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-54_s1_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-54_s1_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.934625,
+        "opening": {
+            "start": 112.65420833333333,
+            "end": 201.74320833333334
+        },
+        "ending": {
+            "start": 1311.2682916666668,
+            "end": 1400.64925
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "189-54_s1_p16",
+        "title": "第16話 物件",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1704338326,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-54_s1_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "189-54_eg0"
+}

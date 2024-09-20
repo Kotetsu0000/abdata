@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s6_p239",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s6",
+        "sequence": 6,
+        "name": "season6",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1472
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 239,
+        "title": "第239話 大阪“３つのK”事件（後編）",
+        "content": "銃声がした部屋にかけつけたコナンと服部平次は、そこで新聞記者のエドが殺害されているのを発見した。コナンと平次はエド殺害のトリックと犯人を解明するため捜査を開始する。３人のオーナーには殺害は不可能と判断するコナンだが、捜査が進むにつれ、一番認めたくない真実がそこにはあった。"
+    },
+    "credit": {
+        "released": 2001,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "総監督：こだま兼嗣",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066301,
+    "endAt": 1740754800,
+    "transcodeVersion": "5HPwd2",
+    "sharedLink": {
+        "twitter": "https://abema.app/5GMn",
+        "facebook": "https://abema.app/xMqg",
+        "google": "https://abema.app/rW4m",
+        "line": "https://abema.app/t1iu",
+        "copy": "https://abema.app/ZAT6",
+        "instagram": "https://abema.app/b6JA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p239/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p239/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s6_p239/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s6_p239"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.4927333333333,
+        "opening": {
+            "start": 17.884533333333334,
+            "end": 101.96853333333334
+        },
+        "ending": {
+            "start": 1238.9377,
+            "end": 1326.9256
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s6_p240",
+        "title": "第240話 新幹線護送事件（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066301,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s6_p239/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

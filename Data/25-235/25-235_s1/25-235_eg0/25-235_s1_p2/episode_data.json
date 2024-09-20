@@ -1,0 +1,156 @@
+{
+    "id": "25-235_s1_p2",
+    "series": {
+        "id": "25-235",
+        "title": "スパイ教室",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-235",
+            "filename": "thumb.png",
+            "query": "version=1688972435",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-235",
+            "filename": "portrait.png",
+            "query": "version=1688972435",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-235_s1",
+        "sequence": 1,
+        "name": "1st season",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 MISSION 《花園》Ⅱ",
+        "content": "チーム「灯」の訓練生活が始まった。しかしメンバーの少女たちは全員落ちこぼれ、ボスのクラウスも教師には全く不向き。このままでは初任務は失敗、全滅も避けられない…？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リリィ：雨宮 天",
+            "グレーテ：伊藤美来",
+            "ジビア：東山奈央",
+            "モニカ：悠木 碧",
+            "ティア：上坂すみれ",
+            "サラ：佐倉綾音",
+            "アネット：楠木ともり",
+            "クラウス：梅原裕一郎"
+        ],
+        "crews": [
+            "原作：竹町（株式会社KADOKAWA ファンタジア文庫刊）",
+            "原作イラスト：トマリ",
+            "監督：川口敬一郎",
+            "シリーズ構成：猪爪慎一",
+            "キャラクターデザイン：木野下澄江",
+            "アニメーション制作：feel.",
+            "製作：「スパイ教室」製作委員会"
+        ],
+        "copyrights": [
+            "(C)竹町・トマリ／KADOKAWA／「スパイ教室」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695979846,
+    "endAt": 1759244400,
+    "freeEndAt": 1726527600,
+    "transcodeVersion": "3B9tq1",
+    "sharedLink": {
+        "twitter": "https://abema.app/Y6NX",
+        "facebook": "https://abema.app/3fbY",
+        "google": "https://abema.app/6PmG",
+        "line": "https://abema.app/2jVf",
+        "copy": "https://abema.app/yWJS",
+        "instagram": "https://abema.app/Phvt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-235_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-235_s1_p2/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-235_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-235_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-235_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.051967
+    },
+    "nextProgramInfo": {
+        "programId": "25-235_s1_p3",
+        "title": "第3話 MISSION 《花園》Ⅲ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1695979846,
+        "endAt": 1759244400,
+        "freeEndAt": 1726527600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726527600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-235_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726527600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "25-235_eg0"
+}

@@ -1,0 +1,79 @@
+{
+    "id": "26-194",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "NieR:Automata Ver1.1a",
+    "content": "西暦5012年。\n突如地球へと飛来してきた＜エイリアン＞と、\n彼らが生み出した＜機械生命体＞により、人類は絶滅の危機に陥った。\n月へと逃げのびた僅かな人類は、地球奪還のため、\n＜アンドロイド＞の兵士を用いた反攻作戦を開始。\nしかし無限に増殖し続ける＜機械生命体＞を前に、戦いは膠着状態に陥る。\n人類は最終兵器として、新型のアンドロイド＜ヨルハ＞部隊を地球へと派遣した。\n\n西暦11945年。\n「第243次降下作戦」が決行され、\n新たに＜ヨルハ＞部隊の＜2B＞と＜9S＞が地球へと派遣される。\n両名は機械生命体の基幹ユニット＜アダム＞及び＜イヴ＞の撃破に成功。\nこれを敵の殲滅、及び永きに亘る戦争終結への好機と捉えた＜人類軍＞は、\n機械生命体に対し総攻撃をかける決断を下す。\n\nこれは運命に翻弄された＜アンドロイド＞たちの、戦いと願いの記録――。",
+    "seasons": [
+        {
+            "id": "26-194_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-194_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1722321732",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-194_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)SQUARE ENIX／人類会議"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726223257150300746",
+    "imageUpdatedAt": 1722321708,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/p1EJ",
+        "facebook": "https://abema.app/mksR",
+        "google": "https://abema.app/AZt4",
+        "line": "https://abema.app/r5S9",
+        "copy": "https://abema.app/BJ2G",
+        "instagram": "https://abema.app/ckUQ"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-194",
+        "filename": "thumb.png",
+        "query": "version=1722321708",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-194",
+        "filename": "portrait.png",
+        "query": "version=1722321708",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

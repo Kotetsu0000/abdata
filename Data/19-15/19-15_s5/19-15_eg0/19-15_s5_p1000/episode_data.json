@@ -1,0 +1,151 @@
+{
+    "id": "19-15_s5_p1000",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s5",
+        "sequence": 5,
+        "name": "第5期",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1399
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1000,
+        "title": "『僕のヒーローアカデミア』オリジナルアニメ「HLB」",
+        "content": "野球好きなプロヒーローたちが設立した草野球リーグ「HLB＜ヒーローリーグベースボール＞」。そこで優勝を争う2チーム、ギャングオルカ率いるオルカーズと、シシド率いるライオネルズによる最終決戦の日がいよいよやって来た。ギャングオルカとシシドは覇権を勝ち取るため、他事務所のプロヒーローやインターン中の雄英高校生徒たちを助っ人に呼び寄せる。“個性”全開、HLBならではのルールで繰り広げられる試合の行方は…!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟 焦凍：梶 裕貴"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "シリーズ構成・脚本：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳",
+            "音楽：林ゆうき",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872426,
+    "endAt": 1759244400,
+    "transcodeVersion": "5yBV9N",
+    "sharedLink": {
+        "twitter": "https://abema.app/VJc8",
+        "facebook": "https://abema.app/MpTW",
+        "google": "https://abema.app/XyB7",
+        "line": "https://abema.app/nCYC",
+        "copy": "https://abema.app/nMaf",
+        "instagram": "https://abema.app/up7Q"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s5_p1000/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s5_p1000/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s5_p1000/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s5_p1000"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0170416666667,
+        "opening": {
+            "start": 37.120416666666664,
+            "end": 126.96016666666667
+        },
+        "ending": {
+            "start": 1310.0170416666667,
+            "end": 1399.8985
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s5_p1001",
+        "title": "『僕のヒーローアカデミア』オリジナルアニメ「笑え！地獄のように」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725872426,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s5_p1000/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

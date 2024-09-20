@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s7_p265",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s7",
+        "sequence": 7,
+        "name": "season7",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 265,
+        "title": "第265話 法廷の対決　妃ＶＳ小五郎（後編）",
+        "content": "蘭の母・妃英理が弁護する宇佐美真治のアリバイの鍵を握っているのは、なんと小五郎だった。しかし、公判当日、小五郎は九条により検察側の証人として呼び出されてしまう。宇佐美のアリバイを証明するために訪れた宇佐美のマンション内で見つけた居酒屋“美枡”のマッチを見て、コナンは事件解決の糸口を見つける。"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066302,
+    "endAt": 1740754800,
+    "transcodeVersion": "zFQfX",
+    "sharedLink": {
+        "twitter": "https://abema.app/ELoN",
+        "facebook": "https://abema.app/Ewcu",
+        "google": "https://abema.app/YEv8",
+        "line": "https://abema.app/RKmv",
+        "copy": "https://abema.app/zaTR",
+        "instagram": "https://abema.app/GRky"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s7_p265/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s7_p265/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s7_p265/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s7_p265"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.4947333333334,
+        "opening": {
+            "start": 17.017,
+            "end": 103.97053333333334
+        },
+        "ending": {
+            "start": 1255.8212333333333,
+            "end": 1341.8738666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s7_p266",
+        "title": "第266話 バレンタインの真実（事件編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066302,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s7_p265/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

@@ -1,0 +1,174 @@
+{
+    "id": "19-16_s3_p1",
+    "series": {
+        "id": "19-16",
+        "title": "ハイキュー!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "thumb.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-16",
+            "filename": "portrait.png",
+            "query": "version=1681282922",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-16_s3",
+        "sequence": 3,
+        "name": "ハイキュー!! 烏野高校 ＶＳ 白鳥沢学園高校",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 ごあいさつ",
+        "content": "春の高校バレー宮城県大会・決勝戦。烏野高校排球部の前に立ちはだかるのは、絶対王者と呼ばれる白鳥沢学園高校。\n最強のスパイカー・牛島を前に、果たして勝機はあるのか!?全国大会出場へ向けた激闘がいま始まる――。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "村瀬歩",
+            "石川界人",
+            "日野聡",
+            "入野自由",
+            "林勇",
+            "細谷佳正",
+            "内山昂輝",
+            "斉藤 壮馬",
+            "増田 俊樹",
+            "名塚 佳織",
+            "諸星 すみれ",
+            "神谷 浩史",
+            "田中 一成",
+            "竹内良太",
+            "木村昴",
+            "土屋神葉",
+            "豊永利行",
+            "寺島拓篤",
+            "丹沢晃之",
+            "福田賢二",
+            "大森大樹",
+            "中尾隆聖"
+        ],
+        "crews": [
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載中）",
+            "監督：満仲勧",
+            "副監督：石川真理子",
+            "シリーズ構成：岸本卓",
+            "キャラクターデザイン：岸田隆宏",
+            "総作画監督：千葉崇洋、八尋裕子",
+            "音響監督：菊田浩巳",
+            "音楽：林ゆうき、橘麻美",
+            "アニメーション制作：Production I.G"
+        ],
+        "copyrights": [
+            "(Ｃ)古舘春一／集英社・「ハイキュー!! 3rd」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684374728,
+    "endAt": 1738335600,
+    "freeEndAt": 1738335600,
+    "transcodeVersion": "2dvVHW",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/jnqqN",
+        "facebook": "https://gxyt4.app.goo.gl/tkGGX",
+        "google": "https://gxyt4.app.goo.gl/fLoi5",
+        "line": "https://gxyt4.app.goo.gl/GEhiK",
+        "copy": "https://gxyt4.app.goo.gl/nEfd1",
+        "instagram": "https://gxyt4.app.goo.gl/e6iXw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-16_s3_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-16_s3_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-16_s3_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-16_s3_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-16_s3_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1362.092266,
+        "opening": {
+            "start": 90.036387,
+            "end": 177.036388
+        },
+        "ending": {
+            "start": 1362.357143,
+            "end": 1449.057144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-16_s3_p2",
+        "title": "第2話 ”左”の脅威",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1684374728,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-16_s3_p1/timeline",
+        "query": "version=2dvVHW",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-16_eg0"
+}

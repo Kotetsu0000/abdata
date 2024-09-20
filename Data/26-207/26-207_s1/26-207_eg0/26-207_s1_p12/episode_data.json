@@ -1,0 +1,135 @@
+{
+    "id": "26-207_s1_p12",
+    "series": {
+        "id": "26-207",
+        "title": "帰還者の魔法は特別です",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-207",
+            "filename": "thumb.png",
+            "query": "version=1696251800",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-207",
+            "filename": "portrait.png",
+            "query": "version=1696251800",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-207_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 アンチメイジ",
+        "content": "魔法石「リゲネルの涙」をめぐる戦いは、デジールとクライケンの一騎打ちに突入しいよいよ終盤を迎えようとしていた。\n圧倒的な力を見せつけるクライケンに臆することなく、冷静に戦況を見極めつつ対抗するデジール。「逆算」の魔法だけでなく、「リゲネルの涙」の膨大な魔力まで駆使して戦うが、クライケンは更なる力を開放する！デジールは「リゲネルの涙」を守りきれるのか？そして、その先にある真の目的とは――"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "デジール・アルマン：寺島拓篤",
+            "ロマンティカ・エル：鈴代紗弓",
+            "プラム・シュナイザー：藤原夏海",
+            "アゼスト・キングスクラウン：瀬戸麻沙美"
+        ],
+        "crews": [
+            "原作：Wookjakga、Usonan（D&C WEBTOON Biz. 発行）",
+            "監督：川口太詩",
+            "シリーズ構成・脚本：鴻野貴光",
+            "キャラクターデザイン：加藤裕美",
+            "美術監督：岩瀬栄治",
+            "美術補佐：蒲昌浩",
+            "美術デザイン：金平和茂、平澤晃弘、奥村泰浩、藤瀬智康",
+            "プロップデザイン：橋口翔太郎",
+            "色彩設計：松山愛子",
+            "撮影監督：今泉秀樹",
+            "編集：兼重涼子",
+            "音楽：東大路憲太",
+            "音響監督：濱野高年",
+            "音響効果：小山恭正",
+            "音響制作：マジックカプセル",
+            "アニメーション制作：アルボアニメーション"
+        ],
+        "copyrights": [
+            "(C)A Returner's Magic Should Be Special Animation Partners"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704244203,
+    "endAt": 1728486000,
+    "transcodeVersion": "7BbyUV",
+    "sharedLink": {
+        "twitter": "https://abema.app/SVHC",
+        "facebook": "https://abema.app/rEBh",
+        "google": "https://abema.app/Sndt",
+        "line": "https://abema.app/gMpL",
+        "copy": "https://abema.app/atpa",
+        "instagram": "https://abema.app/JH9G"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-207_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-207_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-207_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-207_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.038625,
+        "ending": {
+            "start": 1224.598375,
+            "end": 1311.2682916666668
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-207_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1728486000
+        }
+    ],
+    "episodeGroupId": "26-207_eg0"
+}

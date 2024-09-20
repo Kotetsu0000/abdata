@@ -1,0 +1,148 @@
+{
+    "id": "174-2_s0_p1",
+    "series": {
+        "id": "174-1",
+        "title": "這いよれ！ニャル子さん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-1",
+            "filename": "thumb.png",
+            "query": "version=1679038010",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-1",
+            "filename": "portrait.png",
+            "query": "version=1679038010",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "174-1_s2",
+        "sequence": 2,
+        "name": "這いよれ!ニャル子さんW",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1467
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話「進撃の邪神」",
+        "content": "ごく普通の高校生・八坂真尋の家に居候するクトゥルー神話の邪神、ニャルラトホテプのニャル子、クトゥグアのクー子、ハスターのハス太は、今日も地球のエンタメをガッツリ堪能。ゲームに買い物にコスプレに、真尋をムリヤリ連れ回して……。『怒涛のハイテンション混沌コメディ』魅力をダブルに詰め込んで、あなたのもとへ這いよります！"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "ニャル子：阿澄佳奈",
+            "八坂真尋：喜多村英梨　他"
+        ],
+        "crews": [
+            "監督:長澤剛",
+            "シリーズ構成：木村暢",
+            "キャラクターデザイン・総作画監督：滝山真哲",
+            "美術監督：わたなべけいと",
+            "色彩設定：谷口ゆり子",
+            "撮影監督：堀野大輔",
+            "編集：松村正宏",
+            "音響監督：本山哲",
+            "音響効果：和田俊也",
+            "音響制作：スタジオマウス",
+            "音楽：MONACA",
+            "音楽制作：DIVEIIentertainment",
+            "アニメーション制作：XEBEC"
+        ],
+        "copyrights": [
+            "(C)逢空万太・ソフトバンク　クリエイティブ／名状しがたい製作委員会のようなものW"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1702358348,
+    "endAt": 1748703600,
+    "freeEndAt": 1748703600,
+    "transcodeVersion": "4DzSF8",
+    "sharedLink": {
+        "twitter": "https://abema.app/LZVC",
+        "facebook": "https://abema.app/i2fs",
+        "google": "https://abema.app/45xW",
+        "line": "https://abema.app/bwsV",
+        "copy": "https://abema.app/2xWF",
+        "instagram": "https://abema.app/QWRZ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/174-2_s0_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/174-2_s0_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/174-2_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/174-2_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.174-2_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1462.26
+    },
+    "nextProgramInfo": {
+        "programId": "174-2_s0_p2",
+        "title": "第2話「セラエノ図書館戦争」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1702358348,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726614000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/174-2_s0_p1/timeline",
+        "query": "version=4DzSF8",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "174-1_eg0"
+}

@@ -1,0 +1,118 @@
+{
+    "id": "35-55_s1_p31",
+    "series": {
+        "id": "35-55",
+        "title": "映画クレヨンしんちゃん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "thumb.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-55",
+            "filename": "portrait.png",
+            "query": "version=1722910378",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5641
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 31,
+        "title": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜",
+        "content": "ある夜、宇宙から飛来してきた暗黒の光と白い光が日本列島へと接近、埼玉県カスカベ市のごくフツーの住宅へ降下していく。\nいつものように夕飯が出来上がるのを今か今かと待っていたしんのすけにその白い光は命中する。\n体にみなぎる不思議な力。\n「お尻が…お尻が熱いッ…!?」\nその力に身を任せ、お尻に意識を集中するとおもちゃがフワフワと宙に浮く。\n「これは、とんでもないことになるゾ…」\n一方、暗黒の光を浴び、超能力を手に入れた男は暴走を始める。\nこの世界の破滅を望む男。破壊、混乱、阿鼻叫喚。恐怖が日本中を支配しようとしたその時、しんのすけが立ち上がる！\n\n暗黒のエスパーvsしんのすけ\n\n空間を縦横無尽に駆け巡る、“しん次元”ちょー超能力大決戦が、この夏、日本中をアツくする──！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "しんのすけ：小林由美子",
+            "みさえ：ならはしみき",
+            "ひろし：森川智之",
+            "ひまわり：こおろぎさとみ",
+            "風間くん、シロ：真柴摩利",
+            "ネネちゃん：林玉緒",
+            "マサオくん：一龍斎貞友",
+            "ボーちゃん：佐藤智恵"
+        ],
+        "crews": [
+            "原作：臼井儀人（らくだ社）",
+            "監督：大根仁"
+        ],
+        "copyrights": [
+            "(C)臼井儀人／しん次元クレヨンしんちゃん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722240332,
+    "endAt": 1882882740,
+    "transcodeVersion": "7NpVdH",
+    "sharedLink": {
+        "twitter": "https://abema.app/FfWm",
+        "facebook": "https://abema.app/mBjF",
+        "google": "https://abema.app/c7L6",
+        "line": "https://abema.app/bg9o",
+        "copy": "https://abema.app/pMHc",
+        "instagram": "https://abema.app/qYHa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-55_s1_p31/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-55_s1_p31/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-55_s1_p31/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-55_s1_p31"
+    },
+    "viewingPoint": {
+        "suggestion": 5467.044916666667
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-55_s1_p31/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1882882740
+        }
+    ],
+    "episodeGroupId": "35-55_eg0"
+}

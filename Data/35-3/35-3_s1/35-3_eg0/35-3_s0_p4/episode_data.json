@@ -1,0 +1,153 @@
+{
+    "id": "35-3_s0_p4",
+    "series": {
+        "id": "35-3",
+        "title": "新あたしンち",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "thumb.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "portrait.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 川島、おまじない／水島さん、若い／自分のお尻は自分でね",
+        "content": "「川島、おまじない」指に絆創膏を付けて、ユズヒコへの恋のおまじないをする川島。そこに山下も加わり、次々と新しいおまじないにチャレンジする２人だが…！？"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "母：渡辺久美子",
+            "みかん：折笠富美子",
+            "ユズヒコ：阪口大助",
+            "父：緒方賢一"
+        ],
+        "crews": [
+            "監督：小倉宏文",
+            "脚本：けらえいこ、清水 東、福島直浩、田嶋久子、うえのきみこ"
+        ],
+        "copyrights": [
+            "ⓒけらえいこ/シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1689133951,
+    "endAt": 1756652400,
+    "freeEndAt": 1726974000,
+    "transcodeVersion": "2JuBdF",
+    "sharedLink": {
+        "twitter": "https://abema.app/evpg",
+        "facebook": "https://abema.app/HNMC",
+        "google": "https://abema.app/WkPg",
+        "line": "https://abema.app/mXmg",
+        "copy": "https://abema.app/K9tz",
+        "instagram": "https://abema.app/ekXD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p4/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-3_s0_p4/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-3_s0_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.135133,
+        "opening": {
+            "end": 55.142066
+        },
+        "ending": {
+            "start": 1315.135133,
+            "end": 1375.127067
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-3_s0_p5",
+        "title": "第5話 母、さえてる日／ユズたち、映画に行く／男たちの平和",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1689133951,
+        "endAt": 1756652400,
+        "freeEndAt": 1726995600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726995600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-3_s0_p4/timeline",
+        "query": "version=2JuBdF",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726974000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-3_eg0"
+}

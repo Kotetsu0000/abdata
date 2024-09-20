@@ -1,0 +1,141 @@
+{
+    "id": "117-5_s1_p6",
+    "series": {
+        "id": "117-5",
+        "title": "ヨスガノソラ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-5",
+            "filename": "thumb.png",
+            "query": "version=1627288155",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-5",
+            "filename": "portrait.png",
+            "query": "version=1627288155",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-5_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_15",
+                "name": "エロス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1544
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 アキラメナイヨ",
+        "content": "夏祭り当日、舞台で舞う瑛の目から涙が零れ落ちるのを見た悠は、社務所に駆け付ける。そこには悠の祖母の『瑛ちゃんと一葉ちゃんは取り違えられた可能性』という一文が書かれた日誌を燃やそうとしている瑛の姿があった。翌日、悠は学校で瑛から別れを切り出された。大切な人を次々と失ってしまった瑛は、悠もいつか自分のもとから離れてしまうのではないかと考えていたのだ。しかし「永遠になくならないものはあるよ！」という悠は、一葉にすべてを打ち明けてDNA鑑定を申し入れる。そして一葉もそれを了承するのだった。悠からDNA鑑定を行なうと告げられた瑛は、一葉や悠とともに、鑑定結果を聞く約束をする。だが結果が出る当日、瑛は町から逃げ出そうとしていた。しかし、悠の説得も有り、皆の元に戻った瑛。意外にも彼女の前に現れたのは、一葉の母親であった…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "春日野悠：下野紘",
+            "春日野穹：田口宏子",
+            "天女目瑛：阪田佳代",
+            "依媛奈緒：いのくちゆか",
+            "渚一葉：小野涼子"
+        ],
+        "crews": [
+            "原作：Sphere",
+            "キャラクター原案：橋本タカシ・鈴平ひろ",
+            "原作シナリオ：太刀風 雪路・朝倉 誠理",
+            "企画：森山　敦",
+            "監督：高橋丈夫"
+        ],
+        "copyrights": [
+            "(C)Sphere／奥木染町内会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683010782,
+    "endAt": 1746025200,
+    "transcodeVersion": "5Tydi4",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/tqXkU",
+        "facebook": "https://gxyt4.app.goo.gl/34Xts",
+        "google": "https://gxyt4.app.goo.gl/5jbWM",
+        "line": "https://gxyt4.app.goo.gl/LKQY2",
+        "copy": "https://gxyt4.app.goo.gl/xDFYf",
+        "instagram": "https://gxyt4.app.goo.gl/4Mqyd"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/117-5_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/117-5_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/117-5_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-5_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1438.9922,
+        "opening": {
+            "start": 53.074333,
+            "end": 142.029866
+        },
+        "ending": {
+            "start": 1438.9922,
+            "end": 1529.047833
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-5_s1_p7",
+        "title": "第7話 ツミナオトメラ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683010782,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-5_s1_p6/timeline",
+        "query": "version=5Tydi4",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "117-5_eg0"
+}

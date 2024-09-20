@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p522",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2922
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 522,
+        "title": "第522話 新一の正体に蘭の涙",
+        "content": "記憶喪失の新一のために森に入った蘭は、死羅神を見つけた直後崖下に滑り落ちて意識を失う。平次らは行方がわからなくなった蘭を山小屋で発見。カツラ用の白髪を見つけ、小屋の主が死羅神だと睨む。さらにズタズタに切り裂かれた新一の写真と散乱した鏡の破片を見つけた平次は真相に辿り着き、皆を家に集めるように伝える。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一･小林弘明",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "72rcR3",
+    "sharedLink": {
+        "twitter": "https://abema.app/KpSH",
+        "facebook": "https://abema.app/speL",
+        "google": "https://abema.app/dy9W",
+        "line": "https://abema.app/eAMn",
+        "copy": "https://abema.app/kCGt",
+        "instagram": "https://abema.app/XcVj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p522/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p522/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p522/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p522"
+    },
+    "viewingPoint": {
+        "suggestion": 2797.5614333333333,
+        "opening": {
+            "start": 205.83896666666666,
+            "end": 293.62666666666667
+        },
+        "ending": {
+            "start": 2797.5614333333333,
+            "end": 2877.541333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p523",
+        "title": "第523話 本当に聞きたいコト",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p522/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

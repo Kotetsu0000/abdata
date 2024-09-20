@@ -1,0 +1,152 @@
+{
+    "id": "115-63_s1_p1",
+    "series": {
+        "id": "115-63",
+        "title": "下ネタという概念が存在しない退屈な世界",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-63",
+            "filename": "thumb.png",
+            "query": "version=1627289502",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-63",
+            "filename": "portrait.png",
+            "query": "version=1627289502",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-63_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "#01 公序良俗は誰が為に",
+        "content": "時岡学園へ入学を決めた奥間狸吉はその登校初日に電車で痴漢の容疑をかけられてしまう。そんな中、颯爽と現れた、女性用の下着を頭にかぶり、バスタオルをマント状に羽織った下ネタテロリスト「雪原の青」に、狸吉の期待と股間はしっかりもっこり膨らんでしまうのだった。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "華城綾女：石上静香",
+            "奥間狸吉：小林裕介",
+            "アンナ・錦ノ宮：松来未祐",
+            "不破氷菓：後藤沙緒里",
+            "早乙女乙女：新井里美",
+            "轟力雷樹：三宅健太",
+            "鬼頭鼓修理：堀江由衣",
+            "月見草朧：上坂すみれ",
+            "びんかんちゃん：小倉唯"
+        ],
+        "crews": [
+            "原作：赤城大空（小学館「ガガガ文庫」刊）",
+            "キャラクター原案：霜月えいと",
+            "監督：鈴木洋平",
+            "シリーズ構成：横谷昌宏",
+            "キャラクターデザイン：藤井昌宏",
+            "音楽：立山秋航",
+            "音響監督：明田川仁",
+            "音楽制作：スターチャイルド",
+            "プロデュース：GENCO"
+        ],
+        "copyrights": [
+            "(C)赤城大空・小学館／SOX"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1681983832,
+    "endAt": 1748703600,
+    "freeEndAt": 1748703600,
+    "transcodeVersion": "2FSdiS",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/qEJr1",
+        "facebook": "https://gxyt4.app.goo.gl/tN6iy",
+        "google": "https://gxyt4.app.goo.gl/jZtLD",
+        "line": "https://gxyt4.app.goo.gl/fxDod",
+        "copy": "https://gxyt4.app.goo.gl/4NeE1",
+        "instagram": "https://gxyt4.app.goo.gl/Q62Wv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-63_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-63_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/115-63_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-63_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-63_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1324.9903333333334,
+        "ending": {
+            "start": 1324.9903333333334,
+            "end": 1414.9802333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-63_s1_p2",
+        "title": "#02 妊娠のなぞ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1681983832,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-63_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "115-63_eg0"
+}

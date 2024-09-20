@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p15",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 ｢3つ数えてみろ！死ぬのはおまえだ！！」",
+        "content": "南斗暗鐘拳の使い手ザリアに支配された霧深い街に辿り着いたケンシロウたち。その夜、ザリアの集団催眠にかかった人々が暴徒化し、襲いかかってくる。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756424,
+    "endAt": 1732978800,
+    "transcodeVersion": "5jMmP8",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/chLpc",
+        "facebook": "https://gxyt4.app.goo.gl/2Bptr",
+        "google": "https://gxyt4.app.goo.gl/cqy4B",
+        "line": "https://gxyt4.app.goo.gl/Fxsgy",
+        "copy": "https://gxyt4.app.goo.gl/ZDGXB",
+        "instagram": "https://gxyt4.app.goo.gl/RLAHT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.228755,
+        "opening": {
+            "start": 30.019855,
+            "end": 121.544722
+        },
+        "ending": {
+            "start": 1340.228755,
+            "end": 1430.051922
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p16",
+        "title": "第16話 ｢悪党ども歌ってみるか！地獄の数え唄！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756424,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p15/timeline",
+        "query": "version=5jMmP8",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

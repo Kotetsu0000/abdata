@@ -1,0 +1,151 @@
+{
+    "id": "25-237_s1_p10",
+    "series": {
+        "id": "25-237",
+        "title": "久保さんは僕を許さない",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "thumb.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-237",
+            "filename": "portrait.png",
+            "query": "version=1673587300",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-237_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 背比べと壁ドン",
+        "content": "身体測定を翌日に控えた久保さんと白石くん。もしかしたら、白石くんの身長を追い抜いているかも？と、久保さんは白石くんに背比べを提案する。壁に背中をくっつけて、定規で白石くんの身長を測ったあと、今度は同じ要領で白石くんが久保さんの身長を測ろうとするも、自分の身長の位置で定規を固定しようとする体勢が、まるで壁ドンのような姿勢になっていて……!?"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "久保渚咲：花澤香菜",
+            "白石純太：河西健吾",
+            "久保明菜：伊藤美来",
+            "久保沙貴：雨宮 天",
+            "工藤葉月：加隈亜衣",
+            "平玉緒：竹達彩奈"
+        ],
+        "crews": [
+            "原作：雪森寧々（集英社「週刊ヤングジャンプ」連載）",
+            "監督：古賀一臣",
+            "シリーズ構成・脚本：高橋悠也",
+            "キャラクターデザイン：齊藤佳子",
+            "アニメーション制作：PINE JAM"
+        ],
+        "copyrights": [
+            "(C)雪森寧々／集英社・久保さんは僕を許さない製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1687342267,
+    "endAt": 1751295600,
+    "transcodeVersion": "3UUcYF",
+    "sharedLink": {
+        "twitter": "https://abema.app/72sB",
+        "facebook": "https://abema.app/q1B1",
+        "google": "https://abema.app/j2Js",
+        "line": "https://abema.app/HcJC",
+        "copy": "https://abema.app/pwNy",
+        "instagram": "https://abema.app/J7Kh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-237_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-237_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-237_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-237_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.985188,
+        "opening": {
+            "start": 115.128022,
+            "end": 202.028022
+        },
+        "ending": {
+            "start": 1329.985188,
+            "end": 1417.016327
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-237_s1_p11",
+        "title": "第11話 映画館と表情筋",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1687342267,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-237_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "25-237_eg0"
+}

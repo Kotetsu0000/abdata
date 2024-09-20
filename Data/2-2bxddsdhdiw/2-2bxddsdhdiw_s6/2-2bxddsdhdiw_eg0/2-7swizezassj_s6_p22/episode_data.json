@@ -1,0 +1,149 @@
+{
+    "id": "2-7swizezassj_s6_p22",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s6",
+        "sequence": 6,
+        "name": "第6シリーズ",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 22,
+        "title": "第22話 残されたチャンス",
+        "content": "ホーネッツとコヨーテスの優勝決定戦に、もう1点もやれない場面で登板した吾郎。だが、投げ込み不足で球は走らず、ノーアウト満塁のピンチでシルヴァと対決することに。\nかろうじて乗り切った吾郎だったが、血行障害に気づいたキーンは、「お前の行為は身勝手な自己満足に過ぎない」と、吾郎に降板を迫るのであった。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "キーン：森川智之",
+            "ワッツ：家中 宏",
+            "マードック：山野井 仁",
+            "サンダース：石井康嗣"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理",
+            "吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277071,
+    "endAt": 1741446000,
+    "transcodeVersion": "5ZRbyZ",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/kAPw4",
+        "facebook": "https://gxyt4.app.goo.gl/WTfht",
+        "google": "https://gxyt4.app.goo.gl/zv7F6",
+        "line": "https://gxyt4.app.goo.gl/1JxPt",
+        "copy": "https://gxyt4.app.goo.gl/D8GN9",
+        "instagram": "https://gxyt4.app.goo.gl/3Ls18"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-7swizezassj_s6_p22/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-7swizezassj_s6_p22/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-7swizezassj_s6_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-7swizezassj_s6_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1465.06,
+        "opening": {
+            "start": 86.435258,
+            "end": 184.640823
+        },
+        "ending": {
+            "start": 1360.54113,
+            "end": 1449.509901
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-7swizezassj_s6_p23",
+        "title": "第23話 限界を超えて",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277071,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-7swizezassj_s6_p22/timeline",
+        "query": "version=5ZRbyZ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

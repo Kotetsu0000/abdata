@@ -1,0 +1,149 @@
+{
+    "id": "203-12_s2_p6",
+    "series": {
+        "id": "203-12",
+        "title": "Ｂビーダマン爆外伝",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+            "filename": "thumb.png",
+            "query": "version=1699864787",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+            "filename": "portrait.png",
+            "query": "version=1699864787",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-12_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1445
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 撃て！ガトリングシュート",
+        "content": "王国「ボーダーランド」を襲った謎の敵、デビルベーダーは、王国の像に隠された聖剣ビーダキャリバーを狙っていた。しかし、デビルベーダーがビーダキャリバーを奪おうとした時、封じられていた聖なるパワーはクリスモンドというタマに形を変え、12に分かれて時空を超えて宇宙に散らばったのだった。クリスモンドは宇宙の過去・現在・未来のさまざまな所に散らばり、そのパワーで時空のひずみを引き起こし、現代の歴史に影響し珍減少や怪奇現象を引き起こすのだった。また、クリスモンドを追うデビルベーダーがその時代で陰謀や悪事を働くので、現在の宇宙はパニック状態に！\nしろボン達ビーダコップは、歴史を変えてしまう原因をつきとめ、デビルベーダの陰謀を阻止するために、タイムトラベルをして時空を超えた冒険に旅立つ。"
+    },
+    "credit": {
+        "released": 1999,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "監督:川瀬　敏文",
+            "シリーズ構成:浦畑　達彦",
+            "キャラクターデザイン:梅原　隆弘"
+        ],
+        "copyrights": [
+            "(C)Konami Digital Entertainment／ADK EM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701500080,
+    "endAt": 1732978800,
+    "transcodeVersion": "6mUSRm",
+    "sharedLink": {
+        "twitter": "https://abema.app/3uGE",
+        "facebook": "https://abema.app/Ss8b",
+        "google": "https://abema.app/SeBe",
+        "line": "https://abema.app/yc5E",
+        "copy": "https://abema.app/Fvt7",
+        "instagram": "https://abema.app/wGRx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-12_s2_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-12_s2_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-12_s2_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-12_s2_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1352.9516,
+        "opening": {
+            "end": 87.82106666666667
+        },
+        "ending": {
+            "start": 1352.9516,
+            "end": 1414.9802333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-12_s2_p7",
+        "title": "第7話 キャビレット城の秘宝",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1701500080,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-12_s2_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "203-12_eg0"
+}

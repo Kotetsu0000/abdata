@@ -1,0 +1,153 @@
+{
+    "id": "11-60_s1_p13",
+    "series": {
+        "id": "11-60",
+        "title": "夜桜さんちの大作戦",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "thumb.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-60",
+            "filename": "portrait.png",
+            "query": "version=1714017608",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1426
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 タンポポ",
+        "content": "四怨の解析により、黒顔から得た光学保存体の中に入っていたのは、表社会向けの９代目夜桜夫婦の披露宴名簿と判明。そこには太陽の亡き両親である朝野日出とあかりの名前が！\n自分たちが生まれる前から夜桜家と朝野家には関りがあったことを知った太陽は、家族の本当の死因を探るべく故人図書館を訪れることに。だがそこは「音を立てれば死」という恐ろしい場所だった！四怨のサポートのもと、太陽は両親にまつわる資料を探すが!?"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "朝野太陽：川島零士",
+            "夜桜六美：本渡 楓",
+            "夜桜凶一郎：小西克幸",
+            "夜桜二刃：鬼頭明里",
+            "夜桜辛三：興津和幸",
+            "夜桜四怨：悠木 碧",
+            "夜桜嫌五：松岡禎丞",
+            "夜桜七悪：内山夕実",
+            "ゴリアテ：松岡禎丞"
+        ],
+        "crews": [
+            "原作：権平ひつじ『夜桜さんちの大作戦』（集英社「週刊少年ジャンプ」連載）",
+            "アニメーション制作：SILVER LINK.",
+            "製作：夜桜さんちの大作戦製作委員会"
+        ],
+        "copyrights": [
+            "(C)権平ひつじ／集英社・夜桜さんちの大作戦製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129397,
+    "endAt": 1885474800,
+    "transcodeVersion": "7BVcj3",
+    "sharedLink": {
+        "twitter": "https://abema.app/nZRv",
+        "facebook": "https://abema.app/5yoj",
+        "google": "https://abema.app/MJLy",
+        "line": "https://abema.app/iWU3",
+        "copy": "https://abema.app/DTZ7",
+        "instagram": "https://abema.app/kRAZ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-60_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-60_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.9973333333332,
+        "opening": {
+            "start": 93.00958333333334,
+            "end": 182.93275
+        },
+        "ending": {
+            "start": 1331.9973333333332,
+            "end": 1421.9205
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-60_s1_p14",
+        "title": "第14話 目指せスイートルーム",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726129397,
+        "endAt": 1885474800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1885474800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-60_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1885474800
+        }
+    ],
+    "episodeGroupId": "11-60_eg0"
+}

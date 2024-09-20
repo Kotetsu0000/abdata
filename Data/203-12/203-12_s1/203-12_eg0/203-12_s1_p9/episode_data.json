@@ -1,0 +1,158 @@
+{
+    "id": "203-12_s1_p9",
+    "series": {
+        "id": "203-12",
+        "title": "Ｂビーダマン爆外伝",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+            "filename": "thumb.png",
+            "query": "version=1699864787",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-12",
+            "filename": "portrait.png",
+            "query": "version=1699864787",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-12_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 死なないで！ルイルイ",
+        "content": "しろボンたち「ビーダマン」とペットや家畜、虫や鳥などの生き物「ビーダロン」が平和に暮らす「ビーダシティ」に、悪の魂を持つ「ダークビーダ」が現れ、「ビーダマン」たちを襲った。\n　天才化学者、グレイボン博士が開発した「ビーダアーマー」で、正義感溢れる「しろボン」、ダジャレ連発・一本気な「きいろボン」、メカが得意な「あおボン」、紅一点の「あかボン」が立ち上がる。\n　グレイボン博士の助手、ビーダロンの「ルイルイ」をはじめ、次々に登場するビーダロン、敵か味方か謎の「くろボン」、そしてダークビーダたちの目的は？。"
+    },
+    "credit": {
+        "released": 1998,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "監督:中西　伸晃",
+            "シリーズ構成:浦畑　達彦",
+            "キャラクター＆メカニックデザイン:杉浦　幸次"
+        ],
+        "copyrights": [
+            "(C)Konami Digital Entertainment／ADK EM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1701500079,
+    "endAt": 1732978800,
+    "freeEndAt": 1726666560,
+    "transcodeVersion": "2ENJDU",
+    "sharedLink": {
+        "twitter": "https://abema.app/v9cp",
+        "facebook": "https://abema.app/WMTn",
+        "google": "https://abema.app/hN8v",
+        "line": "https://abema.app/ZMqW",
+        "copy": "https://abema.app/9V8Z",
+        "instagram": "https://abema.app/hHkv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/203-12_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/203-12_s1_p9/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/203-12_s1_p9/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/203-12_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-12_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1347.9466,
+        "opening": {
+            "end": 87.9879
+        },
+        "ending": {
+            "start": 1347.9466,
+            "end": 1414.9135
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-12_s1_p10",
+        "title": "第10話 くろボンの秘密",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1701500079,
+        "endAt": 1732978800,
+        "freeEndAt": 1726666560,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726666560
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-12_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726666560
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "203-12_eg0"
+}

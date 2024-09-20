@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s2_p19",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 19,
+        "title": "第19話 全てを持って生まれた男の子",
+        "content": "雄英体育祭は本戦である1対1のトーナメント戦へ。そんな中、出久からオールマイトに似た“なにか”を感じた轟は出久を呼び止め、オールマイトを発端とした自らの境遇を話し始める…。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "オールマイト：三宅健太",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介",
+            "キャラクターデザイン：馬越嘉彦",
+            "アニメーション制作：ボンズ"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872422,
+    "endAt": 1759244400,
+    "transcodeVersion": "25DDBY",
+    "sharedLink": {
+        "twitter": "https://abema.app/y6Xt",
+        "facebook": "https://abema.app/CCzJ",
+        "google": "https://abema.app/LLSG",
+        "line": "https://abema.app/URAU",
+        "copy": "https://abema.app/A4HZ",
+        "instagram": "https://abema.app/jQTd"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s2_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s2_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s2_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s2_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.1320666666666,
+        "opening": {
+            "start": 27.4274,
+            "end": 117.05026666666667
+        },
+        "ending": {
+            "start": 1310.1088,
+            "end": 1400.0987
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s2_p20",
+        "title": "第20話 勝ち負け",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872422,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s2_p19/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

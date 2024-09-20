@@ -1,0 +1,148 @@
+{
+    "id": "2-6cttrbwmkim_s5_p14",
+    "series": {
+        "id": "2-2bxddsdhdiw",
+        "title": "メジャー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "thumb.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-2bxddsdhdiw",
+            "filename": "portrait.png",
+            "query": "version=1627288246",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-2bxddsdhdiw_s5",
+        "sequence": 5,
+        "name": "第5シリーズ",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 14,
+        "title": "第14話 大丈夫！",
+        "content": "自分は寿也の妹であること、そして、アメリカに来た本当の理由を清水に告げた美穂。だが「まだ兄に会うことはできない」という。一方吾郎は、決勝トーナメント応援のためにアメリカにやってきた桃子と真吾を迎えに行く。もっとも、真吾がついてきた目的は、どうやらほかにあるらしく…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "茂野吾郎：森久保祥太郎",
+            "佐藤寿也：森田成一",
+            "京四郎：内田夕夜",
+            "板尾：乃村健次",
+            "勝呂：松本保典"
+        ],
+        "crews": [
+            "原作：満田拓也",
+            "監督：福島利規",
+            "シリーズ構成：土屋理敬",
+            "脚本：土屋理敬　吉岡たかを"
+        ],
+        "copyrights": [
+            "(C)満田拓也・小学館／NHK・NEP・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695277070,
+    "endAt": 1741446000,
+    "transcodeVersion": "76oBK9",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/m6cE3",
+        "facebook": "https://gxyt4.app.goo.gl/hjPPn",
+        "google": "https://gxyt4.app.goo.gl/SCsNo",
+        "line": "https://gxyt4.app.goo.gl/q5Sts",
+        "copy": "https://gxyt4.app.goo.gl/E97zw",
+        "instagram": "https://gxyt4.app.goo.gl/6ibmK"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p14/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p14/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-6cttrbwmkim_s5_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-6cttrbwmkim_s5_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.03,
+        "opening": {
+            "start": 21.374369,
+            "end": 108.306432
+        },
+        "ending": {
+            "start": 1365.446018,
+            "end": 1454.581969
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-6cttrbwmkim_s5_p15",
+        "title": "第15話 アグレッシブ・ベースボール",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695277070,
+        "endAt": 1741446000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741446000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-6cttrbwmkim_s5_p14/timeline",
+        "query": "version=76oBK9",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741446000
+        }
+    ],
+    "episodeGroupId": "2-2bxddsdhdiw_eg0"
+}

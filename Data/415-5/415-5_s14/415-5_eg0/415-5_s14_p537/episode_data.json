@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s14_p537",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s14",
+        "sequence": 14,
+        "name": "season14",
+        "thumbComponent": {},
+        "order": 14
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1476
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 537,
+        "title": "第537話 怪盗キッドVS最強金庫（前編）",
+        "content": "怪盗キッドが鈴木次郎吉に予告状を送りつける。キッドの狙いはカラクリ師、三水吉右衛門の鉄狸と呼ばれる大金庫。だが、予告状の絵がいつもと違うため、次郎吉はキッドの偽者と考え、中森警部にも協力を強く求めない。園子は次郎吉が落ち着いている事に違和感を覚える。コナンもこの事件の裏には何かあると確信する…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋･山中純子"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066308,
+    "endAt": 1740754800,
+    "transcodeVersion": "4MxCaD",
+    "sharedLink": {
+        "twitter": "https://abema.app/2BMk",
+        "facebook": "https://abema.app/Enq1",
+        "google": "https://abema.app/KBTt",
+        "line": "https://abema.app/zRcA",
+        "copy": "https://abema.app/buV4",
+        "instagram": "https://abema.app/Tm5C"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p537/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p537/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s14_p537/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s14_p537"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.9829666666667,
+        "opening": {
+            "start": 87.35393333333333,
+            "end": 177.9778
+        },
+        "ending": {
+            "start": 1350.9829666666667,
+            "end": 1430.9628666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s14_p538",
+        "title": "第538話 怪盗キッドVS最強金庫（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066308,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s14_p537/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

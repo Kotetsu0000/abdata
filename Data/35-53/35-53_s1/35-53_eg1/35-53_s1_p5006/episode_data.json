@@ -1,0 +1,137 @@
+{
+    "id": "35-53_s1_p5006",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2398
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5006,
+        "title": "決戦！ネコ型ロボットvsイヌ型ロボット",
+        "content": "9月3日…。大好きなドラえもんの誕生日だというのに、のび太は夏休みの宿題をやりなおすよう、先生におこられてしまう。 泣きながら帰ってきたのび太をまっていたのは、見たこともないイヌ型ロボットだった。ドラえもんが出してくれたひみつ道具だと思いこんだのび太は、そのイヌ型ロボット“ワンダフル”におしえてもらいながら、宿題に打ちこむ。 そこへ帰ってきたドラえもんは、のび太が見知らぬイヌ型ロボットと仲よく宿題に取りくんでいるすがたにビックリ！その上、ワンダフルにバリアをはられ、ドラえもんは2人の世界からしめだされてしまう。 がく然とするドラえもんのもとに、未来からロボット学校の同級生、パワえもん、カワえもん、ベソえもんが逃げてきた。なんと、22世紀でネコ型ロボットは不良品と判定され、回収のすえ、イヌ型と交換されることになったのだという。 しかも、ネコ型が回収されることになった原因は、のび太にあるという…！　事情を知ったドラえもんは、仲間を助けにいくため、パワえもんたちと未来に向かうが…!?"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "ドラえもん:水田わさび",
+            "のび太:大原めぐみ",
+            "しずか:かかずゆみ",
+            "ジャイアン:木村昴",
+            "スネ夫:関智一"
+        ],
+        "crews": [
+            "脚本:水野宗徳"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722392024,
+    "endAt": 1756825200,
+    "transcodeVersion": "2rnv5H",
+    "sharedLink": {
+        "twitter": "https://abema.app/hZYD",
+        "facebook": "https://abema.app/3ZMQ",
+        "google": "https://abema.app/KUNL",
+        "line": "https://abema.app/QZWg",
+        "copy": "https://abema.app/75vp",
+        "instagram": "https://abema.app/vSRW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5006/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5006/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5006/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p5006"
+    },
+    "viewingPoint": {
+        "suggestion": 2393.099041666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p5007",
+        "title": "走れドラえもん！銀河グランプリ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1722392051,
+        "endAt": 1756825200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756825200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p5006/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756825200
+        }
+    ],
+    "episodeGroupId": "35-53_eg1"
+}

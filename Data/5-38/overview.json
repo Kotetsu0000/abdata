@@ -1,0 +1,563 @@
+{
+    "id": "5-38",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "ワンピース",
+    "content": "時は大海賊時代。かつて、この世の全てを手に入れた男がいた。その名は海賊王ゴールド・ロジャー。遥かな大海原グランドラインには、彼が遺した“ひとつなぎの大秘宝（ワンピース）”が隠されているという…。伝説の秘宝を求め、人々は競うように海へと漕ぎ出してゆく。そして、ここにもグランドラインを目指す者が一人。悪魔の実と呼ばれる不思議な実の一つ「ゴムゴムの実」を食べ、全身がゴムのように伸びるゴム人間になったモンキー・Ｄ・ルフィだ。幼い頃に赤髪のシャンクスから麦わら帽子を託された彼は、海賊王になるという壮大な野望を抱いていた。海へと乗り出したルフィは、航海の中で大冒険を繰り返し、様々な人々と出会ってゆく。信頼できる個性的な仲間、悪党どもや海軍など立ちふさがる強大な敵…さあ、まだ見ぬ世界へ向けて帆を上げろ！　歴史を変える大航海が、今、出航の時を迎える!!",
+    "seasons": [
+        {
+            "id": "5-38_s1",
+            "sequence": 1,
+            "name": "イーストブルー編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1674641459",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "5-38_s2",
+            "sequence": 2,
+            "name": "グランドライン突入編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1674641467",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "5-38_s3",
+            "sequence": 3,
+            "name": "チョッパー登場・冬島編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1674641476",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        },
+        {
+            "id": "5-38_s4",
+            "sequence": 4,
+            "name": "アラバスタ編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s4",
+                "filename": "default_thumb.png",
+                "query": "version=1674641487",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 4
+        },
+        {
+            "id": "5-38_s5",
+            "sequence": 5,
+            "name": "TVオリジナル編①",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s5",
+                "filename": "default_thumb.png",
+                "query": "version=1674641492",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 5
+        },
+        {
+            "id": "5-38_s6",
+            "sequence": 6,
+            "name": "空島・スカイピア編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s6",
+                "filename": "default_thumb.png",
+                "query": "version=1674641503",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 6
+        },
+        {
+            "id": "5-38_s7",
+            "sequence": 7,
+            "name": "空島・黄金の鐘編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s7",
+                "filename": "default_thumb.png",
+                "query": "version=1674641512",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 7
+        },
+        {
+            "id": "5-38_s8",
+            "sequence": 8,
+            "name": "海軍要塞編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s8",
+                "filename": "default_thumb.png",
+                "query": "version=1674641528",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 8
+        },
+        {
+            "id": "5-38_s9",
+            "sequence": 9,
+            "name": "フォクシー海賊団編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s9",
+                "filename": "default_thumb.png",
+                "query": "version=1674641536",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 9
+        },
+        {
+            "id": "5-38_s10",
+            "sequence": 10,
+            "name": "ウォーターセブン編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s10",
+                "filename": "default_thumb.png",
+                "query": "version=1674641545",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 10
+        },
+        {
+            "id": "5-38_s11",
+            "sequence": 11,
+            "name": "エニエスロビー編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s11",
+                "filename": "default_thumb.png",
+                "query": "version=1674641554",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 11
+        },
+        {
+            "id": "5-38_s12",
+            "sequence": 12,
+            "name": "CP9編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s12",
+                "filename": "default_thumb.png",
+                "query": "version=1674641564",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 12
+        },
+        {
+            "id": "5-38_s13",
+            "sequence": 13,
+            "name": "さよならメリー号編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s13",
+                "filename": "default_thumb.png",
+                "query": "version=1674641573",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 13
+        },
+        {
+            "id": "5-38_s14",
+            "sequence": 14,
+            "name": "TVオリジナル編②",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s14",
+                "filename": "default_thumb.png",
+                "query": "version=1674641583",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 14
+        },
+        {
+            "id": "5-38_s15",
+            "sequence": 15,
+            "name": "スリラーバーグ編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s15",
+                "filename": "default_thumb.png",
+                "query": "version=1674641594",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 15
+        },
+        {
+            "id": "5-38_s16",
+            "sequence": 16,
+            "name": "シャボンディ諸島編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s16",
+                "filename": "default_thumb.png",
+                "query": "version=1674641606",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 16
+        },
+        {
+            "id": "5-38_s17",
+            "sequence": 17,
+            "name": "TVオリジナル編③",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s17",
+                "filename": "default_thumb.png",
+                "query": "version=1674641615",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 17
+        },
+        {
+            "id": "5-38_s18",
+            "sequence": 18,
+            "name": "女ヶ島編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s18",
+                "filename": "default_thumb.png",
+                "query": "version=1674641624",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 18
+        },
+        {
+            "id": "5-38_s19",
+            "sequence": 19,
+            "name": "インペルダウン編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s19",
+                "filename": "default_thumb.png",
+                "query": "version=1674641635",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 19
+        },
+        {
+            "id": "5-38_s20",
+            "sequence": 20,
+            "name": "マリンフォード編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s20",
+                "filename": "default_thumb.png",
+                "query": "version=1674641666",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 20
+        },
+        {
+            "id": "5-38_s21",
+            "sequence": 21,
+            "name": "魚人島編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s21",
+                "filename": "default_thumb.png",
+                "query": "version=1674641676",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 21
+        },
+        {
+            "id": "5-38_s22",
+            "sequence": 22,
+            "name": "パンクハザード編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s22",
+                "filename": "default_thumb.png",
+                "query": "version=1674641684",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 22
+        },
+        {
+            "id": "5-38_s23",
+            "sequence": 23,
+            "name": "ドレスローザ編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s23",
+                "filename": "default_thumb.png",
+                "query": "version=1674641690",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 23
+        },
+        {
+            "id": "5-38_s24",
+            "sequence": 24,
+            "name": "シルバーマイン編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s24",
+                "filename": "default_thumb.png",
+                "query": "version=1674641700",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 24
+        },
+        {
+            "id": "5-38_s25",
+            "sequence": 25,
+            "name": "ゾウ編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s25",
+                "filename": "default_thumb.png",
+                "query": "version=1674641709",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 25
+        },
+        {
+            "id": "5-38_s26",
+            "sequence": 26,
+            "name": "ホールケーキアイランド編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s26",
+                "filename": "default_thumb.png",
+                "query": "version=1674641716",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 26
+        },
+        {
+            "id": "5-38_s27",
+            "sequence": 27,
+            "name": "ワノ国編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s27",
+                "filename": "default_thumb.png",
+                "query": "version=1674641727",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 27
+        },
+        {
+            "id": "5-38_s28",
+            "sequence": 28,
+            "name": "エッグヘッド編",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-38_s28",
+                "filename": "default_thumb.png",
+                "query": "version=1704865619",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-38_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 28
+        }
+    ],
+    "copyrights": [
+        "(C)尾田栄一郎／集英社・フジテレビ・東映アニメーション"
+    ],
+    "label": {
+        "newest": true
+    },
+    "version": "1726135164590677936",
+    "imageUpdatedAt": 1704865594,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/aN8M",
+        "facebook": "https://abema.app/ezuo",
+        "google": "https://abema.app/wAb3",
+        "line": "https://abema.app/kxb1",
+        "copy": "https://abema.app/bjGK",
+        "instagram": "https://abema.app/4jeQ"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+        "filename": "thumb.png",
+        "query": "version=1704865594",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-38",
+        "filename": "portrait.png",
+        "query": "version=1704865594",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

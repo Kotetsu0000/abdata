@@ -1,0 +1,151 @@
+{
+    "id": "19-164_s1_p4",
+    "series": {
+        "id": "19-164",
+        "title": "クズの本懐",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-164",
+            "filename": "thumb.png",
+            "query": "version=1675046275",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-164",
+            "filename": "portrait.png",
+            "query": "version=1675046275",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-164_s1",
+        "sequence": 1,
+        "name": "クズの本懐",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1374
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 Bad Apple！！",
+        "content": "周囲から清楚なイメージを持たれている音楽教師・皆川茜だが、実際はそのイメージからかけ離れた一面をもつ人物だった。そんな茜の行動に振り回され、誰にも頼れずにいる花火の前に現れた早苗は・・・"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "安楽岡花火：安済知佳",
+            "粟屋 麦：島﨑信長",
+            "絵鳩早苗：戸松 遥",
+            "鴎端のり子（最可）：井澤詩織",
+            "鐘井鳴海：野島健児",
+            "皆川茜：豊崎愛生"
+        ],
+        "crews": [
+            "原作：横槍メンゴ（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊）",
+            "監督：安藤正臣",
+            "シリーズ構成・脚本：上江洲誠",
+            "キャラクターデザイン・総作画監督：黒澤桂⼦",
+            "キーアニメーター：渡辺真由美",
+            "デザインワークス：白石慶⼦",
+            "プロップデザイン：吉田みずき",
+            "美術監督：鈴木友成",
+            "色彩設計：柳澤久美子",
+            "撮影監督：國井智行",
+            "編集：及川雪江",
+            "音響監督：明田川仁",
+            "音楽：横山克",
+            "アニメーションプロデューサー：比嘉勇二",
+            "オープニング・テーマ：96猫「嘘の火花」",
+            "エンディング・テーマ：さユり「平行線」",
+            "アニメーション制作：Lerche",
+            "製作：「クズの本懐」製作委員会"
+        ],
+        "copyrights": [
+            "(C)横槍メンゴ／SQUARE ENIX・「クズの本懐」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1675056141,
+    "endAt": 1751295600,
+    "freeEndAt": 1726873200,
+    "transcodeVersion": "479Qjb",
+    "sharedLink": {
+        "twitter": "https://abema.app/TLi5",
+        "facebook": "https://abema.app/cGMM",
+        "google": "https://abema.app/sNo4",
+        "line": "https://abema.app/MPtb",
+        "copy": "https://abema.app/oyCe",
+        "instagram": "https://abema.app/7bV7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-164_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-164_s1_p4/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-164_s1_p4/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-164_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-164_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.107022
+    },
+    "nextProgramInfo": {
+        "programId": "19-164_s1_p5",
+        "title": "第5話 DESTRUCTION BABY",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1675056147,
+        "endAt": 1751295600,
+        "freeEndAt": 1726873200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726873200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-164_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726873200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "19-164_eg0"
+}

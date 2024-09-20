@@ -1,0 +1,145 @@
+{
+    "id": "5-62_s1_p36",
+    "series": {
+        "id": "5-62",
+        "title": "トロピカル～ジュ！プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-62",
+            "filename": "thumb.png",
+            "query": "version=1721612377",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-62",
+            "filename": "portrait.png",
+            "query": "version=1721612377",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-62_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 36,
+        "title": "第36話　来たよ！　人魚の国・グランオーシャン！",
+        "content": "グランオーシャンにやって来たまなつたちは、人魚の女王から海のリングの探索を頼まれる。しかし手がかりを得られず城に戻ってみると、どこか女王の様子がおかしくて―…。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "夏海まなつ／キュアサマー：ファイルーズ あい",
+            "涼村さんご／キュアコーラル：花守 ゆみり",
+            "一之瀬みのり／キュアパパイア：石川 由依",
+            "滝沢あすか／キュアフラミンゴ：瀬戸 麻沙美",
+            "ローラ／キュアラメール ：日高 里菜",
+            "くるるん：田中 あいみ"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "シリーズディレクター：土田豊",
+            "シリーズ構成：横谷昌宏",
+            "キャラクターデザイン：中谷友紀子",
+            "美術デザイン：今井美紀",
+            "色彩設計：柳澤久美子",
+            "音楽：寺田志保",
+            "製作担当：井桁 啓介",
+            "プロデューサー：佐藤 有（ABCテレビ）、田中 昂（ABCアニメーション）、利根 里佳（ADKエモーションズ）、村瀬 亜季"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722140389,
+    "endAt": 1740754800,
+    "transcodeVersion": "5hfqby",
+    "sharedLink": {
+        "twitter": "https://abema.app/Pirc",
+        "facebook": "https://abema.app/QAcF",
+        "google": "https://abema.app/yWMV",
+        "line": "https://abema.app/uVNt",
+        "copy": "https://abema.app/qchz",
+        "instagram": "https://abema.app/c4vT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-62_s1_p36/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-62_s1_p36/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-62_s1_p36/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-62_s1_p36"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1721666666667,
+        "opening": {
+            "start": 74.11570833333333,
+            "end": 164.164
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1440.2304583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-62_s1_p37",
+        "title": "第37話　人魚の記憶！　海のリングを取り戻せ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722140389,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-62_s1_p36/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-62_eg0"
+}

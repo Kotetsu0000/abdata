@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s2_p64",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1471
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 64,
+        "title": "第64話 第3の指紋殺人事件",
+        "content": "小五郎の刑事時代の先輩で暴力団担当の警部・寺岡からバーベキューパーティーに招待された小五郎、蘭、コナン。寺岡は暴力団の幹部から呼び出され、一人で会いに行くと言う。心配した小五郎は寺岡に付き添っていくが、寺岡が入っていったコンテナ置場から銃声が聞こえ、暴力団幹部・松山が喉を撃たれて死亡した。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066297,
+    "endAt": 1740754800,
+    "transcodeVersion": "4n2Ym5",
+    "sharedLink": {
+        "twitter": "https://abema.app/Vo1o",
+        "facebook": "https://abema.app/dcYy",
+        "google": "https://abema.app/7im1",
+        "line": "https://abema.app/wbNF",
+        "copy": "https://abema.app/MSeK",
+        "instagram": "https://abema.app/TA2F"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p64/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p64/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s2_p64/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s2_p64"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.8901333333333,
+        "opening": {
+            "start": 15.015,
+            "end": 94.96153333333334
+        },
+        "ending": {
+            "start": 1266.7988666666668,
+            "end": 1351.7837666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s2_p65",
+        "title": "第65話 カニとクジラ誘拐事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066297,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s2_p64/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

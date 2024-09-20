@@ -1,0 +1,137 @@
+{
+    "id": "35-53_s1_p5003",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2369
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5003,
+        "title": "ドラえもんが生まれ変わる日",
+        "content": "ドラえもんのたんじょう日の前日、のび太はプレゼントのドラ焼きを買いこんでいた。\n　そこへ、セワシとドラミがあわてたようすで、未来からかけつけて来た。なんと、ドラえもんが何者かにゆうかいされたというのだ！　\n　ドラえもんは、その日、ロボット学校の同窓会に出席するため、22世紀にもどっていたのだが、こつ然とすがたを消してしまったらしい。\n\n　大急ぎで未来の世界にやって来た、のび太たち。さっそく手わけして、ドラえもんの行方をさがすことに…！\n　のび太は、ロボット学校の同級生・パワえもんやノラミャー子に会いに行くが、手がかりはつかめない。\n　はたして、ドラえもんを連れ去ったのは、だれなのか…!?　そして、ドラえもんはぶじ、のび太のもとに帰ってくることができるのか…!?"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "ドラえもん:水田わさび",
+            "のび太:大原めぐみ",
+            "しずか:かかずゆみ",
+            "ジャイアン:木村昴",
+            "スネ夫:関智一"
+        ],
+        "crews": [
+            "脚本:水野宗徳"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722391847,
+    "endAt": 1756825200,
+    "transcodeVersion": "b2Jn2",
+    "sharedLink": {
+        "twitter": "https://abema.app/hDKS",
+        "facebook": "https://abema.app/KMGe",
+        "google": "https://abema.app/9J4u",
+        "line": "https://abema.app/tPxh",
+        "copy": "https://abema.app/Xw4x",
+        "instagram": "https://abema.app/7e25"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5003/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5003/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5003/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p5003"
+    },
+    "viewingPoint": {
+        "suggestion": 2364.9292333333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p5004",
+        "title": "ドラえもんの青い涙",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1722391956,
+        "endAt": 1756825200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756825200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p5003/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756825200
+        }
+    ],
+    "episodeGroupId": "35-53_eg1"
+}

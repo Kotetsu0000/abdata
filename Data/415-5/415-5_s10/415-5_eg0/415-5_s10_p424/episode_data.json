@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s10_p424",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s10",
+        "sequence": 10,
+        "name": "season10",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1485
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 424,
+        "title": "第424話 ピエロからの写真メール",
+        "content": "小五郎はコナンを連れて貸衣装の店へ行くと、モデルの中村洋子たちが仮装して出てきた。この時、洋子にパーティを主催する編集者、梅田香からメールが届く。しかし、梅田の部屋で事件が起きていた。その後、梅田の宝石を持った白川が確保される。だが、白川は殺害を否認。そして、コナンはキッチンの不可解な点に気付き…。"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、吉岡昌仁",
+            "プロデューサー：小林弘明",
+            "監督：佐藤真人",
+            "音楽：大野克夫",
+            "キャラクターデザイン：とみながまり"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066305,
+    "endAt": 1740754800,
+    "transcodeVersion": "6a7jkm",
+    "sharedLink": {
+        "twitter": "https://abema.app/5ciL",
+        "facebook": "https://abema.app/f3Zp",
+        "google": "https://abema.app/kmB5",
+        "line": "https://abema.app/o7ty",
+        "copy": "https://abema.app/CiRM",
+        "instagram": "https://abema.app/JVbX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s10_p424/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s10_p424/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s10_p424/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s10_p424"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.4723666666666,
+        "opening": {
+            "start": 15.4154,
+            "end": 114.98153333333333
+        },
+        "ending": {
+            "start": 1330.7627666666667,
+            "end": 1415.6809333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s11_p425",
+        "title": "第425話 ブラックインパクト！組織の手が届く瞬間",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066305,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s10_p424/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

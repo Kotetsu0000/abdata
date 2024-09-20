@@ -1,0 +1,75 @@
+{
+    "id": "168-50",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "頭文字[イニシャル]D OVA",
+    "content": "TV版にも登場し、ファンから絶大な支持を集めている美少女コンビ真子&沙雪を主人公に描くオリジナルストーリー。\n彼女達の出逢いから、“碓氷峠最速”と呼ばれるに到るまでの二人の知られざる過去に迫る。\n長年の謎“何故、青いシルエイティーなのか?が遂に明かされるなど、\n原作でも一切触れられなかったエピソードだけに、ファンにはこたえられない内容!",
+    "seasons": [
+        {
+            "id": "168-50_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-50",
+                "filename": "thumb.png",
+                "query": "version=1691026238",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-50_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)Kodansha et al."
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1725512095862289439",
+    "imageUpdatedAt": 1691026238,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/VMNt",
+        "facebook": "https://abema.app/XHj6",
+        "google": "https://abema.app/KDCN",
+        "line": "https://abema.app/khjP",
+        "copy": "https://abema.app/A4FZ",
+        "instagram": "https://abema.app/z12S"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-50",
+        "filename": "thumb.png",
+        "query": "version=1691026238",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-50",
+        "filename": "portrait.png",
+        "query": "version=1691026238",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "計3話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

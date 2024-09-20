@@ -1,0 +1,147 @@
+{
+    "id": "5-63_s1_p14",
+    "series": {
+        "id": "5-63",
+        "title": "デリシャスパーティ♡プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-63",
+            "filename": "thumb.png",
+            "query": "version=1721612271",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-63",
+            "filename": "portrait.png",
+            "query": "version=1721612271",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-63_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1460
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 14,
+        "title": "第14話 初恋ってどんな味？恋するキモチと拓海のこたえ",
+        "content": "拓海は後輩の女の子・ともえに告白される。ともえの背中を押すゆいたちだが、そこにナルシストルーが！モットウバウゾーに苦戦するプレシャスたちの前に現れたのは―"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "キュアプレシャス／和実ゆい：菱川花菜",
+            "キュアスパイシー／芙羽ここね：清水理沙",
+            "キュアヤムヤム／華満らん：井口裕香",
+            "コメコメ：高森奈津美",
+            "パムパム：日岡なつみ",
+            "メンメン：半場友恵",
+            "ローズマリー：前野智昭",
+            "品田拓海：内田雄馬",
+            "ジェントルー：茅野愛衣"
+        ],
+        "crews": [
+            "シリーズディレクター：深澤敏則",
+            "シリーズ構成：平林佐和子",
+            "キャラクターデザイン：油布京子",
+            "美術設定：増田竜太郎",
+            "美術監督：いいだりえ",
+            "色彩設計：清田直美",
+            "音楽：寺田志保",
+            "プロデューサー：多田 香奈子（ABCアニメーション）、矢﨑 史（ADKエモーションズ）、安見 香"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722311247,
+    "endAt": 1740754800,
+    "transcodeVersion": "4dU3Vd",
+    "sharedLink": {
+        "twitter": "https://abema.app/ToKS",
+        "facebook": "https://abema.app/eECB",
+        "google": "https://abema.app/JJc9",
+        "line": "https://abema.app/Qstt",
+        "copy": "https://abema.app/BXBh",
+        "instagram": "https://abema.app/WVQM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-63_s1_p14/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-63_s1_p14/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-63_s1_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-63_s1_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1351.4334166666667,
+        "opening": {
+            "start": 97.05529166666666,
+            "end": 187.10358333333335
+        },
+        "ending": {
+            "start": 1351.4334166666667,
+            "end": 1440.2721666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-63_s1_p15",
+        "title": "第15話 ドキドキ！ここね、初めてのピクニック！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722311259,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-63_s1_p14/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-63_eg0"
+}

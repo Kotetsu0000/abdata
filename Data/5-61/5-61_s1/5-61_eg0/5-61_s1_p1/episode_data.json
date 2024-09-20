@@ -1,0 +1,151 @@
+{
+    "id": "5-61_s1_p1",
+    "series": {
+        "id": "5-61",
+        "title": "ヒーリングっど・プリキュア",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-61",
+            "filename": "thumb.png",
+            "query": "version=1721612140",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-61",
+            "filename": "portrait.png",
+            "query": "version=1721612140",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-61_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話　手と手でキュン！二人でプリキュア・キュアグレース",
+        "content": "誰かの役に立ちたい！主人公・花寺のどかはヒーリングアニマルと出会い…地球の“お手当て”が、いま始まる！"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "キュアグレース／花寺のどか：悠木碧",
+            "キュアフォンテーヌ／沢泉ちゆ：依田菜津",
+            "キュアスパークル／平光ひなた：河野ひより",
+            "キュアアース／風鈴アスミ：三森すずこ",
+            "ラビリン：加隈亜衣",
+            "ペギタン：武田華",
+            "ニャトラン：金田アキ",
+            "ラテ：白石晴香"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：佐藤 有(ＡＢＣテレビ）、安井一成(ＡＢＣアニメーション)、矢﨑 史(ＡＤＫエモーションズ)、安見 香",
+            "シリーズディレクター：池田洋子",
+            "シリーズ構成：香村純子",
+            "音楽：寺田志保",
+            "キャラクターデザイン：山岡直子",
+            "美術デザイン：西田 渚",
+            "色彩設計：坂入希代美",
+            "製作担当：澤守洸、井桁啓介"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1721898796,
+    "endAt": 1740754800,
+    "freeEndAt": 1740754800,
+    "transcodeVersion": "sLTcM",
+    "sharedLink": {
+        "twitter": "https://abema.app/DFxm",
+        "facebook": "https://abema.app/emsk",
+        "google": "https://abema.app/S2GW",
+        "line": "https://abema.app/Hn1e",
+        "copy": "https://abema.app/BVj5",
+        "instagram": "https://abema.app/ntyr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-61_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-61_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/5-61_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-61_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-61_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1304583333333,
+        "opening": {
+            "start": 213.04616666666666,
+            "end": 303.0944583333333
+        },
+        "ending": {
+            "start": 1340.1304583333333,
+            "end": 1430.17875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-61_s1_p2",
+        "title": "第2話　パートナー解消!?わたしじゃダメなの？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721898805,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-61_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-61_eg0"
+}

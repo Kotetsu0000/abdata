@@ -1,0 +1,130 @@
+{
+    "id": "218-709_s1_p12",
+    "series": {
+        "id": "218-709",
+        "title": "モブから始まる探索英雄譚",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-709",
+            "filename": "thumb.png",
+            "query": "version=1715073441",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-709",
+            "filename": "portrait.png",
+            "query": "version=1715073441",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-709_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話",
+        "content": "モブな男子高校生の成り上がり英雄譚！\nステータスも低くいわゆるモブキャラである高校生・高木海斗は、日本に現れたダンジョンで毎日スライムを狩り、クラスのマドンナである幼馴染に憧れながらせっせと小遣稼ぎをするふつうの探索者だった。\nある日そんな彼の前に、見たこともない金色のスライムが現れる。\n困惑しつつも倒すと、神話の存在を呼び出せるサーバントカードと呼ばれる時価数億の激レアアイテムが!!\n覚悟を決めて召喚するとそこにはこの世のものとも思えぬ美しさの戦乙女(ヴァルキリー)が現れ――。\nモブな探索者から成り上がれ！　現代バトルファンタジー開幕！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "高木海斗：保住有哉",
+            "葛城春香：和氣あず未",
+            "シルフィー：花澤香菜",
+            "ルシェリア：相良茉優",
+            "神宮寺愛理：青山吉能",
+            "森山ミク：北守さいか",
+            "田辺光梨：辻森梓咲"
+        ],
+        "crews": [
+            "原作：海翔",
+            "キャラクター原案：あるみっく",
+            "監督：小林智樹",
+            "シリーズ構成：筆安一幸",
+            "キャラクターデザイン：安田祥子",
+            "音楽：井内啓二",
+            "アニメーション制作：月虹",
+            "プロデュース：Starry Cube",
+            "オープニング主題歌：「Up Start」天月 -あまつき-",
+            "エンディング主題歌：「ストロボ・ファンタジー」May’n"
+        ],
+        "copyrights": [
+            "(C)海翔・ホビージャパン／モブから始まる製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872268,
+    "endAt": 1885474800,
+    "transcodeVersion": "52MGoE",
+    "sharedLink": {
+        "twitter": "https://abema.app/fNhg",
+        "facebook": "https://abema.app/U4SQ",
+        "google": "https://abema.app/wXMY",
+        "line": "https://abema.app/5vsh",
+        "copy": "https://abema.app/x8VL",
+        "instagram": "https://abema.app/xBr6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-709_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-709_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-709_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-709_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.9135,
+        "opening": {
+            "start": 19.019,
+            "end": 108.983875
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-709_s1_p12/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726925400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727530200
+        }
+    ],
+    "episodeGroupId": "218-709_eg0"
+}

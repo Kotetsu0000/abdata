@@ -1,0 +1,155 @@
+{
+    "id": "189-27_s2_p6",
+    "series": {
+        "id": "189-11",
+        "title": "五等分の花嫁",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-11",
+            "filename": "thumb.png",
+            "query": "version=1694402263",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-11",
+            "filename": "portrait.png",
+            "query": "version=1694402263",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-11_s2",
+        "sequence": 2,
+        "name": "五等分の花嫁∬",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 最後の試験",
+        "content": "次の試験で赤点回避が出来なければ転校することになった五つ子。一丸となって乗り越えようと頑張る風太郎と五つ子だが、その思いとは裏腹に中々思うように成績が伸びないことから気持ちが焦りだしてしまう。果たして無事に『最後の試験』を突破出来るのか─!?"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "上杉風太郎：松岡禎丞",
+            "中野一花：花澤香菜",
+            "中野ニ乃：竹達彩奈",
+            "中野三玖：伊藤美来",
+            "中野四葉：佐倉綾音",
+            "中野五月：水瀬いのり"
+        ],
+        "crews": [
+            "原作：春場ねぎ（講談社「週刊少年マガジン」）",
+            "監督：かおり",
+            "シリーズ構成：大知慶一郎",
+            "キャラクターデザイン・総作画監督：勝又聖人",
+            "美術監督：扇山秋仁",
+            "色彩設計：松山愛子",
+            "撮影監督：千葉大輔",
+            "編集：武宮むつみ",
+            "音響監督：髙桑一",
+            "音楽：中村巴奈重・櫻井美希",
+            "音楽制作：日音",
+            "音響制作：ダックスプロダクション",
+            "アニメーション制作：バイブリーアニメーションスタジオ"
+        ],
+        "copyrights": [
+            "(C)春場ねぎ・講談社／「五等分の花嫁∬」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1694402648,
+    "endAt": 1756652400,
+    "transcodeVersion": "3aMa5G",
+    "sharedLink": {
+        "twitter": "https://abema.app/QMnC",
+        "facebook": "https://abema.app/z7xP",
+        "google": "https://abema.app/RGqP",
+        "line": "https://abema.app/hujp",
+        "copy": "https://abema.app/XbhU",
+        "instagram": "https://abema.app/yxeV"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-27_s2_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-27_s2_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-27_s2_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-27_s2_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1441.9872
+    },
+    "nextProgramInfo": {
+        "programId": "189-27_s2_p7",
+        "title": "第7話 攻略開始",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1694402648,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-27_s2_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "189-11_eg0"
+}

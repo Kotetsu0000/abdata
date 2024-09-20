@@ -1,0 +1,74 @@
+{
+    "id": "512-11",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "勇気爆発バーンブレイバーン",
+    "content": "―――ふたりを繋ぐ“勇気”\n\n人型装甲兵器『ティタノストライド=通称TS（ティーエス）』が発達した時代。\n\n各国軍は“ハワイ オアフ島”に集結。\n陸上自衛隊所属 イサミ・アオと アメリカ海兵隊所属 ルイス・スミスのふたりは戦闘の最中出逢う。\n\n突如所属不明機による強襲を受け、為す術もなく散っていく兵士たち。\n（その時、彼が舞い降りる。）\n\n己の誇りをかけて戦え。\n死と隣り合わせの戦場で生き残る為。\n仲間を救う為。\n\n命を信じて、“勇気”を燃やせ。",
+    "seasons": [
+        {
+            "id": "512-11_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/512-11_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1706698820",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "512-11_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)「勇気爆発バーンブレイバーン」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1723704681473392785",
+    "imageUpdatedAt": 1706698786,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/DrvV",
+        "facebook": "https://abema.app/Zde9",
+        "google": "https://abema.app/GnZa",
+        "line": "https://abema.app/r4rk",
+        "copy": "https://abema.app/G99r",
+        "instagram": "https://abema.app/b3Um"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-11",
+        "filename": "thumb.png",
+        "query": "version=1706698786",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-11",
+        "filename": "portrait.png",
+        "query": "version=1706698786",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,155 @@
+{
+    "id": "194-34_s1_p5",
+    "series": {
+        "id": "194-34",
+        "title": "うちの会社の小さい先輩の話",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-34",
+            "filename": "thumb.png",
+            "query": "version=1688094267",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-34",
+            "filename": "portrait.png",
+            "query": "version=1688094267",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "194-34_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1383
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "ep05「寄り道して帰りませんか？」",
+        "content": "12月になり、街はクリスマスムード。詩織里と拓馬は取引先との打ち合わせから帰る途中、街頭インタビューをしている動画配信者の鮎川星に声をかけられる。インタビューの内容は『突撃！隣のカップルさん！』。カップルのふりをしてインタビューを受ける事になった二人だが…。\nそして迎えたクリスマスの日。会社の忘年会の帰り道で二人は…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "片瀬詩織里：立花 日菜",
+            "篠崎拓馬：新 祐樹",
+            "早川千夏：花守ゆみり",
+            "秋那千尋：島﨑信長",
+            "篠崎 豊：小松未可子"
+        ],
+        "crews": [
+            "原作：斎創「うちの会社の小さい先輩の話」（竹書房「ストーリアダッシュ」）",
+            "監督：サトウ光敏",
+            "脚本：大知慶一郎、蒼樹靖子、杉澤 悟",
+            "キャラクターデザイン：橋口隼人、緒方浩美",
+            "音楽：堀口純香",
+            "アニメーション制作：project No.9"
+        ],
+        "copyrights": [
+            "(C)斎創・竹書房／「うちの会社の小さい先輩の話」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696237253,
+    "endAt": 1735657200,
+    "transcodeVersion": "RrYyb",
+    "sharedLink": {
+        "twitter": "https://abema.app/dPWe",
+        "facebook": "https://abema.app/Lzsm",
+        "google": "https://abema.app/BEV4",
+        "line": "https://abema.app/iw3w",
+        "copy": "https://abema.app/PLJU",
+        "instagram": "https://abema.app/bcYh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/194-34_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/194-34_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/194-34_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.194-34_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1292.981555,
+        "opening": {
+            "start": 86.090677,
+            "end": 172.990677
+        },
+        "ending": {
+            "start": 1293.073379,
+            "end": 1380.073379
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "194-34_s1_p6",
+        "title": "ep06「本能に抗えない！」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1696237253,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726786800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-34_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726786800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727434800
+        }
+    ],
+    "episodeGroupId": "194-34_eg0"
+}

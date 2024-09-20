@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p93",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 93,
+        "title": "第93話 ｢対決ジュウザＶＳラオウ！今無敵伝説に終止符を！！」",
+        "content": "南斗の都を目指すケンシロウたちの前に拳王刺客隊のジェニモが現れた。ジェニモの二刀流をかわしケンシロウは拳を叩き込む！その頃ジュウザと拳王が攻防を繰り返す中、一瞬の隙をついてジュウザが拳王の黒王号を奪う。"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "45L61R",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/VrUfD",
+        "facebook": "https://gxyt4.app.goo.gl/iPEDr",
+        "google": "https://gxyt4.app.goo.gl/jbxrz",
+        "line": "https://gxyt4.app.goo.gl/4jFXP",
+        "copy": "https://gxyt4.app.goo.gl/bW5xR",
+        "instagram": "https://gxyt4.app.goo.gl/ybx4L"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p93/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p93/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p93/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p93"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.318855,
+        "opening": {
+            "start": 50.704188,
+            "end": 114.537722
+        },
+        "ending": {
+            "start": 1330.318855,
+            "end": 1430.519055
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p94",
+        "title": "第94話 ｢フドウ絶対絶命！急げケン、男は友を見すてない！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756427,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p93/timeline",
+        "query": "version=45L61R",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

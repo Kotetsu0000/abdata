@@ -1,0 +1,142 @@
+{
+    "id": "415-5_s1_p2",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1486
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 社長令嬢誘拐事件",
+        "content": "黒服の男に殴られ意識を失った新一が目覚めると、飲まされた毒薬のせいで身体が小学生くらいまでに縮んでしまっていた。新一は小学生・江戸川コナンと名乗り、黒服の男たちの情報を得るため私立探偵の父を持つガールフレンドの毛利蘭の家に居候することに。すると金持ちの娘が黒ずくめの男たちに誘拐されたという話が入る。"
+    },
+    "credit": {
+        "released": 1996,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、柳内一彦、吉岡昌仁",
+            "監督：こだま兼嗣",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066295,
+    "endAt": 1740754800,
+    "transcodeVersion": "6CLQio",
+    "sharedLink": {
+        "twitter": "https://abema.app/u4h5",
+        "facebook": "https://abema.app/rCQK",
+        "google": "https://abema.app/5sA6",
+        "line": "https://abema.app/zju8",
+        "copy": "https://abema.app/yScp",
+        "instagram": "https://abema.app/7tQ7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1441.6735666666666,
+        "opening": {
+            "start": 15.482133333333334,
+            "end": 104.97153333333333
+        },
+        "ending": {
+            "start": 1332.5312,
+            "end": 1423.4887333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s1_p3",
+        "title": "第3話 アイドル密室殺人事件",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066295,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

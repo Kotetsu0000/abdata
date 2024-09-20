@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s19_p753",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s19",
+        "sequence": 19,
+        "name": "season19",
+        "thumbComponent": {},
+        "order": 19
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 753,
+        "title": "第753話 シェアハウスの死角",
+        "content": "蘭は空手部の先輩、弥生が住んでいるシェアハウスに遊びに行く。弥生は靖子、鈴木、克子とハウスをシェアしていた。この後、小五郎とコナンが蘭を迎えに来た時に2階の自分の部屋で首から血を流して絶命した克子が発見される。目暮警部は第一発見者で、克子を恨んでいる鈴木を犯人と疑うが、コナンは…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦、石山桂一",
+            "プロデューサー：米倉功人",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066313,
+    "endAt": 1740754800,
+    "transcodeVersion": "4DnzqQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/mhQW",
+        "facebook": "https://abema.app/dUL9",
+        "google": "https://abema.app/Us6L",
+        "line": "https://abema.app/WqZw",
+        "copy": "https://abema.app/Jr7K",
+        "instagram": "https://abema.app/YJ3L"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s19_p753/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s19_p753/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s19_p753/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s19_p753"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 192.32546666666667,
+            "end": 291.9917
+        },
+        "ending": {
+            "start": 1294.6600333333333,
+            "end": 1374.6399333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s19_p754",
+        "title": "第754話 赤い女の惨劇（湯煙）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066313,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s19_p753/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

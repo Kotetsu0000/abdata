@@ -1,0 +1,144 @@
+{
+    "id": "13-12_s0_p35",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s4",
+        "sequence": 4,
+        "name": "4年目",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 35,
+        "title": "第185話 故郷とおっぱいは遠くにありて思うもの／蜂に刺されたら小便かけろってアレは迷信です バイ菌が入るから気をつけようね!!",
+        "content": "「故郷とおっぱいは遠くにありて思うもの」いつものようにマヨまみれの米をすすっていた真選組副調土方十四郎。その目に飛び込んできたのは、大好きなマヨネーズのCM。三万個に一つのマヨネーズに入っているチケットを手に入れれば、マヨネーズ工場へと招待してくれるという…。\n「蜂に刺されたら小便かけろってアレは迷信です バイ菌が入るから気をつけようね!!」久方ぶりの万事屋らしい仕事・ハチの巣駆除の依頼をこなすため、完全防備で現場に向かう万事屋一行。スズメバチ相手の危険な仕事にぶーたれまくる銀時をたしなめつつ、階段を登りきった先には人の身長を超えるほどの大きな巣。完全に怖気づく銀時と新八だったが…。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296391,
+    "endAt": 1748703600,
+    "transcodeVersion": "3JAbBm",
+    "sharedLink": {
+        "twitter": "https://abema.app/eyU3",
+        "facebook": "https://abema.app/uUAM",
+        "google": "https://abema.app/ppdc",
+        "line": "https://abema.app/4722",
+        "copy": "https://abema.app/MoTg",
+        "instagram": "https://abema.app/D3CB"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-12_s0_p35/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-12_s0_p35/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-12_s0_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-12_s0_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 1375.061833,
+        "opening": {
+            "end": 90
+        },
+        "ending": {
+            "start": 1375.084916,
+            "end": 1463.084933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-12_s0_p36",
+        "title": "第186話 死亡フラグに気をつけろ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296391,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-12_s0_p35/timeline",
+        "query": "version=3JAbBm",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

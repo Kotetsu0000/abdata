@@ -1,0 +1,146 @@
+{
+    "id": "5-51_s1_p31",
+    "series": {
+        "id": "5-51",
+        "title": "ハートキャッチプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-51",
+            "filename": "thumb.png",
+            "query": "version=1721020414",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-51",
+            "filename": "portrait.png",
+            "query": "version=1721020414",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-51_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 31,
+        "title": "第31話　悲しみの正体!! それは、ゆりさんの妖精でした…",
+        "content": "またしても暴れるデザトリアンを浄化して、こころの花を取り戻したプリキュアたち。まさに絶好調なのに、ゆりだけは、いつもどこかさみしげな感じです。つぼみはそのことがとても気がかりでした。つぼみは秋の学園祭に向けて企画中のファッションショーに、ゆりにモデルとして出てもらうことを提案します。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "花咲つぼみ／キュアブロッサム：水樹奈々",
+            "来海えりか/キュアマリン：水沢史絵",
+            "明堂院いつき/キュアサンシャイン：桑島法子",
+            "月影ゆり/キュアムーンライト：久川 綾",
+            "シプレ：川田妙子",
+            "コフレ：くまいもとこ",
+            "ポプリ：菊池こころ"
+        ],
+        "crews": [
+            "プロデューサー：吉田健一郎、佐々木礼子、梅澤淳稔",
+            "企画：西出将之、松下洋子、関 弘美",
+            "シリーズディレクター：長峯達也",
+            "シリーズ構成：山田隆司",
+            "キャラクターデザイン：馬越嘉彦",
+            "美術デザイン：増田竜太郎",
+            "音楽：高梨康治",
+            "色彩設計：佐久間ヨシ子",
+            "製作担当：額賀康彦"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721266508,
+    "endAt": 1740754800,
+    "transcodeVersion": "6b4bqH",
+    "sharedLink": {
+        "twitter": "https://abema.app/BR1u",
+        "facebook": "https://abema.app/HPGX",
+        "google": "https://abema.app/uzAf",
+        "line": "https://abema.app/b342",
+        "copy": "https://abema.app/4mTN",
+        "instagram": "https://abema.app/XruA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-51_s1_p31/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-51_s1_p31/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-51_s1_p31/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-51_s1_p31"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.09375,
+        "opening": {
+            "start": 80.99758333333334,
+            "end": 165.99916666666667
+        },
+        "ending": {
+            "start": 1345.09375,
+            "end": 1435.058625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-51_s1_p32",
+        "title": "第32話　イケメンさんと対決？ そんなの聞いてないです〜!!",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721266531,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-51_s1_p31/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-51_eg0"
+}

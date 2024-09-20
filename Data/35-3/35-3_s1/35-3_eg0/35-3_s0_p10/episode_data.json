@@ -1,0 +1,152 @@
+{
+    "id": "35-3_s0_p10",
+    "series": {
+        "id": "35-3",
+        "title": "新あたしンち",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "thumb.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "portrait.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 須藤ちゃんのメガネ／ドーナツブーム／最近、キョーミあること",
+        "content": "「須藤ちゃんのメガネ」学校にメガネをかけてきた須藤を見て、大盛り上がりの藤野。大好きな須藤を笑わせるために、ひとり奮闘する藤野だが、そこに大きな壁が立ちふさがる！？"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "母：渡辺久美子",
+            "みかん：折笠富美子",
+            "ユズヒコ：阪口大助",
+            "父：緒方賢一"
+        ],
+        "crews": [
+            "監督：小倉宏文",
+            "脚本：けらえいこ、清水 東、福島直浩、田嶋久子、うえのきみこ"
+        ],
+        "copyrights": [
+            "ⓒけらえいこ/シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1689133951,
+    "endAt": 1756652400,
+    "freeEndAt": 1726995600,
+    "transcodeVersion": "h2AiJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/2eS7",
+        "facebook": "https://abema.app/uhwa",
+        "google": "https://abema.app/oLfU",
+        "line": "https://abema.app/y8xS",
+        "copy": "https://abema.app/LSYh",
+        "instagram": "https://abema.app/t9Tq"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-3_s0_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-3_s0_p10/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-3_s0_p10/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-3_s0_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-3_s0_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.1685,
+        "opening": {
+            "end": 55.142066
+        },
+        "ending": {
+            "start": 1315.1685,
+            "end": 1375.127067
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-3_s0_p11",
+        "title": "第11話 みかん、窓ふき職人／母、虫コミ／母、たとえ下手",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1689133951,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726398000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-3_s0_p10/timeline",
+        "query": "version=h2AiJ",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726995600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-3_eg0"
+}

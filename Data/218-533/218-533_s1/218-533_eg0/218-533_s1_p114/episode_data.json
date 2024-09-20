@@ -1,0 +1,119 @@
+{
+    "id": "218-533_s1_p114",
+    "series": {
+        "id": "218-533",
+        "title": "鈴村健一のラジベース",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-533",
+            "filename": "thumb.png",
+            "query": "version=1673430565",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-533",
+            "filename": "portrait.png",
+            "query": "version=1673430565",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-533_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3361
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 114,
+        "title": "鈴村健一のラジベース #114",
+        "content": "鈴村健一さんの1人しゃべり生放送番組「鈴村健一のラジベース」！その名の通り、鈴村健一がラジオの基本（ベース）に立ち返ってお送りするラジオラジオしたラジオ。つまりRADIO of RADIOを目指す1時間の生放送！ネタコーナーも、真面目コーナーも全部が本気！形だけの着飾りトークや、単なる逆張りトークに疲れたあなた！久々に真っ正面のラジオを体験しませんか？メッセージもつぶやきも、めちゃめちゃ待ってます！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "鈴村健一"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)Nippon Cultural Broadcasting Inc.All rights reserved　(C)AbemaTV,Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713336238,
+    "endAt": 1732964400,
+    "transcodeVersion": "2kJaXV",
+    "sharedLink": {
+        "twitter": "https://abema.app/b8kx",
+        "facebook": "https://abema.app/bBSL",
+        "google": "https://abema.app/QHbs",
+        "line": "https://abema.app/zZCX",
+        "copy": "https://abema.app/LfHy",
+        "instagram": "https://abema.app/Mncc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-533_s1_p114/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-533_s1_p114/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-533_s1_p114/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-533_s1_p114"
+    },
+    "viewingPoint": {
+        "suggestion": 3285.3821,
+        "ending": {
+            "start": 3285.3821,
+            "end": 3360.9909666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "218-533_s1_p115",
+        "title": "鈴村健一のラジベース #115",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1713336244,
+        "endAt": 1733569200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1733569200
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-533_s1_p114/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732964400
+        }
+    ],
+    "episodeGroupId": "218-533_eg0"
+}

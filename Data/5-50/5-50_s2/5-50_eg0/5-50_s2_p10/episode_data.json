@@ -1,0 +1,148 @@
+{
+    "id": "5-50_s2_p10",
+    "series": {
+        "id": "5-50",
+        "title": "Yes！プリキュア５GoGo！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-50",
+            "filename": "thumb.png",
+            "query": "version=1721019096",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-50",
+            "filename": "portrait.png",
+            "query": "version=1721019096",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-50_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話　出た！ 青いバラの力！",
+        "content": "のぞみたちがナッツハウスでお茶を楽しんでいると、突然、ローズパクトが光り始めた。そして、キュアローズガーデンのフローラが、ローズパクトの中から姿を現す。フローラはのぞみたちに危険が迫っていることを伝えると、「赤いバラの力と青いバラの力を合わせるのです」と言って消えてしまう。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "キュアドリーム：三瓶由布子",
+            "キュアルージュ：竹内順子",
+            "キュアレモネード：伊瀬茉莉也",
+            "キュアミント：永野 愛",
+            "キュアアクア：前田 愛",
+            "ココ：草尾 毅",
+            "ナッツ：入野自由",
+            "ミルク：仙台エリ",
+            "シロップ：朴 璐美"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "プロデューサー：吉田健一郎、麻生一宏、鷲尾 天",
+            "製作担当：坂井和男",
+            "シリーズ構成：成田良美",
+            "シリーズディレクター：小村敏明",
+            "キャラクターデザイン：川村敏江",
+            "色彩設計：澤田豊二",
+            "美術デザイン：行 信三",
+            "音楽：佐藤直紀"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721090053,
+    "endAt": 1740754800,
+    "transcodeVersion": "2EnADU",
+    "sharedLink": {
+        "twitter": "https://abema.app/zy1L",
+        "facebook": "https://abema.app/Eoia",
+        "google": "https://abema.app/VnPz",
+        "line": "https://abema.app/neuS",
+        "copy": "https://abema.app/Lah3",
+        "instagram": "https://abema.app/YeFe"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-50_s2_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-50_s2_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-50_s2_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-50_s2_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.09375,
+        "opening": {
+            "start": 65.065,
+            "end": 149.94145833333334
+        },
+        "ending": {
+            "start": 1345.09375,
+            "end": 1435.058625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-50_s2_p11",
+        "title": "第11話　華麗に変身！ミルキィローズ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721090071,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-50_s2_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-50_eg0"
+}

@@ -1,0 +1,140 @@
+{
+    "id": "35-46_s0_p28",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6726
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 28,
+        "title": "映画ドラえもん のび太と緑の巨人伝",
+        "content": "「植物自動化液（しょくぶつじどうかえき）」で動けるようになったキー坊とのび太くんたちは、怪現象（かいげんしょう）にまきこまれ、なぞの星へ…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "原作：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2008"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "2RRWLt",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/GwX87",
+        "facebook": "https://gxyt4.app.goo.gl/VPiMB",
+        "google": "https://gxyt4.app.goo.gl/qHTD1",
+        "line": "https://gxyt4.app.goo.gl/qot8w",
+        "copy": "https://gxyt4.app.goo.gl/zrNnD",
+        "instagram": "https://gxyt4.app.goo.gl/8t7fU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p28/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p28/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-46_s0_p28/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p28"
+    },
+    "viewingPoint": {
+        "suggestion": 6495.312022,
+        "opening": {
+            "start": 276.099022,
+            "end": 365.153655
+        },
+        "ending": {
+            "start": 6495.312022,
+            "end": 6726.820862
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p29",
+        "title": "映画ドラえもん 新・のび太の宇宙開拓史",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1709522815,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p28/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

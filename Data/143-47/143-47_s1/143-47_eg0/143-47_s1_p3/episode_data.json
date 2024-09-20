@@ -1,0 +1,154 @@
+{
+    "id": "143-47_s1_p3",
+    "series": {
+        "id": "143-47",
+        "title": "エルフェンリート",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-47",
+            "filename": "thumb.png",
+            "query": "version=1712883881",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-47",
+            "filename": "portrait.png",
+            "query": "version=1712883881",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-47_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1501
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 胸裡",
+        "content": "ルーシーの逃げ出した研究所では、蔵間がナナと対面していた。ルーシー捕獲をナナに依頼する蔵間。一方楓荘では、古いオルゴールの音色を聞いたにゅう（ルーシー）に異変が起きていた。楓荘を飛び出したルーシーは、ナナと遭遇する。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "コウタ：鈴木千尋",
+            "にゅう／ルーシー：小林沙苗",
+            "ユカ：能登麻美子",
+            "マユ：萩原えみこ",
+            "ナナ：松岡由貴",
+            "蔵間：細井治",
+            "坂東：中田譲治"
+        ],
+        "crews": [
+            "原作：岡本 倫（「週刊ヤングジャンプ、ヤングジャンプ・コミックス」集英社刊）",
+            "監督：神戸 守",
+            "シリーズ構成：吉岡たかを",
+            "キャラクターデザイン・総作画監督：きしもとせいじ",
+            "メカデザイン：大河広行",
+            "美術設定：青木智由紀",
+            "美術監督：伊藤 聖",
+            "色彩設計：中田亮大",
+            "撮影監督：白井久男",
+            "編集：瀬山武司",
+            "音楽：小西香葉、近藤由紀夫",
+            "エンディングテーマ「be your girl」河辺千恵子（バップ）",
+            "制作：ARMS",
+            "製作著作：バップ、ジェンコ"
+        ],
+        "copyrights": [
+            "(C)岡本倫/集英社・VAP・GENCO"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711436913,
+    "endAt": 1746025200,
+    "transcodeVersion": "6nTFjv",
+    "sharedLink": {
+        "twitter": "https://abema.app/f16j",
+        "facebook": "https://abema.app/WWHc",
+        "google": "https://abema.app/FXsh",
+        "line": "https://abema.app/P4fg",
+        "copy": "https://abema.app/CTEm",
+        "instagram": "https://abema.app/xzwF"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-47_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-47_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-47_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-47_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1381.38,
+        "opening": {
+            "end": 90.05663333333334
+        },
+        "ending": {
+            "start": 1381.38,
+            "end": 1471.4366333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-47_s1_p4",
+        "title": "第4話 触撃",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711099947,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-47_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "143-47_eg0"
+}

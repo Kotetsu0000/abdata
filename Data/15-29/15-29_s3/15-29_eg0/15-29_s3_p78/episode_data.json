@@ -1,0 +1,152 @@
+{
+    "id": "15-29_s3_p78",
+    "series": {
+        "id": "15-29",
+        "title": "幽☆遊☆白書",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-29",
+            "filename": "thumb.png",
+            "query": "version=1660299117",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-29",
+            "filename": "portrait.png",
+            "query": "version=1660299117",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-29_s3",
+        "sequence": 3,
+        "name": "魔界の扉編",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 78,
+        "title": "第78話 出撃！ダークエンジェル",
+        "content": "仙水とその一派との戦いが始まった！だが、幽助たちは、仙水の奥義・霊光裂蹴拳に翻弄されるばかり。更に仙水は罠により、幽助たちの戦力を分散し、そのスキに桑原を捕え…！！"
+    },
+    "credit": {
+        "released": 1992,
+        "casts": [
+            "浦飯幽助： 佐々木 望",
+            "桑原和真： 千葉 繁",
+            "蔵馬： 緒方恵美",
+            "飛影： 檜山修之",
+            "コエンマ： 田中真弓",
+            "ぼたん： 深雪さなえ",
+            "雪村螢子： 天野由梨",
+            "幻海： 京田尚子"
+        ],
+        "crews": [
+            "原作： 冨樫義博",
+            "掲載： 「週刊少年ジャンプ」",
+            "発行： 集英社",
+            "製作： 布川ゆうじ（ぴえろ）",
+            "企画： 大野 実（読売広告社）",
+            "シリーズ構成： 大橋志吉",
+            "シリーズ監督： 阿部紀之（現　阿部記之）",
+            "脚本： 大橋志吉／隈沢克之／富田祐弘／橋本裕志",
+            "アニメーションキャラクターデザイン： 北山真理／大西雅也／山沢 実",
+            "美術デザイン・美術監督： 池田祐二／高田茂祝",
+            "音楽： 本間勇輔",
+            "撮影監督： 福島敏行",
+            "音響監督： 水本 完",
+            "制作： フジテレビ／読売広告社／ぴえろ"
+        ],
+        "copyrights": [
+            "原作／冨樫義博「幽☆遊☆白書」（集英社「ジャンプコミックス」刊）",
+            "(C)Yoshihiro Togashi 1990年-1994年　(C)ぴえろ／集英社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683794614,
+    "endAt": 1727708400,
+    "transcodeVersion": "68aCXn",
+    "sharedLink": {
+        "twitter": "https://abema.app/xpmE",
+        "facebook": "https://abema.app/zYYo",
+        "google": "https://abema.app/GvxV",
+        "line": "https://abema.app/W5RB",
+        "copy": "https://abema.app/tk9e",
+        "instagram": "https://abema.app/AU8o"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/15-29_s3_p78/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/15-29_s3_p78/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/15-29_s3_p78/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-29_s3_p78"
+    },
+    "viewingPoint": {
+        "suggestion": 1304.326222,
+        "opening": {
+            "end": 87.150933
+        },
+        "ending": {
+            "start": 1334.467933,
+            "end": 1420.4827
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "15-29_s3_p79",
+        "title": "第79話 幽助激走！桑原を救え！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683794614,
+        "endAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-29_s3_p78/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "15-29_eg0"
+}

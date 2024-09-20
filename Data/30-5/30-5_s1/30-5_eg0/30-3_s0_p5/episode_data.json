@@ -1,0 +1,154 @@
+{
+    "id": "30-3_s0_p5",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s1",
+        "sequence": 1,
+        "name": "Season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "#05 初陣 ～トロスト区攻防戦①～",
+        "content": "シガンシナ区の惨劇から5年、エレンは「ウォール・マリア」破壊のきっかけとなった巨人と対峙していた。立体機動装置を作動させ、巨 人の急所であるうなじを狙い攻撃を加えるエレン。しかし、突如発生した大量の蒸気に巨人を見失ってしまう。破壊された開閉扉、壁の修 復にあたりながら、巨人の第二波進軍に備えるエレンたち。はたして、迫りくる巨人たちに一矢報いることはできるのか!?"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創",
+            "監督：荒木哲郎",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248133,
+    "endAt": 1730386800,
+    "transcodeVersion": "5gAuDF",
+    "sharedLink": {
+        "twitter": "https://abema.app/9Z9K",
+        "facebook": "https://abema.app/exQQ",
+        "google": "https://abema.app/GtRp",
+        "line": "https://abema.app/3VoA",
+        "copy": "https://abema.app/Ckg7",
+        "instagram": "https://abema.app/Sqd6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-3_s0_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1341.161133,
+        "opening": {
+            "start": 52.623989,
+            "end": 144.057262
+        },
+        "ending": {
+            "start": 1342.148935,
+            "end": 1431.984199
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-3_s0_p6",
+        "title": "#06 少女が見た世界 ～トロスト区攻防戦②～",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248133,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-3_s0_p5/timeline",
+        "query": "version=5gAuDF",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

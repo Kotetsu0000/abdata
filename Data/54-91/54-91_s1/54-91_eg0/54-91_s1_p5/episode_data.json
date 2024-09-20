@@ -1,0 +1,153 @@
+{
+    "id": "54-91_s1_p5",
+    "series": {
+        "id": "54-91",
+        "title": "まぁるい彼女と残念な彼氏",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-91",
+            "filename": "thumb.png",
+            "query": "version=1719970788",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-91",
+            "filename": "portrait.png",
+            "query": "version=1719970788",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-91_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 690
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 もう二度と誘わないでください！",
+        "content": "2回目のデートでホテルビュッフェに誘われた万莉子。\n凪からの好意を少しずつ感じていた万莉子だが、他の女性とデートの約束をする凪を見てお互いの気持ちがすれ違ってしまう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "細井万莉子：徳井青空",
+            "桐ヶ谷凪：田丸篤志"
+        ],
+        "crews": [
+            "原作：葉山いずみ",
+            "作画：丘邑やち代",
+            "制作：una toon studio（「LINEマンガ」連載）",
+            "総監督：久保洋祐",
+            "監督：うもとゆーじ",
+            "音響監督：今泉雄一",
+            "音響効果：小林亜依里",
+            "音楽：bermei.inazawa",
+            "アニメーション制作：Imageworks Studio",
+            "制作協力：ウサギ王"
+        ],
+        "copyrights": [
+            "(C)Izumi Hayama・Yachiyo Okamura・una toon studio/LDF/「まるカノ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721966762,
+    "endAt": 1772290800,
+    "transcodeVersion": "5coj9z",
+    "sharedLink": {
+        "twitter": "https://abema.app/1X7j",
+        "facebook": "https://abema.app/nFjS",
+        "google": "https://abema.app/b996",
+        "line": "https://abema.app/jM9m",
+        "copy": "https://abema.app/6C6b",
+        "instagram": "https://abema.app/RgAW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-91_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-91_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-91_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-91_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 600.0160833333333,
+        "opening": {
+            "end": 89.964875
+        },
+        "ending": {
+            "start": 600.0160833333333,
+            "end": 689.9809583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "54-91_s1_p6",
+        "title": "第6話 君の好きなところ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1721966762,
+        "endAt": 1772290800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1772290800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-91_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1772290800
+        }
+    ],
+    "episodeGroupId": "54-91_eg0"
+}

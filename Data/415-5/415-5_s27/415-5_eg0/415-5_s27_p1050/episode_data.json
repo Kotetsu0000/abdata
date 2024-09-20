@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s27_p1050",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s27",
+        "sequence": 27,
+        "name": "season27",
+        "thumbComponent": {},
+        "order": 27
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1050,
+        "title": "第1050話 森川御殿の陰謀（前編）",
+        "content": "コナンは、蘭とともに小五郎が依頼を受けた屋敷に同行する。依頼主はソフトクリーム産業のドン・森川雄山。雄山はガンで余命いくばくもないと診断されており、小五郎に遺産相続のアドバイザーを頼みたいとのことだ。屋敷には、遺産相続候補の森川勇一郎、森川優次郎、森川游三郎の三兄弟。そして弁護士・大井宏樹、執事長・司徒友嘉がいた。三兄弟の話題は遺産の事ばかり。それぞれが遺産を手に入れようと躍起になっており……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：永井幸治・寺島清晃",
+            "プロデューサー：汐口武史・藤堂真孝",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "（C）青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725861223,
+    "endAt": 1773500400,
+    "transcodeVersion": "3UnVs1",
+    "sharedLink": {
+        "twitter": "https://abema.app/4mRE",
+        "facebook": "https://abema.app/dygq",
+        "google": "https://abema.app/oVBc",
+        "line": "https://abema.app/yjLB",
+        "copy": "https://abema.app/n75V",
+        "instagram": "https://abema.app/5oWW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s27_p1050/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s27_p1050/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s27_p1050/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s27_p1050"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.0103333333334,
+        "opening": {
+            "start": 42.417375,
+            "end": 142.97616666666667
+        },
+        "ending": {
+            "start": 1345.0103333333334,
+            "end": 1424.9235
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s27_p1051",
+        "title": "第1051話 森川御殿の陰謀（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1725861223,
+        "endAt": 1773500400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1773500400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s27_p1050/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1773500400
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

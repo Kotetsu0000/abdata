@@ -1,0 +1,152 @@
+{
+    "id": "5-65_s1_p5",
+    "series": {
+        "id": "5-65",
+        "title": "わんだふるぷりきゅあ！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-65",
+            "filename": "thumb.png",
+            "query": "version=1721612689",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-65",
+            "filename": "portrait.png",
+            "query": "version=1721612689",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-65_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 つながるキズナ　フレンドリータクト！",
+        "content": "ポメラニアンの子犬と暮らしているえまに出会い、自分の子犬時代のことを思い出すこむぎ。お世話をしてくれたいろはに感謝する中、新たなガルガルがあらわれる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "キュアワンダフル／犬飼こむぎ：長縄まりあ",
+            "キュアフレンディ／犬飼いろは：種﨑敦美"
+        ],
+        "crews": [
+            "シリーズディレクター：佐藤雅教",
+            "シリーズ構成：成田良美",
+            "キャラクターデザイン：内田陽子",
+            "衣装・プロップデザイン：NaSka",
+            "美術デザイン：いいだりえ",
+            "チーフ美術：今井美紀",
+            "色彩設計：清田直美",
+            "音楽：深澤恵梨香",
+            "プロデューサー：多田 香奈子（ABCアニメーション）、利根 里佳（ADKエモーションズ）、髙橋 麻樹",
+            "制作：ＡＢＣテレビ、ＡＢＣアニメーション、ＡＤＫエモーションズ、東映アニメーション"
+        ],
+        "copyrights": [
+            "(C)ＡＢＣ-Ａ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726035394,
+    "endAt": 1769871600,
+    "freeEndAt": 1726354800,
+    "transcodeVersion": "7K4MvZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/nG5q",
+        "facebook": "https://abema.app/b1dV",
+        "google": "https://abema.app/B7qc",
+        "line": "https://abema.app/MsN2",
+        "copy": "https://abema.app/qQVT",
+        "instagram": "https://abema.app/XJof"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-65_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-65_s1_p5/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/5-65_s1_p5/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-65_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-65_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.1721666666667,
+        "opening": {
+            "start": 85.04329166666666,
+            "end": 175.09158333333335
+        },
+        "ending": {
+            "start": 1340.1721666666667,
+            "end": 1430.2204583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-65_s1_p6",
+        "title": "第6話 こむぎ、いろはとケンカする",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726035394,
+        "endAt": 1769871600,
+        "freeEndAt": 1726354800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726354800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-65_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726354800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1769871600
+        }
+    ],
+    "episodeGroupId": "5-65_eg0"
+}

@@ -1,0 +1,146 @@
+{
+    "id": "35-53_s1_p5016",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5016,
+        "title": "ウルトラミキサー",
+        "content": "公園でケンカしてばかりいる犬とネコをどうにかしてほしいとしずかからたのまれたドラえもんは、二つの生き物や道具を合体させて一つにする『ウルトラミキサー』を取り出す。さっそく、犬とネコ、それぞれに吸盤（きゅうばん）をつけ、スイッチを入れたところ、二ひきとも機械の中にすいこまれ、犬とネコが合体した生き物が出てきたからビックリ！ こうふんするのび太だったが、それを見たしずかからは元にもどしてと言われてしまう…。\n　二人が家に帰ると、パパが大きなつぼを買ってきたことでママにせめられていた…。パパをかわいそうに思ったのび太たちは、ウルトラミキサーでそのつぼとおふろの浴槽（よくそう）を合体させることに。\n　その後も、そうじ機とゴミ箱、テレビとタンスなど、家の中のものを次々と合体させ、調子に乗ったのび太は、ウルトラミキサーを手に外へと出かけ、さらにいろいろなものを合体させてしまう…！？"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "ドラえもん:水田わさび",
+            "のび太:大原めぐみ",
+            "しずか:かかずゆみ",
+            "ジャイアン:木村昴",
+            "スネ夫:関智一"
+        ],
+        "crews": [
+            "脚本:清水 東"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1722396254,
+    "endAt": 1756825200,
+    "freeEndAt": 1726398300,
+    "transcodeVersion": "4y3eXu",
+    "sharedLink": {
+        "twitter": "https://abema.app/V2d6",
+        "facebook": "https://abema.app/rH7V",
+        "google": "https://abema.app/H49t",
+        "line": "https://abema.app/3EBY",
+        "copy": "https://abema.app/FnXq",
+        "instagram": "https://abema.app/22vo"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5016/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5016/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-53_s1_p5016/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p5016/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p5016"
+    },
+    "viewingPoint": {
+        "suggestion": 425.0079166666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p5017",
+        "title": "ムード盛り上げ楽団",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1722396281,
+        "endAt": 1756825200,
+        "freeEndAt": 1726398300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726398300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p5016/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726398300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756825200
+        }
+    ],
+    "episodeGroupId": "35-53_eg1"
+}

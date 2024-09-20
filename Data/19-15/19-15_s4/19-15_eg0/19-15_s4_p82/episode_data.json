@@ -1,0 +1,149 @@
+{
+    "id": "19-15_s4_p82",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s4",
+        "sequence": 4,
+        "name": "第4期",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 82,
+        "title": "第82話 文化祭って準備してる時が一番楽しいよね",
+        "content": "動画サイトにどこかしょうもない犯罪行為の動画をアップしている謎の2人組、ジェントル・クリミナルとラブラバ。より注目度を集めるために、2人は雄英文化祭襲撃を計画する。その文化祭に向けた準備を進める1年A組はバンドメンバーを選定。持ち前の“才能マン”ぶりを発揮した爆豪がドラム、そしてステキな歌声を披露した耳郎がボーカル、そのほかのメンバーも決まった。ダンス隊、演出隊それぞれのメンバーに分かれ、本格的な練習と準備がスタートする。そんな中、オールマイトから呼び出されたデクは“個性”ワン・フォー・オールの次のステップに進むことに！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成・脚本：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872425,
+    "endAt": 1759244400,
+    "transcodeVersion": "2ssUDF",
+    "sharedLink": {
+        "twitter": "https://abema.app/tztL",
+        "facebook": "https://abema.app/yxf1",
+        "google": "https://abema.app/qNEZ",
+        "line": "https://abema.app/29fW",
+        "copy": "https://abema.app/rbyR",
+        "instagram": "https://abema.app/z5NL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-15_s4_p82/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-15_s4_p82/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-15_s4_p82/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s4_p82"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.1320666666666,
+        "opening": {
+            "start": 43.043,
+            "end": 132.99953333333335
+        },
+        "ending": {
+            "start": 1274.1061666666667,
+            "end": 1364.0627
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s4_p83",
+        "title": "第83話 ゴールドティップスインペリアル",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872425,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s4_p82/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

@@ -1,0 +1,115 @@
+{
+    "id": "247-5",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ゆるキャン△",
+    "content": "これは、ある冬の日の物語。静岡から山梨に引っ越してきた女子高校生・なでしこは、“千円札の絵にもなっている富士山”を見るために自転車を走らせて本栖湖まで行ったものの、あいにく天気はくもり空。富士山も望めず、疲れ果てたなでしこはその場で眠りこけてしまう。目覚めてみるとすっかり夜。初めての場所で、帰り道もわからない。心細さに怯えるなでしこを救ったのは、1人キャンプ好きの女の子・リンだった。冷えた身体を温めるために焚き火にあたる２人。ぱちぱちと薪の爆ぜる音が、湖畔の静寂に沁み込んでいく。焚き火を囲み、カレー麺をすすりながら会話するなでしことリン。やがて2人が待ちに待った瞬間が訪れる。「見えた……ふじさん……」なでしことリン、２人の出会いから始まるアウトドア系ガールズストーリー。",
+    "seasons": [
+        {
+            "id": "247-5_s10",
+            "sequence": 10,
+            "name": "ゆるキャン△",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/247-5_s10",
+                "filename": "default_thumb.png",
+                "query": "version=1690427038",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "247-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "247-5_s20",
+            "sequence": 20,
+            "name": "ゆるキャン△ SEASON2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/247-5_s20",
+                "filename": "default_thumb.png",
+                "query": "version=1690427034",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "247-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "247-5_s30",
+            "sequence": 30,
+            "name": "ゆるキャン△ SEASON3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/247-5_s30",
+                "filename": "default_thumb.png",
+                "query": "version=1712835997",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "247-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        }
+    ],
+    "copyrights": [
+        "(C)あfろ・芳文社／野外活動サークル"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1725268599423402610",
+    "imageUpdatedAt": 1713516774,
+    "caption": "きっと、そらでつながってる",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/EFq6",
+        "facebook": "https://abema.app/QgC6",
+        "google": "https://abema.app/MKjm",
+        "line": "https://abema.app/dAqm",
+        "copy": "https://abema.app/mJQp",
+        "instagram": "https://abema.app/ttBq"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/247-5",
+        "filename": "thumb.png",
+        "query": "version=1713516774",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/247-5",
+        "filename": "portrait.png",
+        "query": "version=1713516774",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

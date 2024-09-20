@@ -1,0 +1,147 @@
+{
+    "id": "5-11_s1_p142",
+    "series": {
+        "id": "5-11",
+        "title": "金田一少年の事件簿",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "thumb.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-11",
+            "filename": "portrait.png",
+            "query": "version=1668417286",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-11_s1",
+        "sequence": 1,
+        "name": "金田一少年の事件簿",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1457
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 142,
+        "title": "第142話 露西亜人形殺人事件 ファイル4",
+        "content": "どうしてもわからなかった密室トリックを、はじめはついに解き明かした。しかし悲鳴が響き渡ったかと思うと、第四の死体が出現。高遠は物証から犯人を指摘し、ナイフで刺し殺してしまう。はじめたちは高遠を塔のエリアに閉じ込め、解読した暗号から山ノ内の遺書を発見する。その内容は驚くべきものだった。"
+    },
+    "credit": {
+        "released": 1997,
+        "casts": [
+            "金田一一： 松野太紀",
+            "七瀬美雪：中川亜紀子",
+            "金田一二三： 池澤春菜",
+            "いつき陽介： 平田広明",
+            "剣持 勇： 小杉 十郎太",
+            "明智健悟： 森川智之"
+        ],
+        "crews": [
+            "原作：天樹征丸、金成陽三郎",
+            "漫画：さとうふみや",
+            "プロデューサー：諏訪道彦、渡辺哲也、清水慎治",
+            "製作担当：樋口宗久、野田 由紀夫",
+            "脚本：島田満、橋本裕志、井上敏樹、ほか",
+            "シリーズディレクター：西尾大介",
+            "演出:西尾大介、梅澤淳稔、宇田鋼之助、ほか",
+            "キャラクターデザイン：荒木伸吾、姫野美智、窪秀巳",
+            "美術デザイン：渡辺佳人",
+            "美術設定：内川文広、秦秀信",
+            "音楽：和田薫"
+        ],
+        "copyrights": [
+            "(C)天樹征丸・金成陽三郎・さとうふみや／講談社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689833283,
+    "endAt": 1732978800,
+    "transcodeVersion": "2P9Eyr",
+    "sharedLink": {
+        "twitter": "https://abema.app/CkzF",
+        "facebook": "https://abema.app/g86Y",
+        "google": "https://abema.app/ivgy",
+        "line": "https://abema.app/LfBZ",
+        "copy": "https://abema.app/YHrD",
+        "instagram": "https://abema.app/8pxa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p142/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p142/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-11_s1_p142/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-11_s1_p142"
+    },
+    "viewingPoint": {
+        "suggestion": 1332.053922,
+        "opening": {
+            "end": 99.989855
+        },
+        "ending": {
+            "start": 1332.053922,
+            "end": 1426.982188
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-11_s1_p143",
+        "title": "第143話 露西亜人形殺人事件 ファイル5",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689833283,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-11_s1_p142/timeline",
+        "query": "version=2P9Eyr",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-11_eg0"
+}

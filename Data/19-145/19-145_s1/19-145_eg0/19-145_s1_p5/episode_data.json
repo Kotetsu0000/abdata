@@ -1,0 +1,167 @@
+{
+    "id": "19-145_s1_p5",
+    "series": {
+        "id": "19-145",
+        "title": "ギヴン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-145",
+            "filename": "thumb.png",
+            "query": "version=1669800059",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-145",
+            "filename": "portrait.png",
+            "query": "version=1669800059",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-145_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1383
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "#05 The Reason",
+        "content": "ライブに出ることになった立夏たち。春樹と秋彦はバーで酒を飲みながら立夏たちの事を話していた。バイクで来ていた秋彦を自宅に泊めることになった春樹は、秋彦と出会った時のことを思い出す。それは、春樹が参加していたバンドが解散し、ちょうど中3になった立夏とも出会った時期で・・・。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "佐藤真冬：矢野奨吾",
+            "上ノ山立夏：内田雄馬",
+            "中山春樹：中澤まさとも",
+            "梶秋彦：江口拓也",
+            "村田雨月：浅沼晋太郎",
+            "鹿島柊：今井文也"
+        ],
+        "crews": [
+            "原作：「ギヴン」キヅナツキ（新書館「シェリプラス」連載中）",
+            "監督：山口ひかる",
+            "シリーズ構成：綾奈ゆにこ",
+            "キャラクターデザイン・総作画監督：大沢美奈",
+            "美術設定：綱頭瑛子",
+            "美術監督：本田光平",
+            "色彩設計：加口大朗",
+            "撮影監督：芹澤直樹",
+            "撮影監督補佐：中川せな",
+            "CG監督：水野朋也",
+            "編集：伊藤利恵",
+            "音響監督：菊田浩巳",
+            "音楽：未知瑠",
+            "アニメーションプロデューサー：比嘉勇二／秋田信人",
+            "アニメーション制作：Lerche",
+            "オープニング・テーマ：「キヅアト」センチミリメンタル",
+            "エンディング・テーマ：「まるつけ」ギヴン"
+        ],
+        "copyrights": [
+            "(C)キヅナツキ・新書館／ギヴン製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1702862777,
+    "endAt": 1738335600,
+    "transcodeVersion": "Tfvv5",
+    "sharedLink": {
+        "twitter": "https://abema.app/pjq2",
+        "facebook": "https://abema.app/Dbi7",
+        "google": "https://abema.app/xCWD",
+        "line": "https://abema.app/BnXx",
+        "copy": "https://abema.app/qC5b",
+        "instagram": "https://abema.app/ATCt"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-145_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-145_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-145_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-145_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1279.034288,
+        "opening": {
+            "start": 107.997755,
+            "end": 197.886555
+        },
+        "ending": {
+            "start": 1279.034288,
+            "end": 1368.956455
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-145_s1_p6",
+        "title": "#06 Creep",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1702862777,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-145_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-145_eg0"
+}

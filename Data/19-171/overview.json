@@ -1,0 +1,75 @@
+{
+    "id": "19-171",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "title": "葬送のフリーレン",
+    "content": "勇者ヒンメルたちと共に、10 年に及ぶ冒険の末に魔王を打ち倒し、世界に平和を\nもたらした魔法使いフリーレン。千年以上生きるエルフである彼女は、ヒンメルたち\nと再会の約束をし、独り旅に出る。それから 50 年後、フリーレンはヒンメルのもと\nを訪ねるが、50 年前と変わらぬ彼女に対し、ヒンメルは老い、人生は残りわずかだ\nった。その後、死を迎えたヒンメルを目の当たりにし、これまで“人を知る”ことをし\nてこなかった自分を痛感し、それを悔いるフリーレンは、“人を知るため”の旅に出\nる。その旅路には、さまざまな人との出会い、さまざまな出来事が待っていた―。",
+    "seasons": [
+        {
+            "id": "19-171_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-171_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1705997972",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-171_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) 山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会"
+    ],
+    "label": {},
+    "version": "1726126397297870213",
+    "imageUpdatedAt": 1705997892,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/hbGn",
+        "facebook": "https://abema.app/rw1H",
+        "google": "https://abema.app/jZ3A",
+        "line": "https://abema.app/Dyzu",
+        "copy": "https://abema.app/Ajj3",
+        "instagram": "https://abema.app/Gxv3"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-171",
+        "filename": "thumb.png",
+        "query": "version=1705997892",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-171",
+        "filename": "portrait.png",
+        "query": "version=1705997892",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

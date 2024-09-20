@@ -1,0 +1,141 @@
+{
+    "id": "420-62_s1_p1",
+    "series": {
+        "id": "420-62",
+        "title": "転生したらスライムだった件 コリウスの夢",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-62",
+            "filename": "thumb.png",
+            "query": "version=1696918082",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-62",
+            "filename": "portrait.png",
+            "query": "version=1696918082",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-62_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1481
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "コリウス国へ",
+        "content": "教師生活もあとわずか。そんなリムルのもとに「コリウス王国の王位継承争い」の調査依頼が舞い込む。\n次期国王候補のサウザー王子とアスラン王子。ギルド本部はどちらに加担するか、判断材料が欲しいという。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "Coming Soon"
+        ],
+        "crews": [
+            "原作:川上泰樹・伏瀬・みっつばー（『転生したらスライムだった件』講談社「月刊少年シリウス」連載）",
+            "監督:中山敦史",
+            "シリーズ構成:根元歳三",
+            "キャラクターデザイン:江畑諒真",
+            "モンスターデザイン:岸田隆宏",
+            "コンセプトアート:富安健一郎（INEI）",
+            "美術:スタジオなや",
+            "美術監督:佐藤 歩",
+            "美術設定:ボワセイユ レミ、藤瀬智康、佐藤正浩",
+            "色彩設計:斉藤麻記",
+            "撮影監督:佐藤 洋",
+            "グラフィックデザイナー:生原雄次",
+            "編集:神宮司由美",
+            "音響監督:明田川 仁",
+            "音楽:藤間 仁（Elements Garden）",
+            "アニメーション制作:エイトビット"
+        ],
+        "copyrights": [
+            "(C)川上泰樹・伏瀬・講談社／転スラ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1700140294,
+    "endAt": 1759244400,
+    "transcodeVersion": "2YoqFq",
+    "sharedLink": {
+        "twitter": "https://abema.app/4NZq",
+        "facebook": "https://abema.app/hRyd",
+        "google": "https://abema.app/J45N",
+        "line": "https://abema.app/71to",
+        "copy": "https://abema.app/fpwv",
+        "instagram": "https://abema.app/vnWm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/420-62_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/420-62_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/420-62_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-62_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1386.009625,
+        "opening": {
+            "start": 40.04,
+            "end": 123.95716666666667
+        },
+        "ending": {
+            "start": 1386.009625,
+            "end": 1475.9327916666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-62_s1_p2",
+        "title": "大怪盗サトル",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1700140313,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-62_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "420-62_eg0"
+}

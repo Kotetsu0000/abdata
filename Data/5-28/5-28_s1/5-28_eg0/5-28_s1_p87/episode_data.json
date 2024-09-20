@@ -1,0 +1,147 @@
+{
+    "id": "5-28_s1_p87",
+    "series": {
+        "id": "5-28",
+        "title": "ドラゴンボール",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+            "filename": "thumb.png",
+            "query": "version=1681281962",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-28",
+            "filename": "portrait.png",
+            "query": "version=1681281962",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-28_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1496
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 87,
+        "title": "第87話　対決!! ヤムチャVS天津飯",
+        "content": "餃子は不思議な超能力を持っていた。天津飯の指示で、餃子は8人の出場者の対戦順と、その相手を、思い通りに割りあてる。第1試合は、ヤムチャVS天津飯。挑発的な態度の天津飯に、ヤムチャも闘志を燃やしていた。戦いは最初から、互いに一歩も譲らない激しい攻防戦となる！"
+    },
+    "credit": {
+        "released": 1986,
+        "casts": [
+            "孫悟空：野沢雅子",
+            "ブルマ：鶴ひろみ",
+            "ヤムチャ：古谷徹",
+            "ウーロン：龍田直樹",
+            "プーアル：渡辺菜生子",
+            "ピラフ：千葉繁",
+            "シュウ：玄田哲章",
+            "マイ：山田栄子",
+            "亀仙人：宮内幸平",
+            "天津飯：鈴置洋孝",
+            "クリリン：田中真弓",
+            "ピッコロ大魔王：青野武",
+            "牛魔王：郷里大輔",
+            "ナレーター：八奈見乗児"
+        ],
+        "crews": [
+            "原作：鳥山明",
+            "企画：土屋登喜蔵、清水賢治、七條敬三",
+            "製作担当：岸本松司",
+            "チーフディレクター：岡崎稔、西尾大介",
+            "チーフアニメーター：前田実",
+            "チーフデザイナー：辻忠直、池田祐二",
+            "音楽：菊池俊輔"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ／集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683628305,
+    "endAt": 1756652400,
+    "transcodeVersion": "1oWRW",
+    "sharedLink": {
+        "twitter": "https://abema.app/rvUZ",
+        "facebook": "https://abema.app/pvrc",
+        "google": "https://abema.app/ipHB",
+        "line": "https://abema.app/pWMt",
+        "copy": "https://abema.app/Tu3D",
+        "instagram": "https://abema.app/6Pni"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-28_s1_p87/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-28_s1_p87/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-28_s1_p87/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-28_s1_p87"
+    },
+    "viewingPoint": {
+        "suggestion": 1368.367,
+        "opening": {
+            "start": 15.015,
+            "end": 124.08229166666666
+        },
+        "ending": {
+            "start": 1368.367,
+            "end": 1465.4222916666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-28_s1_p88",
+        "title": "第88話　ゆけヤムチャ！ 恐るべし天津飯",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683628305,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-28_s1_p87/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "5-28_eg0"
+}

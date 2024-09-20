@@ -1,0 +1,148 @@
+{
+    "id": "19-15_s3_p61",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s3",
+        "sequence": 3,
+        "name": "第3期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 61,
+        "title": "第61話 デクVSかっちゃん２",
+        "content": "「戦えや。ここで今」かつて爆豪を破ったグラウンド・βで、出久は再び爆豪と対峙する。本気で攻めてくる爆豪に対し、出久はとまどいを隠せない。しかし出久は、爆豪が、自分が攫われた事が原因でオールマイトが力を失ってしまったという責任に苦しんでいることに気が付き、全力で受けて立つことを決意する。以前より強さに磨きがかかった爆豪に対し、フルカウル・シュートスタイルで戦う出久。加速する戦いの中で、初めて互いに本音を明かし合いながら、感情が昂ぶった出久は、全体常時身体許容上限8％のワン・フォー・オール フルカウルを発動する！"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴"
+        ],
+        "crews": [
+            "監督：長崎健司",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "シリーズ構成：黒田洋介（スタジオオルフェ）",
+            "キャラクターデザイン：馬越嘉彦",
+            "キャラクターデザイン補佐：小田嶋瞳"
+        ],
+        "copyrights": [
+            "(C)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872424,
+    "endAt": 1759244400,
+    "transcodeVersion": "2LdX3S",
+    "sharedLink": {
+        "twitter": "https://abema.app/M9jQ",
+        "facebook": "https://abema.app/LVxY",
+        "google": "https://abema.app/gBXt",
+        "line": "https://abema.app/5iho",
+        "copy": "https://abema.app/8F1f",
+        "instagram": "https://abema.app/EAGT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s3_p61/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s3_p61/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s3_p61/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s3_p61"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.0319666666667,
+        "opening": {
+            "start": 102.03526666666667,
+            "end": 191.95843333333335
+        },
+        "ending": {
+            "start": 1224.0895333333333,
+            "end": 1313.9793333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s3_p62",
+        "title": "第62話 出会いの季節",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1725872424,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s3_p61/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

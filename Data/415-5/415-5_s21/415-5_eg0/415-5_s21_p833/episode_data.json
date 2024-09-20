@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s21_p833",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s21",
+        "sequence": 21,
+        "name": "season21",
+        "thumbComponent": {},
+        "order": 21
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 833,
+        "title": "第833話 名探偵に弱点あり",
+        "content": "小五郎は拳銃を持った強盗犯を追って建物の屋上へ。結局、警察が強盗犯を逮捕するが、強盗犯は逃走中に拳銃を捨てた事が判明する。高い所がダメな小五郎は発砲された恐怖も重なり、軽いショック状態に。2日後、詐欺容疑の先物取引グループ代表の榊が保釈直後に肩と足を撃たれる。この拳銃は強盗犯が捨てたものだった。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066316,
+    "endAt": 1740754800,
+    "transcodeVersion": "2YpPAk",
+    "sharedLink": {
+        "twitter": "https://abema.app/Z6dm",
+        "facebook": "https://abema.app/vNZo",
+        "google": "https://abema.app/rFPx",
+        "line": "https://abema.app/XNRc",
+        "copy": "https://abema.app/4BLR",
+        "instagram": "https://abema.app/TwFy"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p833/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p833/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s21_p833/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s21_p833"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.048625,
+        "opening": {
+            "start": 63.980583333333335,
+            "end": 161.99516666666668
+        },
+        "ending": {
+            "start": 1313.4788333333333,
+            "end": 1393.4337083333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s21_p834",
+        "title": "第834話 二度死んだ男（前編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066316,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s21_p833/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

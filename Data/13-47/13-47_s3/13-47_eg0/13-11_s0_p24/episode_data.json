@@ -1,0 +1,145 @@
+{
+    "id": "13-11_s0_p24",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s3",
+        "sequence": 3,
+        "name": "3年目",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 24,
+        "title": "第123話 いつも心に一本のドライバー",
+        "content": "モンキーハンター内でゲーマー星人の手がかりを失ってしまった銀時たちは、焼肉屋でオフ会を開いていた。今後の対策を練ろうとする一行だが、まともな意見がさっぱり出てこない。その中、桂が皆を諭す。「今の我々に必要なことは、ドライバーとして生きていく覚悟なのだ」と…。果たして銀時たちは元の姿に戻ることができるのか!?"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296389,
+    "endAt": 1746025200,
+    "transcodeVersion": "KKzv7",
+    "sharedLink": {
+        "twitter": "https://abema.app/g8Wd",
+        "facebook": "https://abema.app/P3ik",
+        "google": "https://abema.app/PiV1",
+        "line": "https://abema.app/vs3K",
+        "copy": "https://abema.app/Dh5W",
+        "instagram": "https://abema.app/tSxm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-11_s0_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-11_s0_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1455.0082,
+        "opening": {
+            "start": 117.099998,
+            "end": 206.599998
+        },
+        "ending": {
+            "start": 1249.146018,
+            "end": 1339.646014
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p25",
+        "title": "第124話 おねだりも度が過ぎれば脅迫",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296389,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-11_s0_p24/timeline",
+        "query": "version=KKzv7",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

@@ -1,0 +1,146 @@
+{
+    "id": "5-51_s1_p4",
+    "series": {
+        "id": "5-51",
+        "title": "ハートキャッチプリキュア！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-51",
+            "filename": "thumb.png",
+            "query": "version=1721020414",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-51",
+            "filename": "portrait.png",
+            "query": "version=1721020414",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-51_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話　早くもプリキュアコンビ解散ですか？",
+        "content": "デザトリアンが暴れていると知って、駆けつけるキュアブロッサムとキュアマリン。でも、機敏な動きを見せるマリンに対して、ブロッサムはドジばかりで迷惑をかけてしまいます。なんとか、マリンの活躍でデザトリアンから、こころの花を取り戻して事件は一件落着しますが、新たな砂漠の使徒の大幹部クモジャキーが現れます。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "花咲つぼみ／キュアブロッサム：水樹奈々",
+            "来海えりか/キュアマリン：水沢史絵",
+            "明堂院いつき/キュアサンシャイン：桑島法子",
+            "月影ゆり/キュアムーンライト：久川 綾",
+            "シプレ：川田妙子",
+            "コフレ：くまいもとこ",
+            "ポプリ：菊池こころ"
+        ],
+        "crews": [
+            "プロデューサー：吉田健一郎、佐々木礼子、梅澤淳稔",
+            "企画：西出将之、松下洋子、関 弘美",
+            "シリーズディレクター：長峯達也",
+            "シリーズ構成：山田隆司",
+            "キャラクターデザイン：馬越嘉彦",
+            "美術デザイン：増田竜太郎",
+            "音楽：高梨康治",
+            "色彩設計：佐久間ヨシ子",
+            "製作担当：額賀康彦"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1721265803,
+    "endAt": 1740754800,
+    "transcodeVersion": "GWFog",
+    "sharedLink": {
+        "twitter": "https://abema.app/c9Yp",
+        "facebook": "https://abema.app/nzG8",
+        "google": "https://abema.app/Ryw2",
+        "line": "https://abema.app/yV1L",
+        "copy": "https://abema.app/ufwX",
+        "instagram": "https://abema.app/eT3D"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-51_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-51_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-51_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-51_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.1771666666666,
+        "opening": {
+            "start": 171.045875,
+            "end": 256.04745833333334
+        },
+        "ending": {
+            "start": 1345.1771666666666,
+            "end": 1435.1420416666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-51_s1_p5",
+        "title": "第5話　拒否されたラーメン！ 親子の絆なおします！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1721265829,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-51_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-51_eg0"
+}

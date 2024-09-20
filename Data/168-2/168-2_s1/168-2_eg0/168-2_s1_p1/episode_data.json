@@ -1,0 +1,152 @@
+{
+    "id": "168-2_s1_p1",
+    "series": {
+        "id": "168-2",
+        "title": "ラーメン大好き小泉さん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "thumb.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-2",
+            "filename": "portrait.png",
+            "query": "version=1657005921",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1356
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "一杯目 「ヤサイマシニンニクカラメ」「まーゆ」「こってり」",
+        "content": "クールでミステリアスな女子高生「小泉さん」\n転校生の彼女が気になる同級生の「大澤 悠」は、ある日帰り道にあるラーメン屋の行列に小泉さんの姿を見つけ、ひょんなことから一緒にラーメンを食べることになるのだが、、、。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "小泉さん：竹達彩奈",
+            "大澤 悠：佐倉綾音",
+            "中村美沙：鬼頭明里",
+            "高橋 潤：原 由実"
+        ],
+        "crews": [
+            "原作：鳴見なる「ラーメン大好き小泉さん」（竹書房刊）",
+            "監督：セトウケンジ",
+            "シリーズ構成：髙橋龍也",
+            "シナリオ：髙橋龍也、浦畑達彦、関根アユミ",
+            "キャラクターデザイン：谷 拓也、桜井正明、小関 雅",
+            "アニメーション制作：Studio五組、AXsiZ",
+            "製作：「ラーメン大好き小泉さん」製作委員会"
+        ],
+        "copyrights": [
+            "(C)鳴見なる・竹書房／「ラーメン大好き小泉さん」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683012854,
+    "endAt": 1740754800,
+    "freeEndAt": 1740754800,
+    "transcodeVersion": "2kgZsP",
+    "sharedLink": {
+        "twitter": "https://abema.app/R9KV",
+        "facebook": "https://abema.app/6MF9",
+        "google": "https://abema.app/CqzK",
+        "line": "https://abema.app/XdwJ",
+        "copy": "https://abema.app/uHh5",
+        "instagram": "https://abema.app/vkYv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/168-2_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-2_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-2_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1240.147035,
+        "opening": {
+            "start": 42.619412,
+            "end": 131.651644
+        },
+        "ending": {
+            "start": 1240.39388,
+            "end": 1329.435389
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-2_s1_p2",
+        "title": "二杯目 「北極」「コココココイズミサン」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1683012854,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-2_s1_p1/timeline",
+        "query": "version=2kgZsP",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "168-2_eg0"
+}

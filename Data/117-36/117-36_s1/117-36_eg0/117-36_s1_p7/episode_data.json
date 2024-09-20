@@ -1,0 +1,158 @@
+{
+    "id": "117-36_s1_p7",
+    "series": {
+        "id": "117-36",
+        "title": "治癒魔法の間違った使い方",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-36",
+            "filename": "thumb.png",
+            "query": "version=1703645134",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-36",
+            "filename": "portrait.png",
+            "query": "version=1703645134",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-36_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 決意の夜！",
+        "content": "獣人の少女・アマコに見せられた不穏なビジョンに困惑するウサト。夜になっても気になり眠れないでいると、窓に不思議な光球が現れた。光球に誘われるように外を見ると、そこにはカズキの姿が。\nウサトを前にカズキは、勇者として戦場に立つことが怖いと、おもむろに自身の気持ちを吐露し始める……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ウサト：坂田将吾",
+            "スズネ：七瀬彩夏",
+            "カズキ：高梨謙吾",
+            "ローズ：田中敦子",
+            "アマコ：会沢紗弥",
+            "ブルリン：渡辺明乃",
+            "黒騎士（フェルム）：悠木碧"
+        ],
+        "crews": [
+            "原作：くろかた",
+            "キャラクター原案：KeG.監督；緒方隆秀.シリーズ構成：ヤスカワショウゴ.キャラクターデザイン：田辺謙司",
+            "色彩設計：日野正秋",
+            "美術監督：内藤健",
+            "撮影監督：山本耕平",
+            "編集：小峰博美",
+            "音響監督：今泉雄一",
+            "音響制作：HALF H・P STUDIO",
+            "音楽：Elements Garden(藤間 仁・近藤世真)",
+            "音楽制作：ランティス",
+            "アニメーション制作：スタジオアド × シンエイ動画"
+        ],
+        "copyrights": [
+            "(C)くろかた／MFブックス／「治癒魔法の間違った使い方」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712890777,
+    "endAt": 1806505200,
+    "transcodeVersion": "5ZPo4m",
+    "sharedLink": {
+        "twitter": "https://abema.app/NQZo",
+        "facebook": "https://abema.app/BmgR",
+        "google": "https://abema.app/j6Hm",
+        "line": "https://abema.app/zw1x",
+        "copy": "https://abema.app/VHHW",
+        "instagram": "https://abema.app/LKJA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/117-36_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/117-36_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/117-36_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-36_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.2972916666668,
+        "opening": {
+            "start": 31.031,
+            "end": 120.95416666666667
+        },
+        "ending": {
+            "start": 1340.2972916666668,
+            "end": 1430.0119166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-36_s1_p8",
+        "title": "第8話 ⼤隊⻑ローズ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1712890777,
+        "endAt": 1806505200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1806505200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-36_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1806505200
+        }
+    ],
+    "episodeGroupId": "117-36_eg0"
+}

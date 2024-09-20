@@ -1,0 +1,160 @@
+{
+    "id": "35-5_s0_p89",
+    "series": {
+        "id": "35-5",
+        "title": "美味しんぼ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "thumb.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-5",
+            "filename": "portrait.png",
+            "query": "version=1681282225",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-5_s1",
+        "sequence": 1,
+        "name": "美味しんぼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1478
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 89,
+        "title": "第89話 グルメ志向",
+        "content": "世界の一流レストランが東京に支店を出し始めたのを機に「世界味めぐり」の企画を練る士郎たち。そこで評論家の桜田に協力を依頼するが断られてしまう。理由はレストランに行けばわかるといわれて・・・。"
+    },
+    "credit": {
+        "released": 1991,
+        "casts": [
+            "山岡士郎：井上和彦",
+            "栗田ゆう子：荘真由美",
+            "海原雄山：大塚周夫",
+            "大原社主：阪脩"
+        ],
+        "crews": [
+            "監督：竹内啓雄",
+            "脚本：田波靖夫、山崎晴哉、中西隆三",
+            "演出：遠藤徹哉、谷田部勝義、松園公",
+            "キャラクターデザイン：河南正昭",
+            "タイトルデザイン：ベイブリッジ・スタジオ",
+            "美術監督：古谷彰",
+            "撮影監督：斎藤秋男",
+            "音響監督：浦上靖夫",
+            "音楽：大谷和夫"
+        ],
+        "copyrights": [
+            "(C)雁屋哲・花咲アキラ・小学館／シンエイ動画"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1713424468,
+    "endAt": 1756652400,
+    "freeEndAt": 1726422360,
+    "transcodeVersion": "6HamJV",
+    "sharedLink": {
+        "twitter": "https://abema.app/xnSt",
+        "facebook": "https://abema.app/sNCj",
+        "google": "https://abema.app/4XsU",
+        "line": "https://abema.app/X46h",
+        "copy": "https://abema.app/5XBF",
+        "instagram": "https://abema.app/GU9B"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-5_s0_p89/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-5_s0_p89/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/35-5_s0_p89/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-5_s0_p89/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-5_s0_p89"
+    },
+    "viewingPoint": {
+        "suggestion": 1398.119922,
+        "opening": {
+            "end": 81.037588
+        },
+        "ending": {
+            "start": 1398.119922,
+            "end": 1478.134873
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-5_s0_p90",
+        "title": "第90話 二代目の腕",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713424468,
+        "endAt": 1756652400,
+        "freeEndAt": 1726422360,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726422360
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-5_s0_p89/timeline",
+        "query": "version=6HamJV",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726422360
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-5_eg0"
+}

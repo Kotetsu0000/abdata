@@ -1,0 +1,160 @@
+{
+    "id": "143-46_s1_p27",
+    "series": {
+        "id": "143-46",
+        "title": "NANA－ナナ－",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-46",
+            "filename": "thumb.png",
+            "query": "version=1709191084",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-46",
+            "filename": "portrait.png",
+            "query": "version=1709191084",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1338
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 27,
+        "title": "#25",
+        "content": "707号室を出て２週間、ナナは、大事なライブを控え、メンバーたちと毎日のようにスタジオ入りして練習を重ねていた。だが、そんなナナたちの心の隅には、いつもスタジオに顔を見せている奈々のことがあった…"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "大崎ナナ：朴璐美",
+            "小松奈々：KAORI",
+            "レン：木内秀信",
+            "ヤス：川原慶久",
+            "タクミ：森川智之",
+            "ノブ：関智一",
+            "シン：石田彰",
+            "レイラ：平野綾",
+            "京助：諏訪部順一",
+            "淳子：本田貴子",
+            "章司：高橋広樹",
+            "幸子：小島めぐみ",
+            "美里：かないみか",
+            "ナオキ：勝杏里",
+            "銀平：立木文彦"
+        ],
+        "crews": [
+            "原作：矢沢あい（集英社「Cookie」連載）",
+            "シリーズ構成：金春智子",
+            "キャラクターデザイン：濱田邦彦",
+            "美術監督：清水友幸",
+            "色彩設計：角本百合子",
+            "音響監督：三間雅文",
+            "撮影監督：増元由紀大",
+            "音楽：長谷川智樹",
+            "監督：浅香守生",
+            "アニメーション制作：マッドハウス",
+            "製作著作：日本テレビ・バップ・集英社・マッドハウス"
+        ],
+        "copyrights": [
+            "(C)矢沢漫画制作所／集英社・VAP・マッドハウス・NTV"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708835337,
+    "endAt": 1743433200,
+    "transcodeVersion": "4gJ3V5",
+    "sharedLink": {
+        "twitter": "https://abema.app/x5DF",
+        "facebook": "https://abema.app/KvpJ",
+        "google": "https://abema.app/HZ27",
+        "line": "https://abema.app/Tauy",
+        "copy": "https://abema.app/myYX",
+        "instagram": "https://abema.app/nDWr"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/143-46_s1_p27/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/143-46_s1_p27/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/143-46_s1_p27/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-46_s1_p27"
+    },
+    "viewingPoint": {
+        "suggestion": 1267.4995666666666,
+        "opening": {
+            "start": 39.039,
+            "end": 123.95716666666667
+        },
+        "ending": {
+            "start": 1267.4995666666666,
+            "end": 1337.9699666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-46_s1_p28",
+        "title": "#26",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708835349,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1726693200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-46_s1_p27/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1726693200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1727349540
+        }
+    ],
+    "episodeGroupId": "143-46_eg0"
+}

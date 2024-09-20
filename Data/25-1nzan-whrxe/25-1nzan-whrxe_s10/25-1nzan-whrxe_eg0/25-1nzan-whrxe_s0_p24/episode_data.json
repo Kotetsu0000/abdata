@@ -1,0 +1,153 @@
+{
+    "id": "25-1nzan-whrxe_s0_p24",
+    "series": {
+        "id": "25-1nzan-whrxe",
+        "title": "ソードアート・オンライン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "thumb.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-1nzan-whrxe",
+            "filename": "portrait.png",
+            "query": "version=1681283351",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-1nzan-whrxe_s10",
+        "sequence": 10,
+        "name": "ソードアート・オンライン",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 24,
+        "title": "#24 「鍍金(メッキ)の勇者」",
+        "content": "シルフとケットシーたちの協力のもと、キリトはグランド・クエストを突破した。キリトとユイは《ALO》全プレイヤーがめざす《世界樹》の頂上に到達し、ついにアスナと再会を果たす。キリトはすぐにでもアスナを現実世界に戻そうとするものの、ユイによると複雑なコードに拘束されたアスナをログアウトさせるには権限を有するシステム・コンソールが必要らしい。だが時すでに遅く、須郷こと、オベイロンの魔の手がキリトたちに襲いかかる。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "キリト：松岡禎丞",
+            "アスナ：戸松遥",
+            "リーファ：竹達彩奈",
+            "ユイ：伊藤かな恵",
+            "シリカ：日高里菜"
+        ],
+        "crews": [
+            "原作：川原 礫(電撃文庫／アスキー・メディアワークス刊)",
+            "原作イラスト・キャラクターデザイン原案：abec",
+            "監督：伊藤智彦",
+            "キャラクターデザイン：足立慎吾"
+        ],
+        "copyrights": [
+            "(C)川原 礫／アスキー・メディアワークス／SAO Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1690870934,
+    "endAt": 1743433200,
+    "freeEndAt": 1727239500,
+    "transcodeVersion": "5q5GvM",
+    "sharedLink": {
+        "twitter": "https://abema.app/J2Fh",
+        "facebook": "https://abema.app/5iU7",
+        "google": "https://abema.app/qSLk",
+        "line": "https://abema.app/ZdVm",
+        "copy": "https://abema.app/CHfw",
+        "instagram": "https://abema.app/kjxi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-1nzan-whrxe_s0_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-1nzan-whrxe_s0_p24/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-1nzan-whrxe_s0_p24/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-1nzan-whrxe_s0_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-1nzan-whrxe_s0_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1339.225866,
+        "opening": {
+            "start": 110.097966,
+            "end": 199.821133
+        },
+        "ending": {
+            "start": 1339.225866,
+            "end": 1414.934933
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-1nzan-whrxe_s0_p25",
+        "title": "#25 「世界の種子」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1690870934,
+        "endAt": 1743433200,
+        "freeEndAt": 1727239500,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727239500
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-1nzan-whrxe_s0_p24/timeline",
+        "query": "version=5q5GvM",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727239500
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "25-1nzan-whrxe_eg0"
+}

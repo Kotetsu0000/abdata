@@ -1,0 +1,153 @@
+{
+    "id": "35-3_s0_p5",
+    "series": {
+        "id": "35-3",
+        "title": "新あたしンち",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "thumb.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-3",
+            "filename": "portrait.png",
+            "query": "version=1621301790",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 母、さえてる日／ユズたち、映画に行く／男たちの平和",
+        "content": "「母、さえてる日」今日の母は何をやっても冴えまくる。そして、そんな自分に気付いた母は、この力が消える前に地球規模の大きな事をしたいと意気込む。はたして母の壮大な目標は達成されるのか！？"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "母：渡辺久美子",
+            "みかん：折笠富美子",
+            "ユズヒコ：阪口大助",
+            "父：緒方賢一"
+        ],
+        "crews": [
+            "監督：小倉宏文",
+            "脚本：けらえいこ、清水 東、福島直浩、田嶋久子、うえのきみこ"
+        ],
+        "copyrights": [
+            "ⓒけらえいこ/シンエイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1689133951,
+    "endAt": 1756652400,
+    "freeEndAt": 1726995600,
+    "transcodeVersion": "4noyY",
+    "sharedLink": {
+        "twitter": "https://abema.app/VDyj",
+        "facebook": "https://abema.app/cwbm",
+        "google": "https://abema.app/3Ngq",
+        "line": "https://abema.app/aVZF",
+        "copy": "https://abema.app/3inP",
+        "instagram": "https://abema.app/7HgC"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p5/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/35-3_s0_p5/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-3_s0_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-3_s0_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.1685,
+        "opening": {
+            "end": 55.142066
+        },
+        "ending": {
+            "start": 1315.1685,
+            "end": 1375.127067
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-3_s0_p6",
+        "title": "第6話 母とジグソーパズル／みかん、呼びまちがい／簡単アレンジ料理",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1689133951,
+        "endAt": 1756652400,
+        "freeEndAt": 1726995600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726995600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-3_s0_p5/timeline",
+        "query": "version=4noyY",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726995600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "35-3_eg0"
+}

@@ -1,0 +1,78 @@
+{
+    "id": "54-66",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "進化の実〜知らないうちに勝ち組人生〜",
+    "content": "いじめられっ子だった高校生・柊誠一が、ある日突然学校全体が剣と魔法のゲームのような異世界に飛ばされ、偶然“進化の実”を口にしたことから勝ち組人生を歩み始める物語。",
+    "seasons": [
+        {
+            "id": "54-66_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-66_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683882816",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-66_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) 美紅／双葉社・「進化の実」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726197131885615350",
+    "imageUpdatedAt": 1633661557,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/gjwK",
+        "facebook": "https://abema.app/WDUx",
+        "google": "https://abema.app/U5HF",
+        "line": "https://abema.app/9MER",
+        "copy": "https://abema.app/MieP",
+        "instagram": "https://abema.app/zUuP"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-66",
+        "filename": "thumb.png",
+        "query": "version=1633661557",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-66",
+        "filename": "portrait.png",
+        "query": "version=1633661557",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

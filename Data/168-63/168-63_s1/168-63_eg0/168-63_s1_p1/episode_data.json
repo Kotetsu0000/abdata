@@ -1,0 +1,164 @@
+{
+    "id": "168-63_s1_p1",
+    "series": {
+        "id": "168-63",
+        "title": "FAIRY TAIL 100年クエスト",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-63",
+            "filename": "thumb.png",
+            "query": "version=1722487488",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-63",
+            "filename": "portrait.png",
+            "query": "version=1722487488",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-63_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 “最初”のギルドと“最強”のギルド",
+        "content": "魔導士ギルド「妖精の尻尾」に、ナツを慕うトウカという名の新人が加入する。しかし彼女がナツに会うことは叶わない。ナツと仲間達は遥か北の未知なる大陸・ギルティナの地にいて、世界最古の魔導士ギルド「魔陣の竜」を目指していたからだ。伝説級の難関依頼「100年クエスト」を受注するために。\n 「魔陣の竜」に着いたナツ達は、建物に入って早々に異様な気配を感じ取る。そこに現れたのは、法竜と名乗る謎のドラゴンで…!?"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ナツ・ドラグニル：柿原徹也",
+            "ルーシィ・ハートフィリア：平野綾",
+            "ハッピー：釘宮理恵",
+            "グレイ・フルバスター：中村悠一",
+            "エルザ・スカーレット：大原さやか",
+            "ウェンディ・マーベル：佐藤聡美",
+            "シャルル：堀江由衣",
+            "トウカ：鈴代紗弓",
+            "エレフセリア：麦人",
+            "メルクフォビア：梅原裕一郎",
+            "カラミール：日笠陽子",
+            "キリア：内山夕実",
+            "マッドモール：山本格",
+            "スカリオン：浜田賢二"
+        ],
+        "crews": [
+            "原作：真島ヒロ・上田敦夫",
+            "総監督：石平信司",
+            "監督：渡部穏寛",
+            "シリーズ構成：冨岡淳広",
+            "キャラクターデザイン：迫由里香",
+            "音響監督：はたしょう二",
+            "音楽：高梨康治",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(c)真島ヒロ・上田敦夫・講談社／FT100YQ製作委員会・テレビ東京"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726129231,
+    "endAt": 1798729200,
+    "freeEndAt": 1798729200,
+    "transcodeVersion": "4WP4QJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/ofDA",
+        "facebook": "https://abema.app/8xhG",
+        "google": "https://abema.app/sdSC",
+        "line": "https://abema.app/gyXV",
+        "copy": "https://abema.app/tZBk",
+        "instagram": "https://abema.app/fttQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-63_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-63_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/168-63_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-63_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-63_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1334.0410416666666,
+        "opening": {
+            "start": 256.00575,
+            "end": 345.970625
+        },
+        "ending": {
+            "start": 1334.0410416666666,
+            "end": 1423.9642083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-63_s1_p2",
+        "title": "第2話 竜の海",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1726129231,
+        "endAt": 1798729200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1798729200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-63_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1798729200
+        }
+    ],
+    "episodeGroupId": "168-63_eg0"
+}

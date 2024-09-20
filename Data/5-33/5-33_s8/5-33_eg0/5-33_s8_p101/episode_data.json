@@ -1,0 +1,138 @@
+{
+    "id": "5-33_s8_p101",
+    "series": {
+        "id": "5-33",
+        "title": "スラムダンク",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-33",
+            "filename": "thumb.png",
+            "query": "version=1681281931",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-33",
+            "filename": "portrait.png",
+            "query": "version=1681281931",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-33_s8",
+        "sequence": 8,
+        "name": "湘北 VS 翔陽・陵南連合編（#97-101）",
+        "thumbComponent": {},
+        "order": 8
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1342
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 101,
+        "title": "第101話 栄光のスラムダンク",
+        "content": "ようやく決まった花道の新たな技「合宿シュート」。混成チームばかりか、味方からも偶然では？と疑われる中、花道は次々と合宿シュートを決めていく。いよいよホンモノだと騒がれ始める花道。もはや見物に来た生徒たちの注目を集めた彼は、リバウンドすら制して攻撃に弾みをつける。そしてディフェンスを固め始めた混成チームを圧倒し、またたく間にスコアを詰めると、最後にスラムダンクを豪快にブチかまして逆転勝利を飾るのだった。名実共に神奈川トップに実力で上りつめた湘北は、本気で食いついてきた混成チームのエールを受け、海南大付属高校と共に意気揚々と決戦の場、広島へと乗りこむのだった。"
+    },
+    "credit": {
+        "released": 1993,
+        "casts": [
+            "桜木花道：草尾　毅",
+            "赤木晴子：平松晶子",
+            "赤木剛憲：梁田清之",
+            "流川楓：緑川　光",
+            "三井寿：置鮎龍太郎",
+            "宮城リョータ：塩屋　翼",
+            "彩子：原えり子",
+            "安西監督：西村知道",
+            "水戸洋平：森川智之",
+            "野間忠一郎：幹本雄之",
+            "高宮望：塩屋浩三",
+            "大楠雄二：林　延年",
+            "ナレーション：田中秀幸"
+        ],
+        "crews": [
+            "原作：井上雄彦",
+            "企画：岩本太郎、中村重喜、籏野義文、佐藤公宣、西沢信孝",
+            "製作担当：松下健吉",
+            "脚本:菅　良幸、岸間信明",
+            "シリーズディレクター：西沢信孝",
+            "演出：志水淳児、角銅博之、明比正行、他",
+            "キャラクターデザイン：佐藤正樹",
+            "美術：坂本信人",
+            "音楽：増田隆宣"
+        ],
+        "copyrights": [
+            "(C)井上雄彦・アイティープランニング・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684379928,
+    "endAt": 1759244400,
+    "transcodeVersion": "6EPABg",
+    "sharedLink": {
+        "twitter": "https://abema.app/oPKY",
+        "facebook": "https://abema.app/KWdN",
+        "google": "https://abema.app/zBzJ",
+        "line": "https://abema.app/e1cm",
+        "copy": "https://abema.app/Y7ZL",
+        "instagram": "https://abema.app/D2L4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-33_s8_p101/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-33_s8_p101/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-33_s8_p101/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-33_s8_p101"
+    },
+    "viewingPoint": {
+        "suggestion": 1249.237855,
+        "opening": {
+            "start": 22.706555,
+            "end": 114.437722
+        },
+        "ending": {
+            "start": 1249.237855,
+            "end": 1342.971517
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-33_s8_p101/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-33_eg0"
+}

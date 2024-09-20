@@ -1,0 +1,161 @@
+{
+    "id": "26-198_s4_p4",
+    "series": {
+        "id": "26-75",
+        "title": "テレビアニメ「鬼滅の刃」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "thumb.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-75",
+            "filename": "portrait.png",
+            "query": "version=1716186270",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-75_s4",
+        "sequence": 4,
+        "name": "刀鍛冶の里編",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1435
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第四話 時透君ありがとう",
+        "content": "金魚の鬼に襲われていた小鉄を救出した無一郎。危機迫る里へ急ごうとするが、小鉄から頼まれ鋼鐵塚と鉄穴森の救出へと向かうことに。一方、炭治郎、禰󠄀豆子、玄弥は4体に分裂した鬼と対峙していた。一人引き離された炭治郎は、「喜」の文字を持つ鬼と紙一重の戦いを続けるが……。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "竈門炭治郎：花江夏樹",
+            "竈門禰󠄀豆子：鬼頭明里",
+            "時透無一郎：河西健吾",
+            "甘露寺蜜璃：花澤香菜",
+            "不死川玄弥：岡本信彦",
+            "半天狗：古川登志夫",
+            "玉壺：鳥海浩輔",
+            "憎珀天：山寺宏一"
+        ],
+        "crews": [
+            "原作：吾峠呼世晴（集英社ジャンプ コミックス刊）",
+            "監督：外崎春雄",
+            "キャラクターデザイン・総作画監督：松島 晃",
+            "脚本制作：ufotable",
+            "サブキャラクターデザイン：佐藤美幸、梶山庸子、菊池美花",
+            "プロップデザイン：小山将治",
+            "美術監督：衛藤功二",
+            "撮影監督：寺尾優一",
+            "３Ｄ監督：西脇一樹",
+            "色彩設計：大前祐子",
+            "編集：神野 学",
+            "音楽：梶浦由記、椎名 豪",
+            "アニメーション制作：ufotable"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1695885699,
+    "endAt": 1744210800,
+    "transcodeVersion": "4zSEgg",
+    "sharedLink": {
+        "twitter": "https://abema.app/3rDL",
+        "facebook": "https://abema.app/4eSD",
+        "google": "https://abema.app/eY5a",
+        "line": "https://abema.app/PSQP",
+        "copy": "https://abema.app/mCPP",
+        "instagram": "https://abema.app/vEfz"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-198_s4_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-198_s4_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-198_s4_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-198_s4_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.020933,
+        "opening": {
+            "start": 81.08156599999987,
+            "end": 171.04556599999987
+        },
+        "ending": {
+            "start": 1289.9974790000003,
+            "end": 1380.0454790000003
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-198_s4_p5",
+        "title": "第五話 赫刀",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1695885699,
+        "endAt": 1744210800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1744210800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-198_s4_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1744210800
+        }
+    ],
+    "episodeGroupId": "26-75_eg0"
+}

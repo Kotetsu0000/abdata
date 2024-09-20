@@ -1,0 +1,136 @@
+{
+    "id": "35-46_s0_p37",
+    "series": {
+        "id": "35-46",
+        "title": "映画ドラえもん",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "thumb.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-46",
+            "filename": "portrait.png",
+            "query": "version=1678066602",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-46_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 6027
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 37,
+        "title": "映画ドラえもん のび太の南極カチコチ大冒険",
+        "content": "南極から流れてきた大氷山で、のび太が見つけた不思議なリング。どうやら10万年前から氷づけにされているようだ。\n 「10万年前の南極に行って、落とし主を探しだそう! 」ぶあつい氷の下には、大いなる謎が眠っていた。\n地球の危機を救う、勇気と友情の大冒険がいま始まる!"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "のび太：大原めぐみ",
+            "しずか：かかずゆみ",
+            "ジャイアン：木村昴",
+            "スネ夫：関智一"
+        ],
+        "crews": [
+            "原作・脚本：藤子・Ｆ・不二雄"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2017"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1709522815,
+    "endAt": 1741014000,
+    "transcodeVersion": "6jyBji",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Thfbb",
+        "facebook": "https://gxyt4.app.goo.gl/oCfvg",
+        "google": "https://gxyt4.app.goo.gl/EtVwC",
+        "line": "https://gxyt4.app.goo.gl/D7oEj",
+        "copy": "https://gxyt4.app.goo.gl/EuZA5",
+        "instagram": "https://gxyt4.app.goo.gl/eTRc7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-46_s0_p37/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-46_s0_p37/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-46_s0_p37/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-46_s0_p37"
+    },
+    "viewingPoint": {
+        "suggestion": 5853.481509,
+        "ending": {
+            "start": 5852.569922,
+            "end": 6027.435828
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "35-46_s0_p38",
+        "title": "映画ドラえもん のび太の宝島",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1709522815,
+        "endAt": 1741014000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1741014000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-46_s0_p37/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741014000
+        }
+    ],
+    "episodeGroupId": "35-46_eg0"
+}

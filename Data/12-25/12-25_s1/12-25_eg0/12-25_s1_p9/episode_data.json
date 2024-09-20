@@ -1,0 +1,147 @@
+{
+    "id": "12-25_s1_p9",
+    "series": {
+        "id": "12-25",
+        "title": "小市民シリーズ",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/12-25",
+            "filename": "thumb.png",
+            "query": "version=1717728832",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/12-25",
+            "filename": "portrait.png",
+            "query": "version=1717728832",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "12-25_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1367
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 スイート・メモリー（前編）",
+        "content": "誘拐事件が解決して数日後、小鳩と小佐内は〈小佐内スイーツセレクション・夏〉で最後に残った夏期限定トロピカルパフェを食べにきた。小鳩はパフェの価格と大きさに圧倒されつつ、刺激的だった夏休みを振り返る。まずは先日謎解きをしたバーガーショップに、そもそもなぜ堂島がいたのかについて……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "小鳩常悟朗：梅田修一朗",
+            "小佐内ゆき：羊宮妃那",
+            "堂島健吾：古川慎"
+        ],
+        "crews": [
+            "原作：米澤穂信『春期限定いちごタルト事件』『夏期限定トロピカルパフェ事件』（創元推理文庫 刊）",
+            "監督：神戸守",
+            "シリーズ構成：大野敏哉",
+            "キャラクターデザイン：斎藤敦史",
+            "サブキャラクターデザイン・総作画監督：具志堅眞由",
+            "色彩設計：秋元由紀",
+            "美術監督：伊藤聖（スタジオARA）",
+            "美術設定：青木智由紀・イノセユキエ",
+            "撮影監督：塩川智幸（T2studio）",
+            "CGディレクター：越田祐史",
+            "編集：松原理恵",
+            "音楽：小畑貴裕",
+            "音響監督：清水勝則",
+            "音響効果：八十正太",
+            "アニメーションプロデューサー：渡部正和",
+            "ラインプロデューサー：荒尾匠",
+            "制作会社：ラパントラック"
+        ],
+        "copyrights": [
+            "(C)米澤穂信・東京創元社／小市民シリーズ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726231357,
+    "endAt": 1845990000,
+    "freeEndAt": 1726909200,
+    "transcodeVersion": "hjpm5",
+    "sharedLink": {
+        "twitter": "https://abema.app/2EZo",
+        "facebook": "https://abema.app/u2ot",
+        "google": "https://abema.app/ziy2",
+        "line": "https://abema.app/wcTc",
+        "copy": "https://abema.app/sRy5",
+        "instagram": "https://abema.app/1H2T"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/12-25_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/12-25_s1_p9/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/12-25_s1_p9/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/12-25_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.12-25_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1277.9850416666666,
+        "opening": {
+            "end": 89.964875
+        },
+        "ending": {
+            "start": 1277.9850416666666,
+            "end": 1367.9499166666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/12-25_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726909200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1845990000
+        }
+    ],
+    "episodeGroupId": "12-25_eg0"
+}

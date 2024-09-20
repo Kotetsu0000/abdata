@@ -1,0 +1,154 @@
+{
+    "id": "30-3_s0_p25",
+    "series": {
+        "id": "30-5",
+        "title": "進撃の巨人",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "thumb.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/30-5",
+            "filename": "portrait.png",
+            "query": "version=1700030870",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "30-5_s1",
+        "sequence": 1,
+        "name": "Season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1432
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 25,
+        "title": "#25 壁 ～ストヘス区急襲③～",
+        "content": "逃げる女型の巨人（アニ）に、巨人となったエレンは追いつき、2体の巨人は激しい闘いを繰り広げていた。巨人同士の闘いに巻き込まれ、ストヘ ス区市街では想像を絶する被害が出ていた。その責任を憲兵団師団長ナイルに糾弾されるエルヴィン。エルヴィンは「人類の勝利のため」と答え、 ナイルの構える銃の前に立つ。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "エレン：梶裕貴",
+            "ミカサ：石川由依",
+            "アルミン：井上麻里奈",
+            "リヴァイ：神谷浩史"
+        ],
+        "crews": [
+            "原作：諫山 創",
+            "監督：荒木哲郎",
+            "シリーズ構成：小林靖子",
+            "キャラクターデザイン：浅野恭司",
+            "総作画監督：浅野恭司、門脇　聡"
+        ],
+        "copyrights": [
+            "(C)諫山創・講談社／「進撃の巨人」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699248133,
+    "endAt": 1730386800,
+    "transcodeVersion": "6KNGbU",
+    "sharedLink": {
+        "twitter": "https://abema.app/2Vue",
+        "facebook": "https://abema.app/4ThU",
+        "google": "https://abema.app/ueCx",
+        "line": "https://abema.app/3Wmw",
+        "copy": "https://abema.app/zXxa",
+        "instagram": "https://abema.app/7uyi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p25/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/30-3_s0_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.30-3_s0_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1427.045011,
+        "opening": {
+            "start": 66.022485,
+            "end": 156.077122
+        },
+        "ending": {
+            "start": 1347.068922,
+            "end": 1410.065188
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "30-5_s2_p26",
+        "title": "#26 獣の巨人",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699248134,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/30-3_s0_p25/timeline",
+        "query": "version=6KNGbU",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "30-5_eg0"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "117-5_s1_p10",
+    "series": {
+        "id": "117-5",
+        "title": "ヨスガノソラ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-5",
+            "filename": "thumb.png",
+            "query": "version=1627288155",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-5",
+            "filename": "portrait.png",
+            "query": "version=1627288155",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-5_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_15",
+                "name": "エロス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1544
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 トリノソラネハ",
+        "content": "悠とキスをかわした奈緒は、穹に2人のことを話したいと提案するが、悠は煮え切らない。なぜなら悠は、穹のことを異性として意識し始めていたからだ。だが悠は穹への思いを断ち切るために、奈緒と2人っきりのデートを約束する。一方、悠と奈緒の関係に気づいた穹は、先に約束があるとウソをついて、悠が自分と奈緒のどちらを選ぶのか試そうとした。そうとは知らない悠は奈緒との迷いつつもデートを優先。そして帰宅後、自分が置き去りにされた夢を見て泣く穹を強く抱きしめた悠は、改めて自分達がたった2人っきりの家族であることを認識するのだった。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "春日野悠：下野紘",
+            "春日野穹：田口宏子",
+            "天女目瑛：阪田佳代",
+            "依媛奈緒：いのくちゆか",
+            "渚一葉：小野涼子"
+        ],
+        "crews": [
+            "原作：Sphere",
+            "キャラクター原案：橋本タカシ・鈴平ひろ",
+            "原作シナリオ：太刀風 雪路・朝倉 誠理",
+            "企画：森山　敦",
+            "監督：高橋丈夫"
+        ],
+        "copyrights": [
+            "(C)Sphere／奥木染町内会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683010782,
+    "endAt": 1746025200,
+    "transcodeVersion": "yuuag",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/LJdzi",
+        "facebook": "https://gxyt4.app.goo.gl/uYxk4",
+        "google": "https://gxyt4.app.goo.gl/6Nrs3",
+        "line": "https://gxyt4.app.goo.gl/oxEFR",
+        "copy": "https://gxyt4.app.goo.gl/HCoCg",
+        "instagram": "https://gxyt4.app.goo.gl/of73u"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/117-5_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/117-5_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/117-5_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-5_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1438.9922,
+        "opening": {
+            "start": 43.064333,
+            "end": 132.019866
+        },
+        "ending": {
+            "start": 1438.9922,
+            "end": 1529.047833
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-5_s1_p11",
+        "title": "第11話 ソラメクフタリ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683010782,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-5_s1_p10/timeline",
+        "query": "version=yuuag",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "117-5_eg0"
+}

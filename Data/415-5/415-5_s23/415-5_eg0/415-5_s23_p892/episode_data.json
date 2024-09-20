@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s23_p892",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s23",
+        "sequence": 23,
+        "name": "season23",
+        "thumbComponent": {},
+        "order": 23
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 892,
+        "title": "第892話 幕末維新ミステリーツアー（萩編）",
+        "content": "1年前に、宝田の腕に発砲し、時価数億円の慶長小判千両を盗んだ強盗犯の倉田屋駒吉。小五郎はニュースサイト記者の明日香に頼まれ、コナン、蘭と共に事件を調査する事に。そんな折、明日香が何者かにさらわれ、小五郎とコナンは二手に分かれて明日香を捜す。小五郎は不審な行動をとる鷹丈警部を駒吉と疑う。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066318,
+    "endAt": 1740754800,
+    "transcodeVersion": "GimtM",
+    "sharedLink": {
+        "twitter": "https://abema.app/Sfd1",
+        "facebook": "https://abema.app/ByjP",
+        "google": "https://abema.app/7EPF",
+        "line": "https://abema.app/FhLr",
+        "copy": "https://abema.app/Ay2o",
+        "instagram": "https://abema.app/y9DB"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s23_p892/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s23_p892/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s23_p892/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s23_p892"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.9652083333333,
+        "opening": {
+            "start": 104.229125,
+            "end": 202.95275
+        },
+        "ending": {
+            "start": 1227.1425833333333,
+            "end": 1307.05575
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s23_p893",
+        "title": "第893話 星付きレストランの謎",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066318,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s23_p892/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

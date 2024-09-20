@@ -1,0 +1,160 @@
+{
+    "id": "19-15_s5_p113",
+    "series": {
+        "id": "19-15",
+        "title": "僕のヒーローアカデミア",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "thumb.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-15",
+            "filename": "portrait.png",
+            "query": "version=1723112054",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-15_s5",
+        "sequence": 5,
+        "name": "第5期",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1399
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 113,
+        "title": "第113話 空、高く群青",
+        "content": "最高峰の現場であるエンデヴァー事務所でのインターンに明け暮れた冬休みを終え、雄英高校１年生としての３学期を迎えたデク。オールマイトにその成長ぶりを披露し、その後オールマイトと爆豪と共に歴代のワン・フォー・オール継承者の秘密に迫る。\n覚醒し、リ・デストロを屈服させ、10万以上の数を誇る異能解放軍を掌握した死柄木は、「超常解放戦線」を束ねる存在として君臨。全てを壊すための更なる力を得るため、ドクターの用意した“地獄の４か月”の眠りに入る。\nヒーローと敵＜ヴィラン＞の戦いは、新たな、そして壮絶なるステージへ――。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "緑谷出久：山下大輝",
+            "爆豪勝己：岡本信彦",
+            "麗日お茶子：佐倉綾音",
+            "飯田天哉：石川界人",
+            "轟焦凍：梶裕貴",
+            "切島鋭児郎：増田俊樹",
+            "蛙吹梅雨：悠木碧",
+            "八百万百：井上麻里奈",
+            "常闇踏陰：細谷佳正",
+            "物間寧人：天﨑滉平",
+            "拳藤一佳：小笠原早紀",
+            "鉄哲徹鐵：沖野晃司",
+            "泡瀬洋雪：松岡禎丞",
+            "塩崎茨：真坂美帆",
+            "心操人使：羽多野渉",
+            "相澤消太：諏訪部順一",
+            "オールマイト：三宅健太"
+        ],
+        "crews": [
+            "総監督：長崎健司",
+            "監督：向井雅浩",
+            "原作：堀越耕平（集英社「週刊少年ジャンプ」連載）",
+            "音楽：林ゆうき",
+            "キャラクターデザイン：馬越嘉彦、小田嶋瞳"
+        ],
+        "copyrights": [
+            "(Ｃ)堀越耕平／集英社・僕のヒーローアカデミア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872426,
+    "endAt": 1759244400,
+    "transcodeVersion": "6DEdbs",
+    "sharedLink": {
+        "twitter": "https://abema.app/bDQX",
+        "facebook": "https://abema.app/99Fc",
+        "google": "https://abema.app/DY7d",
+        "line": "https://abema.app/3vfJ",
+        "copy": "https://abema.app/nE8Z",
+        "instagram": "https://abema.app/bFvy"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-15_s5_p113/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-15_s5_p113/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-15_s5_p113/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-15_s5_p113"
+    },
+    "viewingPoint": {
+        "suggestion": 1394.9602333333332,
+        "opening": {
+            "start": 248.01443333333333,
+            "end": 337.97096666666664
+        },
+        "ending": {
+            "start": 1233.0318,
+            "end": 1322.9216
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-15_s5_p1000",
+        "title": "『僕のヒーローアカデミア』オリジナルアニメ「HLB」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725872426,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-15_s5_p113/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-15_eg0"
+}

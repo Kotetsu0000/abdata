@@ -1,0 +1,149 @@
+{
+    "id": "171-12_s3_p5",
+    "series": {
+        "id": "171-1",
+        "title": "東京喰種トーキョーグール",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-1",
+            "filename": "thumb.png",
+            "query": "version=1681282042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-1",
+            "filename": "portrait.png",
+            "query": "version=1681282042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "171-1_s30",
+        "sequence": 30,
+        "name": "東京喰種トーキョーグール:re",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 散りゆく夜　Press",
+        "content": "什造の奇襲により混乱するオークション会場に、待機していた[CCG]の部隊がなだれ込む。大乱戦の中、六月は何とか逃げ出すことに成功するが、月山家に仕える喰種、カナエ＝フォン・ロゼヴァルトに執拗に追いかけられ窮地に陥っていた。そんな六月のもとに琲世たちクインクス班が駆けつけるが…!?一方、掃討作戦決行中の[CCG]捜査官たちは、報告されているレート以上の戦力を見せつけるナッツクラッカーや、アオギリの樹の構成員で“オウル”と呼ばれる“半喰種（はんグール）”を相手に思いがけず苦戦を強いられることになる。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "佐々木琲世（ささき　はいせ）：花江夏樹",
+            "瓜江久生（うりえ　くき）：石川界人",
+            "不知吟士（しらず　ぎんし）：内田雄馬",
+            "六月　透（むつき　とおる）：藤原夏海",
+            "米林才子（よねばやし　さいこ）：佐倉綾音"
+        ],
+        "crews": [
+            "原作：石田スイ（集英社「週刊ヤングジャンプ」連載中）",
+            "監督・絵コンテ・演出：渡部穏寛",
+            "シリーズ構成・脚本：御笠ノ忠次",
+            "キャラクターデザイン：中嶋敦子",
+            "作画監督：北村友幸／吉岡佳広／島崎望",
+            "音響監督：原口昇",
+            "音楽：やまだ豊",
+            "アニメーション制作：studioぴえろ",
+            "アニメーション制作協力： studioぴえろ+"
+        ],
+        "copyrights": [
+            "©石田スイ／集英社・東京喰種:re製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689746562,
+    "endAt": 1753974000,
+    "transcodeVersion": "7E7Vja",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/wgh3g",
+        "facebook": "https://gxyt4.app.goo.gl/nZuqB",
+        "google": "https://gxyt4.app.goo.gl/SpcrJ",
+        "line": "https://gxyt4.app.goo.gl/BZRaQ",
+        "copy": "https://gxyt4.app.goo.gl/xunZM",
+        "instagram": "https://gxyt4.app.goo.gl/urHmn"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/171-12_s3_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/171-12_s3_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/171-12_s3_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.171-12_s3_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.090288
+    },
+    "nextProgramInfo": {
+        "programId": "171-12_s3_p6",
+        "title": "第6話 その、果てに　turn",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1689746562,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/171-12_s3_p5/timeline",
+        "query": "version=7E7Vja",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "171-1_eg0"
+}

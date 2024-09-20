@@ -1,0 +1,127 @@
+{
+    "id": "26-13_s1_p12",
+    "series": {
+        "id": "26-13",
+        "title": "黒執事Ⅱ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "thumb.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-13",
+            "filename": "portrait.png",
+            "query": "version=1709632893",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-13_s1",
+        "sequence": 1,
+        "name": "黒執事Ⅱ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1437
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "episode12 黒（くろ）執事",
+        "content": "シエルの身体を支配したまま、ハンナと再契約を交わしたアロイス。その契約内容には、セバスチャンとクロードどちらかが、悪魔としての生を終えることが含まれているという。そしてハンナは、悪魔のサンクチュアリである「死の島」で、セバスチャンとクロードに“悪魔同士の決闘”を命じるのだった。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "セバスチャン・ミカエリス：小野大輔",
+            "シエル・ファントムハイヴ：坂本真綾",
+            "クロード・フォースタス：櫻井孝宏",
+            "アロイス・トランシー：水樹奈々",
+            "ハンナ・アナフェローズ：平野 綾"
+        ],
+        "crews": [
+            "原作：枢やな",
+            "監督：小倉宏文",
+            "シリーズ構成：岡田麿里",
+            "キャラクターデザイン・総作画監督：芝美奈子",
+            "音楽：岩崎　琢"
+        ],
+        "copyrights": [
+            "(C)枢やな/スクウェアエニックス・「黒執事Ⅱ」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708327427,
+    "endAt": 1741532400,
+    "transcodeVersion": "2qKhg3",
+    "sharedLink": {
+        "twitter": "https://abema.app/nPjf",
+        "facebook": "https://abema.app/dfx8",
+        "google": "https://abema.app/BZyW",
+        "line": "https://abema.app/b68i",
+        "copy": "https://abema.app/bNzR",
+        "instagram": "https://abema.app/JCam"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-13_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-13_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-13_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-13_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1432.03
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-13_s1_p12/timeline",
+        "query": "version=2qKhg3",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1741532400
+        }
+    ],
+    "episodeGroupId": "26-13_eg0"
+}

@@ -1,0 +1,141 @@
+{
+    "id": "5-8_s0_p78",
+    "series": {
+        "id": "5-8",
+        "title": "トリコ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "thumb.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-8",
+            "filename": "portrait.png",
+            "query": "version=1666950591",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1398
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 78,
+        "title": "第78話　合体30倍！ 36連ツイン釘パンチ！",
+        "content": "クインが警報を発していることにサニーが気付く。途端、頭上から無数の岩が降り注ぐ。見上げると、そこには落下してくる巨大な山があった！　絶体絶命のピンチにトリコが閃く。サニーのフライ返しで、トリコのパンチを山に向かって跳ね返すのだ。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "トリコ：置鮎龍太郎",
+            "小松：朴璐美",
+            "ココ：櫻井孝宏",
+            "サニー：岩田光央",
+            "ゼブラ：松田賢二"
+        ],
+        "crews": [
+            "原作：島袋光年（集英社・週刊少年ジャンプ連載）",
+            "企画：高瀬敦也、渡辺和哉、清水慎治",
+            "プロデューサー：情野誠人、佐川直子、鷲尾天",
+            "シリーズ構成：村山功",
+            "音楽：水谷広実"
+        ],
+        "copyrights": [
+            "(C)島袋光年／集英社・フジテレビ・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1689061325,
+    "endAt": 1740754800,
+    "transcodeVersion": "3Adu9R",
+    "sharedLink": {
+        "twitter": "https://abema.app/Br4F",
+        "facebook": "https://abema.app/F2tm",
+        "google": "https://abema.app/ePcq",
+        "line": "https://abema.app/rgTC",
+        "copy": "https://abema.app/RYZu",
+        "instagram": "https://abema.app/cM3U"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-8_s0_p78/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-8_s0_p78/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-8_s0_p78/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-8_s0_p78"
+    },
+    "viewingPoint": {
+        "suggestion": 1383.004822,
+        "opening": {
+            "start": 17.974488,
+            "end": 102.892755
+        },
+        "ending": {
+            "start": 1227.983288,
+            "end": 1287.876555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-8_s0_p79",
+        "title": "第79話　直観調理！ 小松とサンサングラミー！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1689061325,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-8_s0_p78/timeline",
+        "query": "version=3Adu9R",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-8_eg0"
+}

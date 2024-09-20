@@ -1,0 +1,158 @@
+{
+    "id": "117-36_s1_p3",
+    "series": {
+        "id": "117-36",
+        "title": "治癒魔法の間違った使い方",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-36",
+            "filename": "thumb.png",
+            "query": "version=1703645134",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-36",
+            "filename": "portrait.png",
+            "query": "version=1703645134",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-36_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 過酷！ リングルの闇！",
+        "content": "ローズによって魔物がはびこる\"リングルの闇″に放り込まれたウサトは、グランドグリズリーを狩るという試練のためにサバイバル生活を開始する。最初はグランドグリズリーに圧倒されたウサトだが、観察を続けるうちに少しずつ愛着が湧くようになる。数日後、意を決してグランドグリズリーを倒しに向かったウサトだったが、そこで凄惨な光景を目撃する……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ウサト：坂田将吾",
+            "スズネ：七瀬彩夏",
+            "カズキ：高梨謙吾",
+            "ローズ：田中敦子",
+            "アマコ：会沢紗弥",
+            "ブルリン：渡辺明乃",
+            "黒騎士（フェルム）：悠木碧"
+        ],
+        "crews": [
+            "原作：くろかた",
+            "キャラクター原案：KeG.監督；緒方隆秀.シリーズ構成：ヤスカワショウゴ.キャラクターデザイン：田辺謙司",
+            "色彩設計：日野正秋",
+            "美術監督：内藤健",
+            "撮影監督：山本耕平",
+            "編集：小峰博美",
+            "音響監督：今泉雄一",
+            "音響制作：HALF H・P STUDIO",
+            "音楽：Elements Garden(藤間 仁・近藤世真)",
+            "音楽制作：ランティス",
+            "アニメーション制作：スタジオアド × シンエイ動画"
+        ],
+        "copyrights": [
+            "(C)くろかた／MFブックス／「治癒魔法の間違った使い方」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712890777,
+    "endAt": 1806505200,
+    "transcodeVersion": "XM78v",
+    "sharedLink": {
+        "twitter": "https://abema.app/PtXa",
+        "facebook": "https://abema.app/Gzn5",
+        "google": "https://abema.app/BdCi",
+        "line": "https://abema.app/dNW3",
+        "copy": "https://abema.app/BiJF",
+        "instagram": "https://abema.app/nN6n"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/117-36_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/117-36_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/117-36_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-36_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.0370416666667,
+        "opening": {
+            "start": 79.03729166666666,
+            "end": 169.00216666666665
+        },
+        "ending": {
+            "start": 1330.0370416666667,
+            "end": 1420.0019166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-36_s1_p4",
+        "title": "第4話 救命団員ウサト！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1712890777,
+        "endAt": 1806505200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1806505200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-36_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1806505200
+        }
+    ],
+    "episodeGroupId": "117-36_eg0"
+}

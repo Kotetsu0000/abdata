@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s15_p585",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s15",
+        "sequence": 15,
+        "name": "season15",
+        "thumbComponent": {},
+        "order": 15
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 585,
+        "title": "第585話 時を超える桜の恋",
+        "content": "小林先生を背後から襲う犯人。だが小林が犯人を投げ飛ばして事件は解決。実は、小林は直前に白鳥警部に保護され、佐藤刑事にすり替わっていたのだ。後日、怪盗キッドから予告状が届く。狙いは鈴木次郎吉が所有する麒麟の角というビックジュエル。次郎吉はコナンと共に少年探偵団に応援を要請。そして予告日の満月の夜…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：諏訪道彦･吉岡昌仁",
+            "プロデューサー：北田修一",
+            "監督：於地紘仁",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066309,
+    "endAt": 1740754800,
+    "transcodeVersion": "9XbVR",
+    "sharedLink": {
+        "twitter": "https://abema.app/8Sxp",
+        "facebook": "https://abema.app/nbzm",
+        "google": "https://abema.app/D2eT",
+        "line": "https://abema.app/wk1W",
+        "copy": "https://abema.app/HVUd",
+        "instagram": "https://abema.app/d436"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s15_p585/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s15_p585/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s15_p585/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s15_p585"
+    },
+    "viewingPoint": {
+        "suggestion": 1349.6816666666666,
+        "opening": {
+            "start": 119.78633333333333,
+            "end": 191.75823333333332
+        },
+        "ending": {
+            "start": 1349.6816666666666,
+            "end": 1429.6615666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s15_p586",
+        "title": "第586話 闇に消えた麒麟の角",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066309,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s15_p585/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

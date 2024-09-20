@@ -1,0 +1,123 @@
+{
+    "id": "527-610_s1_p302",
+    "series": {
+        "id": "527-610",
+        "title": "ABEMA×ヒプステ",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/527-610",
+            "filename": "thumb.png",
+            "query": "version=1690447916",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/527-610",
+            "filename": "portrait.png",
+            "query": "version=1690447916",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "527-610_s1",
+        "sequence": 1,
+        "name": "-",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_37",
+                "name": "ライブ舞台"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4424
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 302,
+        "title": "ヒプステ 《Rep LIVE side M.T.C》",
+        "content": "本公演はヨコハマ・ディビジョン“MAD TRIGGER CREW”によるディビジョン単独ライブ。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "シブヤ・ディビジョン“Fling Posse”",
+            "飴村 乱数：安井 謙太郎",
+            "夢野 幻太郎：坂田 隆一郎",
+            "有栖川 帝統：滝澤 諒",
+            "ディビジョン･ダンス･バトル “D.D.B”",
+            "Toyotaka",
+            "RYO",
+            "gash!",
+            "SHINSUKE",
+            "HILOMU",
+            "Dolton",
+            "KENTA",
+            "GeN",
+            "KIMUTAKU",
+            "※飴村 乱数の「飴」は食偏が旧字体です。"
+        ],
+        "copyrights": [
+            "(C)『ヒプノシスマイク -Division Rap Battle-』Rule the Stage製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1723099745,
+    "endAt": 1751295540,
+    "transcodeVersion": "33ky6w",
+    "sharedLink": {
+        "twitter": "https://abema.app/wPWe",
+        "facebook": "https://abema.app/vG3X",
+        "google": "https://abema.app/Zosd",
+        "line": "https://abema.app/bj17",
+        "copy": "https://abema.app/NJ5K",
+        "instagram": "https://abema.app/knXA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/527-610_s1_p302/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/527-610_s1_p302/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/527-610_s1_p302/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.527-610_s1_p302"
+    },
+    "viewingPoint": {
+        "suggestion": 4419.415
+    },
+    "nextProgramInfo": {
+        "programId": "527-610_s1_p303",
+        "title": "ヒプステ 《Rep LIVE side F.P》",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1723099762,
+        "endAt": 1751295540,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295540
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/527-610_s1_p302/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295540
+        }
+    ],
+    "episodeGroupId": "527-610_eg10"
+}

@@ -1,0 +1,155 @@
+{
+    "id": "203-7_s1_p121",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 121,
+        "title": "第121話 わが青春のＭＩＫ",
+        "content": "六葉町に溢れ返る“ゴーハマーク”。ゴーハ堂は益々その勢力を拡大していた。そんな中、突如フェイザーの口からＭＩＫを解体し、ゴーハ堂と合併・統合すると告げられる！納得できないマナブはＭＩＫを守るため、総帥の座を懸けたデュエルをフェイザーに挑む！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725944782,
+    "endAt": 1743433200,
+    "transcodeVersion": "2vuXLe",
+    "sharedLink": {
+        "twitter": "https://abema.app/9MkF",
+        "facebook": "https://abema.app/o7RD",
+        "google": "https://abema.app/G1XF",
+        "line": "https://abema.app/icRR",
+        "copy": "https://abema.app/M6t3",
+        "instagram": "https://abema.app/wYHp"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-7_s1_p121/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-7_s1_p121/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-7_s1_p121/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p121"
+    },
+    "viewingPoint": {
+        "suggestion": 1409.9752333333333,
+        "opening": {
+            "start": 105.0049,
+            "end": 194.96143333333333
+        },
+        "ending": {
+            "start": 1319.9853333333333,
+            "end": 1409.9418666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "203-7_s1_p122",
+        "title": "第122話 はぐるまんが上城くん",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1725944782,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p121/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

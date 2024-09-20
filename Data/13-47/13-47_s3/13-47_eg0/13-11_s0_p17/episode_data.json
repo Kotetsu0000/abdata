@@ -1,0 +1,144 @@
+{
+    "id": "13-11_s0_p17",
+    "series": {
+        "id": "13-47",
+        "title": "銀魂",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "thumb.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-47",
+            "filename": "portrait.png",
+            "query": "version=1681283518",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-47_s3",
+        "sequence": 3,
+        "name": "3年目",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1480
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 17,
+        "title": "第116話 亀の甲より年の功",
+        "content": "竜宮城に行く途中に海に投げ出され、見知らぬ無人島に漂着してしまった銀時たち。遭難したものとばかり思っていた一同は生き残るために島を探索するが、その最中に亀梨と再会する。なんとこの島こそが竜宮城だったのだ。一方その頃、江戸の街には巨大な亀のロボットが出現。ＴＶのニュースでそれを知った銀時たちだが、亀梨によるとそれは竜宮城の主、乙姫がある計画を実行に移したためだという。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "坂田銀時：杉田智和",
+            "志村新八：阪口大助",
+            "神楽：釘宮理恵",
+            "定春：高橋美佳子",
+            "近藤 勲：千葉進歩"
+        ],
+        "crews": [
+            "原作：空知英秋",
+            "監督：高松信司",
+            "シリーズ構成：大和屋 暁",
+            "キャラクターデザイン・総作画監督：竹内進二",
+            "デザインワークス：今石 進"
+        ],
+        "copyrights": [
+            "(C)空知英秋／集英社・テレビ東京・電通・BNP"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1684296389,
+    "endAt": 1746025200,
+    "transcodeVersion": "387U1m",
+    "sharedLink": {
+        "twitter": "https://abema.app/gYPY",
+        "facebook": "https://abema.app/jSFn",
+        "google": "https://abema.app/dXka",
+        "line": "https://abema.app/jNvv",
+        "copy": "https://abema.app/GTd8",
+        "instagram": "https://abema.app/VVzH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-11_s0_p17/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-11_s0_p17/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-11_s0_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-11_s0_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 1362.048666,
+        "opening": {
+            "end": 90
+        },
+        "ending": {
+            "start": 1362.242665,
+            "end": 1453.042659
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-11_s0_p18",
+        "title": "第117話 美は夏の果実の如き物",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1684296389,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-11_s0_p17/timeline",
+        "query": "version=387U1m",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "13-47_eg0"
+}

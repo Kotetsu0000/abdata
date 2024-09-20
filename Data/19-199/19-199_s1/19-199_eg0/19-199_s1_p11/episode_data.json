@@ -1,0 +1,129 @@
+{
+    "id": "19-199_s1_p11",
+    "series": {
+        "id": "19-199",
+        "title": "下の階には澪がいる",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "thumb.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "portrait.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-199_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 青春の結末/真珠",
+        "content": "夏葉の言葉を聞いて、自分で選んだ今の生活を楽しもうと決意した澪。吹っ切れたかのような澪に陽は動揺する。そんな時、陽の父親からメッセージが届き、母親の誕生日を祝うために陽は実家に帰ることになる。家族に真珠先輩との仲を問われると、陽は返答に困ってしまう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "如月澪：坂本真綾",
+            "杉浦陽：河本啓佑",
+            "桃井真珠：大久保瑠美",
+            "三国紗羅：沼倉愛美"
+        ],
+        "crews": [
+            "原作：ミンソンア",
+            "監督：董易（ドン･イー）",
+            "脚本：江狐工作室",
+            "総演出監督：キム・シニョン",
+            "総作画監督：パク・ヨノク",
+            "音楽：楊秉音（ヤン・ビンイン）",
+            "アニメーション制作：RED DOG CULTURE HOUSE",
+            "日本語吹き替え版",
+            "演出：太田信乃",
+            "翻訳：鳥居怜子、本多由枝",
+            "音響制作：東北新社",
+            "日本版製作：フジテレビジョン、bilibili"
+        ],
+        "copyrights": [
+            "(C)bilibili"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726129302,
+    "endAt": 1759244400,
+    "transcodeVersion": "38NSo",
+    "sharedLink": {
+        "twitter": "https://abema.app/EZsG",
+        "facebook": "https://abema.app/qFNU",
+        "google": "https://abema.app/5cXf",
+        "line": "https://abema.app/HLnd",
+        "copy": "https://abema.app/qqzZ",
+        "instagram": "https://abema.app/sjMW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-199_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-199_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-199_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-199_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.06375,
+        "opening": {
+            "start": 75.99258333333333,
+            "end": 165.99916666666667
+        },
+        "ending": {
+            "start": 1315.06375,
+            "end": 1404.9869166666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-199_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-199_eg0"
+}

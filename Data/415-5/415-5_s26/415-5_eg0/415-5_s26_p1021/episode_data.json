@@ -1,0 +1,144 @@
+{
+    "id": "415-5_s26_p1021",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s26",
+        "sequence": 26,
+        "name": "season26",
+        "thumbComponent": {},
+        "order": 26
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1021,
+        "title": "第1021話 悪友たちの輪舞(ロンド)",
+        "content": "米花町の小公園で男性の殴殺遺体が発見される。そこに通りかかったコナンと小五郎が話を聞くと、被害者・光本はよくない評判だらけの小悪党で、殺害されたのは昨夜７時前後らしい。この時刻、公園の方から慌てて駆けてくる光本のワル仲間・保坂の姿が目撃されており……。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：佐々木加奈・石山桂一",
+            "プロデューサー：米倉功人・寺島清晃",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(C)青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066321,
+    "endAt": 1740754800,
+    "transcodeVersion": "6N7Uv9",
+    "sharedLink": {
+        "twitter": "https://abema.app/Rnqi",
+        "facebook": "https://abema.app/s3eT",
+        "google": "https://abema.app/EyMf",
+        "line": "https://abema.app/X6Ef",
+        "copy": "https://abema.app/wVhA",
+        "instagram": "https://abema.app/Yq5g"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1021/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1021/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s26_p1021/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s26_p1021"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0903333333333,
+        "opening": {
+            "start": 180.43025,
+            "end": 270.97904166666666
+        },
+        "ending": {
+            "start": 1321.945625,
+            "end": 1401.9005
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s26_p1022",
+        "title": "第1022話 呪いのミュージアム",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066321,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s26_p1021/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

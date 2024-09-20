@@ -1,0 +1,146 @@
+{
+    "id": "19-195_s1_p9",
+    "series": {
+        "id": "19-195",
+        "title": "CLANNAD",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "thumb.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-195",
+            "filename": "portrait.png",
+            "query": "version=1711509883",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-195_s1",
+        "sequence": 1,
+        "name": "CLANNAD",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 夢の最後まで",
+        "content": "風子を連れて朋也と渚は夜の学校へ忍び込む。\n 演劇部の部室で今までどおりなにげないことでふざけあいながら過ごす３人。\n ふいに風子が朋也と渚にお互いを下の名前で呼ぶべきだと話す。照れる二人。\n そんな二人に風子は公子と芳野のように幸せになってほしいと笑いかける。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "中村悠一",
+            "中原麻衣",
+            "広橋 涼",
+            "神田朱未",
+            "桑島法子",
+            "野中 藍",
+            "能登麻美子",
+            "阪口大助",
+            "置鮎龍太郎",
+            "井上喜久子",
+            "雪野五月",
+            "榎本温子"
+        ],
+        "crews": [
+            "監督：石原立也",
+            "原作：Key/ビジュアルアーツ",
+            "脚本：志茂文彦",
+            "音楽：折戸伸治、戸越まごめ、麻枝准"
+        ],
+        "copyrights": [
+            "（Ｃ）VisualArt's/Key/光坂高校演劇部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1712635438,
+    "endAt": 1746025200,
+    "transcodeVersion": "2z1bcX",
+    "sharedLink": {
+        "twitter": "https://abema.app/Yriz",
+        "facebook": "https://abema.app/PNgV",
+        "google": "https://abema.app/88mP",
+        "line": "https://abema.app/JZ3t",
+        "copy": "https://abema.app/BD61",
+        "instagram": "https://abema.app/f1uv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-195_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-195_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.0387,
+        "opening": {
+            "start": 33.033,
+            "end": 122.78933333333333
+        },
+        "ending": {
+            "start": 1340.0387,
+            "end": 1429.9952333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-195_s1_p10",
+        "title": "第10話 天才少女の挑戦",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1712635508,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-195_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "19-195_eg0"
+}

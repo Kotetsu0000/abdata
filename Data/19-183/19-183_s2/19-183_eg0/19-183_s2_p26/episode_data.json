@@ -1,0 +1,165 @@
+{
+    "id": "19-183_s2_p26",
+    "series": {
+        "id": "19-183",
+        "title": "けいおん!",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "thumb.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-183",
+            "filename": "portrait.png",
+            "query": "version=1705397424",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-183_s2",
+        "sequence": 2,
+        "name": "けいおん！！",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 26,
+        "title": "けいおん！！番外編「訪問！」",
+        "content": "授業がない3年生たちは、軽音部の部室でお茶をしていた。唯は大事なものが届くと言ってなにやら落ち着かない様子。そんな時、和が部室にやってきて…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "豊崎愛生",
+            "日笠陽子",
+            "佐藤聡美",
+            "寿 美菜子",
+            "竹達彩奈",
+            "真田アサミ",
+            "藤東知夏",
+            "米澤円",
+            "永田依子",
+            "MAKO",
+            "藤田麻美",
+            "伊藤実華",
+            "佐藤有世",
+            "山村響",
+            "中村知子",
+            "那瀬ひとみ",
+            "杉浦奈保子",
+            "千々松幸子"
+        ],
+        "crews": [
+            "監督：山田尚子",
+            "プロデューサー：中山佳久、中村伸一、太布尚弘、八田陽子",
+            "製作会社：ＴＢＳ",
+            "原作：｢けいおん!｣かきふらい",
+            "脚本：吉田玲子",
+            "音楽：百石 元"
+        ],
+        "copyrights": [
+            "(C)かきふらい･芳文社/桜高軽音部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1704353019,
+    "endAt": 1740754800,
+    "freeEndAt": 1726480800,
+    "transcodeVersion": "4Rd2w2",
+    "sharedLink": {
+        "twitter": "https://abema.app/F2Yw",
+        "facebook": "https://abema.app/v2jk",
+        "google": "https://abema.app/jfzh",
+        "line": "https://abema.app/jtw3",
+        "copy": "https://abema.app/d594",
+        "instagram": "https://abema.app/n4kS"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-183_s2_p26/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-183_s2_p26/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-183_s2_p26/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-183_s2_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-183_s2_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.8702083333333,
+        "opening": {
+            "start": 111.02758333333334,
+            "end": 200.78391666666667
+        },
+        "ending": {
+            "start": 1329.8702083333333,
+            "end": 1419.7516666666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-183_s2_p27",
+        "title": "けいおん！！番外編「計画！」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1704353038,
+        "endAt": 1740754800,
+        "freeEndAt": 1726480800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1726480800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-183_s2_p26/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1726480800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-183_eg0"
+}

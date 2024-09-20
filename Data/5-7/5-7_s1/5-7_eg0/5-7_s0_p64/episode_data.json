@@ -1,0 +1,138 @@
+{
+    "id": "5-7_s0_p64",
+    "series": {
+        "id": "5-7",
+        "title": "北斗の拳",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "thumb.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-7",
+            "filename": "portrait.png",
+            "query": "version=1627289034",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-7_s1",
+        "sequence": 1,
+        "name": "北斗の拳",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1451
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 64,
+        "title": "第64話 ｢血戦シュウＶＳサウザー！仁星の涙に愛がおぼれる！！」",
+        "content": "ケンシロウからシバが自分を助ける為に死んだことを聞き、悲しみの中にも息子を誇りに思うシュウ。そして、ケンシロウに眠り薬を飲ませると、自分亡き後の子供達の未来を託し、サウザーに挑む！"
+    },
+    "credit": {
+        "released": 1984,
+        "casts": [
+            "ケンシロウ：神谷明",
+            "バット：鈴木三枝",
+            "リン：鈴木富子",
+            "シン：古川登志夫",
+            "ユリア：山本百合子"
+        ],
+        "crews": [
+            "原作： 武論尊、原哲夫",
+            "企画： 岡正・中屋喜伸・高見義雄"
+        ],
+        "copyrights": [
+            "(C)武論尊・原哲夫／コアミックス・東映アニメーション 1987"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1715756426,
+    "endAt": 1732978800,
+    "transcodeVersion": "3PyS6J",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/y5RtS",
+        "facebook": "https://gxyt4.app.goo.gl/84Y4n",
+        "google": "https://gxyt4.app.goo.gl/5Wuof",
+        "line": "https://gxyt4.app.goo.gl/fbfV1",
+        "copy": "https://gxyt4.app.goo.gl/A7F4q",
+        "instagram": "https://gxyt4.app.goo.gl/e7yC6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p64/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p64/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-7_s0_p64/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-7_s0_p64"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.529055,
+        "opening": {
+            "start": 31.688188,
+            "end": 124.581088
+        },
+        "ending": {
+            "start": 1340.529055,
+            "end": 1430.352222
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-7_s0_p65",
+        "title": "第65話 ｢血の十字陵！シュウ！その涙は俺の心で受けとめよう！！」",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1715756426,
+        "endAt": 1732978800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1732978800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-7_s0_p64/timeline",
+        "query": "version=3PyS6J",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "5-7_eg0"
+}

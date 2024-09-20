@@ -1,0 +1,167 @@
+{
+    "id": "248-16_s2_p1",
+    "series": {
+        "id": "248-16",
+        "title": "戦国妖狐",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-16",
+            "filename": "thumb.png",
+            "query": "version=1724652445",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-16",
+            "filename": "portrait.png",
+            "query": "version=1724652445",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "248-16_s2",
+        "sequence": 2,
+        "name": "千魔混沌編",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 千鬼夜行",
+        "content": "断怪衆総本山での戦いの後、真介と千夜はとある村に身を寄せていた。千夜はすべての記憶を失っていたが、「これは人生をやり直せという天の采配」と真介は考え、千夜を普通の子供のように扱う。村の娘・月湖との関わり合いのなかで、徐々に子供らしさを取り戻していく千夜。だがある日、闇の集団が夜に紛れて村の子供たちを拉致し、絶体絶命の危機に、千夜に融合された千体の闇たちが目覚めるのだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "千夜：七海ひろき",
+            "月湖：内田真礼",
+            "なう：豊崎愛生",
+            "真介：木村良平",
+            "迅火：斉藤壮馬",
+            "たま：高田憂希",
+            "灼岩：黒沢ともよ",
+            "神雲：乃村健次",
+            "道錬：稲田徹",
+            "山の神：高垣彩陽",
+            "りんず：鈴木愛奈",
+            "野禅：津田健次郎",
+            "くずのは：ゆかな",
+            "雷堂斬蔵：東地宏樹"
+        ],
+        "crews": [
+            "原作：水上悟志（マッグガーデン刊）",
+            "監督：相澤伽月",
+            "シリーズ構成・脚本：花田十輝",
+            "キャラクターデザイン：奥田陽介",
+            "サブキャラクターデザイン：小林真平",
+            "総作画監督：奥田陽介、小林真平、八重樫洋平",
+            "プロップデザイン：張 紹偉、林 可爲、児玉裕之",
+            "闇デザイン：張 紹偉",
+            "美術監督：宮本実生",
+            "色彩設計：佐藤美由紀",
+            "撮影監督：堀野大輔",
+            "3DCGディレクター：秋元 央",
+            "編集：黒澤雅之",
+            "音響監督：飯田里樹",
+            "音楽：EVAN CALL",
+            "制作：WHITE FOX"
+        ],
+        "copyrights": [
+            "(C)水上悟志/マッグガーデン・戦国妖狐アニメ化事業部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725872351,
+    "endAt": 1761922800,
+    "transcodeVersion": "6Rsevn",
+    "sharedLink": {
+        "twitter": "https://abema.app/8Hv6",
+        "facebook": "https://abema.app/fEP9",
+        "google": "https://abema.app/Xoa6",
+        "line": "https://abema.app/gsUC",
+        "copy": "https://abema.app/dPfp",
+        "instagram": "https://abema.app/KJKG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/248-16_s2_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/248-16_s2_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/248-16_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.248-16_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1340.08875,
+        "ending": {
+            "start": 1340.08875,
+            "end": 1430.0119166666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "248-16_s2_p2",
+        "title": "第2話 黒龍",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1725872351,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/248-16_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "248-16_eg0"
+}

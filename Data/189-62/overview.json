@@ -1,0 +1,78 @@
+{
+    "id": "189-62",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "異世界のんびり農家",
+    "content": "孤独な闘病生活の末、命を落とした街尾火楽(ヒラク)。神様から第二の人生を与えられ、念願の農業生活を始めようと意気込むが……身体一つで送り出されたのは、魔物だらけの深い森のど真ん中。\n頼りになるのは、前世で得た知識と、神様から授かった「万能農具」の力のみ。それでも試行錯誤しながら自分の土地を切り拓いていく火楽のもとには、吸血鬼やエルフに天使、果てはドラゴンまでが集い、やがて彼の住処は村へと発展していく。\nのんびりほどほど賑やかに、楽しくドタバタ和やかに、笑顔の絶えない異世界農業ライフ、「大樹の村」へ、ようこそ！",
+    "seasons": [
+        {
+            "id": "189-62_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-62",
+                "filename": "thumb.png",
+                "query": "version=1710131239",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "189-62_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)内藤 騎之介／「異世界のんびり農家」製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1724041414888386039",
+    "imageUpdatedAt": 1710131239,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/hnrf",
+        "facebook": "https://abema.app/BKS9",
+        "google": "https://abema.app/tT6M",
+        "line": "https://abema.app/k8qA",
+        "copy": "https://abema.app/NmuB",
+        "instagram": "https://abema.app/YB7f"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-62",
+        "filename": "thumb.png",
+        "query": "version=1710131239",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-62",
+        "filename": "portrait.png",
+        "query": "version=1710131239",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,143 @@
+{
+    "id": "415-5_s8_p312",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s8",
+        "sequence": 8,
+        "name": "season8",
+        "thumbComponent": {},
+        "order": 8
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 312,
+        "title": "第312話 夕陽に染まった雛人形（前編）",
+        "content": "コナンたち少年探偵団は歩美の誘いで、七段飾りの雛人形を並べられれば、その人形がもらえるという観野宅を訪れた。しかし、コナンたちが買い物へ出かけている間に、高額な掛け軸「雷神」が空き巣に盗まれてしまう。警察は犯人はベランダから侵入したと断定するが、コナンはファックスの送信時刻からあることに気づき…。"
+    },
+    "credit": {
+        "released": 2003,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：神谷明",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "プロデューサー：諏訪道彦、吉岡昌仁",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "(c)青山剛昌／小学館・読売テレビ・TMS 1999"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1708066303,
+    "endAt": 1740754800,
+    "transcodeVersion": "2shKYB",
+    "sharedLink": {
+        "twitter": "https://abema.app/Z2GK",
+        "facebook": "https://abema.app/UxRT",
+        "google": "https://abema.app/o2FZ",
+        "line": "https://abema.app/MZby",
+        "copy": "https://abema.app/bGq8",
+        "instagram": "https://abema.app/WWK9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-5_s8_p312/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-5_s8_p312/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-5_s8_p312/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s8_p312"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.1610666666666,
+        "opening": {
+            "start": 17.450766666666667,
+            "end": 104.17073333333333
+        },
+        "ending": {
+            "start": 1339.3046333333334,
+            "end": 1429.1610666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-5_s8_p313",
+        "title": "第313話 夕陽に染まった雛人形（後編）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1708066303,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s8_p312/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}
