@@ -23,7 +23,7 @@ jobs:
       run: python -m pip install --upgrade pip  # pipをアップグレード
 
     - name: Install dependencies
-      run: pip install selenium requests
+      run: pip install selenium requests webdriver_manager
 
     - name: Install ChromeDriver
       run: |
