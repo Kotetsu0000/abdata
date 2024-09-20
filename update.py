@@ -62,7 +62,7 @@ class Update_Data:
 
         start_index = 0
         limit = 100
-        logger.info(f'{threading.currentThread().getName()}: Downloading anime list... {start_index}~{start_index+limit-1}')
+        logger.info(f'{threading./current_thread().getName()}: Downloading anime list... {start_index}~{start_index+limit-1}')
 
         while True:
             temp_anime_list = API_auth.get_anime_list(headers=self.headers, limit=limit, start_index=start_index)
@@ -73,10 +73,10 @@ class Update_Data:
                 del anime_list['paging']
                 break
             else:
-                logger.info(f'{threading.currentThread().getName()}: JSONDecodeErrorが発生しました。')
+                logger.info(f'{threading./current_thread().getName()}: JSONDecodeErrorが発生しました。')
         continue_flag = True
         while continue_flag:
-            logger.info(f'{threading.currentThread().getName()}: Downloading anime list... {start_index}~{start_index+limit-1}')
+            logger.info(f'{threading./current_thread().getName()}: Downloading anime list... {start_index}~{start_index+limit-1}')
             temp_anime_list = API_auth.get_anime_list(headers=self.headers, limit=limit, start_index=start_index)
             time.sleep(1)
             if 'paging' in temp_anime_list.keys():
@@ -86,7 +86,7 @@ class Update_Data:
                 if len(temp_anime_list['cards'])==0:
                     continue_flag = False  
             else:
-                logger.info(f'{threading.currentThread().getName()}: JSONDecodeErrorが発生しました。')
+                logger.info(f'{threading./current_thread().getName()}: JSONDecodeErrorが発生しました。')
 
         self.threads = []
         for i, (proxy, tor_file) in enumerate(zip(self.proxies_list, self.tor_files)):
@@ -124,16 +124,16 @@ class Update_Data:
         while True:
             try:
                 if flag_num>=len(self.threads) and self.thread_recv_queue.empty():
-                    logger.info(f"{threading.currentThread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, 全てのスレッドが終了しました。")
+                    logger.info(f"{threading./current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, 全てのスレッドが終了しました。")
                     break
                 item = self.thread_recv_queue.get(timeout=1)
-                logger.info(f'{threading.currentThread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item["func"]}の処理を行います。')
+                logger.info(f'{threading./current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item["func"]}の処理を行います。')
                 if item.get('end', False):
                     flag_num += 1
                 elif item['func'] == 'get_anime_overview':
                     make_path(item['anime_path'])
                     API_auth.save_json(item['data'], item['overview_path'])
-                    logger.info(f"{threading.currentThread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['overview_path']}の詳細情報を保存しました。")
+                    logger.info(f"{threading./current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['overview_path']}の詳細情報を保存しました。")
                     seasons = item['data'].get('seasons', [])
                     if seasons is None:
                         continue
@@ -163,7 +163,7 @@ class Update_Data:
                 elif item['func'] == 'get_episode_list':
                     make_path(item['episode_group_path'])
                     API_auth.save_json(item['data'], item['episode_group_episode_list_path'])
-                    logger.info(f"{threading.currentThread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['episode_group_path']}/episode_list.jsonのエピソードリストを保存しました。")
+                    logger.info(f"{threading./current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['episode_group_path']}/episode_list.jsonのエピソードリストを保存しました。")
                     for l, episode in enumerate(item['data']):
                         EPISODE_ID = episode['id']
                         EPISODE_PATH = f"{item['episode_group_path']}/{EPISODE_ID}"
@@ -185,9 +185,9 @@ class Update_Data:
                 elif item['func'] == 'get_episode_overview':
                     make_path(item['episode_path'])
                     API_auth.save_json(item['data'], item['episode_data_path'])
-                    logger.info(f"{threading.currentThread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['episode_data_path']}の詳細情報を保存しました。")
+                    logger.info(f"{threading./current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['episode_data_path']}の詳細情報を保存しました。")
             except queue.Empty:
-                logger.info(f"{threading.currentThread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, キューが空です。待機中...")
+                logger.info(f"{threading./current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, キューが空です。待機中...")
                 pass
 
 
@@ -200,7 +200,7 @@ class Update_Data:
             ANIME_THUMBNAIL_PATH = f"{ANIME_PATH}/{anime['thumbComponent']['filename']}"
             PORTRAIT_PATH        = f"{ANIME_PATH}/{anime['thumbPortraitComponent']['filename']}"
             assert file_exists(ANIME_OVERVIEW_PATH)
-            logger.info(f"{threading.currentThread().getName()}: {ANIME_OVERVIEW_PATH}の詳細情報を取得を確認しました。")
+            logger.info(f"{threading./current_thread().getName()}: {ANIME_OVERVIEW_PATH}の詳細情報を取得を確認しました。")
             #assert file_exists(ANIME_THUMBNAIL_PATH)
             #logger.info(f"{ANIME_THUMBNAIL_PATH}のサムネイルを取得を確認しました。")
             #assert file_exists(PORTRAIT_PATH)
@@ -220,14 +220,14 @@ class Update_Data:
                     EPISODE_GROUP_PATH = f"{SEASON_PATH}/{EPISODE_GROUP_ID}"
                     EPISODE_GROUP_EPISODE_LIST_PATH = f"{EPISODE_GROUP_PATH}/episode_list.json"
                     assert file_exists(EPISODE_GROUP_EPISODE_LIST_PATH)
-                    logger.info(f"{threading.currentThread().getName()}: {EPISODE_GROUP_EPISODE_LIST_PATH}のエピソードリストを取得を確認しました。")
+                    logger.info(f"{threading./current_thread().getName()}: {EPISODE_GROUP_EPISODE_LIST_PATH}のエピソードリストを取得を確認しました。")
                     episode_list = load_json(EPISODE_GROUP_EPISODE_LIST_PATH)
                     for l, episode in enumerate(episode_list):
                         EPISODE_ID = episode['id']
                         EPISODE_PATH = f"{EPISODE_GROUP_PATH}/{EPISODE_ID}"
                         EPISODE_DATA_PATH = f"{EPISODE_PATH}/episode_data.json"
                         assert file_exists(EPISODE_DATA_PATH)
-                        logger.info(f"{threading.currentThread().getName()}: {EPISODE_DATA_PATH}の詳細情報を取得を確認しました。")
+                        logger.info(f"{threading./current_thread().getName()}: {EPISODE_DATA_PATH}の詳細情報を取得を確認しました。")
         logger.info(f"全てのアニメの詳細情報を取得しました。Time: {time.perf_counter()-start:.2f}sec")
         
 
@@ -240,7 +240,7 @@ class Update_Data:
         error_num = 0
         process = self.tor_start(tor_file)
         self.test_acsess(proxy)
-        thread_name = threading.currentThread().getName()
+        thread_name = threading./current_thread().getName()
         logger.info(f"{thread_name:>10}: proxy {proxy}")
         proxies = {
             'http': proxy,
