@@ -1,0 +1,153 @@
+{
+    "id": "19-3wxgpd-fitp_s0_p4",
+    "series": {
+        "id": "19-3wxgpd-fitp",
+        "title": "未確認で進行形",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "thumb.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "portrait.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-3wxgpd-fitp_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 あれはただのへんたいです",
+        "content": "紅緒によって明かされた過去のこと。突然の話に小紅はショート寸前でビックリ緊急ダウン。代わりに台所に立つ紅緒。生み出される悪夢の数々。小紅のありがたみを知る真白。一方白夜は小紅に嫌われたと思い込み、逃走。というより暴走。今回の白夜はよくしゃべるとかしゃべらないとか。実際のところは確認してください。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "照井春佳",
+            "松井恵理子",
+            "吉田有里",
+            "羽多野渉",
+            "愛美",
+            "佐倉綾音",
+            "藤田 咲",
+            "角元明日香",
+            "駒形友梨",
+            "渡部優衣"
+        ],
+        "crews": [
+            "監督：藤原佳幸",
+            "原作：荒井チェリー",
+            "脚本：志茂文彦",
+            "キャラクターデザイン・総作画監督：菊池 愛"
+        ],
+        "copyrights": [
+            "(C)荒井チェリー／一迅社・未確認で進行形製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1710472960,
+    "endAt": 1748703600,
+    "freeEndAt": 1727413200,
+    "transcodeVersion": "6UHvto",
+    "sharedLink": {
+        "twitter": "https://abema.app/aZ9Q",
+        "facebook": "https://abema.app/VTH3",
+        "google": "https://abema.app/bf1s",
+        "line": "https://abema.app/jGjC",
+        "copy": "https://abema.app/uaLp",
+        "instagram": "https://abema.app/T45T"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p4/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-3wxgpd-fitp_s0_p4/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-3wxgpd-fitp_s0_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.5142,
+        "opening": {
+            "start": 35.5355,
+            "end": 125.45866666666667
+        },
+        "ending": {
+            "start": 1315.5142,
+            "end": 1405.5041
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-3wxgpd-fitp_s0_p5",
+        "title": "第5話 これが経産婦だと",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1710472960,
+        "endAt": 1748703600,
+        "freeEndAt": 1727413200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727413200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-3wxgpd-fitp_s0_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727413200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "19-3wxgpd-fitp_eg0"
+}

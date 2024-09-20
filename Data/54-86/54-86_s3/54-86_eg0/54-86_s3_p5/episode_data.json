@@ -1,0 +1,129 @@
+{
+    "id": "54-86_s3_p5",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 131
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 ヘイ、オシリ",
+        "content": "ヘイ、オシリ。今日の天気は？いや、やっぱり君のことが知りたい。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ",
+            "稲垣杏橘",
+            "本多陽子"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Audiostock・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1697162477,
+    "endAt": 1730386800,
+    "transcodeVersion": "7FKUqa",
+    "sharedLink": {
+        "twitter": "https://abema.app/gePP",
+        "facebook": "https://abema.app/WYpM",
+        "google": "https://abema.app/Qn1E",
+        "line": "https://abema.app/JdQj",
+        "copy": "https://abema.app/dYtt",
+        "instagram": "https://abema.app/a1du"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-86_s3_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-86_s3_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-86_s3_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s3_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 116.7166
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s3_p6",
+        "title": "第6話 弱点",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1697162641,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s3_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

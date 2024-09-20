@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1726206618",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1726206618",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1726206618",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1726206618",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1726206618",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1726206618",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1726206619",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1726206619",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -235,8 +235,8 @@
         "id": "377-2_s1_p9",
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p9",
-            "filename": "thumb001.png",
-            "query": "version=1726206619",
+            "filename": "thumb002.png",
+            "query": "version=1726817623",
             "extension": "png"
         },
         "episode": {
@@ -248,8 +248,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726770600
+                    "onDemandType": 1,
+                    "endAt": 1769871600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -258,6 +258,35 @@
         },
         "info": {
             "duration": 1475
+        }
+    },
+    {
+        "id": "377-2_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/377-2_s1_p10",
+            "filename": "thumb001.png",
+            "query": "version=1726817623",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話 遠くの君へ",
+            "content": "ユウマの同級生・カズオはアマチュア無線愛好家であり、鬱屈とした日常の中で夜な夜な無線で「フィオ」と名乗る人物と交信することが唯一の幸せな時間だった。\nだが、その「フィオ」との交信の電波に誘われ、宇宙からノイズラーが飛来してしまう!\n隠された「フィオ」の真実が発覚する時、ユウマはカズオを守ることが出来るのか!?"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1727375400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1474
         }
     }
 ]

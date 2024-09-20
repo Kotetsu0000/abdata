@@ -1,0 +1,78 @@
+{
+    "id": "115-101",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "AYAKA ‐あやか‐",
+    "content": "八凪幸人は、本土の児童養護施設で育った少年だったが、ある時亡き父の弟子であるという傍若無人な青年・沙川尽義がやってきて、幸人を故郷である綾ヵ島に連れ出してしまう。\n七つの島が連なる綾ヵ島は、火と水の龍の伝説が色濃く伝えられ、「ミタマ」と呼ばれる不思議な存在が当たり前のように生息する奇妙な島だった。\n幸人は、綾ヵ島の調和を守る仙人であったという父の三人の弟子たちと関わりながら綾ヵ島で暮らし始める。だが尽義の二人の兄弟子である鞍馬春秋と伊吹朱の間には深い確執があった。\n調和の崩れ始めた「あやかい」島で、幸人が直面する真実とは——",
+    "seasons": [
+        {
+            "id": "115-101_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/115-101_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1687504300",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "115-101_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)GoRA・KINGRECORDS／Project AYAKA"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1725874638540363081",
+    "imageUpdatedAt": 1687504271,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/oezc",
+        "facebook": "https://abema.app/tgzy",
+        "google": "https://abema.app/zqB6",
+        "line": "https://abema.app/1evB",
+        "copy": "https://abema.app/Hpr2",
+        "instagram": "https://abema.app/W5eA"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-101",
+        "filename": "thumb.png",
+        "query": "version=1687504271",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-101",
+        "filename": "portrait.png",
+        "query": "version=1687504271",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

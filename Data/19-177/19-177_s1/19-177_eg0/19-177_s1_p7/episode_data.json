@@ -1,0 +1,144 @@
+{
+    "id": "19-177_s1_p7",
+    "series": {
+        "id": "19-177",
+        "title": "よふかしのうた",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "thumb.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "portrait.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-177_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 眷属作り",
+        "content": "急な雨に降られ、高架下で雨宿りをしていたコウ。近くの喫煙所でサラリーマンが女子高生に声を掛け、振られる姿を見かける。コウの視線に気づいた女子高生は「今見てたっしょ？」と声を掛けてきた。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "夜守コウ：佐藤元",
+            "七草ナズナ：雨宮天",
+            "朝井アキラ：花守ゆみり",
+            "桔梗セリ：戸松遥",
+            "平田ニコ：喜多村英梨"
+        ],
+        "crews": [
+            "監督：板村智幸",
+            "原作：コトヤマ（小学館「週刊少年サンデー」連載中）",
+            "脚本：横手美智子",
+            "音楽：出羽良彰",
+            "チーフディレクター：宮西哲也"
+        ],
+        "copyrights": [
+            "(Ｃ)2022コトヤマ・小学館／「よふかしのうた」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701492567,
+    "endAt": 1738335600,
+    "transcodeVersion": "8V5dd",
+    "sharedLink": {
+        "twitter": "https://abema.app/CRzS",
+        "facebook": "https://abema.app/RXjV",
+        "google": "https://abema.app/qjPP",
+        "line": "https://abema.app/QNdd",
+        "copy": "https://abema.app/XaPq",
+        "instagram": "https://abema.app/QyB8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-177_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-177_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-177_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-177_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.0754583333332,
+        "opening": {
+            "start": 99.34925,
+            "end": 188.89704166666667
+        },
+        "ending": {
+            "start": 1285.659375,
+            "end": 1374.9569166666668
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-177_s1_p8",
+        "title": "第8話 どいつもこいつも",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1701492600,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-177_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-177_eg0"
+}

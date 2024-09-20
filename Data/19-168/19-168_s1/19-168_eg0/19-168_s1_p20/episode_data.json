@@ -1,0 +1,151 @@
+{
+    "id": "19-168_s1_p20",
+    "series": {
+        "id": "19-168",
+        "title": "ちびゴジラの逆襲",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-168",
+            "filename": "thumb.png",
+            "query": "version=1713263077",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-168",
+            "filename": "portrait.png",
+            "query": "version=1713263077",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-168_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 160
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話「空のちび怪獣たち」",
+        "content": "ちびラドンから「第1回飛行怪獣の会」に誘われたちびモスラ。\n飛べないちび怪獣たちを見下すちびラドンが、空を飛べるメリットを列挙していると、なんとそこにちびゴジラ、ちびメカゴジラが現れて…"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ちびゴジラ：福山潤",
+            "ちびメカゴジラ：松岡禎丞",
+            "ちびギドラ：江口拓也",
+            "ちびモスラ：高橋李依",
+            "ちびラドン：下野紘",
+            "ちびアンギラス：？？？",
+            "小美人(姉)：上田麗奈",
+            "小美人(妹)：鬼頭明里",
+            "ちびビオランテ：沢城みゆき",
+            "ちびヘドラ：立木文彦",
+            "ちびミニラ：内田真礼"
+        ],
+        "crews": [
+            "監督：新海岳人",
+            "キャラクターデザイン：坂崎千春",
+            "アニメーション制作：Pie in the sky",
+            "製作：東宝"
+        ],
+        "copyrights": [
+            "(C)TOHO CO., LTD."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726653044,
+    "endAt": 1774969200,
+    "transcodeVersion": "2CLgwt",
+    "sharedLink": {
+        "twitter": "https://abema.app/SLqs",
+        "facebook": "https://abema.app/5CSh",
+        "google": "https://abema.app/ioGC",
+        "line": "https://abema.app/v7Nq",
+        "copy": "https://abema.app/r2iX",
+        "instagram": "https://abema.app/A11k"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-168_s1_p20/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-168_s1_p20/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-168_s1_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-168_s1_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 153.01953333333333,
+        "ending": {
+            "start": 153.01953333333333,
+            "end": 159.99316666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-168_s1_p21",
+        "title": "第21話「ちびゴジラは五月病？」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1726653044,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-168_s1_p20/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "19-168_eg0"
+}

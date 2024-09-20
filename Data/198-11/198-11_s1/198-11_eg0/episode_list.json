@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1726206684",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -293,8 +293,8 @@
         "id": "198-11_s1_p11",
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p11",
-            "filename": "thumb001.png",
-            "query": "version=1726206684",
+            "filename": "thumb002.png",
+            "query": "version=1726817690",
             "extension": "png"
         },
         "episode": {
@@ -306,8 +306,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726763160
+                    "onDemandType": 1,
+                    "endAt": 1790780400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -316,6 +316,35 @@
         },
         "info": {
             "duration": 1420
+        }
+    },
+    {
+        "id": "198-11_s1_p12",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-11_s1_p12",
+            "filename": "thumb001.png",
+            "query": "version=1726817690",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 12,
+            "title": "第12話 赤い糸",
+            "content": "文化祭のために真央たちが制作した映画がバズり、寿を主演にしたMV作成の依頼が映画部に舞い込む。盛り上がる義一たちだが、寿は自信がないと出演を断ってしまう。進路のこと、真央との将来のこと――不安を抱いている様子の寿に、何かしてあげたいと強く願った真央は、「学校をサボろう」と持ちかけて――。運命は作れないけど、約束はできるから。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1727367960
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1424
         }
     }
 ]

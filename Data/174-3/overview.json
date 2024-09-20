@@ -128,16 +128,35 @@
                 }
             ],
             "order": 6
+        },
+        {
+            "id": "174-3_s70",
+            "sequence": 70,
+            "name": "第5期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/174-3_s70",
+                "filename": "default_thumb.png",
+                "query": "version=1726567987",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "174-3_eg1",
+                    "name": "予告編"
+                }
+            ],
+            "order": 7
         }
     ],
     "copyrights": [
         "(C)大森藤ノ・SBクリエイティブ/ダンまち製作委員会"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
-    "version": "1725876372510563789",
-    "imageUpdatedAt": 1627287787,
+    "version": "1726568381774185168",
+    "imageUpdatedAt": 1726567966,
     "caption": "少年は一人の小さな「神様」に出会った",
     "programOrder": "seq",
     "sharedLink": {
@@ -151,13 +170,13 @@
     "thumbComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-3",
         "filename": "thumb.png",
-        "query": "version=1627287787",
+        "query": "version=1726567966",
         "extension": "png"
     },
     "thumbPortraitComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/174-3",
         "filename": "portrait.png",
-        "query": "version=1627287787",
+        "query": "version=1726567966",
         "extension": "png"
     },
     "onDemandTypes": [

@@ -1,0 +1,78 @@
+{
+    "id": "25-103",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "となりの吸血鬼さん",
+    "content": "天野灯はひょんなことからソフィー・トワイライトという吸血鬼の女の子に助けられ、一目でソフィーを気に入ってしまう。灯は彼女の家に押し掛け、強引に同居を始めることになる。ソフィーは吸血鬼だが、人間を襲うようなことはなく、通販で血液や趣味のアニメグッズを購入している現代的で庶民的な生活をしていた。",
+    "seasons": [
+        {
+            "id": "25-103_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-103",
+                "filename": "thumb.png",
+                "query": "version=1627289863",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-103_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)甘党・KADOKAWA／となりの吸血鬼さん製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724394486206034839",
+    "imageUpdatedAt": 1627289863,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/CGRj",
+        "facebook": "https://abema.app/voiY",
+        "google": "https://abema.app/YQgV",
+        "line": "https://abema.app/swav",
+        "copy": "https://abema.app/Lojt",
+        "instagram": "https://abema.app/jTGy"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-103",
+        "filename": "thumb.png",
+        "query": "version=1627289863",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-103",
+        "filename": "portrait.png",
+        "query": "version=1627289863",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

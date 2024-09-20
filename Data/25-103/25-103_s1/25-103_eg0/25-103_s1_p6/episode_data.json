@@ -1,0 +1,175 @@
+{
+    "id": "25-103_s1_p6",
+    "series": {
+        "id": "25-103",
+        "title": "となりの吸血鬼さん",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-103",
+            "filename": "thumb.png",
+            "query": "version=1627289863",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-103",
+            "filename": "portrait.png",
+            "query": "version=1627289863",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-103_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 インタビューウィズヴァンパイア",
+        "content": "灯の友達の朔夜がソフィーの館を訪れた。朔夜は、オカルトサークルを主催しており、身近な吸血鬼のソフィーのことを記事にしたいとのことだった。早速インタビューを受けるソフィー。普段通りにしてほしいというリクエストに応え、ノートパソコンに向かい、黙々とキーボードを打つが、地味な姿に朔夜の夢を壊していないかソフィーは心配になっていく。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ソフィー・トワイライト：富田美憂",
+            "天野灯：篠原侑",
+            "夏木ひなた：Lynn",
+            "エリー：和氣あず未",
+            "倉井朔夜：日高里菜",
+            "青木夕：内田彩"
+        ],
+        "crews": [
+            "原作：甘党「となりの吸血鬼さん」（月刊コミックキューン連載／KADOKAWA刊）",
+            "監督：秋田谷典昭",
+            "副監督：福島利規",
+            "シリーズ構成：髙橋龍也",
+            "キャラクターデザイン・総作画監督：酒井孝裕",
+            "コンセプトデザイン：杉村苑美",
+            "プロップデザイン：コレサワシゲユキ／灯夢（デジタルノイズ）",
+            "美術監督：松本浩樹（アトリエPlatz）",
+            "色彩設計：鈴木ようこ",
+            "撮影監督：廣岡岳",
+            "編集：坪根健太郎",
+            "音響監督：明田川仁",
+            "音楽：藤澤慶昌",
+            "音楽制作：日本コロムビア",
+            "アニメーション制作：Studio五組 × AXsiZ"
+        ],
+        "copyrights": [
+            "(C)甘党・KADOKAWA／となりの吸血鬼さん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1699524852,
+    "endAt": 1735657200,
+    "freeEndAt": 1727262000,
+    "transcodeVersion": "UHEem",
+    "sharedLink": {
+        "twitter": "https://abema.app/Axv9",
+        "facebook": "https://abema.app/fXRM",
+        "google": "https://abema.app/7crm",
+        "line": "https://abema.app/CUki",
+        "copy": "https://abema.app/NUi4",
+        "instagram": "https://abema.app/36xQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-103_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-103_s1_p6/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/25-103_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-103_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-103_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.08,
+        "opening": {
+            "start": 46.035855,
+            "end": 134.312801
+        },
+        "ending": {
+            "start": 1272.580005,
+            "end": 1361.221187
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-103_s1_p7",
+        "title": "第7話 吸血鬼とすごす夏休み",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699524852,
+        "endAt": 1735657200,
+        "freeEndAt": 1727262000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727262000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-103_s1_p6/timeline",
+        "query": "version=UHEem",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727262000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "25-103_eg0"
+}

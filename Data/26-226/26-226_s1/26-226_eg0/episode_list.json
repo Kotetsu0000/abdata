@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-226_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1725872150",
+            "query": "version=1726566637",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-226_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1725872150",
+            "query": "version=1726566637",
             "extension": "png"
         },
         "episode": {
@@ -46,7 +46,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1761922800
+                    "endAt": 1726901100
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-226_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1725872150",
+            "query": "version=1726566637",
             "extension": "png"
         },
         "episode": {
@@ -75,7 +75,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1761922800
+                    "endAt": 1726901100
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-226_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1725872150",
+            "query": "version=1726566637",
             "extension": "png"
         },
         "episode": {
@@ -104,7 +104,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1761922800
+                    "endAt": 1726901100
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-226_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1725873414",
+            "query": "version=1726566637",
             "extension": "png"
         },
         "episode": {
@@ -132,8 +132,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1726901100
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "26-226_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-226_s1_p6",
+            "filename": "thumb002.png",
+            "query": "version=1726566637",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話 小さな冒険",
+            "content": "ディーノの息子テオドールがみていた幻覚は《繭期》の症状によるものだった。繭期は通常13歳から14歳頃の吸血種が発症し、幻覚、幻聴、妄想、嫉妬、激しい感情の起伏など著しい精神不安定に陥るため、管理と教育のために《クラン》へ収容される。まだ7歳になったばかりのテオドールにその症状が現れ戸惑うクララたち。一方、子供たちはウルを連れて屋敷を抜け出していた。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1726369200
+                    "endAt": 1726974000
                 }
             ],
             "broadcastRegionPolicy": 1,

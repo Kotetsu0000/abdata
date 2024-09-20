@@ -5,42 +5,67 @@
         "name": "アニメ",
         "subGenres": [
             {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
                 "id": "animation_12",
                 "name": "SF・ファンタジー"
             },
             {
                 "id": "animation_2",
                 "name": "アクション・バトル"
-            },
-            {
-                "id": "animation_41",
-                "name": "Abemaアニメ"
             }
         ]
     },
     "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
-    "content": "銃と鋼鉄の世界《ガンゲイル・オンライン》でソロプレイを満喫している女性プレイヤー・レン。可愛いものが大好きな彼女は全身をピンクの装備で統一し、コツコツと地道にプレイを重ね、実力をつけていた。そしてとあることからPK――プレイヤー狩りの面白さに目覚めたレンはPKにのめり込み、ついには「ピンクの悪魔」と呼ばれるまでになる。 そんなレンは美人でミステリアスなプレイヤー・ピトフーイと出会い、意気投合。彼女に言われるがまま、チーム戦イベント《スクワッド・ジャム》に参加することになる。",
+    "content": "銃と鋼鉄の世界《ガンゲイル・オンライン》でソロプレイを満喫している女性プレイヤー・レン。可愛いものが大好きな彼女は全身をピンクの装備で統一し、コツコツと地道にプレイを重ね、実力をつけていた。そしてとあることからPK――プレイヤー狩りの面白さに目覚めたレンはPKにのめり込み、ついには「ピンクの悪魔」と呼ばれるまでになる。\nそんなレンは美人でミステリアスなプレイヤー・ピトフーイと出会い、意気投合。彼女に言われるがまま、チーム戦イベント《スクワッド・ジャム》に参加することになる。",
     "seasons": [
         {
             "id": "25-92_s1",
             "sequence": 1,
             "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
             "thumbComponent": {
-                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-92",
-                "filename": "thumb.png",
-                "query": "version=1627288325",
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-92_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1726568560",
                 "extension": "png"
             },
+            "episodeGroups": [
+                {
+                    "id": "25-92_eg0",
+                    "name": "本編"
+                }
+            ],
             "order": 1
+        },
+        {
+            "id": "25-92_s2",
+            "sequence": 2,
+            "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-92_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1726562943",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-92_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)2017 時雨沢恵一／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／GGO Project"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
-    "version": "1725442088230606659",
+    "version": "1726737085278870843",
     "imageUpdatedAt": 1627288325,
     "caption": "銃によるチーム戦のバトルロイヤル",
     "programOrder": "seq",
@@ -68,5 +93,6 @@
         1,
         3
     ],
+    "contentPattern": 1,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
 }

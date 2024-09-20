@@ -1,0 +1,127 @@
+{
+    "id": "54-86_s1_p95",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 125
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 95,
+        "title": "第95話 寝言爆弾",
+        "content": "強烈なやついくぜ。覚悟しろよ。おっかさあああああああん！"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "リーゼント・後輩・清正・じじい：いくピソ",
+            "モヒカン・ナミッポ・金熊・ダディ・島津・加藤：ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・oo39ドットコム",
+            "効果音：効果音ラボ",
+            "主題歌：papalion",
+            "録音(主題歌)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696910879,
+    "endAt": 1730386800,
+    "transcodeVersion": "3nKPzM",
+    "sharedLink": {
+        "twitter": "https://abema.app/wynz",
+        "facebook": "https://abema.app/36BB",
+        "google": "https://abema.app/HHe7",
+        "line": "https://abema.app/4Pqo",
+        "copy": "https://abema.app/4fEm",
+        "instagram": "https://abema.app/JKYH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p95/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p95/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p95/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s1_p95"
+    },
+    "viewingPoint": {
+        "suggestion": 111.5114
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s1_p96",
+        "title": "第96話 スプリング・ハズ・カム！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696910883,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s1_p95/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

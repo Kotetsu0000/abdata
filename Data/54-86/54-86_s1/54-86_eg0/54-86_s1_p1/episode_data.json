@@ -1,0 +1,132 @@
+{
+    "id": "54-86_s1_p1",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 107
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 ヤンキーハムスター",
+        "content": "ヤンキーなのにハムスター。ハムスターなのにヤンキー。毛玉伝説が今はじまる。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "リーゼント・後輩・清正・じじい：いくピソ",
+            "モヒカン・ナミッポ・金熊・ダディ・島津・加藤：ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・oo39ドットコム",
+            "効果音：効果音ラボ",
+            "主題歌：papalion",
+            "録音(主題歌)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1696906815,
+    "endAt": 1730386800,
+    "freeEndAt": 1730386800,
+    "transcodeVersion": "2idf7K",
+    "sharedLink": {
+        "twitter": "https://abema.app/YQnZ",
+        "facebook": "https://abema.app/psfR",
+        "google": "https://abema.app/MXad",
+        "line": "https://abema.app/tuKk",
+        "copy": "https://abema.app/yec7",
+        "instagram": "https://abema.app/cj6h"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-86_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-86_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/54-86_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-86_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 93.35993333333333
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s1_p2",
+        "title": "第2話 ナワバリ争い",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696906819,
+        "endAt": 1730386800,
+        "freeEndAt": 1727510400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727510400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

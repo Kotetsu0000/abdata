@@ -1,0 +1,79 @@
+{
+    "id": "149-26",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "鋼鉄神ジーグ",
+    "content": "かつて、鋼鉄ジーグと邪魔大王国の最終決戦の地となった九州。そこはあの日より、謎の結界“ゾーン”に覆われ連絡不能となっていた。\nあれから50年……。“ゾーン”に遮られた九州を望む本州最南端の町。高校生ライダー・草薙 剣児は、突如地中から現れたハニワ幻神・魔愚羅と遭遇する。 魔愚羅の復活を予見し作られた新生ビルドベースが今、立ち上がる！ 飛べビッグシューター！　放てジーグパーツ！\n忘れられた大地を取り返すため、鋼鉄神ジーグよ　邪魔大王国を叩き潰せ!!",
+    "seasons": [
+        {
+            "id": "149-26_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-26",
+                "filename": "thumb.png",
+                "query": "version=1714554084",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "149-26_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)永井豪／ダイナミック企画・ビルドベース"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726228115461985985",
+    "imageUpdatedAt": 1714554084,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/8h5B",
+        "facebook": "https://abema.app/BsUi",
+        "google": "https://abema.app/3mAV",
+        "line": "https://abema.app/gnVo",
+        "copy": "https://abema.app/wVym",
+        "instagram": "https://abema.app/CSWU"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-26",
+        "filename": "thumb.png",
+        "query": "version=1714554084",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/149-26",
+        "filename": "portrait.png",
+        "query": "version=1714554084",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "1話〜12話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

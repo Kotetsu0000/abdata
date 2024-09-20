@@ -56,15 +56,33 @@
                 }
             ],
             "order": 2
+        },
+        {
+            "id": "149-4_s30",
+            "sequence": 30,
+            "name": "ありふれた職業で世界最強 season 3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/149-4_s30",
+                "filename": "default_thumb.png",
+                "query": "version=1723102399",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "149-4_eg1",
+                    "name": "予告編"
+                }
+            ],
+            "order": 3
         }
     ],
     "copyrights": [
         "(C)白米良・オーバーラップ/ありふれた製作委員会"
     ],
     "label": {
-        "someFree": true
+        "free": true
     },
-    "version": "1726290412880662524",
+    "version": "1726808351224107119",
     "imageUpdatedAt": 1681284417,
     "caption": "“最強”異世界ファンタジー、開幕！",
     "programOrder": "seq",
@@ -89,9 +107,9 @@
         "extension": "png"
     },
     "onDemandTypes": [
-        1,
         3
     ],
+    "freeBenefitTag": "全話無料",
     "contentPattern": 1,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
 }

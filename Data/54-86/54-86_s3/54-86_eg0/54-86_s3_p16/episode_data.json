@@ -1,0 +1,129 @@
+{
+    "id": "54-86_s3_p16",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 137
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 デブッポ&ガリッポ来襲",
+        "content": "ベランダに知らない鳩たちが！細いのと、太いのだ！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ",
+            "稲垣杏橘",
+            "本多陽子"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Audiostock・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1697163281,
+    "endAt": 1730386800,
+    "transcodeVersion": "zcpSg",
+    "sharedLink": {
+        "twitter": "https://abema.app/nKfA",
+        "facebook": "https://abema.app/AtXX",
+        "google": "https://abema.app/BJYm",
+        "line": "https://abema.app/GsRN",
+        "copy": "https://abema.app/gBNQ",
+        "instagram": "https://abema.app/L72v"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-86_s3_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-86_s3_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-86_s3_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s3_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 122.8227
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s3_p17",
+        "title": "第17話 ゴロゴロヤンキー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1697163327,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s3_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

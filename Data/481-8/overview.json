@@ -1,0 +1,74 @@
+{
+    "id": "481-8",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "title": "TVアニメ「てっぺんっ!!!!!!!!!!!!!!!」",
+    "content": "全国のお笑いを目指す若者たちの甲子園「てっぺんグランプリ」。女子高生お笑いトリオ「ヤングワイワイ」の阪本やよい・高橋よもぎ・細野ゆずは、各地の予選を勝ち抜いた4組のお笑いトリオたちとともに、本選出場の座をかけ、様々な試練に挑戦する！これは、お笑いの《てっぺん》を目指す15人の少女たちのひと夏の青春ストーリー!!",
+    "seasons": [
+        {
+            "id": "481-8_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/481-8_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1681984493",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "481-8_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)てっぺんグランプリ実行委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1724928304279758553",
+    "imageUpdatedAt": 1655286211,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ycay",
+        "facebook": "https://abema.app/UySK",
+        "google": "https://abema.app/yF3o",
+        "line": "https://abema.app/6Tnr",
+        "copy": "https://abema.app/Fi3B",
+        "instagram": "https://abema.app/mhQb"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-8",
+        "filename": "thumb.png",
+        "query": "version=1655286211",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-8",
+        "filename": "portrait.png",
+        "query": "version=1655286211",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

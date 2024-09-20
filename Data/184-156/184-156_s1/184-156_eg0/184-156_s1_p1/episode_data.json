@@ -1,0 +1,136 @@
+{
+    "id": "184-156_s1_p1",
+    "series": {
+        "id": "184-156",
+        "title": "劇場版 ドラゴンボール 摩訶不思議大冒険",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-156",
+            "filename": "thumb.png",
+            "query": "version=1722658950",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-156",
+            "filename": "portrait.png",
+            "query": "version=1722658950",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "184-156_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2751
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "劇場版 ドラゴンボール 摩訶不思議大冒険",
+        "content": "悟空とクリリンはミーファン帝国で開かれる大武道大会に参加することになった。ミーファン帝国の大臣、鶴仙人は神龍の力を借リて、弟の桃白白、弟子の天津飯とともに世界征服することを企んでいる。悟空たちはドラゴンボールを持つ故郷思いのボラとウパの親子と出会うが、ボラは桃白白に殺されてしまう。怒った悟空が桃白白に飛びかかるが、空の彼方へ飛ぼされてしまう。カリン様の教えを受け再び試合場に向かう途中、アラレちゃんたちにからかわれている桃白白を発見!アラレちゃんとガッちゃんズの協力を得て悟空は再び桃白白に挑む!"
+    },
+    "credit": {
+        "released": 1988,
+        "casts": [
+            "孫悟空:野沢雅子",
+            "クリリン:田中真弓",
+            "ヤムチャ:古谷徹",
+            "天津飯:鈴置洋孝",
+            "餃子:江森浩子",
+            "ブルマ:鶴ひろみ",
+            "亀仙人:宮内幸平",
+            "海ガメ:郷里大輔",
+            "ウーロン:龍田直樹",
+            "プーアル:渡辺菜生子",
+            "ランチ/則巻アラレ:小山茉美",
+            "神龍:内海賢ニ",
+            "カリン/鶴仙人:永井一郎",
+            "桃白白:大塚周夫",
+            "シュウ:玄田哲章",
+            "ボラ:銀河万丈",
+            "ウパ:堀江美都子",
+            "ブルー将軍:古川登志夫"
+        ],
+        "crews": [
+            "原作:鳥山明",
+            "監督:竹之内和久",
+            "脚本:由木義文"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション  (C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1722659042,
+    "endAt": 1756652400,
+    "freeEndAt": 1727069700,
+    "transcodeVersion": "3xiA22",
+    "sharedLink": {
+        "twitter": "https://abema.app/3Evx",
+        "facebook": "https://abema.app/k13L",
+        "google": "https://abema.app/Jkm7",
+        "line": "https://abema.app/k48S",
+        "copy": "https://abema.app/C6WC",
+        "instagram": "https://abema.app/ovu1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/184-156_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/184-156_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/184-156_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/184-156_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.184-156_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 2746.201791666667
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/184-156_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727069700
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "184-156_eg0"
+}

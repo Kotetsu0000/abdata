@@ -1,0 +1,134 @@
+{
+    "id": "19-3wxgpd-fitp_s0_p12",
+    "series": {
+        "id": "19-3wxgpd-fitp",
+        "title": "未確認で進行形",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "thumb.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "portrait.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-3wxgpd-fitp_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 わかってる？・・・わかってる",
+        "content": "白夜と真白が姿を消した。なくなった荷物。途絶えた連絡。静かな我が家。不安と心配に苛まれる小紅だが、まゆらに背中を押されて三峰家へ。山に分け入り、懸命に白夜と真白を探す小紅。そこで彼女が見たものは…？これからどうなるかはわからないけれど、冬は終わり、春が来る。最後までどうぞ確認してください。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "照井春佳",
+            "松井恵理子",
+            "吉田有里",
+            "羽多野渉",
+            "愛美",
+            "佐倉綾音",
+            "藤田 咲",
+            "角元明日香",
+            "駒形友梨",
+            "渡部優衣"
+        ],
+        "crews": [
+            "監督：藤原佳幸",
+            "原作：荒井チェリー",
+            "脚本：志茂文彦",
+            "キャラクターデザイン・総作画監督：菊池 愛"
+        ],
+        "copyrights": [
+            "(C)荒井チェリー／一迅社・未確認で進行形製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1710472960,
+    "endAt": 1748703600,
+    "freeEndAt": 1727413200,
+    "transcodeVersion": "4wK3Vs",
+    "sharedLink": {
+        "twitter": "https://abema.app/iWZw",
+        "facebook": "https://abema.app/WFQh",
+        "google": "https://abema.app/8gMm",
+        "line": "https://abema.app/kZds",
+        "copy": "https://abema.app/xbPY",
+        "instagram": "https://abema.app/KRzB"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p12/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-3wxgpd-fitp_s0_p12/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-3wxgpd-fitp_s0_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.5292,
+        "opening": {
+            "start": 43.5435,
+            "end": 133.46666666666667
+        },
+        "ending": {
+            "start": 1330.5292,
+            "end": 1420.9862333333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-3wxgpd-fitp_s0_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727413200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "19-3wxgpd-fitp_eg0"
+}

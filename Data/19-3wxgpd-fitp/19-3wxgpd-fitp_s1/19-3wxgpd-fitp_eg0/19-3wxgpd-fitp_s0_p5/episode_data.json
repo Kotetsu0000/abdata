@@ -1,0 +1,149 @@
+{
+    "id": "19-3wxgpd-fitp_s0_p5",
+    "series": {
+        "id": "19-3wxgpd-fitp",
+        "title": "未確認で進行形",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "thumb.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "portrait.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-3wxgpd-fitp_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 これが経産婦だと",
+        "content": "和装の美女がやってきた。どう見ても若すぎるが、真白の母・白雪らしい。緊張する小紅。身構える真白。白雪の若さを前に苦悩する紅緒だが、結論的には「かなりアリ」。そんな中、白雪の口から驚くべき話がとび出す。混乱する小紅。果たして語られた内容は真実なのかどうなのか。言葉だけでは伝わらなさそうなので、その目で確認してください。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "照井春佳",
+            "松井恵理子",
+            "吉田有里",
+            "羽多野渉",
+            "愛美",
+            "佐倉綾音",
+            "藤田 咲",
+            "角元明日香",
+            "駒形友梨",
+            "渡部優衣"
+        ],
+        "crews": [
+            "監督：藤原佳幸",
+            "原作：荒井チェリー",
+            "脚本：志茂文彦",
+            "キャラクターデザイン・総作画監督：菊池 愛"
+        ],
+        "copyrights": [
+            "(C)荒井チェリー／一迅社・未確認で進行形製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1710472960,
+    "endAt": 1748703600,
+    "freeEndAt": 1727413200,
+    "transcodeVersion": "4KAz8w",
+    "sharedLink": {
+        "twitter": "https://abema.app/yec8",
+        "facebook": "https://abema.app/1isF",
+        "google": "https://abema.app/85oW",
+        "line": "https://abema.app/kazV",
+        "copy": "https://abema.app/YHfp",
+        "instagram": "https://abema.app/aaij"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p5/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-3wxgpd-fitp_s0_p5/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-3wxgpd-fitp_s0_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.5142,
+        "ending": {
+            "start": 1315.5142,
+            "end": 1405.5041
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-3wxgpd-fitp_s0_p6",
+        "title": "第6話 そうだ、小姑でうめよう",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1710472960,
+        "endAt": 1748703600,
+        "freeEndAt": 1727413200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727413200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-3wxgpd-fitp_s0_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727413200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "19-3wxgpd-fitp_eg0"
+}

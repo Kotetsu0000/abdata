@@ -1,0 +1,137 @@
+{
+    "id": "19-177_s1_p1",
+    "series": {
+        "id": "19-177",
+        "title": "よふかしのうた",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "thumb.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "portrait.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-177_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1374
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 ナイトフライト",
+        "content": "“眠れない”中学2年生・夜守コウは、初めて夜に誰にも言わずに外に出た。昼間とは異なる雰囲気の町中を歩いていると、フードをかぶった年齢性別不詳の人物に声をかけられた。それが吸血鬼・七草ナズナとの出会いだった。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "夜守コウ：佐藤元",
+            "七草ナズナ：雨宮天",
+            "朝井アキラ：花守ゆみり",
+            "桔梗セリ：戸松遥",
+            "平田ニコ：喜多村英梨"
+        ],
+        "crews": [
+            "監督：板村智幸",
+            "原作：コトヤマ（小学館「週刊少年サンデー」連載中）",
+            "脚本：横手美智子",
+            "音楽：出羽良彰",
+            "チーフディレクター：宮西哲也"
+        ],
+        "copyrights": [
+            "(Ｃ)2022コトヤマ・小学館／「よふかしのうた」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1702038743,
+    "endAt": 1738335600,
+    "transcodeVersion": "3hX9sV",
+    "sharedLink": {
+        "twitter": "https://abema.app/CFk1",
+        "facebook": "https://abema.app/bZre",
+        "google": "https://abema.app/kuoG",
+        "line": "https://abema.app/k2X9",
+        "copy": "https://abema.app/qwzZ",
+        "instagram": "https://abema.app/bvUi"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-177_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-177_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-177_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-177_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1369.993625,
+        "opening": {
+            "start": 36.78675,
+            "end": 124.91645833333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-177_s1_p2",
+        "title": "第2話 てかラインやってる?",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1702039056,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-177_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-177_eg0"
+}

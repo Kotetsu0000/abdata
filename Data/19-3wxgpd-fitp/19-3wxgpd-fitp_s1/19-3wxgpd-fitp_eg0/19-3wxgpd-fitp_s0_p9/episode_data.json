@@ -1,0 +1,153 @@
+{
+    "id": "19-3wxgpd-fitp_s0_p9",
+    "series": {
+        "id": "19-3wxgpd-fitp",
+        "title": "未確認で進行形",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "thumb.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "portrait.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-3wxgpd-fitp_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 くつじょくです、はずかしめをうけました",
+        "content": "思いがけず新展開。忠実な白夜。小紅は否定されたらちょっとショックな自分に気づく。目にゴミが入っただけという弁解。それに対する紅緒の愛。白夜も愛。小紅のスクープを狙う仁子。紅緒の変顔を狙う真白。そんななか、ついにデレ期到来か。誰のデレ期がきたのかは確認してください。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "照井春佳",
+            "松井恵理子",
+            "吉田有里",
+            "羽多野渉",
+            "愛美",
+            "佐倉綾音",
+            "藤田 咲",
+            "角元明日香",
+            "駒形友梨",
+            "渡部優衣"
+        ],
+        "crews": [
+            "監督：藤原佳幸",
+            "原作：荒井チェリー",
+            "脚本：志茂文彦",
+            "キャラクターデザイン・総作画監督：菊池 愛"
+        ],
+        "copyrights": [
+            "(C)荒井チェリー／一迅社・未確認で進行形製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1710472960,
+    "endAt": 1748703600,
+    "freeEndAt": 1727413200,
+    "transcodeVersion": "3HVa8q",
+    "sharedLink": {
+        "twitter": "https://abema.app/Y1A1",
+        "facebook": "https://abema.app/UdUV",
+        "google": "https://abema.app/d1aL",
+        "line": "https://abema.app/zXXs",
+        "copy": "https://abema.app/X1mD",
+        "instagram": "https://abema.app/sSqi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p9/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-3wxgpd-fitp_s0_p9/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-3wxgpd-fitp_s0_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.5142,
+        "opening": {
+            "start": 59.5595,
+            "end": 149.48266666666666
+        },
+        "ending": {
+            "start": 1315.5142,
+            "end": 1405.5041
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-3wxgpd-fitp_s0_p10",
+        "title": "第10話 デレ期という単語を調べたら",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1710472960,
+        "endAt": 1748703600,
+        "freeEndAt": 1727413200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727413200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-3wxgpd-fitp_s0_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727413200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "19-3wxgpd-fitp_eg0"
+}

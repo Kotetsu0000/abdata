@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1726129231",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1726129231",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1726129231",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1726129231",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1726129232",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1726129232",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1726129232",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1726129232",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1726129232",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -264,8 +264,8 @@
         "id": "168-63_s1_p10",
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p10",
-            "filename": "thumb001.png",
-            "query": "version=1726129232",
+            "filename": "thumb002.png",
+            "query": "version=1726742318",
             "extension": "png"
         },
         "episode": {
@@ -277,8 +277,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1798729200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1430
+        }
+    },
+    {
+        "id": "168-63_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p11",
+            "filename": "thumb001.png",
+            "query": "version=1726742318",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話 霊竜のレイス",
+            "content": "白魔導士の支配から仲間たちを解放するため「妖精の尻尾」同士の戦いに挑むナツたちだったが、そこへ五神竜を狙うディアボロスのメンバーも参戦。各地で三つ巴の戦いがはじまった。ガジルを倒したナツは新たな刺客“霊竜のレイス”と対峙する。自らを幽霊と名乗るレイスの攻撃によってナツは魂を抜き取られてしまうが、自身の無意識下の精神世界で、思いがけず懐かしい人々との再会を果たすのだった…！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1726650000
+                    "endAt": 1727254800
                 }
             ],
             "broadcastRegionPolicy": 1,

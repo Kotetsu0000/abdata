@@ -1,0 +1,153 @@
+{
+    "id": "26-16_s1_p23",
+    "series": {
+        "id": "26-16",
+        "title": "青の祓魔師",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-16",
+            "filename": "thumb.png",
+            "query": "version=1703153150",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-16",
+            "filename": "portrait.png",
+            "query": "version=1703153150",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-16_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1455
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "episode23 真実",
+        "content": "魔神の息子である燐の血を使い、虚無界への門・ゲヘナゲートを出現させようと目論むエルンスト。傷ついた兄を守るため、雪男は身代わりを申し出る。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "奥村 燐：岡本 信彦",
+            "奥村 雪男：福山 潤",
+            "杜山 しえみ：花澤 香菜",
+            "勝呂 竜士：中井 和哉",
+            "志摩 廉造：遊佐 浩二"
+        ],
+        "crews": [
+            "原作：加藤和恵（集英社「ジャンプスクエア」連載）",
+            "監督：岡村天斎",
+            "シリーズ構成：山口亮太",
+            "キャラクターデザイン・総作画監督：佐々木啓悟",
+            "音楽：澤野弘之"
+        ],
+        "copyrights": [
+            "(c)加藤和恵／集英社・「青の祓魔師」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701857590,
+    "endAt": 1743433200,
+    "transcodeVersion": "xmdpk",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/AqFxK",
+        "facebook": "https://gxyt4.app.goo.gl/oE8aD",
+        "google": "https://gxyt4.app.goo.gl/6XbG7",
+        "line": "https://gxyt4.app.goo.gl/eJxSG",
+        "copy": "https://gxyt4.app.goo.gl/5FQrK",
+        "instagram": "https://gxyt4.app.goo.gl/Phncm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-16_s1_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-16_s1_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-16_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-16_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1450.06,
+        "opening": {
+            "start": 182.038388,
+            "end": 282.095677
+        },
+        "ending": {
+            "start": 1348.036555,
+            "end": 1440.113636
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-16_s1_p24",
+        "title": "episode24 魔神の落胤",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1701857590,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1729100400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-16_s1_p23/timeline",
+        "query": "version=xmdpk",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1729100400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1729767600
+        }
+    ],
+    "episodeGroupId": "26-16_eg0"
+}

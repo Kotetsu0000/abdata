@@ -1,0 +1,137 @@
+{
+    "id": "168-64_s1_p111",
+    "series": {
+        "id": "168-64",
+        "title": "かつて魔法少女と悪は敵対していた。",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-64",
+            "filename": "thumb.png",
+            "query": "version=1722487112",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-64",
+            "filename": "portrait.png",
+            "query": "version=1722487112",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 749
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 111,
+        "title": "第11話 築五十三年です",
+        "content": "心理テストで盛り上がるスピカとアルキオネ。テーマはもちろん恋愛系だ。\n「ミラは～案外本当に魔法少女にご執心じゃありませんの？」\nベラトリックスも加わり、アブナイ妄想が炸裂する。\nその場からのがれ、いつもの公園に行くミラ。しかし、白夜の姿はなく……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ミラ：小野友樹",
+            "深森白夜：中原麻衣",
+            "御使い（猫）：三木眞一郎",
+            "篝 火花：伊瀬茉莉也",
+            "御使い（鳥）：緑川光",
+            "フォーマルハウト：鈴村健一",
+            "ベラトリックス：川澄綾子",
+            "アルキオネ：下野紘",
+            "スピカ：東山奈央",
+            "サダルスウド：山崎たくみ",
+            "ベテルギウス：土師孝也"
+        ],
+        "crews": [
+            "原作：藤原ここあ（「ガンガンコミックスJOKER」スクウェア・エニックス刊）",
+            "監督：大橋明代",
+            "シリーズ構成・脚本：綾奈ゆにこ",
+            "キャラクターデザイン：飯塚晴子",
+            "総作画監督：飯塚晴子、新井伸浩",
+            "色彩設計：後藤ゆかり",
+            "美術監督：空閑由美子",
+            "背景：すたじおじゃっく",
+            "撮影監督：神林剛",
+            "編集：坂本久美子",
+            "音響監督：木村絵理子",
+            "音響制作：東北新社",
+            "音響効果：八十正太",
+            "音楽：MAYUKO",
+            "音楽制作：エイベックス・ピクチャーズ",
+            "アニメーション制作：ボンズ",
+            "製作：まほあく製作委員会"
+        ],
+        "copyrights": [
+            "(C)藤原ここあ／SQUARE ENIX・まほあく製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726817636,
+    "endAt": 1767193200,
+    "transcodeVersion": "344fhm",
+    "sharedLink": {
+        "twitter": "https://abema.app/G3H7",
+        "facebook": "https://abema.app/8ek3",
+        "google": "https://abema.app/C3bW",
+        "line": "https://abema.app/gvFg",
+        "copy": "https://abema.app/bfWA",
+        "instagram": "https://abema.app/HXCU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-64_s1_p111/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-64_s1_p111/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-64_s1_p111/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-64_s1_p111"
+    },
+    "viewingPoint": {
+        "suggestion": 744.99425,
+        "opening": {
+            "start": 27.027,
+            "end": 86.961875
+        },
+        "ending": {
+            "start": 640.9736666666666,
+            "end": 700.9085416666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-64_s1_p111/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "168-64_eg0"
+}

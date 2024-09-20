@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p25",
             "filename": "thumb002.png",
-            "query": "version=1725872228",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p26",
             "filename": "thumb002.png",
-            "query": "version=1725872228",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p27",
             "filename": "thumb002.png",
-            "query": "version=1725872228",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p28",
             "filename": "thumb002.png",
-            "query": "version=1725872228",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p29",
             "filename": "thumb002.png",
-            "query": "version=1725872228",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p30",
             "filename": "thumb002.png",
-            "query": "version=1725872228",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p31",
             "filename": "thumb002.png",
-            "query": "version=1725872228",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p32",
             "filename": "thumb002.png",
-            "query": "version=1725873508",
+            "query": "version=1726566952",
             "extension": "png"
         },
         "episode": {
@@ -219,8 +219,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2022,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1509
+        }
+    },
+    {
+        "id": "30-13_s3_p33",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s3_p33",
+            "filename": "thumb002.png",
+            "query": "version=1726566952",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 33,
+            "title": "第33話 武器なき戦い",
+            "content": "銀河帝国軍のガイエスブルク要塞がイゼルローン回廊内に出現。ヤン不在のイゼルローン要塞で司令官代理を務めるキャゼルヌは、突然の事態に驚きながらも、帝国軍の攻撃への準備を進めると同時にハイネセンへ救援を求める。一方、ヤンの査問会が続くハイネセンでは、フレデリカがヤンを救うために奔走。ヤンと親しいビュコック提督に面会し、最高評議会議長トリューニヒトと敵対している政治家のレベロにも接触していた。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1726414200
+                    "endAt": 1727019000
                 }
             ],
             "broadcastRegionPolicy": 1,

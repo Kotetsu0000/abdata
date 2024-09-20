@@ -1,0 +1,137 @@
+{
+    "id": "115-114_s1_p110",
+    "series": {
+        "id": "115-114",
+        "title": "エルフさんは痩せられない。",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-114",
+            "filename": "thumb.png",
+            "query": "version=1721870542",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-114",
+            "filename": "portrait.png",
+            "query": "version=1721870542",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-114_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 720
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 110,
+        "title": "第10話 情愛の犬と深煎りの草",
+        "content": "買ったばかりのポテトを頼加に奪われてしまった絵留札。逃げる頼加を必死に追いかける絵留札だったが、頼加がポテトを盗んだ目的を知ってしまい……。\n育てているバラの元気がなくなり、草花田に相談に行く直江。草花田は魔力でバラを癒した。魔力を使うと眠くなるという草花田にお礼にと直江はコーヒーをプレゼントする。美味しいと喜んで飲む草花田だったが、だんだん様子がおかしくなり。……！？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "絵留札：伊藤彩沙",
+            "直江友厚：石井孝英",
+            "黒枝：長谷川玲奈",
+            "男鹿：福原綾香",
+            "草花田：久保田未夢",
+            "米路：徳井青空",
+            "頼加：朝日奈丸佳",
+            "奥・猪野明穂：内田彩",
+            "児穂：小岩井ことり",
+            "佐手呂：井口裕香",
+            "骨田：前田佳織里",
+            "含蛇：島田愛野",
+            "一目：佐々木未来"
+        ],
+        "crews": [
+            "原作：シネクドキ（秋田書店「ヤングチャンピオン・コミックス」刊／原作企画：シャインパートナーズ）",
+            "監督：所俊克",
+            "キャラクターデザイン：佐藤勝行",
+            "シリーズ構成：高林ユーキ",
+            "色彩設計：有尾由紀子",
+            "美術監督：高橋忍",
+            "撮影監督：みやがわよしかず",
+            "編集：柳圭介",
+            "音響監督：山口貴之",
+            "音楽：渡部チェル",
+            "アニメーション制作：Elias"
+        ],
+        "copyrights": [
+            "(C)シネクドキ（秋田書店）／エルフさん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726742332,
+    "endAt": 1759244400,
+    "transcodeVersion": "6ZZ9PM",
+    "sharedLink": {
+        "twitter": "https://abema.app/b3ot",
+        "facebook": "https://abema.app/YWAL",
+        "google": "https://abema.app/hSw5",
+        "line": "https://abema.app/C6hx",
+        "copy": "https://abema.app/PAVD",
+        "instagram": "https://abema.app/vHDM"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-114_s1_p110/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-114_s1_p110/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-114_s1_p110/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-114_s1_p110"
+    },
+    "viewingPoint": {
+        "suggestion": 660.0760833333334,
+        "opening": {
+            "start": 111.02758333333334,
+            "end": 171.00416666666666
+        },
+        "ending": {
+            "start": 660.0760833333334,
+            "end": 720.0109583333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-114_s1_p110/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "115-114_eg2"
+}

@@ -1,0 +1,137 @@
+{
+    "id": "115-109_s1_p12",
+    "series": {
+        "id": "115-109",
+        "title": "HIGHSPEED Étoile",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-109",
+            "filename": "thumb.png",
+            "query": "version=1712293077",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-109",
+            "filename": "portrait.png",
+            "query": "version=1712293077",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-109_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1446
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 その先の景色",
+        "content": "凛とキングの決戦。それはクイーンとの戦い以上に限界を超えたものだった。マシンが接触ギリギリでせめぎ合い、かつてキングをここまで本気にさせるほど迫ったドライバーはいなかった。その走りがクイーンや他の選手の闘志にも火をつけ、誰もが最後まで全力で一番を目指す。それこそが絶対王者キングの求めていたものだった―。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "輪堂 凛：和泉風花",
+            "浅河カナタ：日笠陽子",
+            "小町永遠：井澤詩織",
+            "ソフィア・B・時任：堀江由衣",
+            "劉 悠然：諏訪彩花",
+            "アリス・サマーウッド：水樹奈々",
+            "リチャード・パーカー：松田健一郎",
+            "ロレンツォ・Ｍ・サルヴァトーレ：鳥海浩輔",
+            "日向光莉：船戸ゆり絵",
+            "九頭竜明莉：内田秀",
+            "ami：田村ゆかり",
+            "神楽千登世：井上麻里奈",
+            "日向源治郎：小山剛志",
+            "ナレーション：古谷徹"
+        ],
+        "crews": [
+            "原作：HIGHSPEED Étoile Project",
+            "監督：元永慶太郎",
+            "シリーズ構成：鴻野貴光",
+            "キャラクター原案：藤真拓哉",
+            "音響監督：えびなやすのり",
+            "音楽：FirstCallMusic",
+            "アニメーション制作：studio A-CAT"
+        ],
+        "copyrights": [
+            "(C)HSE Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1720517098,
+    "endAt": 1767193200,
+    "freeEndAt": 1727399100,
+    "transcodeVersion": "3QXLAi",
+    "sharedLink": {
+        "twitter": "https://abema.app/AVpb",
+        "facebook": "https://abema.app/xke5",
+        "google": "https://abema.app/p1UQ",
+        "line": "https://abema.app/K2hn",
+        "copy": "https://abema.app/8h9v",
+        "instagram": "https://abema.app/WgAN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-109_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-109_s1_p12/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/115-109_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-109_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-109_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1441.9405,
+        "opening": {
+            "start": 75.99258333333333,
+            "end": 165.99916666666667
+        },
+        "ending": {
+            "start": 1307.931625,
+            "end": 1380.8795
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-109_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727399100
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "115-109_eg0"
+}

@@ -1,0 +1,129 @@
+{
+    "id": "54-86_s2_p44",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 131
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 44,
+        "title": "第44話 冬の試練",
+        "content": "今日はいつもよりちょっと寒い……！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "本多陽子",
+            "稲垣杏橘",
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696930517,
+    "endAt": 1730386800,
+    "transcodeVersion": "Fh2BP",
+    "sharedLink": {
+        "twitter": "https://abema.app/8eFU",
+        "facebook": "https://abema.app/yiry",
+        "google": "https://abema.app/mk6Q",
+        "line": "https://abema.app/uKEP",
+        "copy": "https://abema.app/HTPE",
+        "instagram": "https://abema.app/8s5U"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-86_s2_p44/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-86_s2_p44/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-86_s2_p44/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s2_p44"
+    },
+    "viewingPoint": {
+        "suggestion": 117.45066666666666
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s2_p45",
+        "title": "第45話 MAGO-1グランプリ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696930518,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s2_p44/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

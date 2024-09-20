@@ -1,0 +1,137 @@
+{
+    "id": "184-157_s1_p1",
+    "series": {
+        "id": "184-157",
+        "title": "劇場版 ドラゴンボール 魔神城のねむり姫",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-157",
+            "filename": "thumb.png",
+            "query": "version=1722661509",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-157",
+            "filename": "portrait.png",
+            "query": "version=1722661509",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "184-157_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2690
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "劇場版 ドラゴンボール 魔神城のねむり姫",
+        "content": "悟空は修業すべく亀仙人のもとへ駆けつけるが、そこには多林寺出身の拳法の使い手、クリリンもいた。亀仙人は「魔界城に閉じ込められているねむり姫を連れて帰った者を弟子にする」と、悟空とクリリンに条件を出す。闘志むき出しに魔界城へ向かう悟空とクリリン。一方、夏休みをむかえたブルマ、ヤムチャ、ウーロン、それにプーアルたち一行も悟空たちの後を追い魔界城へ向う。折りしも、魔界城では魔王ルシフェルのもとへ妖怪たちが集まり、数千年に一度満月の夜に目覚めるというねむり姫を囲んで儀式がとりおこなわれようとしていた!"
+    },
+    "credit": {
+        "released": 1987,
+        "casts": [
+            "孫悟空:野沢雅子",
+            "クリリン:田中真弓",
+            "ヤムチャ:古谷徹",
+            "ブルマ:鶴ひろみ",
+            "亀仙人:宮内幸平",
+            "ウーロン:龍田直樹",
+            "プーアル:渡辺菜生子",
+            "ランチ:小山茉美",
+            "ルシフェル:野沢那智",
+            "執事:飯塚昭三",
+            "ガステル:郷里大輔"
+        ],
+        "crews": [
+            "原作:鳥山明",
+            "監督:西尾大介",
+            "脚本:照井啓司"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション  (C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1722661545,
+    "endAt": 1756652400,
+    "freeEndAt": 1727066400,
+    "transcodeVersion": "59D1Uu",
+    "sharedLink": {
+        "twitter": "https://abema.app/KWmS",
+        "facebook": "https://abema.app/HXJR",
+        "google": "https://abema.app/5Z8q",
+        "line": "https://abema.app/1HmQ",
+        "copy": "https://abema.app/uDp6",
+        "instagram": "https://abema.app/8m77"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/184-157_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/184-157_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/184-157_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/184-157_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.184-157_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 2585.416166666667,
+        "opening": {
+            "start": 66.39966666666666,
+            "end": 174.42425
+        },
+        "ending": {
+            "start": 2585.416166666667,
+            "end": 2690.229208333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/184-157_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727066400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "184-157_eg0"
+}

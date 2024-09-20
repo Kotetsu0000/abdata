@@ -1,0 +1,144 @@
+{
+    "id": "19-177_s1_p3",
+    "series": {
+        "id": "19-177",
+        "title": "よふかしのうた",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "thumb.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "portrait.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-177_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 いっぱい出たね",
+        "content": "「夜守、何してんの」 \nナズナとの夜ふかし帰りに、幼馴染のアキラに遭遇したコウ。学校に来なくなったコウを心配していたと話すアキラ。再会以降、ナズナと遊んだあとにアキラと会うことが習慣になっていく……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "夜守コウ：佐藤元",
+            "七草ナズナ：雨宮天",
+            "朝井アキラ：花守ゆみり",
+            "桔梗セリ：戸松遥",
+            "平田ニコ：喜多村英梨"
+        ],
+        "crews": [
+            "監督：板村智幸",
+            "原作：コトヤマ（小学館「週刊少年サンデー」連載中）",
+            "脚本：横手美智子",
+            "音楽：出羽良彰",
+            "チーフディレクター：宮西哲也"
+        ],
+        "copyrights": [
+            "(Ｃ)2022コトヤマ・小学館／「よふかしのうた」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701492442,
+    "endAt": 1738335600,
+    "transcodeVersion": "5TVbz7",
+    "sharedLink": {
+        "twitter": "https://abema.app/THRf",
+        "facebook": "https://abema.app/bGMb",
+        "google": "https://abema.app/MrRZ",
+        "line": "https://abema.app/TAkQ",
+        "copy": "https://abema.app/pqmP",
+        "instagram": "https://abema.app/Jkbx"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-177_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-177_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-177_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-177_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.0754583333332,
+        "opening": {
+            "start": 109.40095833333334,
+            "end": 198.11458333333334
+        },
+        "ending": {
+            "start": 1285.3674166666667,
+            "end": 1374.247875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-177_s1_p4",
+        "title": "第4話 せまくない?",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1701492474,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-177_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-177_eg0"
+}

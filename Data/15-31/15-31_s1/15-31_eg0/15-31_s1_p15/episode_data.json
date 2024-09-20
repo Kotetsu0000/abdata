@@ -1,0 +1,154 @@
+{
+    "id": "15-31_s1_p15",
+    "series": {
+        "id": "15-31",
+        "title": "貼りまわれ！こいぬ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-31",
+            "filename": "thumb.png",
+            "query": "version=1703493242",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-31",
+            "filename": "portrait.png",
+            "query": "version=1703493242",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-31_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 270
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 こいぬと学習/こいぬとおみやげ",
+        "content": "「こいぬと学習」\n合宿研修にはげむこいぬたちが、貼りまわりの歴史とその哲学を学ぶため、研修プログラム映像を見ることになった。果たして貼りまわりへの理解は深まったのか！？\n\n「こいぬとおみやげ」\n合宿研修を無事に終えたこいぬと同期たちが家に帰ることになった。同期とわかれたこいぬは、日ごろお世話になっている犬たちにおみやげを買って帰ることにするが……？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "こいぬ：長縄まりあ",
+            "犬々先輩：櫻井孝宏",
+            "犬さわぎシェイキン：潘めぐみ",
+            "デー子：金田朋子",
+            "友代：山本和臣",
+            "い朗：福山潤",
+            "ぬ朗：小野大輔",
+            "ちび犬：竹内順子",
+            "ちびしば：野中藍",
+            "黒犬：杉田智和",
+            "支部長：古川登志夫"
+        ],
+        "crews": [
+            "原作：うかうか『貼りまわれ！こいぬ』（秋田書店「Souffle」連載）",
+            "監督・シリーズ構成・キャラクターデザイン：池ヶ谷愛",
+            "音響監督：菊田浩巳",
+            "音楽：videobrother",
+            "制作：ぴえろ",
+            "アニメーション制作：オペラハウス"
+        ],
+        "copyrights": [
+            "(C)うかうか(秋田書店)/貼りまわれ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726653214,
+    "endAt": 1759244400,
+    "transcodeVersion": "tQzvf",
+    "sharedLink": {
+        "twitter": "https://abema.app/MhRK",
+        "facebook": "https://abema.app/FXeJ",
+        "google": "https://abema.app/dpZD",
+        "line": "https://abema.app/2ZJS",
+        "copy": "https://abema.app/zCdP",
+        "instagram": "https://abema.app/3epm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/15-31_s1_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/15-31_s1_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/15-31_s1_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-31_s1_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 224.224,
+        "ending": {
+            "start": 224.224,
+            "end": 269.9363333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "15-31_s1_p16",
+        "title": "第16話 こいぬと偽こいぬ/こいぬとリフレッシュ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726653214,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-31_s1_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "15-31_eg0"
+}

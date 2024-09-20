@@ -1,0 +1,143 @@
+{
+    "id": "189-12_s1_p12",
+    "series": {
+        "id": "189-12",
+        "title": "まちカドまぞく",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-12",
+            "filename": "thumb.png",
+            "query": "version=1627289134",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-12",
+            "filename": "portrait.png",
+            "query": "version=1627289134",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-12_s1",
+        "sequence": 1,
+        "name": "まちカドまぞく",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1431
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 伝えたい想い!! まぞく新たなる一歩!!",
+        "content": "自分自身の戦う理由をやっと見つけられたシャミ子は傷心の桃を追いかけ町を奔走する。放っておくと自分の前から居なくなってしまいそうな桃。引き留めるため、シャミ子は桃を探すことを決意する。町を見下ろせる高台で桃を見つけたシャミ子。果たしてシャミ子が桃に語る誘惑の言葉とは――?　そして桃の返答は――"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "CAST",
+            "吉田優子：小原好美",
+            "千代田桃：鬼頭明里",
+            "リリス：高橋未奈美",
+            "陽夏木ミカン：高柳知葉",
+            "佐田杏里：千本木彩花",
+            "小倉しおん：諏訪彩花",
+            "吉田良子：大和田仁美",
+            "吉田清子：大原さやか"
+        ],
+        "crews": [
+            "原作：伊藤いづも『まちカドまぞく』（芳文社「まんがタイムきららキャラット」連載中）",
+            "監督：桜井弘明",
+            "シリーズ構成：大知慶一郎",
+            "キャラクターデザイン：大塚 舞",
+            "美術監督：河合伸治（スタジオ・ユニ）",
+            "色彩設計：日野亜朱佳",
+            "撮影監督：大河内喜夫",
+            "編集：後藤正浩（REAL-T））",
+            "音響監督：岩浪美和",
+            "音楽：櫻井美希",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(C)伊藤いづも・芳文社／まちカドまぞく製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1716343721,
+    "endAt": 1751295600,
+    "freeEndAt": 1727046000,
+    "transcodeVersion": "77pbd7",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/huvZ3",
+        "facebook": "https://gxyt4.app.goo.gl/JTLkJ",
+        "google": "https://gxyt4.app.goo.gl/eFYLZ",
+        "line": "https://gxyt4.app.goo.gl/5PWH6",
+        "copy": "https://gxyt4.app.goo.gl/QcY7L",
+        "instagram": "https://gxyt4.app.goo.gl/Xto5e"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-12_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-12_s1_p12/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/189-12_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-12_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-12_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.9672083333332,
+        "opening": {
+            "start": 210.00145833333335,
+            "end": 299.924625
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-12_s1_p12/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727046000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "189-12_eg0"
+}

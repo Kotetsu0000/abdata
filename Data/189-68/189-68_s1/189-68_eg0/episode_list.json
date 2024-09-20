@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1726206669",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1726206669",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726750800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1726206670",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -74,8 +74,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726750800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1726206670",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726750800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1726206670",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726750800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1726206670",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -161,8 +161,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726750800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1726206670",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -190,8 +190,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726750800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1726206670",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -219,8 +219,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1726750800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -235,8 +235,8 @@
         "id": "189-68_s1_p9",
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p9",
-            "filename": "thumb001.png",
-            "query": "version=1726206670",
+            "filename": "thumb002.png",
+            "query": "version=1726817677",
             "extension": "png"
         },
         "episode": {
@@ -248,8 +248,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1451
+        }
+    },
+    {
+        "id": "189-68_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-68_s1_p10",
+            "filename": "thumb001.png",
+            "query": "version=1726817677",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話 金棲魔群帯～encounter～",
+            "content": "ついに金棲魔群帯にやってきた灯河たち。そこは強大な力を持つ魔物たちがひしめく危険な地帯だった。\n魔物を倒しながら禁忌の魔女の居場所を目指して進む灯河たち。その時、スケルトンキングから手に入れた卵が孵ろうとする。\n時を同じくして、桐原たち２-Cの生徒たちもアライオン城の方角からレベル上げのため金棲魔群帯に入っていた。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1726766820
+                    "endAt": 1727371620
                 }
             ],
             "broadcastRegionPolicy": 1,

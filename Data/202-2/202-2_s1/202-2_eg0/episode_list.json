@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566652",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566652",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566652",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566652",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566653",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566653",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566653",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1725944693",
+            "query": "version=1726566653",
             "extension": "png"
         },
         "episode": {
@@ -235,8 +235,8 @@
         "id": "202-2_s1_p9",
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p9",
-            "filename": "thumb001.png",
-            "query": "version=1725944693",
+            "filename": "thumb002.png",
+            "query": "version=1726566653",
             "extension": "png"
         },
         "episode": {
@@ -248,8 +248,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1782831600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "202-2_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/202-2_s1_p10",
+            "filename": "thumb002.png",
+            "query": "version=1726742469",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第十楽章 螺旋。唸る剣、錆びた爪",
+            "content": "飢餓同盟の闇に飲み込まれ、首魁ドランブイの歓迎を受けるアドニス。ベルの<唸る剣(ルンディング)>をはじめ数多の名剣を生み出した剣作家の彼女は、アドニスのためだけの剣<錆びた爪(ラスティネール)>を作り、彼に与える。さらに、旧知のシアンを呼び寄せ、剣の修行をつけさせるのだった。とまどいながらも徐々にドランブイとその闇の暖かさに心酔していくアドニス。そしてベルが<理由(ことわり)の少女>と呼ばれる由縁にも近づいていく。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1726498800
+                    "endAt": 1727103600
                 }
             ],
             "broadcastRegionPolicy": 1,

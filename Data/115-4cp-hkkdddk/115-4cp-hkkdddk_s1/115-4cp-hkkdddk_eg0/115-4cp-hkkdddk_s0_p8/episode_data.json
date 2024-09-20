@@ -1,0 +1,146 @@
+{
+    "id": "115-4cp-hkkdddk_s0_p8",
+    "series": {
+        "id": "115-4cp-hkkdddk",
+        "title": "さよなら絶望先生",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-4cp-hkkdddk",
+            "filename": "thumb.png",
+            "query": "version=1711681765",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-4cp-hkkdddk",
+            "filename": "portrait.png",
+            "query": "version=1711681765",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-4cp-hkkdddk_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "第八話 私は宿命的に日陰者である／非難訓練のご指導の方、お願いしたいのですが",
+        "content": "「私は宿命的に日陰者である」照りつける強い陽射しの下、男は立っていた（ように見える）。誰にも気付かれず、ただそこに汗まみれで立ちつくしていた（かな？）男の名は臼井影郎（だった気がする）。これは悲しき業を背負った彼（誰？）の哀切と苦悶に満ちた人生にそっと光を当てる物語（じゃないよね）。「非難訓練のご指導の方、お願いしたいのですが」夏休みも終わったというのに、授業をする気が湧いてこないダメ教師・望。生徒達の非難の罵声を一身に浴びて怒りに我を忘れた望が卑劣な手口で少女達を汚していく。…念のため確認しますが、今回の主役は誰だかよくわかりません。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "糸色望：神谷浩史",
+            "風浦可符香：野中藍",
+            "木津千里：井上麻里奈",
+            "小森霧：谷井あすか",
+            "常月まとい：真田アサミ"
+        ],
+        "crews": [
+            "原作：久米田康治",
+            "掲載：講談社「週刊少年マガジン」",
+            "監督：新房昭之",
+            "プロデューサー：森山敦",
+            "アニメーションプロデューサー：久保田光俊"
+        ],
+        "copyrights": [
+            "(C)久米田康治・講談社／さよなら絶望先生製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1710472895,
+    "endAt": 1746025200,
+    "transcodeVersion": "5BFKzA",
+    "sharedLink": {
+        "twitter": "https://abema.app/rte7",
+        "facebook": "https://abema.app/wkmv",
+        "google": "https://abema.app/GppN",
+        "line": "https://abema.app/kGe7",
+        "copy": "https://abema.app/3rmn",
+        "instagram": "https://abema.app/M7aU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-4cp-hkkdddk_s0_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-4cp-hkkdddk_s0_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-4cp-hkkdddk_s0_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-4cp-hkkdddk_s0_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.0136,
+        "opening": {
+            "start": 72.00526666666667,
+            "end": 162.49566666666666
+        },
+        "ending": {
+            "start": 1294.0260666666666,
+            "end": 1383.9492333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-4cp-hkkdddk_s0_p9",
+        "title": "第九話 富士に月見草は間違っている／女子高生と話がしたい変態かも",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1710472895,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-4cp-hkkdddk_s0_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "115-4cp-hkkdddk_eg0"
+}

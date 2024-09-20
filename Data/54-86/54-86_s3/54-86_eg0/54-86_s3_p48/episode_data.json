@@ -1,0 +1,138 @@
+{
+    "id": "54-86_s3_p48",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 125
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 48,
+        "title": "第48話 どうした後輩",
+        "content": "はぁ～めんどうくさいっすね…鼻くそでもほじろうかな。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ",
+            "稲垣杏橘",
+            "本多陽子"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Audiostock・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1697166344,
+    "endAt": 1730386800,
+    "freeEndAt": 1727067600,
+    "transcodeVersion": "VgkoZ",
+    "sharedLink": {
+        "twitter": "https://abema.app/Zvhn",
+        "facebook": "https://abema.app/rTXf",
+        "google": "https://abema.app/Wizt",
+        "line": "https://abema.app/GpUC",
+        "copy": "https://abema.app/2YK6",
+        "instagram": "https://abema.app/gdUV"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-86_s3_p48/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-86_s3_p48/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/54-86_s3_p48/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-86_s3_p48/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s3_p48"
+    },
+    "viewingPoint": {
+        "suggestion": 111.0109
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s3_p49",
+        "title": "第49話 ヘイ、オシリ２",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1697166398,
+        "endAt": 1730386800,
+        "freeEndAt": 1727067600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727067600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s3_p48/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727067600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

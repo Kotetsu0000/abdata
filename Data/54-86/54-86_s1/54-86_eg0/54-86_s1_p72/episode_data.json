@@ -1,0 +1,127 @@
+{
+    "id": "54-86_s1_p72",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 143
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 72,
+        "title": "第72話 涙のかくれんぼ",
+        "content": "今日はおじいちゃんと遊ぶ日！意気揚々とかくれんぼを始めたけど、あれ？おじいちゃん！？"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "リーゼント・後輩・清正・じじい：いくピソ",
+            "モヒカン・ナミッポ・金熊・ダディ・島津・加藤：ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・oo39ドットコム",
+            "効果音：効果音ラボ",
+            "主題歌：papalion",
+            "録音(主題歌)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696909332,
+    "endAt": 1730386800,
+    "transcodeVersion": "539Sue",
+    "sharedLink": {
+        "twitter": "https://abema.app/Z8KR",
+        "facebook": "https://abema.app/yzQ1",
+        "google": "https://abema.app/WYHC",
+        "line": "https://abema.app/Bh4U",
+        "copy": "https://abema.app/8bWn",
+        "instagram": "https://abema.app/hU5j"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p72/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p72/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p72/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s1_p72"
+    },
+    "viewingPoint": {
+        "suggestion": 129.89643333333333
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s1_p73",
+        "title": "第73話 お散歩防衛戦",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696909338,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s1_p72/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

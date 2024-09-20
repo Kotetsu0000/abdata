@@ -1,0 +1,129 @@
+{
+    "id": "54-86_s2_p40",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 138
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 40,
+        "title": "第40話 ハロウィンバトル",
+        "content": "今年は仮装に挑戦！どうなるかな？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "本多陽子",
+            "稲垣杏橘",
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696930275,
+    "endAt": 1730386800,
+    "transcodeVersion": "7CJEzo",
+    "sharedLink": {
+        "twitter": "https://abema.app/HvWt",
+        "facebook": "https://abema.app/3xz2",
+        "google": "https://abema.app/g7op",
+        "line": "https://abema.app/b6Lx",
+        "copy": "https://abema.app/3HUU",
+        "instagram": "https://abema.app/Nzbr"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-86_s2_p40/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-86_s2_p40/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-86_s2_p40/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s2_p40"
+    },
+    "viewingPoint": {
+        "suggestion": 123.79033333333334
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s2_p41",
+        "title": "第41話 名言会見",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696930516,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s2_p40/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

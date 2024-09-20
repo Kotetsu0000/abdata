@@ -1,0 +1,141 @@
+{
+    "id": "15-31_s1_p23",
+    "series": {
+        "id": "15-31",
+        "title": "貼りまわれ！こいぬ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-31",
+            "filename": "thumb.png",
+            "query": "version=1703493242",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-31",
+            "filename": "portrait.png",
+            "query": "version=1703493242",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-31_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 270
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 こいぬとゲーム/こいぬとペットの社交",
+        "content": "「こいぬとゲーム」\n最近友達がハマっているというゲームをやってみることにしたこいぬ。はじめてのゲームに挑戦するこいぬは、与えられたクエストを見事クリアできるのか！？\n\n「こいぬとペットの社交」\nポメの散歩中、こいぬは、ポメとよく似たペットを連れた飼い主と出会った。出会ったばかりのポメとポメとよく似たペット。彼らは仲良くなれるのか？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "こいぬ：長縄まりあ",
+            "犬々先輩：櫻井孝宏",
+            "犬さわぎシェイキン：潘めぐみ",
+            "デー子：金田朋子",
+            "友代：山本和臣",
+            "い朗：福山潤",
+            "ぬ朗：小野大輔",
+            "ちび犬：竹内順子",
+            "ちびしば：野中藍",
+            "黒犬：杉田智和",
+            "支部長：古川登志夫"
+        ],
+        "crews": [
+            "原作：うかうか『貼りまわれ！こいぬ』（秋田書店「Souffle」連載）",
+            "監督・シリーズ構成・キャラクターデザイン：池ヶ谷愛",
+            "音響監督：菊田浩巳",
+            "音楽：videobrother",
+            "制作：ぴえろ",
+            "アニメーション制作：オペラハウス"
+        ],
+        "copyrights": [
+            "(C)うかうか(秋田書店)/貼りまわれ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726743019,
+    "endAt": 1759244400,
+    "freeEndAt": 1727195700,
+    "transcodeVersion": "3qLdn6",
+    "sharedLink": {
+        "twitter": "https://abema.app/CzAG",
+        "facebook": "https://abema.app/TQ9i",
+        "google": "https://abema.app/ncok",
+        "line": "https://abema.app/RMS7",
+        "copy": "https://abema.app/pCzL",
+        "instagram": "https://abema.app/5AVb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/15-31_s1_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/15-31_s1_p23/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/15-31_s1_p23/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/15-31_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-31_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 224.224,
+        "ending": {
+            "start": 224.224,
+            "end": 269.9363333333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-31_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727195700
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "15-31_eg0"
+}

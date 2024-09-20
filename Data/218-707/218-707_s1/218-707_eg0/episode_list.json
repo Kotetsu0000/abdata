@@ -625,8 +625,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1741878000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1680
+        }
+    },
+    {
+        "id": "218-707_s1_p24",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-707_s1_p24",
+            "filename": "thumb001.png",
+            "query": "version=1713688715",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 24,
+            "title": "鈴村健一のラジベースDUO ＃24",
+            "content": "文化放送「超！A&G＋」にて、毎週火曜日に放送中の声優・鈴村健一さんによる1人しゃべり生放送番組『鈴村健一のラジベース』の特別版としてお届けする、文化放送「超！A&G＋」と「ABEMA」のアニメチャンネルによる共同制作・コラボ番組『鈴村健一のラジベースDUO』。パーソナリティを務める鈴村さんとゲストによるトークをメインに、ここでしか見られないオリジナル番組をお届けします。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1726846200
+                    "endAt": 1727451000
                 }
             ],
             "broadcastRegionPolicy": 1,

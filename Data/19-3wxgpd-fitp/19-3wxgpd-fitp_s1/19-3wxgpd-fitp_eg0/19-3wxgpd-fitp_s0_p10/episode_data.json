@@ -1,0 +1,153 @@
+{
+    "id": "19-3wxgpd-fitp_s0_p10",
+    "series": {
+        "id": "19-3wxgpd-fitp",
+        "title": "未確認で進行形",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "thumb.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "portrait.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-3wxgpd-fitp_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 デレ期という単語を調べたら",
+        "content": "ホワイトデーをめぐって、白夜が悩む。真白は叱咤する。紅緒は悶絶する。小紅は俺の嫁。デレたらデレたなりに物語は進む。小紅はいい子。このはもいい子。仁子もいい子だけど、今日も元気に暴走中。念願の記事掲載は叶うのか。そしてなんだか今回は、意外な人がツッコミ役に。その切れ味を確認してください。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "照井春佳",
+            "松井恵理子",
+            "吉田有里",
+            "羽多野渉",
+            "愛美",
+            "佐倉綾音",
+            "藤田 咲",
+            "角元明日香",
+            "駒形友梨",
+            "渡部優衣"
+        ],
+        "crews": [
+            "監督：藤原佳幸",
+            "原作：荒井チェリー",
+            "脚本：志茂文彦",
+            "キャラクターデザイン・総作画監督：菊池 愛"
+        ],
+        "copyrights": [
+            "(C)荒井チェリー／一迅社・未確認で進行形製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1710472960,
+    "endAt": 1748703600,
+    "freeEndAt": 1727413200,
+    "transcodeVersion": "3pqGAR",
+    "sharedLink": {
+        "twitter": "https://abema.app/6ukm",
+        "facebook": "https://abema.app/bsEm",
+        "google": "https://abema.app/MKbi",
+        "line": "https://abema.app/eAuj",
+        "copy": "https://abema.app/4C1D",
+        "instagram": "https://abema.app/joPo"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p10/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-3wxgpd-fitp_s0_p10/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-3wxgpd-fitp_s0_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.9146,
+        "opening": {
+            "start": 104.53776666666667,
+            "end": 194.4943
+        },
+        "ending": {
+            "start": 1315.9146,
+            "end": 1405.5041
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-3wxgpd-fitp_s0_p11",
+        "title": "第11話 ハンカチを楽しんでるのよ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1710472960,
+        "endAt": 1748703600,
+        "freeEndAt": 1727413200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727413200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-3wxgpd-fitp_s0_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727413200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "19-3wxgpd-fitp_eg0"
+}

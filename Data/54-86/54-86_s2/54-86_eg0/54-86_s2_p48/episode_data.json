@@ -1,0 +1,129 @@
+{
+    "id": "54-86_s2_p48",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 131
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 48,
+        "title": "第48話 ワールドワイドヤンキー",
+        "content": "世界規模のヤンキーに俺たちはなる！！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "本多陽子",
+            "稲垣杏橘",
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696930519,
+    "endAt": 1730386800,
+    "transcodeVersion": "42QJ4i",
+    "sharedLink": {
+        "twitter": "https://abema.app/VLVY",
+        "facebook": "https://abema.app/jvYA",
+        "google": "https://abema.app/TzZg",
+        "line": "https://abema.app/xpmy",
+        "copy": "https://abema.app/ior6",
+        "instagram": "https://abema.app/s1Mv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-86_s2_p48/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-86_s2_p48/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-86_s2_p48/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s2_p48"
+    },
+    "viewingPoint": {
+        "suggestion": 117.3172
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s2_p49",
+        "title": "第49話 発声練習",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696930520,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s2_p48/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

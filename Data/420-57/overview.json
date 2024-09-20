@@ -34,13 +34,34 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "420-57_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-57_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1725855755",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-57_eg1",
+                    "name": "予告編"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会"
     ],
-    "label": {},
-    "version": "1725958459914814156",
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726723831918850956",
     "imageUpdatedAt": 1674634917,
     "programOrder": "seq",
     "sharedLink": {

@@ -1,0 +1,131 @@
+{
+    "id": "115-113_s1_p11",
+    "series": {
+        "id": "115-113",
+        "title": "現代誤訳",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-113",
+            "filename": "thumb.png",
+            "query": "version=1725506823",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-113",
+            "filename": "portrait.png",
+            "query": "version=1725506823",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-113_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 落書きを消す話",
+        "content": "「呑気と見える人々も、心の底を叩いてみると、どこか悲しい音がする」夏目漱石"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "犀川久作：津田健次郎",
+            "玲尾彰⼈：浪川大輔",
+            "兎堂雄星：下野紘",
+            "猩寺直⽣：梶裕貴",
+            "妃隈 暉：内山昂輝",
+            "玲尾 諒：山下大輝",
+            "狗城健太郎：宮野真守"
+        ],
+        "crews": [
+            "企画：超電導dB",
+            "監督／音響監督／クリエイティブプロデューサー：津田健次郎　浪川大輔",
+            "シリーズ構成：岩井勇気（ハライチ）",
+            "音楽：チバニャン",
+            "音響制作：ステイラック",
+            "音楽制作：キングレコード",
+            "アニメーション制作：ILCASHIPS",
+            "製作：劇団アクターZOO"
+        ],
+        "copyrights": [
+            "(C)劇団アクターZOO"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726653183,
+    "endAt": 1759244400,
+    "freeEndAt": 1727283600,
+    "transcodeVersion": "6Ao3BY",
+    "sharedLink": {
+        "twitter": "https://abema.app/DBqj",
+        "facebook": "https://abema.app/YQgh",
+        "google": "https://abema.app/N6D4",
+        "line": "https://abema.app/1JTz",
+        "copy": "https://abema.app/tbik",
+        "instagram": "https://abema.app/XqQC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-113_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-113_s1_p11/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/115-113_s1_p11/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-113_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-113_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1413.7456666666667,
+        "opening": {
+            "end": 30.997633333333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-113_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727283600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "115-113_eg0"
+}

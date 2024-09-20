@@ -1,0 +1,79 @@
+{
+    "id": "19-168",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ちびゴジラの逆襲",
+    "content": "ある日、怪獣島に暮らすちびゴジラが見つけたのは浜辺にうちあげられたちびメカゴジラ。 \nふたりの出会いから、個性豊かなちび怪獣たちによる人知を超えた日常が始まる。",
+    "seasons": [
+        {
+            "id": "19-168_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-168_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1713263097",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-168_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)TOHO CO., LTD."
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1726653404923146326",
+    "imageUpdatedAt": 1713263077,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ibcu",
+        "facebook": "https://abema.app/D8um",
+        "google": "https://abema.app/7oEt",
+        "line": "https://abema.app/atSk",
+        "copy": "https://abema.app/y48D",
+        "instagram": "https://abema.app/WFMo"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-168",
+        "filename": "thumb.png",
+        "query": "version=1713263077",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-168",
+        "filename": "portrait.png",
+        "query": "version=1713263077",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

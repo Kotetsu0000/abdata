@@ -1,0 +1,144 @@
+{
+    "id": "19-177_s1_p5",
+    "series": {
+        "id": "19-177",
+        "title": "よふかしのうた",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "thumb.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-177",
+            "filename": "portrait.png",
+            "query": "version=1701774177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-177_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 そりゃ困ったやつですね",
+        "content": "ナズナが“添い寝屋”を営んでいることを知ったコウ。正式な衣装だというナース風コスプレ姿のナズナからマッサージを受ける。意外にもツボなどを心得てるナズナのマッサージにリラックスし始めてきたところに、呼び鈴が鳴る……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "夜守コウ：佐藤元",
+            "七草ナズナ：雨宮天",
+            "朝井アキラ：花守ゆみり",
+            "桔梗セリ：戸松遥",
+            "平田ニコ：喜多村英梨"
+        ],
+        "crews": [
+            "監督：板村智幸",
+            "原作：コトヤマ（小学館「週刊少年サンデー」連載中）",
+            "脚本：横手美智子",
+            "音楽：出羽良彰",
+            "チーフディレクター：宮西哲也"
+        ],
+        "copyrights": [
+            "(Ｃ)2022コトヤマ・小学館／「よふかしのうた」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1701492510,
+    "endAt": 1738335600,
+    "transcodeVersion": "6exwQb",
+    "sharedLink": {
+        "twitter": "https://abema.app/zjXA",
+        "facebook": "https://abema.app/CJMw",
+        "google": "https://abema.app/D8Uv",
+        "line": "https://abema.app/UXUc",
+        "copy": "https://abema.app/QEvs",
+        "instagram": "https://abema.app/6ptG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-177_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-177_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-177_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-177_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.0754583333332,
+        "opening": {
+            "start": 22.355666666666668,
+            "end": 110.90245833333333
+        },
+        "ending": {
+            "start": 1285.3674166666667,
+            "end": 1374.748375
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-177_s1_p6",
+        "title": "第6話 楽しい方がいいよ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1701492542,
+        "endAt": 1738335600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1738335600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-177_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-177_eg0"
+}

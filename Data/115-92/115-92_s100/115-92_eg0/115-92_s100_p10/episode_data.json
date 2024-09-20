@@ -1,0 +1,145 @@
+{
+    "id": "115-92_s100_p10",
+    "series": {
+        "id": "115-92",
+        "title": "犬になったら好きな人に拾われた。",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-92",
+            "filename": "thumb.png",
+            "query": "version=1673515031",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-92",
+            "filename": "portrait.png",
+            "query": "version=1673515031",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-92_s100",
+        "sequence": 100,
+        "name": "ワンダフルver.",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 720
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "#10 ポチ太。",
+        "content": "犬の群れから逃れようと学校中を逃げ惑う猫谷。このままでは埒が明かないと判断したポチ太は、猫谷を学校のプールへ誘導する。ポチ太共々プールに飛び込んだ猫谷は全身ずぶ濡れになり、服に染み付いた匂いを消すことで犬たちを追い払うことに成功した。猫谷は自分を助けてくれたポチ太に感謝しつつ、文化祭の準備に戻ったのだが…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ポチ太：梅田修一朗",
+            "犬飼加恋：会沢紗弥",
+            "猫谷ミケ：相良茉優",
+            "月城うさぎ：小坂井祐莉絵"
+        ],
+        "crews": [
+            "原作：古川五勢（講談社「月刊少年マガジンR」連載）",
+            "監督：安ドウタカシ",
+            "ヴィジュアルディレクター：斎藤久",
+            "キャラクターデザイン：森田和明",
+            "デザインワークス：岩田竜治、森前和也、輿石暁、柄谷綾子、鷲北恭太",
+            "美術監督：地蔵本拓嗣",
+            "美術設定：地蔵本拓嗣、小野寺美幸、秋山真理子",
+            "色彩設定：ながさか暁",
+            "撮影監督：加納篤",
+            "編集：木村祥明",
+            "音響監督：吉田光平",
+            "音楽：菊池達也（marble）",
+            "アニメーション制作：Quad"
+        ],
+        "copyrights": [
+            "(C)古川五勢・講談社／犬ひろ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1687159086,
+    "endAt": 1743433200,
+    "transcodeVersion": "4e6wgN",
+    "sharedLink": {
+        "twitter": "https://abema.app/MXKp",
+        "facebook": "https://abema.app/R1pV",
+        "google": "https://abema.app/2bB9",
+        "line": "https://abema.app/g36B",
+        "copy": "https://abema.app/beLo",
+        "instagram": "https://abema.app/RcDh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-92_s100_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-92_s100_p10/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-92_s100_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-92_s100_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 661.100311
+    },
+    "nextProgramInfo": {
+        "programId": "115-92_s100_p11",
+        "title": "#11 いぬゆ。",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1687159086,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-92_s100_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "115-92_eg0"
+}

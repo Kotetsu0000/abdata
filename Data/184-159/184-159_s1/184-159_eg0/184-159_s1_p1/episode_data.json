@@ -1,0 +1,139 @@
+{
+    "id": "184-159_s1_p1",
+    "series": {
+        "id": "184-159",
+        "title": "劇場版 ドラゴンボールZ この世で一番強いヤツ",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-159",
+            "filename": "thumb.png",
+            "query": "version=1722667055",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-159",
+            "filename": "portrait.png",
+            "query": "version=1722667055",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "184-159_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3571
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "劇場版 ドラゴンボールZ この世で一番強いヤツ",
+        "content": "万年雪に覆われるツルマイツブリ山で、悪の天才Dr.コーチンは世界を征服するために50年間眠っていた脳だけで生きるDr.ウィローを目覚めさせた。「この世で一番強いヤツの肉体にDr.ウィローが乗り移るのだ」とDr.コーチンは最強の格闘家、亀仙人を連れ去る。悟空は助けを求めにきたウーロンと悟飯から事情を聞き、急いで山頂へ向う。そこに待ち受けていたのは強固なバリアーに高圧電流そして、悪の心をコントロールされたピッコロだった。Dr.ウィローとDr.コーチンからこの世界を守ってくれ、悟空!悟飯!"
+    },
+    "credit": {
+        "released": 1990,
+        "casts": [
+            "孫悟空/孫悟飯:野沢雅子",
+            "クリリン:田中真弓",
+            "ピッコロ:古川登志夫",
+            "ブルマ:鶴ひろみ",
+            "チチ:荘真由美",
+            "亀仙人:宮内幸平",
+            "海ガメ/ミソカッツン:郷里大輔",
+            "ウーロン:龍田直樹",
+            "神龍:内海賢ニ",
+            "Dr.ウイロー:中田浩二",
+            "Dr.コーチン:矢田耕司",
+            "キシーメ:岸野幸正",
+            "エビフリャー:山口健"
+        ],
+        "crews": [
+            "原作:鳥山明",
+            "監督:西尾大介",
+            "脚本:小山高生"
+        ],
+        "copyrights": [
+            "(C)バードスタジオ/集英社・東映アニメーション  (C)東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1722667093,
+    "endAt": 1756652400,
+    "freeEndAt": 1727143500,
+    "transcodeVersion": "4u3hRt",
+    "sharedLink": {
+        "twitter": "https://abema.app/56iW",
+        "facebook": "https://abema.app/Rp5Q",
+        "google": "https://abema.app/2ozP",
+        "line": "https://abema.app/oqxA",
+        "copy": "https://abema.app/9Pk1",
+        "instagram": "https://abema.app/Uz7T"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/184-159_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/184-159_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/184-159_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/184-159_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.184-159_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 3462.1670416666666,
+        "opening": {
+            "start": 301.175875,
+            "end": 411.07733333333334
+        },
+        "ending": {
+            "start": 3462.1670416666666,
+            "end": 3571.192625
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/184-159_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727143500
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "184-159_eg0"
+}

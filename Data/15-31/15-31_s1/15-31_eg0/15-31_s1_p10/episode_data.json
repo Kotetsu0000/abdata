@@ -1,0 +1,156 @@
+{
+    "id": "15-31_s1_p10",
+    "series": {
+        "id": "15-31",
+        "title": "貼りまわれ！こいぬ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-31",
+            "filename": "thumb.png",
+            "query": "version=1703493242",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-31",
+            "filename": "portrait.png",
+            "query": "version=1703493242",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-31_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 こいぬと三平方の定理",
+        "content": "数学の授業中、先生が黒板に書いたナゾの公式。これを見た生徒たちは、さっきまで退屈そうにしていたのがウソのように、急に授業に興味を持ち始めた。そんな中、先生は、教室に紛れ込んでいたこいぬを見つけて……？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "こいぬ：長縄まりあ",
+            "犬々先輩：櫻井孝宏",
+            "犬さわぎシェイキン：潘めぐみ",
+            "デー子：金田朋子",
+            "友代：山本和臣",
+            "い朗：福山潤",
+            "ぬ朗：小野大輔",
+            "ちび犬：竹内順子",
+            "ちびしば：野中藍",
+            "黒犬：杉田智和",
+            "支部長：古川登志夫"
+        ],
+        "crews": [
+            "原作：うかうか『貼りまわれ！こいぬ』（秋田書店「Souffle」連載）",
+            "監督・シリーズ構成・キャラクターデザイン：池ヶ谷 愛",
+            "音響監督：菊田浩巳",
+            "音楽：videobrother",
+            "主題歌：「STICKER!!!」meiyo",
+            "制作：ぴえろ",
+            "アニメーション制作：オペラハウス",
+            "製作：貼りまわれ！こいぬ製作委員会"
+        ],
+        "copyrights": [
+            "(C)うかうか（秋田書店）／貼りまわれ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726653214,
+    "endAt": 1759244400,
+    "transcodeVersion": "69NSbV",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ujxd",
+        "facebook": "https://abema.app/URgV",
+        "google": "https://abema.app/oyWW",
+        "line": "https://abema.app/mGMN",
+        "copy": "https://abema.app/oZVU",
+        "instagram": "https://abema.app/caoj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/15-31_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/15-31_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/15-31_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-31_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 224.224,
+        "ending": {
+            "start": 224.224,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "15-31_s1_p11",
+        "title": "第11話 こいぬとスケジュール帳",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1726653214,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-31_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "15-31_eg0"
+}

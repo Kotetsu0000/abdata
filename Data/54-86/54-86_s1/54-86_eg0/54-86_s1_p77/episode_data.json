@@ -1,0 +1,127 @@
+{
+    "id": "54-86_s1_p77",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 136
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 77,
+        "title": "第77話 デイドリーマーモヒカン",
+        "content": "モヒカンのモヒカンが伸びちゃった！でもこれは夢の中のようだ。だったら好き勝手してやるぜ！ヒャッハー！"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "リーゼント・後輩・清正・じじい：いくピソ",
+            "モヒカン・ナミッポ・金熊・ダディ・島津・加藤：ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・oo39ドットコム",
+            "効果音：効果音ラボ",
+            "主題歌：papalion",
+            "録音(主題歌)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696909832,
+    "endAt": 1730386800,
+    "transcodeVersion": "2qWXn7",
+    "sharedLink": {
+        "twitter": "https://abema.app/VJcw",
+        "facebook": "https://abema.app/FkcG",
+        "google": "https://abema.app/4pLu",
+        "line": "https://abema.app/Ry7R",
+        "copy": "https://abema.app/jeJ7",
+        "instagram": "https://abema.app/2Npa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p77/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p77/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p77/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s1_p77"
+    },
+    "viewingPoint": {
+        "suggestion": 122.45566666666667
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s1_p78",
+        "title": "第78話 ヤンキー講座",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696909837,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s1_p77/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

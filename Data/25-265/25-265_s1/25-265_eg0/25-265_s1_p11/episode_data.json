@@ -1,0 +1,142 @@
+{
+    "id": "25-265_s1_p11",
+    "series": {
+        "id": "25-265",
+        "title": "恋は双子で割り切れない",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-265",
+            "filename": "thumb.png",
+            "query": "version=1722755611",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-265",
+            "filename": "portrait.png",
+            "query": "version=1722755611",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-265_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 ちゃんと考えてくれてるってわかっただけで、私は十分",
+        "content": "瑞真からのメッセージに困惑する純。その姿を見た那織は、あとで埋め合わせることを条件に「行ってもいいよ」と純を送り出した。残された那織は勇んで古間とチェスを始めるが、勝敗に関係なく部室は譲ると言われ出鼻を挫かれてしまう。そして琉実と瑞真を追う純は、なんとか二人のもとに辿り着き、自分の気持ちを吐き出した――。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "白崎純：坂田将吾",
+            "神宮寺琉実：後本萌葉",
+            "神宮寺那織：内田真礼",
+            "浅野麗良：池田海咲",
+            "森脇豊茂：福原かつみ",
+            "亀嵩璃々須：大野柚布子"
+        ],
+        "crews": [
+            "原作：髙村資本（電撃文庫刊「恋は双子で割り切れない」）",
+            "原作イラスト：あるみっく",
+            "監督：中西基樹",
+            "シリーズ構成：横手美智子",
+            "キャラクターデザイン：渡辺舞",
+            "美術監督：原本さつき（クリープ）",
+            "色彩設計：松浦友里枝",
+            "撮影監督：佐々木明美（トムス・フォト）",
+            "3Dディレクター：宮崎渉（クリープ）",
+            "編集：齋藤朱里（三嶋編集室）",
+            "音響監督：納谷僚介",
+            "音響効果：斎藤みち代",
+            "音楽：うたたね歌菜",
+            "アニメーションプロデューサー：應地一晃",
+            "プロデュース：infinite",
+            "アニメーションスタジオ：ROLL2"
+        ],
+        "copyrights": [
+            "(C)2023 髙村資本/KADOKAWA/ふたきれ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726742433,
+    "endAt": 1790780400,
+    "freeEndAt": 1728195300,
+    "transcodeVersion": "3n7wEr",
+    "sharedLink": {
+        "twitter": "https://abema.app/8QFb",
+        "facebook": "https://abema.app/RLbL",
+        "google": "https://abema.app/UydU",
+        "line": "https://abema.app/pk5b",
+        "copy": "https://abema.app/ShZQ",
+        "instagram": "https://abema.app/vgqn"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/25-265_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/25-265_s1_p11/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/25-265_s1_p11/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/25-265_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-265_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1348.4137333333333,
+        "opening": {
+            "end": 89.95653333333334
+        },
+        "ending": {
+            "start": 1348.4137333333333,
+            "end": 1396.8621333333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-265_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1728195300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "25-265_eg0"
+}

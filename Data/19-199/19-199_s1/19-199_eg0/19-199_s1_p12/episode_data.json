@@ -1,0 +1,129 @@
+{
+    "id": "19-199_s1_p12",
+    "series": {
+        "id": "19-199",
+        "title": "下の階には澪がいる",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "thumb.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-199",
+            "filename": "portrait.png",
+            "query": "version=1719455802",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-199_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 下の階には澪がいる",
+        "content": "ずっと憧れていた真珠から告白された陽。どうしたらいいのか悩む陽に澪は真剣に考えて答えを出すように言う。真珠は陽と花火を見に行く約束をし、陽のことをドキドキしながら待っていた。しかし待ち合わせ場所に現れた陽は真珠にある人に会ってほしいと切り出すのだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "如月澪：坂本真綾",
+            "杉浦陽：河本啓佑",
+            "桃井真珠：大久保瑠美",
+            "三国紗羅：沼倉愛美"
+        ],
+        "crews": [
+            "原作：ミンソンア",
+            "監督：董易（ドン･イー）",
+            "脚本：江狐工作室",
+            "総演出監督：キム・シニョン",
+            "総作画監督：パク・ヨノク",
+            "音楽：楊秉音（ヤン・ビンイン）",
+            "アニメーション制作：RED DOG CULTURE HOUSE",
+            "日本語吹き替え版",
+            "演出：太田信乃",
+            "翻訳：鳥居怜子、本多由枝",
+            "音響制作：東北新社",
+            "日本版製作：フジテレビジョン、bilibili"
+        ],
+        "copyrights": [
+            "(C)bilibili"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726742398,
+    "endAt": 1759244400,
+    "transcodeVersion": "7WEUNF",
+    "sharedLink": {
+        "twitter": "https://abema.app/MJEV",
+        "facebook": "https://abema.app/Hmgs",
+        "google": "https://abema.app/fdbt",
+        "line": "https://abema.app/Mvuc",
+        "copy": "https://abema.app/Cv77",
+        "instagram": "https://abema.app/jF3P"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-199_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-199_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-199_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-199_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.8702083333333,
+        "opening": {
+            "start": 163.037875,
+            "end": 252.91933333333333
+        },
+        "ending": {
+            "start": 1329.8702083333333,
+            "end": 1419.8767916666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-199_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-199_eg0"
+}

@@ -1,0 +1,142 @@
+{
+    "id": "189-48_s1_p24",
+    "series": {
+        "id": "189-48",
+        "title": "贄姫と獣の王",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-48",
+            "filename": "thumb.png",
+            "query": "version=1680594417",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-48",
+            "filename": "portrait.png",
+            "query": "version=1680594417",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-48_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 24,
+        "title": "episode24 妃と王国の未来",
+        "content": "ガロア率いるイスタン海軍が助太刀に現れ、サーブル国王やマースヤ領主からもレオンハートを支持する声明が届く。これはいかなる種族に生まれても、それを踏み躙られずに生きていける国を目指したレオンハートを国民が理解しているからだと主張するサリフィ。その言葉に勇気づけられレオンハートが再びセトに立ち向かおうとしたとき、突然瘴気が空を覆い日の光を遮った。そして、獣王族の姿に戻ったレオンハートの最後の戦いが始まる。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "サリフィ：花澤 香菜",
+            "レオンハート：日野 聡",
+            "アヌビス：寺島 拓篤",
+            "ヨルムンガンド：小林 親弘",
+            "アミト：潘 めぐみ",
+            "キュク：貫井 柚佳",
+            "ロプス：藤原 夏海",
+            "ベンヌ：吉野 裕行",
+            "ラントベルト：畠中 祐"
+        ],
+        "crews": [
+            "原作：「贄姫と獣の王」友藤結（白泉社・花とゆめコミックス）",
+            "監督：今 千秋",
+            "シリーズ構成：水上 清資",
+            "キャラクターデザイン：長谷川 眞也",
+            "サブデザイン：都築 裕佳子",
+            "美術監督：飯田 葉月",
+            "色彩設計：舩橋 美香",
+            "撮影監督：八木 祐理奈",
+            "編集：仙土 真希（REAL-T)",
+            "音響監督：明田川 仁",
+            "音楽：KOHTA YAMAMOTO",
+            "音楽制作：ポニーキャニオン",
+            "アニメーション制作：J.C.STAFF",
+            "プロデュース：WOWMAX"
+        ],
+        "copyrights": [
+            "(C) 友藤 結・白泉社／「贄姫と獣の王」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1696237060,
+    "endAt": 1727708400,
+    "freeEndAt": 1727370000,
+    "transcodeVersion": "7CL2An",
+    "sharedLink": {
+        "twitter": "https://abema.app/Vx2E",
+        "facebook": "https://abema.app/rCqC",
+        "google": "https://abema.app/3kz3",
+        "line": "https://abema.app/6TkA",
+        "copy": "https://abema.app/oppE",
+        "instagram": "https://abema.app/kjuB"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-48_s1_p24/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-48_s1_p24/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/189-48_s1_p24/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-48_s1_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-48_s1_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1416.9989166666667
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-48_s1_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727370000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "189-48_eg0"
+}

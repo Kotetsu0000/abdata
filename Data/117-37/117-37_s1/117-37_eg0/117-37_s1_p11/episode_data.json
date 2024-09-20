@@ -1,0 +1,140 @@
+{
+    "id": "117-37_s1_p11",
+    "series": {
+        "id": "117-37",
+        "title": "魔導具師ダリヤはうつむかない",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-37",
+            "filename": "thumb.png",
+            "query": "version=1726024052",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-37",
+            "filename": "portrait.png",
+            "query": "version=1726024052",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-37_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 空へと咲く花",
+        "content": "魔物討伐部隊長からの書簡で招きを受けたダリヤは、王城へ向かう。\n急な呼び出しに緊張しながら待っていると、現れたのはヴォルフだった。隊長のグラートがダリヤに直接、五本指靴下と乾燥中敷きのお礼が言いたいのだという。\n王城訪問を終えた夜、訪ねてきたヴォルフ。彼と酒を飲みながら互いに秘密を暴露しあう遊びをする。\nダリヤは今まで一度も触れなかった自身の母についてヴォルフに語り……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ダリヤ・ロセッティ：大西沙織",
+            "ヴォルフレード・スカルファロット：田丸篤志",
+            "イルマ・ヌヴォラーリ：飯田里穂",
+            "マルチェラ・ヌヴォラーリ：松田健一郎",
+            "ルチア・ファーノ：和泉風花",
+            "イヴァーノ・バドエル：高橋広樹",
+            "ガブリエラ・ジェッダ：山口由里子",
+            "トビアス・オルランド：大野智敬",
+            "カルロ・ロセッティ：成田 剣"
+        ],
+        "crews": [
+            "原作：甘岸久弥（MFブックス／KADOKAWA刊）",
+            "キャラクター原案：景",
+            "原作企画：フロンティアワークス",
+            "監督：久保洋祐",
+            "シリーズ構成：東出祐一郎",
+            "キャラクターデザイン：栗田聡美",
+            "音楽：大谷 幸",
+            "音響監督：長崎行男",
+            "音楽制作：ランティス",
+            "アニメーション制作会社：颱風グラフィックス×イマジカインフォス"
+        ],
+        "copyrights": [
+            "(C)Amagishi Hisaya／MFブックス／製作委員会はうつむかない"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726817747,
+    "endAt": 1759244400,
+    "freeEndAt": 1727379000,
+    "transcodeVersion": "7UgmEX",
+    "sharedLink": {
+        "twitter": "https://abema.app/CXEh",
+        "facebook": "https://abema.app/vB5J",
+        "google": "https://abema.app/n8Xs",
+        "line": "https://abema.app/qfX1",
+        "copy": "https://abema.app/cuxT",
+        "instagram": "https://abema.app/9V8x"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/117-37_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/117-37_s1_p11/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/117-37_s1_p11/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/117-37_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-37_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.07375,
+        "opening": {
+            "start": 25.025,
+            "end": 115.03158333333333
+        },
+        "ending": {
+            "start": 1325.07375,
+            "end": 1415.0803333333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-37_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727379000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "117-37_eg0"
+}

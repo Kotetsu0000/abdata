@@ -1,0 +1,111 @@
+{
+    "id": "54-86",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "title": "ヤンキーハムスター",
+    "content": "ツッパることが毛玉のたったひとつの勲章！\n\n\nハムスターたちがハムスター大のツッパリをみせるショートアニメ。リーダー格のリーゼント、ちょっと天然のモヒカン、辛らつな後輩を中心に今日もヤンキーを極めるぜ！",
+    "seasons": [
+        {
+            "id": "54-86_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+                "filename": "thumb.png",
+                "query": "version=1696906455",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-86_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "54-86_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+                "filename": "thumb.png",
+                "query": "version=1696906455",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-86_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "54-86_s3",
+            "sequence": 3,
+            "name": "シーズン3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+                "filename": "thumb.png",
+                "query": "version=1696906455",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-86_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        }
+    ],
+    "copyrights": [
+        "(C) Piso Studio"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726811934944542120",
+    "imageUpdatedAt": 1696906455,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/hzD3",
+        "facebook": "https://abema.app/2uuC",
+        "google": "https://abema.app/XzoH",
+        "line": "https://abema.app/KtNf",
+        "copy": "https://abema.app/9ijn",
+        "instagram": "https://abema.app/SXsg"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+        "filename": "thumb.png",
+        "query": "version=1696906455",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+        "filename": "portrait.png",
+        "query": "version=1696906455",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "freeBenefitTag": "1話〜60話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

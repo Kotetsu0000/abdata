@@ -1,0 +1,129 @@
+{
+    "id": "54-86_s3_p29",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 132
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 29,
+        "title": "第29話 気づいて後輩",
+        "content": "ほら…ね？後輩…ね？"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ",
+            "稲垣杏橘",
+            "本多陽子"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Audiostock・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1697164554,
+    "endAt": 1730386800,
+    "transcodeVersion": "7Vze9K",
+    "sharedLink": {
+        "twitter": "https://abema.app/SiUv",
+        "facebook": "https://abema.app/rp7c",
+        "google": "https://abema.app/5eTb",
+        "line": "https://abema.app/duUn",
+        "copy": "https://abema.app/bTnj",
+        "instagram": "https://abema.app/33bm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-86_s3_p29/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-86_s3_p29/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-86_s3_p29/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s3_p29"
+    },
+    "viewingPoint": {
+        "suggestion": 117.55076666666666
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s3_p30",
+        "title": "第30話 伝説のコンビニ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1697164736,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s3_p29/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

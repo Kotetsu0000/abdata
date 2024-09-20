@@ -1,0 +1,78 @@
+{
+    "id": "218-713",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ABEMAアニメ祭",
+    "content": "2024年9月14日(土)〜23(月・祝)の10日間、新宿・東急歌舞伎町タワー周辺にて、ABEMAが贈るアニメの祭典「ABEMAアニメ祭(まつり)」の開催が決定！\n\n「ABEMAアニメ祭」は、“もっとアニメを好きになる”をコンセプトに、ABEMAのオリジナル番組や人気アニメ、アーティストとのさまざまなコラボ企画を実施。Zepp Shinjuku (TOKYO)でのステージイベントや、109シネマズプレミアム新宿でのアニメ上映、また、東急歌舞伎町タワー周辺でのオリジナルフードやグッズの販売も行います。",
+    "seasons": [
+        {
+            "id": "218-713_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-713",
+                "filename": "thumb.png",
+                "query": "version=1715327871",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "218-713_eg1",
+                    "name": "PPV"
+                },
+                {
+                    "id": "218-713_eg99",
+                    "name": "PR"
+                },
+                {
+                    "id": "218-713_eg2",
+                    "name": "冒頭無料"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)AbemaTV, Inc."
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1726736463504738377",
+    "imageUpdatedAt": 1715327871,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/UDAK",
+        "facebook": "https://abema.app/GbwW",
+        "google": "https://abema.app/JESW",
+        "line": "https://abema.app/4LVp",
+        "copy": "https://abema.app/Rf77",
+        "instagram": "https://abema.app/9x6M"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-713",
+        "filename": "thumb.png",
+        "query": "version=1715327871",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-713",
+        "filename": "portrait.png",
+        "query": "version=1715327871",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "contentPattern": 4,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png",
+    "isOriginal": true
+}

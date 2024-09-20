@@ -1,0 +1,130 @@
+{
+    "id": "415-5_s27_p1052",
+    "series": {
+        "id": "415-5",
+        "title": "名探偵コナン",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "thumb.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-5",
+            "filename": "portrait.png",
+            "query": "version=1709256177",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-5_s27",
+        "sequence": 27,
+        "name": "season27",
+        "thumbComponent": {},
+        "order": 27
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1052,
+        "title": "第1052話 少年探偵団の肝試し",
+        "content": "コナンは、少年探偵団の面々と阿笠博士の家にいた。動画サイトで心霊系配信『恐狩サダオと怖霊屋トシコの突撃！心霊スポット』を観て、その映像に夢中になっている歩美、光彦、元太。コナンと灰原は「心霊スポットに幽霊を撮りに行こう！」と盛り上がる三人に付き添って廃病院を訪れることになる。最上階の三階にあるという幽霊の棲む“開かずの間”をゴールにして撮影をスタート。ここには様々な幽霊の噂があるらしく……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "江戸川コナン：高山みなみ",
+            "工藤新一：山口勝平",
+            "毛利蘭：山崎和佳奈",
+            "毛利小五郎：小山力也",
+            "阿笠博士：緒方賢一",
+            "小嶋元太：高木渉",
+            "円谷光彦：大谷育江",
+            "吉田歩美：岩居由希子",
+            "灰原哀：林原めぐみ",
+            "目暮警部：茶風林",
+            "鈴木園子：松井菜桜子"
+        ],
+        "crews": [
+            "原作：青山剛昌（小学館「週刊少年サンデー」連載中）",
+            "企画：諏訪道彦",
+            "チーフプロデューサー：永井幸治・寺島清晃",
+            "プロデューサー：汐口武史・藤堂真孝",
+            "監督：山本泰一郎",
+            "音楽：大野克夫",
+            "キャラクターデザイン：須藤昌朋"
+        ],
+        "copyrights": [
+            "（C）青山剛昌／小学館・読売テレビ・TMS 1996"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725861294,
+    "endAt": 1773500400,
+    "transcodeVersion": "6z7reu",
+    "sharedLink": {
+        "twitter": "https://abema.app/63fT",
+        "facebook": "https://abema.app/Sj97",
+        "google": "https://abema.app/dr5M",
+        "line": "https://abema.app/353F",
+        "copy": "https://abema.app/r8Pt",
+        "instagram": "https://abema.app/Vyne"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-5_s27_p1052/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-5_s27_p1052/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-5_s27_p1052/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-5_s27_p1052"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0069166666667,
+        "opening": {
+            "start": 77.99458333333334,
+            "end": 192.94275
+        },
+        "ending": {
+            "start": 1314.938625,
+            "end": 1394.8935
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-5_s27_p1052/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1773500400
+        }
+    ],
+    "episodeGroupId": "415-5_eg0"
+}

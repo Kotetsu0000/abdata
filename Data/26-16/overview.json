@@ -1,0 +1,78 @@
+{
+    "id": "26-16",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "青の祓魔師",
+    "content": "人間の住む「物質界（アッシャー）」と、悪魔の住む「虚無界（ゲヘナ）」。\n本来は干渉することすらできない二つの次元だが、\n悪魔はあらゆる物質に憑依し、物質界に干渉していた。\nしかし人間の中には、そんな悪魔を祓う\n―祓魔師（エクソシスト）が存在した。",
+    "seasons": [
+        {
+            "id": "26-16_s1",
+            "sequence": 1,
+            "name": "season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-16",
+                "filename": "thumb.png",
+                "query": "version=1703153150",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-16_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(c)加藤和恵／集英社・「青の祓魔師」製作委員会・MBS"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1726827171906905235",
+    "imageUpdatedAt": 1703153150,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/GBqEx",
+        "facebook": "https://gxyt4.app.goo.gl/LdnRN",
+        "google": "https://gxyt4.app.goo.gl/qjru7",
+        "line": "https://gxyt4.app.goo.gl/YMSn4",
+        "copy": "https://gxyt4.app.goo.gl/Yf7mt",
+        "instagram": "https://gxyt4.app.goo.gl/xR9EW"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-16",
+        "filename": "thumb.png",
+        "query": "version=1703153150",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-16",
+        "filename": "portrait.png",
+        "query": "version=1703153150",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

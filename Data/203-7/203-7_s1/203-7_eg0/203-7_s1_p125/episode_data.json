@@ -1,0 +1,136 @@
+{
+    "id": "203-7_s1_p125",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 125,
+        "title": "第125話 ロードの休日",
+        "content": "ついに死者蘇生を手に入れた遊歩。記憶を封印してまで自らオーティスになろうとする遊歩を止めたい遊飛だったが、ゼイエトの発した率直な意見に心を掻き乱されてしまう。「ダメだ！　こんなダサい格好のままじゃ！　遊歩とデュエルする前に服を買わないと！」"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1726567246,
+    "endAt": 1774969200,
+    "freeEndAt": 1727204400,
+    "transcodeVersion": "2Q1YGd",
+    "sharedLink": {
+        "twitter": "https://abema.app/Kuck",
+        "facebook": "https://abema.app/iiAB",
+        "google": "https://abema.app/tcTH",
+        "line": "https://abema.app/LG1K",
+        "copy": "https://abema.app/AXA5",
+        "instagram": "https://abema.app/2VoU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-7_s1_p125/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-7_s1_p125/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/203-7_s1_p125/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-7_s1_p125/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p125"
+    },
+    "viewingPoint": {
+        "suggestion": 1410.0419666666667,
+        "opening": {
+            "start": 59.059,
+            "end": 148.98216666666667
+        },
+        "ending": {
+            "start": 1320.0187,
+            "end": 1410.0086
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p125/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727204400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "203-7_eg0"
+}

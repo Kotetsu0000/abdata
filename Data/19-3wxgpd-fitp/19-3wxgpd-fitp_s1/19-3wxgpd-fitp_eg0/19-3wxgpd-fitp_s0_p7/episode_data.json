@@ -1,0 +1,153 @@
+{
+    "id": "19-3wxgpd-fitp_s0_p7",
+    "series": {
+        "id": "19-3wxgpd-fitp",
+        "title": "未確認で進行形",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "thumb.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-3wxgpd-fitp",
+            "filename": "portrait.png",
+            "query": "version=1714468887",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-3wxgpd-fitp_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 それはそれ、これはこれ",
+        "content": "生徒会書記、末続このは。強烈な紅緒信者である。その友人、大野仁子。空気の読めない新聞部員である。真白に嫉妬心を燃やすこのはに調査協力を申し出る仁子。「こっそり」とか、そんな寝言は寝て言おう。そしてなんだかこのはの言葉づか（略）真白とこのはの戦いが今始まる！俺たちの明日はどっちだ！？略されたところは確認してください。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "照井春佳",
+            "松井恵理子",
+            "吉田有里",
+            "羽多野渉",
+            "愛美",
+            "佐倉綾音",
+            "藤田 咲",
+            "角元明日香",
+            "駒形友梨",
+            "渡部優衣"
+        ],
+        "crews": [
+            "監督：藤原佳幸",
+            "原作：荒井チェリー",
+            "脚本：志茂文彦",
+            "キャラクターデザイン・総作画監督：菊池 愛"
+        ],
+        "copyrights": [
+            "(C)荒井チェリー／一迅社・未確認で進行形製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1710472960,
+    "endAt": 1748703600,
+    "freeEndAt": 1727413200,
+    "transcodeVersion": "YSHEz",
+    "sharedLink": {
+        "twitter": "https://abema.app/NPTJ",
+        "facebook": "https://abema.app/3oNp",
+        "google": "https://abema.app/QqYS",
+        "line": "https://abema.app/zEYU",
+        "copy": "https://abema.app/FJuA",
+        "instagram": "https://abema.app/qAgN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p7/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-3wxgpd-fitp_s0_p7/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-3wxgpd-fitp_s0_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-3wxgpd-fitp_s0_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.5142,
+        "opening": {
+            "start": 35.5355,
+            "end": 125.45866666666667
+        },
+        "ending": {
+            "start": 1315.5142,
+            "end": 1405.5041
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-3wxgpd-fitp_s0_p8",
+        "title": "第8話 妹の悲しみをいやすのは、妹",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1710472960,
+        "endAt": 1748703600,
+        "freeEndAt": 1727413200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727413200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-3wxgpd-fitp_s0_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727413200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "19-3wxgpd-fitp_eg0"
+}

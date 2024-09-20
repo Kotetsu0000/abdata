@@ -1,0 +1,136 @@
+{
+    "id": "54-86_s1_p33",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 142
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 33,
+        "title": "第33話 メロン大作戦",
+        "content": "机の上のメロンが食べたい。机の上のメロンが食べたい！"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "リーゼント・後輩・清正・じじい：いくピソ",
+            "モヒカン・ナミッポ・金熊・ダディ・島津・加藤：ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・oo39ドットコム",
+            "効果音：効果音ラボ",
+            "主題歌：papalion",
+            "録音(主題歌)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1696908720,
+    "endAt": 1730386800,
+    "freeEndAt": 1727132400,
+    "transcodeVersion": "71QQKm",
+    "sharedLink": {
+        "twitter": "https://abema.app/HRBb",
+        "facebook": "https://abema.app/hjM3",
+        "google": "https://abema.app/gf7b",
+        "line": "https://abema.app/ko8c",
+        "copy": "https://abema.app/KCvw",
+        "instagram": "https://abema.app/1g3M"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p33/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p33/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/54-86_s1_p33/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-86_s1_p33/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s1_p33"
+    },
+    "viewingPoint": {
+        "suggestion": 128.69523333333333
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s1_p34",
+        "title": "第34話 湿気大爆発",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696908728,
+        "endAt": 1730386800,
+        "freeEndAt": 1727132400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727132400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s1_p33/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727132400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

@@ -1,0 +1,129 @@
+{
+    "id": "54-86_s3_p35",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 129
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 35,
+        "title": "第35話 ヤンキー語講座２",
+        "content": "今日も楽しくヤンキーについて学んでいきましょう！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ",
+            "稲垣杏橘",
+            "本多陽子"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Audiostock・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1697165380,
+    "endAt": 1730386800,
+    "transcodeVersion": "xpvSx",
+    "sharedLink": {
+        "twitter": "https://abema.app/okQ3",
+        "facebook": "https://abema.app/XQFc",
+        "google": "https://abema.app/7a3B",
+        "line": "https://abema.app/JfVa",
+        "copy": "https://abema.app/fofR",
+        "instagram": "https://abema.app/5LJi"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-86_s3_p35/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-86_s3_p35/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-86_s3_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s3_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 114.68123333333334
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s3_p36",
+        "title": "第36話 マッチョになりたいーコール編ー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1697165503,
+        "endAt": 1730386800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1730386800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s3_p35/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}

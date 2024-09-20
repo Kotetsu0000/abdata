@@ -1,0 +1,138 @@
+{
+    "id": "54-86_s2_p3",
+    "series": {
+        "id": "54-86",
+        "title": "ヤンキーハムスター",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "thumb.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-86",
+            "filename": "portrait.png",
+            "query": "version=1696906455",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-86_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 138
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 お宅訪問",
+        "content": "素敵な家ですが、どうぞ！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "本多陽子",
+            "稲垣杏橘",
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督・脚本：いくピソ・ゆうピソ",
+            "デザイン：いくピソ",
+            "アニメーション：ゆうピソ",
+            "BGM：髙島ユータ・Audiostock・Artlist",
+            "効果音：効果音ラボ・Artlist",
+            "OP・ED曲：papalion",
+            "録音(OP・ED曲)：M&N録音サービス"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1696929502,
+    "endAt": 1730386800,
+    "freeEndAt": 1727182620,
+    "transcodeVersion": "28EBWd",
+    "sharedLink": {
+        "twitter": "https://abema.app/t47n",
+        "facebook": "https://abema.app/KfBH",
+        "google": "https://abema.app/ffcm",
+        "line": "https://abema.app/NsWQ",
+        "copy": "https://abema.app/R2NJ",
+        "instagram": "https://abema.app/dzoF"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-86_s2_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-86_s2_p3/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/54-86_s2_p3/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-86_s2_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-86_s2_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 123.95716666666667
+    },
+    "nextProgramInfo": {
+        "programId": "54-86_s2_p4",
+        "title": "第4話 新キャラ会議",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696929503,
+        "endAt": 1730386800,
+        "freeEndAt": 1727240400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727240400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-86_s2_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727182620
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1730386800
+        }
+    ],
+    "episodeGroupId": "54-86_eg0"
+}
