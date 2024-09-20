@@ -31,6 +31,18 @@ class Update_Data:
         logger.addHandler(file_handler)
 
         self.headers = API_auth.get_header()
+        self.tor_files = [
+            '/etc/tor/torrc1',
+            '/etc/tor/torrc2',
+            '/etc/tor/torrc3',
+            '/etc/tor/torrc4',
+            '/etc/tor/torrc5',
+            '/etc/tor/torrc6',
+            '/etc/tor/torrc7',
+            '/etc/tor/torrc8',
+            '/etc/tor/torrc9',
+            '/etc/tor/torrc10',
+        ]
         self.proxies_list = [
             'socks5://127.0.0.1:9050',
             'socks5://127.0.0.1:9051',
@@ -77,9 +89,9 @@ class Update_Data:
                 logger.info(f'{threading.currentThread().getName()}: JSONDecodeErrorが発生しました。')
 
         self.threads = []
-        for i, proxy in enumerate(self.proxies_list):
+        for i, (proxy, tor_file) in enumerate(zip(self.proxies_list, self.tor_files)):
             logger.info(f"スレッド{i}を起動します。")
-            thread = threading.Thread(target=self.thread_Abema_data_DL, args=(proxy, ), daemon=True)
+            thread = threading.Thread(target=self.thread_Abema_data_DL, args=(proxy, tor_file, ), daemon=True)
             thread.start()
             self.threads.append(thread)
 
@@ -217,9 +229,16 @@ class Update_Data:
                         assert file_exists(EPISODE_DATA_PATH)
                         logger.info(f"{threading.currentThread().getName()}: {EPISODE_DATA_PATH}の詳細情報を取得を確認しました。")
         logger.info(f"全てのアニメの詳細情報を取得しました。Time: {time.perf_counter()-start:.2f}sec")
+        
+
+    def tor_start(self, tor_file) -> list[subprocess.Popen]:
+        tor_process = API_auth.tor_start(tor_file)
+        logger.info(f"Torプロセスが起動しました。PID: {tor_process.pid}")
+        return tor_process
 
     def thread_Abema_data_DL(self, proxy, tor_file):
         error_num = 0
+        process = self.tor_start(tor_file)
         self.test_acsess(proxy)
         thread_name = threading.currentThread().getName()
         logger.info(f"{thread_name:>10}: proxy {proxy}")

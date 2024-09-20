@@ -139,8 +139,9 @@ def download_image(url:str, file_name:str='image.jpg', headers:dict=None, proxie
         f.write(response.content)
 
 def tor_start(tor_file:str) -> subprocess.Popen:
+    tor_path = subprocess.run(['which', 'tor'], stdout=subprocess.PIPE).stdout.decode('utf-8').replace('\n', '')
     tor_process = subprocess.Popen(
-        ["tor", "-f", tor_file],
+        [tor_path, "-f", tor_file],
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
         text=True
