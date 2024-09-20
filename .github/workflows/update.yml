@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   #schedule:
-    #- cron: '0 1 * * *'  # 毎日朝5時に実行
+    - cron: '0 1 * * *'  # 毎日朝5時に実行
   workflow_dispatch:  # 手動実行のトリガー
 
 jobs:
@@ -48,6 +48,11 @@ jobs:
         git config --global user.name "${GITHUB_ACTOR}"
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        if [ "$(git diff --shortstat ./Data/anime_list.json)" != "" ]; then
+          git add ./Data/anime_list.json
+          git commit -m "GitHub Actions: Update anime_list.json"
+          git push origin HEAD:${GITHUB_REF}
+        fi
         if [ "$(git diff --shortstat)" != "" ]; then
           git add .
           git commit -m "GitHub Actions: Update"
