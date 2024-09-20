@@ -29,6 +29,14 @@ jobs:
       with:
         tor-version: '0.4.5.7'
 
+    - name: Setup additional Tor instances
+      run: |
+        for i in $(seq 1 9); do
+          sudo cp /etc/tor/torrc /etc/tor/torrc$i
+          sudo sed -i "s/SocksPort 9050/SocksPort 905$i/" /etc/tor/torrc$i
+          sudo tor -f /etc/tor/torrc$i &
+        done
+
     - name: Update data
       run: python update.py
 

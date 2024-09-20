@@ -31,18 +31,6 @@ class Update_Data:
         logger.addHandler(file_handler)
 
         self.headers = API_auth.get_header()
-        self.tor_files = [
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc01',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc02',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc03',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc04',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc05',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc06',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc07',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc08',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc09',
-            '/home/kotetsu/Program/Python/Abema_DL/tor_file/torrc10',
-        ]
         self.proxies_list = [
             'socks5://127.0.0.1:9050',
             'socks5://127.0.0.1:9051',
@@ -89,9 +77,9 @@ class Update_Data:
                 logger.info(f'{threading.currentThread().getName()}: JSONDecodeErrorが発生しました。')
 
         self.threads = []
-        for i, (proxy, tor_file) in enumerate(zip(self.proxies_list, self.tor_files)):
+        for i, proxy in enumerate(self.proxies_list):
             logger.info(f"スレッド{i}を起動します。")
-            thread = threading.Thread(target=self.thread_Abema_data_DL, args=(proxy, tor_file, ), daemon=True)
+            thread = threading.Thread(target=self.thread_Abema_data_DL, args=(proxy, ), daemon=True)
             thread.start()
             self.threads.append(thread)
 
@@ -229,16 +217,9 @@ class Update_Data:
                         assert file_exists(EPISODE_DATA_PATH)
                         logger.info(f"{threading.currentThread().getName()}: {EPISODE_DATA_PATH}の詳細情報を取得を確認しました。")
         logger.info(f"全てのアニメの詳細情報を取得しました。Time: {time.perf_counter()-start:.2f}sec")
-        
-
-    def tor_start(self, tor_file) -> list[subprocess.Popen]:
-        tor_process = API_auth.tor_start(tor_file)
-        logger.info(f"Torプロセスが起動しました。PID: {tor_process.pid}")
-        return tor_process
 
     def thread_Abema_data_DL(self, proxy, tor_file):
         error_num = 0
-        process = self.tor_start(tor_file)
         self.test_acsess(proxy)
         thread_name = threading.currentThread().getName()
         logger.info(f"{thread_name:>10}: proxy {proxy}")
