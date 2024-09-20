@@ -1,0 +1,20 @@
+# 除外する中継ノード
+ExcludeNodes {jp},{us},{gb},{ca},{au},{nz},{dk},{fr},{nl},{no},{de},{be},{it},{es},{il},{sg},{kr},{se},127.0.0.1
+
+# 除外する出口ノードについて
+ExcludeExitNodes {jp},{us},{gb},{ca},{au},{nz},{dk},{fr},{nl},{no},{de},{be},{it},{es},{il},{sg},{kr},{se},{cn},{ru},127.0.0.1
+
+
+# 経由するサーバーの数
+NumEntryGuards 4
+
+# 設定を確実に守るかどうか（`1`の場合は絶対に接続しない `0`の場合は接続する場合がある。）
+StrictNodes 1
+
+# SOCKSポートの設定
+SocksPort 9059
+
+ControlPort 9069
+HashedControlPassword 16:A581B0388EA3EAAE6034C4F3BF5B4A538CD9DB98A30B12C5503BC85B05
+
+DataDirectory /home/kotetsu/Program/Python/Abema_DL/tor/10
