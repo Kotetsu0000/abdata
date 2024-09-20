@@ -31,10 +31,11 @@ jobs:
 
     - name: Setup additional Tor instances
       run: |
+        TOR_PATH=$(which tor)
+        sudo mkdir -p /etc/tor/
         for i in $(seq 1 10); do
-          sudo mkdir -p /etc/tor/
           sudo cp /home/runner/work/abdata/abdata/tor_file/torrc$i /etc/tor/torrc$i
-          sudo tor -f /etc/tor/torrc$i &
+          sudo $TOR_PATH -f /etc/tor/torrc$i &
         done
 
     - name: Update data
