@@ -72,6 +72,8 @@ class Update_Data:
                 start_index += limit
                 del anime_list['paging']
                 break
+            else:
+                logger.info(f'{threading.currentThread().getName()}: JSONDecodeErrorが発生しました。')
         continue_flag = True
         while continue_flag:
             logger.info(f'{threading.currentThread().getName()}: Downloading anime list... {start_index}~{start_index+limit-1}')
@@ -83,6 +85,8 @@ class Update_Data:
                 API_auth.save_json(anime_list, f'{self.BASE_PATH}/anime_list.json')  
                 if len(temp_anime_list['cards'])==0:
                     continue_flag = False  
+            else:
+                logger.info(f'{threading.currentThread().getName()}: JSONDecodeErrorが発生しました。')
 
         self.threads = []
         for i, (proxy, tor_file) in enumerate(zip(self.proxies_list, self.tor_files)):
