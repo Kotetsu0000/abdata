@@ -1,7 +1,7 @@
 name: Update Data
 
 on:
-  schedule:
+  #schedule:
     #- cron: '0 1 * * *'  # 毎日朝5時に実行
   workflow_dispatch:  # 手動実行のトリガー
 
