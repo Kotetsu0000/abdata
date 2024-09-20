@@ -63,18 +63,26 @@ class Update_Data:
         start_index = 0
         limit = 100
         logger.info(f'{threading.currentThread().getName()}: Downloading anime list... {start_index}~{start_index+limit-1}')
-        temp_anime_list = API_auth.get_anime_list(headers=self.headers, limit=limit, start_index=start_index)
-        time.sleep(1)
-        anime_list = temp_anime_list
-        start_index += limit
-        del anime_list['paging']
-        while len(temp_anime_list['cards'])!=0:
+
+        while True:
+            temp_anime_list = API_auth.get_anime_list(headers=self.headers, limit=limit, start_index=start_index)
+            time.sleep(1)
+            if 'paging' in temp_anime_list.keys():
+                anime_list = temp_anime_list
+                start_index += limit
+                del anime_list['paging']
+                break
+        continue_flag = True
+        while continue_flag:
             logger.info(f'{threading.currentThread().getName()}: Downloading anime list... {start_index}~{start_index+limit-1}')
             temp_anime_list = API_auth.get_anime_list(headers=self.headers, limit=limit, start_index=start_index)
             time.sleep(1)
-            anime_list['cards'].extend(temp_anime_list.get('cards', []))
-            start_index += limit
-            API_auth.save_json(anime_list, f'{self.BASE_PATH}/anime_list.json')    
+            if 'paging' in temp_anime_list.keys():
+                anime_list['cards'].extend(temp_anime_list.get('cards', []))
+                start_index += limit
+                API_auth.save_json(anime_list, f'{self.BASE_PATH}/anime_list.json')  
+                if len(temp_anime_list['cards'])==0:
+                    continue_flag = False  
 
         self.threads = []
         for i, (proxy, tor_file) in enumerate(zip(self.proxies_list, self.tor_files)):
