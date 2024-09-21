@@ -1,0 +1,156 @@
+{
+    "id": "481-10_s1_p5",
+    "series": {
+        "id": "481-10",
+        "title": "ライアー・ライアー",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-10",
+            "filename": "thumb.png",
+            "query": "version=1686715466",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-10",
+            "filename": "portrait.png",
+            "query": "version=1686715466",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-10_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "#05 勝ち目と蒼い目",
+        "content": "白雪と共にイカサマを働くエンジニアのお姉さん・加賀谷、そして更紗の協力を得て、乃愛が仕掛けてきたゲームに備える緋呂斗。このゲームの勝利条件は、勝つこともなく、負けることもない＝「引き分け」の結果を得ること。引き分けを求めてゲームを進めるにつれ、乃愛の隠された本性も明らかになっていく。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "篠原緋呂斗：中村源太",
+            "姫路白雪：首藤志奈",
+            "彩園寺更紗：倉持若菜"
+        ],
+        "crews": [
+            "原作：久追遥希(MF文庫J『ライアー・ライアー』／KADOKAWA刊)",
+            "キャラクター原案：konomi（きのこのみ）／幸奈ふな",
+            "監督：大野悟／松浦直紀",
+            "シリーズ構成：豊田百香",
+            "キャラクターデザイン：中村ユミ",
+            "色彩設計：油木安弥",
+            "美術監督：朴智宇",
+            "テクニカルディレクター：蔡伯崙",
+            "編集：柳圭介",
+            "音響監督：納谷僚介",
+            "音楽：高橋邦幸（MONACA）／広川恵一（MONACA）",
+            "音楽制作：MONACA／CyberAgent",
+            "アニメーション制作：GEEKTOYS",
+            "製作：ライアー・ライアー製作委員会"
+        ],
+        "copyrights": [
+            "(C)2023 久追遥希/KADOKAWA/ライアー・ライアー製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695115267,
+    "endAt": 1853938800,
+    "freeEndAt": 1727478000,
+    "transcodeVersion": "6hmG45",
+    "sharedLink": {
+        "twitter": "https://abema.app/aaV6",
+        "facebook": "https://abema.app/vefn",
+        "google": "https://abema.app/udnH",
+        "line": "https://abema.app/CQdK",
+        "copy": "https://abema.app/HvQb",
+        "instagram": "https://abema.app/yxyu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/481-10_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/481-10_s1_p5/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/481-10_s1_p5/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/481-10_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-10_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.001911
+    },
+    "nextProgramInfo": {
+        "programId": "481-10_s1_p6",
+        "title": "#06 宝と闇",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1695115267,
+        "endAt": 1853938800,
+        "freeEndAt": 1727478000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727478000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-10_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727478000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1853938800
+        }
+    ],
+    "episodeGroupId": "481-10_eg0"
+}
