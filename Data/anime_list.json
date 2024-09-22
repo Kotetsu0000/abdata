@@ -123,6 +123,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -441,7 +442,7 @@
             },
             "title": "逃げ上手の若君",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "imageUpdatedAt": 1720434960,
@@ -458,6 +459,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1862,7 +1864,7 @@
             },
             "title": "リコリス・リコイル",
             "label": {
-                "free": true
+                "someFree": true
             },
             "imageUpdatedAt": 1656384773,
             "thumbComponent": {
@@ -1878,6 +1880,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2459,7 +2462,7 @@
             },
             "title": "響け！ユーフォニアム",
             "label": {
-                "free": true
+                "someFree": true
             },
             "imageUpdatedAt": 1715504351,
             "thumbComponent": {
@@ -2475,6 +2478,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2758,7 +2762,7 @@
             },
             "title": "天穂のサクナヒメ",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "imageUpdatedAt": 1719899143,
@@ -2775,6 +2779,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2788,7 +2793,7 @@
             },
             "title": "Go！プリンセスプリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "imageUpdatedAt": 1720954585,
             "thumbComponent": {
@@ -2804,6 +2809,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5047,7 +5053,7 @@
             },
             "title": "真夜中ぱんチ",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "imageUpdatedAt": 1719971035,
@@ -7423,7 +7429,7 @@
             "title": "ゆるキャン△",
             "caption": "きっと、そらでつながってる",
             "label": {
-                "someFree": true
+                "free": true
             },
             "imageUpdatedAt": 1713516774,
             "thumbComponent": {
@@ -7439,7 +7445,6 @@
                 "extension": "png"
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -9716,7 +9721,9 @@
             },
             "title": "異世界はスマートフォンとともに。2",
             "caption": "『小説家になろう』にて累計1億PV超の大人気作品待望のアニメ化",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "imageUpdatedAt": 1712918575,
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-47",
@@ -9731,7 +9738,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -10730,7 +10737,9 @@
                 "subGenres": []
             },
             "title": "やはり俺の青春ラブコメはまちがっている。完",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "imageUpdatedAt": 1681282961,
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-24",
@@ -10745,7 +10754,7 @@
                 "extension": "png"
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -14714,7 +14723,7 @@
             },
             "title": "シルバニアファミリー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "imageUpdatedAt": 1689077909,
             "thumbComponent": {
@@ -14730,7 +14739,6 @@
                 "extension": "png"
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         }
