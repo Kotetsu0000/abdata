@@ -1,0 +1,155 @@
+{
+    "id": "204-8_s2_p23",
+    "series": {
+        "id": "204-8",
+        "title": "TVアニメ「シャドウバースＦ」",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-8",
+            "filename": "thumb.png",
+            "query": "version=1716859296",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-8",
+            "filename": "portrait.png",
+            "query": "version=1716859296",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-8_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "#23 君じゃキングは越えられない！",
+        "content": "レーヴァテインドラゴンの秘めた力を引き出すため、スバルとイツキをバトルに誘うライト。しかし二人ともデッキの構築に忙しく、ジェントルマンとのバトルを勧められる。ライトはジェントルマンを呼び出そうとするが、反応はなく……。その頃、ジェントルマンはツバサとバトルを繰り広げていた。ツバサはジェントルマンの態度、表情を見てある疑問を口にする。「なんでウサギのアバターなんて使ってんの？」。バトルもできてお喋り好きなのに、どうしてアバターを使い、人との接触を避けるのか。ツバサは矢継ぎ早に質問を浴びせ、バトルでも気持ちでも優位に立っていくのだが……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "天竜ライト：上村祐翔",
+            "蜜田川イツキ：山村響",
+            "真壁スバル：浦和希",
+            "ドラグニル：井澤詩織",
+            "ジェントルマン：森久保祥太郎",
+            "風祭レン：武田 羅梨沙 多胡",
+            "小鳥遊ツバサ：富田美憂"
+        ],
+        "crews": [
+            "監督：川口敬一郎",
+            "副監督：林直孝",
+            "シリーズ構成：磯崎輪太郎、赤尾でこ",
+            "アートディレクター：ぽんず",
+            "キャラクター原案：岡田学彌、みけぼし、ヘスン、おにねこ",
+            "キャラクターデザイン：原田大基",
+            "フォロワー監督：北川大輔",
+            "サブキャラクターデザイン：新田靖成",
+            "デジフレデザイン：宮川知子",
+            "プロップデザイン：岩永悦宜",
+            "色彩設計：佐藤直子、品地奈々絵",
+            "美術監督：鐘　權濱",
+            "美術設定：緒川マミオ",
+            "モニターグラフィックス：sankaku",
+            "3DCGディレクター：大嶋慎介（DEEN DIGITAL）",
+            "撮影監督：中村雄太、浅川茂輝、越山麻彦",
+            "編集：平木大輔",
+            "音響監督：飯田里樹",
+            "音楽：池頼広",
+            "音響制作：ソニルード",
+            "アニメーション制作：ZEXCS"
+        ],
+        "copyrights": [
+            "(C) アニメ「シャドウバースＦ」製作委員会・テレビ東京"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726566587,
+    "endAt": 1759244400,
+    "transcodeVersion": "6WBkQF",
+    "sharedLink": {
+        "twitter": "https://abema.app/VGMX",
+        "facebook": "https://abema.app/cTVH",
+        "google": "https://abema.app/19kz",
+        "line": "https://abema.app/azMH",
+        "copy": "https://abema.app/mcTf",
+        "instagram": "https://abema.app/CBex"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-8_s2_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-8_s2_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-8_s2_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-8_s2_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1414.903355,
+        "ending": {
+            "start": 1310.072753,
+            "end": 1397.072753
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-8_s2_p24",
+        "title": "#24 君って鈍いね",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1726566587,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-8_s2_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "204-8_eg0"
+}

@@ -1,0 +1,135 @@
+{
+    "id": "19-48_s1_p3",
+    "series": {
+        "id": "19-48",
+        "title": "ハイキュー!! OAD",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-48",
+            "filename": "thumb.png",
+            "query": "version=1627289559",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-48",
+            "filename": "portrait.png",
+            "query": "version=1627289559",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-48_s1",
+        "sequence": 1,
+        "name": "-",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1348
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "特集！春高バレーに賭けた青春",
+        "content": "選手たちのインタビューを交えた、“春高特番”。“春高”に挑んだ選手たちの熱きドラマが、蘇る！！"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "日向翔陽：村瀬歩",
+            "影山飛雄：石川界人",
+            "澤村大地：日野聡",
+            "菅原孝支：入野自由",
+            "東峰旭：細谷佳正",
+            "田中龍之介：林勇",
+            "西谷夕：岡本信彦",
+            "月島蛍：内山昂輝",
+            "山口忠：斉藤壮馬",
+            "烏養繋心：江川央生",
+            "黒尾鉄朗：中村悠一",
+            "及川徹：浪川大輔",
+            "花巻貴大：櫻井トオル",
+            "黄金川貫至：庄司将之",
+            "小野先生：山崎はるか",
+            "赤間：中恵美城",
+            "千坂：金城大和",
+            "ナレーション：大塚芳忠"
+        ],
+        "crews": [
+            "監督：満仲勧",
+            "原作：古舘春一（集英社「週刊少年ジャンプ」連載）",
+            "脚本：岸本卓"
+        ],
+        "copyrights": [
+            "(C)古舘春一／集英社・「ハイキュー!! 3rd」製作委員会・MBS"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683702111,
+    "endAt": 1738335600,
+    "transcodeVersion": "6L9FbA",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/bU6Er",
+        "facebook": "https://gxyt4.app.goo.gl/Nt176",
+        "google": "https://gxyt4.app.goo.gl/24JMx",
+        "line": "https://gxyt4.app.goo.gl/kZwcZ",
+        "copy": "https://gxyt4.app.goo.gl/FXcGj",
+        "instagram": "https://gxyt4.app.goo.gl/TSV84"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-48_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-48_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-48_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-48_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1256.521371,
+        "ending": {
+            "start": 1256.521371,
+            "end": 1348.404986
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-48_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1738335600
+        }
+    ],
+    "episodeGroupId": "19-48_eg0"
+}

@@ -1,0 +1,75 @@
+{
+    "id": "19-48",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ハイキュー!! OAD",
+    "content": "アニメ「ハイキュー!!」オリジナルストーリー!!",
+    "seasons": [
+        {
+            "id": "19-48_s1",
+            "sequence": 1,
+            "name": "-",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-48_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683702127",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-48_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) 古舘春一／集英社・「ハイキュー!!」製作委員会・MBS"
+    ],
+    "label": {},
+    "version": "1724726212072807491",
+    "imageUpdatedAt": 1627289559,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/9ERjN",
+        "facebook": "https://gxyt4.app.goo.gl/5C6qU",
+        "google": "https://gxyt4.app.goo.gl/9R62S",
+        "line": "https://gxyt4.app.goo.gl/gfmme",
+        "copy": "https://gxyt4.app.goo.gl/aAoRF",
+        "instagram": "https://gxyt4.app.goo.gl/PCEW9"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-48",
+        "filename": "thumb.png",
+        "query": "version=1627289559",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-48",
+        "filename": "portrait.png",
+        "query": "version=1627289559",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

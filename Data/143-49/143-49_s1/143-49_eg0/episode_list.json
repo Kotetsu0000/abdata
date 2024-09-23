@@ -248,8 +248,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1369
+        }
+    },
+    {
+        "id": "143-49_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p10",
+            "filename": "thumb001.png",
+            "query": "version=1726567103",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話",
+            "content": "そのゲームは突然始まった―――。\n『多数欠』それは “多数派が失われる” 過酷な生き残りゲーム。\n絶大な力を持つ首謀者・皇帝に立ち向かうため、\n少年少女たちは謎の特殊能力「特権利」を手に 運命を切り開いていく！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1727028000
+                    "endAt": 1727632800
                 }
             ],
             "broadcastRegionPolicy": 1,

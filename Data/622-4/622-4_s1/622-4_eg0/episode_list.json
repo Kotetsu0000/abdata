@@ -306,8 +306,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1761922800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 175
+        }
+    },
+    {
+        "id": "622-4_s1_p12",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/622-4_s1_p12",
+            "filename": "thumb001.png",
+            "query": "version=1721891603",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 12,
+            "title": "第12話",
+            "content": "魔法も領地経営も、すべてにおいて天才過ぎる侯爵令嬢リリアのチートニューゲーム物語。生まれた時から前世の記憶を持ち、転生した異世界に魔法があると知り前世のゲーマー魂が滾るリリア。まだハイハイしかできない0歳児なのに、精力的にレベリングを行いはじめる。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1727021100
+                    "endAt": 1727625900
                 }
             ],
             "broadcastRegionPolicy": 1,
