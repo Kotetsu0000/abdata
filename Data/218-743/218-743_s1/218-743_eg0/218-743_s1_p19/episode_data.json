@@ -1,0 +1,127 @@
+{
+    "id": "218-743_s1_p19",
+    "series": {
+        "id": "218-743",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 みんなの愛がてんこ盛り!!!!!!!",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "thumb.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "portrait.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-743_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2619
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 19,
+        "title": "変態高橋Dが選ぶ！ オトナの夜•あ•そ•び♡",
+        "content": "高橋Dが選ぶ過去シリーズの夜あそびMC愛企画VTR"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727110565,
+    "endAt": 1821625200,
+    "freeEndAt": 1727637600,
+    "transcodeVersion": "6HfVET",
+    "sharedLink": {
+        "twitter": "https://abema.app/1CG2",
+        "facebook": "https://abema.app/1uPL",
+        "google": "https://abema.app/xtkH",
+        "line": "https://abema.app/JWqX",
+        "copy": "https://abema.app/fcbk",
+        "instagram": "https://abema.app/oo6i"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-743_s1_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-743_s1_p19/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-743_s1_p19/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-743_s1_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-743_s1_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 2608.4391666666666
+    },
+    "nextProgramInfo": {
+        "programId": "218-743_s1_p20",
+        "title": "視聴者が選ぶ！MCの夜あそび愛を感じた名場面①",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727110565,
+        "endAt": 1821625200,
+        "freeEndAt": 1727623800,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727623800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-743_s1_p19/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727637600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1821625200
+        }
+    ],
+    "episodeGroupId": "218-743_eg0"
+}

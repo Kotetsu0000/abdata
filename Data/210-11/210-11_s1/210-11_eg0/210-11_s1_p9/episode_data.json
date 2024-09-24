@@ -1,0 +1,157 @@
+{
+    "id": "210-11_s1_p9",
+    "series": {
+        "id": "210-11",
+        "title": "好きな子がめがねを忘れた",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "thumb.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "portrait.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話「好きな子と校外学習に行った」",
+        "content": "2人のクラスで校外学習が行われることになった。小村くんと三重さんはそれぞれ同じ班になることを密かに期待していたが、２人の気持ちを汲み取った友人の手助けもあり、晴れて一緒の班となる。校外学習ではめがねを絶対忘れないと息巻く三重さんだったが…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "小村楓：伊藤昌弘",
+            "三重あい：若山詩音",
+            "川戸あすか：内田彩",
+            "遠山まほ：鈴木みのり",
+            "東蓮：木村良平",
+            "染谷成海：下地紫野",
+            "火渕結衣花：宮下早紀"
+        ],
+        "crews": [
+            "総監督：工藤進",
+            "監督：横峯克昌",
+            "脚本：八薙玉造"
+        ],
+        "copyrights": [
+            "（C)藤近小梅／SQUARE ENIX・製作委員会がめがねを忘れた"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695806164,
+    "endAt": 1759244400,
+    "freeEndAt": 1727758800,
+    "transcodeVersion": "Tm22z",
+    "sharedLink": {
+        "twitter": "https://abema.app/6xvi",
+        "facebook": "https://abema.app/JrNg",
+        "google": "https://abema.app/Pt3i",
+        "line": "https://abema.app/2FqN",
+        "copy": "https://abema.app/uMx4",
+        "instagram": "https://abema.app/HyfR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p9/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/210-11_s1_p9/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-11_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1300.424125,
+        "opening": {
+            "start": 0.875875,
+            "end": 90.465375
+        },
+        "ending": {
+            "start": 1300.424125,
+            "end": 1390.3472916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-11_s1_p10",
+        "title": "第10話「好きな子にお願いされた」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695806164,
+        "endAt": 1759244400,
+        "freeEndAt": 1727758800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727758800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-11_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727758800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-11_eg0"
+}

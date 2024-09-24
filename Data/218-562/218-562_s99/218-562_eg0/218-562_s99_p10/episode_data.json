@@ -1,0 +1,122 @@
+{
+    "id": "218-562_s99_p10",
+    "series": {
+        "id": "218-562",
+        "title": "声優と夜あそび 2023",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-562",
+            "filename": "thumb.png",
+            "query": "version=1680764817",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-562",
+            "filename": "portrait.png",
+            "query": "version=1680764817",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-562_s99",
+        "sequence": 99,
+        "name": "特別放送",
+        "thumbComponent": {},
+        "order": 10
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_39",
+                "name": "AbemaTVオリジナル"
+            },
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 7287
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "【夜の部】声優と夜あそびフェスティバル2023",
+        "content": "2024年3月3日(日)に開催したイベントの夜の部の映像です。\n\n番組MC陣が集結！声優と夜あそびの大型イベント！ 特別な夜あそびをお届けいたします。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "安元洋貴",
+            "白井悠介",
+            "関智一",
+            "岡本信彦",
+            "金田朋子",
+            "仲村宗悟",
+            "石川界人",
+            "そびー"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1724297948,
+    "endAt": 1821711600,
+    "transcodeVersion": "65nQxJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/QfpY",
+        "facebook": "https://abema.app/61iX",
+        "google": "https://abema.app/8LME",
+        "line": "https://abema.app/CpBi",
+        "copy": "https://abema.app/DxbB",
+        "instagram": "https://abema.app/eLuU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-562_s99_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-562_s99_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-562_s99_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-562_s99_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 7282.275
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-562_s99_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1821711600
+        }
+    ],
+    "episodeGroupId": "218-562_eg0"
+}

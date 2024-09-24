@@ -1,0 +1,157 @@
+{
+    "id": "210-11_s1_p12",
+    "series": {
+        "id": "210-11",
+        "title": "好きな子がめがねを忘れた",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "thumb.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "portrait.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話「好きな子と調理実習したかった」",
+        "content": "調理実習で別の班になった2人。三重さんは学年一イケメンの東くんと同じ班になってしまい、小村くんは全く授業に集中できない。そんな小村くんの気持ちとは裏腹に、三重さんと東くんが楽しげに話していて…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "小村楓：伊藤昌弘",
+            "三重あい：若山詩音",
+            "川戸あすか：内田彩",
+            "遠山まほ：鈴木みのり",
+            "東蓮：木村良平",
+            "染谷成海：下地紫野",
+            "火渕結衣花：宮下早紀"
+        ],
+        "crews": [
+            "総監督：工藤進",
+            "監督：横峯克昌",
+            "脚本：八薙玉造"
+        ],
+        "copyrights": [
+            "（C)藤近小梅／SQUARE ENIX・製作委員会がめがねを忘れた"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695806164,
+    "endAt": 1759244400,
+    "freeEndAt": 1727758800,
+    "transcodeVersion": "32Dch8",
+    "sharedLink": {
+        "twitter": "https://abema.app/FxCZ",
+        "facebook": "https://abema.app/jpk5",
+        "google": "https://abema.app/NaJd",
+        "line": "https://abema.app/Rkas",
+        "copy": "https://abema.app/6fKP",
+        "instagram": "https://abema.app/f5cd"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p12/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/210-11_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-11_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1300.5075416666666,
+        "opening": {
+            "start": 94.76133333333334,
+            "end": 184.43425
+        },
+        "ending": {
+            "start": 1300.5075416666666,
+            "end": 1390.4307083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-11_s1_p13",
+        "title": "第13話「好きな子と約束をした」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1696154912,
+        "endAt": 1759244400,
+        "freeEndAt": 1727758800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727758800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-11_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727758800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-11_eg0"
+}

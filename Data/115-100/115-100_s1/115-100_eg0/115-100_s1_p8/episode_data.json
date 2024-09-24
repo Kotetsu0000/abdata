@@ -1,0 +1,156 @@
+{
+    "id": "115-100_s1_p8",
+    "series": {
+        "id": "115-100",
+        "title": "てんぷる",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-100",
+            "filename": "thumb.png",
+            "query": "version=1687504071",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-100",
+            "filename": "portrait.png",
+            "query": "version=1687504071",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-100_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 カメを見るとは縁起がいい",
+        "content": "三日月寺のクリスマスパーティーは、表向きはただの忘年会という形で行われる。料理に腕をふるう明光。お待ちかねのプレゼント交換でカグラが用意したのは、近所にある温泉宿のチケットだった。ところが、その温泉宿、どうも様子がおかしい。従業員一同が土下座でお出迎えしてくれるうえ、完全に貸し切り状態。疑うことなくウエルカムドリンクを口にした明光は、専用の温泉だと称する場所へ連れて行かれるが……。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "赤神明光：赤坂柾之",
+            "蒼葉結月：愛美",
+            "蒼葉月夜：芹澤優",
+            "蒼葉海月：山下七海",
+            "ミア・クリストフ：朝日奈丸佳",
+            "カグラ・ボールドウィン：上坂すみれ",
+            "嬉々：たかはし智秋",
+            "にゃごすけ：安済知佳"
+        ],
+        "crews": [
+            "原作：吉岡公威（講談社「コミックDAYS」連載）",
+            "監督：古賀一臣",
+            "キャラクターデザイン：勝又聖人",
+            "シリーズ構成：香椎葉平",
+            "プロップデザイン：高橋渚、小倉典子",
+            "色彩設定：長岡柚衣",
+            "美術監督：小島俊彦",
+            "撮影監督：堀川和人",
+            "編集：渡辺直樹",
+            "音響監督：阿部信行",
+            "音響効果：鈴木潤一朗",
+            "音楽：印南俊太朗",
+            "アニメーション制作：月虹"
+        ],
+        "copyrights": [
+            "(C)吉岡公威・講談社／てんぷる製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1696237121,
+    "endAt": 1727708400,
+    "freeEndAt": 1727672400,
+    "transcodeVersion": "7i9Tp",
+    "sharedLink": {
+        "twitter": "https://abema.app/4Zkc",
+        "facebook": "https://abema.app/uaJQ",
+        "google": "https://abema.app/RFZ7",
+        "line": "https://abema.app/uc2g",
+        "copy": "https://abema.app/6wsL",
+        "instagram": "https://abema.app/fiZv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-100_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-100_s1_p8/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/115-100_s1_p8/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-100_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-100_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.08375,
+        "opening": {
+            "start": 25.025,
+            "end": 114.989875
+        },
+        "ending": {
+            "start": 1335.08375,
+            "end": 1425.0069166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-100_s1_p9",
+        "title": "第9話 餅つきってえっちだよね",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1696237121,
+        "endAt": 1727708400,
+        "freeEndAt": 1727672400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727672400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-100_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727672400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "115-100_eg0"
+}

@@ -1,0 +1,138 @@
+{
+    "id": "218-743_s1_p2",
+    "series": {
+        "id": "218-743",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 みんなの愛がてんこ盛り!!!!!!!",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "thumb.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "portrait.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-743_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 7491
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "クイズがてんこ盛り！声優オールスター収穫祭 第1部",
+        "content": "人気声優たちによるクイズ大会を実施！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "安元洋貴",
+            "石川界人",
+            "関智一",
+            "仲村宗悟",
+            "畠中祐",
+            "金田朋子",
+            "林勇",
+            "明坂聡美",
+            "井澤詩織",
+            "日笠陽子",
+            "内田彩",
+            "三上枝織",
+            "津田美波",
+            "沢城千春",
+            "川島零士",
+            "そびー"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727110565,
+    "endAt": 1821538800,
+    "freeEndAt": 1727610600,
+    "transcodeVersion": "4vzN3T",
+    "sharedLink": {
+        "twitter": "https://abema.app/tP78",
+        "facebook": "https://abema.app/T2UN",
+        "google": "https://abema.app/vLAo",
+        "line": "https://abema.app/b2vh",
+        "copy": "https://abema.app/n1Pm",
+        "instagram": "https://abema.app/1wKW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-743_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-743_s1_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-743_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-743_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-743_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 7486.111966666666
+    },
+    "nextProgramInfo": {
+        "programId": "218-743_s1_p3",
+        "title": "アニメ愛がてんこ盛り！ 一夜限りのSP対談 浪川大輔xROLAND",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727110565,
+        "endAt": 1821538800,
+        "freeEndAt": 1727613600,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727613600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-743_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727610600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1821538800
+        }
+    ],
+    "episodeGroupId": "218-743_eg0"
+}

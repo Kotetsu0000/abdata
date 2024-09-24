@@ -1,0 +1,126 @@
+{
+    "id": "218-743_s1_p12",
+    "series": {
+        "id": "218-743",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 みんなの愛がてんこ盛り!!!!!!!",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "thumb.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "portrait.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-743_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "視聴者の愛がてんこ盛り！夜あそび愛カメラを再生してみた。",
+        "content": "ABEMAアニメ祭会場に置いてあるったカメラで撮った視聴者からの愛を再生！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "安元洋貴",
+            "森久保祥太郎",
+            "白井悠介",
+            "川島零士"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727110565,
+    "endAt": 1821625200,
+    "freeEndAt": 1727682000,
+    "transcodeVersion": "3PRmQp",
+    "sharedLink": {
+        "twitter": "https://abema.app/8kRC",
+        "facebook": "https://abema.app/KEVN",
+        "google": "https://abema.app/BbpN",
+        "line": "https://abema.app/vrKz",
+        "copy": "https://abema.app/sY2E",
+        "instagram": "https://abema.app/BZfG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-743_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-743_s1_p12/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-743_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-743_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-743_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 3469.232433333333
+    },
+    "nextProgramInfo": {
+        "programId": "218-743_s1_p13",
+        "title": "爪あと残せば今日売れる！？次世代声優 一芸SHOW！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727110565,
+        "endAt": 1821625200,
+        "freeEndAt": 1727687400,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727687400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-743_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727682000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1821625200
+        }
+    ],
+    "episodeGroupId": "218-743_eg0"
+}

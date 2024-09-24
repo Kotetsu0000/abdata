@@ -1,0 +1,157 @@
+{
+    "id": "210-11_s1_p5",
+    "series": {
+        "id": "210-11",
+        "title": "好きな子がめがねを忘れた",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "thumb.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "portrait.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話「好きな子とバレンタインデーに会った」",
+        "content": "季節はもうすぐバレンタイン。母親からおつかいを頼まれた小村くんは、三重さんからチョコレートをもらう妄想にふけながら街へと繰り出す。そんな妄想をしていたら、三重さんと偶然遭遇！成り行きでバレンタインフェア一色の街で行動を共にすることになり…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "小村楓：伊藤昌弘",
+            "三重あい：若山詩音",
+            "川戸あすか：内田彩",
+            "遠山まほ：鈴木みのり",
+            "東蓮：木村良平",
+            "染谷成海：下地紫野",
+            "火渕結衣花：宮下早紀"
+        ],
+        "crews": [
+            "総監督：工藤進",
+            "監督：横峯克昌",
+            "脚本：八薙玉造"
+        ],
+        "copyrights": [
+            "（C)藤近小梅／SQUARE ENIX・製作委員会がめがねを忘れた"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695806164,
+    "endAt": 1759244400,
+    "freeEndAt": 1727758800,
+    "transcodeVersion": "4smmca",
+    "sharedLink": {
+        "twitter": "https://abema.app/djTo",
+        "facebook": "https://abema.app/5CQU",
+        "google": "https://abema.app/vTNg",
+        "line": "https://abema.app/F3rn",
+        "copy": "https://abema.app/6zUD",
+        "instagram": "https://abema.app/d3KR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p5/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/210-11_s1_p5/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/210-11_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-11_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1300.54925,
+        "opening": {
+            "start": 48.715333333333334,
+            "end": 137.47066666666666
+        },
+        "ending": {
+            "start": 1300.54925,
+            "end": 1390.4724166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-11_s1_p6",
+        "title": "第6話「好きな子と新学期を迎えた」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695806164,
+        "endAt": 1759244400,
+        "freeEndAt": 1727758800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727758800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-11_s1_p5/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727758800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-11_eg0"
+}

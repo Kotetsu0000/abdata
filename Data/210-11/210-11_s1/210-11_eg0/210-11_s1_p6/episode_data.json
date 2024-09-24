@@ -1,0 +1,157 @@
+{
+    "id": "210-11_s1_p6",
+    "series": {
+        "id": "210-11",
+        "title": "好きな子がめがねを忘れた",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "thumb.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-11",
+            "filename": "portrait.png",
+            "query": "version=1688439823",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話「好きな子と新学期を迎えた」",
+        "content": "中学2年生から3年生へと進級し、新学期を迎えた2人。小村くんはまた三重さんと同じクラスになれて喜ぶのも束の間、席替えにより、となりの席ではなく離れ離れの席になってしまう。この先もめがねを忘れるであろう三重さんのサポートが出来なくなることを心配する小村くんだが…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "小村楓：伊藤昌弘",
+            "三重あい：若山詩音",
+            "川戸あすか：内田彩",
+            "遠山まほ：鈴木みのり",
+            "東蓮：木村良平",
+            "染谷成海：下地紫野",
+            "火渕結衣花：宮下早紀"
+        ],
+        "crews": [
+            "総監督：工藤進",
+            "監督：横峯克昌",
+            "脚本：八薙玉造"
+        ],
+        "copyrights": [
+            "（C)藤近小梅／SQUARE ENIX・製作委員会がめがねを忘れた"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1695806164,
+    "endAt": 1759244400,
+    "freeEndAt": 1727758800,
+    "transcodeVersion": "34KVGh",
+    "sharedLink": {
+        "twitter": "https://abema.app/q1HR",
+        "facebook": "https://abema.app/SxFE",
+        "google": "https://abema.app/FBQz",
+        "line": "https://abema.app/Zunb",
+        "copy": "https://abema.app/96QS",
+        "instagram": "https://abema.app/HsYA"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/210-11_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/210-11_s1_p6/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/210-11_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/210-11_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-11_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1300.5075416666666,
+        "opening": {
+            "start": 113.90545833333333,
+            "end": 203.45325
+        },
+        "ending": {
+            "start": 1300.5075416666666,
+            "end": 1390.4307083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "210-11_s1_p7",
+        "title": "第7話「好きな子のめがねを持って帰った」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1695806164,
+        "endAt": 1759244400,
+        "freeEndAt": 1727758800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727758800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-11_s1_p6/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727758800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "210-11_eg0"
+}

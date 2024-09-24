@@ -1,0 +1,129 @@
+{
+    "id": "218-743_s1_p7",
+    "series": {
+        "id": "218-743",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 みんなの愛がてんこ盛り!!!!!!!",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "thumb.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "portrait.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-743_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 7576
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "のぶ散歩 withたく",
+        "content": "岡本信彦が八代拓と朝活！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "岡本信彦",
+            "八代拓",
+            "真壁刀義",
+            "永田裕志",
+            "小島聡",
+            "早川賢一",
+            "松友美佐紀"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727110565,
+    "endAt": 1821625200,
+    "freeEndAt": 1727652600,
+    "transcodeVersion": "39bfdz",
+    "sharedLink": {
+        "twitter": "https://abema.app/uBtk",
+        "facebook": "https://abema.app/37r5",
+        "google": "https://abema.app/dCsV",
+        "line": "https://abema.app/Jh4r",
+        "copy": "https://abema.app/96Wx",
+        "instagram": "https://abema.app/Bwqj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-743_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-743_s1_p7/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-743_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-743_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-743_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 7571.730833333333
+    },
+    "nextProgramInfo": {
+        "programId": "218-743_s1_p8",
+        "title": "世代を越えて語り合え！ ぶっちゃけ声優放談",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727110565,
+        "endAt": 1821625200,
+        "freeEndAt": 1727665800,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727665800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-743_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727652600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1821625200
+        }
+    ],
+    "episodeGroupId": "218-743_eg0"
+}

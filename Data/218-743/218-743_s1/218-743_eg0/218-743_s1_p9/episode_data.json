@@ -1,0 +1,123 @@
+{
+    "id": "218-743_s1_p9",
+    "series": {
+        "id": "218-743",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 みんなの愛がてんこ盛り!!!!!!!",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "thumb.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "portrait.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-743_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1358
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "華麗にさばけ！せりこのマグロ解体ショー",
+        "content": "芹澤優がマグロ解体ショーに挑戦？！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "芹澤優"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727110565,
+    "endAt": 1821625200,
+    "freeEndAt": 1727661600,
+    "transcodeVersion": "2cEKJv",
+    "sharedLink": {
+        "twitter": "https://abema.app/QBRm",
+        "facebook": "https://abema.app/LC4s",
+        "google": "https://abema.app/k2wA",
+        "line": "https://abema.app/yvPx",
+        "copy": "https://abema.app/SLGH",
+        "instagram": "https://abema.app/MoS5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-743_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-743_s1_p9/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-743_s1_p9/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-743_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-743_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1353.890867
+    },
+    "nextProgramInfo": {
+        "programId": "218-743_s1_p10",
+        "title": "安元くんと愉快な夜あそびADたち in 九十九里 Part2",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727110565,
+        "endAt": 1821625200,
+        "freeEndAt": 1727672400,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727672400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-743_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727661600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1821625200
+        }
+    ],
+    "episodeGroupId": "218-743_eg0"
+}

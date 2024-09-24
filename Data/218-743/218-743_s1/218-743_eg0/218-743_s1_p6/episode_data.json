@@ -1,0 +1,127 @@
+{
+    "id": "218-743_s1_p6",
+    "series": {
+        "id": "218-743",
+        "title": "声優と夜あそび28時間テレビ 大感謝祭 みんなの愛がてんこ盛り!!!!!!!",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "thumb.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-743",
+            "filename": "portrait.png",
+            "query": "version=1725065165",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-743_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3281
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "安元くんと愉快な夜あそびADたち in 九十九里 Part1",
+        "content": "今年の安元くんは九十九里からお届け！「制作の裏側」や「出演者の知られざる顔」「愚痴・不平不満」を座談会で聞きます。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "安元洋貴"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727110565,
+    "endAt": 1821625200,
+    "freeEndAt": 1727641800,
+    "transcodeVersion": "6TquYE",
+    "sharedLink": {
+        "twitter": "https://abema.app/4RCZ",
+        "facebook": "https://abema.app/q9b2",
+        "google": "https://abema.app/Kr9w",
+        "line": "https://abema.app/vivo",
+        "copy": "https://abema.app/u7ju",
+        "instagram": "https://abema.app/tYTH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-743_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-743_s1_p6/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-743_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-743_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-743_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 3262.259
+    },
+    "nextProgramInfo": {
+        "programId": "218-743_s1_p7",
+        "title": "のぶ散歩 withたく",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727110565,
+        "endAt": 1821625200,
+        "freeEndAt": 1727652600,
+        "broadcastRegionPolicy": 0,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727652600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 0,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-743_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727641800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1821625200
+        }
+    ],
+    "episodeGroupId": "218-743_eg0"
+}
