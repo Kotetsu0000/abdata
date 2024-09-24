@@ -90,6 +90,27 @@ def get_episode_list(episode_group_id:str, season_id:str, limit:int=20, offset:i
     data = response.content.decode('utf-8')
     return json.loads(data)
 
+def get_episode_list_series(series_id:str, limit:int=20, offset:int=0, order_type:str='asc', headers:dict=None, proxies=None) -> dict:
+    '''Get the list of episodes from the AbemaTV API.
+
+    Args:
+        series_id (str): The series id.
+        limit (int, optional): The number of episodes to get. Defaults to 20.
+        offset (int, optional): The offset. Defaults to 0.
+        order_type (str, optional): The order type. Defaults to 'asc'.
+        headers (dict, optional): The headers. Defaults to None.
+        proxies ([type], optional): The proxies. Defaults to None.
+
+    Returns:
+        dict: The list of episodes.
+    '''
+    if headers is None:
+        headers = get_header()
+    url = f'https://api.p-c3-e.abema-tv.com/v1/video/series/{series_id}/programs?limit={limit}&offset={offset}&orderType={order_type}'
+    response = requests.get(url, headers=headers, proxies=proxies)
+    data = response.content.decode('utf-8')
+    return json.loads(data)
+
 def get_episode_overview(episode_id:str, division:int=0, includes:str='tvod', headers:dict=None, proxies=None) -> dict:
     '''Get the overview of an episode from the AbemaTV API.
 
