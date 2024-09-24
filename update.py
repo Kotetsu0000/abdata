@@ -136,6 +136,14 @@ class Update_Data:
                     logger.info(f"{threading.current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['overview_path']}の詳細情報を保存しました。")
                     seasons = item['data'].get('seasons', [])
                     if seasons is None:
+                        self.thread_send_queue.put({
+                            'func': 'get_episode_list_series', 
+                            'series_id': item['series_id'],
+                            'anime_path': item['anime_path'],
+                            'text': f'{item["text"]}',
+                            'episode_list': [],
+                            'offset': 0,
+                        })
                         continue
                     for j, season in enumerate(seasons):
                         SEASON_ID = season['id']
@@ -296,6 +304,7 @@ class Update_Data:
                     recv_data = {
                         'func': item['func'],
                         'data': anime_overview,
+                        'series_id': item['series_id'],
                         'anime_path': item['anime_path'],
                         'overview_path': item['overview_path'],
                         'text': item['text'],
@@ -345,6 +354,50 @@ class Update_Data:
                             'text': item['text'],
                         }
                         self.thread_recv_queue.put(recv_data)
+                elif item['func'] == 'get_episode_list_series':
+                    logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, シリーズのエピソードリストを取得します。SeriesID: {item['series_id']}")
+                    limit = 100
+                    try:
+                        episode_list = API_auth.get_episode_list_series(item['series_id'], offset=item['offset'], limit=limit, headers=headers, proxies=proxies)
+                        SEASON_ID = episode_list['programs']['season']['id']
+                        SEASON_PATH = f"{item['anime_path']}/{SEASON_ID}"
+                        SEASON_THUMBNAIL_URL = f"{episode_list['programs']['season']['thumbComponent']['urlPrefix']}/{episode_list['programs']['season']['thumbComponent']['filename']}"
+                        SEASON_THUMBNAIL_PATH = f"{SEASON_PATH}/{episode_list['programs']['season']['thumbComponent']['filename']}"
+                        EPISODE_GROUP_ID = episode_list['programs']['episodeGroupId']
+                        EPISODE_GROUP_PATH = f"{SEASON_PATH}/{EPISODE_GROUP_ID}"
+                        EPISODE_GROUP_EPISODE_LIST_PATH = f"{EPISODE_GROUP_PATH}/episode_list.json"
+                        send_data = {
+                            'func': 'get_episode_list',
+                            'season_id': SEASON_ID,
+                            'episode_group_id': EPISODE_GROUP_ID,
+                            'episode_group_path': EPISODE_GROUP_PATH,
+                            'episode_group_episode_list_path': EPISODE_GROUP_EPISODE_LIST_PATH,
+                            'text': f'Season : 1/1, EpisodeGroup : 1/1, {item["text"]}',
+                            'episode_list': [],
+                            'offset': 0,
+                        }
+                        self.thread_send_queue.put(send_data)
+                        self.download_img_list.append({
+                            'url': SEASON_THUMBNAIL_URL,
+                            'file_name': SEASON_THUMBNAIL_PATH
+                        })
+                    except JSONDecodeError:
+                        logger.info(f"{thread_name:>10}: JSONDecodeErrorが発生しました。")
+                        error_num, process = self.error_occured(error_num, process, tor_file, proxy)
+                        self.thread_send_queue.put(item)
+                        time.sleep(self.sleep_time)
+                    except:
+                        logger.info(f"{thread_name:>10}: 予期せぬエラーが発生しました。")
+                        
+                        process.terminate()
+                        process.wait()
+                        logger.info(f"{thread_name:>10}: Torプロセスが終了しました。")
+                        process = self.tor_start(tor_file)
+                        self.test_acsess(proxy)
+                        error_num = 0
+
+                        self.thread_send_queue.put(item)
+                        time.sleep(self.sleep_time)
                 elif item['func'] == 'get_episode_overview':
                     logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, エピソードの詳細情報を取得します。EpisodeID: {item['episode_id']}, {item['text']}")
                     try:
