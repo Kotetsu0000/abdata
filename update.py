@@ -237,6 +237,7 @@ class Update_Data:
         return tor_process
 
     def thread_Abema_data_DL(self, proxy, tor_file):
+        headers = API_auth.get_header()
         error_num = 0
         process = self.tor_start(tor_file)
         self.test_acsess(proxy)
@@ -269,7 +270,7 @@ class Update_Data:
                 elif item['func'] == 'get_anime_overview':
                     logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, アニメの詳細情報を取得します。SeriesID: {item['series_id']}, {item['text']}")
                     try:
-                        anime_overview = API_auth.get_anime_overview(item['series_id'], headers=self.headers, proxies=proxies)
+                        anime_overview = API_auth.get_anime_overview(item['series_id'], headers=headers, proxies=proxies)
                         #logger.info(f"{thread_name:>10}: 取得したアニメの詳細情報：{anime_overview}")
                     except JSONDecodeError:
                         logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, JSONDecodeErrorが発生しました。")
@@ -304,7 +305,7 @@ class Update_Data:
                     logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, エピソードリストを取得します。SeasonID: {item['season_id']}, EpisodeGroupID: {item['episode_group_id']}, {item['text']}")
                     limit = 100
                     try:
-                        episode_list = API_auth.get_episode_list(item['episode_group_id'], item['season_id'], offset=item['offset'], limit=limit, headers=self.headers, proxies=proxies)
+                        episode_list = API_auth.get_episode_list(item['episode_group_id'], item['season_id'], offset=item['offset'], limit=limit, headers=headers, proxies=proxies)
                         item['episode_list'].extend(episode_list['episodeGroupContents'])
                         logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, 取得したエピソードリストの長さ：{len(episode_list['episodeGroupContents'])}, 合計：{len(item['episode_list'])}")
                         #logger.info(f"{thread_name:>10}: {episode_list}")
@@ -347,7 +348,7 @@ class Update_Data:
                 elif item['func'] == 'get_episode_overview':
                     logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, エピソードの詳細情報を取得します。EpisodeID: {item['episode_id']}, {item['text']}")
                     try:
-                        episode_data = API_auth.get_episode_overview(item['episode_id'], headers=self.headers, proxies=proxies)
+                        episode_data = API_auth.get_episode_overview(item['episode_id'], headers=headers, proxies=proxies)
                     except JSONDecodeError:
                         logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, JSONDecodeErrorが発生しました。")
                         error_num, process = self.error_occured(error_num, process, tor_file, proxy)
