@@ -68,16 +68,26 @@ def main():
         old_summarization_data = load_json(f'{data_path}/summarization.json')
         for key, value in summarization_data.items():
             if key not in old_summarization_data.keys():
-                diff_summarization_data[key+'_add'] = value
+                if 'add' not in diff_summarization_data.keys():
+                    diff_summarization_data['add'] = {}
+                if key not in old_summarization_data['add'].keys():
+                    diff_summarization_data['add'][key] = value
+                    diff_summarization_data['add'][key]['title'] = value['title']
+                diff_summarization_data['add'][key] = value
         for key, value in old_summarization_data.items():
             if key not in summarization_data.keys():
-                diff_summarization_data[key+'_del'] = value
-
+                if 'del' not in diff_summarization_data.keys():
+                    diff_summarization_data['del'] = {}
+                if key not in old_summarization_data['del'].keys():
+                    diff_summarization_data['del'][key] = value
+                    diff_summarization_data['del'][key]['title'] = value['title']
+                diff_summarization_data['del'][key] = value
             else:
                 for k, v in value.items():
                     if old_summarization_data[key][k] != summarization_data[key][k]:
                         if key not in diff_summarization_data.keys():
                             diff_summarization_data[key] = {}
+                            diff_summarization_data[key]['title'] = summarization_data[key]['title']
                         diff_summarization_data[key][k+'_new'] = summarization_data[key][k]
                         diff_summarization_data[key][k+'_old'] = old_summarization_data[key][k]
         save_json(diff_summarization_data, f'{data_path}/diff_summarization.json')
@@ -103,6 +113,7 @@ def main():
                             diff_episode_dicts['change'] = {}
                         if key not in diff_episode_dicts['change'].keys():
                             diff_episode_dicts['change'][key] = {}
+                            diff_episode_dicts['change'][key]['title'] = episode_dicts[key]['title']
                         diff_episode_dicts['change'][key][k+'_new'] = episode_dicts[key][k]
                         diff_episode_dicts['change'][key][k+'_old'] = old_episode_dicts[key][k]
         save_json(diff_episode_dicts, f'{data_path}/diff_episode_summarization.json')
