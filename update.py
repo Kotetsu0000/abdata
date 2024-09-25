@@ -135,16 +135,21 @@ class Update_Data:
                     API_auth.save_json(item['data'], item['overview_path'])
                     logger.info(f"{threading.current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['overview_path']}の詳細情報を保存しました。")
                     seasons = item['data'].get('seasons', [])
+                    send_data = {
+                        'func': 'get_episode_list_series', 
+                        'series_id': item['series_id'],
+                        'anime_path': item['anime_path'],
+                        'text': f'{item["text"]}',
+                        'programs': [],
+                        'offset': 0,
+                    }
                     if seasons is None:
-                        self.thread_send_queue.put({
-                            'func': 'get_episode_list_series', 
-                            'series_id': item['series_id'],
-                            'anime_path': item['anime_path'],
-                            'text': f'{item["text"]}',
-                            'episode_list': [],
-                            'offset': 0,
-                        })
+                        send_data['seasons_None'] = True
+                        self.thread_send_queue.put(send_data)
                         continue
+                    else:
+                        send_data['seasons_None'] = False
+                        self.thread_send_queue.put(send_data)
                     for j, season in enumerate(seasons):
                         SEASON_ID = season['id']
                         SEASON_PATH = f"{item['anime_path']}/{SEASON_ID}"
@@ -190,6 +195,23 @@ class Update_Data:
                                 'episode_data_path': EPISODE_DATA_PATH, 
                                 'text':f'Epiode : {l+1}/{len(item["data"])}, {item["text"]}', 
                             })
+                elif item['func'] == 'get_episode_list_series':
+                    API_auth.save_json(item['data'], f"{item['anime_path']}/episode_list_series.json")
+                    logger.info(f"{threading.current_thread().getName()}: Queue length={self.thread_send_queue.qsize():>5}, {item['anime_path']}/episode_list_series.jsonのエピソードリストを保存しました。")
+                    if item['seasons_None']:
+                        for l, program in enumerate(item['data']):
+                            EPISODE_ID = program['id']
+                            EPISODE_PATH = f"{item['anime_path']}/{EPISODE_ID}"
+                            EPISODE_DATA_PATH = f"{EPISODE_PATH}/episode_data.json"
+                            if not file_exists(EPISODE_DATA_PATH):
+                                self.thread_send_queue.put({
+                                    'func': 'get_episode_overview', 
+                                    'episode_id': EPISODE_ID, 
+                                    'episode_path': EPISODE_PATH, 
+                                    'episode_data_path': EPISODE_DATA_PATH, 
+                                    'text':f'Epiode : {l+1}/{len(item["data"])}, {item["text"]}',
+                                })
+                                
                 elif item['func'] == 'get_episode_overview':
                     make_path(item['episode_path'])
                     API_auth.save_json(item['data'], item['episode_data_path'])
@@ -205,9 +227,10 @@ class Update_Data:
         for i, anime in enumerate(anime_list.get('cards', [])):
             ANIME_PATH           = f"{self.BASE_PATH}/{anime['seriesId']}"
             ANIME_OVERVIEW_PATH  = f"{ANIME_PATH}/overview.json"
+            ANIME_SERIES_PATH    = f"{ANIME_PATH}/episode_list_series.json"
             ANIME_THUMBNAIL_PATH = f"{ANIME_PATH}/{anime['thumbComponent']['filename']}"
             PORTRAIT_PATH        = f"{ANIME_PATH}/{anime['thumbPortraitComponent']['filename']}"
-            assert file_exists(ANIME_OVERVIEW_PATH)
+            assert file_exists(ANIME_OVERVIEW_PATH) and file_exists(ANIME_SERIES_PATH)
             logger.info(f"{threading.current_thread().getName()}: {ANIME_OVERVIEW_PATH}の詳細情報を取得を確認しました。")
             #assert file_exists(ANIME_THUMBNAIL_PATH)
             #logger.info(f"{ANIME_THUMBNAIL_PATH}のサムネイルを取得を確認しました。")
@@ -317,7 +340,6 @@ class Update_Data:
                         episode_list = API_auth.get_episode_list(item['episode_group_id'], item['season_id'], offset=item['offset'], limit=limit, headers=headers, proxies=proxies)
                         item['episode_list'].extend(episode_list['episodeGroupContents'])
                         logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, 取得したエピソードリストの長さ：{len(episode_list['episodeGroupContents'])}, 合計：{len(item['episode_list'])}")
-                        #logger.info(f"{thread_name:>10}: {episode_list}")
                         item['offset'] += limit
                         if len(episode_list['episodeGroupContents']) != 0:
                             logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, 取得途中です。SeasonID: {item['season_id']}, EpisodeGroupID: {item['episode_group_id']}, {item['text']}")
@@ -359,33 +381,17 @@ class Update_Data:
                     limit = 100
                     try:
                         episode_list = API_auth.get_episode_list_series(item['series_id'], offset=item['offset'], limit=limit, headers=headers, proxies=proxies)
-                        SEASON_ID = episode_list['programs']['season']['id']
-                        SEASON_PATH = f"{item['anime_path']}/{SEASON_ID}"
-                        SEASON_THUMBNAIL_URL = f"{episode_list['programs']['season']['thumbComponent']['urlPrefix']}/{episode_list['programs']['season']['thumbComponent']['filename']}"
-                        SEASON_THUMBNAIL_PATH = f"{SEASON_PATH}/{episode_list['programs']['season']['thumbComponent']['filename']}"
-                        EPISODE_GROUP_ID = episode_list['programs']['episodeGroupId']
-                        EPISODE_GROUP_PATH = f"{SEASON_PATH}/{EPISODE_GROUP_ID}"
-                        EPISODE_GROUP_EPISODE_LIST_PATH = f"{EPISODE_GROUP_PATH}/episode_list.json"
-                        send_data = {
-                            'func': 'get_episode_list',
-                            'season_id': SEASON_ID,
-                            'episode_group_id': EPISODE_GROUP_ID,
-                            'episode_group_path': EPISODE_GROUP_PATH,
-                            'episode_group_episode_list_path': EPISODE_GROUP_EPISODE_LIST_PATH,
-                            'text': f'Season : 1/1, EpisodeGroup : 1/1, {item["text"]}',
-                            'episode_list': [],
-                            'offset': 0,
-                        }
-                        self.thread_send_queue.put(send_data)
-                        self.download_img_list.append({
-                            'url': SEASON_THUMBNAIL_URL,
-                            'file_name': SEASON_THUMBNAIL_PATH
-                        })
+                        item['programs'].extend(episode_list['programs'])
+                        if len(episode_list['programs']) != 0:
+                            logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, 取得途中です。SeriesID: {item['series_id']}")
+                            item['offset'] += limit
+                            self.thread_send_queue.put(item)
                     except JSONDecodeError:
                         logger.info(f"{thread_name:>10}: JSONDecodeErrorが発生しました。")
                         error_num, process = self.error_occured(error_num, process, tor_file, proxy)
                         self.thread_send_queue.put(item)
                         time.sleep(self.sleep_time)
+                        continue
                     except:
                         logger.info(f"{thread_name:>10}: 予期せぬエラーが発生しました。")
                         
@@ -398,6 +404,19 @@ class Update_Data:
 
                         self.thread_send_queue.put(item)
                         time.sleep(self.sleep_time)
+                        continue
+                    time.sleep(self.sleep_time)
+                    if len(episode_list['programs']) == 0:
+                        logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, シリーズのエピソードリストの取得が完了しました。SeriesID: {item['series_id']}")
+                        recv_data = {
+                            'func': item['func'],
+                            'data': item['programs'],
+                            'series_id': item['series_id'],
+                            'anime_path': item['anime_path'],
+                            'seasons_None': item['seasons_None'],
+                            'text': item['text'],
+                        }
+                        self.thread_recv_queue.put(recv_data)
                 elif item['func'] == 'get_episode_overview':
                     logger.info(f"{thread_name:>10}: Queue length={self.thread_send_queue.qsize():>5}, エピソードの詳細情報を取得します。EpisodeID: {item['episode_id']}, {item['text']}")
                     try:
