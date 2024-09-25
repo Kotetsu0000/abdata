@@ -1,9 +1,9 @@
 name: Update Data
 
 on:
-  #schedule:
-  #  - cron: '0 16 * * *'  # 毎日1時に実行
-  workflow_dispatch:  # 手動実行のトリガー
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -39,6 +39,9 @@ jobs:
 
     - name: Update data
       run: python update.py
+      
+    - name: Summarize data
+      run: python summarization.py
 
     - name: Commit and push if changes
       if: github.ref == 'refs/heads/main'
