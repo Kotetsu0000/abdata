@@ -34,16 +34,34 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "169-116_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/169-116_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1726823718",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "169-116_eg1",
+                    "name": "予告"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)北山結莉・ホビージャパン／『精霊幻想記』製作委員会"
     ],
     "label": {
-        "free": true,
+        "someFree": true,
         "newest": true
     },
-    "version": "1726290329950715366",
+    "version": "1727257967458827875",
     "imageUpdatedAt": 1627615495,
     "programOrder": "seq",
     "sharedLink": {
@@ -67,9 +85,8 @@
         "extension": "png"
     },
     "onDemandTypes": [
-        3
+        1
     ],
-    "freeBenefitTag": "全話無料",
     "contentPattern": 1,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
 }

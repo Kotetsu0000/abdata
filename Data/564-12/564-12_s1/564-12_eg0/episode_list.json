@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1726653031",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1727084575",
+            "query": "version=1727252826",
             "extension": "png"
         },
         "episode": {
@@ -277,8 +277,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1452
+        }
+    },
+    {
+        "id": "564-12_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/564-12_s1_p11",
+            "filename": "thumb001.png",
+            "query": "version=1727252826",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話 守らぬ者たち",
+            "content": "最近、冒険者の間では仲間殺しのパーティーについての話題で持ち切り。外面がよく、冒険者ギルドの上層部に気に入られているらしい彼らは、ずいぶんとやりたい放題のよう。そんな彼らがアントムルグのダンジョンにも魔の手を伸ばしていると知り、ベルは警戒していた。そしてついに、ダンジョン内で恐れていたことが起きてしまう。治安維持のため、ベルとクレイはルール違反者の対処へと向かう。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1727271000
+                    "endAt": 1727875800
                 }
             ],
             "broadcastRegionPolicy": 1,

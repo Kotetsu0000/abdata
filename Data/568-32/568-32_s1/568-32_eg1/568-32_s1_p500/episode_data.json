@@ -1,0 +1,107 @@
+{
+    "id": "568-32_s1_p500",
+    "series": {
+        "id": "568-32",
+        "title": "チ。 －地球の運動について－",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/568-32",
+            "filename": "thumb.png",
+            "query": "version=1725008549",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/568-32",
+            "filename": "portrait.png",
+            "query": "version=1725008549",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "568-32_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 122
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【10/5より毎週土曜24:10〜無料独占・見放題最速】",
+        "content": "15世紀のヨーロッパ某国。飛び級で大学への進学を認められた神童・ラファウ。\n\n彼は周囲の期待に応え、当時最も重要とされていた神学を専攻すると宣言。\n\nが、以前から熱心に打ち込んでいる天文への情熱は捨てられずにいた。\n\n\n\nある日、彼はフベルトという謎めいた学者と出会う。\n\n異端思想に基づく禁忌に触れたため拷問を受け、投獄されていたというフベルト。\n\n\n\n彼が研究していたのは、宇宙に関する衝撃的な「ある仮説」だった――。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ラファウ:坂本真綾",
+            "ノヴァク:津田健次郎",
+            "フベルト:速水奨"
+        ],
+        "crews": [
+            "原作:魚豊",
+            "アニメーション制作:マッドハウス"
+        ],
+        "copyrights": [
+            "(C)魚豊/小学館/チ。 ―地球の運動について—製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725008567,
+    "endAt": 1735657200,
+    "freeEndAt": 1735657200,
+    "transcodeVersion": "6AqM7g",
+    "sharedLink": {
+        "twitter": "https://abema.app/dsuf",
+        "facebook": "https://abema.app/W47k",
+        "google": "https://abema.app/Zj8s",
+        "line": "https://abema.app/gZXm",
+        "copy": "https://abema.app/7LYZ",
+        "instagram": "https://abema.app/no4S"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/568-32_s1_p500/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/568-32_s1_p500/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/568-32_s1_p500/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/568-32_s1_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.568-32_s1_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 117.117
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/568-32_s1_p500/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "568-32_eg1"
+}
