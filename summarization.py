@@ -70,16 +70,14 @@ def main():
             if key not in old_summarization_data.keys():
                 if 'add' not in diff_summarization_data.keys():
                     diff_summarization_data['add'] = {}
-                if key not in old_summarization_data['add'].keys():
-                    diff_summarization_data['add'][key] = value
+                if key not in diff_summarization_data['add'].keys():
                     diff_summarization_data['add'][key]['title'] = value['title']
                 diff_summarization_data['add'][key] = value
         for key, value in old_summarization_data.items():
             if key not in summarization_data.keys():
                 if 'del' not in diff_summarization_data.keys():
                     diff_summarization_data['del'] = {}
-                if key not in old_summarization_data['del'].keys():
-                    diff_summarization_data['del'][key] = value
+                if key not in diff_summarization_data['del'].keys():
                     diff_summarization_data['del'][key]['title'] = value['title']
                 diff_summarization_data['del'][key] = value
             else:
@@ -99,11 +97,19 @@ def main():
             if key not in old_episode_dicts.keys():
                 if 'add' not in diff_episode_dicts.keys():
                     diff_episode_dicts['add'] = {}
+                if key not in diff_episode_dicts['add'].keys():
+                    diff_episode_dicts['add'][key]['animeTitle'] = summarization_data[value['id'].split('_')[0]]['title']
+                    diff_episode_dicts['add'][key]['episodeTitle'] = value['title']
+                    diff_episode_dicts['add']['episodeNumber'] = value['episodeNumber']
                 diff_episode_dicts['add'][key] = value
         for key, value in old_episode_dicts.items():
             if key not in episode_dicts.keys():
                 if 'del' not in diff_episode_dicts.keys():
                     diff_episode_dicts['del'] = {}
+                if key not in diff_episode_dicts['del'].keys():
+                    diff_episode_dicts['del'][key]['animeTitle'] = summarization_data[value['id'].split('_')[0]]['title']
+                    diff_episode_dicts['del'][key]['episodeTitle'] = value['title']
+                    diff_episode_dicts['del']['episodeNumber'] = value['episodeNumber']
                 diff_episode_dicts['del'][key] = value
 
             else:
@@ -113,7 +119,9 @@ def main():
                             diff_episode_dicts['change'] = {}
                         if key not in diff_episode_dicts['change'].keys():
                             diff_episode_dicts['change'][key] = {}
-                            diff_episode_dicts['change'][key]['title'] = episode_dicts[key]['title']
+                            diff_episode_dicts['change'][key]['animeTitle'] = summarization_data[value['id'].split('_')[0]]['title']
+                            diff_episode_dicts['change'][key]['episodeTitle'] = value['title']
+                            diff_episode_dicts['change']['episodeNumber'] = value['episodeNumber']
                         diff_episode_dicts['change'][key][k+'_new'] = episode_dicts[key][k]
                         diff_episode_dicts['change'][key][k+'_old'] = old_episode_dicts[key][k]
         save_json(diff_episode_dicts, f'{data_path}/diff_episode_summarization.json')
