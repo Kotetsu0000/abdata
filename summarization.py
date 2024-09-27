@@ -60,7 +60,8 @@ def main():
         summarization_data[anime['seriesId']] = summarize_anime_overview(f'{data_path}/{anime["seriesId"]}')
 
     episode_dicts = {}
-    for epispde_dir in get_episode_dirs(data_path):
+    episode_dirs, series_ids = get_episode_dirs(summarization_data)
+    for epispde_dir in episode_dirs:
         episode_dicts.update(summarize_episode(epispde_dir))
 
     if file_exisits(f'{data_path}/summarization.json'):
@@ -71,6 +72,7 @@ def main():
                 if 'add' not in diff_summarization_data.keys():
                     diff_summarization_data['add'] = {}
                 if key not in diff_summarization_data['add'].keys():
+                    diff_summarization_data['add'][key] = {}
                     diff_summarization_data['add'][key]['title'] = value['title']
                 diff_summarization_data['add'][key] = value
         for key, value in old_summarization_data.items():
@@ -78,6 +80,7 @@ def main():
                 if 'del' not in diff_summarization_data.keys():
                     diff_summarization_data['del'] = {}
                 if key not in diff_summarization_data['del'].keys():
+                    diff_summarization_data['del'][key] = {}
                     diff_summarization_data['del'][key]['title'] = value['title']
                 diff_summarization_data['del'][key] = value
             else:
@@ -93,35 +96,46 @@ def main():
     if file_exisits(f'{data_path}/episode_summarization.json'):
         diff_episode_dicts = {}
         old_episode_dicts = load_json(f'{data_path}/episode_summarization.json')
-        for key, value in episode_dicts.items():
+        for (key, value), series_id in zip(episode_dicts.items(), series_ids):
             if key not in old_episode_dicts.keys():
                 if 'add' not in diff_episode_dicts.keys():
                     diff_episode_dicts['add'] = {}
-                if key not in diff_episode_dicts['add'].keys():
-                    diff_episode_dicts['add'][key]['animeTitle'] = summarization_data[value['id'].split('_')[0]]['title']
-                    diff_episode_dicts['add'][key]['episodeTitle'] = value['title']
-                    diff_episode_dicts['add']['episodeNumber'] = value['episodeNumber']
-                diff_episode_dicts['add'][key] = value
+                logger.info(f'Added: {key}')
+                diff_episode_dicts['add'][key] = {}
+                diff_episode_dicts['add'][key]['id'] = value['id']
+                diff_episode_dicts['add'][key]['animeTitle'] = load_json(f'{data_path}/{series_id}/overview.json')['title']
+                diff_episode_dicts['add'][key]['episodeTitle'] = value['title']
+                logger.info(f'{diff_episode_dicts["add"][key]["episodeTitle"]}')
+                diff_episode_dicts['add'][key]['episodeNumber'] = value['episodeNumber']
+                for k, v in value.items():
+                    if k not in ['title']:    
+                        diff_episode_dicts['add'][key][k] = v
         for key, value in old_episode_dicts.items():
             if key not in episode_dicts.keys():
                 if 'del' not in diff_episode_dicts.keys():
                     diff_episode_dicts['del'] = {}
                 if key not in diff_episode_dicts['del'].keys():
-                    diff_episode_dicts['del'][key]['animeTitle'] = summarization_data[value['id'].split('_')[0]]['title']
+                    logger.info(f'Deleted: {key}')
+                    diff_episode_dicts['del'][key] = {}
+                    diff_episode_dicts['del'][key]['id'] = value['id']
+                    diff_episode_dicts['del'][key]['animeTitle'] = load_json(f'{data_path}/{series_id}/overview.json')['title']
                     diff_episode_dicts['del'][key]['episodeTitle'] = value['title']
-                    diff_episode_dicts['del']['episodeNumber'] = value['episodeNumber']
-                diff_episode_dicts['del'][key] = value
-
+                    diff_episode_dicts['del'][key]['episodeNumber'] = value['episodeNumber']
+                for k, v in value.items():
+                    if k not in ['title']:
+                        diff_episode_dicts['del'][key][k] = v
             else:
                 for k, v in value.items():
                     if old_episode_dicts[key][k] != episode_dicts[key][k]:
                         if 'change' not in diff_episode_dicts.keys():
                             diff_episode_dicts['change'] = {}
                         if key not in diff_episode_dicts['change'].keys():
+                            logger.info(f'Changed: {key}')
                             diff_episode_dicts['change'][key] = {}
-                            diff_episode_dicts['change'][key]['animeTitle'] = summarization_data[value['id'].split('_')[0]]['title']
+                            diff_episode_dicts['change'][key]['id'] = value['id']
+                            diff_episode_dicts['change'][key]['animeTitle'] = load_json(f'{data_path}/{series_id}/overview.json')['title']
                             diff_episode_dicts['change'][key]['episodeTitle'] = value['title']
-                            diff_episode_dicts['change']['episodeNumber'] = value['episodeNumber']
+                            diff_episode_dicts['change'][key]['episodeNumber'] = value['episodeNumber']
                         diff_episode_dicts['change'][key][k+'_new'] = episode_dicts[key][k]
                         diff_episode_dicts['change'][key][k+'_old'] = old_episode_dicts[key][k]
         save_json(diff_episode_dicts, f'{data_path}/diff_episode_summarization.json')
@@ -146,7 +160,7 @@ def summarize_anime_overview(series_path:str) -> dict:
     logger.info(f'Loaded the anime list: {series_path}')
     return anime_dict
 
-def get_episode_dirs(path:str) -> list:
+def get_episode_dirs_(path:str) -> list:
     episode_dirs = []
     for series_dir in get_dir_paths(path):
         if len(get_dir_paths(series_dir)) == 0:
@@ -171,6 +185,37 @@ def get_episode_dirs(path:str) -> list:
                         else:
                             Exception(f'Unknown directory: {episode_group_dir}')
     return episode_dirs
+
+def get_episode_dirs(summarization_data:dict) -> list:
+    episode_dirs = []
+    series_ids = []
+    for key, value in summarization_data.items():
+        path = f'./Data/{key}'
+        if len(get_dir_paths(path)) == 0:
+            continue
+        if file_exisits(f'{get_dir_paths(path)[0]}/episode_data.json'):
+            episode_dirs.append(path)
+            series_ids.append(key)
+            logger.info(f'Added: {path}')
+        else:
+            for season_dir in get_dir_paths(path):
+                if len(get_dir_paths(season_dir)) == 0:
+                    continue
+                if file_exisits(f'{get_dir_paths(season_dir)[0]}/episode_data.json'):
+                    episode_dirs.append(season_dir)
+                    series_ids.append(key)
+                    logger.info(f'Added: {season_dir}')
+                else:
+                    for episode_group_dir in get_dir_paths(season_dir):
+                        if len(get_dir_paths(episode_group_dir)) == 0:
+                            continue
+                        if file_exisits(f'{get_dir_paths(episode_group_dir)[0]}/episode_data.json'):
+                            episode_dirs.append(episode_group_dir)
+                            series_ids.append(key)
+                            logger.info(f'Added: {episode_group_dir}')
+                        else:
+                            Exception(f'Unknown directory: {episode_group_dir}')
+    return episode_dirs, series_ids
 
 def summarize_episode(path:str) -> dict:
     logger.info(f'Loading the episode list: {path}')
