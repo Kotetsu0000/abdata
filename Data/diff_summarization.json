@@ -1,53 +1,51 @@
 {
     "change": {
-        "420-11": {
-            "title": "転生したらスライムだった件",
-            "onDemandTypes_new": [
-                "プレミアム"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム",
-                "無料"
-            ]
-        },
-        "25-92": {
-            "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+        "248-16": {
+            "title": "戦国妖狐",
             "seasons_new": [
                 {
-                    "id": "25-92_s1",
+                    "id": "248-16_s1",
                     "sequence": 1,
-                    "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+                    "name": "世直し姉弟編",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-92_s1",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/248-16_s1",
                         "filename": "default_thumb.png",
-                        "query": "version=1726568560",
+                        "query": "version=1703478764",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "25-92_eg0",
+                            "id": "248-16_eg0",
                             "name": "本編"
+                        },
+                        {
+                            "id": "248-16_eg2",
+                            "name": "総集編"
                         }
                     ],
                     "order": 1
                 },
                 {
-                    "id": "25-92_s2",
+                    "id": "248-16_s2",
                     "sequence": 2,
-                    "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+                    "name": "千魔混沌編",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-92_s2",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/248-16_s2",
                         "filename": "default_thumb.png",
-                        "query": "version=1726562943",
+                        "query": "version=1724652472",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "25-92_eg1",
-                            "name": "PV"
+                            "id": "248-16_eg0",
+                            "name": "本編"
                         },
                         {
-                            "id": "25-92_eg2",
+                            "id": "248-16_eg2",
+                            "name": "総集編"
+                        },
+                        {
+                            "id": "248-16_eg3",
                             "name": "特番"
                         }
                     ],
@@ -56,41 +54,59 @@
             ],
             "seasons_old": [
                 {
-                    "id": "25-92_s1",
+                    "id": "248-16_s1",
                     "sequence": 1,
-                    "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+                    "name": "世直し姉弟編",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-92_s1",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/248-16_s1",
                         "filename": "default_thumb.png",
-                        "query": "version=1726568560",
+                        "query": "version=1703478764",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "25-92_eg0",
+                            "id": "248-16_eg0",
                             "name": "本編"
+                        },
+                        {
+                            "id": "248-16_eg2",
+                            "name": "総集編"
                         }
                     ],
                     "order": 1
                 },
                 {
-                    "id": "25-92_s2",
+                    "id": "248-16_s2",
                     "sequence": 2,
-                    "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+                    "name": "千魔混沌編",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-92_s2",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/248-16_s2",
                         "filename": "default_thumb.png",
-                        "query": "version=1726562943",
+                        "query": "version=1724652472",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "25-92_eg1",
-                            "name": "PV"
+                            "id": "248-16_eg0",
+                            "name": "本編"
+                        },
+                        {
+                            "id": "248-16_eg3",
+                            "name": "特番"
                         }
                     ],
                     "order": 2
                 }
+            ]
+        },
+        "19-171": {
+            "title": "葬送のフリーレン",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム"
             ]
         }
     }
