@@ -86,11 +86,13 @@ def main():
             else:
                 for k, v in value.items():
                     if old_summarization_data[key][k] != summarization_data[key][k]:
-                        if key not in diff_summarization_data.keys():
-                            diff_summarization_data[key] = {}
-                            diff_summarization_data[key]['title'] = summarization_data[key]['title']
-                        diff_summarization_data[key][k+'_new'] = summarization_data[key][k]
-                        diff_summarization_data[key][k+'_old'] = old_summarization_data[key][k]
+                        if 'change' not in diff_summarization_data.keys():
+                            diff_summarization_data['change'] = {}
+                        if key not in diff_summarization_data['change'].keys():
+                            diff_summarization_data['change'][key] = {}
+                            diff_summarization_data['change'][key]['title'] = summarization_data[key]['title']
+                        diff_summarization_data['change'][key][k+'_new'] = summarization_data[key][k]
+                        diff_summarization_data['change'][key][k+'_old'] = old_summarization_data[key][k]
         save_json(diff_summarization_data, f'{data_path}/diff_summarization.json')
 
     if file_exisits(f'{data_path}/episode_summarization.json'):
