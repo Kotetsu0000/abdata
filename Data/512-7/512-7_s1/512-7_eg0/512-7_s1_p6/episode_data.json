@@ -1,0 +1,163 @@
+{
+    "id": "512-7_s1_p6",
+    "series": {
+        "id": "512-7",
+        "title": "アキバ冥途戦争",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-7",
+            "filename": "thumb.png",
+            "query": "version=1666581941",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-7",
+            "filename": "portrait.png",
+            "query": "version=1666581941",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "512-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 姉妹盃に注ぐ血　赤バットの凶行",
+        "content": "服役中だった「メイドリアン」台頭の立役者『赤い超新星』こと愛美がアキバに帰ってくる。\n愛美は「チュキチュキつきちゃん」が「とんとことん」に潰されたことを知り激昂する。\nそんな中、なごみはねるらと姉妹の契りを交わすことにする。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "和平なごみ：近藤玲奈",
+            "万年嵐子：佐藤利奈",
+            "ゆめち：田中美海",
+            "しぃぽん：黒沢ともよ",
+            "ゾーヤ：ジェーニャ",
+            "店長：高垣彩陽"
+        ],
+        "crews": [
+            "原作：ケダモノランド経営戦略室",
+            "監督：増井壮一",
+            "シリーズ構成：比企能博",
+            "キャラクターデザイン：仁井学",
+            "音響監督：飯田里樹",
+            "音楽：池頼広",
+            "音響制作：dugout",
+            "アニメーション制作：P.A.WORKS"
+        ],
+        "copyrights": [
+            "(C)「アキバ冥途戦争」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1681985900,
+    "endAt": 1735657200,
+    "freeEndAt": 1727931600,
+    "transcodeVersion": "5auD7t",
+    "sharedLink": {
+        "twitter": "https://abema.app/Qz2v",
+        "facebook": "https://abema.app/a2Tr",
+        "google": "https://abema.app/XFDt",
+        "line": "https://abema.app/iksK",
+        "copy": "https://abema.app/ctyn",
+        "instagram": "https://abema.app/e8dV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/512-7_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/512-7_s1_p6/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/512-7_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/512-7_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.512-7_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1344.074266,
+        "opening": {
+            "start": 74.244337,
+            "end": 163.257482
+        },
+        "ending": {
+            "start": 1344.203238,
+            "end": 1419.108471
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "512-7_s1_p7",
+        "title": "第7話 獣抗争史！秋葉外生命体血戦!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681985900,
+        "endAt": 1735657200,
+        "freeEndAt": 1727931600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727931600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/512-7_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727931600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "512-7_eg0"
+}

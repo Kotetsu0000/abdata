@@ -1,0 +1,163 @@
+{
+    "id": "512-7_s1_p3",
+    "series": {
+        "id": "512-7",
+        "title": "アキバ冥途戦争",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-7",
+            "filename": "thumb.png",
+            "query": "version=1666581941",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-7",
+            "filename": "portrait.png",
+            "query": "version=1666581941",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "512-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 メイドの拳、膵臓の価値は",
+        "content": "嵐子は「とんとことん」が滞納する“おひねりちゃん”の肩代わりに、“取り立て屋”から新たな仕事を請け負うことになる。\nそれは、地下格競技場のリングに上がることだった。\nそしてそこに、秋葉原で横行している高額フィギュアの闇取引も絡んできて……"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "和平なごみ：近藤玲奈",
+            "万年嵐子：佐藤利奈",
+            "ゆめち：田中美海",
+            "しぃぽん：黒沢ともよ",
+            "ゾーヤ：ジェーニャ",
+            "店長：高垣彩陽"
+        ],
+        "crews": [
+            "原作：ケダモノランド経営戦略室",
+            "監督：増井壮一",
+            "シリーズ構成：比企能博",
+            "キャラクターデザイン：仁井学",
+            "音響監督：飯田里樹",
+            "音楽：池頼広",
+            "音響制作：dugout",
+            "アニメーション制作：P.A.WORKS"
+        ],
+        "copyrights": [
+            "(C)「アキバ冥途戦争」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1681985900,
+    "endAt": 1735657200,
+    "freeEndAt": 1727931600,
+    "transcodeVersion": "2YfiMB",
+    "sharedLink": {
+        "twitter": "https://abema.app/oNNe",
+        "facebook": "https://abema.app/n9L2",
+        "google": "https://abema.app/K7TR",
+        "line": "https://abema.app/t74H",
+        "copy": "https://abema.app/vU4N",
+        "instagram": "https://abema.app/uAtQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/512-7_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/512-7_s1_p3/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/512-7_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/512-7_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.512-7_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1329.976844,
+        "opening": {
+            "start": 10.033222,
+            "end": 99.28313
+        },
+        "ending": {
+            "start": 1330.176424,
+            "end": 1419.166698
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "512-7_s1_p4",
+        "title": "第4話 実録！豚の調教師だブー!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681985900,
+        "endAt": 1735657200,
+        "freeEndAt": 1727931600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727931600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/512-7_s1_p3/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727931600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "512-7_eg0"
+}

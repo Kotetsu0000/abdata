@@ -1,0 +1,163 @@
+{
+    "id": "512-7_s1_p8",
+    "series": {
+        "id": "512-7",
+        "title": "アキバ冥途戦争",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-7",
+            "filename": "thumb.png",
+            "query": "version=1666581941",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/512-7",
+            "filename": "portrait.png",
+            "query": "version=1666581941",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "512-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 鮮血に染まる白球　栄光は君に輝キュン♡",
+        "content": "愛美の葬儀の中、凪の命令により、元メイドリアングループのメンバーと野球の試合をすることになった「とんとことん」一同。なごみひとりだけがやる気満々。元メイドリアンチームは、愛美の魂を受け継ぎ、赤バットを振りかざす。親善試合とは名ばかりのデスゲームがここにプレイボール！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "和平なごみ：近藤玲奈",
+            "万年嵐子：佐藤利奈",
+            "ゆめち：田中美海",
+            "しぃぽん：黒沢ともよ",
+            "ゾーヤ：ジェーニャ",
+            "店長：高垣彩陽"
+        ],
+        "crews": [
+            "原作：ケダモノランド経営戦略室",
+            "監督：増井壮一",
+            "シリーズ構成：比企能博",
+            "キャラクターデザイン：仁井学",
+            "音響監督：飯田里樹",
+            "音楽：池頼広",
+            "音響制作：dugout",
+            "アニメーション制作：P.A.WORKS"
+        ],
+        "copyrights": [
+            "(C)「アキバ冥途戦争」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1681985900,
+    "endAt": 1735657200,
+    "freeEndAt": 1727931600,
+    "transcodeVersion": "238VKy",
+    "sharedLink": {
+        "twitter": "https://abema.app/znhn",
+        "facebook": "https://abema.app/T3am",
+        "google": "https://abema.app/aSv2",
+        "line": "https://abema.app/DNQ1",
+        "copy": "https://abema.app/FZV3",
+        "instagram": "https://abema.app/WT7R"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/512-7_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/512-7_s1_p8/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/512-7_s1_p8/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/512-7_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.512-7_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.018555,
+        "opening": {
+            "start": 18.041222,
+            "end": 107.032268
+        },
+        "ending": {
+            "start": 1330.485447,
+            "end": 1419.341514
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "512-7_s1_p9",
+        "title": "第9話 秋葉生態系狂騒曲！メイドの萌え登り!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681985900,
+        "endAt": 1735657200,
+        "freeEndAt": 1727931600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727931600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/512-7_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727931600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "512-7_eg0"
+}

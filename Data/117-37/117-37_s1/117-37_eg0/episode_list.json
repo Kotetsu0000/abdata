@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1726817747",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -294,7 +294,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p11",
             "filename": "thumb002.png",
-            "query": "version=1727152875",
+            "query": "version=1727427889",
             "extension": "png"
         },
         "episode": {
@@ -306,8 +306,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "117-37_s1_p12",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-37_s1_p12",
+            "filename": "thumb001.png",
+            "query": "version=1727427889",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 12,
+            "title": "第12話 魔導具師ダリヤはうつむかない",
+            "content": "久しぶりに人工魔剣の試作に取り組むダリヤとヴォルフ。\n作業を終えて机を片付けていた時、置きっぱなしになっていた鏡蛇の鱗が目に留まる。\nめくらまし効果があると言われている鏡蛇の鱗。ダリヤが付与を試みると、突如鱗が光り出し二人を取り囲む。\n光の中で二人が見た光景は、煌びやかなダンスホールで一緒に踊る自分たちの姿だった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1727379000
+                    "endAt": 1727983800
                 }
             ],
             "broadcastRegionPolicy": 1,

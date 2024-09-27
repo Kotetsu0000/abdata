@@ -1,0 +1,74 @@
+{
+    "id": "19-170",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "大雪海のカイナ",
+    "content": "「雪海」が拡がり続ける異世界――。 \n人々は巨木「軌道樹」から広がる「天膜」の上でかろうじて暮らしていた。 \n天膜の少年カイナと、雪海の王女リリハが出会うとき、滅びかけた世界を変える物語が、始まる――。",
+    "seasons": [
+        {
+            "id": "19-170_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-170_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1696477782",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-170_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)弐瓶勉／大雪海のカイナ製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1726623875154363424",
+    "imageUpdatedAt": 1696477769,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/EUDN",
+        "facebook": "https://abema.app/K6SH",
+        "google": "https://abema.app/ivtb",
+        "line": "https://abema.app/rEbr",
+        "copy": "https://abema.app/ErxW",
+        "instagram": "https://abema.app/7F1B"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-170",
+        "filename": "thumb.png",
+        "query": "version=1696477769",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-170",
+        "filename": "portrait.png",
+        "query": "version=1696477769",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
