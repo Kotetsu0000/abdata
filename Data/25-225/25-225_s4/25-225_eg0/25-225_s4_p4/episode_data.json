@@ -1,0 +1,168 @@
+{
+    "id": "25-225_s4_p4",
+    "series": {
+        "id": "25-225",
+        "title": "ヤマノススメ Next Summit",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-225",
+            "filename": "thumb.png",
+            "query": "version=1664502767",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-225",
+            "filename": "portrait.png",
+            "query": "version=1664502767",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "25-225_s4",
+        "sequence": 4,
+        "name": "シーズン4",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "#04 夢にまでみた？フジ◯◯／3rd season秋",
+        "content": "ここなが商店街の福引で当てた富士急ハイランドのチケットで、河口湖にやってきたあおい、ひなた、ここな。FUJIYAMAという名前とひなたに煽られてキング・オブ・コースターに乗ってしまったあおいだったが……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "雪村あおい：井口裕香",
+            "倉上ひなた：阿澄佳奈",
+            "斎藤楓：日笠陽子",
+            "青羽ここな：小倉 唯",
+            "黒崎ほのか：東山奈央",
+            "千手院小春：岩井映美里"
+        ],
+        "crews": [
+            "原作：しろ（コミック アース・スター連載）",
+            "監督：山本裕介",
+            "キャラクターデザイン／総作画監督：松尾祐輔",
+            "美術監督：宮越 歩",
+            "色彩設計：藤木由香里",
+            "撮影監督：佐藤 洋",
+            "編集：内田 恵",
+            "サウンドデザイン：出雲範子",
+            "音楽：yamazo",
+            "オープニングテーマ：「想いのち晴れ」あおい（CV：井口裕香）、ひなた（CV：阿澄佳奈）",
+            "エンディングテーマ：「扉を開けてベルを鳴らそう」あおい（CV：井口裕香）、ひなた（CV：阿澄佳奈）",
+            "アニメーション制作：エイトビット",
+            "製作：『ヤマノススメ Next Summit』製作委員会"
+        ],
+        "copyrights": [
+            "(C)しろ／アース・スター エンターテイメント／『ヤマノススメ Next Summit』製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1683008907,
+    "endAt": 1727708400,
+    "freeEndAt": 1727708400,
+    "transcodeVersion": "3UgzTc",
+    "sharedLink": {
+        "twitter": "https://abema.app/ebrq",
+        "facebook": "https://abema.app/6mne",
+        "google": "https://abema.app/tNVB",
+        "line": "https://abema.app/Vca3",
+        "copy": "https://abema.app/UBYH",
+        "instagram": "https://abema.app/Wvtr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/25-225_s4_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/25-225_s4_p4/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/25-225_s4_p4/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/25-225_s4_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.25-225_s4_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1350.071922,
+        "opening": {
+            "start": 195.018022,
+            "end": 285.040288
+        },
+        "ending": {
+            "start": 1350.071922,
+            "end": 1440.147027
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "25-225_s4_p5",
+        "title": "#05 登山部からの挑戦!?／武甲山で愛のムチ？",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1683008907,
+        "endAt": 1727708400,
+        "freeEndAt": 1727708400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1727708400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-225_s4_p4/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1727708400
+        }
+    ],
+    "episodeGroupId": "25-225_eg0"
+}
