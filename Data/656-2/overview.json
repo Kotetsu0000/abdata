@@ -1,0 +1,77 @@
+{
+    "id": "656-2",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "魔王様、リトライ！R",
+    "content": "大野晶は自身が運営する「INFINITY GAME」内のラスボス「魔王・九内伯斗」にログインしたまま、異世界へと飛ばされてしまう。そこで出会った謎の少女「アク」や聖女「ルナ」などのGAMEの配下や異世界で出会った仲間たちと共に着々と異世界での地盤を固めた彼は、現実世界に戻る術を探すべく新たな旅へ踏み出した。「魔王」を中心とした物語が再び動き出す……！",
+    "seasons": [
+        {
+            "id": "656-2_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/656-2_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727173136",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "656-2_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "656-2_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)神埼黒音・身ノ丈あまる／双葉社・「魔王様、リトライ！R」製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1727575896215661485",
+    "imageUpdatedAt": 1727173157,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/GRch",
+        "facebook": "https://abema.app/nxE9",
+        "google": "https://abema.app/RKtd",
+        "line": "https://abema.app/7CY2",
+        "copy": "https://abema.app/k78L",
+        "instagram": "https://abema.app/iTRW"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/656-2",
+        "filename": "thumb.png",
+        "query": "version=1727173157",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/656-2",
+        "filename": "portrait.png",
+        "query": "version=1727173157",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -44,7 +44,7 @@
         "(C)AbemaTV, Inc."
     ],
     "label": {
-        "free": true,
+        "someFree": true,
         "newest": true
     },
     "version": "1727406559060875845",
@@ -71,7 +71,8 @@
         "extension": "png"
     },
     "onDemandTypes": [
-        3
+        3,
+        1
     ],
     "contentPattern": 4,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png",
