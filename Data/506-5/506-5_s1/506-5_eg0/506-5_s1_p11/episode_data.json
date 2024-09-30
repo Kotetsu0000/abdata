@@ -1,0 +1,160 @@
+{
+    "id": "506-5_s1_p11",
+    "series": {
+        "id": "506-5",
+        "title": "リンカイ！",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-5",
+            "filename": "thumb.png",
+            "query": "version=1713755085",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-5",
+            "filename": "portrait.png",
+            "query": "version=1713755085",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "506-5_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 競輪場",
+        "content": "FQレースまで残り三か月。雑誌取材にテレビ出演と競輪選手・伊東泉の認知度はぐんぐんと上がっていく。世間の自分への見方に対して、慣れないながらも順応しようと努力する泉。しかし、あるとき発せられた誰かのかすかな悪意を受け取ってしまう。やがてその感情は自身のなかで肥大化していくことに。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "伊東泉：川村海乃",
+            "平塚ナナ：葵あずさ",
+            "弥彦巫子：長谷川玲奈",
+            "那古屋紗智：北守さいか",
+            "高松絹早：杉山里穂",
+            "熊本愛：日向未南",
+            "久留米美虹：佐々木李子"
+        ],
+        "crews": [
+            "監督：石山タカ明",
+            "シリーズ構成：白根秀樹",
+            "キャラクターデザイン：小野ひろみ",
+            "音響監督：田中亮",
+            "美術監督：桧垣仁希",
+            "色彩設計：のぼりはるこ",
+            "撮影監督：蒲原有子",
+            "CGディレクター：後藤優一",
+            "編集：内田恵",
+            "音楽：福廣秀一朗・植田能平・平野真奈",
+            "音楽制作：ランティス",
+            "アニメーション制作：トムス・エンタテインメント／第６スタジオ",
+            "アニメーション制作協力：マル画ファクトリー"
+        ],
+        "copyrights": [
+            "(C)RINKAI League Committee"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1719816860,
+    "endAt": 1759244400,
+    "freeEndAt": 1728288300,
+    "transcodeVersion": "qwr52",
+    "sharedLink": {
+        "twitter": "https://abema.app/h4qG",
+        "facebook": "https://abema.app/XaF6",
+        "google": "https://abema.app/LgY5",
+        "line": "https://abema.app/enwU",
+        "copy": "https://abema.app/NKDy",
+        "instagram": "https://abema.app/jgbQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/506-5_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/506-5_s1_p11/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/506-5_s1_p11/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/506-5_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.506-5_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1314.938625,
+        "opening": {
+            "start": 104.02058333333333,
+            "end": 193.94375
+        },
+        "ending": {
+            "start": 1314.938625,
+            "end": 1404.9035
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "506-5_s1_p12",
+        "title": "第12話 もがけ、未来へ！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719816860,
+        "endAt": 1759244400,
+        "freeEndAt": 1728288300,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1728288300
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/506-5_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1728288300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "506-5_eg0"
+}

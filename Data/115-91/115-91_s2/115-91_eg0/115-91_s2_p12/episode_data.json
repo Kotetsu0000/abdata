@@ -1,0 +1,138 @@
+{
+    "id": "115-91_s2_p12",
+    "series": {
+        "id": "115-91",
+        "title": "イジらないで、長瀞さん 2nd Attack",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-91",
+            "filename": "thumb.png",
+            "query": "version=1671014823",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-91",
+            "filename": "portrait.png",
+            "query": "version=1671014823",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-91_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1404
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 じゃあ…本番にふさわしいことしちゃいます？",
+        "content": "水族館でデートするセンパイと長瀞。ガモちゃんとヨッシーが二人を尾行し、さらにそれを尾行する須ノ宮と部長……。\nまるでカップルのようにデートを楽しむセンパイと長瀞の背後から、混沌とした気配が迫ってきて……！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "長瀞さん：上坂すみれ",
+            "センパイ：山下大輝",
+            "ガモちゃん：小松未可子",
+            "ヨッシー：鈴木愛奈",
+            "桜：井澤詩織",
+            "部長：水樹奈々",
+            "姉瀞：南條愛乃",
+            "須ノ宮：鈴代紗弓",
+            "折原：前田佳織里"
+        ],
+        "crews": [
+            "原作：ナナシ（講談社『マガジンポケット』連載）",
+            "監督：ウシロシンジ",
+            "シリーズ構成・脚本：岸本 卓",
+            "メインキャラクターデザイン：鈴木 美咲(テレコム・アニメーションフィルム)",
+            "美術監督：白石 誠",
+            "色彩設計：近藤直登",
+            "撮影監督：柚木脇達己",
+            "編集：後田良樹",
+            "音響監督：明田川 仁",
+            "音楽：吟(BUSTED ROSE)",
+            "音楽制作：キングレコード",
+            "アニメーション制作：OLM",
+            "製作：「イジらないで、長瀞さん」2製作委員会"
+        ],
+        "copyrights": [
+            "(C)ナナシ・講談社／「イジらないで、長瀞さん」2製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1684123708,
+    "endAt": 1774969200,
+    "freeEndAt": 1728298800,
+    "transcodeVersion": "3jDpmY",
+    "sharedLink": {
+        "twitter": "https://abema.app/t2y3",
+        "facebook": "https://abema.app/goWp",
+        "google": "https://abema.app/ahYw",
+        "line": "https://abema.app/qzq2",
+        "copy": "https://abema.app/3gwk",
+        "instagram": "https://abema.app/HDXc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-91_s2_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-91_s2_p12/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/115-91_s2_p12/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-91_s2_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-91_s2_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1399.986911,
+        "opening": {
+            "start": 137.0351,
+            "end": 227.040677
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-91_s2_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1728298800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1728331800
+        }
+    ],
+    "episodeGroupId": "115-91_eg0"
+}

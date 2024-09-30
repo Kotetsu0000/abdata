@@ -1,0 +1,131 @@
+{
+    "id": "35-50_s1_p945",
+    "series": {
+        "id": "35-50",
+        "title": "クレヨンしんちゃん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "thumb.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "portrait.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-50_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 473
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 945,
+        "title": "#945 オラの花嫁が見たいゾ2",
+        "content": "もう一度未来の花嫁を見に行こうと、タイムマシンに乗り込むしんのすけとネネ達。だが、操作を間違えてしまい、何と原始時代にたどり着いてしまった。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "野原しんのすけ：矢島晶子or小林由美子",
+            "野原みさえ：ならはしみき",
+            "野原ひろし：藤原啓治or森川智之",
+            "野原ひまわり：こおろぎさとみ",
+            "風間くん：真柴摩利",
+            "ネネちゃん：林 玉緒",
+            "マサオくん：一龍斎貞友",
+            "ボーちゃん：佐藤智恵"
+        ],
+        "crews": [
+            "監督：ムトウユージ"
+        ],
+        "copyrights": [
+            "(C)臼井儀人/双葉社・シンエイ・テレビ朝日・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719800056,
+    "endAt": 1751295600,
+    "transcodeVersion": "2efNzn",
+    "sharedLink": {
+        "twitter": "https://abema.app/yLUa",
+        "facebook": "https://abema.app/pwdT",
+        "google": "https://abema.app/fSTP",
+        "line": "https://abema.app/YTU4",
+        "copy": "https://abema.app/HV5W",
+        "instagram": "https://abema.app/76RW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p945/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p945/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-50_s1_p945/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-50_s1_p945"
+    },
+    "viewingPoint": {
+        "suggestion": 468.00920833333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-50_s1_p946",
+        "title": "#946 オラ誕生のヒミツだゾ1",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719800056,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-50_s1_p945/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-50_eg0"
+}

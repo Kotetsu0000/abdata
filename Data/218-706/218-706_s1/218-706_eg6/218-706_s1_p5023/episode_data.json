@@ -1,0 +1,106 @@
+{
+    "id": "218-706_s1_p5023",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 789
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5023,
+        "title": "#23：平成・昭和の懐かしアニメSP！アニメ「少女革命ウテナ」を特集！",
+        "content": "独創的な世界観でアニメファンを魅了した平成の名作アニメ「少女革命ウテナ」の魅力を紹介。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727683508,
+    "endAt": 1745074800,
+    "freeEndAt": 1745074800,
+    "transcodeVersion": "696H2i",
+    "sharedLink": {
+        "twitter": "https://abema.app/g8jV",
+        "facebook": "https://abema.app/JPTV",
+        "google": "https://abema.app/ZFcS",
+        "line": "https://abema.app/Kzs1",
+        "copy": "https://abema.app/7wct",
+        "instagram": "https://abema.app/sazo"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-706_s1_p5023/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-706_s1_p5023/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-706_s1_p5023/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-706_s1_p5023/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p5023"
+    },
+    "viewingPoint": {
+        "suggestion": 784.1500333333333
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p5023/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1745074800
+        }
+    ],
+    "episodeGroupId": "218-706_eg6"
+}

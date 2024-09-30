@@ -1,0 +1,111 @@
+{
+    "id": "35-53_s1_p947",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 947,
+        "title": "#947 大スタージャイアン！？",
+        "content": "またもやジャイアンが空き地でリサイタルを開くと言い出した。むりやりよび出されたみんなが手に汗にぎりながらステージを見つめていると、なんといつもとはまったくちがう、美しい声で歌いだしたからビックリ！ 実は、リサイタルの直前、のび太とドラえもんは、なめるとどんなにひどい声でも歌声が美しくなる『のど自慢（じまん）アメ』をジャイアンに食べさせることに成功したのだ！\n　ところが、たまたまジャイアンの美声リサイタルを、通りかかったテレビ局のプロデューサーが見ていたから、大変なことに…！ なんと、ジャイアンの本当の声を知らないプロデューサーは、天才キッズを紹介（しょうかい）する番組に出てほしいとジャイアンをスカウトしたのだ。しかも、その番組は、リハーサルがなくぶっつけ本番なのだという。\n　のど自慢アメの効果（こうか）はとっくに切れているため、すぐに止めないと日本中のテレビがこわれてしまう！　あわてたのび太たちはジャイアンを連れて帰ろうと、テレビ局に潜入（せんにゅう）するのだが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335978,
+    "endAt": 1751295600,
+    "transcodeVersion": "5i25J4",
+    "sharedLink": {
+        "twitter": "https://abema.app/xXkA",
+        "facebook": "https://abema.app/LGfK",
+        "google": "https://abema.app/puJx",
+        "line": "https://abema.app/UuMe",
+        "copy": "https://abema.app/TZea",
+        "instagram": "https://abema.app/RdRa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p947/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p947/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p947/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p947"
+    },
+    "viewingPoint": {
+        "suggestion": 639.9726666666667
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p947/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

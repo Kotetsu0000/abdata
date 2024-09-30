@@ -36,6 +36,24 @@
             "order": 1
         },
         {
+            "id": "25-73_s2",
+            "sequence": 2,
+            "name": "ようこそ実力至上主義の教室へ 2nd Season",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-73_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1702541747",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-73_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
             "id": "25-73_s3",
             "sequence": 3,
             "name": "ようこそ実力至上主義の教室へ 3rd Season",
@@ -58,7 +76,8 @@
         "(C)衣笠彰梧・KADOKAWA刊／ようこそ実力至上主義の教室へ製作委員会"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
     "version": "1725423443492655606",
     "imageUpdatedAt": 1702970894,

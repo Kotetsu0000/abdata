@@ -1,0 +1,125 @@
+{
+    "id": "35-53_s1_p945",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 708
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 945,
+        "title": "#945 ネアンデルタール人を救え！",
+        "content": "博物館に行ったスネ夫から、４万年前に絶滅（ぜつめつ）したといわれる“ネアンデルタール人”について聞いたのび太は、ネアンデルタール人に会ってみたいと考え、ドラえもん、しずかとともに『タイムマシン』で、かれらがまだ生息していた４万年前のヨーロッパへと向かう。\n　『テキオー灯』を浴びて氷河（ひょうが）期に適応（てきおう）した３人は、ひとりのネアンデルタール人の子どもと出会う。見た目はジャイアンそっくりだが、やさしくて弱虫なその少年は、スネ夫そっくりの“ホモ・サピエンス”の子どもたちから仲間外れにされていた。しかも、のび太そっくりのホモ・サピエンスの女の子に恋（こい）しているようで…！\n　ジャイアンそっくりのネアンデルタール少年のことをかわいそうに思い、なんとか助けてあげたいと言い出すのび太。そこでドラえもんは『きせかえカメラ』でのび太をホモ・サピエンスの女の子に変身させ、ジャイアンそっくりのネアンデルタール少年をやる気にさせようと考えるが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335978,
+    "endAt": 1751295600,
+    "transcodeVersion": "4MNDCf",
+    "sharedLink": {
+        "twitter": "https://abema.app/tvpQ",
+        "facebook": "https://abema.app/Lx8Y",
+        "google": "https://abema.app/q2we",
+        "line": "https://abema.app/WRGy",
+        "copy": "https://abema.app/moys",
+        "instagram": "https://abema.app/2kv9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p945/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p945/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p945/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p945"
+    },
+    "viewingPoint": {
+        "suggestion": 703.95325
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p946",
+        "title": "#946 けん銃王コンテスト２",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335978,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p945/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

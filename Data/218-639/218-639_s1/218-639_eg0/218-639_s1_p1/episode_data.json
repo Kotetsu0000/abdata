@@ -1,0 +1,107 @@
+{
+    "id": "218-639_s1_p1",
+    "series": {
+        "id": "218-639",
+        "title": "TVアニメ『呪術廻戦』「渋谷事変」記念特番",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-639",
+            "filename": "thumb.png",
+            "query": "version=1698033716",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-639",
+            "filename": "portrait.png",
+            "query": "version=1698033716",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-639_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2654
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "TVアニメ『呪術廻戦』「渋谷事変」記念特番",
+        "content": "作中にて「渋谷事変」が起きた10月31日、ハロウィン当日の放送となる本番組には、虎杖悠仁役の榎木淳弥さん、伏黒 恵役の内田雄馬さん、釘崎野薔薇役の瀬戸麻沙美さんが出演。MCに鈴木健太さんを迎え、これまでの「渋谷事変」を振り返るほか、アニメのみならずスマホゲーム「呪術廻戦 ファントムパレード」情報など盛り沢山にてお届けいたします。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "MC：鈴木健太",
+            "虎杖悠仁役：榎木淳弥",
+            "伏黒恵役：内田雄馬",
+            "釘崎野薔薇役：瀬戸麻沙美"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)芥見下々／集英社・呪術廻戦製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1698111219,
+    "endAt": 1730372400,
+    "freeEndAt": 1730372400,
+    "transcodeVersion": "4mfsjx",
+    "sharedLink": {
+        "twitter": "https://abema.app/91pt",
+        "facebook": "https://abema.app/AsV5",
+        "google": "https://abema.app/X2bK",
+        "line": "https://abema.app/zNqU",
+        "copy": "https://abema.app/Fh4D",
+        "instagram": "https://abema.app/ja6h"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-639_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-639_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-639_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-639_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-639_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 2649.5135333333333
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-639_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730372400
+        }
+    ],
+    "episodeGroupId": "218-639_eg0"
+}

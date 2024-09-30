@@ -29,13 +29,33 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "420-65_s2",
+            "sequence": 2,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-65_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1726562825",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-65_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)未来人A・講談社／鑑定スキルで成り上がる製作委員会"
     ],
-    "label": {},
-    "version": "1727256720058474951",
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1727683477005545968",
     "imageUpdatedAt": 1715776746,
     "programOrder": "seq",
     "sharedLink": {

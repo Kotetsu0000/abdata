@@ -65,9 +65,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1700454610,
         "endAt": 1756652400,
+        "freeEndAt": 1728358200,
         "transcodeVersion": "6uTCN5",
         "sharedLink": {
             "twitter": "https://abema.app/PDxh",
@@ -91,8 +94,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1727695800
+                "onDemandType": 3,
+                "endAt": 1728358200
             }
         ],
         "episodeGroupId": "35-52_eg0"

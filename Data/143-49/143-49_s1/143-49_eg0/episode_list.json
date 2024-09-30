@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691735",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691735",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691735",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691735",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691735",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691736",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691736",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691736",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1727171461",
+            "query": "version=1727691736",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1727350875",
+            "query": "version=1727691736",
             "extension": "png"
         },
         "episode": {
@@ -277,8 +277,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1727632800
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -287,6 +287,35 @@
         },
         "info": {
             "duration": 1369
+        }
+    },
+    {
+        "id": "143-49_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p11",
+            "filename": "thumb002.png",
+            "query": "version=1727691736",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話 胎動",
+            "content": "ごぼう達『偽りの皇帝』の支配の下、かろうじて秩序を保つ世界。そこへ彼らの偽皇帝配信に先んじて、『皇帝』を名乗る何者かがテレビ放送で呼びかける。動揺するごぼう達はテレビ局へ相馬の現化獣を差し向ける。そこに待っていたのは一人の少年、王野頼音だった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1728237600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1370
         }
     }
 ]

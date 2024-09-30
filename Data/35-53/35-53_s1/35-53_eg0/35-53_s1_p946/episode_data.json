@@ -1,0 +1,125 @@
+{
+    "id": "35-53_s1_p946",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 645
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 946,
+        "title": "#946 けん銃王コンテスト２",
+        "content": "ジャイアンとスネ夫に最新型のモデルガンをじまんされ、くやしくてしかたのないのび太。家に帰ると、つくえの上にならべたえんぴつをおもちゃのコルク銃（じゅう）で百発百中たおしていく。実はのび太は、見事な射撃（しゃげき）の腕（うで）を持っているのだ。\n　「西部開拓（かいたく）時代のアメリカに生まれていたら、凄腕（すごうで）のガンマンだったにちがいない」とため息をつくのび太に同情（どうじょう）したドラえもんは、『空気ピストル』を取り出す。手の先に特殊（とくしゅ）な液体（えきたい）を一滴（てき）たらし、かわかしてから「バン！」と言うと、空気のかたまりが衝撃波（しょうげきは）のように飛びだし、相手をたおすのだという。とはいえ、ショックは受けるが、空気なので相手をきずつける心配はないらしい。\n　それを聞いたのび太は、ジャイアンたちに、空気ピストルを使って、“けん銃王”を決めるコンテストを開催しようと持ちかける。そして、ジャイアンやスネ夫をはじめ、クラスメイトたちも参加して、コンテストが始まるが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335978,
+    "endAt": 1751295600,
+    "transcodeVersion": "7LKwJP",
+    "sharedLink": {
+        "twitter": "https://abema.app/b4b7",
+        "facebook": "https://abema.app/3DM4",
+        "google": "https://abema.app/3aKo",
+        "line": "https://abema.app/LvT4",
+        "copy": "https://abema.app/N1AV",
+        "instagram": "https://abema.app/rtzX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p946/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p946/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p946/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p946"
+    },
+    "viewingPoint": {
+        "suggestion": 640.0560833333333
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p947",
+        "title": "#947 大スタージャイアン！？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335978,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p946/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0"
+}

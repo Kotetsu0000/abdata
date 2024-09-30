@@ -1,0 +1,74 @@
+{
+    "id": "189-61",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "title": "スナックバス江",
+    "content": "北海道最大の繁華街すすきの――から5駅離れた北24条。\nこの町の「スナックバス江」は、\nバス江ママと、チーママの明美さんの楽しいお店。\n彼女たちと珍妙な常連＆一見さんが織りなす笑いで、\nあなたもきっと、いつしか笑顔。",
+    "seasons": [
+        {
+            "id": "189-61_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/189-61_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1703491443",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "189-61_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)フォビドゥン澁川／集英社・「スナックバス江」常連一同"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1726802378291342167",
+    "imageUpdatedAt": 1703491420,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/3xG8",
+        "facebook": "https://abema.app/WVVh",
+        "google": "https://abema.app/aEzQ",
+        "line": "https://abema.app/M6sW",
+        "copy": "https://abema.app/Mjqy",
+        "instagram": "https://abema.app/mPfc"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-61",
+        "filename": "thumb.png",
+        "query": "version=1703491420",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-61",
+        "filename": "portrait.png",
+        "query": "version=1703491420",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
