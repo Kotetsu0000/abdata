@@ -1,0 +1,154 @@
+{
+    "id": "168-67_s3_p43",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s3",
+        "sequence": 3,
+        "name": "ロックマンエグゼ ストリーム",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 43,
+        "title": "第43話 仕事人ミヤビ",
+        "content": "ロックマン抹殺の依頼を遂行しようと暗躍するダーク・ミヤビ。だが、ミヤビの前にゆりこが現れミヤビの行動を阻止しようとする。ミヤビは立ち寄ったマハ一番ダッシュで熱斗と遭遇。仕事人のプライドにかけロックマンをデリートすると宣言するミヤビだが熱斗はデューオの紋章を持つ仲間としてミヤビに接する。その頃街では銀行強盗が多発、犯人はアステロイド・ソードマンを得たミヤビの同業者だった。実体化したソードマンに苦戦するCFロックマンを見つめるミヤビの前にワイリーが現れる。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "光 熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子",
+            "大山チサオ：石村知子",
+            "名人：藤原啓治",
+            "光 祐一朗 ：川島得愛",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也",
+            "ライカ：結城比呂",
+            "デューオ：乃村健次"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一 、鳴瀬シュウヘイ",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726217731,
+    "endAt": 1759244400,
+    "transcodeVersion": "2eTQEq",
+    "sharedLink": {
+        "twitter": "https://abema.app/4cfu",
+        "facebook": "https://abema.app/F1wi",
+        "google": "https://abema.app/zmz1",
+        "line": "https://abema.app/t9Lh",
+        "copy": "https://abema.app/zHDR",
+        "instagram": "https://abema.app/cNqS"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-67_s3_p43/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-67_s3_p43/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-67_s3_p43/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s3_p43"
+    },
+    "viewingPoint": {
+        "suggestion": 1354.9536,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1354.9536,
+            "end": 1444.9435
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s3_p44",
+        "title": "第44話 夏だ！　海だ！　合宿だ！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726217748,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s3_p43/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

@@ -1,0 +1,147 @@
+{
+    "id": "204-10_s7_p4",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s7",
+        "sequence": 7,
+        "name": "七期",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 絵画",
+        "content": "絵画展のチケットを手にした、ある男のお話。\n受付の女はどこか不気味で、奇妙な展示の数々は見慣れないものばかり。\n忠告を無視して男が取った行動の先に待ち受けていた運命とは…。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "吉村駿作",
+            "篠田 諒",
+            "大赤見展彦（ナナフシギ）",
+            "沢井正棋",
+            "長谷川里桃",
+            "堀越せな",
+            "小珠ひかる",
+            "西谷有機",
+            "太田彩華",
+            "七瀬大空",
+            "中村久美",
+            "和泉紗江",
+            "中込佐和子",
+            "安藤一夫"
+        ],
+        "crews": [
+            "演出：ILCA 杉本健一（DRAWIZ）",
+            "脚本：熊本浩武、佐々木充郭、山口綾子、國吉咲貴",
+            "作画：海老原優、森野達弥、かねさだ雪緒、あ可よろし、山口成哉、伊藤篤志（アクア）、金村沙耶（Integral Vision Graphics）",
+            "企画：山川典夫（テレビ東京） 、岩﨑拓矢（ILCA）",
+            "プロデューサー：梅津智史（テレビ東京） 、船田 晃",
+            "エンディングテーマ：betcover!!「決壊」",
+            "制作協力：アイアンドエー、DRAWIZ",
+            "制作：ILCA",
+            "製作：「闇芝居」製作委員会"
+        ],
+        "copyrights": [
+            "(C)「闇芝居」製作委員会2019"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691537,
+    "endAt": 1761922800,
+    "transcodeVersion": "vQnKw",
+    "sharedLink": {
+        "twitter": "https://abema.app/6Sy9",
+        "facebook": "https://abema.app/Zuef",
+        "google": "https://abema.app/KWq6",
+        "line": "https://abema.app/HiYH",
+        "copy": "https://abema.app/xXcb",
+        "instagram": "https://abema.app/bHcm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/204-10_s7_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/204-10_s7_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/204-10_s7_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s7_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 240.07316666666668,
+        "ending": {
+            "start": 240.07316666666668,
+            "end": 269.9697
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s7_p5",
+        "title": "第5話 終了のお知らせ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691537,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s7_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

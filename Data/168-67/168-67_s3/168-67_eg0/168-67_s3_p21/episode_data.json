@@ -1,0 +1,154 @@
+{
+    "id": "168-67_s3_p21",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s3",
+        "sequence": 3,
+        "name": "ロックマンエグゼ ストリーム",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 ドクターワイリーの娘",
+        "content": "とある病院で、長く意識不明だった患者が目を覚ました。行方不明だった岬刑事だ。岬の回復を喜ぶ熱斗。だが、岬を病院に運び込んだと思われる女性、大園ゆりこについては何の手がかりもないままだ。そんな折、病院付近でアステロイド・ボンバーマンによる事件が発生。岬はプリズマンでボンバーマンと戦うが、ボンバーマンは実体化して岬に襲いかかってきた。絶体絶命の岬の前にゆりこが現れる。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "光 熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子",
+            "大山チサオ：石村知子",
+            "名人：藤原啓治",
+            "光 祐一朗 ：川島得愛",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也",
+            "ライカ：結城比呂",
+            "デューオ：乃村健次"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一 、鳴瀬シュウヘイ",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726216851,
+    "endAt": 1759244400,
+    "transcodeVersion": "2wxX9h",
+    "sharedLink": {
+        "twitter": "https://abema.app/4RWq",
+        "facebook": "https://abema.app/b3vS",
+        "google": "https://abema.app/VT44",
+        "line": "https://abema.app/1HyA",
+        "copy": "https://abema.app/JE4M",
+        "instagram": "https://abema.app/1pq1"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p21/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s3_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1355.0203333333334,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1355.0203333333334,
+            "end": 1445.0102333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s3_p22",
+        "title": "第22話 デカオ、カレーなる転身",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726216873,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s3_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

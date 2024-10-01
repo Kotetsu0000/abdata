@@ -1,0 +1,149 @@
+{
+    "id": "168-67_s5_p13",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s5",
+        "sequence": 5,
+        "name": "ロックマンエグゼBEAST＋",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 穴掘り野郎がやってきた！",
+        "content": "IPCビルが突如傾き、ビヨンダードから堀杉土太郎とミスタープレスのコンビが現れた。こちらの世界に来てしまったことに気づかず、穴掘りに精を出す二人に大迷惑の人々。サイバーワールド内でもグランドマンとダストマンが穴を掘りまくり、ネット警察の要請を受けた熱斗はロックマンをプラグインしてグランドマン達と戦う。そこにメイルが来て、二人の正体が判明するのだが･･･"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "光 熱斗 ： 比嘉久美子",
+            "ロックマン ： 木村亜希子",
+            "桜井メイル ： 水橋かおり",
+            "ロール ： 城雅子",
+            "名 人 ： 藤原啓治",
+            "光 祐一朗 ： 川島得愛",
+            "伊集院炎山 ： 斎賀みつき",
+            "ブルース ： 松風雅也",
+            "ライカ ： 結城比呂",
+            "サーチマン ： 福山潤"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：鳴瀬シュウヘイ、五十嵐“IGAO”淳一",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726455338,
+    "endAt": 1759244400,
+    "transcodeVersion": "51UJ4t",
+    "sharedLink": {
+        "twitter": "https://abema.app/PA9x",
+        "facebook": "https://abema.app/w7C7",
+        "google": "https://abema.app/WXha",
+        "line": "https://abema.app/Emxq",
+        "copy": "https://abema.app/zYGB",
+        "instagram": "https://abema.app/6PSw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-67_s5_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-67_s5_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-67_s5_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s5_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 579.9794,
+        "opening": {
+            "end": 19.986633333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s5_p14",
+        "title": "第14話 暴走メットール",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726455354,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s5_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

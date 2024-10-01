@@ -1,0 +1,142 @@
+{
+    "id": "204-10_s2_p9",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s2",
+        "sequence": 2,
+        "name": "二期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 おみにえさん",
+        "content": "東京から田舎の中学校に赴任してきた新任の教師・朝子。\nやっと生徒たちとも打ち解け、仕事にも慣れ始めたそんなある日、給食の献立に“おみにえさん”と呼ばれる見たことのない食べ物が出される。\n不気味な肉の塊のようなその物体に一心不乱に喰らいつく生徒たちの姿は明らかに異様で、朝子はどうしてもこれを口にすることができない。\nやがて異常なほど“おみにえさん”の虜になっていたのは生徒たちだけではなく、この街に住むすべての人だということが明らかになり…"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "竹井亮介",
+            "田野アサミ",
+            "松本若菜",
+            "相沢梨紗(でんぱ組.inc)",
+            "中込佐知子",
+            "大西礼芳",
+            "茉莉邑薫",
+            "遠藤瑠香",
+            "Sara",
+            "増本庄一郎",
+            "福士誠治"
+        ],
+        "crews": [
+            "総合演出：ＩＬＣＡ",
+            "脚本：熊本浩武、ブラジリィー・アン・山田",
+            "ゲスト監督：清水崇、井口昇、増本庄一郎",
+            "OP サウンド：nico",
+            "ED曲：「四十九日目」 作詞・作曲 梨本うい",
+            "製作：テレビ東京／ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "y6JKB",
+    "sharedLink": {
+        "twitter": "https://abema.app/pfqD",
+        "facebook": "https://abema.app/pz5o",
+        "google": "https://abema.app/p3BY",
+        "line": "https://abema.app/jmSK",
+        "copy": "https://abema.app/qTqc",
+        "instagram": "https://abema.app/wPLo"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/204-10_s2_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/204-10_s2_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/204-10_s2_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s2_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 239.90633333333332,
+        "ending": {
+            "start": 239.90633333333332,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s2_p10",
+        "title": "第10話 虫唾",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s2_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

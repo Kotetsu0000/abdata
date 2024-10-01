@@ -1,0 +1,150 @@
+{
+    "id": "168-67_s3_p48",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s3",
+        "sequence": 3,
+        "name": "ロックマンエグゼ ストリーム",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 48,
+        "title": "第48話 消滅へのカウントダウン",
+        "content": "世界各地にアステロイドが蔓延、人々を襲いはじめた。熱斗たちはクロスフュージョンして戦うが、その数は増えるばかりだ。対策を練っていた科学省にカーネルから通信が入る。スラーを倒さなければアステロイドは増え続けるというのだ。ロックマン、ブルース、サーチマンは、スラーと応戦中だと言うカーネルのもとへ駆けつける。だがスラーの力はあまりにも強大だった。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "光 熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子",
+            "大山チサオ：石村知子",
+            "名人：藤原啓治",
+            "光 祐一朗 ：川島得愛",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也",
+            "ライカ：結城比呂",
+            "デューオ：乃村健次"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一 、鳴瀬シュウヘイ",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726217812,
+    "endAt": 1759244400,
+    "transcodeVersion": "6DdPe2",
+    "sharedLink": {
+        "twitter": "https://abema.app/fKTF",
+        "facebook": "https://abema.app/vEpr",
+        "google": "https://abema.app/tMXT",
+        "line": "https://abema.app/Mgo4",
+        "copy": "https://abema.app/trV8",
+        "instagram": "https://abema.app/Nez7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p48/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p48/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p48/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s3_p48"
+    },
+    "viewingPoint": {
+        "suggestion": 1354.9536,
+        "opening": {
+            "end": 89.9899
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s3_p49",
+        "title": "第49話 きずななき者の戦い",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726217826,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s3_p48/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

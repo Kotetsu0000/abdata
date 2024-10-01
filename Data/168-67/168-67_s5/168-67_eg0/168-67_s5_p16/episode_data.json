@@ -1,0 +1,149 @@
+{
+    "id": "168-67_s5_p16",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s5",
+        "sequence": 5,
+        "name": "ロックマンエグゼBEAST＋",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 法の番人",
+        "content": "ネット犯罪に関わったナビが、熱斗達ネットセイバーが駆けつける前に一方的に断罪されるという事件が続発する。サイバーワールドでの犯罪撲滅を目指す六方悟とそのナビ、ジャッジマンの仕業だった。六方による独断的な取り締まりはエスカレートしていき、サイバーワールド内は大混乱となる。熱斗とロックマンは犯人をつきとめ、ジャッジマンと戦う。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "光 熱斗 ： 比嘉久美子",
+            "ロックマン ： 木村亜希子",
+            "桜井メイル ： 水橋かおり",
+            "ロール ： 城雅子",
+            "名 人 ： 藤原啓治",
+            "光 祐一朗 ： 川島得愛",
+            "伊集院炎山 ： 斎賀みつき",
+            "ブルース ： 松風雅也",
+            "ライカ ： 結城比呂",
+            "サーチマン ： 福山潤"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：鳴瀬シュウヘイ、五十嵐“IGAO”淳一",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726455393,
+    "endAt": 1759244400,
+    "transcodeVersion": "hxr8x",
+    "sharedLink": {
+        "twitter": "https://abema.app/AL5f",
+        "facebook": "https://abema.app/AdrP",
+        "google": "https://abema.app/vsxu",
+        "line": "https://abema.app/TqNZ",
+        "copy": "https://abema.app/gGJd",
+        "instagram": "https://abema.app/JGwb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-67_s5_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-67_s5_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-67_s5_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s5_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 579.9794,
+        "opening": {
+            "end": 19.986633333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s5_p17",
+        "title": "第17話 心あるウイルス",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726455411,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s5_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

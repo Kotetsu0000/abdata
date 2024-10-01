@@ -1,0 +1,160 @@
+{
+    "id": "168-40_s1_p10",
+    "series": {
+        "id": "168-40",
+        "title": "クールドジ男子",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-40",
+            "filename": "thumb.png",
+            "query": "version=1674209768",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-40",
+            "filename": "portrait.png",
+            "query": "version=1674209768",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-40_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 670
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "#10 「休みの日」",
+        "content": "ある日の休日、貴之が姉の娘・りりかの面倒を見ることになった。せっかくの休日をゆっくり過ごしたかったと思いながらも、世話をする貴之。そんな中、りりかにせがまれ弁当を持って公園にやってきた貴之は、そこで険しい表情でこちらを見つめる少年と出会う。それはランニング中に偶然、貴之を見かけた瞬で、貴之への伝言を必死で思い出そうとしていたのだ。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "一倉 颯：小林千晃",
+            "二見 瞬：内山昂輝",
+            "三間貴之：梅原裕一郎",
+            "四季蒼真：千葉翔也",
+            "五十嵐元晴：古川 慎",
+            "他"
+        ],
+        "crews": [
+            "原作：那多ここね（掲載「ガンガンpixiv」スクウェア・エニックス刊）",
+            "監督：今 千秋",
+            "シリーズ構成：上江洲 誠",
+            "キャラクターデザイン・総作画監督：田口愛梨",
+            "キーアニメーター：永川 桃子",
+            "美術監督：一色 美緒(Studio Wyeth)",
+            "色彩設計：長島真弓",
+            "撮影監督：衛藤 直毅（EXPLOSION）",
+            "オフライン編集：山岸 歩奈実(REAL-T inc.)",
+            "オンライン編集：Good-Job TOKYO",
+            "音響監督：明田川 仁",
+            "音響制作：マジックカプセル",
+            "音楽：中山真斗",
+            "音楽制作：エイベックス・ピクチャーズ",
+            "アニメーション制作：studioぴえろ",
+            "製作：クールドジ男子製作委員会"
+        ],
+        "copyrights": [
+            "(C)那多ここね／SQUARE ENIX・「クールドジ男子」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682940380,
+    "endAt": 1746025200,
+    "transcodeVersion": "5Q3WST",
+    "sharedLink": {
+        "twitter": "https://abema.app/1Psn",
+        "facebook": "https://abema.app/QpnS",
+        "google": "https://abema.app/NU9U",
+        "line": "https://abema.app/cCcm",
+        "copy": "https://abema.app/mwu1",
+        "instagram": "https://abema.app/Cstp"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-40_s1_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-40_s1_p10/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-40_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-40_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 570.092722,
+        "opening": {
+            "start": 15.18962,
+            "end": 102.18962
+        },
+        "ending": {
+            "start": 570.192722,
+            "end": 657.192722
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-40_s1_p11",
+        "title": "#11 「日常」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1682940380,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-40_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "168-40_eg0"
+}

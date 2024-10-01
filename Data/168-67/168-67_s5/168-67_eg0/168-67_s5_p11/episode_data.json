@@ -1,0 +1,149 @@
+{
+    "id": "168-67_s5_p11",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s5",
+        "sequence": 5,
+        "name": "ロックマンエグゼBEAST＋",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 エレキテル家の事情",
+        "content": "エレキ伯爵の妻、アン・エレキテルがマハ一番にやってきた。二人の仲はエレキ伯爵の甲斐性無しが原因で壊れかけていた。アンの目的は伯爵家の資産の内情を知るエレキマンを手に入れることだった。奪われたPETを取り戻そうとバトルを挑むデカオとディンゴだが、アンがオペレートするエレキマンは異様な強さを発揮、デカオは熱斗に助けを求め、ロックマンはエレキマンと戦う羽目になる。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "光 熱斗 ： 比嘉久美子",
+            "ロックマン ： 木村亜希子",
+            "桜井メイル ： 水橋かおり",
+            "ロール ： 城雅子",
+            "名 人 ： 藤原啓治",
+            "光 祐一朗 ： 川島得愛",
+            "伊集院炎山 ： 斎賀みつき",
+            "ブルース ： 松風雅也",
+            "ライカ ： 結城比呂",
+            "サーチマン ： 福山潤"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：鳴瀬シュウヘイ、五十嵐“IGAO”淳一",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726455308,
+    "endAt": 1759244400,
+    "transcodeVersion": "74fzbq",
+    "sharedLink": {
+        "twitter": "https://abema.app/5Je5",
+        "facebook": "https://abema.app/YYh3",
+        "google": "https://abema.app/CtFj",
+        "line": "https://abema.app/6P6H",
+        "copy": "https://abema.app/YEu6",
+        "instagram": "https://abema.app/22Xa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-67_s5_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-67_s5_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-67_s5_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s5_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 579.9794,
+        "opening": {
+            "end": 19.986633333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s5_p12",
+        "title": "第12話 電撃探険隊！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726455322,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s5_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

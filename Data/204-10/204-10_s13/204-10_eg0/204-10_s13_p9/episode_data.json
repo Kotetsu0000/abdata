@@ -1,0 +1,139 @@
+{
+    "id": "204-10_s13_p9",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s13",
+        "sequence": 13,
+        "name": "十三期",
+        "thumbComponent": {},
+        "order": 13
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 240
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 覗き穴",
+        "content": "とある寂れた温泉街の外れにある謎の店。覗き穴を使った見世物で商売をしているらしい。暇を持て余した湯治客の布川が興味本位で覗いてみると、穴の向こうにいたのは…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "津田寛治",
+            "高畑こと美",
+            "新納多朗",
+            "松林慎司",
+            "清水優",
+            "山口貴也",
+            "星野勇太",
+            "相沢梨紗（でんぱ組.inc）",
+            "恋汐りんご（バンドじゃないもん！）"
+        ],
+        "crews": [
+            "プロデューサー：山川典夫 岩﨑拓矢 船田晃",
+            "脚本：熊本浩武 佐々木充郭 吉川兆二 青木砂織 小佐野彈",
+            "演出：船田晃",
+            "作画：jimmy 日暮桃花 にしやまひろし＆りえ 海老原優 本郷詩乃 岡田真 山川典夫",
+            "絵コンテ：武藤聖馬 吉川兆二 飯塚貴士",
+            "制作協力：ILCASHIPS レオンスタジオ",
+            "制作：ILCA",
+            "製作：「闇芝居」製作委員会"
+        ],
+        "copyrights": [
+            "(C)「闇芝居」製作委員会2024"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691538,
+    "endAt": 1761922800,
+    "transcodeVersion": "53CXAy",
+    "sharedLink": {
+        "twitter": "https://abema.app/3wtu",
+        "facebook": "https://abema.app/z1kn",
+        "google": "https://abema.app/MB1Z",
+        "line": "https://abema.app/2b1G",
+        "copy": "https://abema.app/nfec",
+        "instagram": "https://abema.app/GVsJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s13_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s13_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s13_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s13_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 210.07653333333334,
+        "ending": {
+            "start": 210.07653333333334,
+            "end": 240.00643333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s13_p10",
+        "title": "第10話 址亡",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691538,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s13_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

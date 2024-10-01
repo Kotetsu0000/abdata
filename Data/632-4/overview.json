@@ -34,15 +34,34 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "632-4_s6",
+            "sequence": 6,
+            "name": "七つの大罪 黙示録の四騎士 第2期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/632-4_s6",
+                "filename": "default_thumb.png",
+                "query": "version=1727350227",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "632-4_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)鈴木央・講談社／「七つの大罪 黙示録の四騎士」製作委員会"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
-    "version": "1727429459017046472",
+    "version": "1727783228710711145",
     "imageUpdatedAt": 1708917399,
     "programOrder": "seq",
     "sharedLink": {

@@ -1,0 +1,150 @@
+{
+    "id": "168-67_s2_p42",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s2",
+        "sequence": 2,
+        "name": "ロックマンエグゼ アクセス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 42,
+        "title": "第42話 メイルの初デート",
+        "content": "ネットセイバーの任務で忙しい熱斗。メイルはそんな熱斗が自分から離れていってしまう気がして、寂しさを感じていた。そんな時、熱斗からメイルに「いい所につれていってあげる」と誘いの連絡が。デートの約束だと舞い上がるメイルだが、その場所とはなんと科学省。メイルとロールに、祐一朗の実験に協力して欲しいということだったのだ。落ち込むメイルだが、祐一朗が二人に遊園地のチケットをプレゼントしてくれて、二人は本当にデートすることになる。"
+    },
+    "credit": {
+        "released": 2003,
+        "casts": [
+            "光熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子"
+        ],
+        "crews": [
+            "原案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之、小林教子、油井卓也、中沢利洋",
+            "企画協力：小学館キャラクター事業センター",
+            "原案協力：黒澤真、西巻篤秀",
+            "シリーズ構成：荒木憲一",
+            "キャラクターデザイン：石原満",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "色彩設定：伴夏代",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一",
+            "アニメーション製作：XEBEC",
+            "監督：加戸誉夫",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726364498,
+    "endAt": 1759244400,
+    "transcodeVersion": "3rt5Y",
+    "sharedLink": {
+        "twitter": "https://abema.app/dcio",
+        "facebook": "https://abema.app/gZ8F",
+        "google": "https://abema.app/Kcpz",
+        "line": "https://abema.app/jdM4",
+        "copy": "https://abema.app/9fNL",
+        "instagram": "https://abema.app/nBDX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-67_s2_p42/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-67_s2_p42/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-67_s2_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s2_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 1354.9536,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1354.9536,
+            "end": 1444.9435
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s2_p43",
+        "title": "第43話 コマとマゴ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726364483,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s2_p42/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

@@ -1,0 +1,136 @@
+{
+    "id": "204-10_s1_p13",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s1",
+        "sequence": 1,
+        "name": "闇芝居",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 疼憑き",
+        "content": "隣町で東京から来た兄弟が憑き物にあったという話で盛り上がる太一、正弘、翔太の三人。怖いもの見たさで隣町まで足を運ぶ三人だったが、慌ただしく人が出入りするその家の様子を双眼鏡で覗き見るうち、太一の様子がおかしくなり、まるで踊りを踊っているような奇妙な動きでどこかへ行ってしまう。心配した翔太は忘れ物の双眼鏡を届けるため太一の家に行くが、父親に「太一はもうお前たちと一緒に遊ぶことはできない」と追い返されてしまう。諦めて帰ろうとする翔太だったが、ふと太一の部屋の窓に蠢く人影を見つけ…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "相沢梨紗(でんぱ組.inc)",
+            "大西礼芳",
+            "田中稔彦",
+            "白水桜太郎(AIZENN)",
+            "深海誉(AIZENN)",
+            "Ｓａｒａ",
+            "秋元佐和紀",
+            "増本庄一郎"
+        ],
+        "crews": [
+            "総合演出：高嶋友也",
+            "脚本：熊本浩武",
+            "アニメーション制作：ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "7CmyeE",
+    "sharedLink": {
+        "twitter": "https://abema.app/1kfn",
+        "facebook": "https://abema.app/CPvj",
+        "google": "https://abema.app/oQHZ",
+        "line": "https://abema.app/qyor",
+        "copy": "https://abema.app/v5G3",
+        "instagram": "https://abema.app/R4EB"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 239.90633333333332,
+        "ending": {
+            "start": 239.90633333333332,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s2_p1",
+        "title": "第1話 タロちゃん",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

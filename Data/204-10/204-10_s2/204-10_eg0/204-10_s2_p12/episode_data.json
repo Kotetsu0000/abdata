@@ -1,0 +1,142 @@
+{
+    "id": "204-10_s2_p12",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s2",
+        "sequence": 2,
+        "name": "二期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 根付",
+        "content": "駄菓子屋を経営していた祖父が亡くなり、祖母が一人で切り盛りする店の手伝いに来た女子大生・薫。\n山積みになった商品を片付けているうちに古めかしい木の箱を発見する。\n祖母によると生前祖父が大事にしていた根付だという。\n女性の顔らしきものが彫られたペアの根付を気に入った薫は祖母から貰いイヤリングにすることに。\nその帰り道、薫は不気味な女が二人、自分のあとを尾けてきていることに気づく。\n女たちは「…カエセ」と叫びながら薫を執拗に追いかけ…"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "竹井亮介",
+            "田野アサミ",
+            "松本若菜",
+            "相沢梨紗(でんぱ組.inc)",
+            "中込佐知子",
+            "大西礼芳",
+            "茉莉邑薫",
+            "遠藤瑠香",
+            "Sara",
+            "増本庄一郎",
+            "福士誠治"
+        ],
+        "crews": [
+            "総合演出：ＩＬＣＡ",
+            "脚本：熊本浩武、ブラジリィー・アン・山田",
+            "ゲスト監督：清水崇、井口昇、増本庄一郎",
+            "OP サウンド：nico",
+            "ED曲：「四十九日目」 作詞・作曲 梨本うい",
+            "製作：テレビ東京／ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "5eB23d",
+    "sharedLink": {
+        "twitter": "https://abema.app/n3xn",
+        "facebook": "https://abema.app/Zabv",
+        "google": "https://abema.app/Qgfk",
+        "line": "https://abema.app/UNSK",
+        "copy": "https://abema.app/udfe",
+        "instagram": "https://abema.app/qSk5"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s2_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s2_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s2_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s2_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 239.90633333333332,
+        "ending": {
+            "start": 239.90633333333332,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s2_p13",
+        "title": "第13話 寄鼓",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s2_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

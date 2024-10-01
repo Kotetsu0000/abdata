@@ -1,0 +1,136 @@
+{
+    "id": "204-10_s1_p2",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s1",
+        "sequence": 1,
+        "name": "闇芝居",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 惨拝",
+        "content": "会社の出張で、とある田舎の村へやってきた井上は、慣れない山道で足を滑らせ崖下で倒れていたところを助けられる。足の骨折だけで済んだものの、医師から一晩だけ入院していくように言われ、仕方なく病院に留まることに。しかし、そんな井上をまるで監視するかのように見つめ、何やらヒソヒソと話す、同部屋の患者らしき男たち。翌日、無事退院する井上だったが、それを見送るように病院の屋上で万歳をしている例の患者たちの姿が。まるで自分の退院を祝ってくれているかのように見えた患者たちだったが…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "相沢梨紗(でんぱ組.inc)",
+            "大西礼芳",
+            "田中稔彦",
+            "白水桜太郎(AIZENN)",
+            "深海誉(AIZENN)",
+            "Ｓａｒａ",
+            "秋元佐和紀",
+            "増本庄一郎"
+        ],
+        "crews": [
+            "総合演出：高嶋友也",
+            "脚本：熊本浩武",
+            "アニメーション制作：ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "6sSxXu",
+    "sharedLink": {
+        "twitter": "https://abema.app/NWQB",
+        "facebook": "https://abema.app/fiva",
+        "google": "https://abema.app/BjUo",
+        "line": "https://abema.app/Aros",
+        "copy": "https://abema.app/y3Kw",
+        "instagram": "https://abema.app/xryY"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 240.20663333333334,
+        "ending": {
+            "start": 240.20663333333334,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s1_p3",
+        "title": "第3話 家訓",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

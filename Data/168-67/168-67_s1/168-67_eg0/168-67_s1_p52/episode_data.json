@@ -1,0 +1,155 @@
+{
+    "id": "168-67_s1_p52",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s1",
+        "sequence": 1,
+        "name": "ロックマンエグゼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 52,
+        "title": "第52話 綾小路家の秘密！",
+        "content": "やいとの招きで綾小路家へやって来た熱斗たち。だがメイド・桜子のミスで強力掃除機にウイルスが混入、暴走した掃除機はPETを吸い込んで綾小路邸の奥へと走り去ってしまう。それを追う熱斗たちだが、広大な綾小路邸は実はからくり屋敷だった！PETを取り戻すため、綾小路家を探検する熱斗たち。数々の仕掛けをクリアして、掃除機を止めようと奮闘するのだが・・・。"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "光熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子",
+            "大山デカオ：沼田祐介",
+            "ガッツマン：下山吉光",
+            "綾小路やいと：金丸日向子",
+            "グライド：川津泰彦",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也"
+        ],
+        "crews": [
+            "原案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之",
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "キャラクターデザイン：石原満",
+            "プロップデザイン：渡辺浩二",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：堀井勝美",
+            "アニメーション制作：XEBEC",
+            "製作：テレビ東京、NAS、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726211416,
+    "endAt": 1759244400,
+    "transcodeVersion": "5ij8bs",
+    "sharedLink": {
+        "twitter": "https://abema.app/ikHP",
+        "facebook": "https://abema.app/LBYH",
+        "google": "https://abema.app/3Wcn",
+        "line": "https://abema.app/qBFH",
+        "copy": "https://abema.app/rGdH",
+        "instagram": "https://abema.app/ahn8"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-67_s1_p52/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-67_s1_p52/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-67_s1_p52/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s1_p52"
+    },
+    "viewingPoint": {
+        "suggestion": 1295.0604333333333,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1295.0604333333333,
+            "end": 1384.9836
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s1_p53",
+        "title": "第53話 ビーフ司令VS熱斗くん！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726211398,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s1_p52/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

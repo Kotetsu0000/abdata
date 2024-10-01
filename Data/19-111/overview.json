@@ -1,0 +1,75 @@
+{
+    "id": "19-111",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "甲鉄城のカバネリ 海門決戦",
+    "content": "世界中に産業革命の波が押し寄せ、近世から近代に移り変わろうとした頃、突如として不死の怪物が現れた。後にカバネと呼ばれる事になるそれらは、鋼鉄の皮膜に覆われた心臓を持ち、噛んだ者までもカバネにしてしまう。カバネは爆発的に増殖し、全世界を覆い尽くしていった。極東の島国である日ノ本（ひのもと）で、分厚い装甲に覆われた蒸気機関車、通称・駿城（はやじろ）の一つ、甲鉄城（こうてつじょう）に乗り込んだ生駒たちは、熾烈な戦いを潜り抜け、カバネと人の新たな攻防戦の地、日本海に面する廃坑駅「海門」（うなと）に辿りついた。生駒たちは、同じくカバネから「海門」を奪取せんとする、玄路、虎落、海門の民と「連合軍」を結成し、カバネ撃退の策を立てるのだが、「海門」の地にはある“秘密”が隠されていたのだった－。",
+    "seasons": [
+        {
+            "id": "19-111_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-111_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1689132069",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-111_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)カバネリ製作委員会"
+    ],
+    "label": {},
+    "version": "1722825210328442383",
+    "imageUpdatedAt": 1660125565,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/N6jD",
+        "facebook": "https://abema.app/Quer",
+        "google": "https://abema.app/uGxa",
+        "line": "https://abema.app/PDdm",
+        "copy": "https://abema.app/hRpB",
+        "instagram": "https://abema.app/kikd"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-111",
+        "filename": "thumb.png",
+        "query": "version=1660125565",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-111",
+        "filename": "portrait.png",
+        "query": "version=1660125565",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

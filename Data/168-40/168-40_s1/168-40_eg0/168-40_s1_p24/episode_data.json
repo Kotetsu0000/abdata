@@ -1,0 +1,139 @@
+{
+    "id": "168-40_s1_p24",
+    "series": {
+        "id": "168-40",
+        "title": "クールドジ男子",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-40",
+            "filename": "thumb.png",
+            "query": "version=1674209768",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-40",
+            "filename": "portrait.png",
+            "query": "version=1674209768",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-40_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 670
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 24,
+        "title": "#24 「クールドジな男子たち」",
+        "content": "小さい頃から何かを作るのが好きだった蒼真が、友達に頼まれて自主制作の音楽CDのジャケットをデザインした。早速デザイン画像を送ったものの、なかなか返事が来ない焦りから自信を失う蒼真。そんな蒼真に友達からの返事が届き……。\n――クールでかっこよくて、だけど、ちょっぴりドジな男子たち。これは、そんなドジさえもクールに決めてしまう男子たちの日常譚である。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "一倉 颯：小林千晃",
+            "二見 瞬：内山昂輝",
+            "三間貴之：梅原裕一郎",
+            "四季蒼真：千葉翔也",
+            "五十嵐元晴：古川 慎",
+            "他"
+        ],
+        "crews": [
+            "原作：那多ここね（掲載「ガンガンpixiv」スクウェア・エニックス刊）",
+            "監督：今 千秋",
+            "シリーズ構成：上江洲 誠",
+            "キャラクターデザイン・総作画監督：田口愛梨",
+            "キーアニメーター：永川 桃子",
+            "美術監督：一色 美緒(Studio Wyeth)",
+            "色彩設計：長島真弓",
+            "撮影監督：衛藤 直毅（EXPLOSION）",
+            "オフライン編集：山岸 歩奈実(REAL-T inc.)",
+            "オンライン編集：Good-Job TOKYO",
+            "音響監督：明田川 仁",
+            "音響制作：マジックカプセル",
+            "音楽：中山真斗",
+            "音楽制作：エイベックス・ピクチャーズ",
+            "アニメーション制作：studioぴえろ",
+            "製作：クールドジ男子製作委員会"
+        ],
+        "copyrights": [
+            "(C)那多ここね／SQUARE ENIX・「クールドジ男子」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1682940380,
+    "endAt": 1746025200,
+    "transcodeVersion": "6xJ8Gz",
+    "sharedLink": {
+        "twitter": "https://abema.app/YsQV",
+        "facebook": "https://abema.app/5Nq4",
+        "google": "https://abema.app/CR2M",
+        "line": "https://abema.app/QNYE",
+        "copy": "https://abema.app/zjJa",
+        "instagram": "https://abema.app/zHic"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-40_s1_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-40_s1_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-40_s1_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-40_s1_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 620.810055,
+        "opening": {
+            "start": 53.848866,
+            "end": 140.848866
+        },
+        "ending": {
+            "start": 620.910055,
+            "end": 662.476323
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-40_s1_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "168-40_eg0"
+}

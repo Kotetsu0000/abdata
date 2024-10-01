@@ -1,0 +1,131 @@
+{
+    "id": "204-10_s3_p13",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s3",
+        "sequence": 3,
+        "name": "三期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 絵",
+        "content": "ある小学校に教育実習生としてやってきた百合子。\nこの街へやって来た日、彼女は公園で一人で絵を描く少年を見かける。\nそして少年は彼女が担当するクラスの生徒だった。\n友達もいない様子で、いつ見てもひとりぼっちで絵を描いてばかりいる少年を気にかける彼女。\nある放課後、いつものようにスケッチブックを手にどこかへ向かう少年を見かけ、そっと後を尾けていくとそこには…。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "村井良大",
+            "相沢梨紗(でんぱ組.inc)"
+        ],
+        "crews": [
+            "監督：谷口崇(ILCA)、石川智久(アニマ)",
+            "脚本：熊本浩武、岸野聡子",
+            "企画：山川典夫(テレビ東京)、岩﨑拓矢(ILCA)",
+            "プロデューサー：細谷伸之(テレビ東京) 、広瀬基樹(ILCA) 、櫻井謙士(ILCA)",
+            "制作：ILCA",
+            "制作協力：アニマ",
+            "製作：「闇芝居」製作委員会2016"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691536,
+    "endAt": 1761922800,
+    "transcodeVersion": "78jij6",
+    "sharedLink": {
+        "twitter": "https://abema.app/ok93",
+        "facebook": "https://abema.app/k73G",
+        "google": "https://abema.app/M89Z",
+        "line": "https://abema.app/AS7r",
+        "copy": "https://abema.app/TYLF",
+        "instagram": "https://abema.app/xyS9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s3_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s3_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s3_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s3_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 240.1399,
+        "ending": {
+            "start": 240.1399,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s4_p1",
+        "title": "第1話 舌",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691536,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s3_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

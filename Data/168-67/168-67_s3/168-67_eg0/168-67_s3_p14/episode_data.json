@@ -1,0 +1,154 @@
+{
+    "id": "168-67_s3_p14",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s3",
+        "sequence": 3,
+        "name": "ロックマンエグゼ ストリーム",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1474
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 14,
+        "title": "第14話 バブルGoGoGo！",
+        "content": "ネオWWWの面々の前にバブルマンがやって来た。仲間が欲しいバブルマンは、かつてシェードマンが探していたという宝物の秘密を教えてやろうとテスラに持ちかけるが相手にされず落ち込む。そしてバブルマンはアイスマンとアクアマンを誘って、サイバーワールドの奥底へと宝探しの旅に出ることに。行方不明のアイスマン、アクアマンを探すためロックマンたちもサイバーワールドの下層へと潜っていった。バブルマンが捜し求めるお宝とは果たして！？"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "光 熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子",
+            "大山チサオ：石村知子",
+            "名人：藤原啓治",
+            "光 祐一朗 ：川島得愛",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也",
+            "ライカ：結城比呂",
+            "デューオ：乃村健次"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一 、鳴瀬シュウヘイ",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726216727,
+    "endAt": 1759244400,
+    "transcodeVersion": "6JmGF3",
+    "sharedLink": {
+        "twitter": "https://abema.app/C2kA",
+        "facebook": "https://abema.app/9gzH",
+        "google": "https://abema.app/PwKq",
+        "line": "https://abema.app/mbke",
+        "copy": "https://abema.app/ZQZR",
+        "instagram": "https://abema.app/EzyX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p14/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p14/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-67_s3_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s3_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 1354.9536,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1354.9536,
+            "end": 1444.9435
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s3_p15",
+        "title": "第15話 氷の発明･･･でコフ！？",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726216750,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s3_p14/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

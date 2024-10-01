@@ -1,0 +1,131 @@
+{
+    "id": "204-10_s3_p8",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s3",
+        "sequence": 3,
+        "name": "三期",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 お雛様",
+        "content": "その家で暮らしていた家族は全員自殺したとも、行方不明になったとも言われている。\nそんないわく付きの一軒家に肝試しにやって来た大学の友人・健吾、治夫、延子、由美。\n知る人ぞ知る肝試しスポットである民家は、すでに誰も住んでいないというのに整然と片付けられ、居間には豪華な雛人形まで飾られていた。\nただ、幸せだった家族を連想させる雛人形には、主役であるはずのお雛様がいなかった…。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "村井良大",
+            "相沢梨紗(でんぱ組.inc)"
+        ],
+        "crews": [
+            "監督：谷口崇(ILCA)、石川智久(アニマ)",
+            "脚本：熊本浩武、岸野聡子",
+            "企画：山川典夫(テレビ東京)、岩﨑拓矢(ILCA)",
+            "プロデューサー：細谷伸之(テレビ東京) 、広瀬基樹(ILCA) 、櫻井謙士(ILCA)",
+            "制作：ILCA",
+            "制作協力：アニマ",
+            "製作：「闇芝居」製作委員会2016"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "2Lp7rU",
+    "sharedLink": {
+        "twitter": "https://abema.app/TzvE",
+        "facebook": "https://abema.app/Te7X",
+        "google": "https://abema.app/C4rU",
+        "line": "https://abema.app/C1Ga",
+        "copy": "https://abema.app/7Kmx",
+        "instagram": "https://abema.app/j2uv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s3_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s3_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s3_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s3_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 240.10653333333335,
+        "ending": {
+            "start": 240.10653333333335,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s3_p9",
+        "title": "第9話 4人目",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s3_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

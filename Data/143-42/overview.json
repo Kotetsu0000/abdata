@@ -1,0 +1,75 @@
+{
+    "id": "143-42",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "Helck",
+    "content": "魔界のとある国。\n一人の勇者の手によって魔王が倒され、新魔王の座をかけた競技会が開かれることとなった。\n大会責任者の帝国四天王ヴァミリオは、敵であるはずの人間の勇者ヘルクの参加に激怒する。\n決勝戦を前に魔王ウルムの城が陥落した一報を受け、ヴァミリオはヘルクを含む決勝に残った選手たちと共にウルム城奪還へと旅立った。\n笑顔で「人間を滅ぼそう」と語るヘルク。\n果たしてその言葉は本心か？　笑顔に隠された真実とは……",
+    "seasons": [
+        {
+            "id": "143-42_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/143-42_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1696296549",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "143-42_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)七尾ナナキ・小学館／Helck 製作委員会"
+    ],
+    "label": {},
+    "version": "1703765433192248276",
+    "imageUpdatedAt": 1697096870,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/jqa4",
+        "facebook": "https://abema.app/hGTQ",
+        "google": "https://abema.app/4Hwo",
+        "line": "https://abema.app/Diw7",
+        "copy": "https://abema.app/ekdg",
+        "instagram": "https://abema.app/M9L9"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-42",
+        "filename": "thumb.png",
+        "query": "version=1697096870",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-42",
+        "filename": "portrait.png",
+        "query": "version=1697096870",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

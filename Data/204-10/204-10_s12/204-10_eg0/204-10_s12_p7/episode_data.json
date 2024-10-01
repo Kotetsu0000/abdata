@@ -1,0 +1,142 @@
+{
+    "id": "204-10_s12_p7",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s12",
+        "sequence": 12,
+        "name": "十二期",
+        "thumbComponent": {},
+        "order": 12
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 240
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 いいね",
+        "content": "ある男性と交際するべきか悩む夏美。そんな彼女の前に１年前に死んだ親友のエリカの亡霊が現れ、「いいね」と書いたメモを残して消える。それを見た夏美はエリカと交わしたある決まり事を思い出す…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "津田寛治",
+            "篠田諒",
+            "清水優",
+            "ぽんず",
+            "本田寿々丸",
+            "吉田晴雄",
+            "長月明日香",
+            "小泉よう（雨模様のソラリス）",
+            "蔀祐佳",
+            "土屋咲登子",
+            "青木砂織"
+        ],
+        "crews": [
+            "プロデューサー：山川典夫 岩﨑拓矢 船田晃",
+            "演出：船田晃",
+            "脚本：熊本浩武 佐々木充郭 吉川兆二 青木砂織",
+            "作画：海老原優 日暮桃花 jimmy にしやまひろし＆りえ 川鍋政道 本郷詩乃 山川典夫",
+            "絵コンテ：武藤聖馬",
+            "エンディングテーマ：「ニタリ」 シンガーズハイ （Noisy）",
+            "制作協力：ILCASHIPS",
+            "制作：ILCA",
+            "製作：「闇芝居」製作委員会"
+        ],
+        "copyrights": [
+            "©「闇芝居」製作委員会2023"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691538,
+    "endAt": 1761922800,
+    "transcodeVersion": "G1H85",
+    "sharedLink": {
+        "twitter": "https://abema.app/Nuu5",
+        "facebook": "https://abema.app/EqZP",
+        "google": "https://abema.app/tZgm",
+        "line": "https://abema.app/Xkx8",
+        "copy": "https://abema.app/G3cc",
+        "instagram": "https://abema.app/z8nH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s12_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s12_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s12_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s12_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 210.3101,
+        "ending": {
+            "start": 210.3101,
+            "end": 240.3401
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s12_p8",
+        "title": "第8話 子削儀",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691538,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s12_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

@@ -1,0 +1,150 @@
+{
+    "id": "168-67_s2_p8",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s2",
+        "sequence": 2,
+        "name": "ロックマンエグゼ アクセス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 鏡のなかの友情",
+        "content": "オープン前の科学歴史ランドのシステムチェックを依頼され、プラグインする熱斗。だがそれは敵のワナだった。ミュージアム内で実体化したビーストマンに襲われるが、周囲が鏡、という特殊な環境にうまく戦えないRロックマン。ピンチに陥ったRロックマンを助けたのは炎山だった。炎山もまた、熱斗と同じくネットセイバーの任務についているという。ダークロイド・ダークチップの情報を告げ、去って行く炎山。"
+    },
+    "credit": {
+        "released": 2003,
+        "casts": [
+            "光熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子"
+        ],
+        "crews": [
+            "原案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之、小林教子、油井卓也、中沢利洋",
+            "企画協力：小学館キャラクター事業センター",
+            "原案協力：黒澤真、西巻篤秀",
+            "シリーズ構成：荒木憲一",
+            "キャラクターデザイン：石原満",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "色彩設定：伴夏代",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一",
+            "アニメーション製作：XEBEC",
+            "監督：加戸誉夫",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726365063,
+    "endAt": 1759244400,
+    "transcodeVersion": "45TT8E",
+    "sharedLink": {
+        "twitter": "https://abema.app/8qHP",
+        "facebook": "https://abema.app/9FbD",
+        "google": "https://abema.app/7ZAZ",
+        "line": "https://abema.app/L4wf",
+        "copy": "https://abema.app/o7R7",
+        "instagram": "https://abema.app/6CDP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-67_s2_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-67_s2_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-67_s2_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s2_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1355.0203333333334,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1355.0203333333334,
+            "end": 1445.0102333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s2_p9",
+        "title": "第9話 帰ってきたデカオ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726365045,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s2_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

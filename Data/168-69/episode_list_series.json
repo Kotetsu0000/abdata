@@ -29,7 +29,13 @@
             "duration": 1429
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003",
+                "thumb004",
+                "thumb005"
+            ]
         },
         "episode": {
             "number": 1,
@@ -80,9 +86,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
-        "imageUpdatedAt": 1727691764,
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1727780807,
         "endAt": 1798729200,
+        "freeEndAt": 1798729200,
         "transcodeVersion": "5Jt4gr",
         "sharedLink": {
             "twitter": "https://abema.app/SZ9P",
@@ -106,8 +115,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1727793000
+                "onDemandType": 3,
+                "endAt": 1798729200
             }
         ],
         "episodeGroupId": "168-69_eg0"

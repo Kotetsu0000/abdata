@@ -1,0 +1,154 @@
+{
+    "id": "168-67_s3_p27",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s3",
+        "sequence": 3,
+        "name": "ロックマンエグゼ ストリーム",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 27,
+        "title": "第27話 ルートさん危機一髪！",
+        "content": "熱斗とロックマンは自動車博物館で案内嬢プログラム・ルートと出会う。ルートはかつては車のオートパイロットシステムを司るプログラムとして開発されたのだが、システムは実用化されず今は博物館のナビ役を勤めているという。その夜、博物館のシステムがアステロイド・ブライトマンに乗っ取られ、街中の車が勝手に動き始めた。名人の車もコントロールがきかなくなるが、同乗していた熱斗の元にルートが助けを求めてくる。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "光 熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子",
+            "大山チサオ：石村知子",
+            "名人：藤原啓治",
+            "光 祐一朗 ：川島得愛",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也",
+            "ライカ：結城比呂",
+            "デューオ：乃村健次"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一 、鳴瀬シュウヘイ",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726216956,
+    "endAt": 1759244400,
+    "transcodeVersion": "3FJUK4",
+    "sharedLink": {
+        "twitter": "https://abema.app/StZA",
+        "facebook": "https://abema.app/KNvT",
+        "google": "https://abema.app/eHE5",
+        "line": "https://abema.app/SYCU",
+        "copy": "https://abema.app/L72t",
+        "instagram": "https://abema.app/kcJR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-67_s3_p27/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-67_s3_p27/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-67_s3_p27/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s3_p27"
+    },
+    "viewingPoint": {
+        "suggestion": 1355.0203333333334,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1355.0203333333334,
+            "end": 1445.0102333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s3_p28",
+        "title": "第28話 ピンクパンチメイル",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726216974,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s3_p27/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

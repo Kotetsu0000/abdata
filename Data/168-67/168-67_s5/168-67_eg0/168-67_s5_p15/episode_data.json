@@ -1,0 +1,149 @@
+{
+    "id": "168-67_s5_p15",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s5",
+        "sequence": 5,
+        "name": "ロックマンエグゼBEAST＋",
+        "thumbComponent": {},
+        "order": 5
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 ミニミニタイフーン",
+        "content": "気象予報士・入道露晴の天気予報は外れっぱなし。熱斗は天気予報が外れたおかげで遠足に行けると大喜びだ。テレビ局をクビになった入道はバブルマンからコピーロイドを売りつけられる。ナビをコピーロイドで実体化させれば現実世界でもサイバーワールドと同様の力を使える、と聞いた入道は自分のナビ・エレメントマンを実体化し、天気を思うままに操って世間を見返してやろうと行動を開始する。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "光 熱斗 ： 比嘉久美子",
+            "ロックマン ： 木村亜希子",
+            "桜井メイル ： 水橋かおり",
+            "ロール ： 城雅子",
+            "名 人 ： 藤原啓治",
+            "光 祐一朗 ： 川島得愛",
+            "伊集院炎山 ： 斎賀みつき",
+            "ブルース ： 松風雅也",
+            "ライカ ： 結城比呂",
+            "サーチマン ： 福山潤"
+        ],
+        "crews": [
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "スーパーバイザー：稲船敬二、佐上靖之、油井卓也、中沢利洋",
+            "キャラクターデザイン：石原満",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：鳴瀬シュウヘイ、五十嵐“IGAO”淳一",
+            "アニメーション制作：ＸＥＢＥＣ",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726455372,
+    "endAt": 1759244400,
+    "transcodeVersion": "4S8ZaJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/wJtm",
+        "facebook": "https://abema.app/omu7",
+        "google": "https://abema.app/aV3V",
+        "line": "https://abema.app/T2Z9",
+        "copy": "https://abema.app/n3iX",
+        "instagram": "https://abema.app/uS75"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-67_s5_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-67_s5_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-67_s5_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s5_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 579.9794,
+        "opening": {
+            "end": 19.986633333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s5_p16",
+        "title": "第16話 法の番人",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726455393,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s5_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

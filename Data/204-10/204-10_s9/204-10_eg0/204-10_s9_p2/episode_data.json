@@ -1,0 +1,150 @@
+{
+    "id": "204-10_s9_p2",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s9",
+        "sequence": 9,
+        "name": "九期",
+        "thumbComponent": {},
+        "order": 9
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 兎小屋の男",
+        "content": "深夜に子供達が書いた作文を読み耽る教師・里香。\nある子供の作文を読み進めると、そこには恐るべき結末が書かれていた…"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "津田寛治",
+            "新納敏正",
+            "松村泰一郎",
+            "沢井正棋",
+            "ニシオカ・ト・ニール",
+            "木津つばさ",
+            "大海将一郎",
+            "篠田諒",
+            "岡咲美保",
+            "成瀬瑛美",
+            "MoeMi",
+            "太田彩華",
+            "空野青空",
+            "蔀祐佳",
+            "星菜日向夏",
+            "奈日抽ねね",
+            "長谷みこと",
+            "赤羽ユキノ"
+        ],
+        "crews": [
+            "全体演出：船田晃、杉本健一",
+            "各話演出：平田貢一、宮䑓直也、井上洋輔、横山恵",
+            "脚本：熊本浩武、佐々木充郭、石上加奈子、ニシオカ・ト・ニール",
+            "作画：あ可よろし、海老原優、武藤聖馬、一松慧、Eisuke.Miura、Kensuke Takahashi、jimmy、 菅谷孝一、ナカガワオダジ、まつばらあつし、横山恵、渡邉柊",
+            "エンディングテーマ：おかもとえみ「fall」",
+            "企画：山川典夫（テレビ東京）、岩﨑拓矢（ILCA）",
+            "プロデューサー：梅津智史（テレビ東京）、船田晃",
+            "制作協力：yell、DRAWIZ",
+            "制作：ILCA",
+            "製作：「闇芝居」製作委員会"
+        ],
+        "copyrights": [
+            "(C)「闇芝居」製作委員会2021"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691537,
+    "endAt": 1761922800,
+    "transcodeVersion": "4qX5qe",
+    "sharedLink": {
+        "twitter": "https://abema.app/LwoF",
+        "facebook": "https://abema.app/YZRH",
+        "google": "https://abema.app/9ev9",
+        "line": "https://abema.app/UfZW",
+        "copy": "https://abema.app/xWgx",
+        "instagram": "https://abema.app/yy7J"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/204-10_s9_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/204-10_s9_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/204-10_s9_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s9_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 240.0398,
+        "ending": {
+            "start": 240.0398,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s9_p3",
+        "title": "第3話 44匹目の羊",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691537,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s9_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

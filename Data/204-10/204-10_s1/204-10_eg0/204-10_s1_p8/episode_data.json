@@ -1,0 +1,136 @@
+{
+    "id": "204-10_s1_p8",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s1",
+        "sequence": 1,
+        "name": "闇芝居",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話 傘神様",
+        "content": "転校して田舎に引っ越した友達・猛の家に遊びに行った健二は、雨も降っていないのに傘を差しこちらを見つめる女性の姿を目撃する。よく見ると女性の首は異様な角度に曲がっており、その傘は口に咥えられていた。「…傘神様」話を聞いた隆司の父親は、その日の晩、健二を蔵に入れ「朝が来るまで誰が来ても決してここを開けてはいけない」と扉に鍵をかける。言われるがままに蔵に閉じこもる健二だったが、そこへ猛がおやつを持って現れたため扉を開けてしまい…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "相沢梨紗(でんぱ組.inc)",
+            "大西礼芳",
+            "田中稔彦",
+            "白水桜太郎(AIZENN)",
+            "深海誉(AIZENN)",
+            "Ｓａｒａ",
+            "秋元佐和紀",
+            "増本庄一郎"
+        ],
+        "crews": [
+            "総合演出：高嶋友也",
+            "脚本：熊本浩武",
+            "アニメーション制作：ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "6s36bU",
+    "sharedLink": {
+        "twitter": "https://abema.app/usCm",
+        "facebook": "https://abema.app/XrBa",
+        "google": "https://abema.app/31rN",
+        "line": "https://abema.app/mk2f",
+        "copy": "https://abema.app/VtMH",
+        "instagram": "https://abema.app/AxYZ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/204-10_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/204-10_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/204-10_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 240.20663333333334,
+        "ending": {
+            "start": 240.20663333333334,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s1_p9",
+        "title": "第9話 祟られ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

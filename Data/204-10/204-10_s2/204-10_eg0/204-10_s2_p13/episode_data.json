@@ -1,0 +1,142 @@
+{
+    "id": "204-10_s2_p13",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s2",
+        "sequence": 2,
+        "name": "二期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 寄鼓",
+        "content": "仕事の都合で、ある田舎の村に越すことになった夫婦・大悟と志保は、村人たちへの挨拶がてらさっそく新居へとやってきた。\n二人はその道すがら、無数のでんでん太鼓が地面に並べるように突き立てられており、その列が自分たちの新居へと続いていることに気づく。\n村長に理由を尋ねると、この村には新たに迎え入れる者の家に良いものが来てくれるよう、道しるべとしてでんでん太鼓を立てる習わしがあるのだという。\n安心する二人だったが、やがて夜になると道端に立てられたでんでん太鼓がひとりでに回りだし、その音に導かれるように何かが…"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "竹井亮介",
+            "田野アサミ",
+            "松本若菜",
+            "相沢梨紗(でんぱ組.inc)",
+            "中込佐知子",
+            "大西礼芳",
+            "茉莉邑薫",
+            "遠藤瑠香",
+            "Sara",
+            "増本庄一郎",
+            "福士誠治"
+        ],
+        "crews": [
+            "総合演出：ＩＬＣＡ",
+            "脚本：熊本浩武、ブラジリィー・アン・山田",
+            "ゲスト監督：清水崇、井口昇、増本庄一郎",
+            "OP サウンド：nico",
+            "ED曲：「四十九日目」 作詞・作曲 梨本うい",
+            "製作：テレビ東京／ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "5NNKyR",
+    "sharedLink": {
+        "twitter": "https://abema.app/qXf3",
+        "facebook": "https://abema.app/f6s4",
+        "google": "https://abema.app/qiN3",
+        "line": "https://abema.app/tihd",
+        "copy": "https://abema.app/eAvo",
+        "instagram": "https://abema.app/4ZVL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s2_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s2_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s2_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s2_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 239.6394,
+        "ending": {
+            "start": 239.6394,
+            "end": 269.63603333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s3_p1",
+        "title": "第1話 貸して",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s2_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

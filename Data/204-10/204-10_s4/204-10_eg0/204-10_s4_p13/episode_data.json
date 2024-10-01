@@ -1,0 +1,150 @@
+{
+    "id": "204-10_s4_p13",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s4",
+        "sequence": 4,
+        "name": "四期",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 地下道",
+        "content": "飲み会の帰り道、突然の雨に見舞われた大学生。\n雨宿りをしてやり過ごそうとする彼だったが、ふと駅に続く地下道があることに気づき、これなら濡れずに帰れると地下道に降りてみることに。ひと気のない薄暗い地下道を進んで行くと、前方に工事関係者らしき作業服を着た男が立っていた。男は駅へ続く道とは違う脇道へ誘導しようとするが…。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "＜語り＞",
+            "小倉久寛",
+            "野村昌司",
+            "松尾諭",
+            "寺田農",
+            "渡辺哲",
+            "増本庄一郎",
+            "ひのあらた",
+            "竹井亮介",
+            "宮崎吐夢",
+            "山崎直樹",
+            "龍坐",
+            "あらい汎",
+            "津田寛治",
+            "＜声の出演＞",
+            "村井良大",
+            "茉莉邑薫",
+            "春名風花",
+            "石賀和輝",
+            "岸野聡子"
+        ],
+        "crews": [
+            "監督：兼子昌也(ILCA)",
+            "作画：西川伸司、工藤稜、三俣亜由喜",
+            "脚本：熊本浩武",
+            "企画：山川典夫(テレビ東京)、岩﨑拓矢(ILCA)",
+            "プロデューサー：細谷伸之(テレビ東京) 、広瀬基樹(ILCA)",
+            "エンディングテーマ曲：焚吐「夢負い人」(Being)",
+            "制作：ＩＬＣＡ",
+            "製作：「闇芝居」製作委員会2017"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691536,
+    "endAt": 1761922800,
+    "transcodeVersion": "3MMuU1",
+    "sharedLink": {
+        "twitter": "https://abema.app/YQiB",
+        "facebook": "https://abema.app/iQqW",
+        "google": "https://abema.app/5aRi",
+        "line": "https://abema.app/3TNV",
+        "copy": "https://abema.app/Frdg",
+        "instagram": "https://abema.app/4bfP"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/204-10_s4_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/204-10_s4_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/204-10_s4_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s4_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 229.9297,
+        "ending": {
+            "start": 229.9297,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s5_p1",
+        "title": "第1話 間違い電話",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691536,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s4_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

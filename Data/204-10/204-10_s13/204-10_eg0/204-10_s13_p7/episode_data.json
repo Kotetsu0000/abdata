@@ -1,0 +1,139 @@
+{
+    "id": "204-10_s13_p7",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s13",
+        "sequence": 13,
+        "name": "十三期",
+        "thumbComponent": {},
+        "order": 13
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 240
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 8mm",
+        "content": "友人の美咲の結婚式に流すビデオ制作を任された３人の男女。美咲のお爺さんから渡された８ｍｍには美咲を産んですぐに亡くなったお母さんの幸せそうな姿が映っていたのだが…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "津田寛治",
+            "高畑こと美",
+            "新納多朗",
+            "松林慎司",
+            "清水優",
+            "山口貴也",
+            "星野勇太",
+            "相沢梨紗（でんぱ組.inc）",
+            "恋汐りんご（バンドじゃないもん！）"
+        ],
+        "crews": [
+            "プロデューサー：山川典夫 岩﨑拓矢 船田晃",
+            "脚本：熊本浩武 佐々木充郭 吉川兆二 青木砂織 小佐野彈",
+            "演出：船田晃",
+            "作画：jimmy 日暮桃花 にしやまひろし＆りえ 海老原優 本郷詩乃 岡田真 山川典夫",
+            "絵コンテ：武藤聖馬 吉川兆二 飯塚貴士",
+            "制作協力：ILCASHIPS レオンスタジオ",
+            "制作：ILCA",
+            "製作：「闇芝居」製作委員会"
+        ],
+        "copyrights": [
+            "(C)「闇芝居」製作委員会2024"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691538,
+    "endAt": 1761922800,
+    "transcodeVersion": "pEhfs",
+    "sharedLink": {
+        "twitter": "https://abema.app/Sdix",
+        "facebook": "https://abema.app/PLgx",
+        "google": "https://abema.app/bDaW",
+        "line": "https://abema.app/tzR8",
+        "copy": "https://abema.app/LJ6q",
+        "instagram": "https://abema.app/a2iq"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/204-10_s13_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/204-10_s13_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/204-10_s13_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s13_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 210.0098,
+        "ending": {
+            "start": 210.0098,
+            "end": 240.00643333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s13_p8",
+        "title": "第8話 笑い袋",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691538,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s13_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

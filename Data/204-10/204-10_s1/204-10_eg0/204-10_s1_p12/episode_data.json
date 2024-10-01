@@ -1,0 +1,136 @@
+{
+    "id": "204-10_s1_p12",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s1",
+        "sequence": 1,
+        "name": "闇芝居",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 トモナリクン",
+        "content": "ある団地に住む女子高生・恵子は帰宅途中、腰をかがめじっと地面を見つめている近所の子供たちを見かける。恵子が声をかけると、子供たちは地面にある人型のシミを指さし口々に「トモナリクンだよ」と説明する。その翌日も別の場所で、地面についた人型のシミに話しかけている子供たちを目撃し、気味悪がる恵子。その日の夕方、恵子の家のチャイムが鳴り、「トモナリクンいる？」とやってくる子供達。「いい加減にして！」と追い返す恵子だったが、自分の部屋の天井にあるシミが気になりはじめ…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "相沢梨紗(でんぱ組.inc)",
+            "大西礼芳",
+            "田中稔彦",
+            "白水桜太郎(AIZENN)",
+            "深海誉(AIZENN)",
+            "Ｓａｒａ",
+            "秋元佐和紀",
+            "増本庄一郎"
+        ],
+        "crews": [
+            "総合演出：高嶋友也",
+            "脚本：熊本浩武",
+            "アニメーション制作：ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "7Yidi",
+    "sharedLink": {
+        "twitter": "https://abema.app/pJH7",
+        "facebook": "https://abema.app/ydp2",
+        "google": "https://abema.app/6bef",
+        "line": "https://abema.app/5xbD",
+        "copy": "https://abema.app/wdBx",
+        "instagram": "https://abema.app/oypv"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 240.07316666666668,
+        "ending": {
+            "start": 240.07316666666668,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s1_p13",
+        "title": "第13話 疼憑き",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

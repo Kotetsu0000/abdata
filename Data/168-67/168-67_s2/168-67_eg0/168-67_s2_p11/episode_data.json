@@ -1,0 +1,150 @@
+{
+    "id": "168-67_s2_p11",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s2",
+        "sequence": 2,
+        "name": "ロックマンエグゼ アクセス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1475
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 金庫破りをやっつけろ！",
+        "content": "ディメンショナルエリアを利用した金庫破り事件が発生。謎の男からの指示で、シェードマンが配下のバーナーマンにレアメタルを盗みださせていたのだ。そんな中、町にディメンショナルエリアが張られるが外部からの侵入は不可能で、熱斗にもどうすることも出来ない。何とか外からエリア内へ入る方法はないかと模索する熱斗たち。だが実験の途中でまたもや事件発生。熱斗はクロスフュージョンと同時にエリア内に飛び込み、バーナーマンと戦う。"
+    },
+    "credit": {
+        "released": 2003,
+        "casts": [
+            "光熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子"
+        ],
+        "crews": [
+            "原案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之、小林教子、油井卓也、中沢利洋",
+            "企画協力：小学館キャラクター事業センター",
+            "原案協力：黒澤真、西巻篤秀",
+            "シリーズ構成：荒木憲一",
+            "キャラクターデザイン：石原満",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "色彩設定：伴夏代",
+            "音響監督：明田川仁",
+            "音楽：五十嵐“IGAO”淳一",
+            "アニメーション製作：XEBEC",
+            "監督：加戸誉夫",
+            "製作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726365005,
+    "endAt": 1759244400,
+    "transcodeVersion": "7Ub9RR",
+    "sharedLink": {
+        "twitter": "https://abema.app/4sT9",
+        "facebook": "https://abema.app/9u9K",
+        "google": "https://abema.app/2TzN",
+        "line": "https://abema.app/py5t",
+        "copy": "https://abema.app/sZSb",
+        "instagram": "https://abema.app/46VV"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-67_s2_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-67_s2_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-67_s2_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s2_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1355.0203333333334,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1355.0203333333334,
+            "end": 1445.0102333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s2_p12",
+        "title": "第12話 鋼鉄のスナイパー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726364991,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s2_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}

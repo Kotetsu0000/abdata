@@ -1,0 +1,142 @@
+{
+    "id": "204-10_s2_p1",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s2",
+        "sequence": 2,
+        "name": "二期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 タロちゃん",
+        "content": "腹話術の人形・タロちゃんを使って交通安全の指導をするために地域のイベントにやってきた新米警官・畑中。\nしかし舞台上で、突然タロちゃんの頭が動かないという事態に陥ってしまう。\n慌てた畑中は観客たちにばれない様、力任せにタロちゃんの頭を回すと、バキッという音と共に中から見たことのない木札のようなものが転がり落ちた。\n「これが引っかかってたのか？」\nタロちゃんの頭が動くようになって安心する畑中だったが、これをきっかけにタロちゃんはまるで意志を持っているかのように一人で話しはじめ…"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "津田寛治",
+            "村井良大",
+            "平野良",
+            "竹井亮介",
+            "田野アサミ",
+            "松本若菜",
+            "相沢梨紗(でんぱ組.inc)",
+            "中込佐知子",
+            "大西礼芳",
+            "茉莉邑薫",
+            "遠藤瑠香",
+            "Sara",
+            "増本庄一郎",
+            "福士誠治"
+        ],
+        "crews": [
+            "総合演出：ＩＬＣＡ",
+            "脚本：熊本浩武、ブラジリィー・アン・山田",
+            "ゲスト監督：清水崇、井口昇、増本庄一郎",
+            "OP サウンド：nico",
+            "ED曲：「四十九日目」 作詞・作曲 梨本うい",
+            "製作：テレビ東京／ＩＬＣＡ"
+        ],
+        "copyrights": [
+            "(C)YAM"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691535,
+    "endAt": 1761922800,
+    "transcodeVersion": "6FFLcV",
+    "sharedLink": {
+        "twitter": "https://abema.app/bgEq",
+        "facebook": "https://abema.app/8NHf",
+        "google": "https://abema.app/WCPC",
+        "line": "https://abema.app/RhJB",
+        "copy": "https://abema.app/7Be4",
+        "instagram": "https://abema.app/UeKW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/204-10_s2_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/204-10_s2_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/204-10_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 239.6394,
+        "ending": {
+            "start": 239.6394,
+            "end": 269.63603333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s2_p2",
+        "title": "第2話 台所",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691535,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

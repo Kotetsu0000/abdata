@@ -1,0 +1,147 @@
+{
+    "id": "204-10_s8_p6",
+    "series": {
+        "id": "204-10",
+        "title": "闇芝居",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "thumb.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-10",
+            "filename": "portrait.png",
+            "query": "version=1724207208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "204-10_s8",
+        "sequence": 8,
+        "name": "八期",
+        "thumbComponent": {},
+        "order": 8
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 釣りの成果",
+        "content": "釣ってきたものを頑なに見せない夫。\n妻の栄子はそれが何なのか気にかかる。\n何故ならば、クーラーボックスの中身は普通の魚とは思えなかった…"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "津田寛治",
+            "北原里英",
+            "吉田ウーロン太",
+            "肘井ミカ",
+            "新納敏正",
+            "清水優",
+            "岸野聡子",
+            "阿達由香",
+            "沢井正棋",
+            "木津つばさ",
+            "池田航",
+            "篠田諒",
+            "青木悠",
+            "岡咲美保",
+            "MoeMi",
+            "中村朱里"
+        ],
+        "crews": [
+            "演出：船田 晃、杉本健一",
+            "脚本：熊本浩武、佐々木充郭、國吉咲貴、石上加奈子、兒玉宣勝",
+            "作画：あ可よろし、かねさだ雪緒、金村沙耶、ツボ浅野、武藤聖馬",
+            "企画：山川典夫（テレビ東京）、岩﨑拓矢（ILCA）",
+            "プロデューサー：梅津智史（テレビ東京）、藤嵜怜那",
+            "エンディングテーマ：imai「Twilight feat.Pecori」（Evening Tracks）",
+            "制作協力：TIA DRAWIZ",
+            "制作：ILCA",
+            "製作：「闇芝居」製作委員会"
+        ],
+        "copyrights": [
+            "(C)「闇芝居」製作委員会2020"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727691537,
+    "endAt": 1761922800,
+    "transcodeVersion": "6L6rZR",
+    "sharedLink": {
+        "twitter": "https://abema.app/7Ftk",
+        "facebook": "https://abema.app/kxVF",
+        "google": "https://abema.app/q7aE",
+        "line": "https://abema.app/ctna",
+        "copy": "https://abema.app/sNA9",
+        "instagram": "https://abema.app/ea1b"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/204-10_s8_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/204-10_s8_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/204-10_s8_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.204-10_s8_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 240.0398,
+        "ending": {
+            "start": 240.0398,
+            "end": 269.90296666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "204-10_s8_p7",
+        "title": "第7話 一寸法師",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727691537,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/204-10_s8_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "204-10_eg0"
+}

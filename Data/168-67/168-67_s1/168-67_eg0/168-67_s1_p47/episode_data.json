@@ -1,0 +1,155 @@
+{
+    "id": "168-67_s1_p47",
+    "series": {
+        "id": "168-67",
+        "title": "ロックマンエグゼ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "thumb.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-67",
+            "filename": "portrait.png",
+            "query": "version=1726623164",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-67_s1",
+        "sequence": 1,
+        "name": "ロックマンエグゼ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1415
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 47,
+        "title": "第47話 ネットモービルグランプリ！",
+        "content": "ガブゴン社主催で行なわれることになったインターネットシティでのカーレース、ネットモービルＧＰ。ロックマンを始め、ネットエージェント、旧WWWまでもが参加、レースは白熱する。そこにロックマンへの復讐を誓うカットマンブラザーズの妨害も入り大混乱。果たして勝敗の行方は・・・。"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "光熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "桜井メイル：水橋かおり",
+            "ロール：城雅子",
+            "大山デカオ：沼田祐介",
+            "ガッツマン：下山吉光",
+            "綾小路やいと：金丸日向子",
+            "グライド：川津泰彦",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也"
+        ],
+        "crews": [
+            "原案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之",
+            "監督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "キャラクターデザイン：石原満",
+            "プロップデザイン：渡辺浩二",
+            "色彩設計：伴夏代",
+            "美術監督：高山八大",
+            "撮影監督：広瀬勝利",
+            "音響監督：明田川仁",
+            "音楽：堀井勝美",
+            "アニメーション制作：XEBEC",
+            "製作：テレビ東京、NAS、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726211527,
+    "endAt": 1759244400,
+    "transcodeVersion": "4bS4do",
+    "sharedLink": {
+        "twitter": "https://abema.app/a5uc",
+        "facebook": "https://abema.app/E3Ca",
+        "google": "https://abema.app/mQSp",
+        "line": "https://abema.app/t2TN",
+        "copy": "https://abema.app/fiWc",
+        "instagram": "https://abema.app/GJvy"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-67_s1_p47/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-67_s1_p47/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-67_s1_p47/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-67_s1_p47"
+    },
+    "viewingPoint": {
+        "suggestion": 1295.0270666666668,
+        "opening": {
+            "end": 89.9899
+        },
+        "ending": {
+            "start": 1295.0270666666668,
+            "end": 1384.9502333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-67_s1_p48",
+        "title": "第48話 電脳の魔物！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726211487,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-67_s1_p47/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-67_eg0"
+}
