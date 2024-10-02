@@ -1,0 +1,93 @@
+{
+    "id": "168-68",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "流星のロックマン",
+    "content": "２２０Ｘ年―\n地球のあらゆる電波・通信を管理する三基のサテライト…ペガサス、レオ、ドラゴンの完成で、人類の通信環境は飛躍的な進化を遂げた…\n街は電波を利用した無公害エネルギーに溢れ、電波を擬似物質化する事で、豊かな生活を人類にもたらした。\nが、その地球を破壊すべく、好戦的な電波星人の住む星、ＦＭプラネットが攻撃を開始…\n星河スバルは、宇宙からの逃亡者ウォーロックと合体し、電波世界のヒーロー、ロックマンに電波変換するのだ！！",
+    "seasons": [
+        {
+            "id": "168-68_s1",
+            "sequence": 1,
+            "name": "流星のロックマン",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/168-68_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1726565920",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-68_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "168-68_s2",
+            "sequence": 2,
+            "name": "流星のロックマン　トライブ",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/168-68_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1726565935",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-68_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)CAPCOM・小学館・ShoPro"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1727692368892189787",
+    "imageUpdatedAt": 1726565954,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ph2X",
+        "facebook": "https://abema.app/2jis",
+        "google": "https://abema.app/wU8n",
+        "line": "https://abema.app/3Mgb",
+        "copy": "https://abema.app/NqmD",
+        "instagram": "https://abema.app/Bxwo"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+        "filename": "thumb.png",
+        "query": "version=1726565954",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+        "filename": "portrait.png",
+        "query": "version=1726565954",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

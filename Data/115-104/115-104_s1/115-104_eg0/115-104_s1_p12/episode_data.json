@@ -1,0 +1,137 @@
+{
+    "id": "115-104_s1_p12",
+    "series": {
+        "id": "115-104",
+        "title": "でこぼこ魔女の親子事情",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-104",
+            "filename": "thumb.png",
+            "query": "version=1696500025",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-104",
+            "filename": "portrait.png",
+            "query": "version=1696500025",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-104_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "#12 でこぼこ魔女の母娘事情",
+        "content": "アウリの正体が判明し、誤解が解けてからすっかり仲良くなったビオラとアウリ。アウリは孫のビオラがかわいくて仕方がなく、ついつい甘やかしてしまうのだが――／和気あいあいとやっているアウリとアリッサたち。ビオラの幼少期の思い出を振り返り、ギリコやルーナ、フェンネルたちと盛り上がり、さらににぎやかになっていく――"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "アリッサ：古賀 葵",
+            "ビオラ：水樹奈々",
+            "フェニックス：土師孝也",
+            "リラ：朴 璐美",
+            "ギリコ：大地 葉",
+            "ルーナ：関根明良",
+            "フェンネル：近藤孝行",
+            "グリンド：小野大輔",
+            "ナレーション：花澤香菜"
+        ],
+        "crews": [
+            "原作：ピロヤ（「COMICメテオ」連載／フレックスコミックス刊）",
+            "監督：たかたまさひろ",
+            "シリーズ構成：ジャイロナックル",
+            "キャラクターデザイン・総作画監督：吉田美和",
+            "プロップデザイン：荒井梨沙",
+            "色彩設計：中村里沙",
+            "美術監督：川口正明",
+            "撮影監督：牧野真人",
+            "編集：宇都宮正記（ゼロジー）",
+            "音響制作：セイバーリンクス",
+            "音響監督：たかたまさひろ",
+            "音楽：myu",
+            "アニメーション制作：A-Real"
+        ],
+        "copyrights": [
+            "(C)ピロヤ・COMICメテオ／でこぼこ魔女製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703405703,
+    "endAt": 1735657200,
+    "transcodeVersion": "3ebziR",
+    "sharedLink": {
+        "twitter": "https://abema.app/Cp37",
+        "facebook": "https://abema.app/eKQZ",
+        "google": "https://abema.app/iVHj",
+        "line": "https://abema.app/3m8c",
+        "copy": "https://abema.app/pbeb",
+        "instagram": "https://abema.app/fZNw"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-104_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-104_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-104_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-104_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.038625,
+        "opening": {
+            "start": 66.90016666666666,
+            "end": 155.98916666666668
+        },
+        "ending": {
+            "start": 1144.6017916666667,
+            "end": 1253.4605416666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-104_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "115-104_eg0"
+}

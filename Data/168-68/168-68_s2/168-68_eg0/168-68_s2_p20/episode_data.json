@@ -1,0 +1,153 @@
+{
+    "id": "168-68_s2_p20",
+    "series": {
+        "id": "168-68",
+        "title": "流星のロックマン",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "thumb.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "portrait.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-68_s2",
+        "sequence": 2,
+        "name": "流星のロックマン　トライブ",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 600
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話 孤高の戦士ブライ",
+        "content": "オーパーツの力が発動してゲートが開き、ムー大陸が出現した。ゲート内にすいこまれていくロックマン。エンプティとオリヒメもゲートに飛び込みロックマンを追撃する。ウォーロックはスバルを救うため電波変換を解除、単身エンプティに挑む。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "星河スバル：大浦冬華",
+            "ウォーロック：伊藤健太郎",
+            "ロックマン：大浦冬華",
+            "白金ルナ：植田佳奈",
+            "牛島ゴン太：大畑伸太郎",
+            "響ミソラ：福圓美里",
+            "天地守：土田大",
+            "宇田海深佑：森訓久",
+            "星河あかね：木村亜希子",
+            "五陽田ヘイジ（ごようだ へいじ）：志村知幸",
+            "ドクターオリヒメ：折笠愛",
+            "エンプティー：千葉一伸",
+            "ブライ：泰勇気"
+        ],
+        "crews": [
+            "監 督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "原 案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之",
+            "キャラクターデザイン：足立慎吾",
+            "色彩設計：松岡珠江",
+            "美術監督：小山俊久",
+            "撮影監督：広瀬勝利",
+            "音響監督：渡辺 淳",
+            "音 楽：鳴瀬シュウヘイ",
+            "アニメーション制作：XEBEC",
+            "製 作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726810135,
+    "endAt": 1759244400,
+    "transcodeVersion": "3P6o7f",
+    "sharedLink": {
+        "twitter": "https://abema.app/qzvd",
+        "facebook": "https://abema.app/78Fa",
+        "google": "https://abema.app/Yzmc",
+        "line": "https://abema.app/b68E",
+        "copy": "https://abema.app/d98D",
+        "instagram": "https://abema.app/KiK6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-68_s2_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-68_s2_p20/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-68_s2_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-68_s2_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 584.9844,
+        "opening": {
+            "end": 60.026633333333336
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-68_s2_p21",
+        "title": "第21話 ムー大陸の決闘",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726810171,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-68_s2_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-68_eg0"
+}

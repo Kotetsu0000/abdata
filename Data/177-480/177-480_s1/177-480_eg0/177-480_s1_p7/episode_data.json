@@ -1,0 +1,126 @@
+{
+    "id": "177-480_s1_p7",
+    "series": {
+        "id": "177-480",
+        "title": "オーイシ×仲村の想い出アニソン同好会",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "thumb.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "portrait.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-480_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2311
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "#7:大橋彩香",
+        "content": "第7回ゲストに大橋彩香さんが登場! 大橋さんの想い出アニソンは、「LIFE」(BLEACH)と「天地ガエシ」(ハイキュー!!)。 想い出トークでは、当時のオタ活の話やハマっていたというメル画の話題に。「LIFE」ではギターに合わせて感情を乗せて、「天地ガエシ」はカッコよく歌い上げてます!"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "オーイシマサヨシ",
+            "仲村宗悟",
+            "大橋彩香"
+        ],
+        "copyrights": [
+            "(C)東北新社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726132380,
+    "endAt": 1761922800,
+    "transcodeVersion": "4xGCX9",
+    "sharedLink": {
+        "twitter": "https://abema.app/vcY8",
+        "facebook": "https://abema.app/JD71",
+        "google": "https://abema.app/16XX",
+        "line": "https://abema.app/orx8",
+        "copy": "https://abema.app/hzty",
+        "instagram": "https://abema.app/kZTX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/177-480_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/177-480_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/177-480_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-480_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 2302.8005
+    },
+    "nextProgramInfo": {
+        "programId": "177-480_s1_p8",
+        "title": "#8:愛美",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726132403,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-480_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "177-480_eg0"
+}

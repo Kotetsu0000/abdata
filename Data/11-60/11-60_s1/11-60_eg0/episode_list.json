@@ -712,8 +712,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1727857800
+                    "onDemandType": 1,
+                    "endAt": 1728083400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -722,6 +722,35 @@
         },
         "info": {
             "duration": 1431
+        }
+    },
+    {
+        "id": "11-60_s1_p26",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/11-60_s1_p26",
+            "filename": "thumb001.png",
+            "query": "version=1727405025",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 26,
+            "title": "第26話",
+            "content": "この家族、普通じゃない!?\n家族を事故で亡くし、心を閉ざすようになった高校生・朝野太陽。\nクラスメイトからの印象は「超・人見知り」。\n唯一、話せるのは幼なじみの夜桜六美、ただ一人だった。\n\nけれど六美にはあるヒミツが!?\n彼女の正体は代々続くスパイ一家当主で、様々な敵から命を狙われていたのだ！\nしかも彼女の兄・凶一郎は最凶のスパイで、異常なほど六美を溺愛していた。\n太陽は、そんな凶一郎から「排除」ターゲットとして命を狙われることに…！\n六美と自分の命を守るため、太陽のとった手段とは…\n六美と結婚して夜桜家に婿入りすること!?\n\n太陽、六美、そして夜桜さんちの家族を巡る前代未聞の「大作戦」から目が離せない!!"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1728462600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1432
         }
     }
 ]

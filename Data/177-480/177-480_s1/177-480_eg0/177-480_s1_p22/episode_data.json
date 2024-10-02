@@ -1,0 +1,126 @@
+{
+    "id": "177-480_s1_p22",
+    "series": {
+        "id": "177-480",
+        "title": "オーイシ×仲村の想い出アニソン同好会",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "thumb.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "portrait.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-480_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2753
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 22,
+        "title": "#22:白井悠介",
+        "content": "第22回ゲストは白井悠介さんが登場!白井さんの想い出アニソンは「Thanks my friend」(プラネテス)と「ツキアカリ」(DARKER THAN BLACK -黒の契約者-)。想い出トークでは、子供のころ友達と遊んでいたある遊びの話に。ヒーフーハーとは一体?!「Thanks my friend」ではギター演奏が染みるセッションに。アニメのあのシーンが思い浮かびます!「ツキアカリ」では優しい曲調で気持ちよく歌い上げます!"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "オーイシマサヨシ",
+            "仲村宗悟",
+            "白井悠介"
+        ],
+        "copyrights": [
+            "(C)東北新社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726199393,
+    "endAt": 1761922800,
+    "transcodeVersion": "6YAM7g",
+    "sharedLink": {
+        "twitter": "https://abema.app/K3cf",
+        "facebook": "https://abema.app/2P79",
+        "google": "https://abema.app/PrsP",
+        "line": "https://abema.app/gnRz",
+        "copy": "https://abema.app/HfbY",
+        "instagram": "https://abema.app/zbGX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/177-480_s1_p22/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/177-480_s1_p22/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/177-480_s1_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-480_s1_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 2744.9088333333334
+    },
+    "nextProgramInfo": {
+        "programId": "177-480_s1_p23",
+        "title": "#23:伊東健人",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726199406,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-480_s1_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "177-480_eg0"
+}

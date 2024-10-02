@@ -1,0 +1,141 @@
+{
+    "id": "19-122_s1_p2",
+    "series": {
+        "id": "19-122",
+        "title": "もやしもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-122",
+            "filename": "thumb.png",
+            "query": "version=1664782660",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-122",
+            "filename": "portrait.png",
+            "query": "version=1664782660",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-122_s1",
+        "sequence": 1,
+        "name": "もやしもん",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1384
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 三億円の農大生",
+        "content": "日本酒の敵・ヒオチ菌が大量に噴出！沢木は、学校内で勝手にお酒を造っている犯人・川浜と美里に出くわす。密造に失敗し多額の借金を抱えた二人は、沢木の能力を使ってひと儲けを企む。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "沢木惣右衛門直保：阪口大助",
+            "結城蛍：斎賀みつき",
+            "樹慶蔵：西村知道",
+            "長谷川遥：大原さやか",
+            "及川葉月：神田朱未",
+            "武藤葵：能登麻美子",
+            "美里薫：小西克幸",
+            "川浜拓馬：杉山紀彰"
+        ],
+        "crews": [
+            "原作：『もやしもん』石川雅之／講談社刊",
+            "監督：矢野雄一郎",
+            "脚本：高橋ナツコ、武上純希、猪爪慎一",
+            "キャラクタ－デザイン：高岡じゅんいち",
+            "CG監督：八木竜一（白組）",
+            "OP演出：山崎貴",
+            "音楽：佐藤直紀",
+            "アニメーション制作：白組",
+            "テレコム・アニメーションフィルム",
+            "製作：「もやしもん」製作委員会"
+        ],
+        "copyrights": [
+            "(C)石川雅之・講談社／もやしもん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1702534911,
+    "endAt": 1761922800,
+    "transcodeVersion": "hE4ob",
+    "sharedLink": {
+        "twitter": "https://abema.app/wbSY",
+        "facebook": "https://abema.app/u5rJ",
+        "google": "https://abema.app/peSB",
+        "line": "https://abema.app/TMrF",
+        "copy": "https://abema.app/gQJL",
+        "instagram": "https://abema.app/2ydt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-122_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-122_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-122_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-122_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1362.084655
+    },
+    "nextProgramInfo": {
+        "programId": "19-122_s1_p3",
+        "title": "第3話 菌でかもすぞ！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1702534911,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-122_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "19-122_eg0"
+}

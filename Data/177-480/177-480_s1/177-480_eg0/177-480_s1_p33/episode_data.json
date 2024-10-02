@@ -1,0 +1,126 @@
+{
+    "id": "177-480_s1_p33",
+    "series": {
+        "id": "177-480",
+        "title": "オーイシ×仲村の想い出アニソン同好会",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "thumb.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "portrait.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-480_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2841
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 33,
+        "title": "#33:鈴代紗弓",
+        "content": "第33回ゲストは鈴代紗弓さんが登場!鈴代さんの想い出アニソンは、「雫」 (獣の奏者エリン)と「心絵」(メジャー)。父親とキャッチボールをしていた幼少期の影響で、今も自分のグローブを持ってキャッチボールをしたり、バッティングセンターに通うほど。「雫」は透明感ある歌声で哀愁ある雰囲気に。「心絵」は少し趣向を凝らした歌いだしが必見!"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "オーイシマサヨシ",
+            "仲村宗悟",
+            "鈴代紗弓"
+        ],
+        "copyrights": [
+            "(C)東北新社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726199561,
+    "endAt": 1761922800,
+    "transcodeVersion": "hto6y",
+    "sharedLink": {
+        "twitter": "https://abema.app/cjMc",
+        "facebook": "https://abema.app/iRqp",
+        "google": "https://abema.app/QA8B",
+        "line": "https://abema.app/tQNp",
+        "copy": "https://abema.app/bPdu",
+        "instagram": "https://abema.app/Bue1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/177-480_s1_p33/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/177-480_s1_p33/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/177-480_s1_p33/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-480_s1_p33"
+    },
+    "viewingPoint": {
+        "suggestion": 2745.9765666666667
+    },
+    "nextProgramInfo": {
+        "programId": "177-480_s1_p34",
+        "title": "#34:狩野翔",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726199575,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-480_s1_p33/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "177-480_eg0"
+}

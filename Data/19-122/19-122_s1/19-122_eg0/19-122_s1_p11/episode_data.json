@@ -1,0 +1,141 @@
+{
+    "id": "19-122_s1_p11",
+    "series": {
+        "id": "19-122",
+        "title": "もやしもん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-122",
+            "filename": "thumb.png",
+            "query": "version=1664782660",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-122",
+            "filename": "portrait.png",
+            "query": "version=1664782660",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-122_s1",
+        "sequence": 1,
+        "name": "もやしもん",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 輝く菌未来",
+        "content": "菌が見えない沢木をかばう美里と川浜。一方、「菌が見えなきゃただのチビ」と沢木を突き放す長谷川。親友・蛍に悩みを打ち明けたことをきっかけに自分の人生を見つめなおした沢木は、自分の思いを長谷川に伝える―。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "沢木惣右衛門直保：阪口大助",
+            "結城蛍：斎賀みつき",
+            "樹慶蔵：西村知道",
+            "長谷川遥：大原さやか",
+            "及川葉月：神田朱未",
+            "武藤葵：能登麻美子",
+            "美里薫：小西克幸",
+            "川浜拓馬：杉山紀彰"
+        ],
+        "crews": [
+            "原作：『もやしもん』石川雅之／講談社刊",
+            "監督：矢野雄一郎",
+            "脚本：高橋ナツコ、武上純希、猪爪慎一",
+            "キャラクタ－デザイン：高岡じゅんいち",
+            "CG監督：八木竜一（白組）",
+            "OP演出：山崎貴",
+            "音楽：佐藤直紀",
+            "アニメーション制作：白組",
+            "テレコム・アニメーションフィルム",
+            "製作：「もやしもん」製作委員会"
+        ],
+        "copyrights": [
+            "(C)石川雅之・講談社／もやしもん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1702534911,
+    "endAt": 1761922800,
+    "transcodeVersion": "7KBvBG",
+    "sharedLink": {
+        "twitter": "https://abema.app/fvKA",
+        "facebook": "https://abema.app/g9yQ",
+        "google": "https://abema.app/mtU5",
+        "line": "https://abema.app/TPzD",
+        "copy": "https://abema.app/KFx3",
+        "instagram": "https://abema.app/QVx3"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-122_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-122_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-122_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-122_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1365.086922
+    },
+    "nextProgramInfo": {
+        "programId": "19-123_s2_p1",
+        "title": "第1話 もやしども起つ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1702534912,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-122_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "19-122_eg0"
+}

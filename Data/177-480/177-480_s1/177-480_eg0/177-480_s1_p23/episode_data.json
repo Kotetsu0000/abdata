@@ -1,0 +1,126 @@
+{
+    "id": "177-480_s1_p23",
+    "series": {
+        "id": "177-480",
+        "title": "オーイシ×仲村の想い出アニソン同好会",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "thumb.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "portrait.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-480_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2824
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "#23:伊東健人",
+        "content": "第23回ゲストは伊東健人さんが登場!伊東さんの想い出アニソンは「DINAMITE EXPLOSION」(マクロスダイナマイト7)と「夢のヒーロー」(電光超人グリッドマン)。想い出トークでは、子供の頃からの憧れのヒーロー”グリッドマン”の話題に。グリッドマンへの熱い想いがあふれてきます。「DINAMITE EXPLOSION」ではギターで熱唱!シャウトが響く熱いセッションに!「夢のヒーロー」では憧れを抱きながら歌い上げます!さらにあの曲も披露!?"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "オーイシマサヨシ",
+            "仲村宗悟",
+            "伊東健人"
+        ],
+        "copyrights": [
+            "(C)東北新社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726199406,
+    "endAt": 1761922800,
+    "transcodeVersion": "6f2W9H",
+    "sharedLink": {
+        "twitter": "https://abema.app/5nQw",
+        "facebook": "https://abema.app/37RF",
+        "google": "https://abema.app/G743",
+        "line": "https://abema.app/tniM",
+        "copy": "https://abema.app/izkt",
+        "instagram": "https://abema.app/NTKT"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/177-480_s1_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/177-480_s1_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/177-480_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-480_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 2816.1133
+    },
+    "nextProgramInfo": {
+        "programId": "177-480_s1_p24",
+        "title": "#24:工藤晴香",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726199420,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-480_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "177-480_eg0"
+}

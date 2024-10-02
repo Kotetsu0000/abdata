@@ -1,0 +1,152 @@
+{
+    "id": "168-68_s1_p42",
+    "series": {
+        "id": "168-68",
+        "title": "流星のロックマン",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "thumb.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "portrait.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-68_s1",
+        "sequence": 1,
+        "name": "流星のロックマン",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 42,
+        "title": "第42話 発明大魔王宇田海",
+        "content": "世の中のためになるものを発明したいと考えた宇田海は色々な発明品を製作するが失敗ばかり。天地は宇田海に電波ウィルスを退治できるような装置を作れないかとアドバイスする。張り切って開発を進める宇田海だが･･･"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "星河スバル：大浦冬華",
+            "ウォーロック：伊藤健太郎",
+            "ロックマン：大浦冬華",
+            "白金ルナ：植田佳奈",
+            "牛島ゴン太：大畑伸太郎",
+            "響ミソラ：福圓美里",
+            "双葉ツカサ：甲斐田ゆき",
+            "天地守：土田大",
+            "宇田海深佑（うたがい しんすけ）：森訓久",
+            "星河あかね（ほしかわ あかね）：木村亜希子",
+            "星河大吾（ほしかわ だいご）：大西健晴",
+            "五陽田ヘイジ（ごようだ へいじ）：志村知幸"
+        ],
+        "crews": [
+            "監 督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "原 案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之",
+            "キャラクターデザイン：足立慎吾",
+            "色彩設計：松岡珠江",
+            "美術監督：小山俊久",
+            "撮影監督：広瀬勝利",
+            "音響監督：渡辺 淳",
+            "音 楽：鳴瀬シュウヘイ",
+            "アニメーション制作：XEBEC",
+            "製 作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726808783,
+    "endAt": 1759244400,
+    "transcodeVersion": "62qq5p",
+    "sharedLink": {
+        "twitter": "https://abema.app/om4n",
+        "facebook": "https://abema.app/3d4c",
+        "google": "https://abema.app/9NK2",
+        "line": "https://abema.app/Beqq",
+        "copy": "https://abema.app/a6qX",
+        "instagram": "https://abema.app/aGyJ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-68_s1_p42/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-68_s1_p42/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-68_s1_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-68_s1_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 580.0127666666667,
+        "opening": {
+            "end": 60.026633333333336
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-68_s1_p43",
+        "title": "第43話 アマケン大パニック",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726808798,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-68_s1_p42/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-68_eg0"
+}

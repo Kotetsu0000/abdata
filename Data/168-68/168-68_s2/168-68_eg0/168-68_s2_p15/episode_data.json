@@ -1,0 +1,153 @@
+{
+    "id": "168-68_s2_p15",
+    "series": {
+        "id": "168-68",
+        "title": "流星のロックマン",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "thumb.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "portrait.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-68_s2",
+        "sequence": 2,
+        "name": "流星のロックマン　トライブ",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 600
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 三つ巴、オーパーツ争奪戦",
+        "content": "ムー復活という望みが一致したファントム・ブラックとイエティ・ブリザードは手を組み、ロックマンに襲い掛かってきた。2対1の戦いに苦戦するロックマンだったがファントム・ブラックは戦いの途中でなぜか戦線離脱してしまう。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "星河スバル：大浦冬華",
+            "ウォーロック：伊藤健太郎",
+            "ロックマン：大浦冬華",
+            "白金ルナ：植田佳奈",
+            "牛島ゴン太：大畑伸太郎",
+            "響ミソラ：福圓美里",
+            "天地守：土田大",
+            "宇田海深佑：森訓久",
+            "星河あかね：木村亜希子",
+            "五陽田ヘイジ（ごようだ へいじ）：志村知幸",
+            "ドクターオリヒメ：折笠愛",
+            "エンプティー：千葉一伸",
+            "ブライ：泰勇気"
+        ],
+        "crews": [
+            "監 督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "原 案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之",
+            "キャラクターデザイン：足立慎吾",
+            "色彩設計：松岡珠江",
+            "美術監督：小山俊久",
+            "撮影監督：広瀬勝利",
+            "音響監督：渡辺 淳",
+            "音 楽：鳴瀬シュウヘイ",
+            "アニメーション制作：XEBEC",
+            "製 作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726809983,
+    "endAt": 1759244400,
+    "transcodeVersion": "3Getoj",
+    "sharedLink": {
+        "twitter": "https://abema.app/by7f",
+        "facebook": "https://abema.app/mVvn",
+        "google": "https://abema.app/r6vi",
+        "line": "https://abema.app/wJiW",
+        "copy": "https://abema.app/d4uz",
+        "instagram": "https://abema.app/eqFS"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-68_s2_p15/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-68_s2_p15/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-68_s2_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-68_s2_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 584.9844,
+        "opening": {
+            "end": 60.026633333333336
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-68_s2_p16",
+        "title": "第16話 ベラボーな作戦！？",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726810018,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-68_s2_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-68_eg0"
+}

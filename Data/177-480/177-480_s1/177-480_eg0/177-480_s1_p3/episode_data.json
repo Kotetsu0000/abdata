@@ -1,0 +1,126 @@
+{
+    "id": "177-480_s1_p3",
+    "series": {
+        "id": "177-480",
+        "title": "オーイシ×仲村の想い出アニソン同好会",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "thumb.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "portrait.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-480_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2290
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "#3:田中有紀",
+        "content": "第3回ゲストに田中有紀さんが登場! 田中さんの想い出アニソンは、「君がいない未来」(犬夜叉 完結編)と「キボウノカケラ」(きみの声をとどけたい)。 想い出トークでは、犬夜叉ごっこやデビューのきっかけとなったオーディションの話題に!デビューした当時の気持ちを聞かれた田中さんは・・・?「君がいない未来」ではのびやかに、「キボウノカケラ」では優しく歌い上げます。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "オーイシマサヨシ",
+            "仲村宗悟",
+            "田中有紀"
+        ],
+        "copyrights": [
+            "(C)東北新社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726132300,
+    "endAt": 1761922800,
+    "transcodeVersion": "2jV4Cp",
+    "sharedLink": {
+        "twitter": "https://abema.app/9Sw4",
+        "facebook": "https://abema.app/MyP6",
+        "google": "https://abema.app/cwCj",
+        "line": "https://abema.app/ooFs",
+        "copy": "https://abema.app/4eXE",
+        "instagram": "https://abema.app/886y"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/177-480_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/177-480_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/177-480_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-480_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 2280.6116666666667
+    },
+    "nextProgramInfo": {
+        "programId": "177-480_s1_p4",
+        "title": "#4:熊谷健太郎",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726132315,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-480_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "177-480_eg0"
+}

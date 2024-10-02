@@ -1,0 +1,150 @@
+{
+    "id": "168-68_s1_p55",
+    "series": {
+        "id": "168-68",
+        "title": "流星のロックマン",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "thumb.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-68",
+            "filename": "portrait.png",
+            "query": "version=1726565954",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-68_s1",
+        "sequence": 1,
+        "name": "流星のロックマン",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 55,
+        "title": "第55話 ＦＭ王ケフェウス",
+        "content": "アンドロメダの攻撃を受け、ロックマンはスバルとウォーロックに分離してしまう。一方ジェミニ・スパークはアンドロメダの力を増幅し、今もなおＦＭ星に向けて送信を続けているという。ウォーロックは宇宙ステーション襲撃の真相、そして大吾との出会いについて語り始めた。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "星河スバル：大浦冬華",
+            "ウォーロック：伊藤健太郎",
+            "ロックマン：大浦冬華",
+            "白金ルナ：植田佳奈",
+            "牛島ゴン太：大畑伸太郎",
+            "響ミソラ：福圓美里",
+            "双葉ツカサ：甲斐田ゆき",
+            "天地守：土田大",
+            "宇田海深佑（うたがい しんすけ）：森訓久",
+            "星河あかね（ほしかわ あかね）：木村亜希子",
+            "星河大吾（ほしかわ だいご）：大西健晴",
+            "五陽田ヘイジ（ごようだ へいじ）：志村知幸"
+        ],
+        "crews": [
+            "監 督：加戸誉夫",
+            "シリーズ構成：荒木憲一",
+            "原 案：カプコン",
+            "スーパーバイザー：稲船敬二、佐上靖之",
+            "キャラクターデザイン：足立慎吾",
+            "色彩設計：松岡珠江",
+            "美術監督：小山俊久",
+            "撮影監督：広瀬勝利",
+            "音響監督：渡辺 淳",
+            "音 楽：鳴瀬シュウヘイ",
+            "アニメーション制作：XEBEC",
+            "製 作：テレビ東京、小学館プロダクション"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726808991,
+    "endAt": 1759244400,
+    "transcodeVersion": "4ZPEM1",
+    "sharedLink": {
+        "twitter": "https://abema.app/GjSN",
+        "facebook": "https://abema.app/segv",
+        "google": "https://abema.app/SrUD",
+        "line": "https://abema.app/ksi7",
+        "copy": "https://abema.app/Qb7N",
+        "instagram": "https://abema.app/db22"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-68_s1_p55/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-68_s1_p55/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-68_s1_p55/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-68_s1_p55"
+    },
+    "viewingPoint": {
+        "suggestion": 579.9794
+    },
+    "nextProgramInfo": {
+        "programId": "168-68_s2_p1",
+        "title": "第1話 ムーの遺産",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726809778,
+        "endAt": 1759244400,
+        "freeEndAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-68_s1_p55/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "168-68_eg0"
+}

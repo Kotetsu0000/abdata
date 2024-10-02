@@ -1,0 +1,167 @@
+{
+    "id": "189-30_s1_p23",
+    "series": {
+        "id": "189-30",
+        "title": "東京リベンジャーズ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-30",
+            "filename": "thumb.png",
+            "query": "version=1681282465",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-30",
+            "filename": "portrait.png",
+            "query": "version=1681282465",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-30_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 End of war",
+        "content": "「血のハロウィン」と名づけられた東卍と芭流覇羅の抗争は、東卍が勝利するも、場地を失い、一虎が逮捕されるという悲惨な結果に終わった。タケミチは、何もできなかったことを悔やんだが、マイキーが一虎を殺すことは回避することができた。\nタケミチはドラケンと共に一虎に会いに行き、その帰りにドラケンの家へと誘われる。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "花垣武道（タケミチ）：新 祐樹",
+            "橘 日向（ヒナタ・ヒナ）：和氣あず未",
+            "橘 直人（ナオト）：逢坂良太",
+            "佐野万次郎（マイキー）：林 勇",
+            "龍宮寺 堅（ドラケン）：福西勝也",
+            "千堂 敦（アッくん）：寺島拓篤",
+            "山本タクヤ：広瀬裕也",
+            "鈴木マコト：武内駿輔",
+            "山岸一司：葉山翔太",
+            "清水将貴（キヨマサ）：日野聡",
+            "場地 圭介：水中雅章",
+            "三ツ谷 隆：松岡禎丞",
+            "林田春樹（パーちん）：木村昴",
+            "林 良平（ぺーやん）：野津山幸宏",
+            "河田ナホヤ（スマイリー）：河西健吾",
+            "武藤康宏（ムーチョ）：小野大輔",
+            "長内信高：竹内栄治",
+            "稀咲 鉄太：森久保祥太郎",
+            "半間　修二：江口拓也"
+        ],
+        "crews": [
+            "原作：和久井健「東京卍リベンジャーズ」（講談社「週刊少年マガジン」連載）",
+            "監督：初見浩一",
+            "シリーズ構成：むとうやすゆき",
+            "キャラクターデザイン：大貫健一/太田恵子",
+            "音響監督：飯田里樹",
+            "音楽：堤 博明",
+            "アニメーション制作：ライデンフィルム"
+        ],
+        "copyrights": [
+            "(C)和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683864790,
+    "endAt": 1761922800,
+    "transcodeVersion": "3o1gfN",
+    "sharedLink": {
+        "twitter": "https://abema.app/yaEw",
+        "facebook": "https://abema.app/iKLn",
+        "google": "https://abema.app/eU4W",
+        "line": "https://abema.app/uDMU",
+        "copy": "https://abema.app/i4nQ",
+        "instagram": "https://abema.app/KnJF"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-30_s1_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-30_s1_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-30_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-30_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1330.643248,
+        "opening": {
+            "start": 188.536996,
+            "end": 277.840058
+        },
+        "ending": {
+            "start": 1331.553445,
+            "end": 1420.472664
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "189-30_s1_p24",
+        "title": "第24話 A Cry baby",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1683864790,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-30_s1_p23/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "189-30_eg0"
+}

@@ -1,0 +1,126 @@
+{
+    "id": "177-480_s1_p8",
+    "series": {
+        "id": "177-480",
+        "title": "オーイシ×仲村の想い出アニソン同好会",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "thumb.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-480",
+            "filename": "portrait.png",
+            "query": "version=1726536065",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-480_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2679
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "#8:愛美",
+        "content": "第8回ゲストは愛美さんが登場! 愛美さんの想い出アニソンは、「アイモ」(マクロスF)と「らしさ」(ばらかもん)。想い出トークでは、アニソンにあこがれを持ったきっかけやオーディションの話が登場。「アイモ」では愛美さんのアカペラからスタートし、伸びやかな歌声で披露!「らしさ」では、なんと中学校以来となるサックスを生演奏!ギターとサックスのセッションが必見です!"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "オーイシマサヨシ",
+            "仲村宗悟",
+            "愛美"
+        ],
+        "copyrights": [
+            "(C)東北新社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726132403,
+    "endAt": 1761922800,
+    "transcodeVersion": "5tZGv6",
+    "sharedLink": {
+        "twitter": "https://abema.app/yeyo",
+        "facebook": "https://abema.app/Uevk",
+        "google": "https://abema.app/oizP",
+        "line": "https://abema.app/krFz",
+        "copy": "https://abema.app/KzB8",
+        "instagram": "https://abema.app/74Au"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/177-480_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/177-480_s1_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/177-480_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-480_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 2670.634633333333
+    },
+    "nextProgramInfo": {
+        "programId": "177-480_s1_p9",
+        "title": "#9:濱野大輝",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1726132451,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-480_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "177-480_eg0"
+}
