@@ -34,15 +34,34 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "25-248_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-248_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1727764330",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-248_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)天野明／集英社・鴨乃橋ロンの禁断推理製作委員会"
     ],
     "label": {
-        "free": true
+        "free": true,
+        "newest": true
     },
-    "version": "1726794699812387563",
+    "version": "1727955149846716842",
     "imageUpdatedAt": 1695794219,
     "programOrder": "seq",
     "sharedLink": {

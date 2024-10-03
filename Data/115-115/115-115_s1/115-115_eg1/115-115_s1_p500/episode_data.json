@@ -1,0 +1,124 @@
+{
+    "id": "115-115_s1_p500",
+    "series": {
+        "id": "115-115",
+        "title": "アクロトリップ",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-115",
+            "filename": "thumb.png",
+            "query": "version=1727952318",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-115",
+            "filename": "portrait.png",
+            "query": "version=1727952318",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-115_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 109
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【10/2より毎週水曜22:00〜配信】",
+        "content": "みつけた、熱くなれるもの（魔法少女）をー\n祖父のもとを訪れた地図子は、街を守る魔法少女・ベリーブロッサムと出会い、たちまち夢中に。 しかし、敵対する悪の組織「フォッサマグナ」総帥・クロマの攻撃があまりにもパッとせず、２人の戦いは見応えゼロ。もっと、ベリーの活躍を愛でたい地図子はモヤモヤを募らせていく・・・。 \n「魔法少女をもっと輝かせたい・・・強いてくれ、苦戦を！」 \nその欲望（？）が、内気な少女を悪の路に導いてゆく―。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "伊達地図子：伊藤美来",
+            "クロマ：島﨑信長",
+            "ベリーブロッサム=乃苺佳寿：水瀬いのり",
+            "マシロウ：河西健吾",
+            "大溝芭隆：森久保祥太郎",
+            "心亜：花井美春",
+            "月：沢城千春"
+        ],
+        "crews": [
+            "原作：「アクロトリップ」佐和田米（集英社 りぼんマスコットコミックス刊）",
+            "監督：小竹歩",
+            "シリーズ構成：猪爪慎一",
+            "キャラクターデザイン：川村敏江",
+            "美術監督：川崎美和",
+            "音響監督：田中亮",
+            "音響制作：Ai Addiction",
+            "音楽：TECHNOBOYS PULCRAFT GREEN-FUND",
+            "音楽制作：キングレコード",
+            "アニメーション制作：Voil"
+        ],
+        "copyrights": [
+            "(C)佐和田米／集英社・「アクロトリップ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727951380,
+    "endAt": 1735657200,
+    "freeEndAt": 1735657200,
+    "transcodeVersion": "2w1NSP",
+    "sharedLink": {
+        "twitter": "https://abema.app/5kBs",
+        "facebook": "https://abema.app/8vMM",
+        "google": "https://abema.app/nfZu",
+        "line": "https://abema.app/Xgfi",
+        "copy": "https://abema.app/BXb7",
+        "instagram": "https://abema.app/Ftc1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-115_s1_p500/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-115_s1_p500/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/115-115_s1_p500/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-115_s1_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-115_s1_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 104.89645833333333
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-115_s1_p500/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "115-115_eg1"
+}

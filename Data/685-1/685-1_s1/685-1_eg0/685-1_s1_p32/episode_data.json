@@ -1,0 +1,137 @@
+{
+    "id": "685-1_s1_p32",
+    "series": {
+        "id": "685-1",
+        "title": "新作アニメPV上映番組「つづきみ」",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/685-1",
+            "filename": "thumb.png",
+            "query": "version=1720240679",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/685-1",
+            "filename": "portrait.png",
+            "query": "version=1720240679",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "685-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 12473
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 32,
+        "title": "第32回：2024年夏アニメ特集",
+        "content": "2024年夏シーズンに放送、配信予定の新作アニメPV映像を一気にチェック！\n屈指のアニメ通で知られる司会陣とのトークも交え、3時間にわたり55作品を紹介します。「これは知らなかった」「意外と面白そう！」そんな作品が見つかること間違いなし！\nそして、今回は7月より放送開始となる新作アニメから『神之塔』『しかのこのこのここしたんたん』『グレンダイザーU』のステージコーナーも実施。各作品からキャストやスタッフが登壇し、作品の魅力を熱く語ります！\n\n開催日：2024年6月28日（金）17:30～21:00\n会場：アニメイトシアター（アニメイト池袋本店B2F）\n※本番組は収録配信となります"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "司会：吉田 尚記（ニッポン放送アナウンサー）、結（タレント）",
+            "ゲスト：『神之塔 -Tower of God- 2nd SEASON』：市川 太一（ジュ・ビオレ・グレイス役）",
+            "『しかのこのこのここしたんたん』：のこたん、岡野 亜耶（宣伝プロデューサー）",
+            "『グレンダイザーU』：久藤 瞬（監督）、岡和田 一輝（宣伝プロデューサー）"
+        ],
+        "crews": [
+            "企画・運営：「つづきみ」運営事務局",
+            "制作：MAGES.",
+            "会場協力：アニメイトシアター",
+            "配信協力：合同会社サブカル通信社"
+        ],
+        "copyrights": [
+            "(C)0話切り撲滅委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1727850229,
+    "endAt": 1878402000,
+    "freeEndAt": 1878402000,
+    "transcodeVersion": "5hduKM",
+    "sharedLink": {
+        "twitter": "https://abema.app/xPai",
+        "facebook": "https://abema.app/bqPw",
+        "google": "https://abema.app/9Pcx",
+        "line": "https://abema.app/g96o",
+        "copy": "https://abema.app/T4AH",
+        "instagram": "https://abema.app/oGAh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/685-1_s1_p32/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/685-1_s1_p32/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/685-1_s1_p32/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/685-1_s1_p32/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.685-1_s1_p32"
+    },
+    "viewingPoint": {
+        "suggestion": 12451.1387
+    },
+    "nextProgramInfo": {
+        "programId": "685-1_s1_p33",
+        "title": "第33回：2024年秋アニメ特集",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1727850229,
+        "endAt": 1885639020,
+        "freeEndAt": 1885639020,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1885639020
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/685-1_s1_p32/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1878402000
+        }
+    ],
+    "episodeGroupId": "685-1_eg0"
+}
