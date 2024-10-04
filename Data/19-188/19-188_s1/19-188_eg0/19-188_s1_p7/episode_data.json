@@ -1,0 +1,149 @@
+{
+    "id": "19-188_s1_p7",
+    "series": {
+        "id": "19-188",
+        "title": "百妖譜（日本語吹替版）",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "thumb.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "portrait.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-188_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 慶忌　（上）",
+        "content": "おいしいフナの料理と美しい桃の花で有名な利州の鏡花沢を訪れた桃夭たち。しかし、評判とは異なり、鏡花沢の水は淀んで汚れ、もはや魚たちの棲めないほどで、とても名物のフナ料理にありつけるような状況ではなかった。実はドジョウの精の秋王（しゅうおう）が沼を乗っ取り、ほかの生き物を追い出してしまっていたのだ。そして、鏡花沢に住む古い友人の慶忌（けいき）は、秋王を退治するため桃夭に助けを求めたのだった。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "桃夭：東山奈央",
+            "磨牙（小坊主）：村瀬歩",
+            "柳公子：河西健吾"
+        ],
+        "crews": [
+            "監督：董易",
+            "原作：裟椤双樹",
+            "脚本：春日幽鈴",
+            "音楽：薄彩生",
+            "総演出監督：ソ・ギョンロク",
+            "総作画監督：クォン・ウンギョン",
+            "美術監督：イ・ボンリョル",
+            "アニメーション制作：絵夢動画",
+            "日本語吹き替え版演出：安藤直子",
+            "翻訳：本多由枝、林真子、小澤桐",
+            "録音・調整：吉本晋",
+            "音響制作：東北新社",
+            "日本語吹き替え版制作：フジテレビジョン"
+        ],
+        "copyrights": [
+            "(C)bilibili　改編自小明太極作家裟椤双樹同名小説『百妖譜』"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727951449,
+    "endAt": 1743433200,
+    "transcodeVersion": "6HaBUG",
+    "sharedLink": {
+        "twitter": "https://abema.app/7Hux",
+        "facebook": "https://abema.app/HvBz",
+        "google": "https://abema.app/Df56",
+        "line": "https://abema.app/ZiJx",
+        "copy": "https://abema.app/ELWW",
+        "instagram": "https://abema.app/t5KX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-188_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-188_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-188_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-188_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1326.8672083333333,
+        "opening": {
+            "start": 131.756625,
+            "end": 220.97075
+        },
+        "ending": {
+            "start": 1326.8672083333333,
+            "end": 1420.043625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-188_s1_p8",
+        "title": "第8話 慶忌　（下）",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1727951449,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-188_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "19-188_eg0"
+}

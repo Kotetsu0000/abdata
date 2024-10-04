@@ -1,0 +1,77 @@
+{
+    "id": "189-72",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "メカウデ",
+    "content": "キタカガミ市に住む中学生アマツガ・ヒカルはある日、\n謎の“ウデ”型機械生命体 アルマと出会う。\nアルマはヒカルからエネルギーを得ようと\n彼の身体への結合を試みるも失敗。\nなんとヒカルが着ていたパーカーに結合してしまう。 \n一方その頃、メカウデ達の自我を奪い兵器にすることを企む大企業\n“カガミグループ”はアルマの身柄を追っていた。\nそしてメカウデ達をカガミグループから解放するため活動する組織\n“ARMS（アームズ）”もアルマを探す。 \nそんな中、記憶を失って困っているアルマを\n見捨てることができなかったヒカルは\nアルマが結合したパーカーを羽織り、\nメカウデ使いたちが繰り広げる大事件に巻き込まれていく……",
+    "seasons": [
+        {
+            "id": "189-72_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/189-72_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727421359",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "189-72_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "189-72_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)TriF/「メカウデ」製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1728031612423980297",
+    "imageUpdatedAt": 1727421319,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZNar",
+        "facebook": "https://abema.app/Hmyz",
+        "google": "https://abema.app/2tgK",
+        "line": "https://abema.app/FkWQ",
+        "copy": "https://abema.app/UTce",
+        "instagram": "https://abema.app/csnG"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-72",
+        "filename": "thumb.png",
+        "query": "version=1727421319",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-72",
+        "filename": "portrait.png",
+        "query": "version=1727421319",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

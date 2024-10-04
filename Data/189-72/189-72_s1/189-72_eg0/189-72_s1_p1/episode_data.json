@@ -1,0 +1,143 @@
+{
+    "id": "189-72_s1_p1",
+    "series": {
+        "id": "189-72",
+        "title": "メカウデ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-72",
+            "filename": "thumb.png",
+            "query": "version=1727421319",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-72",
+            "filename": "portrait.png",
+            "query": "version=1727421319",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-72_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 メカウデ使い",
+        "content": "キタカガミ市の中学生アマツガ・ヒカルは、ある日、助けを求める謎の声に導かれ、記憶を失くしたウデ型機械生命体のアルマと出会う。ひょんな事からヒカルの着ていたパーカーに\"結合（デライズ）\"してしまったアルマ。そんなアルマを見捨てておくことができなかったヒカルはアルマと行動を共にすることに。そこにヒカルとアルマを狙う謎のメカウデ使いが現れる…!!"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ヒカル：豊永利行",
+            "アルマ：杉田智和",
+            "アキ：嶋村 侑",
+            "シニス＆デキス：石川界人",
+            "カガミ：朴 璐美",
+            "トウドウ：天月",
+            "エルジス：東地宏樹",
+            "フィスト：中村悠一",
+            "フブキ：悠木 碧",
+            "アマリリス：日笠陽子"
+        ],
+        "crews": [
+            "原案・監督：オカモト",
+            "シリーズ構成：中西やすひろ/TriF",
+            "キャラクターデザイン：西位輝実/内田陽子",
+            "メカウデデザイン・コンセプトアート：塗壁",
+            "3DCG監督：河村翔太",
+            "音響監督：高寺たけし",
+            "音楽： 澤野弘之/KOHTA YAMAMOTO/DAIKI(AWSM.)",
+            "総監修：松山洋（CyberConnect2）",
+            "アニメーション制作：TriFスタジオ"
+        ],
+        "copyrights": [
+            "(C)TriF/「メカウデ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728031225,
+    "endAt": 1798729200,
+    "transcodeVersion": "35SAti",
+    "sharedLink": {
+        "twitter": "https://abema.app/uUGD",
+        "facebook": "https://abema.app/aoXD",
+        "google": "https://abema.app/6Zsh",
+        "line": "https://abema.app/ikGE",
+        "copy": "https://abema.app/96yo",
+        "instagram": "https://abema.app/Q6WU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/189-72_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/189-72_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/189-72_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-72_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1416.9989166666667,
+        "opening": {
+            "start": 166.040875,
+            "end": 255.96404166666667
+        },
+        "ending": {
+            "start": 1272.02075,
+            "end": 1362.0273333333334
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-72_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1728059400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1798729200
+        }
+    ],
+    "episodeGroupId": "189-72_eg0"
+}

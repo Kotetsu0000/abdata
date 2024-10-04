@@ -1,0 +1,77 @@
+{
+    "id": "194-42",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "さようなら竜生、こんにちは人生",
+    "content": "ある時、最古の神竜が人間に討たれた。\n悠久の時を生き、神々すらひれ伏す絶大な力を持つその竜は、孤独と共に己の死を受け入れた。\nしかし、次に気がついた時、竜は辺境の村人ドランとして第二の生を受けていた。\n\n人間として竜よりずっと短い生を生きることになった彼は、畑仕事に精を出し、食を得るために動物を狩る……。\n質素ながらも温かい村での生活に、ドランの心は竜生では味わえなかったささやかな喜びで満たされていく。\n\nしかしそんなある日、\n沼地の調査に出かけたドランの前に、セリナと名乗る半人半蛇のラミアが現れる。\n伴侶を探して旅をしている彼女は、ラミアなのに人間を誘惑するのが苦手だという。\n人と魔物、相容れぬ存在ながらも次第に心を通わせていく二人。\nだが、二人の前には様々な外敵が現れて――!?\n\n辺境から始まる、元最強最古の竜の“生き直し”ファンタジー！",
+    "seasons": [
+        {
+            "id": "194-42_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/194-42_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727419898",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "194-42_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "194-42_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)永島ひろあき・アルファポリス／「さようなら竜生、こんにちは人生」製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1728031614494833281",
+    "imageUpdatedAt": 1727419877,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/xG1V",
+        "facebook": "https://abema.app/y5w7",
+        "google": "https://abema.app/bReB",
+        "line": "https://abema.app/mdYm",
+        "copy": "https://abema.app/pLeW",
+        "instagram": "https://abema.app/TYoG"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-42",
+        "filename": "thumb.png",
+        "query": "version=1727419877",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-42",
+        "filename": "portrait.png",
+        "query": "version=1727419877",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

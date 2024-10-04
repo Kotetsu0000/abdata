@@ -1,0 +1,136 @@
+{
+    "id": "19-188_s2_p1",
+    "series": {
+        "id": "19-188",
+        "title": "百妖譜（日本語吹替版）",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "thumb.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "portrait.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-188_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1424
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 応声（上）",
+        "content": "道に迷った一行が腹を空かせて立ち尽くしていると、突然空から落ちてきた鳥が桃夭（とうよう）の頭を直撃する。近くで狩りをしていた賀山（が・さん）が慌ててやってきて、獲物をぶつけてしまったお詫びにと町で食事をご馳走してくれることに。町への道中、川で人が流されていると騒ぎが起こっていた。助けられた女は、かつて貧しい賀山に施しをしてくれた恩人だった。「私のような役立たずは死んだ方がいい」と嘆く彼女の腹の中から、何やら奇妙な声が聞こえてきて…。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "桃夭：東山奈央",
+            "磨牙（小坊主）：村瀬歩",
+            "柳公子：河西健吾"
+        ],
+        "crews": [
+            "原作：裟椤双樹",
+            "監督：董易",
+            "脚本：春日幽鈴",
+            "総演出監督：ソ・ギョンロク",
+            "総作画監督：クォン・ウンギョン",
+            "美術監督：イ・ボンリョル",
+            "音楽：薄彩生",
+            "アニメーション制作：bilibili",
+            "日本語吹き替え版演出：安藤直子",
+            "翻訳：本多由枝　林真子",
+            "録音・調整：吉本晋　首藤智愉",
+            "音響制作：東北新社",
+            "日本語吹き替え版制作：フジテレビジョン"
+        ],
+        "copyrights": [
+            "©bilibili",
+            "改編自小明太極作家裟椤双樹同名小説『百妖譜』"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728029246,
+    "endAt": 1767193200,
+    "transcodeVersion": "6xG49U",
+    "sharedLink": {
+        "twitter": "https://abema.app/Efj6",
+        "facebook": "https://abema.app/Pdqx",
+        "google": "https://abema.app/ASjx",
+        "line": "https://abema.app/XGmy",
+        "copy": "https://abema.app/1MSr",
+        "instagram": "https://abema.app/rYXJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-188_s2_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-188_s2_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-188_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-188_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1297.04575,
+        "opening": {
+            "end": 99.974875
+        },
+        "ending": {
+            "start": 1297.04575,
+            "end": 1404.9869166666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-188_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "19-188_eg0"
+}

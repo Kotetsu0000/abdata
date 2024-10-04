@@ -26,9 +26,9 @@
             "sequence": 1,
             "name": "シーズン1",
             "thumbComponent": {
-                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-3",
-                "filename": "thumb.png",
-                "query": "version=1701427388",
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/632-3_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1728013323",
                 "extension": "png"
             },
             "episodeGroups": [
@@ -38,15 +38,34 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "632-3_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/632-3_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1728020647",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "632-3_eg1",
+                    "name": "予告編"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)硬梨菜・不二涼介・講談社／「シャングリラ・フロンティア」製作委員会・MBS"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
-    "version": "1725344489570252764",
+    "version": "1728028526003947668",
     "imageUpdatedAt": 1701427388,
     "programOrder": "seq",
     "sharedLink": {

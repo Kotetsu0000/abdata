@@ -1,0 +1,149 @@
+{
+    "id": "19-188_s1_p6",
+    "series": {
+        "id": "19-188",
+        "title": "百妖譜（日本語吹替版）",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "thumb.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "portrait.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-188_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 蜉蝣　（下）",
+        "content": "人間の世界で生きていくことの苦労に耐えかねて、未晴湖に身を投げて自ら命を絶とうとしていた郎だったが、偶然通りかかった美しい少女によって助けられる。天真爛漫に生を謳歌しているような少女にいつしか郎も生きる勇気をもらい、それまで経験したことのないような楽しい時間を過ごす。そして1日の終わりに彼女から最後のお願いとして自分と結婚して欲しいと告げられるのだった。困惑する郎は、ある約束をすることで同意する。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "桃夭：東山奈央",
+            "磨牙（小坊主）：村瀬歩",
+            "柳公子：河西健吾"
+        ],
+        "crews": [
+            "監督：董易",
+            "原作：裟椤双樹",
+            "脚本：春日幽鈴",
+            "音楽：薄彩生",
+            "総演出監督：ソ・ギョンロク",
+            "総作画監督：クォン・ウンギョン",
+            "美術監督：イ・ボンリョル",
+            "アニメーション制作：絵夢動画",
+            "日本語吹き替え版演出：安藤直子",
+            "翻訳：本多由枝、林真子、小澤桐",
+            "録音・調整：吉本晋",
+            "音響制作：東北新社",
+            "日本語吹き替え版制作：フジテレビジョン"
+        ],
+        "copyrights": [
+            "(C)bilibili　改編自小明太極作家裟椤双樹同名小説『百妖譜』"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727951449,
+    "endAt": 1743433200,
+    "transcodeVersion": "4VHk3Z",
+    "sharedLink": {
+        "twitter": "https://abema.app/dM5Z",
+        "facebook": "https://abema.app/HKDZ",
+        "google": "https://abema.app/7brX",
+        "line": "https://abema.app/JzT7",
+        "copy": "https://abema.app/s75D",
+        "instagram": "https://abema.app/QPDL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-188_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-188_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-188_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-188_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1327.3677083333334,
+        "opening": {
+            "start": 56.056,
+            "end": 146.98016666666666
+        },
+        "ending": {
+            "start": 1327.3677083333334,
+            "end": 1420.043625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-188_s1_p7",
+        "title": "第7話 慶忌　（上）",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1727951449,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-188_s1_p6/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "19-188_eg0"
+}

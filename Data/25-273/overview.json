@@ -1,0 +1,78 @@
+{
+    "id": "25-273",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "title": "ネガポジアングラー",
+    "content": "多額の借金を抱え、さらに医者から余命2年を宣告された大学生、佐々木常宏。\n鬱々とした日々を過ごす常宏は、ある日借金取りに追われ海に転落したところを、\n釣り好きの少女ハナとその釣り仲間の貴明たちに助けられる。\n\nハナに勧められるまま人生初の釣りを経験し、その釣り仲間とも親交を深める常宏。\nハナや貴明の働くコンビニでバイトも始め、難解な釣り用語や生アミの匂いに苦戦しながらも、徐々に釣りにハマっていく。\n\n手元に伝わるアタリは、生の実感――。\n\n転落し続け世界を見上げるだけの人生は、そう簡単に変わらない。そんな常宏が釣りを通して見つけたものとは……？",
+    "seasons": [
+        {
+            "id": "25-273_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-273_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727167496",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-273_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "25-273_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)NEGAPOSI-ANGLER PROJECT"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1728031610905227894",
+    "imageUpdatedAt": 1727167474,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/WkrU",
+        "facebook": "https://abema.app/HnTF",
+        "google": "https://abema.app/Bc85",
+        "line": "https://abema.app/8gTg",
+        "copy": "https://abema.app/mUBb",
+        "instagram": "https://abema.app/oszM"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-273",
+        "filename": "thumb.png",
+        "query": "version=1727167474",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-273",
+        "filename": "portrait.png",
+        "query": "version=1727167474",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
