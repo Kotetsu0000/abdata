@@ -306,8 +306,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1728095400
+                    "onDemandType": 1,
+                    "endAt": 1761922800
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -316,6 +316,35 @@
         },
         "info": {
             "duration": 1454
+        }
+    },
+    {
+        "id": "283-24_s2_p12",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/283-24_s2_p12",
+            "filename": "thumb001.png",
+            "query": "version=1727691429",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 12,
+            "title": "#12",
+            "content": "ヴァンガードで運命大戦に勝利し、妹ヒカリの健康を叶えた明導アキナ。 運命者カードの所有者たちを招集したガブエリウスは、運命大戦の真の目的を明かす。 そして現れるもう一体のぬいぐるみ、シヴィルト。 6人の宿命者カードの所有者を引き連れたシヴィルトは、 勝利した者たちが願いを叶えられるという「宿命決戦」の開幕を宣言する。 運命vs宿命、因縁と思惑が交差する激しい戦いが始まった！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1728700200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1455
         }
     }
 ]

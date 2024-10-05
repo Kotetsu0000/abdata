@@ -34,13 +34,32 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "675-1_s2",
+            "sequence": 2,
+            "name": "第2期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/675-1_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1727684035",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "675-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
         "(C)かわさき健・古沢優／オーイ！とんぼ製作委員会"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
     "version": "1728037811462456044",
     "imageUpdatedAt": 1727683986,

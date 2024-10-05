@@ -78,9 +78,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1728031225,
         "endAt": 1798729200,
+        "freeEndAt": 1798729200,
         "transcodeVersion": "35SAti",
         "sharedLink": {
             "twitter": "https://abema.app/uUGD",
@@ -104,8 +107,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1728059400
+                "onDemandType": 3,
+                "endAt": 1798729200
             }
         ],
         "episodeGroupId": "189-72_eg0"
