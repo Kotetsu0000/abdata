@@ -69,6 +69,10 @@
             },
             "episodeGroups": [
                 {
+                    "id": "15-30_eg0",
+                    "name": "本編"
+                },
+                {
                     "id": "15-30_eg1",
                     "name": "予告編"
                 }
@@ -80,7 +84,8 @@
         "(C)久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
     "version": "1728004841082167997",
     "imageUpdatedAt": 1725858926,

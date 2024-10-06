@@ -1,0 +1,92 @@
+{
+    "id": "19-175",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "title": "放課後少年花子くん",
+    "content": "「ねえ知ってる？\nこの学園の七不思議にまつわる奇妙な噂」\n旧校舎 3 階女子トイレの 3 番目には『トイレの花子さん』がいて、\n大切なものと引き替えに願いを叶えてくれるという。\nかもめ学園の七不思議・トイレの花子くんと、\nその助手になったオカルト少女・八尋寧々。\n怪異事件ばかりが起こるこの学園で、\n彼らは平和な日をどう過ごしているのか。\nこれは本編では描かれない、ゆる〜い放課後のひととき。",
+    "seasons": [
+        {
+            "id": "19-175_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-175_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727863780",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-175_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "19-175_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-175_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1727866957",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-175_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)あいだいろ／SQUARE ENIX・「放課後少年花子くん」製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1727955246828921648",
+    "imageUpdatedAt": 1727866911,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/tUui",
+        "facebook": "https://abema.app/GPDk",
+        "google": "https://abema.app/CRbx",
+        "line": "https://abema.app/Z2js",
+        "copy": "https://abema.app/3WXG",
+        "instagram": "https://abema.app/UiXT"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-175",
+        "filename": "thumb.png",
+        "query": "version=1727866911",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-175",
+        "filename": "portrait.png",
+        "query": "version=1727866911",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
