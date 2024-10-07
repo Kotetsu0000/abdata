@@ -1,0 +1,78 @@
+{
+    "id": "204-11",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "title": "ぷにるんず ぷに２",
+    "content": "ぷにるんず……それは、ぷにっとやわらかい『ぷしぎ』ないきもの。\nみんな、ぷにぷにされるのが大すき。\nまいにち楽しく ぷにっとくらしています。\nある日、あいるんのおうちに『ぷしぎなあんてな』があらわれました。\nあんてなが光ってやってきたのは、あたらしいぷにとも ともるん。\nぷにるんずの日常は、ますますにぎやかになります。\nそんな ともるんをみまもる ぷしぎなぷにるんず ゆにるん。\nそして、あいるんたちのまえにあらわれた不思議な女の子。\n今回もいろいろあるけれど、ぷにるんずのぷしぎな日々はつづいていきます。",
+    "seasons": [
+        {
+            "id": "204-11_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/204-11_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727763751",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "204-11_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "204-11_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) ＴＯＭＹ／ぷにるんず２ぷにじぇくと・テレビ東京"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1728296063974090309",
+    "imageUpdatedAt": 1727763507,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/SJyX",
+        "facebook": "https://abema.app/oLWf",
+        "google": "https://abema.app/1Vhk",
+        "line": "https://abema.app/SNKm",
+        "copy": "https://abema.app/hX1E",
+        "instagram": "https://abema.app/G546"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-11",
+        "filename": "thumb.png",
+        "query": "version=1727763507",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/204-11",
+        "filename": "portrait.png",
+        "query": "version=1727763507",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

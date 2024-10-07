@@ -1,0 +1,78 @@
+{
+    "id": "54-99",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "時空の隙",
+    "content": "現世と異世界の間で、エネルギーが不安定なことから生じた時空の隙は、異世界にいる怪物たちが現世に通じる唯一の通路となっている。怪物の侵入を阻止するために、現世では特殊な体質を持つ者たちが、果敢に時空の隙に立ち、世界を守るために戦っている。そんな狭間に巻き込まれた中二病で売れない漫画家・林一帆の運命や如何に…。",
+    "seasons": [
+        {
+            "id": "54-99_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-99_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1728183896",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "54-99_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "54-99_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)1997-2024 NetEase, Inc.All Rights Reserved/bilibili"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1728294700347207581",
+    "imageUpdatedAt": 1728183879,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/X9Df",
+        "facebook": "https://abema.app/xv9N",
+        "google": "https://abema.app/J2Uq",
+        "line": "https://abema.app/dzux",
+        "copy": "https://abema.app/1hMG",
+        "instagram": "https://abema.app/r5Ux"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-99",
+        "filename": "thumb.png",
+        "query": "version=1728183879",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-99",
+        "filename": "portrait.png",
+        "query": "version=1728183879",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
