@@ -1,0 +1,81 @@
+{
+    "id": "194-43",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "title": "星降る王国のニナ",
+    "content": "フォルトナ国城下で孤児として暮らしていたニナは、\n星の神のごとき深き青――瑠璃色の瞳を持っていた。\n\n事故で亡くなったフォルトナ国の王女アリシャと同じ色の瞳ゆえ、\n第二王子アズールに見出され、ニナは王女に成り代わることを求められる。\n\n身代わりの星の巫女として、王女として、与えられた使命――\nそれは三月のあと、大国ガルガダの第一王子セトに偽りの花嫁として嫁ぐこと。\n\n運命に翻弄されながらも、誰かに必要とされることに喜びを感じるニナ。\nそのまっすぐな瞳が見ているものとは……。\n\n愛する人を守る決意をしたとき、それぞれの運命が大きく動き始める!!",
+    "seasons": [
+        {
+            "id": "194-43_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/194-43_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727420335",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "194-43_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "194-43_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)リカチ・講談社／「星降る王国のニナ」製作委員会"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1728383947852870811",
+    "imageUpdatedAt": 1727420302,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/LPMB",
+        "facebook": "https://abema.app/jbNE",
+        "google": "https://abema.app/4HFW",
+        "line": "https://abema.app/3Yz7",
+        "copy": "https://abema.app/ziYr",
+        "instagram": "https://abema.app/iooo"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-43",
+        "filename": "thumb.png",
+        "query": "version=1727420302",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-43",
+        "filename": "portrait.png",
+        "query": "version=1727420302",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

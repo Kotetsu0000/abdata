@@ -8,13 +8,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-115",
                 "filename": "thumb.png",
-                "query": "version=1727952318",
+                "query": "version=1728368985",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-115",
                 "filename": "portrait.png",
-                "query": "version=1727952318",
+                "query": "version=1728368985",
                 "extension": "png"
             }
         },
@@ -22,7 +22,12 @@
             "id": "115-115_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/115-115_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1728369002",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -108,13 +113,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-115",
                 "filename": "thumb.png",
-                "query": "version=1727952318",
+                "query": "version=1728368985",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-115",
                 "filename": "portrait.png",
-                "query": "version=1727952318",
+                "query": "version=1728368985",
                 "extension": "png"
             }
         },
@@ -122,7 +127,12 @@
             "id": "115-115_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/115-115_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1728369002",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -167,7 +177,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1727951380,
+        "imageUpdatedAt": 1728369256,
         "endAt": 1735657200,
         "freeEndAt": 1735657200,
         "transcodeVersion": "2w1NSP",

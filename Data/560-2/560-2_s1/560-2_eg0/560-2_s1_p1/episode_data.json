@@ -1,0 +1,172 @@
+{
+    "id": "560-2_s1_p1",
+    "series": {
+        "id": "560-2",
+        "title": "地獄楽",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/560-2",
+            "filename": "thumb.png",
+            "query": "version=1725500665",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/560-2",
+            "filename": "portrait.png",
+            "query": "version=1725500665",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "560-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_28",
+                "name": "歴史・戦記"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1465
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 【死罪人と執行人】",
+        "content": "処刑執行人『御様御用』の山田浅ェ門佐切は、刑場で一人の死罪人と出会う。超人的な肉体を持ち、大勢の人を殺めた冷血な忍『がらんの画眉丸』。画眉丸は佐切に言う、「殺してほしい」と――。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "画眉丸：小林千晃",
+            "山田浅ェ門佐切：花守ゆみり",
+            "亜左弔兵衛：木村良平",
+            "山田浅ェ門桐馬：小野賢章",
+            "杠：高橋李依",
+            "山田浅ェ門士遠：小林親弘",
+            "山田浅ェ門典坐：小林裕介",
+            "ヌルガイ：小市眞琴",
+            "民谷巌鉄斎：稲田徹",
+            "山田浅ェ門付知：市川蒼",
+            "山田浅ェ門仙汰：山下大輝",
+            "結（画眉丸の妻）：能登麻美子",
+            "メイ：小原好美",
+            "天仙：諏訪部順一、甲斐田裕子",
+            "山田浅ェ門期聖：土岐隼一",
+            "山田浅ェ門源嗣：ボルケーノ太田",
+            "山田浅ェ門衛善：古川慎",
+            "木人：チョー",
+            "里の長：麦人",
+            "陸郎太：田所陽向"
+        ],
+        "crews": [
+            "監督：牧田佳織",
+            "脚本：金田一明",
+            "キャラクターデザイン：久木晃嗣",
+            "色彩設計：末永絢子",
+            "音楽：出羽良彰",
+            "音楽監督：えびなやすのり",
+            "音響制作：dugout",
+            "プロデューサー：石井希",
+            "アニメーションプロデューサー：川越恒",
+            "企画/製作：ツインエンジン",
+            "制作：MAPPA"
+        ],
+        "copyrights": [
+            "(C)賀来ゆうじ／集英社・ツインエンジン・MAPPA"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1725500849,
+    "endAt": 1761922800,
+    "freeEndAt": 1761922800,
+    "transcodeVersion": "5zSXpm",
+    "sharedLink": {
+        "twitter": "https://abema.app/MkqB",
+        "facebook": "https://abema.app/JK5T",
+        "google": "https://abema.app/BMzV",
+        "line": "https://abema.app/BwDj",
+        "copy": "https://abema.app/bX1b",
+        "instagram": "https://abema.app/z69j"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/560-2_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/560-2_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/560-2_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/560-2_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.560-2_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1375.0820416666666,
+        "opening": {
+            "start": 101.101,
+            "end": 191.02416666666667
+        },
+        "ending": {
+            "start": 1375.0820416666666,
+            "end": 1465.0052083333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "560-2_s1_p2",
+        "title": "第2話 【選別と選択】",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1725500862,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1728841200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/560-2_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "560-2_eg0"
+}

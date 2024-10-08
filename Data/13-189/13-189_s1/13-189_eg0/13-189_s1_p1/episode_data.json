@@ -1,0 +1,151 @@
+{
+    "id": "13-189_s1_p1",
+    "series": {
+        "id": "13-189",
+        "title": "アイドルマスター シャイニーカラーズ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-189",
+            "filename": "thumb.png",
+            "query": "version=1728099016",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-189",
+            "filename": "portrait.png",
+            "query": "version=1728099016",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-189_s1",
+        "sequence": 1,
+        "name": "1st Season",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1447
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 一人分の空、一枚の羽",
+        "content": "アイドルになって、新しい世界を見てみないか？ 偶然の出会いに背中を押され、櫻木真乃はアイドルの世界へと、その一歩を踏み出すことになる。283プロに入った真乃が出会ったのは、同じくアイドルを目指す、風野灯織、八宮めぐるという2人の仲間だった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "櫻木真乃：関根 瞳",
+            "風野灯織：近藤玲奈",
+            "八宮めぐる：峯田茉優",
+            "月岡恋鐘：礒部花凜",
+            "田中摩美々：菅沼千紗",
+            "白瀬咲耶：八巻アンナ",
+            "三峰結華：希水しお",
+            "幽谷霧子：結名美月",
+            "小宮果穂：河野ひより",
+            "園田智代子：白石晴香",
+            "西城樹里：永井真里子",
+            "杜野凛世：丸岡和佳奈",
+            "有栖川夏葉：涼本あきほ",
+            "大崎甘奈：黒木ほの香",
+            "大崎甜花：前川涼子",
+            "桑山千雪：芝崎典子",
+            "プロデューサー：夏目響平",
+            "七草はづき：山村 響",
+            "天井 努：津田健次郎"
+        ],
+        "crews": [
+            "企画・製作・原作：バンダイナムコエンターテインメント",
+            "監督：まんきゅう",
+            "副監督・CGディレクター：岩田 健志",
+            "CGディレクター：菅井 進",
+            "シリーズ構成・脚本：加藤 陽一",
+            "アニメーションキャラクターデザイン：福士 亮平",
+            "色彩設計：野地 弘納",
+            "美術監督：吾田 愛美（KUSANAGI）",
+            "音楽：三澤 康広",
+            "音楽制作：ランティス",
+            "音響監督：八木橋 正純",
+            "アニメーション制作：ポリゴン・ピクチュアズ",
+            "配給：松竹ODS事業室"
+        ],
+        "copyrights": [
+            "(C)Bandai Namco Entertainment Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728383679,
+    "endAt": 1767193200,
+    "transcodeVersion": "4sv1dy",
+    "sharedLink": {
+        "twitter": "https://abema.app/3BrE",
+        "facebook": "https://abema.app/gKQD",
+        "google": "https://abema.app/ZVV1",
+        "line": "https://abema.app/TygM",
+        "copy": "https://abema.app/dw4K",
+        "instagram": "https://abema.app/373N"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-189_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-189_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-189_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-189_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1441.0396,
+        "ending": {
+            "start": 1364.6966666666667,
+            "end": 1432.3309
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-189_s1_p2",
+        "title": "第2話 ウタという炎",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1728383679,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-189_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "13-189_eg0"
+}

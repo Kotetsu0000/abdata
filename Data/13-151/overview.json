@@ -52,15 +52,34 @@
                 }
             ],
             "order": 2
+        },
+        {
+            "id": "13-151_s3",
+            "sequence": 3,
+            "name": "3期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/13-151_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1728022427",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "13-151_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
         }
     ],
     "copyrights": [
         "（C）2021 プロジェクトラブライブ！スーパースター!!"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
-    "version": "1728296256764708197",
+    "version": "1728365348212796437",
     "imageUpdatedAt": 1728022399,
     "programOrder": "seq",
     "sharedLink": {
