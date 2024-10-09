@@ -1,0 +1,149 @@
+{
+    "id": "158-8ukb2pnc72h_s1_p1",
+    "series": {
+        "id": "158-8ukb2pnc72h",
+        "title": "高宮なすのです！～てーきゅうスピンオフ～",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-8ukb2pnc72h",
+            "filename": "thumb.png",
+            "query": "version=1710842553",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-8ukb2pnc72h",
+            "filename": "portrait.png",
+            "query": "version=1710842553",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-8ukb2pnc72h_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 121
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 執事男",
+        "content": "夏休みのある日のこと、ヒマを持て余していたユリの弟、「押本陽太」の前に、あのスーパー金持ち天然お嬢様「高宮なすの」がやってくる！"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "高宮なすの：鳴海杏子",
+            "押本陽太：逢坂良太"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:三宅舞子／板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：三宅舞子／板垣伸",
+            "アニメーション制作：ミルパンセ",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/高宮財閥"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1707965602,
+    "endAt": 1746025200,
+    "freeEndAt": 1746025200,
+    "transcodeVersion": "7W6XUm",
+    "sharedLink": {
+        "twitter": "https://abema.app/wX5L",
+        "facebook": "https://abema.app/p7Ck",
+        "google": "https://abema.app/K5M7",
+        "line": "https://abema.app/KhgB",
+        "copy": "https://abema.app/DqaN",
+        "instagram": "https://abema.app/Gyfd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/158-8ukb2pnc72h_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/158-8ukb2pnc72h_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/158-8ukb2pnc72h_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/158-8ukb2pnc72h_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-8ukb2pnc72h_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 116.0159,
+        "opening": {
+            "start": 24.758066666666668,
+            "end": 49.983266666666665
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-8ukb2pnc72h_s1_p2",
+        "title": "第2話 執事を巡る冒険",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1707965602,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-8ukb2pnc72h_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-8ukb2pnc72h_eg0"
+}

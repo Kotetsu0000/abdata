@@ -1,0 +1,125 @@
+{
+    "id": "19-172_s2_p13",
+    "series": {
+        "id": "19-172",
+        "title": "カミエラビ GOD.app",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "thumb.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "portrait.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-172_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1376
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "episode13 だから、神様が必要だったんだ",
+        "content": "キョウとゴローの戦いから１２年。一連の事件は“８２８事件”として語られ、世界から姿を消したゴローは、人々の記憶からも完全に消え去ってしまっていた。そんなある日、自由研究で事件のことを調べていたエコは、”夢の中で見た神様”を探して当時のまま封鎖されている８２８事件の現場へ足を運ぶ。その帰り道、ふと彼女の目についた張り紙に神様に関することが書かれていて……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ゴロー：浦 和希",
+            "ホノカ：松本沙羅",
+            "アキツ：内田修一",
+            "チカ：阿部菜摘子",
+            "ラル：佐倉綾音"
+        ],
+        "crews": [
+            "原案：ヨコオタロウ",
+            "監督：瀬下寛之",
+            "脚本：じん",
+            "音楽：MONACA",
+            "キャラクターデザイン：大久保 篤",
+            "副監督：井手 恵介/石間 祐一/りょーちも",
+            "アニメーションキャラクターデザイン：山中 純子/もりやま　ゆうき"
+        ],
+        "copyrights": [
+            "(C)カミエラビ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728383694,
+    "endAt": 1759244400,
+    "transcodeVersion": "53SNLj",
+    "sharedLink": {
+        "twitter": "https://abema.app/g9YV",
+        "facebook": "https://abema.app/QyZQ",
+        "google": "https://abema.app/XvH4",
+        "line": "https://abema.app/VCoh",
+        "copy": "https://abema.app/pgJc",
+        "instagram": "https://abema.app/DEA4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-172_s2_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-172_s2_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-172_s2_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-172_s2_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1286.1181666666666,
+        "opening": {
+            "start": 84.00058333333334,
+            "end": 174.00716666666668
+        },
+        "ending": {
+            "start": 1286.1181666666666,
+            "end": 1376.12475
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-172_s2_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-172_eg0"
+}

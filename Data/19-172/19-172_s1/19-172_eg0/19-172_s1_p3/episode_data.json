@@ -1,0 +1,157 @@
+{
+    "id": "19-172_s1_p3",
+    "series": {
+        "id": "19-172",
+        "title": "カミエラビ GOD.app",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "thumb.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "portrait.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-172_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "episode3 お前って、最高の友達だ",
+        "content": "同盟関係になり、共闘してガスマスクの神様候補退けるも、アキツとホノカに警戒しろというラル。しかし、ゴローにとって特にアキツはかけがえのない友達で、信頼できる相手だった。アキツにスマホを奪われても、だたの悪ふざけとして気にしないゴローは、今後のことを相談するためにアキツとの溜まり場“ゲーセン”へ向かうが……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "小野護郎：浦 和希",
+            "佐和穂花：松本沙羅",
+            "秋津 豊：内田修一",
+            "能島千歌；阿部菜摘子",
+            "天 昂輝：梶原岳人",
+            "⼆奈唯世：楠木ともり",
+            "沖野美津⼦：ファイルーズあい",
+            "雨野辰哉：新祐樹",
+            "ラル：佐倉綾音"
+        ],
+        "crews": [
+            "原案：ヨコオタロウ",
+            "監 督：瀬下寛之",
+            "シリーズ構成・脚本：じん",
+            "キャラクターデザイン：大久保篤",
+            "音楽：MONACA",
+            "アニメーション制 作：UNEND",
+            "企画/プロデュース：スロウカーブ"
+        ],
+        "copyrights": [
+            "（C）カミエラビ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728383693,
+    "endAt": 1759244400,
+    "transcodeVersion": "76kpBz",
+    "sharedLink": {
+        "twitter": "https://abema.app/kibj",
+        "facebook": "https://abema.app/7afa",
+        "google": "https://abema.app/ZUmH",
+        "line": "https://abema.app/2jZC",
+        "copy": "https://abema.app/Aubz",
+        "instagram": "https://abema.app/97L5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-172_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-172_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-172_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-172_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.4508333333333,
+        "opening": {
+            "start": 42.45908333333333,
+            "end": 131.08929166666667
+        },
+        "ending": {
+            "start": 1286.2015833333332,
+            "end": 1375.12375
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-172_s1_p4",
+        "title": "episode4 ソレすなわち、私たちは同志、ということ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1728383693,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-172_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-172_eg0"
+}

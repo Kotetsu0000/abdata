@@ -1,0 +1,156 @@
+{
+    "id": "158-4cnxbgy9e3x_s4_p1",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s4",
+        "sequence": 4,
+        "name": "4期",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 121
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 37,
+        "title": "第37面 先輩とメン・イン・ブラック",
+        "content": "まりもが家に忘れてきた弁当を居候中の宇宙人、トマリンが届けに来た。　来たついでに亀井戸高校を案内することになったてーきゅうメンバーたちだったが、なぜか学校がいつもとは違う感じになってしまって・・・。"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "押本ユリ：渡部優衣",
+            "新庄かなえ：三森すずこ",
+            "高宮なすの：鳴海杏子",
+            "板東まりも：花澤香菜",
+            "トマリン：小倉唯"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：板垣伸",
+            "アニメーション制作：ミルパンセ",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423007,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "7SKHwH",
+    "sharedLink": {
+        "twitter": "https://abema.app/KDDW",
+        "facebook": "https://abema.app/taCn",
+        "google": "https://abema.app/chcA",
+        "line": "https://abema.app/3mYj",
+        "copy": "https://abema.app/HvaA",
+        "instagram": "https://abema.app/nxZk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/158-4cnxbgy9e3x_s4_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/158-4cnxbgy9e3x_s4_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/158-4cnxbgy9e3x_s4_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/158-4cnxbgy9e3x_s4_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-4cnxbgy9e3x_s4_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 116.0159,
+        "opening": {
+            "start": 25.191833333333335,
+            "end": 46.513133333333336
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-4cnxbgy9e3x_s4_p2",
+        "title": "第38面 先輩とロミオ・マスト・ダイ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423007,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-4cnxbgy9e3x_s4_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}

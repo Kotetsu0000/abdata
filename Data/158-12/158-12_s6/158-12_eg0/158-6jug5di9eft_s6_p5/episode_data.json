@@ -1,0 +1,153 @@
+{
+    "id": "158-6jug5di9eft_s6_p5",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s6",
+        "sequence": 6,
+        "name": "6期",
+        "thumbComponent": {},
+        "order": 6
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 120
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 65,
+        "title": "第65面 先輩とトレマーズ",
+        "content": "ここは駄菓子屋たなか。因縁の組み合わせである板東まりもと田中きなこがここに邂逅する…！過去の熾烈な魔術バトルが蘇ってくるようだ…！"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "板東まりも：花澤香菜",
+            "田中きなこ：中島由貴"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：板垣伸",
+            "アニメーション制作：ミルパンセ",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423008,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "7H7MJz",
+    "sharedLink": {
+        "twitter": "https://abema.app/UqEH",
+        "facebook": "https://abema.app/c8Z3",
+        "google": "https://abema.app/NCWN",
+        "line": "https://abema.app/vKWb",
+        "copy": "https://abema.app/Prqj",
+        "instagram": "https://abema.app/bJ2C"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/158-6jug5di9eft_s6_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/158-6jug5di9eft_s6_p5/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/158-6jug5di9eft_s6_p5/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/158-6jug5di9eft_s6_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-6jug5di9eft_s6_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 115.19841666666666,
+        "opening": {
+            "start": 6.25625,
+            "end": 30.363666666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-6jug5di9eft_s6_p6",
+        "title": "第66面 先輩とボウリング・フォー・コロンバイン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423008,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-6jug5di9eft_s6_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}

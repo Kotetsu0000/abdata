@@ -1,0 +1,157 @@
+{
+    "id": "19-172_s1_p1",
+    "series": {
+        "id": "19-172",
+        "title": "カミエラビ GOD.app",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "thumb.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "portrait.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-172_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "episode1 誰にも気付かれない、誰しもが夢に見る場所で",
+        "content": "とある夏の日。いつもと変わらない日常に退屈していた少年・ゴローのスマホに謎のメッセージが届く。「あなたの願いを吹き込んでください」――スパムだと思い「憧れのホノカとエッチなことがしたい」とゴローが適当な願いを呟くと、彼の状況は一変する。ＳＮＳにアップした覚えのない動画、気になっていたホノカとの急接近……。そして世界の神様を選ぶ“カミエラビ”が始まるのだった。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "小野護郎：浦 和希",
+            "佐和穂花：松本沙羅",
+            "秋津 豊：内田修一",
+            "能島千歌；阿部菜摘子",
+            "天 昂輝：梶原岳人",
+            "⼆奈唯世：楠木ともり",
+            "沖野美津⼦：ファイルーズあい",
+            "雨野辰哉：新祐樹",
+            "ラル：佐倉綾音"
+        ],
+        "crews": [
+            "原案：ヨコオタロウ",
+            "監 督：瀬下寛之",
+            "シリーズ構成・脚本：じん",
+            "キャラクターデザイン：大久保篤",
+            "音楽：MONACA",
+            "アニメーション制 作：UNEND",
+            "企画/プロデュース：スロウカーブ"
+        ],
+        "copyrights": [
+            "（C）カミエラビ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728383693,
+    "endAt": 1759244400,
+    "transcodeVersion": "2Cr6Ti",
+    "sharedLink": {
+        "twitter": "https://abema.app/Qw6M",
+        "facebook": "https://abema.app/Yxvs",
+        "google": "https://abema.app/RoVV",
+        "line": "https://abema.app/3Bvp",
+        "copy": "https://abema.app/UxLx",
+        "instagram": "https://abema.app/k61T"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-172_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-172_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-172_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-172_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.0754583333332,
+        "opening": {
+            "start": 366.90820833333333,
+            "end": 454.78766666666667
+        },
+        "ending": {
+            "start": 1285.8262083333334,
+            "end": 1371.0780416666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-172_s1_p2",
+        "title": "episode2 あいつが強いとか、弱いとか",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1728383693,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-172_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-172_eg0"
+}

@@ -1,0 +1,154 @@
+{
+    "id": "158-2bg7-iiypek_s2_p1",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s2",
+        "sequence": 2,
+        "name": "2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 120
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13面 先輩とフルメタルジャケット",
+        "content": "保育園に勤めているかなえの従姉から豆まきの手伝いを頼まれた４人。子供に怖がられて悩むまりもは、園長さんからあるアドバイスを受けるのだったが…。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "新庄かなえ：三森すずこ",
+            "押本ユリ：渡部優衣",
+            "板東まりも：花澤香菜"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：板垣伸",
+            "アニメーション制作：MAPPA",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423006,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "Mnv9X",
+    "sharedLink": {
+        "twitter": "https://abema.app/Gd2b",
+        "facebook": "https://abema.app/CR55",
+        "google": "https://abema.app/fYzq",
+        "line": "https://abema.app/iYBL",
+        "copy": "https://abema.app/KxE7",
+        "instagram": "https://abema.app/Sfp7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/158-2bg7-iiypek_s2_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/158-2bg7-iiypek_s2_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/158-2bg7-iiypek_s2_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/158-2bg7-iiypek_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-2bg7-iiypek_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 115.04826666666666,
+        "opening": {
+            "start": 7.3073,
+            "end": 33.66696666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-2bg7-iiypek_s2_p2",
+        "title": "第14面 先輩とワンス・アンド・フォーエバー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423006,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-2bg7-iiypek_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}

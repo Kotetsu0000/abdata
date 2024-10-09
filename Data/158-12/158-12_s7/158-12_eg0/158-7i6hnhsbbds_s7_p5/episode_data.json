@@ -1,0 +1,153 @@
+{
+    "id": "158-7i6hnhsbbds_s7_p5",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s7",
+        "sequence": 7,
+        "name": "7期",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 120
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 77,
+        "title": "第77面 先輩とテッド",
+        "content": "季節柄冬眠したくなってきた、かなまりコンビ。ちょうど遊んでいた公園に熊がいたので冬眠事情をリサーチすることに。しかしハチミツの話はタブーのようです。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "新庄かなえ：三森すずこ",
+            "板東まりも：花澤香菜"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：板垣伸",
+            "アニメーション制作：ミルパンセ",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423008,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "5538W3",
+    "sharedLink": {
+        "twitter": "https://abema.app/qwLY",
+        "facebook": "https://abema.app/ChDJ",
+        "google": "https://abema.app/THqm",
+        "line": "https://abema.app/Q8J4",
+        "copy": "https://abema.app/pSKo",
+        "instagram": "https://abema.app/wVEj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p5/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/158-7i6hnhsbbds_s7_p5/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-7i6hnhsbbds_s7_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 115.19841666666666,
+        "opening": {
+            "start": 12.971291666666668,
+            "end": 38.079708333333336
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-7i6hnhsbbds_s7_p6",
+        "title": "第78面 先輩とフューリー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423008,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-7i6hnhsbbds_s7_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}

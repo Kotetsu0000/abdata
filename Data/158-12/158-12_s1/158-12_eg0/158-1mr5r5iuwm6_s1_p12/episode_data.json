@@ -1,0 +1,155 @@
+{
+    "id": "158-1mr5r5iuwm6_s1_p12",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s1",
+        "sequence": 1,
+        "name": "1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 120
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12面 先輩とシックスセンス",
+        "content": "テニスコートを飛び出したボールを追って、旧校舎へ迷い込んだ4人。やがてそこが心霊スポットだと気付くが、ボールを求め、探索を決意する。"
+    },
+    "credit": {
+        "released": 2012,
+        "casts": [
+            "押本ユリ：渡部優衣",
+            "新庄かなえ：三森すずこ",
+            "高宮なすの：鳴海杏子",
+            "板東まりも：花澤香菜"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：板垣伸",
+            "アニメーション制作：MAPPA",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423006,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "At1ic",
+    "sharedLink": {
+        "twitter": "https://abema.app/iHYX",
+        "facebook": "https://abema.app/1S8f",
+        "google": "https://abema.app/j2gz",
+        "line": "https://abema.app/aLzb",
+        "copy": "https://abema.app/5fGn",
+        "instagram": "https://abema.app/Dxdg"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/158-1mr5r5iuwm6_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/158-1mr5r5iuwm6_s1_p12/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/158-1mr5r5iuwm6_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/158-1mr5r5iuwm6_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-1mr5r5iuwm6_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 115.04826666666666,
+        "opening": {
+            "start": 89.95653333333334,
+            "end": 117.65086666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-2bg7-iiypek_s2_p1",
+        "title": "第13面 先輩とフルメタルジャケット",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423006,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-1mr5r5iuwm6_s1_p12/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}

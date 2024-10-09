@@ -1,0 +1,157 @@
+{
+    "id": "19-172_s1_p5",
+    "series": {
+        "id": "19-172",
+        "title": "カミエラビ GOD.app",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "thumb.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "portrait.png",
+            "query": "version=1696507540",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-172_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "episode5 まっすぐで、強い、あなたには",
+        "content": "チカからのＳＯＳと、さらにホノカが天使くんの手に落ちてしまっていることに気づいたゴローは、夜の学校へ向かう。そこにいたのは、異形の仮面を付けた生徒たちと、彼らと戦うコウキだった。コウキからの話でタツヤが神様候補だと知ったゴローは、天使くん・タツヤを止めるためにコウキ、チカと共に夜の校舎を駆け抜ける。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "小野護郎：浦 和希",
+            "佐和穂花：松本沙羅",
+            "秋津 豊：内田修一",
+            "能島千歌；阿部菜摘子",
+            "天 昂輝：梶原岳人",
+            "⼆奈唯世：楠木ともり",
+            "沖野美津⼦：ファイルーズあい",
+            "雨野辰哉：新祐樹",
+            "ラル：佐倉綾音"
+        ],
+        "crews": [
+            "原案：ヨコオタロウ",
+            "監 督：瀬下寛之",
+            "シリーズ構成・脚本：じん",
+            "キャラクターデザイン：大久保篤",
+            "音楽：MONACA",
+            "アニメーション制 作：UNEND",
+            "企画/プロデュース：スロウカーブ"
+        ],
+        "copyrights": [
+            "（C）カミエラビ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728383693,
+    "endAt": 1759244400,
+    "transcodeVersion": "2SZanj",
+    "sharedLink": {
+        "twitter": "https://abema.app/eFXy",
+        "facebook": "https://abema.app/SsMt",
+        "google": "https://abema.app/DyVg",
+        "line": "https://abema.app/KdUt",
+        "copy": "https://abema.app/1qae",
+        "instagram": "https://abema.app/63wg"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-172_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-172_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-172_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-172_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.5759583333333,
+        "opening": {
+            "start": 55.5555,
+            "end": 143.68520833333332
+        },
+        "ending": {
+            "start": 1286.03475,
+            "end": 1375.12375
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-172_s1_p6",
+        "title": "episode6 姿も、声も、記憶も、その痛みまで",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1728383693,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-172_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "19-172_eg0"
+}

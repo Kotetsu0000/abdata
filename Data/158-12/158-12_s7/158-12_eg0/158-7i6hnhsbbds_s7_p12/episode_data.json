@@ -1,0 +1,155 @@
+{
+    "id": "158-7i6hnhsbbds_s7_p12",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s7",
+        "sequence": 7,
+        "name": "7期",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 120
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 84,
+        "title": "第84面 先輩とプライベート・ライアン",
+        "content": "亀井戸高校のテニスコートに立つ、ユリ・かなえ・なすの・まりも。テニス部らしく、ちゃんとテニスの練習をしたいユリとは裏腹に、先輩たちはおかしな構えや動きを次々繰り出していき...。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "押本ユリ：渡部優衣",
+            "新庄かなえ：三森すずこ",
+            "高宮なすの：鳴海杏子",
+            "板東まりも：花澤香菜"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：板垣伸",
+            "アニメーション制作：ミルパンセ",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423008,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "4HNpMy",
+    "sharedLink": {
+        "twitter": "https://abema.app/YgXb",
+        "facebook": "https://abema.app/uqtJ",
+        "google": "https://abema.app/7Gr1",
+        "line": "https://abema.app/d8Y8",
+        "copy": "https://abema.app/4HiA",
+        "instagram": "https://abema.app/w8j4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p12/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/158-7i6hnhsbbds_s7_p12/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-7i6hnhsbbds_s7_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 115.19841666666666,
+        "ending": {
+            "start": 88.04629166666666,
+            "end": 115.36525
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-6_s8_p85",
+        "title": "第85面 先輩と蝿の王",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423008,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-7i6hnhsbbds_s7_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}

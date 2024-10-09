@@ -1,0 +1,159 @@
+{
+    "id": "158-7i6hnhsbbds_s7_p10",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s7",
+        "sequence": 7,
+        "name": "7期",
+        "thumbComponent": {},
+        "order": 7
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 120
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 82,
+        "title": "第82面 先輩と桐島、部活やめるってよ",
+        "content": "まさかまさかの他校テニス部との合同練習！今日は4月よりアニメが放送される「うさかめ」より兎亀高校の4人と対戦！熾烈なライバル争いが繰り広げられてゆく…"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "押本ユリ：渡部優衣",
+            "新庄かなえ：三森すずこ",
+            "高宮なすの：鳴海杏子",
+            "板東まりも：花澤香菜",
+            "田中きなこ：中島由貴",
+            "佐藤くるみ：小出ひかる",
+            "鈴木あやこ：新井田いづみ",
+            "西新井大師西：谷尻まりあ"
+        ],
+        "crews": [
+            "監督：板垣伸",
+            "キャラクターデザイン:板垣伸",
+            "脚本：板垣伸",
+            "絵コンテ：板垣伸",
+            "演出：板垣伸",
+            "作画監督：板垣伸",
+            "アニメーション制作：ミルパンセ",
+            "音響制作：ダックスプロダクション"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423008,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "4Sjrcb",
+    "sharedLink": {
+        "twitter": "https://abema.app/F2oW",
+        "facebook": "https://abema.app/8D59",
+        "google": "https://abema.app/wBrW",
+        "line": "https://abema.app/6vdr",
+        "copy": "https://abema.app/JpLa",
+        "instagram": "https://abema.app/sg1B"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p10/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/158-7i6hnhsbbds_s7_p10/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/158-7i6hnhsbbds_s7_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-7i6hnhsbbds_s7_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 115.19841666666666,
+        "opening": {
+            "start": 20.979291666666665,
+            "end": 46.08770833333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-7i6hnhsbbds_s7_p11",
+        "title": "第83面 先輩とストレイト・ストーリー",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423008,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-7i6hnhsbbds_s7_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}

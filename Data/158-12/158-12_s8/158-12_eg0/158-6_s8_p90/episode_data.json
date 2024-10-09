@@ -1,0 +1,149 @@
+{
+    "id": "158-6_s8_p90",
+    "series": {
+        "id": "158-12",
+        "title": "てーきゅう",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "thumb.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/158-12",
+            "filename": "portrait.png",
+            "query": "version=1710739132",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "158-12_s8",
+        "sequence": 8,
+        "name": "8期",
+        "thumbComponent": {},
+        "order": 8
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 120
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 90,
+        "title": "第90面 先輩とナイトミュージアム",
+        "content": "「だるし～、いとだるし」と授業の合間だらける,まりかなコンビ。なすのが最近購入したという美術館に見に行くことに。一体どんな美術館なのだろうか。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "押本ユリ：渡部優衣",
+            "新庄かなえ：三森すずこ",
+            "高宮なすの：鳴海杏子",
+            "板東まりも：花澤香菜"
+        ],
+        "crews": [
+            "監督/キャラクターデザイン/脚本/絵コンテ/演出/作画監督：板垣伸",
+            "アニメーション制作：ミルパンセ"
+        ],
+        "copyrights": [
+            "(C)ルーツ/Piyo/アース・スター エンターテイメント/亀井戸高校テニス部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711423008,
+    "endAt": 1746025200,
+    "freeEndAt": 1729026600,
+    "transcodeVersion": "4ckyUv",
+    "sharedLink": {
+        "twitter": "https://abema.app/MNcN",
+        "facebook": "https://abema.app/7iD3",
+        "google": "https://abema.app/gKss",
+        "line": "https://abema.app/Aa19",
+        "copy": "https://abema.app/w1X5",
+        "instagram": "https://abema.app/eYrV"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/158-6_s8_p90/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/158-6_s8_p90/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/158-6_s8_p90/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/158-6_s8_p90/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.158-6_s8_p90"
+    },
+    "viewingPoint": {
+        "suggestion": 115.08163333333333,
+        "opening": {
+            "start": 21.755066666666668,
+            "end": 42.175466666666665
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "158-6_s8_p91",
+        "title": "第91面 先輩とオブリビオン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1711423008,
+        "endAt": 1746025200,
+        "freeEndAt": 1729026600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729026600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/158-6_s8_p90/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729026600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "158-12_eg0"
+}
