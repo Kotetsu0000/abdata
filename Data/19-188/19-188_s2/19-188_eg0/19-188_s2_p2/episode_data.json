@@ -1,0 +1,122 @@
+{
+    "id": "19-188_s2_p2",
+    "series": {
+        "id": "19-188",
+        "title": "百妖譜（日本語吹替版）",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "thumb.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "portrait.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-188_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1424
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 応声（下）",
+        "content": "古井戸の近くで見つけた粥屋で、老婆が作る粥をほおばっていた磨牙（まが）と柳（りゅう）公子。その様子は段々とおかしくなっていき、桃夭にも粥を食べるよう要求し始める。桃夭は手相を見ると言って老婆を隣に座らせると、「あなたは死んでるはず」と言い放ち鈴を鳴らす。はじめは否定していた老婆は次第にもがき苦しみ、恐ろしい化物の姿へと変わっていく。そして桃夭がもう一度鈴を鳴らすと、化物の姿は朽ち果て、その亡骸から「応声（おうせい）」という虫が現れる。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "桃夭：東山奈央",
+            "磨牙（小坊主）：村瀬歩",
+            "柳公子：河西健吾"
+        ],
+        "crews": [
+            "原作：裟椤双樹",
+            "監督：董易",
+            "脚本：春日幽鈴",
+            "総演出監督：ソ・ギョンロク",
+            "総作画監督：クォン・ウンギョン",
+            "美術監督：イ・ボンリョル",
+            "音楽：薄彩生",
+            "アニメーション制作：bilibili",
+            "日本語吹き替え版演出：安藤直子",
+            "翻訳：本多由枝　林真子",
+            "録音・調整：吉本晋　首藤智愉",
+            "音響制作：東北新社",
+            "日本語吹き替え版制作：フジテレビジョン"
+        ],
+        "copyrights": [
+            "©bilibili",
+            "改編自小明太極作家裟椤双樹同名小説『百妖譜』"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728556750,
+    "endAt": 1767193200,
+    "transcodeVersion": "6SE9cn",
+    "sharedLink": {
+        "twitter": "https://abema.app/zG4W",
+        "facebook": "https://abema.app/UqYk",
+        "google": "https://abema.app/fvq9",
+        "line": "https://abema.app/VvWk",
+        "copy": "https://abema.app/DZWk",
+        "instagram": "https://abema.app/Xhh6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-188_s2_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-188_s2_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-188_s2_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-188_s2_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1409.9085
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-188_s2_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "19-188_eg0"
+}

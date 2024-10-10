@@ -1,0 +1,140 @@
+{
+    "id": "5-43_s1_p12",
+    "series": {
+        "id": "5-43",
+        "title": "キボウノチカラ～オトナプリキュア’２３～",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-43",
+            "filename": "thumb.png",
+            "query": "version=1696480003",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-43",
+            "filename": "portrait.png",
+            "query": "version=1696480003",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-43_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1515
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話「キボウノチカラ」",
+        "content": "キュアドリームたちの前に現れたのは、キュアブラックとキュアホワイト、そしてシャイニールミナスだった。11人は力を合わせて巨大シャドウに立ち向かっていく。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "夢原のぞみ：三瓶由布子",
+            "夏木りん：竹内順子",
+            "春日野うらら：伊瀬茉莉也",
+            "秋元こまち：永野 愛",
+            "水無月かれん：前田 愛",
+            "美々野くるみ：仙台エリ",
+            "日向 咲：樹元オリエ",
+            "美翔 舞：榎本温子"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "キャラクター原案：稲上 晃　川村敏江",
+            "シリーズディレクター：浜名孝行",
+            "シリーズ構成：成田良美",
+            "キャラクターデザイン：中嶋敦子",
+            "音楽：佐藤直紀",
+            "美術監督：川上美穂",
+            "色彩設計：安住唯",
+            "撮影監督：下崎昭",
+            "編集：小野寺桂子",
+            "音響監督：菅原三穂",
+            "アニメーション制作：東映アニメーション・スタジオディーン",
+            "製作：2023 キボウノチカラ オトナプリキュア製作委員会"
+        ],
+        "copyrights": [
+            "(C)2023 キボウノチカラ オトナプリキュア製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1704338302,
+    "endAt": 1740754800,
+    "freeEndAt": 1729188000,
+    "transcodeVersion": "3BEbR2",
+    "sharedLink": {
+        "twitter": "https://abema.app/sDnF",
+        "facebook": "https://abema.app/RfqL",
+        "google": "https://abema.app/VXnq",
+        "line": "https://abema.app/nsXf",
+        "copy": "https://abema.app/8c4d",
+        "instagram": "https://abema.app/jeP8"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-43_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-43_s1_p12/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/5-43_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-43_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-43_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1510.0502083333333,
+        "opening": {
+            "start": 46.046,
+            "end": 135.96916666666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-43_s1_p12/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729188000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "5-43_eg0"
+}
