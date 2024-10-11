@@ -1,0 +1,163 @@
+{
+    "id": "13-2zwmxabufds_s0_p4",
+    "series": {
+        "id": "13-2zwmxabufds",
+        "title": "アイドルマスター",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-2zwmxabufds",
+            "filename": "thumb.png",
+            "query": "version=1700636680",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-2zwmxabufds",
+            "filename": "portrait.png",
+            "query": "version=1700636680",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-2zwmxabufds_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1457
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 自分を変えるということ",
+        "content": "お料理番組『ゲロゲロキッチン』に出演することになった春香、千早、響、貴音の4人。それぞれの個性を光らせてアイドルたちが番組を盛り上げる中、千早だけが番組のバラエティ的なノリについていけずにいた。その上、番組の構成が変わって歌のコーナーが無くなったことを知り、千早はますます表情を曇らせてしまい…。"
+    },
+    "credit": {
+        "released": 2011,
+        "casts": [
+            "天海春香：中村繪里子",
+            "星井美希：長谷川明子",
+            "如月千早：今井麻美",
+            "高槻やよい：仁後真耶子",
+            "萩原雪歩：浅倉杏美",
+            "菊地 真：平田宏美",
+            "双海亜美：下田麻美",
+            "双海真美：下田麻美",
+            "水瀬伊織：釘宮理恵",
+            "三浦あずさ：たかはし智秋",
+            "四条貴音：原 由実",
+            "我那覇 響：沼倉愛美",
+            "秋月律子：若林直美",
+            "音無小鳥：滝田樹里"
+        ],
+        "crews": [
+            "原作：バンダイナムコゲームス",
+            "キャラクター原案：窪岡俊之",
+            "監督・キャラクターデザイン：錦織敦史",
+            "シリーズ構成：待田堂子、錦織敦史",
+            "シリーズ演出：高雄統子",
+            "総作画監督：飯塚晴子、高田 晃",
+            "色彩設計：中島和子",
+            "美術監督：薄井久代",
+            "撮影監督：那須信司",
+            "音響監督：菊田浩巳",
+            "音楽：高田龍一（MONACA）",
+            "音楽プロデューサー：中川浩二（NBGI）",
+            "編集：三嶋章紀",
+            "制作：A-1 Pictures"
+        ],
+        "copyrights": [
+            "（C）BNEI／PROJECT iM@S"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1700636765,
+    "endAt": 1732978800,
+    "freeEndAt": 1729206000,
+    "transcodeVersion": "73GLoo",
+    "sharedLink": {
+        "twitter": "https://abema.app/2T2i",
+        "facebook": "https://abema.app/ae1x",
+        "google": "https://abema.app/LqmD",
+        "line": "https://abema.app/HqVQ",
+        "copy": "https://abema.app/1p2v",
+        "instagram": "https://abema.app/3sf9"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-2zwmxabufds_s0_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-2zwmxabufds_s0_p4/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/13-2zwmxabufds_s0_p4/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-2zwmxabufds_s0_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-2zwmxabufds_s0_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1368.7006666666666,
+        "opening": {
+            "start": 127.127,
+            "end": 216.5163
+        },
+        "ending": {
+            "start": 1368.7006666666666,
+            "end": 1441.6402
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-2zwmxabufds_s0_p5",
+        "title": "第5話 みんなとすごす夏休み",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1700636777,
+        "endAt": 1732978800,
+        "freeEndAt": 1729206000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729206000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-2zwmxabufds_s0_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729206000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1732978800
+        }
+    ],
+    "episodeGroupId": "13-2zwmxabufds_eg0"
+}
