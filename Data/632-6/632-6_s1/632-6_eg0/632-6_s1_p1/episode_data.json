@@ -1,0 +1,132 @@
+{
+    "id": "632-6_s1_p1",
+    "series": {
+        "id": "632-6",
+        "title": "バリバリ伝説 劇場版",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-6",
+            "filename": "thumb.png",
+            "query": "version=1727340770",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/632-6",
+            "filename": "portrait.png",
+            "query": "version=1727340770",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "632-6_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 5140
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "バリバリ伝説 劇場版",
+        "content": "バイク好きの高校生・グン（巨摩郡）は奥多摩街道の峠バトルで、小柄ながら天才的な走りを見せるヒデヨシ（聖秀吉）に敗北する。やがてヒデヨシが、グンのクラスに転校してきたことで2人の対立はエスカレートしていく。そんなある日、グンとヒデヨシは2人も一目置く同級生の女性ライダー・みぃ（一ノ瀬美由紀）の誘いを受け、鈴鹿４時間耐久レースにペアとなって出場することになる。ライバルであり、パートナーである2人の熱い走りに、スタンドの観客たちも次第に魅了されていくのであった……。OVAであるバリバリ伝説「PART I 筑波篇」と「PART II 鈴鹿篇」の2本を再編集し、1987年に劇場公開。"
+    },
+    "credit": {
+        "released": 1987,
+        "casts": [
+            "巨摩郡：田中秀幸",
+            "伊藤歩惟：荻野目洋子",
+            "聖 秀吉：中尾隆聖",
+            "一ノ瀬美由紀：戸田恵子",
+            "沖田比呂：二又一成"
+        ],
+        "crews": [
+            "原作：しげの秀一（講談社「週刊少年マガジン」所載）",
+            "監督：上村 修、池上誉優",
+            "脚本：渡邊由自、渡辺麻実",
+            "美術監督：水の尾純一、中座洋次",
+            "撮影監督：杉山幸夫、鳥越一志、菅谷信行",
+            "録音演出：斯波重治",
+            "音楽：新田一郎",
+            "主題歌：「スロープに天気雨」／「少年の最後の夏」歌：荻野目洋子"
+        ],
+        "copyrights": [
+            "(C)しげの秀一／講談社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1726740418,
+    "endAt": 1761922800,
+    "transcodeVersion": "3p1Yxv",
+    "sharedLink": {
+        "twitter": "https://abema.app/Kkau",
+        "facebook": "https://abema.app/6P9L",
+        "google": "https://abema.app/M56J",
+        "line": "https://abema.app/Uz6R",
+        "copy": "https://abema.app/HLdW",
+        "instagram": "https://abema.app/enqe"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/632-6_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/632-6_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/632-6_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.632-6_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 4871.157958333333,
+        "ending": {
+            "start": 4871.157958333333,
+            "end": 5140.093291666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/632-6_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "632-6_eg0"
+}

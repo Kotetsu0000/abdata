@@ -16,8 +16,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1728698400
+                    "onDemandType": 1,
+                    "endAt": 1893423600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -26,6 +26,35 @@
         },
         "info": {
             "duration": 1452
+        }
+    },
+    {
+        "id": "675-1_s2_p15",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/675-1_s2_p15",
+            "filename": "thumb001.png",
+            "query": "version=1728293603",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 15,
+            "title": "第15話",
+            "content": "島を出たとんぼの日常は目まぐるしく変化していく――。\n\n高校生となり、熊本での生活をスタートさせたとんぼは、練習場のジュニア生たちとコースでラウンドすることに。トカラで培った自由奔放なゴルフでコースを攻略していくとんぼに対し、1つ年上の実力者・ひのきも決死で応戦。激しい対決を繰り広げる。\n\nとんぼの潜在能力の高さに驚愕したコーチのハジメは、とんぼを5月の九州女子選手権に挑戦させることを決意する。\n\n島で一緒にラウンドしたつぶらや、熊本で出会ったひのきなど、新たなライバルたちとのゴルフを通じて、とんぼがさらに大きく羽ばたいていく！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1729303200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1453
         }
     }
 ]

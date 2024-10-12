@@ -21,9 +21,9 @@
             "id": "189-71_s1",
             "sequence": 1,
             "thumbComponent": {
-                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-71",
-                "filename": "thumb.png",
-                "query": "version=1726112317",
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/189-71_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1728702979",
                 "extension": "png"
             },
             "episodeGroups": [
@@ -43,11 +43,11 @@
         "(C)志名坂高次(秋田書店)／高津組"
     ],
     "label": {
-        "free": true,
+        "someFree": true,
         "newest": true
     },
-    "version": "1728472397950615127",
-    "imageUpdatedAt": 1726112317,
+    "version": "1728703024505699382",
+    "imageUpdatedAt": 1728702961,
     "programOrder": "seq",
     "sharedLink": {
         "twitter": "https://abema.app/b1qR",
@@ -60,19 +60,19 @@
     "thumbComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-71",
         "filename": "thumb.png",
-        "query": "version=1726112317",
+        "query": "version=1728702961",
         "extension": "png"
     },
     "thumbPortraitComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-71",
         "filename": "portrait.png",
-        "query": "version=1726112317",
+        "query": "version=1728702961",
         "extension": "png"
     },
     "onDemandTypes": [
+        1,
         3
     ],
-    "freeBenefitTag": "全話無料",
     "contentPattern": 1,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
 }

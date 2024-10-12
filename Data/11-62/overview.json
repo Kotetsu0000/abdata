@@ -21,15 +21,19 @@
             "id": "11-62_s1",
             "sequence": 1,
             "thumbComponent": {
-                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-62",
-                "filename": "thumb.png",
-                "query": "version=1726541516",
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-62_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1728705399",
                 "extension": "png"
             },
             "episodeGroups": [
                 {
                     "id": "11-62_eg0",
                     "name": "本編"
+                },
+                {
+                    "id": "11-62_eg2",
+                    "name": "特番"
                 },
                 {
                     "id": "11-62_eg1",
@@ -46,8 +50,8 @@
         "free": true,
         "newest": true
     },
-    "version": "1728616288539549484",
-    "imageUpdatedAt": 1726541516,
+    "version": "1728705456446352761",
+    "imageUpdatedAt": 1728705383,
     "programOrder": "seq",
     "sharedLink": {
         "twitter": "https://abema.app/uizQ",
@@ -60,13 +64,13 @@
     "thumbComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-62",
         "filename": "thumb.png",
-        "query": "version=1726541516",
+        "query": "version=1728705383",
         "extension": "png"
     },
     "thumbPortraitComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-62",
         "filename": "portrait.png",
-        "query": "version=1726541516",
+        "query": "version=1728705383",
         "extension": "png"
     },
     "onDemandTypes": [
