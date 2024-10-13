@@ -1,0 +1,82 @@
+{
+    "id": "117-40",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "title": "ハイガクラ",
+    "content": "仙界。\n神仙と人間が暮らすその世界は、崩壊の危機に瀕していた。\nその鍵を握る凶神・四凶を探し求める歌士・一葉と従神・滇紅。\n二人はそれぞれの目的を秘めながら四凶を探していた。\n囚われた家族と失った過去。\n大切なものを取り戻すため、一葉と滇紅は世界中を駆け巡る――",
+    "seasons": [
+        {
+            "id": "117-40_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/117-40_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1728184312",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "117-40_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "117-40_eg1",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)高山しのぶ・一迅社／ハイガクラ製作委員会"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1728791381781094818",
+    "imageUpdatedAt": 1728184298,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ceGY",
+        "facebook": "https://abema.app/BsJV",
+        "google": "https://abema.app/b6oe",
+        "line": "https://abema.app/icmE",
+        "copy": "https://abema.app/Zaxv",
+        "instagram": "https://abema.app/KN5H"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-40",
+        "filename": "thumb.png",
+        "query": "version=1728184298",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-40",
+        "filename": "portrait.png",
+        "query": "version=1728184298",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

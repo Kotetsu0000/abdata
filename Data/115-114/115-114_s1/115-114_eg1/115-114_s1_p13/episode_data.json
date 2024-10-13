@@ -1,0 +1,145 @@
+{
+    "id": "115-114_s1_p13",
+    "series": {
+        "id": "115-114",
+        "title": "エルフさんは痩せられない。",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-114",
+            "filename": "thumb.png",
+            "query": "version=1721870542",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-114",
+            "filename": "portrait.png",
+            "query": "version=1721870542",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-114_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 720
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話",
+        "content": "街の整体サロン『スマイリーボア』で働く直江友厚(なおえともあつ)はある日、ニット帽にサングラスの怪しい客を担当することになる。キャップに隠した耳が異常にもっこりしたその女性は、なんと異世界から来たエルフだった!!\nぽっちゃりエルフの絵留札(えるふだ)さんのダイエットを手伝うことになった直江は、日本に巣くう異世界人の悩みにドタバタと巻き込まれて…!!\nフライドポテトに魅了された絵留札さんは果たして痩せることができるのか!?\n「ぽっちゃりエルフのダイエットコメディ開幕!!」"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "絵留札：伊藤彩沙",
+            "直江友厚：石井孝英",
+            "黒枝：長谷川玲奈",
+            "男鹿：福原綾香",
+            "草花田：久保田未夢",
+            "米路：徳井青空",
+            "頼加：朝日奈丸佳",
+            "奥・猪野明穂：内田彩",
+            "児穂：小岩井ことり",
+            "佐手呂：井口裕香",
+            "骨田：前田佳織里",
+            "含蛇：島田愛野",
+            "一目：佐々木未来"
+        ],
+        "crews": [
+            "原作：シネクドキ（秋田書店「ヤングチャンピオン・コミックス」刊／原作企画：シャインパートナーズ）",
+            "監督：所俊克",
+            "キャラクターデザイン：佐藤勝行",
+            "シリーズ構成：高林ユーキ",
+            "色彩設計：有尾由紀子",
+            "美術監督：高橋忍",
+            "撮影監督：みやがわよしかず",
+            "編集：柳圭介",
+            "音響監督：山口貴之",
+            "音楽：渡部チェル",
+            "アニメーション制作：Elias"
+        ],
+        "copyrights": [
+            "(C)シネクドキ（秋田書店）／エルフさん製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1728789578,
+    "endAt": 1759244400,
+    "freeEndAt": 1729273500,
+    "transcodeVersion": "6KwYPq",
+    "sharedLink": {
+        "twitter": "https://abema.app/spge",
+        "facebook": "https://abema.app/2xrH",
+        "google": "https://abema.app/s7S1",
+        "line": "https://abema.app/RdZn",
+        "copy": "https://abema.app/qMWG",
+        "instagram": "https://abema.app/S63M"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/115-114_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/115-114_s1_p13/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/115-114_s1_p13/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/115-114_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-114_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 660.034375,
+        "opening": {
+            "start": 51.051,
+            "end": 110.985875
+        },
+        "ending": {
+            "start": 660.034375,
+            "end": 719.96925
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-114_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729273500
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "115-114_eg1"
+}

@@ -1,0 +1,113 @@
+{
+    "id": "177-234_s1_p2",
+    "series": {
+        "id": "177-234",
+        "title": "リトル・パイレーツ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-234",
+            "filename": "thumb.png",
+            "query": "version=1693197368",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-234",
+            "filename": "portrait.png",
+            "query": "version=1693197368",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-234_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 4900
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "リトル・パイレーツ(吹替)",
+        "content": "7つの海を支配する海賊の船長サーベルタイガーと、空を支配する闇の魔王マガ・カーンは、満月の光に当てると願いが叶うという魔法のダイヤを求めて争っていた。ついにそのダイヤを探し当てたのはマガ・カーンだったが、マガ・カーンによって支配された貧しい島の孤児マルコがダイヤを盗んで隠してしまう。一方、ダイヤを盗んだ子供と間違われた小さな海賊ピンキーは、ダイヤを探すサーベルタイガー船長に見つかり、人質にされてしまう。ピンキーを心配した友達の女の子ヴェロニカは、男の子に変装して、ロニーという名でサーベルタイガー海賊団に潜り込むのだが・・・・。キャプテン・サーベルタイガー、小さな海賊ピンキー。女の子海賊ロニー(ヴェロニカ)、小さな泥棒のマルコ、そして魔王マガ・カーン。果たして魔法のダイヤを手にして、願いを叶えるのは誰か!?"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "レオナルド・ヴァレストランド・エイケ",
+            "イダ・レオノラ・ヴァレストランド・エイケ",
+            "キレ・ハウゲン・シドネス"
+        ],
+        "crews": [
+            "監督:ラスムス・アンドレ・シヴェルトセン、マリット・モウム・アウネ"
+        ],
+        "copyrights": [
+            "(C)2019 Qvisten Animation AS. All rights reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1693197453,
+    "endAt": 1796050800,
+    "transcodeVersion": "3XbZhw",
+    "sharedLink": {
+        "twitter": "https://abema.app/hQnh",
+        "facebook": "https://abema.app/VJuu",
+        "google": "https://abema.app/W516",
+        "line": "https://abema.app/XY3r",
+        "copy": "https://abema.app/T8EQ",
+        "instagram": "https://abema.app/gz72"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/177-234_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/177-234_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/177-234_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-234_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 4555.0505
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-234_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1796050800
+        }
+    ],
+    "episodeGroupId": "177-234_eg0"
+}

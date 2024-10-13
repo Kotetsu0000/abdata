@@ -1,0 +1,141 @@
+{
+    "id": "19-203_s1_p2",
+    "series": {
+        "id": "19-203",
+        "title": "ぷにるはかわいいスライム",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-203",
+            "filename": "thumb.png",
+            "query": "version=1728009374",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-203",
+            "filename": "portrait.png",
+            "query": "version=1728009374",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-203_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話",
+        "content": "これはスライムのぷにると中学生のコタローがともだちじゃなくなるまでの物語……\n\n河合井コタローは中学2年生男子。小学生の時に作ったスライムに命が宿り、以来7年間、ぷにると名付けたスライムと“ともだち”として仲良く一緒に過ごしていた。\nただし、コタローにとって一つ問題が……。\n7年という月日でお互いが大きくなり、ぷにるの姿が超絶美少女に大変身したのだ！\n美少女な姿以外にも、スライムとしてあらゆるかわいい姿に変身するぷにるの自由気ままな言動に、毎回ドキドキと振り回されてしまうコタローの前途多難な日々。\n果たして、ぷにるとコタローは“ともだち”として、仲良くずっと一緒に過ごせるのか！？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ぷにる：篠原侑",
+            "河合井コタロー：梅田修一朗",
+            "雲母麻美：清水理沙",
+            "南波遊助：榎木淳弥",
+            "御金賀アリス：花守ゆみり"
+        ],
+        "crews": [
+            "原作／まえだくん「ぷにるはかわいいスライム」（小学館「週刊コロコロコミック」連載）",
+            "監督：伊部勇志",
+            "シリーズ構成：横手美智子",
+            "脚本：横手美智子、平見 瞠、池田臨太郎",
+            "キャラクターデザイン：田中 彩",
+            "美術監督：宮本実生",
+            "美術設定：宮本実生、三原絵梨香、高薄亜実",
+            "色彩設計：きつかわあさみ",
+            "色彩設計補佐：髙田真有",
+            "撮影監督：後藤晴香",
+            "編集：榎田美咲",
+            "音楽：森いづみ",
+            "音響監督：丹下雄二",
+            "音響制作：東北新社",
+            "制作：TOHO animation STUDIO"
+        ],
+        "copyrights": [
+            "Ⓒまえだくん／小学館／ぷにる製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1728293692,
+    "endAt": 1822316400,
+    "freeEndAt": 1729437300,
+    "transcodeVersion": "7EVh49",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ra7S",
+        "facebook": "https://abema.app/DHty",
+        "google": "https://abema.app/WpEo",
+        "line": "https://abema.app/LWzM",
+        "copy": "https://abema.app/CzPU",
+        "instagram": "https://abema.app/4APu"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-203_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-203_s1_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-203_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-203_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-203_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.0320416666666,
+        "opening": {
+            "start": 29.029,
+            "end": 118.993875
+        },
+        "ending": {
+            "start": 1325.0320416666666,
+            "end": 1414.9969166666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-203_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729437300
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1822316400
+        }
+    ],
+    "episodeGroupId": "19-203_eg0"
+}

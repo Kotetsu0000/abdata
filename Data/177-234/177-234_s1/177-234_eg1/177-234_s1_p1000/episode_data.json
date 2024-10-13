@@ -1,0 +1,108 @@
+{
+    "id": "177-234_s1_p1000",
+    "series": {
+        "id": "177-234",
+        "title": "リトル・パイレーツ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-234",
+            "filename": "thumb.png",
+            "query": "version=1693197368",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-234",
+            "filename": "portrait.png",
+            "query": "version=1693197368",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-234_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 129
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1000,
+        "title": "予告編",
+        "content": "新たな小さな海賊ヒーローアニメーション誕生!\n小さな海賊ピンキー、海賊になりたい女の子ヴェロニカ、孤児で泥棒のマルコの大冒険が始まった!\n「小さなバイキング ビッケ」を生み出したノルウェーから新たな海賊冒険活劇アニメーションがやってきた!\n伝説の魔法のダイヤを求めて!いざ!七つの大海へ!\n“魔法のダイヤモンド”このダイヤがどこから来たのか-なぜ魔力を持ったのか-誰も知らない。\nだが、このダイヤに満月の光を当てると願いが1つ叶うという言い伝えがある\n貧しい人には富を。不幸な人には幸福を。愚かな人は賢い人に。そして 権力者にはより強い力を。\nだが 不思議なことにそのダイヤが消えることがあるという。いつ どこで再び姿を現すのか誰にも分からない。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)2019 Qvisten Animation AS. All rights reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1693197696,
+    "endAt": 1796050800,
+    "freeEndAt": 1796050800,
+    "transcodeVersion": "3aHbTC",
+    "sharedLink": {
+        "twitter": "https://abema.app/9U1U",
+        "facebook": "https://abema.app/RVpB",
+        "google": "https://abema.app/Cbdz",
+        "line": "https://abema.app/LZoC",
+        "copy": "https://abema.app/5eUW",
+        "instagram": "https://abema.app/qVf6"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/177-234_s1_p1000/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/177-234_s1_p1000/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/177-234_s1_p1000/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/177-234_s1_p1000/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-234_s1_p1000"
+    },
+    "viewingPoint": {
+        "suggestion": 124.91645833333334
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-234_s1_p1000/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1796050800
+        }
+    ],
+    "episodeGroupId": "177-234_eg1"
+}

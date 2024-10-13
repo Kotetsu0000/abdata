@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/13-27uzkrexuzx2_s4_p2",
             "filename": "thumb001.png",
-            "query": "version=1728293585",
+            "query": "version=1728792560",
             "extension": "png"
         },
         "episode": {
@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1728757800
+                    "onDemandType": 3,
+                    "endAt": 1729362600
                 }
             ],
             "broadcastRegionPolicy": 1,

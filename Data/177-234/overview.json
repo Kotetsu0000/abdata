@@ -1,0 +1,77 @@
+{
+    "id": "177-234",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "title": "リトル・パイレーツ",
+    "content": "新たな小さな海賊ヒーローアニメーション誕生!\n小さな海賊ピンキー、海賊になりたい女の子ヴェロニカ、孤児で泥棒のマルコの大冒険が始まった!\n「小さなバイキング ビッケ」を生み出したノルウェーから新たな海賊冒険活劇アニメーションがやってきた!\n伝説の魔法のダイヤを求めて!いざ!七つの大海へ!\n“魔法のダイヤモンド”このダイヤがどこから来たのか-なぜ魔力を持ったのか-誰も知らない。\nだが、このダイヤに満月の光を当てると願いが1つ叶うという言い伝えがある\n貧しい人には富を。不幸な人には幸福を。愚かな人は賢い人に。そして 権力者にはより強い力を。\nだが 不思議なことにそのダイヤが消えることがあるという。いつ どこで再び姿を現すのか誰にも分からない。",
+    "seasons": [
+        {
+            "id": "177-234_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-234",
+                "filename": "thumb.png",
+                "query": "version=1693197368",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "177-234_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "177-234_eg1",
+                    "name": "PR"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)2019 Qvisten Animation AS. All rights reserved."
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1728033656165244641",
+    "imageUpdatedAt": 1693197368,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/g5ss",
+        "facebook": "https://abema.app/UhhV",
+        "google": "https://abema.app/T9rq",
+        "line": "https://abema.app/jwMn",
+        "copy": "https://abema.app/oTxR",
+        "instagram": "https://abema.app/Z8gh"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-234",
+        "filename": "thumb.png",
+        "query": "version=1693197368",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-234",
+        "filename": "portrait.png",
+        "query": "version=1693197368",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 4,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
