@@ -69,6 +69,10 @@
             },
             "episodeGroups": [
                 {
+                    "id": "149-4_eg0",
+                    "name": "本編"
+                },
+                {
                     "id": "149-4_eg1",
                     "name": "予告編"
                 }
@@ -80,7 +84,8 @@
         "(C)白米良・オーバーラップ/ありふれた製作委員会"
     ],
     "label": {
-        "someFree": true
+        "someFree": true,
+        "newest": true
     },
     "version": "1728637206023769601",
     "imageUpdatedAt": 1681284417,
