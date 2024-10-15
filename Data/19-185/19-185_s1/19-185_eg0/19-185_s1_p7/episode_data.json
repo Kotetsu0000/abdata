@@ -1,0 +1,146 @@
+{
+    "id": "19-185_s1_p7",
+    "series": {
+        "id": "19-185",
+        "title": "人形アニメ「ハイキュー!!」",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-185",
+            "filename": "thumb.png",
+            "query": "version=1704594061",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-185",
+            "filename": "portrait.png",
+            "query": "version=1704594061",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-185_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 98
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "ペットボトル３（澤村・菅原）",
+        "content": "サーブの練習をする菅原と、それを見守る澤村。\n中々サーブが決まらない菅原に、澤村はとことん付き合うが…。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "村瀬 歩",
+            "石川 界人",
+            "日野 聡",
+            "入野 自由",
+            "細谷 佳正",
+            "林 勇",
+            "岡本 信彦",
+            "内山 昂輝",
+            "斉藤 壮馬",
+            "増田 俊樹"
+        ],
+        "crews": [
+            "監督：村田 朋泰",
+            "プロデューサー：梶原洋一郎",
+            "脚本：岸本 卓",
+            "音楽：田戸達英"
+        ],
+        "copyrights": [
+            "（C）古舘春一／集英社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1706837256,
+    "endAt": 1740754800,
+    "freeEndAt": 1729519200,
+    "transcodeVersion": "28mPoa",
+    "sharedLink": {
+        "twitter": "https://abema.app/q9L7",
+        "facebook": "https://abema.app/wWK5",
+        "google": "https://abema.app/AxMQ",
+        "line": "https://abema.app/gJmi",
+        "copy": "https://abema.app/eFUs",
+        "instagram": "https://abema.app/qmBL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-185_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-185_s1_p7/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-185_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-185_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-185_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 93.093
+    },
+    "nextProgramInfo": {
+        "programId": "19-185_s1_p8",
+        "title": "ペットボトル４（西谷・東峰）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706837256,
+        "endAt": 1740754800,
+        "freeEndAt": 1729519200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729519200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-185_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729519200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-185_eg0",
+    "skipVmap": true
+}

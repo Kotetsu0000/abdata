@@ -1,0 +1,74 @@
+{
+    "id": "5-69",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "ドラゴンボールDAIMA",
+    "content": "平和な日常を送っていた悟空たちは、突如、ある陰謀によって小さな姿に！\nその理由が「大魔界」と呼ばれる世界にあるらしきことを突き止めた一行のもとに、ミステリアスな少年魔人、グロリオがあらわれる！",
+    "seasons": [
+        {
+            "id": "5-69_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-69_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727690536",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-69_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)バード・スタジオ／集英社・東映アニメーション"
+    ],
+    "label": {
+        "free": true,
+        "newest": true
+    },
+    "version": "1728988919170497382",
+    "imageUpdatedAt": 1727690519,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/S7xR",
+        "facebook": "https://abema.app/CGMp",
+        "google": "https://abema.app/VuCz",
+        "line": "https://abema.app/9SMx",
+        "copy": "https://abema.app/bnVR",
+        "instagram": "https://abema.app/8e1a"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-69",
+        "filename": "thumb.png",
+        "query": "version=1727690519",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-69",
+        "filename": "portrait.png",
+        "query": "version=1727690519",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

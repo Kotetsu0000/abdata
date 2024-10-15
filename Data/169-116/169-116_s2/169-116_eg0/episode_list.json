@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p1",
             "filename": "thumb002.png",
-            "query": "version=1728469352",
+            "query": "version=1728989805",
             "extension": "png"
         },
         "episode": {
@@ -26,6 +26,35 @@
         },
         "info": {
             "duration": 1427
+        }
+    },
+    {
+        "id": "169-116_s2_p2",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p2",
+            "filename": "thumb001.png",
+            "query": "version=1728989805",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 2,
+            "title": "第2話 異世界ショッピング",
+            "content": "セリアと美春たちの日用品を買うため、交易都市のアマンドにやってきたリオたち。初めての異世界に戸惑いながらも、美春はセリアと共に試着をするなど、存分に買い物を楽しむのだった。一方ベルトラム王国のフローラ王女の元には、勇者として坂田弘明が召喚されていた。突然の出来事に初めは驚く坂田だったが、持ち前の知識で瞬く間に状況を理解していく。少しずつ運命の歯車が動き出す中、悪しき者たちは静かに暗躍を始めていた。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1729011600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1426
         }
     }
 ]

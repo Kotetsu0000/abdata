@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p5",
             "filename": "thumb002.png",
-            "query": "version=1728646048",
+            "query": "version=1728989960",
             "extension": "png"
         },
         "episode": {
@@ -16,8 +16,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1761922800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 600
+        }
+    },
+    {
+        "id": "19-175_s2_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p6",
+            "filename": "thumb001.png",
+            "query": "version=1728989960",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "6日目",
+            "content": "其の一「夏の魔物　～地縛少女花子さん～」\n呪いの不思議道具『夏の魔物』が暴走して、\n花子くんが女の子になってしまった！　\n寧々は１日くらいで元に戻ると知り、\n今のうちに女の子っぽいことをしようと提案する。\nそこに光がやってきて……。\n其の二「夏の魔物　～再来～」\n花子くんが埋めた『夏の魔物』を掘り起こし、放送室に持ち込んだつかさ。\n『夏の魔物』はまたもや暴走して、今度は桜を男の子にしてしまう。\nその様子を見た夏彦が騒ぎ始めて⁉"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1728961200
+                    "endAt": 1729566000
                 }
             ],
             "broadcastRegionPolicy": 1,

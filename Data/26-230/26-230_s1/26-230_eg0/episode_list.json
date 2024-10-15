@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1728469791",
+            "query": "version=1728989823",
             "extension": "png"
         },
         "episode": {
@@ -16,8 +16,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1419
+        }
+    },
+    {
+        "id": "26-230_s1_p2",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p2",
+            "filename": "thumb001.png",
+            "query": "version=1728989823",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 2,
+            "title": "第2話 苦悩",
+            "content": "自らの目に異変が起きて以来、事実を周囲に隠し恐れを抱いてきた雪男だったが、その目に発現した力が一体何なのか、検証することを決意する。力が発現した状況には、「死を前にした恐怖」という共通点があった。雪男は、生死をかけた危険な修行に傾倒していく……。一方、燐としえみは二人きりでの任務に臨むことに。古民家に発生した魍魎を祓魔するという、簡単な任務に思われたが……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1728961200
+                    "endAt": 1729566000
                 }
             ],
             "broadcastRegionPolicy": 1,

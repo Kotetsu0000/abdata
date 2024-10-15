@@ -1,0 +1,146 @@
+{
+    "id": "19-185_s1_p6",
+    "series": {
+        "id": "19-185",
+        "title": "人形アニメ「ハイキュー!!」",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-185",
+            "filename": "thumb.png",
+            "query": "version=1704594061",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-185",
+            "filename": "portrait.png",
+            "query": "version=1704594061",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-185_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 369
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "王様",
+        "content": "今日の練習は、王様練。\n一人ずつ王冠とマントをまとい、誰が最も”王様らしい”かを競い合う…？！"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "村瀬 歩",
+            "石川 界人",
+            "日野 聡",
+            "入野 自由",
+            "細谷 佳正",
+            "林 勇",
+            "岡本 信彦",
+            "内山 昂輝",
+            "斉藤 壮馬",
+            "増田 俊樹"
+        ],
+        "crews": [
+            "監督：村田 朋泰",
+            "プロデューサー：梶原洋一郎",
+            "脚本：岸本 卓",
+            "音楽：田戸達英"
+        ],
+        "copyrights": [
+            "（C）古舘春一／集英社"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1706837256,
+    "endAt": 1740754800,
+    "freeEndAt": 1729519200,
+    "transcodeVersion": "2QtJZX",
+    "sharedLink": {
+        "twitter": "https://abema.app/5QDD",
+        "facebook": "https://abema.app/DzaQ",
+        "google": "https://abema.app/t97S",
+        "line": "https://abema.app/2vpn",
+        "copy": "https://abema.app/Tdfq",
+        "instagram": "https://abema.app/a4yb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-185_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-185_s1_p6/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-185_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-185_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-185_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 364.364
+    },
+    "nextProgramInfo": {
+        "programId": "19-185_s1_p7",
+        "title": "ペットボトル３（澤村・菅原）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706837256,
+        "endAt": 1740754800,
+        "freeEndAt": 1729519200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729519200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-185_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729519200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-185_eg0",
+    "skipVmap": true
+}

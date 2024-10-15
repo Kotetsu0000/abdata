@@ -72,9 +72,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1683702111,
         "endAt": 1738335600,
+        "freeEndAt": 1729519200,
         "transcodeVersion": "48okzQ",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/4Z8UD",
@@ -98,8 +101,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1738335600
+                "onDemandType": 3,
+                "endAt": 1729519200
             }
         ],
         "episodeGroupId": "19-48_eg0"
@@ -206,7 +209,7 @@
         "terms": [
             {
                 "onDemandType": 1,
-                "endAt": 1738335600
+                "endAt": 1729433700
             }
         ],
         "episodeGroupId": "19-48_eg0"
@@ -316,7 +319,7 @@
         "terms": [
             {
                 "onDemandType": 1,
-                "endAt": 1738335600
+                "endAt": 1729951200
             }
         ],
         "episodeGroupId": "19-48_eg0"

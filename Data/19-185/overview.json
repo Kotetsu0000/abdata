@@ -1,0 +1,78 @@
+{
+    "id": "19-185",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "title": "人形アニメ「ハイキュー!!」",
+    "content": "烏野高校バレーボール部の10人が、小さな人形になって登場！\n製作期間3年3ヶ月の超大作！\n\nMr.Children「HERO」のMVも手がけた村田朋泰氏による、コマ撮りアニメーションによって動き出します。\n書き下ろしストーリーを含む全10本！\n今までになかった新たな「ハイキュー!!」が楽しめる！",
+    "seasons": [
+        {
+            "id": "19-185_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-185",
+                "filename": "thumb.png",
+                "query": "version=1704594061",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-185_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "（C）古舘春一／集英社"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1728034804760014717",
+    "imageUpdatedAt": 1704594061,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/1GJw",
+        "facebook": "https://abema.app/rJKZ",
+        "google": "https://abema.app/56fT",
+        "line": "https://abema.app/XVcC",
+        "copy": "https://abema.app/sEkq",
+        "instagram": "https://abema.app/VK2o"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-185",
+        "filename": "thumb.png",
+        "query": "version=1704594061",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-185",
+        "filename": "portrait.png",
+        "query": "version=1704594061",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
