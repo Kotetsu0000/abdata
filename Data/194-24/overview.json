@@ -1,0 +1,78 @@
+{
+    "id": "194-24",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ジャヒー様はくじけない！",
+    "content": "魔界で、魔王につぐNo.2の地位を誇っていたジャヒー様。\n魔族たちからは恐れられ、わがまま言いたい放題、ぜいたくしたい放題、我が世の春を謳歌していた──はずが、\n魔法少女の襲撃を受けて、人間界にふっ飛ばされてしまった。\n魔力の源である魔石を砕かれ、権力も美貌もどこへやら。\nちんまりかわいい姿に落ちぶれてしまう。\n貧乏暮らしを強いられ、風呂なし4畳半住まいで、居酒屋バイトの日々。\n同情も家賃の催促もふっ飛ばして、野望は大きく「魔界復興」だ！",
+    "seasons": [
+        {
+            "id": "194-24_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/194-24_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683010753",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "194-24_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)昆布わかめ／SQUARE ENIX・「ジャヒー様はくじけない！」製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1727770513142731703",
+    "imageUpdatedAt": 1681284167,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/JLKY",
+        "facebook": "https://abema.app/DLkc",
+        "google": "https://abema.app/wgCa",
+        "line": "https://abema.app/UrFs",
+        "copy": "https://abema.app/ymDo",
+        "instagram": "https://abema.app/SJwV"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-24",
+        "filename": "thumb.png",
+        "query": "version=1681284167",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-24",
+        "filename": "portrait.png",
+        "query": "version=1681284167",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

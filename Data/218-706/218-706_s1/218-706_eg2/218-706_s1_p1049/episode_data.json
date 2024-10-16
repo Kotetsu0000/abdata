@@ -1,0 +1,107 @@
+{
+    "id": "218-706_s1_p1049",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 528
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1049,
+        "title": "#25：アニメスタジオ「つむぎ秋田アニメLab」インタビュー前編",
+        "content": "アニメ「転生したら第七王子だったので、気ままに魔術を極めます」を制作した秋田県のアニメーション制作スタジオに潜入！独自の制作スタイルを徹底取材！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1729042272,
+    "endAt": 1760187600,
+    "freeEndAt": 1760187600,
+    "transcodeVersion": "5gqyHR",
+    "sharedLink": {
+        "twitter": "https://abema.app/oQDu",
+        "facebook": "https://abema.app/Ry86",
+        "google": "https://abema.app/96NQ",
+        "line": "https://abema.app/EWdi",
+        "copy": "https://abema.app/W8zU",
+        "instagram": "https://abema.app/KzEo"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-706_s1_p1049/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-706_s1_p1049/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-706_s1_p1049/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-706_s1_p1049/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p1049"
+    },
+    "viewingPoint": {
+        "suggestion": 523.8566666666667
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p1049/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1760187600
+        }
+    ],
+    "episodeGroupId": "218-706_eg2",
+    "skipVmap": true
+}

@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5016",
             "filename": "thumb001.png",
-            "query": "version=1728707449",
+            "query": "version=1729042281",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5023",
             "filename": "thumb001.png",
-            "query": "version=1728707450",
+            "query": "version=1729042281",
             "extension": "png"
         },
         "episode": {
@@ -55,6 +55,35 @@
         },
         "info": {
             "duration": 789
+        }
+    },
+    {
+        "id": "218-706_s1_p5025",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5025",
+            "filename": "thumb001.png",
+            "query": "version=1729042281",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5025,
+            "title": "#25：平成・昭和の懐かしアニメSP！アニメ「カレイドスター」を特集！",
+            "content": "平成の名作アニメ・2003年放送のアニメ「カレイドスター」の魅力を紹介。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1760187600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 725
         }
     }
 ]
