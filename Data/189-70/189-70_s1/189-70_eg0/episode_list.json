@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1729177200
+                    "onDemandType": 1,
+                    "endAt": 1830265200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -74,8 +74,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 3,
+                    "endAt": 1729782000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1422
+        }
+    },
+    {
+        "id": "189-70_s1_p4",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-70_s1_p4",
+            "filename": "thumb001.png",
+            "query": "version=1728706243",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 4,
+            "title": "第4話",
+            "content": "高校生活を“ぼっち”で過ごしていた遥は、授業中に突然クラスメイトと共に異世界召喚に巻き込まれてしまう。\nチートスキルが並ぶリストから好きなスキルを選んで神様から与えられる――はずが、チートスキルは早い者勝ちで既にめぼしいものはクラスメイトに取り尽くされていた!?\n神様の逆ギレで残ったバッドスキルを全て押し付けられた遥は、スキル『ぼっち』のせいで、異世界でも孤独に冒険することに……。\nチートに頼らず、チートを超えてやる――\n最強”ぼっち”の異世界HARDモード攻略譚、開幕！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 1,
-                    "endAt": 1729177200
+                    "endAt": 1729782000
                 }
             ],
             "broadcastRegionPolicy": 1,

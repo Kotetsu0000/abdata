@@ -34,7 +34,11 @@
             "duration": 1925
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 1,
@@ -66,10 +70,10 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1728988234,
+        "imageUpdatedAt": 1729129088,
         "endAt": 1772290800,
         "freeEndAt": 1729526700,
-        "transcodeVersion": "6xMyfi",
+        "transcodeVersion": "4Bjone",
         "sharedLink": {
             "twitter": "https://abema.app/nKsU",
             "facebook": "https://abema.app/vH5z",
@@ -87,7 +91,7 @@
         },
         "broadcastRegionPolicy": 1,
         "timelineThumbComponent": {
-            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-69_s1_p1/1/timeline",
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-69_s1_p1/2/timeline",
             "extension": "png"
         },
         "terms": [

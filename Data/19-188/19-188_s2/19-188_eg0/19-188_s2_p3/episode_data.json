@@ -1,0 +1,123 @@
+{
+    "id": "19-188_s2_p3",
+    "series": {
+        "id": "19-188",
+        "title": "百妖譜（日本語吹替版）",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "thumb.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "portrait.png",
+            "query": "version=1728010394",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-188_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1424
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 化蛇（上）",
+        "content": "長い間続いている大雨や洪水の影響で、鹿門（ろくもん）寺は浸水の危機に見舞われていた。空明真人（くうめいしんじん）は水を操る妖怪が原因だとし、僧侶たちを連れて八角井戸へと向かう。井戸の中には、なんと人間よりもずっと巨大な白蛇が棲みついていた…。一方、桃夭たちは鹿門山へ向かう道中にいた。山で妖怪騒ぎがあったと聞いた桃夭は磨牙と柳公子を引き連れ、車いすの僧侶に会いに行く。僧侶は何やら意味深な様子で、あの妖怪を救ってほしいと頼むのであった…。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "桃夭：東山奈央",
+            "磨牙（小坊主）：村瀬歩",
+            "柳公子：河西健吾"
+        ],
+        "crews": [
+            "原作：裟椤双樹",
+            "監督：董易",
+            "脚本：春日幽鈴",
+            "総演出監督：ソ・ギョンロク",
+            "総作画監督：クォン・ウンギョン",
+            "美術監督：イ・ボンリョル",
+            "音楽：薄彩生",
+            "アニメーション制作：bilibili",
+            "日本語吹き替え版演出：安藤直子",
+            "翻訳：本多由枝　林真子",
+            "録音・調整：吉本晋　首藤智愉",
+            "音響制作：東北新社",
+            "日本語吹き替え版制作：フジテレビジョン"
+        ],
+        "copyrights": [
+            "©bilibili",
+            "改編自小明太極作家裟椤双樹同名小説『百妖譜』"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1729144984,
+    "endAt": 1767193200,
+    "transcodeVersion": "2NCVy5",
+    "sharedLink": {
+        "twitter": "https://abema.app/gHN1",
+        "facebook": "https://abema.app/CPdE",
+        "google": "https://abema.app/ac2v",
+        "line": "https://abema.app/CLWY",
+        "copy": "https://abema.app/Ze3X",
+        "instagram": "https://abema.app/ycNt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-188_s2_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-188_s2_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-188_s2_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-188_s2_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1405.9879166666667
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-188_s2_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "19-188_eg0",
+    "skipVmap": true
+}

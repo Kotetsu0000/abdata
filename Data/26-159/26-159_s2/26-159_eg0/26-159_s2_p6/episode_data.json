@@ -1,0 +1,159 @@
+{
+    "id": "26-159_s2_p6",
+    "series": {
+        "id": "26-159",
+        "title": "時光代理人 -LINK CLICK- Ⅱ",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-159",
+            "filename": "thumb.png",
+            "query": "version=1713435561",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-159",
+            "filename": "portrait.png",
+            "query": "version=1713435561",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-159_s2",
+        "sequence": 2,
+        "name": "時光代理人 -LINK CLICK- Ⅱ",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1417
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "#06 李天希",
+        "content": "李凡から激しい暴力を受ける劉蘭。李天辰は怯える李天希の目を覆い、小さい頃に劉蘭がよく話してくれたおとぎ話を聞かせるのだった。\n気がつくと写真から出てヒカルの病室に戻っていたトキは、警察署に現れた“目撃者”との対話に向かう。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "トキ／程小時（チョン・シャオシー）：豊永利行",
+            "ヒカル／陸光（ルー･グアン）：櫻井孝宏",
+            "リン／喬苓（チャオ･リン）：古賀葵",
+            "銭進（チエン・ジン）：中村悠一"
+        ],
+        "crews": [
+            "監督・脚本：Haolin（リ・ハオリン）",
+            "キャラクターデザイン原案：INPLICK",
+            "総演出・総作画監督：LAN",
+            "美術監督：朝見知弥、朱立朴／ジュー・リープー",
+            "エグゼクティブ・ディレクター：張予夏／チャン・ユーシア 、陸婉玉／ルー・ワンユー",
+            "色彩設計：のぼりはるこ",
+            "音楽：天門、yuma yamaguchi、Kent watari、犬養奏",
+            "アニメーション制作：瀾映画",
+            "日本版製作：株式会社ソニー・ミュージックソリューションズ、株式会社アニプレックス"
+        ],
+        "copyrights": [
+            "(C)bilibili/BeDream"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1719816905,
+    "endAt": 1743433200,
+    "freeEndAt": 1729746000,
+    "transcodeVersion": "3dM5H3",
+    "sharedLink": {
+        "twitter": "https://abema.app/R4Dq",
+        "facebook": "https://abema.app/KjPr",
+        "google": "https://abema.app/yNXV",
+        "line": "https://abema.app/eQhA",
+        "copy": "https://abema.app/7txw",
+        "instagram": "https://abema.app/FWWj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-159_s2_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-159_s2_p6/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/26-159_s2_p6/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-159_s2_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-159_s2_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1345.719375,
+        "opening": {
+            "start": 113.69691666666667,
+            "end": 212.25370833333332
+        },
+        "ending": {
+            "start": 1345.719375,
+            "end": 1417.16575
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-159_s2_p7",
+        "title": "#07 市街戦",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719816905,
+        "endAt": 1743433200,
+        "freeEndAt": 1729746000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1729746000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-159_s2_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1729746000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "26-159_eg0",
+    "skipVmap": true
+}

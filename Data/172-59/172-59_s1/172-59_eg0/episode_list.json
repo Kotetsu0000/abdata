@@ -45,8 +45,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1729774620
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "172-59_s1_p3",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/172-59_s1_p3",
+            "filename": "thumb001.png",
+            "query": "version=1728652512",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 3,
+            "title": "第3話",
+            "content": "毎朝一番に会いたい人がいる――\n中高一貫のスポーツ強豪校・栄明高校に入学する、男子バドミントン部の一年生・猪股大喜。\n大喜は毎朝、朝練で顔を合わせる一つ上の先輩、鹿野千夏に恋をする。\n千夏は女子バスケットボール部のエースで、校内外問わず人気の高嶺の花。\n部活に恋に勉強に、大喜にとって忙しい高校生活がはじまる、そんなある日ーーー"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1729180800
+                    "endAt": 1730379420
                 }
             ],
             "broadcastRegionPolicy": 1,
