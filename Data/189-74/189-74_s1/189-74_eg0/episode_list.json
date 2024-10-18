@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-74_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1728652759",
+            "query": "version=1729226313",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-74_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1728652759",
+            "query": "version=1729226313",
             "extension": "png"
         },
         "episode": {
@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1729191600
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -61,21 +61,21 @@
         "id": "189-74_s1_p3",
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-74_s1_p3",
-            "filename": "thumb001.png",
-            "query": "version=1728652759",
+            "filename": "thumb002.png",
+            "query": "version=1729247236",
             "extension": "png"
         },
         "episode": {
             "number": 3,
-            "title": "第3話",
-            "content": "首都圏の旅行代理店、JTCの企画部に勤める拓也と莉香は、共に人付き合いが苦手で目立たないが、充実した一人生活を送っていた。ところが、アラスカ支店開設により1年後に独身者が優先で海外派遣されることになり、困った莉香は拓也にとある計画を持ちかけて……。ほとんどしゃべったこともない2人が、たったの365日後に結婚することに！？"
+            "title": "第3話 ピンチを、分かち合えますか？",
+            "content": "タクヤが結婚する噂を聞きつけた、タクヤの父・耕一が熊本の阿蘇からやってきてしまう。自分の生まれ故郷である熊本への想いを話す耕一に共感するリカと、自分にはどうにもできないとうんざりするタクヤ。結局タクヤは説明をするために実家に帰ることになり、リカは自分が口を出すことができないところまで問題が大きくなっていることに悩む。そんな時、タクヤは旅行代理店から人気の国であるリヒトブルクの王女・クラウディアのアテンドを依頼される。男好きという噂があるクラウディア王女だったが、彼女にはある秘密があって…。"
         },
         "type": 1,
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1729191600
+                    "onDemandType": 3,
+                    "endAt": 1729796400
                 }
             ],
             "broadcastRegionPolicy": 1,

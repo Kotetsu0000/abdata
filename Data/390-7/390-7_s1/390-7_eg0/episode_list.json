@@ -1553,8 +1553,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1729267200
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -1563,6 +1563,35 @@
         },
         "info": {
             "duration": 1691
+        }
+    },
+    {
+        "id": "390-7_s1_p198",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/390-7_s1_p198",
+            "filename": "thumb001.png",
+            "query": "version=1720580729",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 198,
+            "title": "「斉藤壮馬 Strange dayS」#198",
+            "content": "声優・斉藤壮馬が一人喋りでお送りするラジオ番組。\n番組では『気になるを気にする』をコンセプトに、\n日々の生活の中で、普段から“気になる”事が多い斉藤さんが感じている、\nいろんな疑問・わくわくする事をお話していきながら\n皆さんが“気になる”であろう、斉藤さん自身についての質問にもお答えしていきます。\n週末の夜、気になる事をどんどん共有して、\nちょっとだけ不思議な時間を過ごしませんか?"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1729872000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1709
         }
     }
 ]
