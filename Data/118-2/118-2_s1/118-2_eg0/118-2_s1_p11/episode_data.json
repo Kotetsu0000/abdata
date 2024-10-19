@@ -1,0 +1,162 @@
+{
+    "id": "118-2_s1_p11",
+    "series": {
+        "id": "118-2",
+        "title": "戦え！超ロボット生命体トランスフォーマー",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "thumb.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "portrait.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "118-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1381
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 フランケンシュタイン スパイク",
+        "content": "戦いに巻き込まれ負傷を負ったスパイクの身体を治療するため、彼の意識はスパークプラグがサイバトロン戦士のスペアパーツを寄せ集めて作った、フランケンシュタインの怪物のようなロボットへ転送されることに・・・"
+    },
+    "credit": {
+        "released": 1985,
+        "casts": [
+            "【サイバトロン戦士】",
+            "総司令官コンボイ：玄田哲章",
+            "マイスター副官：片岡弘貴 堀内賢雄",
+            "アイアンハイド：速水奨",
+            "ホイルジャック：阪脩",
+            "【デストロン軍団】",
+            "メガトロン：加藤精三",
+            "スタースクリーム：鈴置洋孝",
+            "サウンドウェーブ：政宗一成",
+            "フレンジー：城山知馨夫",
+            "レーザーウェーブ：島香裕",
+            "アストロトレイン：喜多川拓郎",
+            "スクラッパー：石井敏郎"
+        ],
+        "crews": [
+            "連載：テレビマガジン",
+            "演出：田島荘三",
+            "翻訳：平田勝茂",
+            "効果：新音響",
+            "選曲：村田好次",
+            "調整：近藤勝之",
+            "録音スタジオ：コスモスタジオ",
+            "VTRスタジオ：サウンドシティ・ビデオ",
+            "プロデューサー：諸橋健一（ムービーテレビジョン）",
+            "配給：ムービーテレビジョン、ビデオフィルム",
+            "日本語版制作：コスモプロモーション",
+            "協力：タカラ"
+        ],
+        "copyrights": [
+            "(C) TOMY"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727426241,
+    "endAt": 1761922800,
+    "transcodeVersion": "3Pd9R6",
+    "sharedLink": {
+        "twitter": "https://abema.app/P4Ci",
+        "facebook": "https://abema.app/1eeW",
+        "google": "https://abema.app/xpLD",
+        "line": "https://abema.app/uQUa",
+        "copy": "https://abema.app/Jd69",
+        "instagram": "https://abema.app/wq1g"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/118-2_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/118-2_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/118-2_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.118-2_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1321.32,
+        "opening": {
+            "end": 79.2792
+        },
+        "ending": {
+            "start": 1321.32,
+            "end": 1381.3466333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "118-2_s1_p12",
+        "title": "第12話 ソーラ・エネルギーを盗め",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1727426266,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/118-2_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "118-2_eg0",
+    "skipVmap": true
+}

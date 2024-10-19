@@ -74,8 +74,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 3,
+                    "endAt": 1735394400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1430
+        }
+    },
+    {
+        "id": "656-2_s1_p4",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/656-2_s1_p4",
+            "filename": "thumb001.png",
+            "query": "version=1728990025",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 4,
+            "title": "第4話",
+            "content": "大野晶は自身が運営する「INFINITY GAME」内のラスボス「魔王・九内伯斗」にログインしたまま、異世界へと飛ばされてしまう。そこで出会った謎の少女「アク」や聖女「ルナ」などのGAMEの配下や異世界で出会った仲間たちと共に着々と異世界での地盤を固めた彼は、現実世界に戻る術を探すべく新たな旅へ踏み出した。「魔王」を中心とした物語が再び動き出す……！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 1,
-                    "endAt": 1729346400
+                    "endAt": 1729951200
                 }
             ],
             "broadcastRegionPolicy": 1,

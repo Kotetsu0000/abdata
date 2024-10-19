@@ -364,8 +364,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1729344600
+                    "onDemandType": 1,
+                    "endAt": 1909494000
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -374,6 +374,35 @@
         },
         "info": {
             "duration": 1475
+        }
+    },
+    {
+        "id": "26-2mzbynr-cph_s100_p14",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-2mzbynr-cph_s100_p14",
+            "filename": "thumb002.png",
+            "query": "version=1729315009",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 14,
+            "title": "#14",
+            "content": "高校を卒業し、\n阿良々木暦の物語は終わった。\n今度こそ、本当に終わった。\n\nしかし暦に助けられた\n彼女たちの物語は、\n終わってはいなかった。\n\n青春の中でもがく彼女たちの、\n前日譚、あるいは後日談。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1729949400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1564
         }
     }
 ]

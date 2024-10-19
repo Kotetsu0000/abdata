@@ -1,0 +1,79 @@
+{
+    "id": "118-2",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "戦え！超ロボット生命体トランスフォーマー",
+    "content": "超ロボット生命体が住むセイバートロン星では、正義のサイバトロンと悪のデストロンが戦争を続けていた。戦争の影響によりエネルギーが枯渇してしまったセイバートロン星から脱出したサイバトロンの宇宙船を追ってデストロンの宇宙船が交戦となり、とある惑星に墜落してしまう。その惑星は遥か昔の地球であった。４００万年の時を経て、噴火した火山の影響で目覚めたトランスフォーマーたちは１９８５年の地球で戦いを繰り広げる。",
+    "seasons": [
+        {
+            "id": "118-2_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+                "filename": "thumb.png",
+                "query": "version=1729042075",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "118-2_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) TOMY"
+    ],
+    "label": {
+        "someFree": true,
+        "newest": true
+    },
+    "version": "1729042761760322923",
+    "imageUpdatedAt": 1729042075,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Hbg8",
+        "facebook": "https://abema.app/W4n5",
+        "google": "https://abema.app/Z2fb",
+        "line": "https://abema.app/o3R6",
+        "copy": "https://abema.app/oPJC",
+        "instagram": "https://abema.app/7T5G"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+        "filename": "thumb.png",
+        "query": "version=1729042075",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+        "filename": "portrait.png",
+        "query": "version=1729042075",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
