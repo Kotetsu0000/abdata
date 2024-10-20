@@ -6677,7 +6677,11 @@
             "duration": 1470
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 69,
@@ -6706,7 +6710,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1728988376,
+        "imageUpdatedAt": 1729396144,
         "endAt": 1777647600,
         "freeEndAt": 1729852200,
         "transcodeVersion": "4FS1G1",
