@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -294,7 +294,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p11",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -323,7 +323,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p12",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -352,7 +352,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p13",
             "filename": "thumb002.png",
-            "query": "version=1728989880",
+            "query": "version=1729507710",
             "extension": "png"
         },
         "episode": {
@@ -364,8 +364,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1369
+        }
+    },
+    {
+        "id": "143-49_s1_p14",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/143-49_s1_p14",
+            "filename": "thumb002.png",
+            "query": "version=1729507710",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 14,
+            "title": "第14話 嘘",
+            "content": "女王は敗退した賀来戦を前線から離脱させ、代わりに嘉藤騎士と璃莉兄妹、睦月冬哉の3人を召集する。睦月は深見率いる不良集団エンペラーを壊滅するが、その後現れたある人物に手玉に取られ捕縛される。一方篠崎はまだ幼い頼音のブレインとしての能力に疑問を抱く。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1729447200
+                    "endAt": 1730052000
                 }
             ],
             "broadcastRegionPolicy": 1,

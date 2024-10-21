@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/115-116_s1_p1",
             "filename": "thumb001.png",
-            "query": "version=1728989170",
+            "query": "version=1729506417",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/115-116_s1_p2",
             "filename": "thumb001.png",
-            "query": "version=1728989170",
+            "query": "version=1729506417",
             "extension": "png"
         },
         "episode": {
@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1729449000
+                    "onDemandType": 1,
+                    "endAt": 1790780400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -62,20 +62,20 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/115-116_s1_p3",
             "filename": "thumb001.png",
-            "query": "version=1728989170",
+            "query": "version=1729506417",
             "extension": "png"
         },
         "episode": {
             "number": 3,
-            "title": "第3話",
-            "content": "京大医学部を目指す高校生の上終瓜生。児童養護施設育ちの瓜生は、京都にある縁結びの神社「甘神神社」の宮司に引き取られ、居候をすることに。そこで待っていたのは、夜重、夕奈、朝姫の巫女三姉妹との同居生活！さらに居候の条件は「婿養子として神社を継ぐ」こと!?三姉妹とのお見合い、甘神神社に降りかかる難題…瓜生は乗り越えることができるのか…？一つ屋根の下、巫女たちと紡ぐ奇跡のラブコメディ！"
+            "title": "第3話『神様との逢瀬』",
+            "content": "紆余曲折はあったものの『家族』としてひとつ屋根の下の共同生活をスタートとさせた瓜生と甘神三姉妹。\nすると千鳥から『互いの親睦を深めるためにお見合いをするように』と命じられる。\n将来神社を継ぐ気はない瓜生は、お見合いに乗り気ではなく、また三姉妹も自分と同じく消極的だろうと予想するのだが、最初のお見合い相手である一番年下の朝姫は、意外にもお見合いに積極的。\n瓜生にぐいぐい迫っていくのだが……？"
         },
         "type": 1,
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1729449000
+                    "onDemandType": 3,
+                    "endAt": 1730053800
                 }
             ],
             "broadcastRegionPolicy": 1,

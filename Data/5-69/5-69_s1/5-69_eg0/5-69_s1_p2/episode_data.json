@@ -1,0 +1,133 @@
+{
+    "id": "5-69_s1_p2",
+    "series": {
+        "id": "5-69",
+        "title": "ドラゴンボールDAIMA",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-69",
+            "filename": "thumb.png",
+            "query": "version=1727690519",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-69",
+            "filename": "portrait.png",
+            "query": "version=1727690519",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-69_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話",
+        "content": "平和な日常を送っていた悟空たちは、突如、ある陰謀によって小さな姿に！\nその理由が「大魔界」と呼ばれる世界にあるらしきことを突き止めた一行のもとに、ミステリアスな少年魔人、グロリオがあらわれる！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "孫悟空：野沢雅子",
+            "界王神（ミニ）：小林由美子",
+            "グロリオ：内山昂輝",
+            "パンジ：ファイルーズあい",
+            "ゴマー：森久保祥太郎",
+            "デゲス：榎木淳弥",
+            "ドクター・アリンス：日笠陽子"
+        ],
+        "crews": [
+            "原作・ストーリー・キャラクターデザイン：鳥山明",
+            "シリーズディレクター：八島善孝　小牧文",
+            "アニメーションキャラクターデザイン：中鶴勝祥",
+            "シリーズ構成・脚本：柿原優子"
+        ],
+        "copyrights": [
+            "(C)バード・スタジオ／集英社・東映アニメーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1728988234,
+    "endAt": 1774969200,
+    "freeEndAt": 1730131200,
+    "transcodeVersion": "7BayQ5",
+    "sharedLink": {
+        "twitter": "https://abema.app/4QtN",
+        "facebook": "https://abema.app/4r4i",
+        "google": "https://abema.app/7RS5",
+        "line": "https://abema.app/t5Z9",
+        "copy": "https://abema.app/T2B1",
+        "instagram": "https://abema.app/g6pZ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-69_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-69_s1_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/5-69_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-69_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-69_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1365.0720416666666,
+        "opening": {
+            "start": 98.01458333333333,
+            "end": 188.062875
+        },
+        "ending": {
+            "start": 1365.0720416666666,
+            "end": 1425.0903333333333
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-69_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730131200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "5-69_eg0",
+    "skipVmap": true
+}

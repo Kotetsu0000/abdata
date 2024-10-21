@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1728988249",
+            "query": "version=1729507660",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1728988249",
+            "query": "version=1729507660",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1728988249",
+            "query": "version=1729507660",
             "extension": "png"
         },
         "episode": {
@@ -74,8 +74,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1450
+        }
+    },
+    {
+        "id": "25-276_s1_p4",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p4",
+            "filename": "thumb002.png",
+            "query": "version=1729507660",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 4,
+            "title": "第4話 ワルい男",
+            "content": "セキュリティ・チャンピオンシップ予選。ハルの想いに応えるように、ガクは100人の助っ人とともに次々と問題を解き進める。しかし、50位まで進んだガクの前に超難問が。上位のエリートハッカーたちもクリアできていないその問題に回答できるチャンスは、なんと一度きり。果たしてガクは、超難問を解き明かすことができるのか……!?"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1729450800
+                    "endAt": 1730055600
                 }
             ],
             "broadcastRegionPolicy": 1,
