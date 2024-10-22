@@ -1,0 +1,148 @@
+{
+    "id": "198-12_s1_p3",
+    "series": {
+        "id": "198-12",
+        "title": "魔法使いになれなかった女の子の話",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-12",
+            "filename": "thumb.png",
+            "query": "version=1728376517",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-12",
+            "filename": "portrait.png",
+            "query": "version=1728376517",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "198-12_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 私、マ研に入部しまーす！",
+        "content": "部活紹介が行われ、さまざまな部活・同好会に勧誘される一組の生徒たち。\n魔術研究部に入部しようと意気込むクルミだったが、マ組の生徒以外は入部できないとすげなく断られる。\nそこに声を掛けてきたのが、図書館の片隅で活動するマジック研究会の部長と副部長。二人は、秘密裏に学園の謎に関する調査を進めていた。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クルミ＝ミライ：菱川花菜",
+            "ユズ＝エーデル：山田美鈴",
+            "ミナミ＝スズキ：堀江由衣",
+            "マキ＝クミール：真野あゆみ",
+            "アスカ＝クルマル：林幸矢",
+            "キョウ＝クルマル：小林千晃"
+        ],
+        "crews": [
+            "原案：赤坂優月「魔法使いになれなかった女の子の話。」",
+            "総監督：渡部高志",
+            "監督：松根マサト",
+            "シリーズ構成・脚本：金杉弘子",
+            "キャラクター原案：星野リリィ",
+            "キャラクターデザイン：松浦麻衣",
+            "音楽：下村陽子",
+            "編曲：松尾早人、原口 大、 𠮷川美矩",
+            "音響監督：岩浪美和",
+            "美術監督：泉健太郎",
+            "色彩設計：舩橋美香",
+            "撮影監督：八木祐理奈",
+            "編集：須藤瞳",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(C)「まほなれ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1729580020,
+    "endAt": 1798729200,
+    "freeEndAt": 1730138400,
+    "transcodeVersion": "5Xx5GT",
+    "sharedLink": {
+        "twitter": "https://abema.app/WEXR",
+        "facebook": "https://abema.app/7wJJ",
+        "google": "https://abema.app/cPT6",
+        "line": "https://abema.app/QQYV",
+        "copy": "https://abema.app/UL1Z",
+        "instagram": "https://abema.app/cpBv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/198-12_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/198-12_s1_p3/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/198-12_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/198-12_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.198-12_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.0220416666666,
+        "opening": {
+            "start": 160.034875,
+            "end": 249.95804166666667
+        },
+        "ending": {
+            "start": 1315.0220416666666,
+            "end": 1404.9869166666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/198-12_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730138400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1798729200
+        }
+    ],
+    "episodeGroupId": "198-12_eg0",
+    "skipVmap": true
+}

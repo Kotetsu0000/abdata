@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p5",
             "filename": "thumb002.png",
-            "query": "version=1729488080",
+            "query": "version=1729579989",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p6",
             "filename": "thumb002.png",
-            "query": "version=1729488080",
+            "query": "version=1729579989",
             "extension": "png"
         },
         "episode": {
@@ -45,8 +45,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1761922800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 600
+        }
+    },
+    {
+        "id": "19-175_s2_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p7",
+            "filename": "thumb001.png",
+            "query": "version=1729579989",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "7日目",
+            "content": "其の一「放課後もっけ」\n宿直室に泊まっていた土籠は、\nもっけたちが大暴れする『放課後もっけ』という深夜番組を目にする。\n土籠は、遊びに来たヤコや花子くんと一緒に観るのだが、\nそれはあまりにも奇妙な番組だった。\n其の二「放課後の喫茶店」\n彼岸と此岸の狭間にある喫茶店の留守を預かり、マスターとなった花子くん。寧々と光にも手伝ってもらい、様子を見に来た土籠を接客することに。\nだがそのあまりのダメっぷりに土籠は……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1729566000
+                    "endAt": 1730170800
                 }
             ],
             "broadcastRegionPolicy": 1,

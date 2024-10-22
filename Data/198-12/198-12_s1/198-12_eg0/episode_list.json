@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1728990043",
+            "query": "version=1729580020",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1729072662",
+            "query": "version=1729580020",
             "extension": "png"
         },
         "episode": {
@@ -45,8 +45,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1798729200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "198-12_s1_p3",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p3",
+            "filename": "thumb002.png",
+            "query": "version=1729580020",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 3,
+            "title": "第3話 私、マ研に入部しまーす！",
+            "content": "部活紹介が行われ、さまざまな部活・同好会に勧誘される一組の生徒たち。\n魔術研究部に入部しようと意気込むクルミだったが、マ組の生徒以外は入部できないとすげなく断られる。\nそこに声を掛けてきたのが、図書館の片隅で活動するマジック研究会の部長と副部長。二人は、秘密裏に学園の謎に関する調査を進めていた。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1729533600
+                    "endAt": 1730138400
                 }
             ],
             "broadcastRegionPolicy": 1,

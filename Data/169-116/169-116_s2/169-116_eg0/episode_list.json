@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p1",
             "filename": "thumb002.png",
-            "query": "version=1729485096",
+            "query": "version=1729579949",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p2",
             "filename": "thumb002.png",
-            "query": "version=1729485096",
+            "query": "version=1729579949",
             "extension": "png"
         },
         "episode": {
@@ -55,6 +55,35 @@
         },
         "info": {
             "duration": 1426
+        }
+    },
+    {
+        "id": "169-116_s2_p3",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p3",
+            "filename": "thumb002.png",
+            "query": "version=1729579949",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 3,
+            "title": "第3話 狙われた我が家",
+            "content": "セリアと美春たちを預かってもらうため、精霊の民の里へ戻ったリオは、長老に美春たちのことを相談する中で、自分に前世の記憶があることを告白する。そんな彼にそっと寄り添うラティーファ。翌日、受け入れを承諾されたリオは、すぐに美春たちの元へ向かう。一方リーゼロッテは、坂田の元へ勇者をお披露目する夜会の招待状を届けに来ていた。時を同じくして、リオの帰りを待つ美春たちの元に謎の魔物・レヴァナントが迫っていた！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1729616400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1427
         }
     }
 ]
