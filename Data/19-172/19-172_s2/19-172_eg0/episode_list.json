@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-172_s2_p13",
             "filename": "thumb002.png",
-            "query": "version=1728988105",
+            "query": "version=1729580608",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-172_s2_p14",
             "filename": "thumb002.png",
-            "query": "version=1729073047",
+            "query": "version=1729580608",
             "extension": "png"
         },
         "episode": {
@@ -55,6 +55,35 @@
         },
         "info": {
             "duration": 1376
+        }
+    },
+    {
+        "id": "19-172_s2_p15",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-172_s2_p15",
+            "filename": "thumb002.png",
+            "query": "version=1729670354",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 15,
+            "title": "episode15 不幸をなかったことにしねえ限り、幸せなんてただの勘違いだろ",
+            "content": "１２年の時を経て再開されたカミエラビ。画面に表示されたラルの次の対戦相手はホノカだった。かつて敵対したこともある彼女について、ラルがエコに説明していると、偶然ホノカと鉢合わせてしまい、ゲーセンで話し合うことに。昔の戦いからホノカを警戒するラル。しかしホノカの口から語られたのは、戦う理由を見失った彼女の心境だった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1375
         }
     }
 ]
