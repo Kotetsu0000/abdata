@@ -1,0 +1,132 @@
+{
+    "id": "19-205_s1_p1",
+    "series": {
+        "id": "19-205",
+        "title": "青のミブロ",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-205",
+            "filename": "thumb.png",
+            "query": "version=1728181723",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-205",
+            "filename": "portrait.png",
+            "query": "version=1728181723",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-205_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 壬生浪と少年",
+        "content": "黒船の来航により、動乱が巻き起こる幕末の京都。団子屋で働く心優しい少年「ちりぬ にお」は、のちに新選組となる「壬生(みぶ)浪士組(ろうしぐみ)」、通称“ミブロ”の土方歳三、沖田総司と出会う。\n金も土地も命すら理不尽に奪われる時代。自らの正義を胸に、京の街を守る“ミブロ”の面々との出会いをきっかけに、ふつうの13歳の運命が、大きく動き出す！\n命懸けの“ド青春”新選組、開幕！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ちりぬ にお：梅田 修一朗",
+            "斎藤 はじめ：小林 千晃",
+            "田中 太郎 ：堀江 瞬",
+            "土方 歳三 ：阿座上 洋平",
+            "沖田 総司：小野 賢章",
+            "芹沢 鴨 ：竹内 良太",
+            "近藤 勇 ：杉田 智和"
+        ],
+        "crews": [
+            "原作：安田剛士「青のミブロ」（講談社「週刊少年マガジン」連載）",
+            "監督 ：羽原 久美子",
+            "シリーズ構成：猪原 健太",
+            "キャラクターデザイン：大場 優子、西田 美弥子",
+            "音響監督 ：亀山 俊樹",
+            "音楽 ：林 ゆうき",
+            "制作会社 ：ＭＡＨＯ ＦＩＬＭ"
+        ],
+        "copyrights": [
+            "(C)安田剛士・講談社／「青のミブロ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1729764740,
+    "endAt": 1774969200,
+    "freeEndAt": 1774969200,
+    "transcodeVersion": "5ZeBnb",
+    "sharedLink": {
+        "twitter": "https://abema.app/RY5R",
+        "facebook": "https://abema.app/utJk",
+        "google": "https://abema.app/2ttN",
+        "line": "https://abema.app/YvmG",
+        "copy": "https://abema.app/J74r",
+        "instagram": "https://abema.app/V48T"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-205_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-205_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-205_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-205_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-205_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.0170416666667,
+        "opening": {
+            "start": 61.436375,
+            "end": 150.98416666666665
+        },
+        "ending": {
+            "start": 1310.0170416666667,
+            "end": 1400.023625
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-205_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "19-205_eg0",
+    "skipVmap": true
+}
