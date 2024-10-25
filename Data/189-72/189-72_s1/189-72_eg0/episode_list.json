@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1729226396",
+            "query": "version=1729833164",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1729226396",
+            "query": "version=1729833164",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1729247067",
+            "query": "version=1729833164",
             "extension": "png"
         },
         "episode": {
@@ -75,6 +75,35 @@
             "terms": [
                 {
                     "onDemandType": 3,
+                    "endAt": 1729873800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1421
+        }
+    },
+    {
+        "id": "189-72_s1_p4",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p4",
+            "filename": "thumb001.png",
+            "query": "version=1729833164",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 4,
+            "title": "第4話 大事な事のはずなのに",
+            "content": "ヒカルは、アルマとの共同生活やARMSのメンバーとしての活動、そしてアキに付きまとわれる学校生活に振り回されていた。\nそんな中、今度はアルマを自分のものにしようとするカガミグループの御曹司、カガミ・ジュンがヒカルの学校に転入してくる。カガミはアルマの過去を知っている様子。ヒカルはアルマの記憶に関する手がかりを掴むため、なんとかカガミと話をしようとするが…。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
                     "endAt": 1729873800
                 }
             ],

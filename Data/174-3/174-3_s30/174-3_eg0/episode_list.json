@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/174-14_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1729226189",
+            "query": "version=1729832951",
             "extension": "png"
         },
         "episode": {
@@ -16,8 +16,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1729832400
+                    "onDemandType": 1,
+                    "endAt": 1730048400
                 }
             ],
             "broadcastRegionPolicy": 1,

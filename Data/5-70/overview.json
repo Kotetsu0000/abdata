@@ -1,0 +1,80 @@
+{
+    "id": "5-70",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "title": "ONE PIECE FAN LETTER",
+    "content": "海賊、麦わらのルフィが兄であるエースを失った頂上戦争から 2 年後のシャボンディ諸島。\nナミに強い憧れを持つ主人公の少女は小さな冒険へと出発する。これは ONE PIECE を「追い求めない」人々にスポットを当て、彼らの視点から麦わらの一味の再集結を描く群像劇。",
+    "seasons": [
+        {
+            "id": "5-70_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-70_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1729222346",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-70_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "（C）大崎知仁・尾田栄一郎／集英社・フジテレビ・東映アニメーション"
+    ],
+    "label": {
+        "newest": true
+    },
+    "version": "1729596495682131225",
+    "imageUpdatedAt": 1729222316,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/fPTr",
+        "facebook": "https://abema.app/qvL5",
+        "google": "https://abema.app/w4Ve",
+        "line": "https://abema.app/FvoS",
+        "copy": "https://abema.app/nAjr",
+        "instagram": "https://abema.app/WfeC"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-70",
+        "filename": "thumb.png",
+        "query": "version=1729222316",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-70",
+        "filename": "portrait.png",
+        "query": "version=1729222316",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
