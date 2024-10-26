@@ -1,0 +1,168 @@
+{
+    "id": "564-9_s1_p4",
+    "series": {
+        "id": "564-9",
+        "title": "休日のわるものさん",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-9",
+            "filename": "thumb.png",
+            "query": "version=1704358741",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/564-9",
+            "filename": "portrait.png",
+            "query": "version=1704358741",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "564-9_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 春くる街で",
+        "content": "ある新社会人の青年がコンビニで遅めの晩ごはんを物色していると、店内でどす黒いオーラを放つわるものさんと遭遇する。どうやら仕事終わりの楽しみにしていた中華まんの販売が終わってしまったらしい。わるものさん流「自分へのご褒美」を目の当たりにした青年は何を思うのか。そして町に春が訪れる頃、地球人が好んでいる花見を体験するため、わるものさんは桜の木がある公園へ。そこで不思議な少女と出会う。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "わるものさん（ショーグン）：浅沼晋太郎",
+            "ルーニー：斉藤壮馬",
+            "トリガー：中村悠一",
+            "アカツキレッド：石橋陽彩",
+            "ソウテンブルー：江口拓也",
+            "シノノメピンク：加隈亜衣",
+            "レイメイグリーン・空：山村響",
+            "レイメイグリーン・麦：山村響",
+            "ヨイヤミブラック：梅原裕一郎"
+        ],
+        "crews": [
+            "原作：森川 侑 (掲載「ガンガンpixiv」スクウェア・エニックス刊)",
+            "監督:小高義規",
+            "シリーズ構成:後藤みどり",
+            "キャラクターデザイン:島崎知美",
+            "美術監督:松本浩樹(アトリエPlatz)　有本妃査恵（アトリエPlatz）",
+            "色彩設計:大野嘉代子",
+            "撮影監督:長野慎一郎（LIGHTFOOT）",
+            "編集:藤本理子(岡安プロモーション)",
+            "音楽:信澤宣明",
+            "音響監督:山本浩司",
+            "音響制作:ダックスプロダクション",
+            "アニメーション制作：シンエイ動画 × SynergySP"
+        ],
+        "copyrights": [
+            "(C)森川侑／SQUARE ENIX・今日は休日委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1711971466,
+    "endAt": 1751295600,
+    "freeEndAt": 1730523600,
+    "transcodeVersion": "45Mc2w",
+    "sharedLink": {
+        "twitter": "https://abema.app/yFrn",
+        "facebook": "https://abema.app/BFQa",
+        "google": "https://abema.app/LVW1",
+        "line": "https://abema.app/Fhsv",
+        "copy": "https://abema.app/XLnj",
+        "instagram": "https://abema.app/gtvT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/564-9_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/564-9_s1_p4/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/564-9_s1_p4/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/564-9_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.564-9_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1309.9753333333333,
+        "opening": {
+            "end": 90.00658333333334
+        },
+        "ending": {
+            "start": 1309.9753333333333,
+            "end": 1400.023625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "564-9_s1_p5",
+        "title": "第5話 魔法少女は苦悩する。",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711971466,
+        "endAt": 1751295600,
+        "freeEndAt": 1730523600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1730523600
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/564-9_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730523600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "564-9_eg0",
+    "skipVmap": true
+}

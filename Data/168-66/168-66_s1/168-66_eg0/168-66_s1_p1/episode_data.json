@@ -1,0 +1,124 @@
+{
+    "id": "168-66_s1_p1",
+    "series": {
+        "id": "168-66",
+        "title": "劇場版ロックマンエグゼ 　光と闇の遺産",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-66",
+            "filename": "thumb.png",
+            "query": "version=1727252521",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-66",
+            "filename": "portrait.png",
+            "query": "version=1727252521",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-66_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3023
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "劇場版ロックマンエグゼ 　光と闇の遺産",
+        "content": "邪悪な電脳生命体・ネビュラグレイが「電脳世界」で始動。世界各地で非物質化現象が発生し、次々と「現実世界」が消滅していく。このまま、ネビュラグレイが完全体へと進化したとき、「現実世界」と「電脳世界」が逆転してしまう。そして、地球は消滅し、巨大な電脳空間へと変貌するのだ。世界の平和を守るネットセイバー・光熱斗は、パートナーのネットナビ・ロックマンとともに、ネビュラグレイを破壊しようとする。が、行く手を阻む者が・・・・・最強のネットナビ・フォルテだ。さらに、敵か味方か、正体不明のネットナビ・カーネルが現れる。世界の消滅を阻止するために、ロックマン史上最強のネットバトルが今、始まる！！"
+    },
+    "credit": {
+        "released": 2005,
+        "casts": [
+            "光 熱斗：比嘉久美子",
+            "ロックマン：木村亜希子",
+            "伊集院炎山：斎賀みつき",
+            "ブルース：松風雅也",
+            "ライカ：結城比呂",
+            "バレル：千葉一伸",
+            "光 祐一朗：川島得愛",
+            "カーネル：安元洋貴",
+            "フォルテ：根本圭子",
+            "Dr.リーガル：中多和宏",
+            "ネビュラグレイ：中多和宏"
+        ],
+        "crews": [
+            "原案：CAPCOM",
+            "監督：加戸誉夫",
+            "脚本：荒木憲一",
+            "キャラクターデザイン・総作画監督：石原満",
+            "撮影監督：広瀬勝利",
+            "音楽：鳴瀬シュウヘイ",
+            "音響監督：明田川 仁",
+            "アニメーション制作：XEBEC"
+        ],
+        "copyrights": [
+            "(C)CAPCOM・小学館・ShoPro・テレビ東京　(C)劇場版ロックマンエグゼ製作委員会2005"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725954755,
+    "endAt": 1761836400,
+    "transcodeVersion": "4G28GG",
+    "sharedLink": {
+        "twitter": "https://abema.app/XhRJ",
+        "facebook": "https://abema.app/BgjZ",
+        "google": "https://abema.app/11Yk",
+        "line": "https://abema.app/SVNf",
+        "copy": "https://abema.app/jRXF",
+        "instagram": "https://abema.app/dGYy"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/168-66_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/168-66_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/168-66_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-66_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 2852.8917083333336
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-66_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761836400
+        }
+    ],
+    "episodeGroupId": "168-66_eg0",
+    "skipVmap": true
+}
