@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-749_s1_p1",
             "filename": "thumb001.png",
-            "query": "version=1727831887",
+            "query": "version=1729679200",
             "extension": "png"
         },
         "episode": {
@@ -26,6 +26,35 @@
         },
         "info": {
             "duration": 1537
+        }
+    },
+    {
+        "id": "218-749_s1_p2",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-749_s1_p2",
+            "filename": "thumb001.png",
+            "query": "version=1729679200",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 2,
+            "title": "秋の冥土様。祭り〜放送記念SP後半戦〜",
+            "content": "このたび「ABEMA」にて特別番組『秋の冥土様。祭り〜放送記念SP後半戦〜』の独占放送が決定。メインキャスト4名が出演し、絶賛放送中の本作の魅力を深掘りしていきます。さらに、作品にちなんだバラエティー企画も実施いたします。\nなお『君は冥土様。』は、毎週土曜日夜25時30分より「ABEMAアニメチャンネル」にて地上波同時・単独先行放送中です。\n\n特別番組『秋の冥土様。祭り〜放送記念SP前半戦〜』も無料配信中となります。ぜひ一緒にお楽しみください。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1735657200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1542
         }
     }
 ]

@@ -74,8 +74,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1730026800
+                    "onDemandType": 1,
+                    "endAt": 1759244400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/420-57_s2_p28",
             "filename": "thumb001.png",
-            "query": "version=1729501714",
+            "query": "version=1730014074",
             "extension": "png"
         },
         "episode": {
@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1730026800
+                    "onDemandType": 3,
+                    "endAt": 1730631600
                 }
             ],
             "broadcastRegionPolicy": 1,
