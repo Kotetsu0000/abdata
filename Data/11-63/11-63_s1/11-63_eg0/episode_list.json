@@ -46,7 +46,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1730631600
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -75,7 +75,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1730631600
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -113,6 +113,35 @@
         },
         "info": {
             "duration": 1419
+        }
+    },
+    {
+        "id": "11-63_s1_p5",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/11-63_s1_p5",
+            "filename": "thumb002.png",
+            "query": "version=1730100666",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話",
+            "content": "同じゼミの女子・蘇芳さんに合コンに誘われた大学生の常盤は、同じく合コン初体験の友人・浅葱と萩の２人を連れて、胸を高鳴らせながら待ち合わせの居酒屋へ。女性陣が先に店に着いたことを知って、待たせてはいけないと急いで席に向うと…そこには、眩く輝くほどイケメンな３人の姿が。男６人と女０人の少し違った合コンが今始まる!?"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1730478600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
         }
     }
 ]

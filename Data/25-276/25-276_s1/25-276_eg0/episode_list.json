@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1729507660",
+            "query": "version=1730102885",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1729507660",
+            "query": "version=1730102885",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1729507660",
+            "query": "version=1730102885",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1729507660",
+            "query": "version=1730102886",
             "extension": "png"
         },
         "episode": {
@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1730055600
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -113,6 +113,35 @@
         },
         "info": {
             "duration": 1450
+        }
+    },
+    {
+        "id": "25-276_s1_p5",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p5",
+            "filename": "thumb002.png",
+            "query": "version=1730102886",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話 乙女の眼差し",
+            "content": "セキュリティ・チャンピオンシップの決勝戦に、ハルは神主姿で現れた。意表を突く姿に翻弄されるガクに、「スタートダッシュは一分待て」とハルが伝える。決勝戦の内容は、敵チームにハッキングをしてポイントを奪っていくというもの。ガクたちはドラゴンバンクの精鋭をはじめ、様々なチームに開始前から目を付けられていて……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1730660400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1449
         }
     }
 ]
