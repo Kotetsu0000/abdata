@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1729579966",
+            "query": "version=1730193287",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1729579966",
+            "query": "version=1730193288",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1729670483",
+            "query": "version=1730193288",
             "extension": "png"
         },
         "episode": {
@@ -74,8 +74,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "26-230_s1_p4",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p4",
+            "filename": "thumb001.png",
+            "query": "version=1730193288",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 4,
+            "title": "第4話",
+            "content": "八郎とシュラの先祖・霧隠辰子の契約により、力を得る代わりに先祖代々三十路に死ぬことが決まっている。シュラは、自身の背負う運命を燐と雪男に語った。未練は何もないと語るシュラだったが、納得できない燐は八郎を倒そうと提案。しかし、シュラが八郎に連れ去られてしまう。救出のため燐と雪男は八郎のもとに向かうが、そこには八郎の催眠能力によって操られたシュラがいた。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1730170800
+                    "endAt": 1730775600
                 }
             ],
             "broadcastRegionPolicy": 1,

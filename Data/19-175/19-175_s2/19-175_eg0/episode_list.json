@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p5",
             "filename": "thumb002.png",
-            "query": "version=1729579989",
+            "query": "version=1730193263",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p6",
             "filename": "thumb002.png",
-            "query": "version=1729579989",
+            "query": "version=1730193263",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p7",
             "filename": "thumb002.png",
-            "query": "version=1729671783",
+            "query": "version=1730193263",
             "extension": "png"
         },
         "episode": {
@@ -74,8 +74,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1761922800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 600
+        }
+    },
+    {
+        "id": "19-175_s2_p8",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-175_s2_p8",
+            "filename": "thumb001.png",
+            "query": "version=1730193263",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 8,
+            "title": "8日目",
+            "content": "「ゴーストホテル」\n真っ暗な森を彷徨い、寧々がたどり着いたのは、\n不気味な『ゴーストホテル』だった。\n中にいる従業員や客人は奇妙な人たちばかり。\nさらに何か大事なことを忘れている気がして……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1730170800
+                    "endAt": 1730775600
                 }
             ],
             "broadcastRegionPolicy": 1,

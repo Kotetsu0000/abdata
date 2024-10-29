@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/13-190_s1_p1",
             "filename": "thumb001.png",
-            "query": "version=1728526498",
+            "query": "version=1730193321",
             "extension": "png"
         },
         "episode": {
@@ -26,6 +26,35 @@
         },
         "info": {
             "duration": 1380
+        }
+    },
+    {
+        "id": "13-190_s1_p2",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/13-190_s1_p2",
+            "filename": "thumb001.png",
+            "query": "version=1730193321",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 2,
+            "title": "第2話",
+            "content": "インフルエンサーであるニイカの動画配信に付き合うことになったウィンは、なぜかついてきたクリスタと3人でキャンプに向かうことに。ウィンの記憶を取り戻そうと画策するクリスタと、そんな彼女の素性を怪しむニイカ。二人が火花を散らす中、ウィンの意識に謎の声が語りかける。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1730775600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1462
         }
     }
 ]

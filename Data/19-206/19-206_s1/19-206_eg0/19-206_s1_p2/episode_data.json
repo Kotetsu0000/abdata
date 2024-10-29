@@ -1,0 +1,148 @@
+{
+    "id": "19-206_s1_p2",
+    "series": {
+        "id": "19-206",
+        "title": "ねこに転生したおじさん",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-206",
+            "filename": "thumb.png",
+            "query": "version=1728186267",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-206",
+            "filename": "portrait.png",
+            "query": "version=1728186267",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-206_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 82
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 ニャンだっけ",
+        "content": "ねこになってしまったものの、どうしたら良いかわからないおじさんだったが……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "おじさん：亀岡孝洋",
+            "プンちゃん：花澤香菜",
+            "社長：関智一",
+            "てぷちゃん：大橋彩香",
+            "糸柳先生：津田健次郎"
+        ],
+        "crews": [
+            "原作：やじま",
+            "監督：りお　川越崇弘",
+            "キャラクターデザイン：りお",
+            "アニメーション制作：スタジオエイトカラーズ",
+            "色彩設計：千崎美賀子",
+            "撮影監督：中野遼太郎",
+            "編集：小町直",
+            "音響監督：川越崇弘",
+            "音響制作：tuple",
+            "音楽：イトケン",
+            "音楽制作協力：ノーヴォ"
+        ],
+        "copyrights": [
+            "(C)やじま/ねこおじ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730192879,
+    "endAt": 1790780400,
+    "transcodeVersion": "5yU2u2",
+    "sharedLink": {
+        "twitter": "https://abema.app/CEih",
+        "facebook": "https://abema.app/NXWF",
+        "google": "https://abema.app/TYQa",
+        "line": "https://abema.app/HZih",
+        "copy": "https://abema.app/QjGU",
+        "instagram": "https://abema.app/ERdR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-206_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-206_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-206_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-206_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 77.11870833333333,
+        "ending": {
+            "start": 77.11870833333333,
+            "end": 82.082
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-206_s1_p3",
+        "title": "第3話 プロポーズ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730192879,
+        "endAt": 1790780400,
+        "freeEndAt": 1730696400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1730696400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-206_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1790780400
+        }
+    ],
+    "episodeGroupId": "19-206_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,141 @@
+{
+    "id": "13-190_s1_p2",
+    "series": {
+        "id": "13-190",
+        "title": "Duel Masters LOST ～追憶の水晶～",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-190",
+            "filename": "thumb.png",
+            "query": "version=1727854282",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-190",
+            "filename": "portrait.png",
+            "query": "version=1727854282",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-190_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1462
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話",
+        "content": "インフルエンサーであるニイカの動画配信に付き合うことになったウィンは、なぜかついてきたクリスタと3人でキャンプに向かうことに。ウィンの記憶を取り戻そうと画策するクリスタと、そんな彼女の素性を怪しむニイカ。二人が火花を散らす中、ウィンの意識に謎の声が語りかける。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "斬札ウィン：鵜澤正太郎",
+            "アビスベル＝ジャシン帝：羽多野 渉",
+            "ニイカ：菱川花菜",
+            "クリスタ：井上ほの花"
+        ],
+        "crews": [
+            "原作：松本しげのぶ×作画",
+            "ストーリー原案：松本しげのぶ",
+            "キャラクターデザイン原案：金林 洋",
+            "監督：福島利規",
+            "シリーズ構成：加藤陽一",
+            "キャラクターデザイン：橋詰 力",
+            "美術監督：明石聖子",
+            "色彩設計：石川恭介",
+            "撮影監督：茂木智孝",
+            "CGディレクター：田所洋行",
+            "音響監督：高寺たけし",
+            "音楽：坂部 剛",
+            "主題歌：月詠み「ナラティブ」",
+            "アニメーション制作統括：松倉友二",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "TM and (C)2024, Wizards of the Coast, Shogakukan, WHC, ShoPro"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1730193321,
+    "endAt": 1774969200,
+    "freeEndAt": 1730775600,
+    "transcodeVersion": "4ije14",
+    "sharedLink": {
+        "twitter": "https://abema.app/xrY1",
+        "facebook": "https://abema.app/dM8V",
+        "google": "https://abema.app/ahGa",
+        "line": "https://abema.app/mjJ1",
+        "copy": "https://abema.app/3rmZ",
+        "instagram": "https://abema.app/3W95"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-190_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-190_s1_p2/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/13-190_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-190_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-190_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1371.0363333333332,
+        "opening": {
+            "start": 140.2401,
+            "end": 229.99643333333333
+        },
+        "ending": {
+            "start": 1371.0363333333332,
+            "end": 1462.4276333333332
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-190_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1730775600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "13-190_eg0",
+    "skipVmap": true
+}
