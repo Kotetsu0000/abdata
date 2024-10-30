@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-172_s2_p13",
             "filename": "thumb002.png",
-            "query": "version=1729580608",
+            "query": "version=1730193242",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-172_s2_p14",
             "filename": "thumb002.png",
-            "query": "version=1729580608",
+            "query": "version=1730193242",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-172_s2_p15",
             "filename": "thumb002.png",
-            "query": "version=1729670354",
+            "query": "version=1730193242",
             "extension": "png"
         },
         "episode": {
@@ -84,6 +84,35 @@
         },
         "info": {
             "duration": 1375
+        }
+    },
+    {
+        "id": "19-172_s2_p16",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-172_s2_p16",
+            "filename": "thumb002.png",
+            "query": "version=1730287062",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 16,
+            "title": "episode16 あなただけは、絶対に神様にしたくありませんから",
+            "content": "なんとかゴローを復活させようと考えるラル。しかし、その手段を試すには人の見た目や記憶を再現できる力が必要だった。エコの協力で、１２年前にその力でフタナイヨとして成り代わったイヨと再会したラルは彼女に協力を頼むが、イヨの力では“魂”まで模倣することはできないという。さらに、イヨはもうひとつ問題があるというのだが……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1376
         }
     }
 ]
