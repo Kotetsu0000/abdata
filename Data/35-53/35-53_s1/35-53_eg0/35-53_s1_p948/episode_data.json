@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p948",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 948,
+        "title": "#948 恐怖のディナーショー２",
+        "content": "ジャイアンが“ディナーショー”を開くと言い出した。歌をたっぷり聞かせるのはもちろん、特製（とくせい）の手作り料理をふるまうと言って大ハリキリ！ ジャイアンから、「チケットを１００枚用意したからみんなに売るように」とたのまれたのび太は、イヤイヤながらもみんなの家をまわるが、スネ夫には海外旅行に行くからとことわられ、ほかのみんなも仮病（けびょう）と居留守（いるす）ばかり…。\n　そんな中、ただひとりチケットを買ってくれた出木杉から、なんとかディナーショーをやめさせる方法のヒントをもらったのび太は、ジャイアンのママに言いつけておこってもらおうと考える。ところが、ジャイアンの両親は温泉（おんせん）へ行っていることがわかり、ガッカリ…。\n　そこでドラえもんは、『お天気ボックス』を取り出し、大嵐（あらし）でディナーショーを中止に追いこもうと思いつく。はたしてのび太とドラえもんは、恐怖（きょうふ）のディナーショーを中止することはできるのか…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335978,
+    "endAt": 1751295600,
+    "transcodeVersion": "4hLv9g",
+    "sharedLink": {
+        "twitter": "https://abema.app/nnYQ",
+        "facebook": "https://abema.app/UaAi",
+        "google": "https://abema.app/SWir",
+        "line": "https://abema.app/kj7N",
+        "copy": "https://abema.app/Gipe",
+        "instagram": "https://abema.app/gkUq"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p948/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p948/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p948/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p948"
+    },
+    "viewingPoint": {
+        "suggestion": 639.88925
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p949",
+        "title": "#949 ガワラオニ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335978,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p948/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0",
+    "skipVmap": true
+}

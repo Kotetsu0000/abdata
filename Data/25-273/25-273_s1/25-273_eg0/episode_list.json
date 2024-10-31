@@ -103,8 +103,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1798729200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1419
+        }
+    },
+    {
+        "id": "25-273_s1_p5",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-273_s1_p5",
+            "filename": "thumb001.png",
+            "query": "version=1729833873",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話",
+            "content": "多額の借金を抱え、さらに医者から余命2年を宣告された大学生、佐々木常宏。\n鬱々とした日々を過ごす常宏は、ある日借金取りに追われ海に転落したところを、\n釣り好きの少女ハナとその釣り仲間の貴明たちに助けられる。\n\nハナに勧められるまま人生初の釣りを経験し、その釣り仲間とも親交を深める常宏。\nハナや貴明の働くコンビニでバイトも始め、難解な釣り用語や生アミの匂いに苦戦しながらも、徐々に釣りにハマっていく。\n\n手元に伝わるアタリは、生の実感――。\n\n転落し続け世界を見上げるだけの人生は、そう簡単に変わらない。そんな常宏が釣りを通して見つけたものとは……？"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1730383200
+                    "endAt": 1730988000
                 }
             ],
             "broadcastRegionPolicy": 1,

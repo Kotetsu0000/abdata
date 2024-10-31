@@ -1,0 +1,112 @@
+{
+    "id": "35-53_s1_p950",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 950,
+        "title": "#950 チョージャワラシベ",
+        "content": "野球のグローブがボロボロになってしまったので、新しいものがほしいと言い出すのび太。それを聞いたドラえもんは、ほしいからといって手に入ると思うなとクギをさすが、のび太は、「かんたんに手に入れたいとは思わない。少しはむずかしくてもいい」とあきらめない。\n　ドラえもんはしかたなく、『チョージャワラシベ』を取り出す。これを持ってうろうろしていると願いがかなうというのだ。ためしにドラえもんがワラシベを持って「どら焼きが食べたい」と言い、うろうろ歩き出したところ、クシャミをしたかったパパがワラシベをほしがり、かわりにひろった小さなガラス玉をくれる。\n　その後、何かをさがしているママが、ドラえもんが持っているガラス玉を見て、大よろこび。ガラス玉はママのスーツのボタンだったのだ。よろこんだママは、戸だなに置いてあるどら焼きをくれ、ドラえもんはどら焼きを手に入れることに成功する。\n　のび太も新品のグローブを手に入れようと、ワラシベを手にはりきって出かけていくが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335978,
+    "endAt": 1751295600,
+    "transcodeVersion": "vJ24B",
+    "sharedLink": {
+        "twitter": "https://abema.app/Vff6",
+        "facebook": "https://abema.app/KXCq",
+        "google": "https://abema.app/kL1t",
+        "line": "https://abema.app/zD9N",
+        "copy": "https://abema.app/6s9V",
+        "instagram": "https://abema.app/TxC5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p950/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p950/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p950/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p950"
+    },
+    "viewingPoint": {
+        "suggestion": 639.9309583333334
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p950/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0",
+    "skipVmap": true
+}
