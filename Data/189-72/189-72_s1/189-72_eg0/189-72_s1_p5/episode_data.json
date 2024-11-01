@@ -1,0 +1,137 @@
+{
+    "id": "189-72_s1_p5",
+    "series": {
+        "id": "189-72",
+        "title": "メカウデ",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-72",
+            "filename": "thumb.png",
+            "query": "version=1727421319",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-72",
+            "filename": "portrait.png",
+            "query": "version=1727421319",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-72_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1422
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 なんか隠してない？",
+        "content": "家族の仇であるワーム型のメカウデ使いを追い詰めたアキ。\nしかしその正体は、事故に巻き込まれて死んだはずの双子の妹・フブキであった。\n思いがけない再会とフブキから明かされる事故の真相に戸惑うアキに、さらなる残酷な事実が明かされる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ヒカル：豊永利行",
+            "アルマ：杉田智和",
+            "アキ：嶋村 侑",
+            "シニス＆デキス：石川界人",
+            "カガミ：朴 璐美",
+            "トウドウ：天月",
+            "エルジス：東地宏樹",
+            "フィスト：中村悠一",
+            "フブキ：悠木 碧",
+            "アマリリス：日笠陽子"
+        ],
+        "crews": [
+            "原案・監督：オカモト",
+            "シリーズ構成：中西やすひろ/TriF",
+            "キャラクターデザイン：西位輝実/内田陽子",
+            "メカウデデザイン・コンセプトアート：塗壁",
+            "3DCG監督：河村翔太",
+            "音響監督：高寺たけし",
+            "音楽： 澤野弘之/KOHTA YAMAMOTO/DAIKI(AWSM.)",
+            "総監修：松山洋（CyberConnect2）",
+            "アニメーション制作：TriFスタジオ"
+        ],
+        "copyrights": [
+            "(C)TriF/「メカウデ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730454154,
+    "endAt": 1798729200,
+    "transcodeVersion": "2a7Ejz",
+    "sharedLink": {
+        "twitter": "https://abema.app/Ktz9",
+        "facebook": "https://abema.app/JXdG",
+        "google": "https://abema.app/HDWY",
+        "line": "https://abema.app/JDm8",
+        "copy": "https://abema.app/Ku6P",
+        "instagram": "https://abema.app/nVF7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/189-72_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/189-72_s1_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/189-72_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-72_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1417.040625,
+        "opening": {
+            "start": 73.99058333333333,
+            "end": 163.99716666666666
+        },
+        "ending": {
+            "start": 1310.05875,
+            "end": 1399.9819166666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-72_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1730478600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1731083400
+        }
+    ],
+    "episodeGroupId": "189-72_eg0",
+    "skipVmap": true
+}

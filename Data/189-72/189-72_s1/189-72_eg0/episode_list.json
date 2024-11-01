@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1729833164",
+            "query": "version=1730454154",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1729833164",
+            "query": "version=1730454154",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1729833164",
+            "query": "version=1730454154",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1730006930",
+            "query": "version=1730454154",
             "extension": "png"
         },
         "episode": {
@@ -113,6 +113,35 @@
         },
         "info": {
             "duration": 1421
+        }
+    },
+    {
+        "id": "189-72_s1_p5",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p5",
+            "filename": "thumb001.png",
+            "query": "version=1730454154",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話 なんか隠してない？",
+            "content": "家族の仇であるワーム型のメカウデ使いを追い詰めたアキ。\nしかしその正体は、事故に巻き込まれて死んだはずの双子の妹・フブキであった。\n思いがけない再会とフブキから明かされる事故の真相に戸惑うアキに、さらなる残酷な事実が明かされる。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1730478600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1422
         }
     }
 ]

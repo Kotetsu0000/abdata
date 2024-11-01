@@ -4913,9 +4913,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1718175026,
         "endAt": 1740754800,
+        "freeEndAt": 1731099600,
         "transcodeVersion": "4zQwG7",
         "sharedLink": {
             "twitter": "https://abema.app/Q8Bt",
@@ -4939,8 +4942,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1730437200
+                "onDemandType": 3,
+                "endAt": 1731099600
             }
         ],
         "episodeGroupId": "5-3msirsichei_eg0"
@@ -5011,9 +5014,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1718875865,
         "endAt": 1740754800,
+        "freeEndAt": 1731099600,
         "transcodeVersion": "3Dnyjx",
         "sharedLink": {
             "twitter": "https://abema.app/ghz5",
@@ -5037,8 +5043,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1730437200
+                "onDemandType": 3,
+                "endAt": 1731099600
             }
         ],
         "episodeGroupId": "5-3msirsichei_eg0"

@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-70_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1729833050",
+            "query": "version=1730454146",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-70_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1729833050",
+            "query": "version=1730454146",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-70_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1729833050",
+            "query": "version=1730454146",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-70_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1729833050",
+            "query": "version=1730454146",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-70_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1730006808",
+            "query": "version=1730454146",
             "extension": "png"
         },
         "episode": {
@@ -134,6 +134,35 @@
                 {
                     "onDemandType": 3,
                     "endAt": 1731499200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1422
+        }
+    },
+    {
+        "id": "189-70_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-70_s1_p6",
+            "filename": "thumb001.png",
+            "query": "version=1730454146",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話 再びぼっちへ",
+            "content": "身分証を手に入れた遥は委員長たちの目を盗み、再び街の外へと向かう。その道中、不審な血痕があり辿っていくと、瀕死の脳筋莫迦たちが。ついに委員長の「強奪」を狙っている生徒の正体が判明し――。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1730991600
                 }
             ],
             "broadcastRegionPolicy": 1,
