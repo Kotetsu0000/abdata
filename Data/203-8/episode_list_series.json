@@ -490,7 +490,14 @@
             "duration": 1420
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003",
+                "thumb004",
+                "thumb005",
+                "thumb006"
+            ]
         },
         "episode": {
             "number": 5,
@@ -533,7 +540,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1730104430,
+        "imageUpdatedAt": 1730536158,
         "endAt": 1767193200,
         "freeEndAt": 1731078000,
         "transcodeVersion": "7BGgBx",

@@ -1,0 +1,152 @@
+{
+    "id": "643-1_s1_p6",
+    "series": {
+        "id": "643-1",
+        "title": "夫婦交歓～戻れない夜～【オンエア版】",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/643-1",
+            "filename": "thumb.png",
+            "query": "version=1688976536",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/643-1",
+            "filename": "portrait.png",
+            "query": "version=1688976536",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "643-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 210
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "#6 咎あれど",
+        "content": "三泊四日の旅行も最終日。朝日で目覚めた礼司の隣には、肌も露わに寝乱れている明日歌の姿があった。本来なら見てはいけないその無防備な姿に、礼司は夫婦交換の決着を胸に決める。\n「お互い、なにがあったか全て話し合う。そうすればわだかまりなく元の関係に戻れるはずだ」と明日歌に断言するが、明日歌は「先輩、ほんとわかってない…私の気持ちも、奏さんの気持ちも…」と悲しげに言うのだった。\nそんな時、朝食のため呼びにやってきた奏が部屋の扉の前までやってくる。応対に向かった礼司だったが、すぐそこに奏がいるというのに明日歌が…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "鈴川礼司：あさぎ夕",
+            "鈴川奏：餅梨あむ",
+            "美原明日歌：八ッ橋しなもん",
+            "美原幸祐：黒井多飛岡"
+        ],
+        "crews": [
+            "原作著者：ペーター・ミツル",
+            "監督：則座誠",
+            "シリーズ構成：黒崎エーヨ",
+            "キャラクターデザイン：橋本真希",
+            "総作画監督：橋本真希",
+            "色彩設計：川延彼方",
+            "美術設定：佐藤桃子",
+            "美術監督：佐藤桃子",
+            "撮影監督：鳳凰院修羅苦羅・友沢匠人",
+            "編集：新海コウキ",
+            "音響監督：ひらさわひさよし",
+            "音響制作：スタジオマウス",
+            "アニメーション制作：studio HōKIBOSHI",
+            "製作：彗星社"
+        ],
+        "copyrights": [
+            "(C)ペーター・ミツル／Suiseisha Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1693825268,
+    "endAt": 1764514800,
+    "transcodeVersion": "25djRz",
+    "sharedLink": {
+        "twitter": "https://abema.app/vQuf",
+        "facebook": "https://abema.app/tyVS",
+        "google": "https://abema.app/9qrR",
+        "line": "https://abema.app/FtdL",
+        "copy": "https://abema.app/csVy",
+        "instagram": "https://abema.app/mfVT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/643-1_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/643-1_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/643-1_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.643-1_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 205.001456
+    },
+    "nextProgramInfo": {
+        "programId": "643-1_s1_p7",
+        "title": "#7 我がつまひとり",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1693825268,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/643-1_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "643-1_eg0",
+    "skipVmap": true
+}

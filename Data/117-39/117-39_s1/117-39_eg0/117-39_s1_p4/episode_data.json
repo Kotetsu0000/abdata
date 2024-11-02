@@ -1,0 +1,152 @@
+{
+    "id": "117-39_s1_p4",
+    "series": {
+        "id": "117-39",
+        "title": "G-onらいだーす",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "thumb.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "portrait.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-39_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1373
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 4,
+        "title": "Glass.4　特訓ド真中！",
+        "content": "チームの結束を高めるため温泉へ合宿にやって来たライダース一行。３人の心がひとつになれば倒せるという「木人くんZ」を相手に特訓を開始するが、まるで歯が立たない。足手まといにならず、皆と仲良くなるためには自分にも必殺技が必要だと考えたユウキは、１人山奥へ入っていく。偶然同じ旅館へ慰安旅行に来ていた下請会社一行。ヤヨイと鉢合わせしてしまったアイは…。（登場ファンシー獣：ねこ＆ハート型）"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "倉間ユウキ：島 涼香",
+            "嵐山セーラ：南 央美",
+            "星川ヤヨイ：倉田雅世",
+            "マコ：水橋かおり",
+            "パオ：町井美紀",
+            "アイ：上村貴子",
+            "ゼロ：田村ゆかり",
+            "鯨井仙三郎：堀内賢雄",
+            "真田ミオ：久川 綾",
+            "本郷一朗：檜山修之",
+            "ファンシー獣：浅野真澄",
+            "リロ：釘宮理恵、ほか"
+        ],
+        "crews": [
+            "原作：KATSUZO、TNK",
+            "監督：木村真一郎",
+            "シリーズ構成：水上清資",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "メカニックデザイン：森木靖泰",
+            "美術監督：吉原俊一郎（美峰）",
+            "撮影監督：岡崎英夫",
+            "音響監督：髙橋秀雄",
+            "音楽：山中紀昌",
+            "アニメーション制作：ティー・エヌ・ケー、シャフト",
+            "製作協力：ビックウエスト",
+            "製作：G-on PROJECT"
+        ],
+        "copyrights": [
+            "(C)KATSUZO／G-on PROJECT"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727417256,
+    "endAt": 1761922800,
+    "transcodeVersion": "25PW8b",
+    "sharedLink": {
+        "twitter": "https://abema.app/nCp7",
+        "facebook": "https://abema.app/3gTE",
+        "google": "https://abema.app/CG6z",
+        "line": "https://abema.app/bw7D",
+        "copy": "https://abema.app/iJ9k",
+        "instagram": "https://abema.app/ySn1"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/117-39_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/117-39_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/117-39_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-39_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1273.0634583333333,
+        "opening": {
+            "start": 31.031,
+            "end": 120.995875
+        },
+        "ending": {
+            "start": 1273.0634583333333,
+            "end": 1363.0700416666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-39_s1_p5",
+        "title": "Glass.5　ヤヨイ一直線",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727417286,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-39_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "117-39_eg0",
+    "skipVmap": true
+}

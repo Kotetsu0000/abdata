@@ -1,0 +1,156 @@
+{
+    "id": "643-1_s1_p1",
+    "series": {
+        "id": "643-1",
+        "title": "夫婦交歓～戻れない夜～【オンエア版】",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/643-1",
+            "filename": "thumb.png",
+            "query": "version=1688976536",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/643-1",
+            "filename": "portrait.png",
+            "query": "version=1688976536",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "643-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 210
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "#1 彼のつまと",
+        "content": "「私たちもシちゃう？」――礼司は妻の奏、親友夫婦の幸祐・明日歌と、三泊四日で旅館を訪れていた。その初日、夕食の席で親友夫婦が口論になり、酔った明日歌に部屋を連れ出されてしまう。しかし、２か月禁欲中の礼司の目的は、妻との子作り。どうにか明日歌をなだめて元の部屋へ。ところが、中から貞淑な奏の荒い吐息が聞こえてきて…。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "鈴川礼司：あさぎ夕",
+            "鈴川奏：餅梨あむ",
+            "美原明日歌：八ッ橋しなもん",
+            "美原幸祐：黒井多飛岡"
+        ],
+        "crews": [
+            "原作著者：ペーター・ミツル",
+            "監督：則座誠",
+            "シリーズ構成：黒崎エーヨ",
+            "キャラクターデザイン：橋本真希",
+            "総作画監督：橋本真希",
+            "色彩設計：川延彼方",
+            "美術設定：佐藤桃子",
+            "美術監督：佐藤桃子",
+            "撮影監督：鳳凰院修羅苦羅・友沢匠人",
+            "編集：新海コウキ",
+            "音響監督：ひらさわひさよし",
+            "音響制作：スタジオマウス",
+            "アニメーション制作：studio HōKIBOSHI",
+            "製作：彗星社"
+        ],
+        "copyrights": [
+            "(C)ペーター・ミツル／Suiseisha Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1693825268,
+    "endAt": 1764514800,
+    "freeEndAt": 1764514800,
+    "transcodeVersion": "2KuSX5",
+    "sharedLink": {
+        "twitter": "https://abema.app/rN2h",
+        "facebook": "https://abema.app/3rKn",
+        "google": "https://abema.app/6rtW",
+        "line": "https://abema.app/bDje",
+        "copy": "https://abema.app/cpTT",
+        "instagram": "https://abema.app/DH6U"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/643-1_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/643-1_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/643-1_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/643-1_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.643-1_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 205.001456
+    },
+    "nextProgramInfo": {
+        "programId": "643-1_s1_p2",
+        "title": "#2 過ちありて",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1693825268,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/643-1_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "643-1_eg0",
+    "skipVmap": true
+}

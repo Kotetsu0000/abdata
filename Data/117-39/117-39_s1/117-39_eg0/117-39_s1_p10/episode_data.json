@@ -1,0 +1,152 @@
+{
+    "id": "117-39_s1_p10",
+    "series": {
+        "id": "117-39",
+        "title": "G-onらいだーす",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "thumb.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "portrait.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-39_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1373
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "Glass.10　ゲッチュー時代",
+        "content": "突然、衛星軌道上から下請会社の巨大UFOが姿を消した。世界中が侵略の危機は去ったと喜び、GRA一同も揃って遊びに行くことに。この機会にユウキのハートをゲットしようと張り切る一朗だが、同じくセーラとヤヨイも一朗のハートをゲットするため準備は万端。さらにゼロまでも…!?"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "倉間ユウキ：島 涼香",
+            "嵐山セーラ：南 央美",
+            "星川ヤヨイ：倉田雅世",
+            "マコ：水橋かおり",
+            "パオ：町井美紀",
+            "アイ：上村貴子",
+            "ゼロ：田村ゆかり",
+            "鯨井仙三郎：堀内賢雄",
+            "真田ミオ：久川 綾",
+            "本郷一朗：檜山修之",
+            "ファンシー獣：浅野真澄",
+            "リロ：釘宮理恵、ほか"
+        ],
+        "crews": [
+            "原作：KATSUZO、TNK",
+            "監督：木村真一郎",
+            "シリーズ構成：水上清資",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "メカニックデザイン：森木靖泰",
+            "美術監督：吉原俊一郎（美峰）",
+            "撮影監督：岡崎英夫",
+            "音響監督：髙橋秀雄",
+            "音楽：山中紀昌",
+            "アニメーション制作：ティー・エヌ・ケー、シャフト",
+            "製作協力：ビックウエスト",
+            "製作：G-on PROJECT"
+        ],
+        "copyrights": [
+            "(C)KATSUZO／G-on PROJECT"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727417410,
+    "endAt": 1761922800,
+    "transcodeVersion": "M8RAg",
+    "sharedLink": {
+        "twitter": "https://abema.app/HTWu",
+        "facebook": "https://abema.app/fXgw",
+        "google": "https://abema.app/JxBH",
+        "line": "https://abema.app/wz4Y",
+        "copy": "https://abema.app/56ZT",
+        "instagram": "https://abema.app/mWeQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/117-39_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/117-39_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/117-39_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-39_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1273.02175,
+        "opening": {
+            "start": 40.04,
+            "end": 129.96316666666667
+        },
+        "ending": {
+            "start": 1273.02175,
+            "end": 1362.986625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-39_s1_p11",
+        "title": "Glass.11　マコに何が起こったか",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727417425,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-39_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "117-39_eg0",
+    "skipVmap": true
+}

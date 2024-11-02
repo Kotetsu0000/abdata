@@ -1,0 +1,152 @@
+{
+    "id": "117-39_s1_p12",
+    "series": {
+        "id": "117-39",
+        "title": "G-onらいだーす",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "thumb.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "portrait.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-39_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1373
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "Glass.12　真田博士はふり向かない",
+        "content": "ユウキとマコが乗る巨大UFOを一撃で破壊する侵略会社の超巨大UFOが現れた。星川町全体が闇に包まれ、どうすることも出来ず愕然とする中、真田博士はライダース達からG-onを奪い、侵略会社のもとへ飛び去ってしまう。G-onを失い、満身創痍のライダース達。果たして博士の真意とは…!?（登場ファンシー獣：再生ファンシー獣多数）"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "倉間ユウキ：島 涼香",
+            "嵐山セーラ：南 央美",
+            "星川ヤヨイ：倉田雅世",
+            "マコ：水橋かおり",
+            "パオ：町井美紀",
+            "アイ：上村貴子",
+            "ゼロ：田村ゆかり",
+            "鯨井仙三郎：堀内賢雄",
+            "真田ミオ：久川 綾",
+            "本郷一朗：檜山修之",
+            "ファンシー獣：浅野真澄",
+            "リロ：釘宮理恵、ほか"
+        ],
+        "crews": [
+            "原作：KATSUZO、TNK",
+            "監督：木村真一郎",
+            "シリーズ構成：水上清資",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "メカニックデザイン：森木靖泰",
+            "美術監督：吉原俊一郎（美峰）",
+            "撮影監督：岡崎英夫",
+            "音響監督：髙橋秀雄",
+            "音楽：山中紀昌",
+            "アニメーション制作：ティー・エヌ・ケー、シャフト",
+            "製作協力：ビックウエスト",
+            "製作：G-on PROJECT"
+        ],
+        "copyrights": [
+            "(C)KATSUZO／G-on PROJECT"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727417438,
+    "endAt": 1761922800,
+    "transcodeVersion": "s2v3d",
+    "sharedLink": {
+        "twitter": "https://abema.app/a28G",
+        "facebook": "https://abema.app/3AjB",
+        "google": "https://abema.app/Zwft",
+        "line": "https://abema.app/Ps3N",
+        "copy": "https://abema.app/9736",
+        "instagram": "https://abema.app/1ikA"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/117-39_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/117-39_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/117-39_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-39_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1273.02175,
+        "opening": {
+            "start": 54.054,
+            "end": 143.97716666666668
+        },
+        "ending": {
+            "start": 1273.02175,
+            "end": 1362.986625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-39_s1_p13",
+        "title": "Glass.13　ふぞろいのイチゴたち",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727417457,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-39_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "117-39_eg0",
+    "skipVmap": true
+}

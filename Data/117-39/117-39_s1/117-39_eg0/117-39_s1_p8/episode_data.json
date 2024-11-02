@@ -1,0 +1,152 @@
+{
+    "id": "117-39_s1_p8",
+    "series": {
+        "id": "117-39",
+        "title": "G-onらいだーす",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "thumb.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/117-39",
+            "filename": "portrait.png",
+            "query": "version=1728353340",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "117-39_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1372
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "Glass.8　万年ヤラレと呼ばれて",
+        "content": "一時的な休戦協定を申し出てきた下請会社。ユウキとヤヨイが尾行する中、星川町を遊び歩くパオとアイは、断り切れずにセーラとデートをしていた一朗と合流、なりゆきで一緒に遊ぶことになってしまう。案の定ケンカになるセーラとパオを微笑ましく見守る皆だったが、それはマコの企てた非常なる作戦の始まりだった…！（登場ファンシー獣：信楽焼たぬき型）"
+    },
+    "credit": {
+        "released": 2002,
+        "casts": [
+            "倉間ユウキ：島 涼香",
+            "嵐山セーラ：南 央美",
+            "星川ヤヨイ：倉田雅世",
+            "マコ：水橋かおり",
+            "パオ：町井美紀",
+            "アイ：上村貴子",
+            "ゼロ：田村ゆかり",
+            "鯨井仙三郎：堀内賢雄",
+            "真田ミオ：久川 綾",
+            "本郷一朗：檜山修之",
+            "ファンシー獣：浅野真澄",
+            "リロ：釘宮理恵、ほか"
+        ],
+        "crews": [
+            "原作：KATSUZO、TNK",
+            "監督：木村真一郎",
+            "シリーズ構成：水上清資",
+            "キャラクターデザイン・総作画監督：平田雄三",
+            "メカニックデザイン：森木靖泰",
+            "美術監督：吉原俊一郎（美峰）",
+            "撮影監督：岡崎英夫",
+            "音響監督：髙橋秀雄",
+            "音楽：山中紀昌",
+            "アニメーション制作：ティー・エヌ・ケー、シャフト",
+            "製作協力：ビックウエスト",
+            "製作：G-on PROJECT"
+        ],
+        "copyrights": [
+            "(C)KATSUZO／G-on PROJECT"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727417383,
+    "endAt": 1761922800,
+    "transcodeVersion": "3psV8e",
+    "sharedLink": {
+        "twitter": "https://abema.app/j4ES",
+        "facebook": "https://abema.app/P8vT",
+        "google": "https://abema.app/t1Ws",
+        "line": "https://abema.app/MpFP",
+        "copy": "https://abema.app/96rp",
+        "instagram": "https://abema.app/Af2T"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/117-39_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/117-39_s1_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/117-39_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.117-39_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1272.9383333333333,
+        "opening": {
+            "start": 72.98958333333333,
+            "end": 162.91275
+        },
+        "ending": {
+            "start": 1272.9383333333333,
+            "end": 1362.9032083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "117-39_s1_p9",
+        "title": "Glass.9　メイド衣装は誰が着る",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1727417396,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/117-39_s1_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "117-39_eg0",
+    "skipVmap": true
+}
