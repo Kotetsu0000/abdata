@@ -103,8 +103,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1731216000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "19-202_s1_p5",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-202_s1_p5",
+            "filename": "thumb001.png",
+            "query": "version=1730103938",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話",
+            "content": "累計部数300万部突破の村田椰融が描く家族再生の物語。10年前、妻を亡くした愛妻家の新島圭介はずっと失意の中にいた。だがある日、小学生の女の子、白石万理華が、自分は他界した妻、貴恵だと言ってやってくる。こうして、小学生の姿をした妻との人生が再び動き始める…2024年、TVアニメとして再び日本中を愛で包む――。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1730642400
+                    "endAt": 1731820800
                 }
             ],
             "broadcastRegionPolicy": 1,

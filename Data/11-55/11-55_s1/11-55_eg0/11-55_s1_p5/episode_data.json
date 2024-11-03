@@ -1,0 +1,170 @@
+{
+    "id": "11-55_s1_p5",
+    "series": {
+        "id": "11-55",
+        "title": "川越ボーイズ・シング",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-55",
+            "filename": "thumb.png",
+            "query": "version=1696235342",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-55",
+            "filename": "portrait.png",
+            "query": "version=1696235342",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 LA LA LA",
+        "content": "コンクール（関東大会）の予選を年末に控えたクワイア部。部員は8人になったが、音域のバランスのためにあと２人ほど足りないと感じていた春男は、「歌ってみた」動画をアップしている博士とマジックに目をつけるが・・・。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "出井 天使(だんぼっち):鵜澤正太郎",
+            "矢沢 ひろし(えいちゃん):土田玲央",
+            "白鳥 修治(トリちゃん):小原悠輝",
+            "小橋 快人(IT):中西南央",
+            "茨戸 静男(オトメ):金子 誠",
+            "足立 尽:木村 昴",
+            "日向 行:生田鷹司",
+            "日向 進:伊瀬結陸",
+            "葉加瀬 友(博士):葉山翔太",
+            "鈴木 カーティス(マジック):深川和征",
+            "響 春男:興津和幸"
+        ],
+        "crews": [
+            "監督:松本 淳",
+            "シリーズ構成:川越学園文芸部",
+            "キャラクター原案:えびも",
+            "キャラクターデザイン:渡邊葉瑠",
+            "音楽:YUKI KANESAKA／シンリズム／横山潤子",
+            "音響監督:菊田浩巳",
+            "音響制作:dugout",
+            "アニメーション制作:evg",
+            "アニメーション制作協力:テレコム・アニメーションフィルム"
+        ],
+        "copyrights": [
+            "(C)ぼくらの川越洋菓子店"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1705394320,
+    "endAt": 1735657200,
+    "freeEndAt": 1731223800,
+    "transcodeVersion": "uV6FD",
+    "sharedLink": {
+        "twitter": "https://abema.app/8snf",
+        "facebook": "https://abema.app/kYSu",
+        "google": "https://abema.app/Zghy",
+        "line": "https://abema.app/L3Ze",
+        "copy": "https://abema.app/D6Gq",
+        "instagram": "https://abema.app/SkDz"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-55_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-55_s1_p5/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/11-55_s1_p5/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-55_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-55_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1352.3927083333333,
+        "opening": {
+            "start": 68.27654166666666,
+            "end": 172.96445833333334
+        },
+        "ending": {
+            "start": 1353.60225,
+            "end": 1420.043625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-55_s1_p6",
+        "title": "第6話 Summer Blessing",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1705394320,
+        "endAt": 1735657200,
+        "freeEndAt": 1731223800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1731223800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-55_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1731223800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1731705900
+        }
+    ],
+    "episodeGroupId": "11-55_eg0",
+    "skipVmap": true
+}
