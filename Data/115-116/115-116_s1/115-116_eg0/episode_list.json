@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1730658600
+                    "onDemandType": 1,
+                    "endAt": 1790780400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/115-116_s1_p5",
             "filename": "thumb001.png",
-            "query": "version=1730103887",
+            "query": "version=1730690280",
             "extension": "png"
         },
         "episode": {
@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1730658600
+                    "onDemandType": 3,
+                    "endAt": 1731263400
                 }
             ],
             "broadcastRegionPolicy": 1,

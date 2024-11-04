@@ -1,0 +1,162 @@
+{
+    "id": "2-18_s1_p12",
+    "series": {
+        "id": "2-18",
+        "title": "超速スピナー",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-18",
+            "filename": "thumb.png",
+            "query": "version=1729150781",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-18",
+            "filename": "portrait.png",
+            "query": "version=1729150781",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-18_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1324
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 サイバースペースの戦い",
+        "content": "霧先マイの強さの秘密はストリングスの短さにあった！マイはストリングスを短くすることによって、速さと安定性を強化していたのだ。瞬一のスピードを遙かに上回るマイのダブルループに愕然とする瞬一。火山ステージ、激流ステージとバーチャル空間を移動するが、なかなかマイを抜くことはできない。一方、北条院はスタートでの確実な歩みを一転、ホバーボードをものにした猛スピードで追い上げ、またもやトップで準決勝進出を果たす。北条院の前にマイという意外な強敵を迎えてしまった瞬一。はたして瞬一の超速ループは、マイを越えることができるのか！？"
+    },
+    "credit": {
+        "released": 1998,
+        "casts": [
+            "堂本 瞬一：森久保祥太郎",
+            "北条院 聖斗：上田祐司",
+            "夢宮 りあん：千葉千恵巳",
+            "中村 名人：三木眞一郎",
+            "木村 ベソ：野田順子",
+            "小暮 宙太：東さおり",
+            "武蔵丸 弁慶：鈴木琢磨",
+            "霧崎 マイ：大本眞基子",
+            "安濃 慈円馬：松田佑貴",
+            "輪刃 剛志：遠近孝一",
+            "桜場 情一：宮下道央"
+        ],
+        "crews": [
+            "原作：橋口隆志",
+            "監督：加戸誉夫",
+            "シリーズ構成：隅沢克之",
+            "キャラクターデザイン：石原 満",
+            "プロップデザイン：坂﨑 忠",
+            "美術監督：朝倉千登勢",
+            "色彩設計：青木弘美",
+            "撮影監督：金沢章男",
+            "編集：山森重之",
+            "音響監督：田中英行",
+            "音楽：山本哲也",
+            "アニメーション制作：XEBEC",
+            "製作：小学館集英社プロダクション"
+        ],
+        "copyrights": [
+            "(C)橋口隆志／小学館・ShoPro・BANDAI・テレビ東京"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1728544911,
+    "endAt": 1764514800,
+    "freeEndAt": 1764514800,
+    "transcodeVersion": "XoPPi",
+    "sharedLink": {
+        "twitter": "https://abema.app/4mPu",
+        "facebook": "https://abema.app/9hQe",
+        "google": "https://abema.app/dDLw",
+        "line": "https://abema.app/v3Sc",
+        "copy": "https://abema.app/99qd",
+        "instagram": "https://abema.app/f5UT"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-18_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-18_s1_p12/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/2-18_s1_p12/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-18_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-18_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1292.9583333333333,
+        "opening": {
+            "end": 92.9929
+        },
+        "ending": {
+            "start": 1292.9583333333333,
+            "end": 1323.9893333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "2-18_s1_p13",
+        "title": "第13話 勝利の行方",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1728544924,
+        "endAt": 1764514800,
+        "freeEndAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-18_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "2-18_eg0",
+    "skipVmap": true
+}

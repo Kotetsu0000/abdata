@@ -45,8 +45,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1774969200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 155
+        }
+    },
+    {
+        "id": "189-75_s1_p103",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p103",
+            "filename": "thumb002.png",
+            "query": "version=1730690580",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 103,
+            "title": "第3話",
+            "content": "かつて戦国の世を駆け抜け、⻤神のごとき勇姿を⾒せた【殿】。されど、その栄光も今は昔。\nすっかり没落し、⽇々の暮らしもままならぬ中、胴⻑短⾜の珍妙な【⽝】と⻑屋で暮らすこ\nとに。その毎⽇は「何これ!? ⽝こんなことできんの!?」と驚きの連続で、「もう、かなワン!?」\nちょっぴりシュールで、ハートウォーミングな“天下泰平主従暮らし”、いざ開幕。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1730661300
+                    "endAt": 1731266100
                 }
             ],
             "broadcastRegionPolicy": 1,
