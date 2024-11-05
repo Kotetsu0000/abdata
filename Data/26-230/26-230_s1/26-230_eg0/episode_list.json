@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1730193287",
+            "query": "version=1730802429",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1730193288",
+            "query": "version=1730802429",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1730193288",
+            "query": "version=1730802429",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1730287156",
+            "query": "version=1730802429",
             "extension": "png"
         },
         "episode": {
@@ -103,8 +103,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "26-230_s1_p5",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p5",
+            "filename": "thumb001.png",
+            "query": "version=1730802429",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話 泣けとばかりに",
+            "content": "雪男の機転によって八郎を欺き、シュラとの契約を破棄させることに成功した燐たち。しかし、怒り狂い暴走した八郎は再びシュラを捕らえ、凍てついた湖へと向かっていく。不死である八郎からこぼれる「死にたい」という願いに、シュラは湖の底深く、永遠に一緒に眠ろうと伝え寄り添う。湖に沈んでいく中、シュラの脳裏に浮かんだのは、かつて藤本獅郎と過ごした日々の記憶だった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1730775600
+                    "endAt": 1731380400
                 }
             ],
             "broadcastRegionPolicy": 1,

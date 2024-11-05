@@ -89,7 +89,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730193287,
+        "imageUpdatedAt": 1730802429,
         "endAt": 1759244400,
         "transcodeVersion": "6xLUhz",
         "sharedLink": {
@@ -210,7 +210,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730193288,
+        "imageUpdatedAt": 1730802429,
         "endAt": 1759244400,
         "transcodeVersion": "7Qz1fr",
         "sharedLink": {
@@ -331,7 +331,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730193288,
+        "imageUpdatedAt": 1730802429,
         "endAt": 1759244400,
         "transcodeVersion": "72zUDa",
         "sharedLink": {
@@ -451,12 +451,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
-        "imageUpdatedAt": 1730287156,
+        "label": {},
+        "imageUpdatedAt": 1730802429,
         "endAt": 1759244400,
-        "freeEndAt": 1730775600,
         "transcodeVersion": "2EWLUQ",
         "sharedLink": {
             "twitter": "https://abema.app/tjBw",
@@ -480,8 +477,126 @@
         },
         "terms": [
             {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ],
+        "episodeGroupId": "26-230_eg0"
+    },
+    {
+        "id": "26-230_s1_p5",
+        "series": {
+            "id": "26-230",
+            "title": "青の祓魔師 雪ノ果篇",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-230",
+                "filename": "thumb.png",
+                "query": "version=1726826284",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-230",
+                "filename": "portrait.png",
+                "query": "version=1726826284",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "26-230_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1726826300",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 1420
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話 泣けとばかりに",
+            "content": "雪男の機転によって八郎を欺き、シュラとの契約を破棄させることに成功した燐たち。しかし、怒り狂い暴走した八郎は再びシュラを捕らえ、凍てついた湖へと向かっていく。不死である八郎からこぼれる「死にたい」という願いに、シュラは湖の底深く、永遠に一緒に眠ろうと伝え寄り添う。湖に沈んでいく中、シュラの脳裏に浮かんだのは、かつて藤本獅郎と過ごした日々の記憶だった。"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "奥村 燐：岡本信彦",
+                "奥村雪男：福山 潤",
+                "杜山しえみ：花澤香菜",
+                "勝呂竜士：中井和哉",
+                "志摩廉造：遊佐浩二",
+                "三輪子猫丸：梶 裕貴",
+                "神木出雲：喜多村英梨",
+                "クロ：高垣彩陽",
+                "霧隠シュラ：佐藤利奈",
+                "アーサー・A・エンジェル：小野大輔",
+                "ルーイン・ライト：関 智一",
+                "ルシフェル：内山昂輝",
+                "メフィスト・フェレス：神谷浩史",
+                "藤本獅郎：平田広明"
+            ],
+            "crews": [
+                "原作：加藤和恵（集英社「ジャンプSQ.」連載）",
+                "監督：吉田大輔",
+                "シリーズ構成：大野敏哉",
+                "キャラクターデザイン・総作画監督：大東百合恵",
+                "アクション作画監督：平山貴章、友田政晴",
+                "美術監督：清水友幸",
+                "色彩設計：堀川佳典",
+                "CGディレクター：さいとうつかさ",
+                "撮影監督：松井伸哉",
+                "編集：神宮司由美",
+                "音楽：KOHTA YAMAMOTO／澤野弘之",
+                "音響監督：若林和弘",
+                "音響制作：楽音舎",
+                "アニメーションプロデューサー：青木 誠",
+                "クリエイティブプロデューサー：三田圭志",
+                "アニメーション制作：スタジオヴォルン"
+            ],
+            "copyrights": [
+                "(C)加藤和恵／集英社・「青の祓魔師」製作委員会"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1730802429,
+        "endAt": 1759244400,
+        "freeEndAt": 1731380400,
+        "transcodeVersion": "3ToffC",
+        "sharedLink": {
+            "twitter": "https://abema.app/XBQw",
+            "facebook": "https://abema.app/ydiY",
+            "google": "https://abema.app/ekVE",
+            "line": "https://abema.app/8sQp",
+            "copy": "https://abema.app/s6RB",
+            "instagram": "https://abema.app/Bbk9"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-230_s1_p5/1/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
                 "onDemandType": 3,
-                "endAt": 1730775600
+                "endAt": 1731380400
             }
         ],
         "episodeGroupId": "26-230_eg0"
@@ -572,7 +687,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1730193288,
+        "imageUpdatedAt": 1730802429,
         "endAt": 1735657200,
         "freeEndAt": 1735657200,
         "transcodeVersion": "x4C6E",

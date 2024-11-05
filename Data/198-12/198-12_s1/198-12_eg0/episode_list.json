@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1730193152",
+            "query": "version=1730802558",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1730193152",
+            "query": "version=1730802558",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1730193152",
+            "query": "version=1730802558",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1730286256",
+            "query": "version=1730802558",
             "extension": "png"
         },
         "episode": {
@@ -103,8 +103,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1798729200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "198-12_s1_p5",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p5",
+            "filename": "thumb002.png",
+            "query": "version=1730802558",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5,
+            "title": "第5話 私、強歩大会で歩きまくりまーす！",
+            "content": "ミナミが去ったレットランで、三大行事のひとつ・クラス対抗強歩大会が開催される。\n優勝争いに燃える一年マ組・二年マ組を横目に、マイペースを崩さない一組の生徒たちだったが、アスカの覚醒を機に本気を見せる。\n一位の座を巡って激しいレースが展開するなか、「レットラン七不思議」のひとつが襲いかかる。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1730743200
+                    "endAt": 1731348000
                 }
             ],
             "broadcastRegionPolicy": 1,
