@@ -1,0 +1,74 @@
+{
+    "id": "169-111",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "弱キャラ友崎くん",
+    "content": "友崎文也は、日本屈指のゲーマーながら現実ではぼっちな高校生。\n“人生はクソゲー”だと言い切る彼が出会ったのは、\n学園のパーフェクトヒロイン・日南葵だった。\n「この『人生』というゲームに、真剣に向き合いなさい！」\n人生ははたしてクソゲーか、神ゲーか？\n日南の指導のもと、弱キャラ高校生の人生攻略が幕を開ける！",
+    "seasons": [
+        {
+            "id": "169-111_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/169-111_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1703477538",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "169-111_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)屋久ユウキ・小学館／「弱キャラ友崎くん2」製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1729733660894081589",
+    "imageUpdatedAt": 1703477313,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/W2Ra",
+        "facebook": "https://abema.app/4Hir",
+        "google": "https://abema.app/8orK",
+        "line": "https://abema.app/4MmL",
+        "copy": "https://abema.app/zr34",
+        "instagram": "https://abema.app/bgMa"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-111",
+        "filename": "thumb.png",
+        "query": "version=1703477313",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-111",
+        "filename": "portrait.png",
+        "query": "version=1703477313",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
