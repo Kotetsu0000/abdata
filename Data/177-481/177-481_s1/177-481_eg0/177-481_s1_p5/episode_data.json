@@ -1,0 +1,118 @@
+{
+    "id": "177-481_s1_p5",
+    "series": {
+        "id": "177-481",
+        "title": "あんた売れないわよ!",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-481",
+            "filename": "thumb.png",
+            "query": "version=1728187498",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/177-481",
+            "filename": "portrait.png",
+            "query": "version=1728187498",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "177-481_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_37",
+                "name": "ライブ舞台"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "#5",
+        "content": "売れない俳優 堂家礼二(どうけ れいじ)が来店!\n声優業界を目指したきっかけ、そして声優としてのターニングポイントを聞く!\nコントパートでは売れない俳優 堂家礼二に扮して来店!\n拳銃を振り回して店中大騒ぎ!果たして売れてる俳優になれるのか!"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "森川智之",
+            "河本啓佑",
+            "新祐樹"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)︎2024「あんた売れないわよ!」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730799944,
+    "endAt": 1767193200,
+    "transcodeVersion": "7XrcTs",
+    "sharedLink": {
+        "twitter": "https://abema.app/SxPh",
+        "facebook": "https://abema.app/dntz",
+        "google": "https://abema.app/ZdAk",
+        "line": "https://abema.app/hLwr",
+        "copy": "https://abema.app/GKJx",
+        "instagram": "https://abema.app/rzvi"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/177-481_s1_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/177-481_s1_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/177-481_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.177-481_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0569666666668
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/177-481_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1731083400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1731688200
+        }
+    ],
+    "episodeGroupId": "177-481_eg0",
+    "skipVmap": true
+}

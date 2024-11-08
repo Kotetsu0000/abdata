@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1730454154",
+            "query": "version=1731050692",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1730454154",
+            "query": "version=1731050692",
             "extension": "png"
         },
         "episode": {
@@ -46,7 +46,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1798729200
+                    "endAt": 1731589020
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1730454154",
+            "query": "version=1731050692",
             "extension": "png"
         },
         "episode": {
@@ -75,7 +75,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1798729200
+                    "endAt": 1731589020
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1730454154",
+            "query": "version=1731050692",
             "extension": "png"
         },
         "episode": {
@@ -104,7 +104,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1798729200
+                    "endAt": 1731589020
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1730531906",
+            "query": "version=1731050692",
             "extension": "png"
         },
         "episode": {
@@ -133,6 +133,35 @@
             "terms": [
                 {
                     "onDemandType": 3,
+                    "endAt": 1731083400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1422
+        }
+    },
+    {
+        "id": "189-72_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-72_s1_p6",
+            "filename": "thumb002.png",
+            "query": "version=1731050692",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話 友達っていうのはつまりその…",
+            "content": "キタカガミ市全域で突如自我を失ったメカウデ使いたちが暴走するという事件が頻発。\n騒ぎの元凶とされるワーム型のメカウデ・アマリリスと、アマリリスと行動を共にし事件への加担を疑われるアキの捜索に向かったヒカル。\n一方、フブキの命を救うためヒカルを連れてくるようアマリリスに迫られたアキがとった行動とは…。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
                     "endAt": 1731083400
                 }
             ],

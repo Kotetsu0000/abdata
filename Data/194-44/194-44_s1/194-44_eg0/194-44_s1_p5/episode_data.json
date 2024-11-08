@@ -1,0 +1,142 @@
+{
+    "id": "194-44_s1_p5",
+    "series": {
+        "id": "194-44",
+        "title": "ハミダシクリエイティブ",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-44",
+            "filename": "thumb.png",
+            "query": "version=1730258141",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-44",
+            "filename": "portrait.png",
+            "query": "version=1730258141",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "194-44_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 269
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話　アメリア・ブルマー女史に捧ぐ",
+        "content": "イラストレーターとして、何度もブルマ姿のキャラクターを描いてきた華乃。\nしかし、実際にブルマ姿を見たことがないことに気づき、プロとしてこのままで良いのかと悩み始める。\nそこで、彼女は妃愛、あすみ、詩桜、天梨に頼んで実際に着てもらうことに。\n目を輝かせながらスケッチをする華乃だったが……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "和泉妃愛（いずみひより）：戸田めぐみ",
+            "常磐華乃（ときわかの）：あさみほとり",
+            "錦あすみ（にしきあすみ）：つむぎゆきの",
+            "鎌倉詩桜（かまくらしお）：堀場美希",
+            "竜閑天梨（りゅうかんあめり）：岡本理絵"
+        ],
+        "crews": [
+            "原作：『ハミダシクリエイティブ』まどそふと",
+            "キャラクター原案：宇都宮つみれ",
+            "総監督/音響監督：ひらさわひさよし",
+            "監督／絵コンテ：深瀬重",
+            "シリーズ構成：有栖洸一",
+            "キャラクターデザイン/総作画監督：中野圭哉",
+            "脚本：有栖洸一/甲木順之助",
+            "衣装デザイン：一ノ瀬結梨",
+            "色彩設計：入江鯉",
+            "美術監督：グエン・クイ・アン・トゥー",
+            "撮影監督：笠原萌笑",
+            "アニメーション制作ハヤブサフィルム"
+        ],
+        "copyrights": [
+            "(C)まどそふと/千玉学園生徒会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1731054100,
+    "endAt": 1767193200,
+    "freeEndAt": 1731574800,
+    "transcodeVersion": "4tytmr",
+    "sharedLink": {
+        "twitter": "https://abema.app/7XNh",
+        "facebook": "https://abema.app/WrEs",
+        "google": "https://abema.app/wzoK",
+        "line": "https://abema.app/zaGR",
+        "copy": "https://abema.app/mftJ",
+        "instagram": "https://abema.app/oncX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/194-44_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/194-44_s1_p5/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/194-44_s1_p5/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/194-44_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.194-44_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 264.9730416666667,
+        "ending": {
+            "start": 150.024875,
+            "end": 209.95975
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-44_s1_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1731574800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "194-44_eg0",
+    "skipVmap": true
+}

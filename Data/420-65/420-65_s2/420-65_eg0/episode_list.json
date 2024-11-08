@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/420-65_s2_p17",
             "filename": "thumb001.png",
-            "query": "version=1730967723",
+            "query": "version=1731042352",
             "extension": "png"
         },
         "episode": {
@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1731078000
+                    "onDemandType": 3,
+                    "endAt": 1731682800
                 }
             ],
             "broadcastRegionPolicy": 1,

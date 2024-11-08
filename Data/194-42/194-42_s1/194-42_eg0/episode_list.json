@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1730454072",
+            "query": "version=1731050544",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1730454072",
+            "query": "version=1731050544",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1730454072",
+            "query": "version=1731050544",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1730454072",
+            "query": "version=1731050544",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1730532211",
+            "query": "version=1731050544",
             "extension": "png"
         },
         "episode": {
@@ -132,8 +132,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 3,
+                    "endAt": 1731603600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1450
+        }
+    },
+    {
+        "id": "194-42_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p6",
+            "filename": "thumb002.png",
+            "query": "version=1731050544",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話 闇よりの来訪者",
+            "content": "エンテの森でエルフに囲まれたドランたちは、エルフの青年・ギオに即刻立ち去ることを求められる。しかし経緯を話すと、エルフの里ではすでに魔界の軍勢との争いが起こっていることを明かされる。力になろうと申し出るドランたち。……しかしそんな中、森の中にある魔界門が開き、上位魔族たちがエンテの森に現れる！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 1,
-                    "endAt": 1730998800
+                    "endAt": 1731603600
                 }
             ],
             "broadcastRegionPolicy": 1,
