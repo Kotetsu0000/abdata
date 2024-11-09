@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p1",
             "filename": "thumb002.png",
-            "query": "version=1730285563",
+            "query": "version=1730801461",
             "extension": "png"
         },
         "episode": {
@@ -33,12 +33,41 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p2",
             "filename": "thumb002.png",
-            "query": "version=1730535444",
+            "query": "version=1730801461",
             "extension": "png"
         },
         "episode": {
             "number": 2,
-            "title": "第2話",
+            "title": "第2話 とこなつきぶんでトロピカル、にゃ！",
+            "content": "ピカッと光る、ベイビースイート。気が付くとそこは常夏の島。サーフィンに素潜り、ビーチバレー。\n常夏ばなにゃといっしょに楽しい夏を満喫するばなにゃ達。海につかりながらのんびりしていると、遠くから迫ってくるのは、背びれ！　ばなにゃ達、大ピンチ！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1769871600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 180
+        }
+    },
+    {
+        "id": "117-10tuysdmweyg_s3_p3",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p3",
+            "filename": "thumb001.png",
+            "query": "version=1730801461",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 3,
+            "title": "第3話",
             "content": "とある星に住む、バナナにひそむふしぎなにゃんこ「ばなにゃ」。\nある日、ばなにゃのもとに光の球が近づいてくると、\nピカっと光り、中から小さいばなにゃ「ベイビースイート」が現われました！！\n\nあっという間に仲良しになったふたりは、\n世界中のあらゆる場所をめぐる大冒険へと出かけていくことに。"
         },
         "type": 1,
@@ -46,7 +75,7 @@
             "terms": [
                 {
                     "onDemandType": 3,
-                    "endAt": 1731078000
+                    "endAt": 1731682800
                 }
             ],
             "broadcastRegionPolicy": 1,

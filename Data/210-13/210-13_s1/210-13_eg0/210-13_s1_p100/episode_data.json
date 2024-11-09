@@ -1,0 +1,119 @@
+{
+    "id": "210-13_s1_p100",
+    "series": {
+        "id": "210-13",
+        "title": "アストロノオト",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-13",
+            "filename": "thumb.png",
+            "query": "version=1711871096",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-13",
+            "filename": "portrait.png",
+            "query": "version=1711871096",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "210-13_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1441
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 100,
+        "title": "第1話【オーデイオコメンタリー付ver】",
+        "content": "料理人・宮坂拓己が新たな就職先として面接に訪れた、“朝食付き木造アパートあすトろ荘\"。拓己は可憐な大家・豪徳寺ミラに出会ったその場で一目惚れ。住み込み料理人としての生活がスタートするのだが、癖のある住人たちとの、ご近所より近く、家族より遠い距離感の中、次々と巻き起こる不可思議な現象。ふとしたことで知った、ミラが宇宙人だったという秘密。拓己が抱くミラへの恋心はどうなってしまうのか。また、不可思議な現象の謎は解明されるのか？食卓から宇宙にまで広がる、新感覚SFアパートラブコメディ！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "豪徳寺ミラ：内田真礼",
+            "宮坂拓己：斉藤壮馬",
+            "若林蓮：釘宮理恵",
+            "若林富裕：杉田智和",
+            "山下正吉：三木眞一郎",
+            "松原照子：降幡愛",
+            "上町葵：小倉唯",
+            "ナオスケ：諏訪部順一",
+            "ショーイン・ジンジャー：福山潤"
+        ],
+        "crews": [
+            "監督:高松信司",
+            "春日森春木",
+            "脚本:うえのきみこ"
+        ],
+        "copyrights": [
+            "（C）アストロノオト"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719295210,
+    "endAt": 1751295600,
+    "transcodeVersion": "6zRr3C",
+    "sharedLink": {
+        "twitter": "https://abema.app/orxW",
+        "facebook": "https://abema.app/4jyR",
+        "google": "https://abema.app/Na9F",
+        "line": "https://abema.app/itqs",
+        "copy": "https://abema.app/dKD3",
+        "instagram": "https://abema.app/nz9S"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/210-13_s1_p100/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/210-13_s1_p100/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/210-13_s1_p100/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.210-13_s1_p100"
+    },
+    "viewingPoint": {
+        "suggestion": 1436.0179166666667
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/210-13_s1_p100/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "210-13_eg0",
+    "skipVmap": true
+}
