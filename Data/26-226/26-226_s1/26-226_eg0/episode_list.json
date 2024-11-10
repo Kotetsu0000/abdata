@@ -248,8 +248,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1764514800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "26-226_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-226_s1_p10",
+            "filename": "thumb001.png",
+            "query": "version=1730801381",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話",
+            "content": "名門デリコ家の貴族であり、将来を嘱望されている《血盟議会》のエリート議員、ダリ・デリコ。\n\n吸血種たちの最高統治機関である《血盟議会》からある任務を命じられるものの、ダリはにべもなく断ってしまう。\n業を煮やした同期議員であるゲルハルト、ディーノ、エンリケが説得に向かうと、そこには自ら幼子をあやすダリの姿が。\n一方巷では、吸血種を狙った謎の連続殺人事件が発生。その黒幕と思われる反社会組織《ペンデュラム》と、ダリの間には、なにやら過去の因縁があるようで……。\n\n『血と誇りにかけて、任務と育児の両立──成し遂げてみせようではないか！』\n\n吸血種の貴族たちによるノブレス・オブリージュ育児奮闘記。\n壮麗なゴシックワールドで巻き起こる、絶対的任務と誇りにかけたドタバタ育児は、果たして両立することができるのか！？"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731207600
+                    "endAt": 1731812400
                 }
             ],
             "broadcastRegionPolicy": 1,

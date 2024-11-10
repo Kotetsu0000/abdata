@@ -1,0 +1,140 @@
+{
+    "id": "54-99_s1_p6",
+    "series": {
+        "id": "54-99",
+        "title": "時空の隙",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-99",
+            "filename": "thumb.png",
+            "query": "version=1728183879",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-99",
+            "filename": "portrait.png",
+            "query": "version=1728183879",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-99_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1291
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話",
+        "content": "現世と異世界の間で、エネルギーが不安定なことから生じた時空の隙は、異世界にいる怪物たちが現世に通じる唯一の通路となっている。怪物の侵入を阻止するために、現世では特殊な体質を持つ者たちが、果敢に時空の隙に立ち、世界を守るために戦っている。そんな狭間に巻き込まれた中二病で売れない漫画家・林一帆の運命や如何に…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "林一帆 （リン・イーファン）:宮成遊太",
+            "秦黙（チン・モ）:赤木竜士",
+            "陸航（ルー・ハン）:吉居誠実",
+            "周昊東（ズォウ・ハオドン）:山上咲",
+            "ゴロゴロ:宮池亜美",
+            "マイ・ヤ:石田秀子",
+            "ジリジリ:小野子",
+            "葉琪 （イェ・チ）:桜川井"
+        ],
+        "crews": [
+            "原作:網易（ゲーム『梦幻西游』）",
+            "総指揮:丁磊",
+            "共同総指揮:李旎",
+            "チーフプロデューサー:朱珂",
+            "総監督:熊可",
+            "シリーズ構成:劉興",
+            "音楽:翁騰",
+            "制作スタジオ:B.C視美影業",
+            "日本語吹替:497工作室",
+            "配給:イマジニア株式会社"
+        ],
+        "copyrights": [
+            "(C)1997-2024 NetEase, Inc.All Rights Reserved/bilibili"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1730802322,
+    "endAt": 1767193200,
+    "freeEndAt": 1731834000,
+    "transcodeVersion": "G9G9e",
+    "sharedLink": {
+        "twitter": "https://abema.app/mioz",
+        "facebook": "https://abema.app/bhHT",
+        "google": "https://abema.app/PjdM",
+        "line": "https://abema.app/7X7N",
+        "copy": "https://abema.app/yuEW",
+        "instagram": "https://abema.app/LhB9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-99_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-99_s1_p6/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/54-99_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-99_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-99_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1196.7372083333332,
+        "opening": {
+            "start": 29.029,
+            "end": 117.742625
+        },
+        "ending": {
+            "start": 1196.7372083333332,
+            "end": 1291.915625
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-99_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1731834000
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "54-99_eg0",
+    "skipVmap": true
+}

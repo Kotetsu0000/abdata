@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1731229200
+                    "onDemandType": 1,
+                    "endAt": 1769871600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -142,6 +142,35 @@
         },
         "info": {
             "duration": 1090
+        }
+    },
+    {
+        "id": "54-98_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/54-98_s1_p6",
+            "filename": "thumb001.png",
+            "query": "version=1730801527",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話",
+            "content": "主人公・陳俊は、ただただ平凡な暮らしを望むエセオタクだが、ひょんなことから多元宇宙帝国の皇帝になるハメになった。ただ普通の人間でいることを望む陳俊だったが、帝国にいる1.2メートルの女将軍パンドラも、異能局の姉の林雪も、帝国の女帝サンドラも、皆その意見に反対。幼なじみの許浅浅までも、「あなたは皇帝にならなければならない」と言った。陳俊は仕方なく、平日は世界を救い、休日はゲームに興じるという、なんとも忙しい生活を送ることになった…"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1731834000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1069
         }
     }
 ]

@@ -132,8 +132,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1774969200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 734
+        }
+    },
+    {
+        "id": "204-11_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/204-11_s1_p6",
+            "filename": "thumb001.png",
+            "query": "version=1730801475",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話",
+            "content": "ぷにるんず……それは、ぷにっとやわらかい『ぷしぎ』ないきもの。\nみんな、ぷにぷにされるのが大すき。\nまいにち楽しく ぷにっとくらしています。\nある日、あいるんのおうちに『ぷしぎなあんてな』があらわれました。\nあんてなが光ってやってきたのは、あたらしいぷにとも ともるん。\nぷにるんずの日常は、ますますにぎやかになります。\nそんな ともるんをみまもる ぷしぎなぷにるんず ゆにるん。\nそして、あいるんたちのまえにあらわれた不思議な女の子。\n今回もいろいろあるけれど、ぷにるんずのぷしぎな日々はつづいていきます。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731198600
+                    "endAt": 1731803400
                 }
             ],
             "broadcastRegionPolicy": 1,

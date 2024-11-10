@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1731239100
+                    "onDemandType": 3,
+                    "endAt": 1731843900
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -74,8 +74,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1731239100
+                    "onDemandType": 3,
+                    "endAt": 1731843900
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1731239100
+                    "onDemandType": 3,
+                    "endAt": 1731843900
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1731239100
+                    "onDemandType": 3,
+                    "endAt": 1731843900
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -171,6 +171,35 @@
         },
         "info": {
             "duration": 1429
+        }
+    },
+    {
+        "id": "168-69_s1_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-69_s1_p7",
+            "filename": "thumb001.png",
+            "query": "version=1730802495",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "第7話",
+            "content": "トレジャーハンターになろうぜ\n目指すはただひとつ、世界最強の英雄だ\n\nかつてそんな誓いを交わした六人の中でひとりだけ\n圧倒的に才能がなかった少年がいた。\n\nある日挫折を口にした彼に、幼馴染は言った。\n「クライ、お前、特に役割ないんだからリーダーやれよ」\n\n才能があり過ぎる怪物達(=幼馴染達)で結成されたパーティ《嘆きの亡霊（ストレンジ・グリーフ）》は\n数年にしてその名を帝都中に轟かせ、\nそのてっぺんに据えられた彼は\nあれよあれよという間に最強パーティのリーダーとして祭り上げられた。\n\n跳ね上がる周囲からの期待により\n彼の言動はいつだって勘違いされ、事態は予想もしない展開に…。\n\nこれは、最強パーティのリーダーにして\n最強のクランマスターとして名を馳せるクライ・アンドリヒの\n栄光と苦悩に満ちた英雄譚である！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1731421800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1430
         }
     }
 ]
