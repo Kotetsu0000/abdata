@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1730801395",
+            "query": "version=1731314541",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1730801395",
+            "query": "version=1731314541",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1730801395",
+            "query": "version=1731314541",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1730801395",
+            "query": "version=1731314541",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1730801395",
+            "query": "version=1731314541",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1730801395",
+            "query": "version=1731314541",
             "extension": "png"
         },
         "episode": {
@@ -163,6 +163,35 @@
                 {
                     "onDemandType": 3,
                     "endAt": 1731921900
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1449
+        }
+    },
+    {
+        "id": "25-276_s1_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p7",
+            "filename": "thumb001.png",
+            "query": "version=1731314541",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "第7話 株式会社トリリオンゲーム",
+            "content": "株式会社トリリオンゲームの採用面接に集まったのは五人。ドラゴンバンク社長の本から経営学に関する質問を借りつつ、ハルとガクは五人の面接を進めていく。質問に対して自信満々に正解する男性もいる中、現れたのは高橋凜々という大学生。彼女はネタ元の経営学の本を読んだことがあると言い、回答を辞退して……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1731870000
                 }
             ],
             "broadcastRegionPolicy": 1,

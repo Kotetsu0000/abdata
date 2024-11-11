@@ -99,7 +99,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "freeEndAt": 1767193200,
         "transcodeVersion": "46t4oC",
@@ -229,7 +229,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "6NTPST",
         "sharedLink": {
@@ -358,7 +358,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "4164xU",
         "sharedLink": {
@@ -487,7 +487,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "5rtQYD",
         "sharedLink": {
@@ -616,7 +616,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "6hQ2Hm",
         "sharedLink": {
@@ -745,7 +745,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "69TbNn",
         "sharedLink": {
@@ -874,7 +874,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "6NErKz",
         "sharedLink": {
@@ -1003,7 +1003,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "3umW6d",
         "sharedLink": {
@@ -1132,7 +1132,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "4Ug9qP",
         "sharedLink": {
@@ -1261,7 +1261,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "5tVBPe",
         "sharedLink": {
@@ -1390,7 +1390,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316238,
         "endAt": 1767193200,
         "transcodeVersion": "4KhzTC",
         "sharedLink": {
@@ -1519,7 +1519,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316239,
         "endAt": 1767193200,
         "transcodeVersion": "UzzCp",
         "sharedLink": {
@@ -1648,7 +1648,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316239,
         "endAt": 1767193200,
         "transcodeVersion": "8H9nE",
         "sharedLink": {
@@ -1777,7 +1777,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316239,
         "endAt": 1767193200,
         "transcodeVersion": "4c9aiu",
         "sharedLink": {
@@ -1906,7 +1906,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1730802466,
+        "imageUpdatedAt": 1731316239,
         "endAt": 1767193200,
         "transcodeVersion": "7A7tb1",
         "sharedLink": {
@@ -2034,12 +2034,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
-        "imageUpdatedAt": 1730802466,
+        "label": {},
+        "imageUpdatedAt": 1731316239,
         "endAt": 1767193200,
-        "freeEndAt": 1731261600,
         "transcodeVersion": "7467Sz",
         "sharedLink": {
             "twitter": "https://abema.app/Zvgf",
@@ -2063,8 +2060,133 @@
         },
         "terms": [
             {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ],
+        "episodeGroupId": "143-49_eg0"
+    },
+    {
+        "id": "143-49_s1_p17",
+        "series": {
+            "id": "143-49",
+            "title": "多数欠",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-49",
+                "filename": "thumb.png",
+                "query": "version=1725940524",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-49",
+                "filename": "portrait.png",
+                "query": "version=1725940524",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "143-49_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/143-49_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1725945256",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 1369
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001"
+        },
+        "episode": {
+            "number": 17,
+            "title": "第17話 シナリオ",
+            "content": "セラフィエルの教会に拠点を移動した女王は総力戦を決意。そんな彼女の前に、協力者として入賀と深見が姿を現す。臣は東北の旅で得た情報を元に、特権利を呼び出す『イタコ』がいる可能性を皆に説明する。そして、須藤の指揮の元、東京封鎖作戦が実行される。苦戦するも敵を撃破する頼音たち。しかし女王が新たに得た特権利により、形勢が逆転する……。"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "成田実篤：上村祐翔",
+                "藤代紗綾：永瀬アンナ",
+                "一之瀬龍太：浦和希",
+                "佐藤一彦：大鈴功起",
+                "神臣：三上枝織",
+                "国後依恋：中島由貴",
+                "八木橋藤十郎：小野大輔",
+                "須藤良平：笠間淳",
+                "篠崎宗太郎：森嶋秀太",
+                "護国鳳天寺暴麟丸：藍原ことみ",
+                "鈴木理科：青木志貴",
+                "相馬隼人：熊谷健太郎",
+                "入賀 煉：KENN",
+                "御堂 密：津田健次郎",
+                "皇帝：寺崎裕香",
+                "王野頼音：熊谷俊輝",
+                "二本柳周示：丹羽哲士",
+                "蛯名光：鈴代紗弓",
+                "霧島輝：石川界人",
+                "葛西甲斐：川島如恵留（Travis Japan）",
+                "セラフィエル：白井悠介",
+                "如月麻里亜：日笠陽子"
+            ],
+            "crews": [
+                "原作：宮川大河（コミックスマート「GANMA!」連載）",
+                "監督・シリーズ構成：佐藤竜雄",
+                "キャラクターデザイン：林奈美",
+                "副監督：濱崎徹",
+                "美術設定：滝口勝久（スタジオちゅーりっぷ）",
+                "美術監督：鈴木大介（スタジオちゅーりっぷ）",
+                "色彩設定：長谷川美穂（緋和）",
+                "撮影監督：志村豪（T2studio）",
+                "編集：松本秀治",
+                "デザインワークス：山根裕二郎（いなほ）",
+                "音響監督：立石弥生",
+                "音響効果：出雲範子",
+                "音響制作：チームカワドン",
+                "音楽：R・O・N",
+                "アニメーション制作：サテライト"
+            ],
+            "copyrights": [
+                "(C)宮川大河／COMICSMART INC.／多数欠製作委員会"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1731316239,
+        "endAt": 1767193200,
+        "freeEndAt": 1731866400,
+        "transcodeVersion": "6f5RwS",
+        "sharedLink": {
+            "twitter": "https://abema.app/UG9M",
+            "facebook": "https://abema.app/W9cP",
+            "google": "https://abema.app/c3ih",
+            "line": "https://abema.app/1j3E",
+            "copy": "https://abema.app/NcEh",
+            "instagram": "https://abema.app/PqvP"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-49_s1_p17/1/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
                 "onDemandType": 3,
-                "endAt": 1731261600
+                "endAt": 1731866400
             }
         ],
         "episodeGroupId": "143-49_eg0"

@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p101",
             "filename": "thumb002.png",
-            "query": "version=1730799785",
+            "query": "version=1731314347",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p102",
             "filename": "thumb002.png",
-            "query": "version=1730799785",
+            "query": "version=1731314347",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p103",
             "filename": "thumb002.png",
-            "query": "version=1730799785",
+            "query": "version=1731314347",
             "extension": "png"
         },
         "episode": {
@@ -74,8 +74,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1774969200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 155
+        }
+    },
+    {
+        "id": "189-75_s1_p104",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p104",
+            "filename": "thumb001.png",
+            "query": "version=1731314347",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 104,
+            "title": "第4話 殿と朝 犬と夜",
+            "content": "【殿】が目覚めると小屋に入れたはずの【犬】が寝床を陣取っていた。夜中に一体何が？"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731266100
+                    "endAt": 1731870900
                 }
             ],
             "broadcastRegionPolicy": 1,
