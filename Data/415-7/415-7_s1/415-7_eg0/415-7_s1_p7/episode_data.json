@@ -1,0 +1,144 @@
+{
+    "id": "415-7_s1_p7",
+    "series": {
+        "id": "415-7",
+        "title": "まじっく快斗",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-7",
+            "filename": "thumb.png",
+            "query": "version=1705984069",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-7",
+            "filename": "portrait.png",
+            "query": "version=1705984069",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-7_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1481
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 華麗なるライバルたち",
+        "content": "キッドは今夜８時に江古田博物館に所蔵された紫の瞳のブロンズ像を奪いに行くと予告状を出し、中森銀三警部と警官隊が警備を担当する。そして８時まで１時間を切った時、白馬探が博物館に現れる。探はロンドン帰りの高校生名探偵だった。探はキッドを逮捕すると宣言するが、本当は別の人物を追っていた。キッドは中森の裏をかき、誰も警備していない博物館の地下室に出現。だが、この作戦を読んでいた探がキッドの前に立ち塞がる。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "黒羽海斗:山口勝平",
+            "中森青子:藤村歩",
+            "中森銀三:石塚運昇",
+            "黒羽盗一:池田秀一",
+            "黒羽千影:富沢美智恵",
+            "寺井黄之助:矢田耕司"
+        ],
+        "crews": [
+            "原作:青山剛昌",
+            "チーフプロデューサー:諏訪道彦、石山桂一",
+            "プロデューサー北田修一、溝上猛",
+            "アソシエイトプロデューサー:浅井認",
+            "監督:平野俊貴",
+            "音楽:梅堀淳"
+        ],
+        "copyrights": [
+            "（Ｃ）2010 青山剛昌／小学館・「まじっく快斗」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1706066884,
+    "endAt": 1743433200,
+    "freeEndAt": 1732078800,
+    "transcodeVersion": "5BTWA2",
+    "sharedLink": {
+        "twitter": "https://abema.app/ESdB",
+        "facebook": "https://abema.app/5Y2B",
+        "google": "https://abema.app/a6m7",
+        "line": "https://abema.app/heh7",
+        "copy": "https://abema.app/ycTa",
+        "instagram": "https://abema.app/eV2m"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-7_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-7_s1_p7/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/415-7_s1_p7/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-7_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-7_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1445.9778666666666,
+        "opening": {
+            "start": 15.448766666666666,
+            "end": 115.0149
+        },
+        "ending": {
+            "start": 1366.0313333333334,
+            "end": 1445.9445
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-7_s1_p8",
+        "title": "第8話 レッド・ティアーの秘密",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706066884,
+        "endAt": 1743433200,
+        "freeEndAt": 1732078800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1732078800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-7_s1_p7/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1732078800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "415-7_eg0",
+    "skipVmap": true
+}

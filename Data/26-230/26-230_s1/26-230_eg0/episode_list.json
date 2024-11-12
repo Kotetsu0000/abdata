@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1730802429",
+            "query": "version=1731395601",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1730802429",
+            "query": "version=1731395601",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1730802429",
+            "query": "version=1731395601",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1730802429",
+            "query": "version=1731395601",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1730890865",
+            "query": "version=1731395601",
             "extension": "png"
         },
         "episode": {
@@ -132,8 +132,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1731502800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "26-230_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p6",
+            "filename": "thumb001.png",
+            "query": "version=1731395601",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話 啓蟄",
+            "content": "青森での一件が終わり、落ち着きを取り戻しつつある正十字騎士團日本支部。ライトニングは勝呂と共にイルミナティに関する調査を開始する。ライトニングはイルミナティ、そして「青い夜」に繋がる何かが日本支部内にあると睨んでいた。一方、燐からの告白を受けたしえみは「恋愛の好き」と「友達の好き」の違いが分からないと悩んでいた。その様子を見かねた出雲は、ある提案をする。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731380400
+                    "endAt": 1731985200
                 }
             ],
             "broadcastRegionPolicy": 1,

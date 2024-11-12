@@ -1,0 +1,142 @@
+{
+    "id": "198-12_s1_p6",
+    "series": {
+        "id": "198-12",
+        "title": "魔法使いになれなかった女の子の話",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-12",
+            "filename": "thumb.png",
+            "query": "version=1728376517",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/198-12",
+            "filename": "portrait.png",
+            "query": "version=1728376517",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "198-12_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 私達以外、ハッピーホリデイでみんな帰っちゃった",
+        "content": "初めて《魔法使い》に対する互いの気持ちを打ち明け合い、少し打ち解けたクルミとユズ。\n期末テストが終わり、お楽しみパーティーに興じる一組のメンバーに、マ組を「クラス落ち」したアニクが合流する。\nそれぞれに帰省の途につく生徒たちだったが、クルミ・ユズ・アスカ・キョウ・アニクだけは寮に残り、冬休みを一緒に過ごすことになる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "クルミ＝ミライ：菱川花菜",
+            "ユズ＝エーデル：山田美鈴",
+            "ミナミ＝スズキ：堀江由衣",
+            "マキ＝クミール：真野あゆみ",
+            "アスカ＝クルマル：林幸矢",
+            "キョウ＝クルマル：小林千晃"
+        ],
+        "crews": [
+            "原案：赤坂優月「魔法使いになれなかった女の子の話。」",
+            "総監督：渡部高志",
+            "監督：松根マサト",
+            "シリーズ構成・脚本：金杉弘子",
+            "キャラクター原案：星野リリィ",
+            "キャラクターデザイン：松浦麻衣",
+            "音楽：下村陽子",
+            "編曲：松尾早人、原口 大、 𠮷川美矩",
+            "音響監督：岩浪美和",
+            "美術監督：泉健太郎",
+            "色彩設計：舩橋美香",
+            "撮影監督：八木祐理奈",
+            "編集：須藤瞳",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(C)「まほなれ」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1731395616,
+    "endAt": 1798729200,
+    "freeEndAt": 1731952800,
+    "transcodeVersion": "7GzbX4",
+    "sharedLink": {
+        "twitter": "https://abema.app/xZxJ",
+        "facebook": "https://abema.app/H2Rg",
+        "google": "https://abema.app/LUUt",
+        "line": "https://abema.app/YFk5",
+        "copy": "https://abema.app/PCND",
+        "instagram": "https://abema.app/utMZ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/198-12_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/198-12_s1_p6/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/198-12_s1_p6/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/198-12_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.198-12_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.0220416666666,
+        "opening": {
+            "start": 30.03,
+            "end": 119.994875
+        },
+        "ending": {
+            "start": 1315.0220416666666,
+            "end": 1404.9869166666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/198-12_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1731952800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1798729200
+        }
+    ],
+    "episodeGroupId": "198-12_eg0",
+    "skipVmap": true
+}

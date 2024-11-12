@@ -1,0 +1,105 @@
+{
+    "id": "218-756_s1_p1",
+    "series": {
+        "id": "218-756",
+        "title": "ぷにるとかわいい振り返り特番",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-756",
+            "filename": "thumb.png",
+            "query": "version=1730960844",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-756",
+            "filename": "portrait.png",
+            "query": "version=1730960844",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-756_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3165
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "ぷにるとかわいい振り返り特番",
+        "content": "特別番組『ぷにるとかわいい振り返り特番』には、篠原侑さん（ぷにる役）、梅田修一朗さん（河合井コタロー役）、榎木淳弥さん（南波遊助役）が出演。これまで放送された第1話から第5話までを厳選シーンとともに振り返るほか、『かわいいぷにるの部屋』と題したキャストトーク企画も実施。さらに3人が、ぷにるが歌う話題のOPテーマ『ぎゅむ！』を踊り、ラストの“超絶かわいい”決めポーズを考える「OPテーマ『ぎゅむ！』サビの振り付け動画を考えてみた！」と題したコーナーも実施。3人のかわいいダンスに注目です。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ぷにる役：篠原侑",
+            "河合井コタロー役：梅田修一朗",
+            "南波遊助役：榎木淳弥"
+        ],
+        "copyrights": [
+            "(C)まえだくん／小学館／ぷにる製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1730960884,
+    "endAt": 1740747600,
+    "freeEndAt": 1740747600,
+    "transcodeVersion": "5V2ssW",
+    "sharedLink": {
+        "twitter": "https://abema.app/2oYF",
+        "facebook": "https://abema.app/zHku",
+        "google": "https://abema.app/PC78",
+        "line": "https://abema.app/PJPL",
+        "copy": "https://abema.app/oCYY",
+        "instagram": "https://abema.app/GLfX"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-756_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-756_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-756_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-756_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-756_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 3160.3905666666665
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-756_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740747600
+        }
+    ],
+    "episodeGroupId": "218-756_eg0",
+    "skipVmap": true
+}

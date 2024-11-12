@@ -1,0 +1,144 @@
+{
+    "id": "415-7_s1_p3",
+    "series": {
+        "id": "415-7",
+        "title": "まじっく快斗",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-7",
+            "filename": "thumb.png",
+            "query": "version=1705984069",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-7",
+            "filename": "portrait.png",
+            "query": "version=1705984069",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-7_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1459
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 王女様はマジックがお好き",
+        "content": "サブリナ公国のアン王女が名画と宝石展のために来日。アン王女はダイヤのペンダント、パリの太陽を怪盗キッドにも見て欲しいと発言する。公国のドロン刑事は、展示場の警備はすべて公国の警察がやると中森警部に言い放つ。警備から外された中森は快斗、娘の青子と共にオープニングパーティーが行われる展示場へ。快斗は中森、青子から離れると公国の警官に変装。キッドはアン王女がいる４階へ向かうが、ドロン刑事に気付かれて…。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "黒羽海斗:山口勝平",
+            "中森青子:藤村歩",
+            "中森銀三:石塚運昇",
+            "黒羽盗一:池田秀一",
+            "黒羽千影:富沢美智恵",
+            "寺井黄之助:矢田耕司"
+        ],
+        "crews": [
+            "原作:青山剛昌",
+            "チーフプロデューサー:諏訪道彦、石山桂一",
+            "プロデューサー北田修一、溝上猛",
+            "アソシエイトプロデューサー:浅井認",
+            "監督:平野俊貴",
+            "音楽:梅堀淳"
+        ],
+        "copyrights": [
+            "（Ｃ）2010 青山剛昌／小学館・「まじっく快斗」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1706066884,
+    "endAt": 1743433200,
+    "freeEndAt": 1731992400,
+    "transcodeVersion": "2vg2we",
+    "sharedLink": {
+        "twitter": "https://abema.app/tEm7",
+        "facebook": "https://abema.app/wzta",
+        "google": "https://abema.app/ZuGp",
+        "line": "https://abema.app/DLhE",
+        "copy": "https://abema.app/9YsQ",
+        "instagram": "https://abema.app/SVFZ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/415-7_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/415-7_s1_p3/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/415-7_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/415-7_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-7_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1425.0236,
+        "opening": {
+            "start": 15.181833333333334,
+            "end": 115.0149
+        },
+        "ending": {
+            "start": 1345.0103333333334,
+            "end": 1424.9902333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-7_s1_p4",
+        "title": "第4話 魔女は涙をこぼさない",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706066884,
+        "endAt": 1743433200,
+        "freeEndAt": 1731992400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1731992400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-7_s1_p3/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1731992400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "415-7_eg0",
+    "skipVmap": true
+}

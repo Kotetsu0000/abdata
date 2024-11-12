@@ -1,0 +1,140 @@
+{
+    "id": "415-7_s1_p1",
+    "series": {
+        "id": "415-7",
+        "title": "まじっく快斗",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-7",
+            "filename": "thumb.png",
+            "query": "version=1705984069",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-7",
+            "filename": "portrait.png",
+            "query": "version=1705984069",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-7_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1444
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 蘇る怪盗",
+        "content": "マジックが得意な高校生・黒羽快斗は、ある日、自室にあった隠し扉の存在に気付く。そこで見つけたものは、「怪盗キッド」の衣装だった。怪盗キッドは８年前に快斗の父で世界的マジシャンだった黒羽盗一がマジックショーの最中に事故死した時を同じくして身を潜めていたが、最近になって活動を再開していた。その衣装がなぜここに？快斗は亡き父の死の真相を求めて、キッドの犯行予告現場へ向かう。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "黒羽海斗:山口勝平",
+            "中森青子:藤村歩",
+            "中森銀三:石塚運昇",
+            "黒羽盗一:池田秀一",
+            "黒羽千影:富沢美智恵",
+            "寺井黄之助:矢田耕司"
+        ],
+        "crews": [
+            "原作:青山剛昌",
+            "チーフプロデューサー:諏訪道彦、石山桂一",
+            "プロデューサー北田修一、溝上猛",
+            "アソシエイトプロデューサー:浅井認",
+            "監督:平野俊貴",
+            "音楽:梅堀淳"
+        ],
+        "copyrights": [
+            "（Ｃ）2010 青山剛昌／小学館・「まじっく快斗」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1706066884,
+    "endAt": 1743433200,
+    "freeEndAt": 1731992400,
+    "transcodeVersion": "GNS9h",
+    "sharedLink": {
+        "twitter": "https://abema.app/cX1D",
+        "facebook": "https://abema.app/fzuo",
+        "google": "https://abema.app/AfGj",
+        "line": "https://abema.app/7e8g",
+        "copy": "https://abema.app/Tvte",
+        "instagram": "https://abema.app/CLvx"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-7_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-7_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/415-7_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-7_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-7_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1409.9418666666666,
+        "ending": {
+            "start": 1290.0220666666667,
+            "end": 1409.9085
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-7_s1_p2",
+        "title": "第2話 怪盗キッドの忙しいデート",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706066884,
+        "endAt": 1743433200,
+        "freeEndAt": 1731992400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1731992400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-7_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1731992400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "415-7_eg0",
+    "skipVmap": true
+}

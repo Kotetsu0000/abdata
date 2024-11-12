@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p1",
             "filename": "thumb002.png",
-            "query": "version=1730802411",
+            "query": "version=1731395588",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p2",
             "filename": "thumb002.png",
-            "query": "version=1730802411",
+            "query": "version=1731395588",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p3",
             "filename": "thumb002.png",
-            "query": "version=1730802411",
+            "query": "version=1731395588",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p4",
             "filename": "thumb002.png",
-            "query": "version=1730802411",
+            "query": "version=1731395588",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p5",
             "filename": "thumb002.png",
-            "query": "version=1730802838",
+            "query": "version=1731395589",
             "extension": "png"
         },
         "episode": {
@@ -134,6 +134,35 @@
                 {
                     "onDemandType": 3,
                     "endAt": 1731934800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1427
+        }
+    },
+    {
+        "id": "169-116_s2_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p6",
+            "filename": "thumb001.png",
+            "query": "version=1731395589",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話 記憶の楔",
+            "content": "リーゼロッテたちの窮地を救ったリオは、一行の中にベルトラム王国の学院で旧友だったフローラとロアナがいることを知り、ハルトと名乗って正体を偽る。だがフローラは、名前も髪の色も違うハルトにリオの面影を感じていた。なりゆきで一緒の馬車に同乗してアマンドに向かうことになったリオ。一方精霊の里では、亜紀が子供の頃を思い出し、一人立ちすくんでいた。それはかつての兄、天川春人との悲しい別れの記憶だった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1731430800
                 }
             ],
             "broadcastRegionPolicy": 1,

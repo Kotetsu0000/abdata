@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5016",
             "filename": "thumb001.png",
-            "query": "version=1731127202",
+            "query": "version=1731376853",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5023",
             "filename": "thumb001.png",
-            "query": "version=1731127203",
+            "query": "version=1731376853",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5025",
             "filename": "thumb001.png",
-            "query": "version=1731127203",
+            "query": "version=1731376853",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5027",
             "filename": "thumb001.png",
-            "query": "version=1731127203",
+            "query": "version=1731376853",
             "extension": "png"
         },
         "episode": {
@@ -113,6 +113,35 @@
         },
         "info": {
             "duration": 633
+        }
+    },
+    {
+        "id": "218-706_s1_p5029",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p5029",
+            "filename": "thumb001.png",
+            "query": "version=1731376853",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 5029,
+            "title": "#28：平成・昭和の懐かしアニメSP！アニメ「機動戦艦ナデシコ」を特集！",
+            "content": "平成の名作アニメ・1996年放送の元祖SF萌えアニメ「機動戦艦ナデシコ」の魅力を紹介。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1762606800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 804
         }
     }
 ]
