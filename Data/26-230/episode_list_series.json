@@ -25,7 +25,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1726826300",
+                "query": "version=1731463568",
                 "extension": "png"
             },
             "order": 1
@@ -88,9 +88,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1731395601,
         "endAt": 1759244400,
+        "freeEndAt": 1732107600,
         "transcodeVersion": "6xLUhz",
         "sharedLink": {
             "twitter": "https://abema.app/1CbR",
@@ -114,8 +117,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1731502800
+                "onDemandType": 3,
+                "endAt": 1732107600
             }
         ],
         "episodeGroupId": "26-230_eg0"
@@ -146,7 +149,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1726826300",
+                "query": "version=1731463568",
                 "extension": "png"
             },
             "order": 1
@@ -209,9 +212,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1731395601,
         "endAt": 1759244400,
+        "freeEndAt": 1732107600,
         "transcodeVersion": "7Qz1fr",
         "sharedLink": {
             "twitter": "https://abema.app/vLSY",
@@ -235,8 +241,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1731502800
+                "onDemandType": 3,
+                "endAt": 1732107600
             }
         ],
         "episodeGroupId": "26-230_eg0"
@@ -267,7 +273,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1726826300",
+                "query": "version=1731463568",
                 "extension": "png"
             },
             "order": 1
@@ -330,9 +336,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1731395601,
         "endAt": 1759244400,
+        "freeEndAt": 1732107600,
         "transcodeVersion": "72zUDa",
         "sharedLink": {
             "twitter": "https://abema.app/FKMj",
@@ -356,8 +365,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1731502800
+                "onDemandType": 3,
+                "endAt": 1732107600
             }
         ],
         "episodeGroupId": "26-230_eg0"
@@ -388,7 +397,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1726826300",
+                "query": "version=1731463568",
                 "extension": "png"
             },
             "order": 1
@@ -451,9 +460,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1731395601,
         "endAt": 1759244400,
+        "freeEndAt": 1732107600,
         "transcodeVersion": "2EWLUQ",
         "sharedLink": {
             "twitter": "https://abema.app/tjBw",
@@ -477,8 +489,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1731502800
+                "onDemandType": 3,
+                "endAt": 1732107600
             }
         ],
         "episodeGroupId": "26-230_eg0"
@@ -509,7 +521,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1726826300",
+                "query": "version=1731463568",
                 "extension": "png"
             },
             "order": 1
@@ -572,9 +584,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1731395601,
         "endAt": 1759244400,
+        "freeEndAt": 1732107600,
         "transcodeVersion": "3ToffC",
         "sharedLink": {
             "twitter": "https://abema.app/XBQw",
@@ -598,8 +613,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1731502800
+                "onDemandType": 3,
+                "endAt": 1732107600
             }
         ],
         "episodeGroupId": "26-230_eg0"
@@ -630,7 +645,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1726826300",
+                "query": "version=1731463568",
                 "extension": "png"
             },
             "order": 1
@@ -639,7 +654,13 @@
             "duration": 1420
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003",
+                "thumb004",
+                "thumb005"
+            ]
         },
         "episode": {
             "number": 6,
@@ -690,9 +711,9 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731395601,
+        "imageUpdatedAt": 1731496115,
         "endAt": 1759244400,
-        "freeEndAt": 1731985200,
+        "freeEndAt": 1732107600,
         "transcodeVersion": "3HAAy9",
         "sharedLink": {
             "twitter": "https://abema.app/sVZi",
@@ -717,7 +738,7 @@
         "terms": [
             {
                 "onDemandType": 3,
-                "endAt": 1731985200
+                "endAt": 1732107600
             }
         ],
         "episodeGroupId": "26-230_eg0"
@@ -748,7 +769,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-230_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1726826300",
+                "query": "version=1731463568",
                 "extension": "png"
             },
             "order": 1

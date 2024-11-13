@@ -582,7 +582,12 @@
             "duration": 1069
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003",
+                "thumb004"
+            ]
         },
         "episode": {
             "number": 6,
@@ -622,7 +627,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731314649,
+        "imageUpdatedAt": 1731467976,
         "endAt": 1769871600,
         "freeEndAt": 1731834000,
         "transcodeVersion": "518EPL",
