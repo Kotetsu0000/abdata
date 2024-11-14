@@ -1,0 +1,129 @@
+{
+    "id": "248-22_s1_p2",
+    "series": {
+        "id": "248-22",
+        "title": "マーダーミステリー・オブ・ザ・デッド",
+        "label": {
+            "free": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-22",
+            "filename": "thumb.png",
+            "query": "version=1729833007",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-22",
+            "filename": "portrait.png",
+            "query": "version=1729833007",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "248-22_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1421
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第1話",
+        "content": "ゾンビパンデミックで崩壊した世界。\n記憶を失い、見知らぬ場所で目覚めた主人公・天野ミコトは、6人の少女たち、蘭奈、莉莉、夕、史香、ムルムル、るみなに保護される。しかし、平穏な日々が突如として破られ、ミコトと共に保護された男が殺されるという衝撃の事件が発生する。\n犯人はこの中に、そして次は…\n東急歌舞伎町タワーを舞台に、密室と化したタワー内で次々と襲い掛かる謎と秘密。友情が芽生え始めた彼女たちは果たして事件の真相に辿り着くことができるのか―"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "天野 ミコト：佳原 萌枝",
+            "久世 蘭奈：Lynn",
+            "児玉 夕：安野 希世乃",
+            "るみな：朝日奈 丸佳",
+            "篠原 史香：河瀬 茉希",
+            "荒牧 莉莉：巻野 椿",
+            "ムルムル：遠野 ひかる"
+        ],
+        "crews": [
+            "原案：秋口 ぎぐる・森川 秀樹（グループSNE・cosaic刊）",
+            "監督：石井 友博",
+            "シリーズ構成：秋口 ぎぐる",
+            "脚本：みかみてれん",
+            "製作：株式会社ABCアニメーション、バルス株式会社"
+        ],
+        "copyrights": [
+            "(C)マーダーミステリー・オブ・ザ・デッド製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1730943184,
+    "endAt": 1767193200,
+    "freeEndAt": 1767193200,
+    "transcodeVersion": "4o2oTi",
+    "sharedLink": {
+        "twitter": "https://abema.app/3HoV",
+        "facebook": "https://abema.app/8y2e",
+        "google": "https://abema.app/Q75J",
+        "line": "https://abema.app/QufF",
+        "copy": "https://abema.app/xxo6",
+        "instagram": "https://abema.app/2PDj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/248-22_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/248-22_s1_p2/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/248-22_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/248-22_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.248-22_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1331.33,
+        "opening": {
+            "end": 90.04829166666667
+        },
+        "ending": {
+            "start": 1331.33,
+            "end": 1421.3782916666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/248-22_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "248-22_eg0",
+    "skipVmap": true
+}
