@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1731682800
+                    "onDemandType": 1,
+                    "endAt": 1782831600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -142,6 +142,35 @@
         },
         "info": {
             "duration": 1091
+        }
+    },
+    {
+        "id": "190-28_s1_p6",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/190-28_s1_p6",
+            "filename": "thumb001.png",
+            "query": "version=1731316168",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 6,
+            "title": "第6話",
+            "content": "容姿のせいでいじめられていた女子高生ジュギョン。勉強もできないし、趣味といえばヘビーメタルを聴くことや、ホラー漫画を読むこと。あだ名は「肉まん」で、友達もいない・・・。そんな彼女が、メイクという魔法の武器を手に入れて劇的に変身！転校先の高校では瞬く間に人気者となり、学校一の女神を決める「女神選挙」の候補に選ばれる。しかし、行きつけの漫画喫茶でクールなイケメン同級生スホにすっぴんを見られてしまい、大ピンチに……！外見にとらわれず、自分らしさを探し求める青春ラブストーリー。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1732287600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1117
         }
     }
 ]

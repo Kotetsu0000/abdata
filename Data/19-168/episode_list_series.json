@@ -3369,7 +3369,11 @@
             "duration": 160
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 46,
@@ -3405,7 +3409,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731482666,
+        "imageUpdatedAt": 1731668021,
         "endAt": 1774969200,
         "freeEndAt": 1732127400,
         "transcodeVersion": "4BUg8E",

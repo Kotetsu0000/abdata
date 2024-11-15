@@ -1,0 +1,145 @@
+{
+    "id": "415-6_s1_p22",
+    "series": {
+        "id": "415-6",
+        "title": "まじっく快斗1412",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-6",
+            "filename": "thumb.png",
+            "query": "version=1707697138",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-6",
+            "filename": "portrait.png",
+            "query": "version=1707697138",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-6_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 22,
+        "title": "第22話 レッド・ティアー",
+        "content": "世界最大のルビー、レッド・ティアーを奪うと予告。このルビーは災いをもたらす悪魔の石と言われていた。快斗は父の盗一もこのルビーについて話していた事を思い出して予告を撤回するが、このルビーはスネイクが狙っていた。ショーの終盤、ルビーを身に付けた団長のジョディが観客に挨拶して回ると、キッドが出現して…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "黒羽快斗（怪盗キッド）：山口勝平",
+            "中森青子：M・A・O",
+            "小泉紅子：喜多村英梨",
+            "白馬探：宮野真守"
+        ],
+        "crews": [
+            "原作：青山剛昌",
+            "チーフプロデューサー：諏訪道彦、植田益朗",
+            "プロデューサー：永井幸治、落越友則",
+            "アニメーションプロデューサー：大松裕",
+            "監督：工藤進",
+            "助監督：ヤマトナオミチ",
+            "脚本：大野敏哉、岡田邦彦",
+            "キャラクターデザイン：緒方浩美",
+            "プロップデザイン：西澤千恵",
+            "美術監督：高畠聡",
+            "色彩設計：吉村智恵",
+            "撮影監督：岡﨑正春",
+            "CG監督：福田陽",
+            "音楽：岩崎琢"
+        ],
+        "copyrights": [
+            "（c）青山剛昌／小学館・読売テレビ・A-1 Pictures 2014"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1706004111,
+    "endAt": 1740754800,
+    "transcodeVersion": "7DL2NX",
+    "sharedLink": {
+        "twitter": "https://abema.app/rkHu",
+        "facebook": "https://abema.app/EX7S",
+        "google": "https://abema.app/VUqx",
+        "line": "https://abema.app/tb67",
+        "copy": "https://abema.app/eeN3",
+        "instagram": "https://abema.app/aLvB"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p22/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p22/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-6_s1_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.1004583333333,
+        "opening": {
+            "start": 66.98358333333333,
+            "end": 156.99016666666665
+        },
+        "ending": {
+            "start": 1310.1004583333333,
+            "end": 1400.023625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-6_s1_p23",
+        "title": "第23話 真夜中の烏（ミッドナイト・クロウ）《前編》その名は怪盗コルボー！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706004053,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1731938400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-6_s1_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1731938400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1732543200
+        }
+    ],
+    "episodeGroupId": "415-6_eg0",
+    "skipVmap": true
+}

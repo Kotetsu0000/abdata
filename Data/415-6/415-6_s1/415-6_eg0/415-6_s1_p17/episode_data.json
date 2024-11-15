@@ -1,0 +1,145 @@
+{
+    "id": "415-6_s1_p17",
+    "series": {
+        "id": "415-6",
+        "title": "まじっく快斗1412",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-6",
+            "filename": "thumb.png",
+            "query": "version=1707697138",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-6",
+            "filename": "portrait.png",
+            "query": "version=1707697138",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-6_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 17,
+        "title": "第17話 グリーンドリーム",
+        "content": "怪盗キッドは舞台「マルスとローザ」に使用される世界最大のエメラルド、グリーンドリームを奪うと予告。快斗は青子と一緒に初日の公演を観に行く。中森警部はバッテリー付きライトを20ヵ所に設置。キッドが現れないまま舞台はラストシーンになり、中森は闇に紛れなければ姿を消す事はできないと勝利を確信するが…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "黒羽快斗（怪盗キッド）：山口勝平",
+            "中森青子：M・A・O",
+            "小泉紅子：喜多村英梨",
+            "白馬探：宮野真守"
+        ],
+        "crews": [
+            "原作：青山剛昌",
+            "チーフプロデューサー：諏訪道彦、植田益朗",
+            "プロデューサー：永井幸治、落越友則",
+            "アニメーションプロデューサー：大松裕",
+            "監督：工藤進",
+            "助監督：ヤマトナオミチ",
+            "脚本：大野敏哉、岡田邦彦",
+            "キャラクターデザイン：緒方浩美",
+            "プロップデザイン：西澤千恵",
+            "美術監督：高畠聡",
+            "色彩設計：吉村智恵",
+            "撮影監督：岡﨑正春",
+            "CG監督：福田陽",
+            "音楽：岩崎琢"
+        ],
+        "copyrights": [
+            "（c）青山剛昌／小学館・読売テレビ・A-1 Pictures 2014"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1706004178,
+    "endAt": 1740754800,
+    "transcodeVersion": "37Lcg7",
+    "sharedLink": {
+        "twitter": "https://abema.app/Wz69",
+        "facebook": "https://abema.app/bXpx",
+        "google": "https://abema.app/pH3u",
+        "line": "https://abema.app/ZBKf",
+        "copy": "https://abema.app/4vED",
+        "instagram": "https://abema.app/w6hY"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p17/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p17/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-6_s1_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 1312.7280833333334,
+        "opening": {
+            "start": 206.99845833333333,
+            "end": 297.00504166666667
+        },
+        "ending": {
+            "start": 1313.2285833333333,
+            "end": 1400.14875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-6_s1_p18",
+        "title": "第18話 ゴールデン・アイ（前編）黒猫（シャノワール）の挑戦",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706004163,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1731852000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-6_s1_p17/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1731852000
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1732514400
+        }
+    ],
+    "episodeGroupId": "415-6_eg0",
+    "skipVmap": true
+}

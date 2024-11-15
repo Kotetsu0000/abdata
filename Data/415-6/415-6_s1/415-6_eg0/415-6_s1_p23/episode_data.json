@@ -1,0 +1,145 @@
+{
+    "id": "415-6_s1_p23",
+    "series": {
+        "id": "415-6",
+        "title": "まじっく快斗1412",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-6",
+            "filename": "thumb.png",
+            "query": "version=1707697138",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/415-6",
+            "filename": "portrait.png",
+            "query": "version=1707697138",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "415-6_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1429
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 真夜中の烏（ミッドナイト・クロウ）《前編》その名は怪盗コルボー！",
+        "content": "キッドは世界最大のブラックダイヤモンド、ミッドナイト・クロウを奪いに行くが中森、白馬の作戦によって失敗。中森に助言したのはマジック破りの名人、ハリー・根津だった。来日したハリーは自分の獲物はキッドではなく、怪盗コルボーだと中森に打ち明ける。キッドはコルボーから泥棒稼業の引退をかけた勝負を挑まれて…。"
+    },
+    "credit": {
+        "released": 2014,
+        "casts": [
+            "黒羽快斗（怪盗キッド）：山口勝平",
+            "中森青子：M・A・O",
+            "小泉紅子：喜多村英梨",
+            "白馬探：宮野真守"
+        ],
+        "crews": [
+            "原作：青山剛昌",
+            "チーフプロデューサー：諏訪道彦、植田益朗",
+            "プロデューサー：永井幸治、落越友則",
+            "アニメーションプロデューサー：大松裕",
+            "監督：工藤進",
+            "助監督：ヤマトナオミチ",
+            "脚本：大野敏哉、岡田邦彦",
+            "キャラクターデザイン：緒方浩美",
+            "プロップデザイン：西澤千恵",
+            "美術監督：高畠聡",
+            "色彩設計：吉村智恵",
+            "撮影監督：岡﨑正春",
+            "CG監督：福田陽",
+            "音楽：岩崎琢"
+        ],
+        "copyrights": [
+            "（c）青山剛昌／小学館・読売テレビ・A-1 Pictures 2014"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1706004053,
+    "endAt": 1740754800,
+    "transcodeVersion": "JmXYM",
+    "sharedLink": {
+        "twitter": "https://abema.app/rjua",
+        "facebook": "https://abema.app/zrWo",
+        "google": "https://abema.app/7GLw",
+        "line": "https://abema.app/Df2A",
+        "copy": "https://abema.app/eydq",
+        "instagram": "https://abema.app/CREY"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p23/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/415-6_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.415-6_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.8245,
+        "opening": {
+            "start": 66.98358333333333,
+            "end": 156.99016666666665
+        },
+        "ending": {
+            "start": 1325.8245,
+            "end": 1399.9402083333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "415-6_s1_p24",
+        "title": "第24話 真夜中の烏（ミッドナイト・クロウ）《後編》激突！白か黒か！？",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1706004042,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1731938400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/415-6_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1731938400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1732543200
+        }
+    ],
+    "episodeGroupId": "415-6_eg0",
+    "skipVmap": true
+}
