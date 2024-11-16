@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p1",
             "filename": "thumb002.png",
-            "query": "version=1730801461",
+            "query": "version=1731314582",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p2",
             "filename": "thumb002.png",
-            "query": "version=1730801461",
+            "query": "version=1731314582",
             "extension": "png"
         },
         "episode": {
@@ -61,8 +61,8 @@
         "id": "117-10tuysdmweyg_s3_p3",
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p3",
-            "filename": "thumb001.png",
-            "query": "version=1730801461",
+            "filename": "thumb002.png",
+            "query": "version=1731314582",
             "extension": "png"
         },
         "episode": {
@@ -74,8 +74,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1769871600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 180
+        }
+    },
+    {
+        "id": "117-10tuysdmweyg_s3_p4",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p4",
+            "filename": "thumb002.png",
+            "query": "version=1731724907",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 4,
+            "title": "第4話",
+            "content": "とある星に住む、バナナにひそむふしぎなにゃんこ「ばなにゃ」。\nある日、ばなにゃのもとに光の球が近づいてくると、\nピカっと光り、中から小さいばなにゃ「ベイビースイート」が現われました！！\n\nあっという間に仲良しになったふたりは、\n世界中のあらゆる場所をめぐる大冒険へと出かけていくことに。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731682800
+                    "endAt": 1732287600
                 }
             ],
             "broadcastRegionPolicy": 1,
