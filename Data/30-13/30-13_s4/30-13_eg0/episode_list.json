@@ -132,8 +132,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2022,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1509
+        }
+    },
+    {
+        "id": "30-13_s4_p42",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/30-13_s4_p42",
+            "filename": "thumb001.png",
+            "query": "version=1731316062",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 42,
+            "title": "第42話",
+            "content": "最高権力者ラインハルトの善政による改⾰が国⺠からも⽀持されている銀河帝国と、不敗の魔術師ヤンらの活躍も空しく、政府の腐敗による国力低下が著しい自由惑星同盟。 両国間の勢力バランスに大きな変化が生じる中、第三の勢力フェザーンの自治領主ルビンスキーは、自由惑星同盟を見限り、大きな陰謀をめぐらせていた。 ラインハルトは、幼い銀河帝国皇帝の誘拐と自由惑星同盟への亡命というその企みを知りながらも、自身の野望のため利用しようと考える。ヤンも同盟に最大の危機が迫りつつあることは予感していたが……。 そんな中、正式な軍人になったユリアンをフェザーンの駐在武官に任命する命令が届く。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731812400
+                    "endAt": 1732417200
                 }
             ],
             "broadcastRegionPolicy": 1,

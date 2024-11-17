@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1731841200
+                    "onDemandType": 1,
+                    "endAt": 1893423600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -74,8 +74,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1731841200
+                    "onDemandType": 1,
+                    "endAt": 1893423600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1731841200
+                    "onDemandType": 1,
+                    "endAt": 1893423600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1731841200
+                    "onDemandType": 1,
+                    "endAt": 1893423600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -161,8 +161,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1893423600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1380
+        }
+    },
+    {
+        "id": "12-26_s1_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/12-26_s1_p7",
+            "filename": "thumb001.png",
+            "query": "version=1731316074",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "第7話",
+            "content": "ある日突然、メイドさんが営業に来た――。\n高校生・横谷人好の家に突然の来訪者が現れた。\n黒髪で清廉、丁重な言葉使いが特徴的なメイドさん。\n第一声は「私を雇って欲しい」。\n彼女は前職が“殺し屋”、特技は“暗殺”、家事は全くの初心者で“ドジっ子”\n運命の出会いから、メイドさんと同じ屋根の下での共同生活がスタートする…！？\nだんだんと、感情を知らない彼女の心が揺れ動いていく――。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731841200
+                    "endAt": 1732381200
                 }
             ],
             "broadcastRegionPolicy": 1,

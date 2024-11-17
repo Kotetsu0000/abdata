@@ -3554,12 +3554,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1700460465,
         "endAt": 1756652400,
-        "freeEndAt": 1731783600,
         "transcodeVersion": "7X2uXy",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/2Zbsz",
@@ -3584,8 +3581,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1731783600
+                "onDemandType": 1,
+                "endAt": 1756652400
             }
         ],
         "episodeGroupId": "35-35_eg0"
@@ -3649,12 +3646,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1700460465,
         "endAt": 1756652400,
-        "freeEndAt": 1731783600,
         "transcodeVersion": "39wP84",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/n9gFW",
@@ -3679,8 +3673,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1731783600
+                "onDemandType": 1,
+                "endAt": 1756652400
             }
         ],
         "episodeGroupId": "35-35_eg0"
@@ -3744,12 +3738,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1700460466,
         "endAt": 1756652400,
-        "freeEndAt": 1731783600,
         "transcodeVersion": "52Gj7Y",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/yE1rr",
@@ -3774,8 +3765,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1731783600
+                "onDemandType": 1,
+                "endAt": 1756652400
             }
         ],
         "episodeGroupId": "35-35_eg0"
@@ -5264,9 +5255,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1700460466,
         "endAt": 1756652400,
+        "freeEndAt": 1732474800,
         "transcodeVersion": "2ZK2bt",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/dDucm",
@@ -5291,8 +5285,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1731785460
+                "onDemandType": 3,
+                "endAt": 1732474800
             }
         ],
         "episodeGroupId": "35-35_eg10"
