@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p101",
             "filename": "thumb002.png",
-            "query": "version=1731314347",
+            "query": "version=1731914137",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p102",
             "filename": "thumb002.png",
-            "query": "version=1731314347",
+            "query": "version=1731914137",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p103",
             "filename": "thumb002.png",
-            "query": "version=1731314347",
+            "query": "version=1731914137",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p104",
             "filename": "thumb002.png",
-            "query": "version=1731407643",
+            "query": "version=1731914137",
             "extension": "png"
         },
         "episode": {
@@ -103,8 +103,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1774969200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 155
+        }
+    },
+    {
+        "id": "189-75_s1_p105",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p105",
+            "filename": "thumb001.png",
+            "query": "version=1731914137",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 105,
+            "title": "第5話 殿と童",
+            "content": "【犬】に興味津々な近所の子供、ハル。【犬】を追いかけ、気づけば見知らぬ場所に。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731870900
+                    "endAt": 1732475700
                 }
             ],
             "broadcastRegionPolicy": 1,

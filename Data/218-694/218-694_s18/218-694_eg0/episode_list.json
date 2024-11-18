@@ -3236,8 +3236,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1731934800
+                    "onDemandType": 1,
+                    "endAt": 1825858800
                 }
             ],
             "releaseYear": 2024,
@@ -3357,6 +3357,34 @@
         },
         "info": {
             "duration": 1022
+        }
+    },
+    {
+        "id": "218-694_s18_p126",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-694_s18_p126",
+            "filename": "thumb002.png",
+            "query": "version=1731900082",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 126,
+            "title": "【金田朋子×畠中祐】#126",
+            "content": "【繋は金田朋子×畠中祐】\n月曜〜土曜まで人気声優が豪華なゲストや作品と共にお届けするディープな\"夜あそび\"。\nこの番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1732539600
+                }
+            ],
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1023
         }
     }
 ]

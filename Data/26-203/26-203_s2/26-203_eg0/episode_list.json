@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p25",
             "filename": "thumb002.png",
-            "query": "version=1731314666",
+            "query": "version=1731914977",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p26",
             "filename": "thumb002.png",
-            "query": "version=1731314666",
+            "query": "version=1731914977",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p27",
             "filename": "thumb002.png",
-            "query": "version=1731314666",
+            "query": "version=1731914977",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p28",
             "filename": "thumb002.png",
-            "query": "version=1731314666",
+            "query": "version=1731914977",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p29",
             "filename": "thumb002.png",
-            "query": "version=1731314666",
+            "query": "version=1731914977",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p30",
             "filename": "thumb002.png",
-            "query": "version=1731494906",
+            "query": "version=1731914978",
             "extension": "png"
         },
         "episode": {
@@ -171,6 +171,35 @@
         },
         "info": {
             "duration": 1370
+        }
+    },
+    {
+        "id": "26-203_s2_p31",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p31",
+            "filename": "thumb001.png",
+            "query": "version=1731914978",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 31,
+            "title": "第三十一話「京都到着」",
+            "content": "京都に到着した剣心と操は、料亭『葵屋』の前で、操の育ての親の『翁』こと柏崎念至に出迎えられる。すぐに剣心を抜刀斎だと見抜く翁に剣心は驚くが、その正体は、元隠密御庭番衆の一員だった。力を貸すという翁に、剣心は人探しを頼む。一方、同じく京都に到着した薫と弥彦は、京都の街中で蒼紫の姿を目にする。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1732503600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1369
         }
     }
 ]
