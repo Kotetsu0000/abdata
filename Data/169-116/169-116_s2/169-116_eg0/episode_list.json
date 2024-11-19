@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p1",
             "filename": "thumb002.png",
-            "query": "version=1731395588",
+            "query": "version=1731996852",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p2",
             "filename": "thumb002.png",
-            "query": "version=1731395588",
+            "query": "version=1731996852",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p3",
             "filename": "thumb002.png",
-            "query": "version=1731395588",
+            "query": "version=1731996852",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p4",
             "filename": "thumb002.png",
-            "query": "version=1731395588",
+            "query": "version=1731996852",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p5",
             "filename": "thumb002.png",
-            "query": "version=1731395589",
+            "query": "version=1731996852",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p6",
             "filename": "thumb002.png",
-            "query": "version=1731496310",
+            "query": "version=1731996853",
             "extension": "png"
         },
         "episode": {
@@ -162,6 +162,35 @@
             "terms": [
                 {
                     "onDemandType": 3,
+                    "endAt": 1732035600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1427
+        }
+    },
+    {
+        "id": "169-116_s2_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p7",
+            "filename": "thumb001.png",
+            "query": "version=1731996853",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "第7話 乱入者たち",
+            "content": "アマンドに到着したリオは、セリアたちと合流し、リーゼロッテの手配した宿でしばらくアマンドに滞在することを告げる。その夜、レストランで食事をしていたリオたちの個室に、学院時代に同級生だったアルフォンスがスティアードと女性たちを連れてやって来る。貴族の身分を笠に着てリオたちを部屋から追い出そうとする二人に、リオは素直に従い退室しようとするが、突如アルフォンスがその出口を塞ぎ、立ちはだかって――"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
                     "endAt": 1732035600
                 }
             ],

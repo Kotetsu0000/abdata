@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1731395601",
+            "query": "version=1731996869",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1731395601",
+            "query": "version=1731996869",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1731395601",
+            "query": "version=1731996869",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1731395601",
+            "query": "version=1731996869",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1731395601",
+            "query": "version=1731996869",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1731496115",
+            "query": "version=1731996869",
             "extension": "png"
         },
         "episode": {
@@ -171,6 +171,35 @@
         },
         "info": {
             "duration": 1420
+        }
+    },
+    {
+        "id": "26-230_s1_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p7",
+            "filename": "thumb001.png",
+            "query": "version=1731996869",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "第7話 異形葉",
+            "content": "青い夜についての調査を進める中で、ライトニングはある三人の名前に着目する。青い夜以降に正十字騎士團日本支部から離職したその三人は修道士となり、南十字男子修道院──奥村兄弟が育った場所でともに暮らしていた。当時の話を直接聞くため、修道院を訪ねるライトニングと勝呂。口をつぐむ彼等に強硬な手段も厭わないライトニングは、徐々に青い夜の謎へと迫っていく……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1732590000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1419
         }
     }
 ]

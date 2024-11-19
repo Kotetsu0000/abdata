@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1731395616",
+            "query": "version=1731996884",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1731395616",
+            "query": "version=1731996884",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1731395616",
+            "query": "version=1731996884",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1731395616",
+            "query": "version=1731996884",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1731395616",
+            "query": "version=1731996884",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1731496676",
+            "query": "version=1731996884",
             "extension": "png"
         },
         "episode": {
@@ -161,8 +161,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1798729200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "198-12_s1_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p7",
+            "filename": "thumb001.png",
+            "query": "version=1731996884",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "第7話 私、ハッピーホリデイなのに悲劇です！",
+            "content": "冬休み中、魔素パトの途中で《黒きモヤ》に襲われるマジ研のメンバーたち。とっさにユズが描いた魔法陣により古代魔法が発動し、ピンチを切り抜ける。\n自分の力に驚くユズと、なにもできなかったことで思い悩むクルミ。\nそうして迎えた大晦日、カウントダウンパーティーの途中で、ふたたびモヤが暴走を始める。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1731952800
+                    "endAt": 1732557600
                 }
             ],
             "broadcastRegionPolicy": 1,
