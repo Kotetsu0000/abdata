@@ -1,0 +1,133 @@
+{
+    "id": "19-172_s2_p19",
+    "series": {
+        "id": "19-172",
+        "title": "カミエラビ GOD.app",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "thumb.png",
+            "query": "version=1729068215",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "portrait.png",
+            "query": "version=1729068215",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-172_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1376
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 19,
+        "title": "episode19 世界を救いたいなら、そのスマホをタップすればいい",
+        "content": "覚醒したチカと、リョウが命をふり絞って呼び出したキョウ、そしてラルの攻撃によって“死を散蒔く者”はラルと共にパラレルワールドに落ちていく。能力が通用しない世界で、”死を散蒔く者”と対峙するラルとキョウ。その男の正体は、カミエラビを始めた男・ヒガキだった。そしてラルは、彼の記憶とカミエラビの真実を知ることとなる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ゴロー：浦 和希",
+            "ラル：佐倉綾音",
+            "ホノカ：松本沙羅",
+            "アキツ：内田修一",
+            "チカ：阿部菜摘子"
+        ],
+        "crews": [
+            "原案：ヨコオタロウ",
+            "監 督：瀬下寛之",
+            "脚本：じん",
+            "音楽：MONACA",
+            "キャラクターデザイン：大久保 篤",
+            "副監督：井手 恵介/石間 祐一/りょーちも",
+            "アニメーションキャラクターデザイン：山中 純子/もりやま　ゆうき"
+        ],
+        "copyrights": [
+            "(C)カミエラビ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1732088268,
+    "endAt": 1761922800,
+    "transcodeVersion": "2kvD8q",
+    "sharedLink": {
+        "twitter": "https://abema.app/72ag",
+        "facebook": "https://abema.app/yDPB",
+        "google": "https://abema.app/J3ey",
+        "line": "https://abema.app/KpsB",
+        "copy": "https://abema.app/N8vf",
+        "instagram": "https://abema.app/Y2NH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-172_s2_p19/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-172_s2_p19/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-172_s2_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-172_s2_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 1286.1181666666666,
+        "opening": {
+            "start": 56.056,
+            "end": 145.97916666666666
+        },
+        "ending": {
+            "start": 1286.1181666666666,
+            "end": 1376.12475
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-172_s2_p19/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "19-172_eg0",
+    "skipVmap": true
+}

@@ -16,8 +16,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1732107600
+                    "onDemandType": 3,
+                    "endAt": 1733317200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1732107600
+                    "onDemandType": 3,
+                    "endAt": 1733317200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -74,8 +74,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1732107600
+                    "onDemandType": 3,
+                    "endAt": 1733317200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1732107600
+                    "onDemandType": 3,
+                    "endAt": 1733317200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1732107600
+                    "onDemandType": 3,
+                    "endAt": 1733317200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -161,8 +161,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1732107600
+                    "onDemandType": 3,
+                    "endAt": 1733317200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -200,6 +200,35 @@
         },
         "info": {
             "duration": 1769
+        }
+    },
+    {
+        "id": "25-139_s3_p58",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-139_s3_p58",
+            "filename": "thumb001.png",
+            "query": "version=1731658969",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 58,
+            "title": "第58話",
+            "content": "襲い来るエルザたちの猛攻を退け、大兎との戦いでベアトリスとの契約を果たした「聖域」の解放から1年が過ぎた。\n王選に臨むエミリア陣営は一致団結、充実した日々を送っていたナツキ・スバルだったが、平穏は使者によって届けられた一枚の書状によって終わりを告げる。\nそれは王選候補者の一人、アナスタシアがエミリアへ宛てたルグニカの五大都市に数えられる水門都市プリステラへの招待状だった。\n招待を受け、プリステラへ向かうスバルたち一行を待っていたのは様々な再会。\n一つは意外な、一つは意図せぬ、そして一つは来るべき。水面下で蠢く悪意の胎動と降りかかる未曾有の危機。\n少年は再び過酷な運命に立ち向かう。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1732197600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
         }
     }
 ]
