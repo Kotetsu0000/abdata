@@ -776,9 +776,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1732080812,
         "endAt": 1830265200,
+        "freeEndAt": 1732800600,
         "transcodeVersion": "2nhs2h",
         "sharedLink": {
             "twitter": "https://abema.app/kLtu",
@@ -802,8 +805,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1732195800
+                "onDemandType": 3,
+                "endAt": 1732800600
             }
         ],
         "episodeGroupId": "194-43_eg0"

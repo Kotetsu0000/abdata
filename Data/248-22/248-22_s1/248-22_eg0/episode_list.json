@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/248-22_s1_p1",
             "filename": "thumb001.png",
-            "query": "version=1731659035",
+            "query": "version=1732176423",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/248-22_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1731668781",
+            "query": "version=1732176423",
             "extension": "png"
         },
         "episode": {
@@ -47,6 +47,35 @@
                 {
                     "onDemandType": 3,
                     "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1421
+        }
+    },
+    {
+        "id": "248-22_s1_p3",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/248-22_s1_p3",
+            "filename": "thumb002.png",
+            "query": "version=1732176423",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 3,
+            "title": "第2話「ライブ・ワイヤー」",
+            "content": "男を殺した犯人はこの7人の中にいる！？\n死体には鈍器で殴られた痕の他に、もう一つの謎の傷跡。\n疑い、探り合うようにそれぞれが持つ情報を話し始める少女たち。\n信奉者と呼ばれる集団の情報と昨夜の謎の歌声の噂。\nそして、一旦解散した後、それぞれの持ち物を探るミコトと蘭奈は、とある少女の荷物から血のついた凶器らしきものを発見した――"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1732726800
                 }
             ],
             "broadcastRegionPolicy": 1,

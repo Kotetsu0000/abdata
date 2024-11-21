@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p1",
             "filename": "thumb002.png",
-            "query": "version=1731659102",
+            "query": "version=1732176550",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p2",
             "filename": "thumb002.png",
-            "query": "version=1731659102",
+            "query": "version=1732176550",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p3",
             "filename": "thumb002.png",
-            "query": "version=1731659102",
+            "query": "version=1732176550",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p4",
             "filename": "thumb002.png",
-            "query": "version=1731659102",
+            "query": "version=1732176550",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p5",
             "filename": "thumb002.png",
-            "query": "version=1731659102",
+            "query": "version=1732176550",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p6",
             "filename": "thumb002.png",
-            "query": "version=1731659102",
+            "query": "version=1732176550",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p7",
             "filename": "thumb002.png",
-            "query": "version=1731722469",
+            "query": "version=1732176550",
             "extension": "png"
         },
         "episode": {
@@ -200,6 +200,35 @@
         },
         "info": {
             "duration": 1424
+        }
+    },
+    {
+        "id": "19-188_s2_p8",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-188_s2_p8",
+            "filename": "thumb001.png",
+            "query": "version=1732176550",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 8,
+            "title": "第8話 媼姫（中）",
+            "content": "婚礼服を着させられ、部屋に閉じ込められていた磨牙と温家の娘、山海（さんかい）。二人は協力して部屋からの脱出に成功する。外へ出ると、そこは天水の町の市のような場所だった。山海は記憶を辿って、かつての想い人、若麟（じゃく・りん）と過ごした学問所へと向かう。過去に駆け落ちしようとするも叶わず、彼との将来を諦めてしまったことを深く後悔していた山海は、若麟が今も学問所にいると信じていた。怪物に怯えながらも、磨牙は彼女とともに若麟を捜そうとするが…。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2021,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1425
         }
     }
 ]

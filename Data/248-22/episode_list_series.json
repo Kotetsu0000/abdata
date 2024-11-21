@@ -67,7 +67,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659035,
+        "imageUpdatedAt": 1732176423,
         "endAt": 1767193200,
         "freeEndAt": 1767193200,
         "transcodeVersion": "21Q3SV",
@@ -172,7 +172,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731668781,
+        "imageUpdatedAt": 1732176423,
         "endAt": 1767193200,
         "freeEndAt": 1767193200,
         "transcodeVersion": "4o2oTi",
@@ -200,6 +200,112 @@
             {
                 "onDemandType": 3,
                 "endAt": 1767193200
+            }
+        ],
+        "episodeGroupId": "248-22_eg0"
+    },
+    {
+        "id": "248-22_s1_p3",
+        "series": {
+            "id": "248-22",
+            "title": "マーダーミステリー・オブ・ザ・デッド",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-22",
+                "filename": "thumb.png",
+                "query": "version=1729833007",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/248-22",
+                "filename": "portrait.png",
+                "query": "version=1729833007",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "248-22_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/248-22_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1729833082",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 1421
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003",
+                "thumb004",
+                "thumb005"
+            ]
+        },
+        "episode": {
+            "number": 3,
+            "title": "第2話「ライブ・ワイヤー」",
+            "content": "男を殺した犯人はこの7人の中にいる！？\n死体には鈍器で殴られた痕の他に、もう一つの謎の傷跡。\n疑い、探り合うようにそれぞれが持つ情報を話し始める少女たち。\n信奉者と呼ばれる集団の情報と昨夜の謎の歌声の噂。\nそして、一旦解散した後、それぞれの持ち物を探るミコトと蘭奈は、とある少女の荷物から血のついた凶器らしきものを発見した――"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "天野 ミコト：佳原 萌枝",
+                "久世 蘭奈：Lynn",
+                "児玉 夕：安野 希世乃",
+                "るみな：朝日奈 丸佳",
+                "篠原 史香：河瀬 茉希",
+                "荒牧 莉莉：巻野 椿",
+                "ムルムル：遠野 ひかる"
+            ],
+            "crews": [
+                "原案：秋口 ぎぐる・森川 秀樹（グループSNE・cosaic刊）",
+                "監督：石井 友博",
+                "シリーズ構成：秋口 ぎぐる",
+                "脚本：みかみてれん",
+                "製作：株式会社ABCアニメーション、バルス株式会社"
+            ],
+            "copyrights": [
+                "(C)マーダーミステリー・オブ・ザ・デッド製作委員会"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1732176423,
+        "endAt": 1767193200,
+        "freeEndAt": 1732726800,
+        "transcodeVersion": "ThAG5",
+        "sharedLink": {
+            "twitter": "https://abema.app/xLMs",
+            "facebook": "https://abema.app/hsWB",
+            "google": "https://abema.app/nFUm",
+            "line": "https://abema.app/uWS1",
+            "copy": "https://abema.app/La89",
+            "instagram": "https://abema.app/TjeH"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/248-22_s1_p3/1/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1732726800
             }
         ],
         "episodeGroupId": "248-22_eg0"
