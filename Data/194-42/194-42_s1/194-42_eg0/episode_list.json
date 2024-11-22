@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1731659794",
+            "query": "version=1732253330",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1731659794",
+            "query": "version=1732253330",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1731659794",
+            "query": "version=1732253330",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1731659794",
+            "query": "version=1732253331",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1731659794",
+            "query": "version=1732253331",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1731659794",
+            "query": "version=1732253331",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1731722114",
+            "query": "version=1732253331",
             "extension": "png"
         },
         "episode": {
@@ -190,8 +190,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 3,
+                    "endAt": 1732813200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1449
+        }
+    },
+    {
+        "id": "194-42_s1_p8",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p8",
+            "filename": "thumb001.png",
+            "query": "version=1732253331",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 8,
+            "title": "第8話 決戦前夜",
+            "content": "ゲオルグに3日の猶予を与えられたドランたち。しかしエンテ森の族長たちは、期限の前に魔族に力を供給する魔界門を破壊することを決定する。ドランたちの協力の申し出も受け入れられ、ドランは森の住人たちの思いに応えるべく、決意を新たにする。エンテの森に住むすべての種族が結束し、魔族との決戦がついに幕を開ける！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 1,
-                    "endAt": 1732208400
+                    "endAt": 1732813200
                 }
             ],
             "broadcastRegionPolicy": 1,

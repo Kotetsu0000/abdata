@@ -23,7 +23,7 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/189-69_s1",
                 "filename": "default_thumb.png",
-                "query": "version=1719991366",
+                "query": "version=1732177746",
                 "extension": "png"
             },
             "episodeGroups": [
@@ -38,9 +38,11 @@
     "copyrights": [
         "(C)Go Nagai/Dynamic Planning-Project GrendizerU"
     ],
-    "label": {},
-    "version": "1727786595084377034",
-    "imageUpdatedAt": 1719991344,
+    "label": {
+        "free": true
+    },
+    "version": "1732178283551722442",
+    "imageUpdatedAt": 1732177727,
     "programOrder": "seq",
     "sharedLink": {
         "twitter": "https://abema.app/HULp",
@@ -53,18 +55,19 @@
     "thumbComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-69",
         "filename": "thumb.png",
-        "query": "version=1719991344",
+        "query": "version=1732177727",
         "extension": "png"
     },
     "thumbPortraitComponent": {
         "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-69",
         "filename": "portrait.png",
-        "query": "version=1719991344",
+        "query": "version=1732177727",
         "extension": "png"
     },
     "onDemandTypes": [
-        1
+        3
     ],
+    "freeBenefitTag": "全話無料",
     "contentPattern": 1,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
 }

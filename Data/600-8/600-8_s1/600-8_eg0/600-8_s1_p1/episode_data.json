@@ -1,0 +1,148 @@
+{
+    "id": "600-8_s1_p1",
+    "series": {
+        "id": "600-8",
+        "title": "百姓貴族",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-8",
+            "filename": "thumb.png",
+            "query": "version=1731377824",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-8",
+            "filename": "portrait.png",
+            "query": "version=1731377824",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "600-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 240
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "１頭目　牛乳",
+        "content": "日本の食糧倉庫「北海道」で人々を飢えから救うべく、\n日々泥にまみれて働くマンガ描きがいた！\nその者の名は、農民・荒川！！\n今回は皆さんに「牛乳」について驚きのエピソードをお話しします。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "荒川 弘：田村睦心",
+            "イシイさん：本多真梨子",
+            "親父殿：千葉繁",
+            "おかん：くじら"
+        ],
+        "crews": [
+            "原作：荒川弘（新書館「ウィングス」連載）",
+            "監督・脚本・演出：澤田裕太郎",
+            "キャラクターデザイン・作画監督・作画：まつもとあやね",
+            "背景作画：あり",
+            "エンディングアニメーション：やまだみのり",
+            "音楽：Precious tone",
+            "制作監修：新海岳人",
+            "アニメーション制作：Pie in the sky",
+            "農業監修：一般社団法人　全国農業協同組合中央会",
+            "製作：『百姓貴族』製作委員会"
+        ],
+        "copyrights": [
+            "(C) 荒川弘・新書館／『百姓貴族』製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1729853352,
+    "endAt": 1764514800,
+    "freeEndAt": 1764514800,
+    "transcodeVersion": "3NBbtf",
+    "sharedLink": {
+        "twitter": "https://abema.app/yiN7",
+        "facebook": "https://abema.app/2tdY",
+        "google": "https://abema.app/e3dK",
+        "line": "https://abema.app/fHik",
+        "copy": "https://abema.app/1tai",
+        "instagram": "https://abema.app/htqa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/600-8_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/600-8_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/600-8_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/600-8_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.600-8_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 204.13726666666668,
+        "ending": {
+            "start": 204.13726666666668,
+            "end": 239.9397
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "600-8_s1_p2",
+        "title": "２頭目　ジャガイモ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1729853098,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/600-8_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "600-8_eg0",
+    "skipVmap": true
+}

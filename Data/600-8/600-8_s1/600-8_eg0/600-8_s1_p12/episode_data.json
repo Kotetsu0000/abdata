@@ -1,0 +1,127 @@
+{
+    "id": "600-8_s1_p12",
+    "series": {
+        "id": "600-8",
+        "title": "百姓貴族",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-8",
+            "filename": "thumb.png",
+            "query": "version=1731377824",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-8",
+            "filename": "portrait.png",
+            "query": "version=1731377824",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "600-8_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 240
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "１２頭目　火星開拓農民 荒川",
+        "content": "日本の食糧倉庫「北海道」で人々を飢えから救うべく、\n日々泥にまみれて働くマンガ描きがいた！\nその者の名は、農民・荒川！！\n舞台は２０XX年！地球の食糧不足を救うため、荒川弘とイシイは開拓団の一員として火星に向かう。\nそこで出くわした火星の生物とは…！？\n最終回はなんと未知との遭遇！？今回は地球人の火星開拓ファンタジーをお届けします！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "荒川 弘：田村睦心",
+            "イシイさん：本多真梨子",
+            "親父殿：千葉繁",
+            "おかん：くじら"
+        ],
+        "crews": [
+            "原作：荒川弘（新書館「ウィングス」連載）",
+            "監督・脚本・演出：澤田裕太郎",
+            "キャラクターデザイン・作画監督・作画：まつもとあやね",
+            "背景作画：あり",
+            "エンディングアニメーション：やまだみのり",
+            "音楽：Precious tone",
+            "制作監修：新海岳人",
+            "アニメーション制作：Pie in the sky",
+            "農業監修：一般社団法人　全国農業協同組合中央会",
+            "製作：『百姓貴族』製作委員会"
+        ],
+        "copyrights": [
+            "(C) 荒川弘・新書館／『百姓貴族』製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1729853277,
+    "endAt": 1764514800,
+    "transcodeVersion": "4HbMWm",
+    "sharedLink": {
+        "twitter": "https://abema.app/8wxy",
+        "facebook": "https://abema.app/dF69",
+        "google": "https://abema.app/f44p",
+        "line": "https://abema.app/D18h",
+        "copy": "https://abema.app/mrjx",
+        "instagram": "https://abema.app/8Dm4"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/600-8_s1_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/600-8_s1_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/600-8_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.600-8_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 204.13726666666668,
+        "ending": {
+            "start": 204.13726666666668,
+            "end": 239.9397
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/600-8_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "600-8_eg0",
+    "skipVmap": true
+}

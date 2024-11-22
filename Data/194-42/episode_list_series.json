@@ -93,7 +93,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659794,
+        "imageUpdatedAt": 1732253330,
         "endAt": 1830265200,
         "freeEndAt": 1830265200,
         "transcodeVersion": "4XDY6U",
@@ -219,7 +219,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659794,
+        "imageUpdatedAt": 1732253330,
         "endAt": 1830265200,
         "freeEndAt": 1732353000,
         "transcodeVersion": "5yYQsm",
@@ -345,7 +345,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659794,
+        "imageUpdatedAt": 1732253330,
         "endAt": 1830265200,
         "freeEndAt": 1732353000,
         "transcodeVersion": "6QrZyP",
@@ -471,7 +471,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659794,
+        "imageUpdatedAt": 1732253331,
         "endAt": 1830265200,
         "freeEndAt": 1732353000,
         "transcodeVersion": "5zY5DK",
@@ -597,7 +597,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659794,
+        "imageUpdatedAt": 1732253331,
         "endAt": 1830265200,
         "freeEndAt": 1732353000,
         "transcodeVersion": "3LYk1J",
@@ -723,7 +723,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659794,
+        "imageUpdatedAt": 1732253331,
         "endAt": 1830265200,
         "freeEndAt": 1732353000,
         "transcodeVersion": "6AzbuY",
@@ -846,9 +846,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
-        "imageUpdatedAt": 1731722114,
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1732253331,
         "endAt": 1830265200,
+        "freeEndAt": 1732813200,
         "transcodeVersion": "e2wXD",
         "sharedLink": {
             "twitter": "https://abema.app/jVd6",
@@ -872,8 +875,124 @@
         },
         "terms": [
             {
+                "onDemandType": 3,
+                "endAt": 1732813200
+            }
+        ],
+        "episodeGroupId": "194-42_eg0"
+    },
+    {
+        "id": "194-42_s1_p8",
+        "series": {
+            "id": "194-42",
+            "title": "さようなら竜生、こんにちは人生",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-42",
+                "filename": "thumb.png",
+                "query": "version=1731553923",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-42",
+                "filename": "portrait.png",
+                "query": "version=1731553923",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "194-42_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/194-42_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1731553944",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 1449
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001"
+        },
+        "episode": {
+            "number": 8,
+            "title": "第8話 決戦前夜",
+            "content": "ゲオルグに3日の猶予を与えられたドランたち。しかしエンテ森の族長たちは、期限の前に魔族に力を供給する魔界門を破壊することを決定する。ドランたちの協力の申し出も受け入れられ、ドランは森の住人たちの思いに応えるべく、決意を新たにする。エンテの森に住むすべての種族が結束し、魔族との決戦がついに幕を開ける！"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "ドラン：武内駿輔",
+                "セリナ：関根 瞳",
+                "クリスティーナ：大橋彩香",
+                "ディアドラ：佐々木未来",
+                "アイリ：松永あかね",
+                "ギオ：石毛翔弥",
+                "フィオ：天海由梨奈",
+                "マール：朝日奈丸佳",
+                "ゲオルード：水中雅章",
+                "ラフラシア：小倉 唯",
+                "ゲレン：野津山幸宏",
+                "ゲオルグ：日野 聡",
+                "マイラール：金元寿子",
+                "カラヴィス：朝ノ瑠璃",
+                "レティシャ：松岡美里",
+                "マリーダ：松井恵理子"
+            ],
+            "crews": [
+                "原作：永島ひろあき(アルファポリス刊)",
+                "原作イラスト：市丸きすけ",
+                "漫画：くろの",
+                "監督：西田健一",
+                "シリーズ構成：津田尚克",
+                "メインキャラクターデザイン：川重 希",
+                "美術監督：土橋 誠",
+                "色彩設計：高橋めぐみ",
+                "撮影監督：佐藤宗明",
+                "編集：後田良樹（JAYFILM）",
+                "音楽：斎木達彦、中村巴奈重",
+                "音響監督：阿部信行",
+                "音楽制作：ブルームズ",
+                "CGアニメーション制作：アクシスグラフィック",
+                "アニメーション制作：SynergySP・ベガエンタテイメント"
+            ],
+            "copyrights": [
+                "(C)永島ひろあき・アルファポリス／「さようなら竜生、こんにちは人生」製作委員会"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {},
+        "imageUpdatedAt": 1732253331,
+        "endAt": 1830265200,
+        "transcodeVersion": "x7r2n",
+        "sharedLink": {
+            "twitter": "https://abema.app/kwBY",
+            "facebook": "https://abema.app/4FUs",
+            "google": "https://abema.app/14GR",
+            "line": "https://abema.app/4JL4",
+            "copy": "https://abema.app/qWJ3",
+            "instagram": "https://abema.app/cyqo"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-42_s1_p8/2/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
                 "onDemandType": 1,
-                "endAt": 1732208400
+                "endAt": 1732813200
             }
         ],
         "episodeGroupId": "194-42_eg0"
@@ -965,7 +1084,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731659794,
+        "imageUpdatedAt": 1732253331,
         "endAt": 1735657200,
         "freeEndAt": 1735657200,
         "transcodeVersion": "3eynXB",
