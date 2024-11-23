@@ -58,9 +58,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1693197453,
         "endAt": 1796050800,
+        "freeEndAt": 1732460400,
         "transcodeVersion": "3XbZhw",
         "sharedLink": {
             "twitter": "https://abema.app/hQnh",
@@ -82,8 +85,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1796050800
+                "onDemandType": 3,
+                "endAt": 1732460400
             }
         ],
         "episodeGroupId": "177-234_eg0"
