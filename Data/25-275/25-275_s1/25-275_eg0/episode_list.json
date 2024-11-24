@@ -190,8 +190,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732462200
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -200,6 +200,35 @@
         },
         "info": {
             "duration": 1419
+        }
+    },
+    {
+        "id": "25-275_s1_p8",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-275_s1_p8",
+            "filename": "thumb001.png",
+            "query": "version=1731915306",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 8,
+            "title": "第8話",
+            "content": "ヒロインにありがちな“いい子ちゃん発言”が大嫌いだった私が転生したのは、\n大好きな乙女ゲームの悪役令嬢アリシア。\n念願叶って転生したからには、歴史に残る世界一の悪女になってやる！そのためには強くて頭もよくないといけない！\n——と努力しただけなのに、悪役令嬢として頑張れば頑張るほど周囲は予想外の反応で……。\nはたしてアリシアは歴史に残る悪女になれるのか⁉"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1733067000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
         }
     }
 ]

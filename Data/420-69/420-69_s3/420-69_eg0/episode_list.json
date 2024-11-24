@@ -190,8 +190,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1431
+        }
+    },
+    {
+        "id": "420-69_s3_p21",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/420-69_s3_p21",
+            "filename": "thumb001.png",
+            "query": "version=1731915156",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 21,
+            "title": "第21話",
+            "content": "衝撃的なラストシーンで幕を閉じた第１期から6年後、選別者にとって狭き門である２０階に居たのは、何度脱落しても「塔の王になる」と挑戦を続ける男・王野 成（おうじ なる）。莫大な受験料のために借金を抱える王野は、最後のチャンスとして再び試験に挑戦し、そこで圧倒的な強さを持つ謎めいた長髪の男・ビオレと出会うが、ビオレは塔の支配者であるザハードに対抗する犯罪組織「ＦＵＧ」のスレイヤー候補であった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1732458600
+                    "endAt": 1733063400
                 }
             ],
             "broadcastRegionPolicy": 1,
