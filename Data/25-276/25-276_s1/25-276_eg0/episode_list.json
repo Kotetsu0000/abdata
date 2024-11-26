@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1731914291",
+            "query": "version=1732526224",
             "extension": "png"
         },
         "episode": {
@@ -219,8 +219,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1449
+        }
+    },
+    {
+        "id": "25-276_s1_p9",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p9",
+            "filename": "thumb002.png",
+            "query": "version=1732526224",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 9,
+            "title": "第9話 歌舞伎の花道",
+            "content": "「ヨリヌキ」売却のため、ハルとガクはフラワーアレンジメントが日本で一番売れる街・歌舞伎町のホストクラブに潜入する。売却条件の月商2000万円達成には、ホストクラブの客に「ヨリヌキ」を宣伝するほかないと考え、ハルはすぐさまNo.1の座を目指す。しかし、今まで使っていた花屋から「ヨリヌキ」に乗り換える客は少なく……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1732474800
+                    "endAt": 1733079600
                 }
             ],
             "broadcastRegionPolicy": 1,

@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3002",
             "filename": "thumb001.png",
-            "query": "version=1732337612",
+            "query": "version=1732529530",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3007",
             "filename": "thumb001.png",
-            "query": "version=1732337613",
+            "query": "version=1732529530",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3008",
             "filename": "thumb001.png",
-            "query": "version=1732337613",
+            "query": "version=1732529530",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3015",
             "filename": "thumb001.png",
-            "query": "version=1732337613",
+            "query": "version=1732529530",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3024",
             "filename": "thumb001.png",
-            "query": "version=1732337613",
+            "query": "version=1732529530",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3028",
             "filename": "thumb001.png",
-            "query": "version=1732337613",
+            "query": "version=1732529530",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3029",
             "filename": "thumb001.png",
-            "query": "version=1732337613",
+            "query": "version=1732529530",
             "extension": "png"
         },
         "episode": {
@@ -200,6 +200,35 @@
         },
         "info": {
             "duration": 808
+        }
+    },
+    {
+        "id": "218-706_s1_p3030",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-706_s1_p3030",
+            "filename": "thumb001.png",
+            "query": "version=1732529530",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 3030,
+            "title": "#29：新作アニメ「ボールパークでつかまえて！」を特集！",
+            "content": "モーニングで連載中の人気漫画が2025年にTVアニメ化されることが決定！笑顔と涙の球場愛コメディー。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1763816400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 264
         }
     }
 ]

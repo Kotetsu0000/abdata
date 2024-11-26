@@ -202,12 +202,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1732253390,
         "endAt": 1767193200,
-        "freeEndAt": 1732503600,
         "transcodeVersion": "5he2wx",
         "sharedLink": {
             "twitter": "https://abema.app/v7qo",
@@ -231,8 +228,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732503600
+                "onDemandType": 1,
+                "endAt": 1732892400
             }
         ],
         "episodeGroupId": "593-10_eg0"
@@ -321,12 +318,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1732253390,
         "endAt": 1767193200,
-        "freeEndAt": 1732503600,
         "transcodeVersion": "5wHEP1",
         "sharedLink": {
             "twitter": "https://abema.app/48jW",
@@ -350,8 +344,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732503600
+                "onDemandType": 1,
+                "endAt": 1732892400
             }
         ],
         "episodeGroupId": "593-10_eg0"
@@ -440,12 +434,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1732253390,
         "endAt": 1767193200,
-        "freeEndAt": 1732503600,
         "transcodeVersion": "5oet9E",
         "sharedLink": {
             "twitter": "https://abema.app/Vyz1",
@@ -469,8 +460,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732503600
+                "onDemandType": 1,
+                "endAt": 1732892400
             }
         ],
         "episodeGroupId": "593-10_eg0"
@@ -558,12 +549,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1732253390,
         "endAt": 1767193200,
-        "freeEndAt": 1732503600,
         "transcodeVersion": "3bEWu6",
         "sharedLink": {
             "twitter": "https://abema.app/sMAe",
@@ -587,8 +575,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732503600
+                "onDemandType": 1,
+                "endAt": 1732892400
             }
         ],
         "episodeGroupId": "593-10_eg0"
@@ -677,12 +665,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1732253390,
         "endAt": 1767193200,
-        "freeEndAt": 1732503600,
         "transcodeVersion": "72GVD1",
         "sharedLink": {
             "twitter": "https://abema.app/AvBJ",
@@ -706,8 +691,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732503600
+                "onDemandType": 1,
+                "endAt": 1732892400
             }
         ],
         "episodeGroupId": "593-10_eg0"
@@ -796,12 +781,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1732253390,
         "endAt": 1767193200,
-        "freeEndAt": 1732503600,
         "transcodeVersion": "6Qs5PF",
         "sharedLink": {
             "twitter": "https://abema.app/ZprP",
@@ -825,8 +807,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732503600
+                "onDemandType": 1,
+                "endAt": 1732892400
             }
         ],
         "episodeGroupId": "593-10_eg0"
@@ -866,7 +848,13 @@
             "duration": 1426
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003",
+                "thumb004",
+                "thumb005"
+            ]
         },
         "episode": {
             "number": 8,
@@ -911,7 +899,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1732253390,
+        "imageUpdatedAt": 1732500287,
         "endAt": 1767193200,
         "freeEndAt": 1732809600,
         "transcodeVersion": "2UXHmv",

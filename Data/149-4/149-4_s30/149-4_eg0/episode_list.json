@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/149-4_s30_p1",
             "filename": "thumb002.png",
-            "query": "version=1731996572",
+            "query": "version=1732611780",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/149-4_s30_p2",
             "filename": "thumb002.png",
-            "query": "version=1731996572",
+            "query": "version=1732611780",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/149-4_s30_p3",
             "filename": "thumb002.png",
-            "query": "version=1731996572",
+            "query": "version=1732611780",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/149-4_s30_p4",
             "filename": "thumb002.png",
-            "query": "version=1731996572",
+            "query": "version=1732611780",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/149-4_s30_p5",
             "filename": "thumb002.png",
-            "query": "version=1731996573",
+            "query": "version=1732611780",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/149-4_s30_p6",
             "filename": "thumb002.png",
-            "query": "version=1732080562",
+            "query": "version=1732611780",
             "extension": "png"
         },
         "episode": {
@@ -161,8 +161,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1819724400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1422
+        }
+    },
+    {
+        "id": "149-4_s30_p7",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/149-4_s30_p7",
+            "filename": "thumb002.png",
+            "query": "version=1732614485",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 7,
+            "title": "第7話 悪魔の試練",
+            "content": "全てが理想通りの夢の世界から脱出し、ハジメは大迷宮の試練のコンセプトが今まで育んだ仲間との絆と精神力を試すことではないかと推測する。遂に最奥にたどり着くが、そこで待ち受けていたのはハジメすらも恐怖する“あの”存在だった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1732548600
+                    "endAt": 1733153400
                 }
             ],
             "broadcastRegionPolicy": 1,

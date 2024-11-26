@@ -95,7 +95,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
         "transcodeVersion": "6AhFfW",
         "sharedLink": {
@@ -222,7 +222,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
         "transcodeVersion": "zJtbv",
         "sharedLink": {
@@ -349,7 +349,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
         "transcodeVersion": "2V5rVU",
         "sharedLink": {
@@ -476,7 +476,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
         "transcodeVersion": "6b7Uyj",
         "sharedLink": {
@@ -603,7 +603,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
         "transcodeVersion": "5epn9k",
         "sharedLink": {
@@ -730,7 +730,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
         "transcodeVersion": "4dsEya",
         "sharedLink": {
@@ -857,7 +857,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
         "transcodeVersion": "DR9X4",
         "sharedLink": {
@@ -983,12 +983,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
-        "imageUpdatedAt": 1731914291,
+        "label": {},
+        "imageUpdatedAt": 1732526224,
         "endAt": 1767193200,
-        "freeEndAt": 1732474800,
         "transcodeVersion": "3ug94Q",
         "sharedLink": {
             "twitter": "https://abema.app/ZxCD",
@@ -1012,8 +1009,138 @@
         },
         "terms": [
             {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ],
+        "episodeGroupId": "25-276_eg0"
+    },
+    {
+        "id": "25-276_s1_p9",
+        "series": {
+            "id": "25-276",
+            "title": "トリリオンゲーム",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-276",
+                "filename": "thumb.png",
+                "query": "version=1731984676",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-276",
+                "filename": "portrait.png",
+                "query": "version=1731984676",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "25-276_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-276_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1731984698",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 1449
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003",
+                "thumb004",
+                "thumb005",
+                "thumb006"
+            ]
+        },
+        "episode": {
+            "number": 9,
+            "title": "第9話 歌舞伎の花道",
+            "content": "「ヨリヌキ」売却のため、ハルとガクはフラワーアレンジメントが日本で一番売れる街・歌舞伎町のホストクラブに潜入する。売却条件の月商2000万円達成には、ホストクラブの客に「ヨリヌキ」を宣伝するほかないと考え、ハルはすぐさまNo.1の座を目指す。しかし、今まで使っていた花屋から「ヨリヌキ」に乗り換える客は少なく……。"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "天王寺陽（ハル）：大塚剛央",
+                "平学（ガク）：石毛翔弥",
+                "黒龍キリカ（桐姫）：M・A・O",
+                "祁答院一輝：東地宏樹",
+                "高橋凜々：田中有紀",
+                "黒龍一真：土師孝也",
+                "長瀬：水中雅章",
+                "水樹：若山詩音",
+                "桜：鈴木崚汰",
+                "二葉：千本木彩花",
+                "斜森：安田陸矢",
+                "巨椋：新 祐樹"
+            ],
+            "crews": [
+                "原作：稲垣理一郎／作画：池上遼一",
+                "「トリリオンゲーム」（小学館ビッグコミックスペリオール連載）",
+                "監督：佐藤雄三",
+                "シリーズ構成：金月龍之介",
+                "キャラクターデザイン：土屋 圭",
+                "サブキャラクターデザイン：尾崎智美",
+                "プロップデザイン：勝 はるな",
+                "総作画監督：横山 愛",
+                "美術ボード：上野秀行",
+                "美術設定：杉山晋史",
+                "色彩設計：中内照美",
+                "撮影監督：畑中宏信",
+                "VFXスーパーバイザー：加藤道哉",
+                "3D監督：田中康隆",
+                "2Dデザイン：鳴河美佳",
+                "編集：塚常真理子",
+                "音楽：伊賀拓郎",
+                "音楽制作：KADOKAWA",
+                "音響監督：小泉紀介",
+                "音響効果：山谷尚人",
+                "音響制作：マジックカプセル",
+                "アニメーション制作：マッドハウス",
+                "製作：アニメ「トリリオンゲーム」製作委員会"
+            ],
+            "copyrights": [
+                "(C)稲垣理一郎・池上遼一／小学館／アニメ「トリリオンゲーム」製作委員会"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1732526224,
+        "endAt": 1767193200,
+        "freeEndAt": 1733079600,
+        "transcodeVersion": "3GCtPn",
+        "sharedLink": {
+            "twitter": "https://abema.app/Ywjj",
+            "facebook": "https://abema.app/YLmt",
+            "google": "https://abema.app/Q7sD",
+            "line": "https://abema.app/dgBJ",
+            "copy": "https://abema.app/FbBi",
+            "instagram": "https://abema.app/tbej"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/25-276_s1_p9/1/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
                 "onDemandType": 3,
-                "endAt": 1732474800
+                "endAt": 1733079600
             }
         ],
         "episodeGroupId": "25-276_eg0"
@@ -1109,7 +1236,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1731914291,
+        "imageUpdatedAt": 1732526224,
         "endAt": 1735657200,
         "freeEndAt": 1735657200,
         "transcodeVersion": "4P5rsh",

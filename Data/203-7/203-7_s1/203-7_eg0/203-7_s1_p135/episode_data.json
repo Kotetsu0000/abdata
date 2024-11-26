@@ -1,0 +1,133 @@
+{
+    "id": "203-7_s1_p135",
+    "series": {
+        "id": "203-7",
+        "title": "遊☆戯☆王ゴーラッシュ！！",
+        "label": {
+            "someFree": true,
+            "newest": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "thumb.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/203-7",
+            "filename": "portrait.png",
+            "query": "version=1649906885",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "203-7_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 135,
+        "title": "第135話 ここに似た場所",
+        "content": "自らの精神世界で目覚めたユウディアスは、謎の光に導かれ、理科室を訪れる。ユウディアスを出迎えたのはクァイドゥールだった。クァイドゥールに邪心を感じてデュエルを挑むユウディアスだったが、闘いの中で“ここ”とは違う様々な世界を目の当たりにする。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ユウディアス・ベルギャー：ランズベリー・アーサー",
+            "王道遊飛：熊谷 俊輝",
+            "王道遊歩：福島 香々",
+            "ズウィージョウ：江口 拓也"
+        ],
+        "crews": [
+            "原作：『遊☆戯☆王』（集英社 ジャンプ コミックス刊）",
+            "監督：近藤信宏",
+            "シリーズ構成：竹内利光",
+            "デュエル構成：彦久保雅博",
+            "キャラクターデザイン：只野和子・松下浩美",
+            "音響監督：山本浩司",
+            "アニメーション制作：ブリッジ"
+        ],
+        "copyrights": [
+            "(C)スタジオ・ダイス／集英社・テレビ東京・KONAMI"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1732611975,
+    "endAt": 1774969200,
+    "transcodeVersion": "6SuU69",
+    "sharedLink": {
+        "twitter": "https://abema.app/W1kA",
+        "facebook": "https://abema.app/v5GX",
+        "google": "https://abema.app/yF7c",
+        "line": "https://abema.app/KHsx",
+        "copy": "https://abema.app/C7dS",
+        "instagram": "https://abema.app/Eiui"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/203-7_s1_p135/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/203-7_s1_p135/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/203-7_s1_p135/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.203-7_s1_p135"
+    },
+    "viewingPoint": {
+        "suggestion": 1410.0419666666667,
+        "opening": {
+            "start": 102.06863333333334,
+            "end": 191.9918
+        },
+        "ending": {
+            "start": 1320.0187,
+            "end": 1410.0086
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/203-7_s1_p135/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1732647600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1733252400
+        }
+    ],
+    "episodeGroupId": "203-7_eg0",
+    "skipVmap": true
+}

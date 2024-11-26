@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p301",
             "filename": "thumb002.png",
-            "query": "version=1731914138",
+            "query": "version=1732526077",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p302",
             "filename": "thumb002.png",
-            "query": "version=1731914138",
+            "query": "version=1732526077",
             "extension": "png"
         },
         "episode": {
@@ -46,7 +46,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1774969200
+                    "endAt": 1732938600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p303",
             "filename": "thumb002.png",
-            "query": "version=1731914138",
+            "query": "version=1732526077",
             "extension": "png"
         },
         "episode": {
@@ -75,7 +75,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1774969200
+                    "endAt": 1732938600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p304",
             "filename": "thumb002.png",
-            "query": "version=1731914138",
+            "query": "version=1732526077",
             "extension": "png"
         },
         "episode": {
@@ -104,7 +104,7 @@
             "terms": [
                 {
                     "onDemandType": 1,
-                    "endAt": 1774969200
+                    "endAt": 1732938600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p305",
             "filename": "thumb001.png",
-            "query": "version=1731914138",
+            "query": "version=1732526077",
             "extension": "png"
         },
         "episode": {
@@ -132,8 +132,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1732938600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 155
+        }
+    },
+    {
+        "id": "189-75_s1_p306",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p306",
+            "filename": "thumb001.png",
+            "query": "version=1732526077",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 306,
+            "title": "第6話 殿と落とし物",
+            "content": "山で食材探し。【犬】の活躍で思わぬ収穫を得た【殿】だったが、帰り道を見失い……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1732475700
+                    "endAt": 1733543400
                 }
             ],
             "broadcastRegionPolicy": 1,
