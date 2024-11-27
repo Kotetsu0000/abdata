@@ -538,8 +538,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732698000
+                    "onDemandType": 1,
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -548,6 +548,35 @@
         },
         "info": {
             "duration": 1430
+        }
+    },
+    {
+        "id": "168-63_s1_p20",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/168-63_s1_p20",
+            "filename": "thumb001.png",
+            "query": "version=1732176254",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 20,
+            "title": "第20話",
+            "content": "フィオーレ王国随一で、お騒がせ魔導士ギルドとしても有名な「妖精の尻尾フェアリーテイル」。\nそこに所属するナツ・ルーシィ・ハッピー・グレイ・エルザ・ウェンディ・シャルルの最強パーティーは、旅立ちの時を迎えようとしていた。\n目指す先は遥か北の大地・ギルティナにあるという世界最古の魔導士ギルド「魔陣の竜マギア・ドラゴン」。\n黒魔導士ゼレフや黒竜アクノロギアとの死闘を乗り越えたナツたちに、\n＜Ｓ級クエスト＞の更に上級である＜100年クエスト＞に挑む許可が特別に下りたのだ。\n\n＜100年クエスト＞は、「魔陣の竜」が創設されてから百余年、\n誰一人として達成できていない伝説級の難関依頼。\n\n初めての大陸の“不可思議な街”、初めて出会う“不可解な神”、\nそして動き出す“不気味な敵”…。\n\n心躍るナツたち「妖精の尻尾」の新たな大冒険が、\n幕を開ける！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1733302800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1429
         }
     }
 ]

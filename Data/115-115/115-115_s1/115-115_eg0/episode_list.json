@@ -219,8 +219,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732721400
+                    "onDemandType": 1,
+                    "endAt": 1782831600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -229,6 +229,35 @@
         },
         "info": {
             "duration": 1419
+        }
+    },
+    {
+        "id": "115-115_s1_p9",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/115-115_s1_p9",
+            "filename": "thumb001.png",
+            "query": "version=1732176365",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 9,
+            "title": "#０９",
+            "content": "みつけた、熱くなれるもの（魔法少女）をー\n祖父のもとを訪れた地図子は、街を守る魔法少女・ベリーブロッサムと出会い、たちまち夢中に。 しかし、敵対する悪の組織「フォッサマグナ」総帥・クロマの攻撃があまりにもパッとせず、２人の戦いは見応えゼロ。もっと、ベリーの活躍を愛でたい地図子はモヤモヤを募らせていく・・・。 \n「魔法少女をもっと輝かせたい・・・強いてくれ、苦戦を！」 \nその欲望（？）が、内気な少女を悪の路に導いてゆく―。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1733326200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
         }
     }
 ]
