@@ -5578,12 +5578,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1700460466,
         "endAt": 1756652400,
-        "freeEndAt": 1732734000,
         "transcodeVersion": "GB9bn",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/MQGWd",
@@ -5608,8 +5605,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732734000
+                "onDemandType": 1,
+                "endAt": 1756652400
             }
         ],
         "episodeGroupId": "35-35_eg10"
@@ -5673,12 +5670,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1700460466,
         "endAt": 1756652400,
-        "freeEndAt": 1732734000,
         "transcodeVersion": "5gRtKS",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/G6pp4",
@@ -5703,8 +5697,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1732734000
+                "onDemandType": 1,
+                "endAt": 1756652400
             }
         ],
         "episodeGroupId": "35-35_eg10"
@@ -6623,9 +6617,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1700460466,
         "endAt": 1756652400,
+        "freeEndAt": 1733425200,
         "transcodeVersion": "J17df",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/zYnHq",
@@ -6650,8 +6647,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1732735560
+                "onDemandType": 3,
+                "endAt": 1733425200
             }
         ],
         "episodeGroupId": "35-35_eg10"
