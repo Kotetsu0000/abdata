@@ -219,8 +219,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "203-8_s2_p9",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/203-8_s2_p9",
+            "filename": "thumb001.png",
+            "query": "version=1732527053",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 9,
+            "title": "第9話",
+            "content": "『新テニスの王子様 U-17 WORLD CUP(アンダーセブンティーンワールドカップ)』シリーズ第２弾！\n戦いの舞台は準決勝へと移る！！\n\nU-17 WORLD CUP(アンダーセブンティーンワールドカップ)――\n強豪国フランスとの戦いを制したリョーマたち日本代表は、準決勝への進出を果たす。\n準決勝の相手は、プロテニスプレイヤー、ボルクを筆頭とする世界No.1の最強チーム・ドイツ。\nそしてドイツには、かつて合宿で苦楽を共にした手塚も代表入りしている。\n圧倒的な力を誇るドイツを相手に、日本代表チームの面々は己を高め進化を目指す！\n日本vsドイツ――激闘の幕が開ける！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1732892400
+                    "endAt": 1733497200
                 }
             ],
             "broadcastRegionPolicy": 1,

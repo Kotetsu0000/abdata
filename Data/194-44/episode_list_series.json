@@ -673,7 +673,10 @@
             "duration": 269
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002"
+            ]
         },
         "episode": {
             "number": 7,
@@ -708,12 +711,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
-        "imageUpdatedAt": 1731054100,
+        "label": {},
+        "imageUpdatedAt": 1732499565,
         "endAt": 1767193200,
-        "freeEndAt": 1732802400,
         "transcodeVersion": "4kKcpW",
         "sharedLink": {
             "twitter": "https://abema.app/veb3",
@@ -737,8 +737,116 @@
         },
         "terms": [
             {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ],
+        "episodeGroupId": "194-44_eg0"
+    },
+    {
+        "id": "194-44_s1_p8",
+        "series": {
+            "id": "194-44",
+            "title": "ハミダシクリエイティブ",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-44",
+                "filename": "thumb.png",
+                "query": "version=1731986543",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/194-44",
+                "filename": "portrait.png",
+                "query": "version=1731986543",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "194-44_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/194-44_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1731986559",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 269
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002"
+            ]
+        },
+        "episode": {
+            "number": 8,
+            "title": "第8話",
+            "content": "自他共に認める陰キャである主人公「和泉 智宏」は、急遽行われた生徒会長を決める\nくじ引きで、当たりくじを引いてしまう。\n\nしぶしぶながら会長を引き受けた智宏は仲間集めを開始するが、挙げられた役員候補は全員\n学園に来ていない！？\n同級生の「常磐華乃」、後輩の「錦あすみ」、そして妹の「和泉妃愛」を引き入れる中、\n音信不通だった前会長「鎌倉詩桜」、智宏のクラスメイトである「竜閑天梨」の二人まで\n現れて……！\n\nアニメでは、ゲームで見ることのできなかった、主人公不在の中で繰り広げられる５人の\n物語をお届けします！\n不登校から脱却した彼女たちが、生徒会の枠組みを超えて巻き起こす、\n青春日常コメディが開幕！"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "和泉妃愛（いずみひより）：戸田めぐみ",
+                "常磐華乃（ときわかの）：あさみほとり",
+                "錦あすみ（にしきあすみ）：つむぎゆきの",
+                "鎌倉詩桜（かまくらしお）：堀場美希",
+                "竜閑天梨（りゅうかんあめり）：岡本理絵"
+            ],
+            "crews": [
+                "原作：『ハミダシクリエイティブ』まどそふと",
+                "キャラクター原案：宇都宮つみれ",
+                "総監督/音響監督：ひらさわひさよし",
+                "監督／絵コンテ：深瀬重",
+                "シリーズ構成：有栖洸一",
+                "キャラクターデザイン/総作画監督：中野圭哉",
+                "脚本：有栖洸一/甲木順之助",
+                "衣装デザイン：一ノ瀬結梨",
+                "色彩設計：入江鯉",
+                "美術監督：グエン・クイ・アン・トゥー",
+                "撮影監督：笠原萌笑",
+                "アニメーション制作ハヤブサフィルム"
+            ],
+            "copyrights": [
+                "(C)まどそふと/千玉学園生徒会"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1732870104,
+        "endAt": 1767193200,
+        "freeEndAt": 1733407200,
+        "transcodeVersion": "4reZHi",
+        "sharedLink": {
+            "twitter": "https://abema.app/4j52",
+            "facebook": "https://abema.app/6zk4",
+            "google": "https://abema.app/6fc7",
+            "line": "https://abema.app/gvPP",
+            "copy": "https://abema.app/swLw",
+            "instagram": "https://abema.app/g32s"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/194-44_s1_p8/1/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
                 "onDemandType": 3,
-                "endAt": 1732802400
+                "endAt": 1733407200
             }
         ],
         "episodeGroupId": "194-44_eg0"

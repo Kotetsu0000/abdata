@@ -45,8 +45,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732881600
+                    "onDemandType": 1,
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -74,8 +74,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732881600
+                    "onDemandType": 1,
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -103,8 +103,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732881600
+                    "onDemandType": 1,
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -132,8 +132,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732881600
+                    "onDemandType": 1,
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -161,8 +161,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1732881600
+                    "onDemandType": 1,
+                    "endAt": 1798729200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -229,6 +229,35 @@
         },
         "info": {
             "duration": 1420
+        }
+    },
+    {
+        "id": "25-92_s2_p9",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-92_s2_p9",
+            "filename": "thumb001.png",
+            "query": "version=1732695831",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 9,
+            "title": "#09",
+            "content": "最大6人で編成された分隊同士でサバイバル・マッチを行なう《スクワッド・ジャム》。\nマニアックな人気があるこの大会には数多くのＧＧＯプレイヤーたちが参加し、ある者は名声を、ある者は復讐を、そしてある者は好敵手を求め、この戦いに集い、死闘を繰り広げる。\n苛烈な戦いの末に幕を閉じたセカンド・スクワッド・ジャム（SJ2）から三ヵ月後。ついにサード・スクワッド・ジャム（SJ3）の開催が決定した。\nピトフーイ、エム、フカ次郎とともに新たなチーム「LPFM」を結成したレンは、大会のバトルフィールドとなる小島へと向うが、待ち受けていたのは“時間経過とともに海へ沈むフィールド“　“MAP中央に潜む【UNKNOWN】エリア“　“無名チームの結託”という過酷な状況であった――。\n互いの意地と誇りを懸けた３度目の狂宴がここに開幕する！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1732978800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1419
         }
     }
 ]
