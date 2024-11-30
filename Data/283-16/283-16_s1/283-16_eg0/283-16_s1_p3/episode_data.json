@@ -1,0 +1,162 @@
+{
+    "id": "283-16_s1_p3",
+    "series": {
+        "id": "283-16",
+        "title": "TVアニメ「BanG Dream!（バンドリ！）」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-16",
+            "filename": "thumb.png",
+            "query": "version=1628838424",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-16",
+            "filename": "portrait.png",
+            "query": "version=1628838424",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "283-16_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "#3 逃げちゃった！",
+        "content": "昼ご飯を一緒に食べることを交換条件に、有咲から念願のランダムスターを譲り受けることができた香澄は、ライブハウスで見かけた同じクラスのりみをバンドに誘う。\n\n りみは人気ガールズバンド「Glitter*Green」のギターボーカルであるゆりを姉にもち、そんな姉に憧れる少女。しかし、引っ込み思案で姉のように積極的になれないりみは「やっぱり、バンドできない……」と香澄を避けて逃げしまう。"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "戸山香澄:愛美",
+            "花園たえ:大塚紗英",
+            "牛込りみ:西本りみ",
+            "山吹沙綾:大橋彩香",
+            "市ヶ谷有咲:伊藤彩沙",
+            "都築詩船:小山茉美",
+            "真次璃々子:儀武ゆう子",
+            "戸山明日香：尾崎由香",
+            "牛込ゆり:三森すずこ"
+        ],
+        "crews": [
+            "原作:ISSEN",
+            "製作総指揮:木谷高明",
+            "ストーリー原案:中村航",
+            "監督:大槻敦史",
+            "シリーズ構成:綾奈ゆにこ",
+            "キャラクター原案:ひと和",
+            "キャラクターデザイン:仁多マツコ",
+            "美術監督:Scott MacDonald",
+            "色彩設計：小島真喜子",
+            "撮影監督：魚山真志",
+            "編集：新見元希",
+            "音響監督:亀山俊樹",
+            "音楽プロデューサー:上松範康、藤田淳平",
+            "音楽:Elements Garden"
+        ],
+        "copyrights": [
+            "(C)BanG Dream! Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699523761,
+    "endAt": 1753974000,
+    "transcodeVersion": "5f3mZV",
+    "sharedLink": {
+        "twitter": "https://abema.app/g46x",
+        "facebook": "https://abema.app/afKQ",
+        "google": "https://abema.app/oa3W",
+        "line": "https://abema.app/aSph",
+        "copy": "https://abema.app/Fauh",
+        "instagram": "https://abema.app/TQxd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/283-16_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/283-16_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/283-16_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.283-16_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1310.065288,
+        "opening": {
+            "start": 110.096461,
+            "end": 197.096461
+        },
+        "ending": {
+            "start": 1310.065288,
+            "end": 1397.065288
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "283-16_s1_p4",
+        "title": "#4 怒っちゃった！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1699523761,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/283-16_s1_p3/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "283-16_eg0",
+    "skipVmap": true
+}

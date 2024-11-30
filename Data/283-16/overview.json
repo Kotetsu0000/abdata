@@ -1,0 +1,74 @@
+{
+    "id": "283-16",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "TVアニメ「BanG Dream!（バンドリ！）」",
+    "content": "幼い頃、星空を見上げた時に聴こえた「星の鼓動」のように、キラキラでドキドキなことをずっと探していた、香澄。 \n高校に入学したばかりのある日、古びた質屋の蔵で出会った「星型のギター」に初めてのときめきを感じ、ずっと閉じ込めてきた気持ちが走りだす。\n同じように、輝ける場所を探していた４人の少女とともに。\nひとりじゃ出せなかった音だって、５人ならきっと奏でられる―――",
+    "seasons": [
+        {
+            "id": "283-16_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-16",
+                "filename": "thumb.png",
+                "query": "version=1628838424",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "283-16_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)BanG Dream! Project"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1719563962381359069",
+    "imageUpdatedAt": 1628838424,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/o824",
+        "facebook": "https://abema.app/ME8X",
+        "google": "https://abema.app/JcG2",
+        "line": "https://abema.app/5Wr7",
+        "copy": "https://abema.app/Ncpv",
+        "instagram": "https://abema.app/yaH8"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-16",
+        "filename": "thumb.png",
+        "query": "version=1628838424",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-16",
+        "filename": "portrait.png",
+        "query": "version=1628838424",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

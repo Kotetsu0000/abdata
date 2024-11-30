@@ -1,0 +1,124 @@
+{
+    "id": "11-62_s1_p1001",
+    "series": {
+        "id": "11-62",
+        "title": "パーティーから追放されたその治癒師、実は最強につき",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-62",
+            "filename": "thumb.png",
+            "query": "version=1731553765",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-62",
+            "filename": "portrait.png",
+            "query": "version=1731553765",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-62_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 418
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1001,
+        "title": "前田佳織里 武闘家への道 前半",
+        "content": "ナルセーナ役の前田佳織里さんが武闘家を目指してキックボクシングに初挑戦！！\n番組では、元プロキックボクシング選手の新田明臣さんが前田さんを熱血指導！\n更に謎のゴブリンのマスクを被ったプロデューサーが登場…？\n武闘家として高い実力を持つナルセーナを演じる前田佳織里さんは、様々な試練を乗り越えてナルセーナのようなキックとパンチを習得出来るのか！？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "番組出演：前田佳織里、新田明臣"
+        ],
+        "copyrights": [
+            "-"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1732526236,
+    "endAt": 1733583540,
+    "freeEndAt": 1733583540,
+    "transcodeVersion": "56ffAt",
+    "sharedLink": {
+        "twitter": "https://abema.app/McoR",
+        "facebook": "https://abema.app/X8vd",
+        "google": "https://abema.app/SCr3",
+        "line": "https://abema.app/uxEb",
+        "copy": "https://abema.app/Hw8q",
+        "instagram": "https://abema.app/T978"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-62_s1_p1001/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-62_s1_p1001/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/11-62_s1_p1001/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-62_s1_p1001/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-62_s1_p1001"
+    },
+    "viewingPoint": {
+        "suggestion": 399.0319666666667
+    },
+    "nextProgramInfo": {
+        "programId": "11-62_s1_p1002",
+        "title": "前田佳織里 武闘家への道 後半",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1732526236,
+        "endAt": 1733583540,
+        "freeEndAt": 1733583540,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1733583540
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-62_s1_p1001/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1733583540
+        }
+    ],
+    "episodeGroupId": "11-62_eg2",
+    "skipVmap": true
+}

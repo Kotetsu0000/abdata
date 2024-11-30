@@ -1,0 +1,112 @@
+{
+    "id": "35-53_s1_p953",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 645
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 953,
+        "title": "#953 わたがし雲メーカー",
+        "content": "裏山（うらやま）にスケッチに来ていたのび太たち。 空にふわふわした雲を見つけたのび太としずかが、「わたがしみたい」「おいしそう」と話しているのを聞いたドラえもんは、『わたがし雲メーカー』を取り出す。\n　さっそく『タケコプター』で空へと向かい、大きな雲に『わたがし雲メーカー』を差し込むドラえもん。そこに『わたがしのもと』を入れたところ、なんと雲があま～いわたがしになったからビックリ！　のび太としずかは大よろこびで、あちこちのいろんな形の雲をわたがしに変えて楽しむ。\n　その後、空き地でわたがしの取り合いをしていたジャイアンとスネ夫を見かけたのび太は、二人もよぶことに。ジャイアンたちも大よろこびでわたがしを食べるが、そのうち同じ味にあきてきたと言われたドラえもんは、わたがしのもとといっしょにバナナを入れてみせる。すると、なんとバナナの形をしたバナナ味のわたがしが完成！ それを見たのび太たちは大こうふんで、家からいろいろな食材を持ってきて、いろいろなフレーバーのわたがしを作りはじめ…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335978,
+    "endAt": 1751295600,
+    "transcodeVersion": "7Y3bHf",
+    "sharedLink": {
+        "twitter": "https://abema.app/zBXS",
+        "facebook": "https://abema.app/zr46",
+        "google": "https://abema.app/v5Ub",
+        "line": "https://abema.app/6eB3",
+        "copy": "https://abema.app/8Bx4",
+        "instagram": "https://abema.app/J2Ri"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-53_s1_p953/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-53_s1_p953/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-53_s1_p953/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p953"
+    },
+    "viewingPoint": {
+        "suggestion": 640.0560833333333
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p953/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0",
+    "skipVmap": true
+}

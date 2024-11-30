@@ -1,0 +1,126 @@
+{
+    "id": "35-53_s1_p951",
+    "series": {
+        "id": "35-53",
+        "title": "ドラえもん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "thumb.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-53",
+            "filename": "portrait.png",
+            "query": "version=1656999145",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-53_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 644
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 951,
+        "title": "#951 本人ビデオでほめられたい",
+        "content": "ジャイアンやスネ夫からそうじ当番を押し付けられ、ひとりで教室のそうじをしていたのび太は、先生から「じつにすばらしい！」とほめられる。先生からひさしぶりにほめられ、うれしくなったのび太は、家に帰るとすぐにドラえもんにじまんするが、ドラえもんはまったく信じようとしない…。\n　のび太がほめられた時のことをひとりでやって見せたところ、ドラえもんはポケットから『本人ビデオ』を取り出し、本当にほめられたのかを見てみようと言い出す。この本人ビデオは、時間と場所をセットすると、まるで動画を再生するみたいに本人が同じことをやって見せてくれるひみつ道具で、しばらくすると先生が部屋にやってきたからビックリ！　先生は、さっきと同じようにのび太をほめると、そそくさと帰っていく。\n　その後、ママにもほめられたところを見せたくて、また本人ビデオで先生をよび出したのび太。さらには、しずかにも見せたくなり、ドラえもんから強引に本人ビデオを持ち出すと、ふたたび先生をよび出すが…！？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ドラえもん：水田わさび",
+            "野比のび太：大原めぐみ"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1722335978,
+    "endAt": 1751295600,
+    "transcodeVersion": "3TUvFD",
+    "sharedLink": {
+        "twitter": "https://abema.app/r7ae",
+        "facebook": "https://abema.app/npgH",
+        "google": "https://abema.app/waQi",
+        "line": "https://abema.app/uAk3",
+        "copy": "https://abema.app/TrmM",
+        "instagram": "https://abema.app/4Ctc"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p951/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p951/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/35-53_s1_p951/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-53_s1_p951"
+    },
+    "viewingPoint": {
+        "suggestion": 639.9726666666667
+    },
+    "nextProgramInfo": {
+        "programId": "35-53_s1_p952",
+        "title": "#952 ホ、ホ、ホタル来い（にがくてあまい打ち水セット）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1722335978,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-53_s1_p951/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-53_eg0",
+    "skipVmap": true
+}

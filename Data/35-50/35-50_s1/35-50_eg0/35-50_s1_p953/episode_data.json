@@ -1,0 +1,118 @@
+{
+    "id": "35-50_s1_p953",
+    "series": {
+        "id": "35-50",
+        "title": "クレヨンしんちゃん",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "thumb.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/35-50",
+            "filename": "portrait.png",
+            "query": "version=1681282160",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "35-50_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 428
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 953,
+        "title": "#953 ボーちゃんとひまわりだゾ",
+        "content": "しんのすけが留守番をしているところにボーちゃんがやってくる。が、ななこからの電話で、しんのすけはななこの家に行ってしまう。残ったボーちゃんはひまわりのお守りをすることに。"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "野原しんのすけ：矢島晶子or小林由美子",
+            "野原みさえ：ならはしみき",
+            "野原ひろし：藤原啓治or森川智之",
+            "野原ひまわり：こおろぎさとみ",
+            "風間くん：真柴摩利",
+            "ネネちゃん：林 玉緒",
+            "マサオくん：一龍斎貞友",
+            "ボーちゃん：佐藤智恵"
+        ],
+        "crews": [
+            "監督：ムトウユージ"
+        ],
+        "copyrights": [
+            "(C)臼井儀人/双葉社・シンエイ・テレビ朝日・ADK"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719800056,
+    "endAt": 1751295600,
+    "transcodeVersion": "zLgR7",
+    "sharedLink": {
+        "twitter": "https://abema.app/oxQ4",
+        "facebook": "https://abema.app/A1SL",
+        "google": "https://abema.app/uJxA",
+        "line": "https://abema.app/JtEt",
+        "copy": "https://abema.app/fwBL",
+        "instagram": "https://abema.app/Kw5m"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/35-50_s1_p953/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/35-50_s1_p953/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/35-50_s1_p953/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.35-50_s1_p953"
+    },
+    "viewingPoint": {
+        "suggestion": 423.0059166666667
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/35-50_s1_p953/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "35-50_eg0",
+    "skipVmap": true
+}

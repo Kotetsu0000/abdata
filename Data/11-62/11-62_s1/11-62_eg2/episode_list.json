@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/11-62_s1_p1000",
             "filename": "thumb001.png",
-            "query": "version=1729145035",
+            "query": "version=1732526236",
             "extension": "png"
         },
         "episode": {
@@ -17,7 +17,7 @@
             "terms": [
                 {
                     "onDemandType": 3,
-                    "endAt": 1729349940
+                    "endAt": 1733583540
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -26,6 +26,64 @@
         },
         "info": {
             "duration": 1438
+        }
+    },
+    {
+        "id": "11-62_s1_p1001",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/11-62_s1_p1001",
+            "filename": "thumb001.png",
+            "query": "version=1732526236",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 1001,
+            "title": "前田佳織里 武闘家への道 前半",
+            "content": "ナルセーナ役の前田佳織里さんが武闘家を目指してキックボクシングに初挑戦！！\n番組では、元プロキックボクシング選手の新田明臣さんが前田さんを熱血指導！\n更に謎のゴブリンのマスクを被ったプロデューサーが登場…？\n武闘家として高い実力を持つナルセーナを演じる前田佳織里さんは、様々な試練を乗り越えてナルセーナのようなキックとパンチを習得出来るのか！？"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1733583540
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 418
+        }
+    },
+    {
+        "id": "11-62_s1_p1002",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/11-62_s1_p1002",
+            "filename": "thumb001.png",
+            "query": "version=1732526236",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 1002,
+            "title": "前田佳織里 武闘家への道 後半",
+            "content": "ナルセーナ役の前田佳織里さんが武闘家を目指してキックボクシングに初挑戦！！\n番組では、元プロキックボクシング選手の新田明臣さんが前田さんを熱血指導！\n更に謎のゴブリンのマスクを被ったプロデューサーが登場…？\n武闘家として高い実力を持つナルセーナを演じる前田佳織里さんは、様々な試練を乗り越えてナルセーナのようなキックとパンチを習得出来るのか！？"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1733583540
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 377
         }
     }
 ]
