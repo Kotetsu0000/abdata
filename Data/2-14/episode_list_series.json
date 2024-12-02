@@ -7259,7 +7259,11 @@
             "duration": 1470
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 75,
@@ -7288,7 +7292,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1732526318,
+        "imageUpdatedAt": 1733116126,
         "endAt": 1777647600,
         "freeEndAt": 1733481000,
         "transcodeVersion": "3dFsVk",

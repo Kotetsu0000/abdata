@@ -1150,7 +1150,11 @@
             "duration": 1430
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 10,
@@ -1199,7 +1203,7 @@
         },
         "mediaStatus": {},
         "label": {},
-        "imageUpdatedAt": 1732527150,
+        "imageUpdatedAt": 1733118224,
         "endAt": 1893423600,
         "transcodeVersion": "4xPNmV",
         "sharedLink": {

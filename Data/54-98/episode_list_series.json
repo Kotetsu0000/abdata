@@ -909,7 +909,11 @@
             "duration": 1097
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 9,
@@ -949,7 +953,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1732526863,
+        "imageUpdatedAt": 1733124364,
         "endAt": 1769871600,
         "freeEndAt": 1733648400,
         "transcodeVersion": "5xL4Rg",

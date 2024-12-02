@@ -1,0 +1,135 @@
+{
+    "id": "15-32_s1_p50",
+    "series": {
+        "id": "15-32",
+        "title": "とっても！ラッキーマン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "thumb.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "portrait.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-32_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1435
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 50,
+        "title": "第50話　『最後の決戦！最強合体パワー！！』",
+        "content": "あっさりと世直しマンチームに寝返ったラッキーマン。だが、パワーアップした勝利マンと無傷の友情マンが戻ってきたことで、その心は揺れていた。　結局のところ成り行き上、元のヒーローチームに戻るラッキーマン。努力マンもようやく眠りから覚め、こうして再びヒーローチーム全員がそろった。この五人に天才マンと会長＝超ウルトラスペシャル必殺マンを加えて味方は七人。だが、ただでさえ強い世直しマンは更なるパワーアップをはかるため巨大化！「世直しジャイアント」として七人の前に立ちふさがった！　必死で戦うヒーローたち！だが、敵はあまりにも強力で・・・。　果たして、全宇宙の運命は？！"
+    },
+    "credit": {
+        "released": 1994,
+        "casts": [
+            "ラッキーマン／追手内洋一:田中真弓",
+            "奇麗田見代:松井菜桜子",
+            "です代:高乃　麗",
+            "努力マン／杉田努力:千葉　繁",
+            "スーパースターマン／目立たがる:岩永哲哉",
+            "元祖ラッキーマン／ラッキー星:松本保典"
+        ],
+        "crews": [
+            "原作:ガモウひろし（集英社「週刊少年ジャンプ」連載）",
+            "監督:鍋島　修",
+            "シリーズ構成:浦沢義雄",
+            "キャラクターデザイン:金田伊功",
+            "美術監督:池田祐二",
+            "撮影監督:渡辺英俊",
+            "音響監督:清水勝則",
+            "音楽:本間勇輔",
+            "アニメーション制作：スタジオぴえろ"
+        ],
+        "copyrights": [
+            "(C)ガモウひろし／集英社・ぴえろ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725161183,
+    "endAt": 1767193200,
+    "transcodeVersion": "6uC3ZW",
+    "sharedLink": {
+        "twitter": "https://abema.app/yfkk",
+        "facebook": "https://abema.app/17x4",
+        "google": "https://abema.app/QGyq",
+        "line": "https://abema.app/o2B9",
+        "copy": "https://abema.app/Dea5",
+        "instagram": "https://abema.app/hF3M"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/15-32_s1_p50/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/15-32_s1_p50/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/15-32_s1_p50/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-32_s1_p50"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.9952333333333,
+        "opening": {
+            "start": 22.789433333333335,
+            "end": 112.9128
+        },
+        "ending": {
+            "start": 1325.6243,
+            "end": 1412.2441666666666
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-32_s1_p50/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "15-32_eg0",
+    "skipVmap": true
+}

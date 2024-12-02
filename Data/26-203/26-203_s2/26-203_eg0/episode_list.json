@@ -219,8 +219,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1370
+        }
+    },
+    {
+        "id": "26-203_s2_p33",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p33",
+            "filename": "thumb001.png",
+            "query": "version=1732526901",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 33,
+            "title": "第三十三話",
+            "content": "幕末の動乱期に“人斬り抜刀斎”と恐れられた維新志士・緋村剣心は、逆刃刀を手に不殺を誓い、流浪人として新しい時代を生きていた。\n\n明治十一年五月十四日、“維新三傑”大久保利通が暗殺される。\n時代を再び動かす事件の背後には、明治政府転覆を企てる志々雄真実の暗躍があった。\n剣心は“人斬り抜刀斎”の後継者でもあった志々雄を止めるため、神谷薫に別れを告げ京都へ旅立つ。\n\n薫たちとの別れ、そして新たな出会い\nさらには、志々雄一派との戦い\n己の因縁と不殺の誓いとの間で揺れる剣心\n\n幾多の想いが集う明治剣客浪漫譚、第二章開幕――！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1733108400
+                    "endAt": 1733713200
                 }
             ],
             "broadcastRegionPolicy": 1,

@@ -1,0 +1,75 @@
+{
+    "id": "26-103",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "青の祓魔師 劇場版",
+    "content": "11年に一度の祝祭を前に、高揚感と喧騒で溢れかえる正十字学園町。悪魔の侵入を防ぐため、祓魔師たちが結界張り替えに勤しむ一方、暴走する幽霊列車（ファントムトレイン）の退治にあたった奥村 燐は、任務の途中、少年の姿をした幼き悪魔に出会う。",
+    "seasons": [
+        {
+            "id": "26-103_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-103",
+                "filename": "thumb.png",
+                "query": "version=1627289174",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-103_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) 加藤和恵／集英社・「青の祓魔師」劇場版製作委員会 2012"
+    ],
+    "label": {},
+    "version": "1732673460712382547",
+    "imageUpdatedAt": 1627289174,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/w9aJ",
+        "facebook": "https://abema.app/uqUt",
+        "google": "https://abema.app/7G8N",
+        "line": "https://abema.app/v1L3",
+        "copy": "https://abema.app/r1BM",
+        "instagram": "https://abema.app/bFoF"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-103",
+        "filename": "thumb.png",
+        "query": "version=1627289174",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-103",
+        "filename": "portrait.png",
+        "query": "version=1627289174",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 4,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

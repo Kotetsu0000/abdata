@@ -248,8 +248,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1733079600
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -258,6 +258,35 @@
         },
         "info": {
             "duration": 1449
+        }
+    },
+    {
+        "id": "25-276_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p10",
+            "filename": "thumb002.png",
+            "query": "version=1733124088",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話",
+            "content": "ワルで頭の回転が速い人たらし・ハルと、気弱で人と話すことが苦手なパソコンオタク・ガク。\n正反対の二人は、中学時代のとある出来事を機に交友を深めていく。\nそれから数年。大学生になり就職活動に励むガクは、その性格が災いし面接で全敗。\n本命であった大手企業・ドラゴンバンク本社の窓拭きバイトをしていたところ、\nハルに一緒に起業しないかと持ちかけられる。\n「俺らのワガママは、世界一だ」\nこの世の全てを手にいれるため、1兆ドルを稼いで駆け上がる、二人の超予測不能な起業サバイバルが始まる！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1733684400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1450
         }
     }
 ]

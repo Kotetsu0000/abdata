@@ -1,0 +1,152 @@
+{
+    "id": "15-32_s1_p16",
+    "series": {
+        "id": "15-32",
+        "title": "とっても！ラッキーマン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "thumb.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "portrait.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-32_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話　『半魚人でラッキー！』",
+        "content": "今日は、年に一回の男女合同のプールの授業がある。洋一は、夢にまで見たみっちゃんの水着姿を想像しては、朝から浮かれまくり、ニヤニヤと不気味に笑っている。しかし、みっちゃんは残念ながら見学！そして、モロにです代の水着姿を見せられ、おまけにプールに落ちて溺れかけてしまった。さらにっーーープールの中には、サメがいた！！・・・と思ったら、実は、宇宙から来た半分人間で半分サメの姿を持った半魚人が住みついていた。洋一は、溺れながらもラッキーマンに変身し、半魚人をプールから追い出そうとする。"
+    },
+    "credit": {
+        "released": 1994,
+        "casts": [
+            "ラッキーマン／追手内洋一:田中真弓",
+            "奇麗田見代:松井菜桜子",
+            "です代:高乃　麗",
+            "努力マン／杉田努力:千葉　繁",
+            "スーパースターマン／目立たがる:岩永哲哉",
+            "元祖ラッキーマン／ラッキー星:松本保典"
+        ],
+        "crews": [
+            "原作:ガモウひろし（集英社「週刊少年ジャンプ」連載）",
+            "監督:鍋島　修",
+            "シリーズ構成:浦沢義雄",
+            "キャラクターデザイン:金田伊功",
+            "美術監督:池田祐二",
+            "撮影監督:渡辺英俊",
+            "音響監督:清水勝則",
+            "音楽:本間勇輔",
+            "アニメーション制作：スタジオぴえろ"
+        ],
+        "copyrights": [
+            "(C)ガモウひろし／集英社・ぴえろ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725160443,
+    "endAt": 1767193200,
+    "transcodeVersion": "7RLBbn",
+    "sharedLink": {
+        "twitter": "https://abema.app/NPAv",
+        "facebook": "https://abema.app/iviY",
+        "google": "https://abema.app/uyy6",
+        "line": "https://abema.app/Ut47",
+        "copy": "https://abema.app/Bjcx",
+        "instagram": "https://abema.app/3RSm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/15-32_s1_p16/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/15-32_s1_p16/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/15-32_s1_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-32_s1_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 1299.0644333333332,
+        "opening": {
+            "start": 22.789433333333335,
+            "end": 127.86106666666667
+        },
+        "ending": {
+            "start": 1329.0277,
+            "end": 1439.9051333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "15-32_s1_p17",
+        "title": "第17話　『おっかけマンでラッキー！』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1725160457,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-32_s1_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "15-32_eg0",
+    "skipVmap": true
+}

@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p101",
             "filename": "thumb002.png",
-            "query": "version=1732526076",
+            "query": "version=1733136745",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p102",
             "filename": "thumb002.png",
-            "query": "version=1732526076",
+            "query": "version=1733136745",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p103",
             "filename": "thumb002.png",
-            "query": "version=1732526076",
+            "query": "version=1733136745",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p104",
             "filename": "thumb002.png",
-            "query": "version=1732526076",
+            "query": "version=1733136745",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p105",
             "filename": "thumb001.png",
-            "query": "version=1732526076",
+            "query": "version=1733136745",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p106",
             "filename": "thumb001.png",
-            "query": "version=1732526076",
+            "query": "version=1733136745",
             "extension": "png"
         },
         "episode": {
@@ -163,6 +163,35 @@
                 {
                     "onDemandType": 3,
                     "endAt": 1733543400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 155
+        }
+    },
+    {
+        "id": "189-75_s1_p107",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p107",
+            "filename": "thumb002.png",
+            "query": "version=1733136745",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 107,
+            "title": "第7話 犬と留守番",
+            "content": "はじめてのお留守番。自由気ままな【犬】は果たして【殿】の言いつけを守れるのか？"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1733685300
                 }
             ],
             "broadcastRegionPolicy": 1,

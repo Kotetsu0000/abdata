@@ -1,0 +1,152 @@
+{
+    "id": "15-32_s1_p17",
+    "series": {
+        "id": "15-32",
+        "title": "とっても！ラッキーマン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "thumb.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "portrait.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-32_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1439
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 17,
+        "title": "第17話　『おっかけマンでラッキー！』",
+        "content": "洋一のパパとママは、“なっ大きい賞”作家と、伝説の人気アイドル“松本伊八代”だった。洋一がそれを初めて知った日、ママが「懐かしのアイドル番組」に出演するため、皆でテレビ局に出掛けた。番組で一目惚れし、今回、結婚を申し込みにやって来たというおっかけマンが舞台に登場！その魔の手からママを守ろうと立ち上がったのは、目を座らせたバーコードマンーーーパパーーーだった。果して、何のとりえもないパパにママを助けることができるのか？！"
+    },
+    "credit": {
+        "released": 1994,
+        "casts": [
+            "ラッキーマン／追手内洋一:田中真弓",
+            "奇麗田見代:松井菜桜子",
+            "です代:高乃　麗",
+            "努力マン／杉田努力:千葉　繁",
+            "スーパースターマン／目立たがる:岩永哲哉",
+            "元祖ラッキーマン／ラッキー星:松本保典"
+        ],
+        "crews": [
+            "原作:ガモウひろし（集英社「週刊少年ジャンプ」連載）",
+            "監督:鍋島　修",
+            "シリーズ構成:浦沢義雄",
+            "キャラクターデザイン:金田伊功",
+            "美術監督:池田祐二",
+            "撮影監督:渡辺英俊",
+            "音響監督:清水勝則",
+            "音楽:本間勇輔",
+            "アニメーション制作：スタジオぴえろ"
+        ],
+        "copyrights": [
+            "(C)ガモウひろし／集英社・ぴえろ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725160457,
+    "endAt": 1767193200,
+    "transcodeVersion": "7QN7G2",
+    "sharedLink": {
+        "twitter": "https://abema.app/Asmu",
+        "facebook": "https://abema.app/i8rV",
+        "google": "https://abema.app/e64a",
+        "line": "https://abema.app/CwXo",
+        "copy": "https://abema.app/Jx7b",
+        "instagram": "https://abema.app/fXpx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/15-32_s1_p17/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/15-32_s1_p17/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/15-32_s1_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-32_s1_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 1298.9309666666666,
+        "opening": {
+            "start": 22.789433333333335,
+            "end": 127.86106666666667
+        },
+        "ending": {
+            "start": 1328.8942333333334,
+            "end": 1439.8717666666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "15-32_s1_p18",
+        "title": "第18話　『借金トリマンでラッキー！』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1725160472,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-32_s1_p17/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "15-32_eg0",
+    "skipVmap": true
+}

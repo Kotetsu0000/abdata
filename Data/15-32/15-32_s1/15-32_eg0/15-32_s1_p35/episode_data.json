@@ -1,0 +1,152 @@
+{
+    "id": "15-32_s1_p35",
+    "series": {
+        "id": "15-32",
+        "title": "とっても！ラッキーマン",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "thumb.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/15-32",
+            "filename": "portrait.png",
+            "query": "version=1725159835",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "15-32_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1499
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 35,
+        "title": "第35話　『来襲！恐怖の殺し屋ヒットマン！！』",
+        "content": "遅れてヒーロー星に向かった努力マンと、スーパースターマン兄弟の目の前に、やっとのことで目的地が見えてきた。だが、謎の宇宙人・よっちゃんの恐怖に怯えるヒーローたちのモーレツなミサイル攻撃に遭い、このままでは無事、着陸できそうもない。そこで緊急脱出用小型船を使って地上に向かうことにする。　その頃、タワーへの侵入に成功した殺し屋・ヒットマンは、たまたま出会ったラッキーマンを縛り上げ、次なる作戦を遂行すべく、ニセラッキーマンに変装。まんまと会長室にもぐりこんでいた。　誰ひとりとしてヒットマンの完璧な変装を見破れず、作戦はほぼ成功したかにみえたが・・・。"
+    },
+    "credit": {
+        "released": 1994,
+        "casts": [
+            "ラッキーマン／追手内洋一:田中真弓",
+            "奇麗田見代:松井菜桜子",
+            "です代:高乃　麗",
+            "努力マン／杉田努力:千葉　繁",
+            "スーパースターマン／目立たがる:岩永哲哉",
+            "元祖ラッキーマン／ラッキー星:松本保典"
+        ],
+        "crews": [
+            "原作:ガモウひろし（集英社「週刊少年ジャンプ」連載）",
+            "監督:鍋島　修",
+            "シリーズ構成:浦沢義雄",
+            "キャラクターデザイン:金田伊功",
+            "美術監督:池田祐二",
+            "撮影監督:渡辺英俊",
+            "音響監督:清水勝則",
+            "音楽:本間勇輔",
+            "アニメーション制作：スタジオぴえろ"
+        ],
+        "copyrights": [
+            "(C)ガモウひろし／集英社・ぴえろ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1725160879,
+    "endAt": 1767193200,
+    "transcodeVersion": "5e3cdf",
+    "sharedLink": {
+        "twitter": "https://abema.app/CKdo",
+        "facebook": "https://abema.app/mD93",
+        "google": "https://abema.app/qNS8",
+        "line": "https://abema.app/7ydp",
+        "copy": "https://abema.app/Qbjc",
+        "instagram": "https://abema.app/1tMT"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/15-32_s1_p35/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/15-32_s1_p35/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/15-32_s1_p35/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.15-32_s1_p35"
+    },
+    "viewingPoint": {
+        "suggestion": 1359.0243333333333,
+        "opening": {
+            "start": 22.8228,
+            "end": 127.9278
+        },
+        "ending": {
+            "start": 1388.9876,
+            "end": 1499.9651333333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "15-32_s1_p36",
+        "title": "第36話　『恐怖！お手手戦隊指レンジャー！！』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1725160896,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/15-32_s1_p35/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "15-32_eg0",
+    "skipVmap": true
+}
