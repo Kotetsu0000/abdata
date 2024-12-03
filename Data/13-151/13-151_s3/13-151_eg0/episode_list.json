@@ -219,8 +219,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1442
+        }
+    },
+    {
+        "id": "13-151_s3_p9",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/13-151_s3_p9",
+            "filename": "thumb001.png",
+            "query": "version=1732685385",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 9,
+            "title": "第9話",
+            "content": "私立結ヶ丘女子高等学校、表参道と原宿と青山という3つの街のはざまで生まれたスクールアイドルグループLiella!の3年目がはじまる。澁谷かのんたち1期生にとっては、高校生活最後の1年。精一杯声響かせた学校の屋上も、全力で駆けた並木道も、全てが思い出に変わる前に。「約束をしよう――。」5人で踏み出し、9人で夢を叶えて、11人で結ばれる「みんなで叶える物語（ルビ：スクールアイドルプロジェクト）」。はばたけ！ わたしたちのラブライブ！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1733212800
+                    "endAt": 1733817600
                 }
             ],
             "broadcastRegionPolicy": 1,

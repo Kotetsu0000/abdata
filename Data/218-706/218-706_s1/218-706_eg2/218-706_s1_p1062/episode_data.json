@@ -1,0 +1,106 @@
+{
+    "id": "218-706_s1_p1062",
+    "series": {
+        "id": "218-706",
+        "title": "SHIBUYA ANIME BASE",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "thumb.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-706",
+            "filename": "portrait.png",
+            "query": "version=1712891168",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-706_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 391
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1062,
+        "title": "#30：アニメプロデューサー・川瀬浩平インタビュー前編",
+        "content": "「とある魔術の禁書目録」「SHIROBAKO」など、人気作品のプロデュースを多数手がけるアニメプロデューサーの仕事とは？アニメ制作現場のリアルを深掘り！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "メインMC：ハライチ・岩井勇気",
+            "サブMC(4月＆5月)：徳井青空"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)AbemaTV, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1733212214,
+    "endAt": 1764421200,
+    "freeEndAt": 1764421200,
+    "transcodeVersion": "3yD9fY",
+    "sharedLink": {
+        "twitter": "https://abema.app/LtiG",
+        "facebook": "https://abema.app/Z6nK",
+        "google": "https://abema.app/uuq1",
+        "line": "https://abema.app/ZEKG",
+        "copy": "https://abema.app/y8y1",
+        "instagram": "https://abema.app/jvXn"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p1062/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p1062/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/218-706_s1_p1062/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/218-706_s1_p1062/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-706_s1_p1062"
+    },
+    "viewingPoint": {
+        "suggestion": 386.8197666666667
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-706_s1_p1062/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1764421200
+        }
+    ],
+    "episodeGroupId": "218-706_eg2",
+    "skipVmap": true
+}
