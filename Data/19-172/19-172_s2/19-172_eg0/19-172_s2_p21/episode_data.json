@@ -1,0 +1,125 @@
+{
+    "id": "19-172_s2_p21",
+    "series": {
+        "id": "19-172",
+        "title": "カミエラビ GOD.app",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "thumb.png",
+            "query": "version=1732162310",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "portrait.png",
+            "query": "version=1732162310",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-172_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "episode21 当たり前じゃん、私……なんだから",
+        "content": "書かれた文字の意味を具現化するヒガキの力で、崩壊するパラレルワールドから脱出したラルとキョウはアキツたちと合流し“カミエラビ”のＡＩ本体がある場所へと向かう。真なる神の攻撃をかわしながらなんとかその施設へと辿り着いた一行は、ケイタの案内で、施設を進む。そして１２年前、ヒガキに誘われて世界の秘密を知ったケイタは、ラルたちにカミエラビと幻覚の世界について語る。しかしそこに待ち受けていたのは……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ゴロー：浦 和希",
+            "ラル：佐倉綾音",
+            "ホノカ：松本沙羅",
+            "アキツ：内田修一",
+            "チカ：阿部菜摘子"
+        ],
+        "crews": [
+            "原案：ヨコオタロウ",
+            "監 督：瀬下寛之",
+            "脚本：じん",
+            "音楽：MONACA",
+            "キャラクターデザイン：大久保 篤",
+            "副監督：井手 恵介/石間 祐一/りょーちも",
+            "アニメーションキャラクターデザイン：山中 純子/もりやま　ゆうき"
+        ],
+        "copyrights": [
+            "(C)カミエラビ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733216631,
+    "endAt": 1761922800,
+    "transcodeVersion": "5iQqDR",
+    "sharedLink": {
+        "twitter": "https://abema.app/h3r7",
+        "facebook": "https://abema.app/mntg",
+        "google": "https://abema.app/uTNh",
+        "line": "https://abema.app/UK76",
+        "copy": "https://abema.app/deKZ",
+        "instagram": "https://abema.app/VnNc"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-172_s2_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-172_s2_p21/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-172_s2_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-172_s2_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.0754583333332,
+        "opening": {
+            "start": 81.03929166666667,
+            "end": 170.92075
+        },
+        "ending": {
+            "start": 1285.0754583333332,
+            "end": 1375.12375
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-172_s2_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "19-172_eg0",
+    "skipVmap": true
+}
