@@ -1,0 +1,159 @@
+{
+    "id": "420-71_s3_p2",
+    "series": {
+        "id": "420-71",
+        "title": "ギャグマンガ日和",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+            "filename": "thumb.png",
+            "query": "version=1731922330",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+            "filename": "portrait.png",
+            "query": "version=1731922330",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-71_s3",
+        "sequence": 3,
+        "name": "ギャグマンガ日和3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 320
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 アカトンボのふしぎ／最後はやっぱりうさみちゃんが事件解決！",
+        "content": "「アカトンボのふしぎ」\n昆虫のふしぎシリーズ。今回はアカトンボのふしぎだよ。\n「最後はやっぱりうさみちゃんが事件解決！」\nペン介君との友情。そしてその影に潜むものとは…。"
+    },
+    "credit": {
+        "released": 2008,
+        "casts": [
+            "松尾芭蕉：内藤 玲",
+            "河合曽良：前田 剛",
+            "平田平男：矢部雅史",
+            "平田のライバル：前田 剛",
+            "トオル君：那須めぐみ",
+            "伊能忠敬：矢部雅史",
+            "キューピッド：名塚佳織",
+            "夢野カケラ：内藤 玲",
+            "修斗：前田 剛",
+            "よっちゃん：うえだゆうじ",
+            "うさみちゃん：佐藤なる美"
+        ],
+        "crews": [
+            "原作：増田こうすけ",
+            "連載：集英社 ジャンプスクエア",
+            "監督：大地丙太郎",
+            "音響監督：たなかかずや",
+            "音楽：山本はるきち",
+            "撮影：大山佳久",
+            "制作：ダックスプロダクション、スタジオディーン",
+            "製作：キッズステーション、バンダイビジュアル、集英社"
+        ],
+        "copyrights": [
+            "(C)増田こうすけ／集英社・キッズステーション・バンダイビジュアル"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1732178873,
+    "endAt": 1774969200,
+    "freeEndAt": 1734494400,
+    "transcodeVersion": "4fJfrQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/SSao",
+        "facebook": "https://abema.app/NnPn",
+        "google": "https://abema.app/2ZTA",
+        "line": "https://abema.app/gbWx",
+        "copy": "https://abema.app/tEhp",
+        "instagram": "https://abema.app/Pnov"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/420-71_s3_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/420-71_s3_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/420-71_s3_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/420-71_s3_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-71_s3_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 302.8358666666667,
+        "opening": {
+            "start": 20.02,
+            "end": 47.414033333333336
+        },
+        "ending": {
+            "start": 302.8358666666667,
+            "end": 319.95296666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-71_s3_p3",
+        "title": "第3話 聖徳1週間",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1732178873,
+        "endAt": 1774969200,
+        "freeEndAt": 1734494400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1734494400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-71_s3_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1734494400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "420-71_eg0",
+    "skipVmap": true
+}

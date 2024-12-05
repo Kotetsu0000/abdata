@@ -1,0 +1,157 @@
+{
+    "id": "420-71_s4_p6",
+    "series": {
+        "id": "420-71",
+        "title": "ギャグマンガ日和",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+            "filename": "thumb.png",
+            "query": "version=1731922330",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+            "filename": "portrait.png",
+            "query": "version=1731922330",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-71_s4",
+        "sequence": 4,
+        "name": "ギャグマンガ日和＋",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 299
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 メカマツオ",
+        "content": "元禄二年五月九日。松尾芭蕉は、弟子の曽良を供につれ「奥の細道」の旅を始めていました。松島へとやってきた芭蕉たち…。しかし、悲劇はそこで起きたのです。曽良の読んだアノ名句と、芭蕉と曽良の絶交の関係とは？ 曽良のナゾのほほえみが嵐を呼ぶ！ そして、ついうっかり未来からやってきたメカマツオの正体とは!?"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "松尾芭蕉：内藤 玲",
+            "河合曽良：前田 剛",
+            "平田平男：矢部雅史",
+            "平田のライバル：前田 剛",
+            "トオル君：那須めぐみ",
+            "伊能忠敬：矢部雅史",
+            "キューピッド：名塚佳織",
+            "夢野カケラ：内藤 玲",
+            "修斗：前田 剛",
+            "よっちゃん：うえだゆうじ",
+            "うさみちゃん：佐藤成美"
+        ],
+        "crews": [
+            "原作：増田こうすけ",
+            "掲載：「ジャンプスクエア」",
+            "発行：集英社",
+            "監督：大地丙太郎",
+            "制作：ダックスプロダクション、スタジオディーン",
+            "音楽：ランティス",
+            "製作：集英社、読売テレビ、バンダイビジュアル、キッズステーション"
+        ],
+        "copyrights": [
+            "(C)増田こうすけ／集英社・読売テレビ・バンダイビジュアル・キッズステーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1732178873,
+    "endAt": 1774969200,
+    "freeEndAt": 1734494400,
+    "transcodeVersion": "3PFVkX",
+    "sharedLink": {
+        "twitter": "https://abema.app/wCm5",
+        "facebook": "https://abema.app/owi6",
+        "google": "https://abema.app/sw9D",
+        "line": "https://abema.app/yDrH",
+        "copy": "https://abema.app/uU1C",
+        "instagram": "https://abema.app/aNHD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/420-71_s4_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/420-71_s4_p6/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/420-71_s4_p6/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/420-71_s4_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-71_s4_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 282.51556666666664,
+        "opening": {
+            "end": 27.494133333333334
+        },
+        "ending": {
+            "start": 282.51556666666664,
+            "end": 299.9329666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-71_s4_p7",
+        "title": "第7話 恋のラブソングを君に",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1732178873,
+        "endAt": 1774969200,
+        "freeEndAt": 1734494400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1734494400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-71_s4_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1734494400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "420-71_eg0",
+    "skipVmap": true
+}

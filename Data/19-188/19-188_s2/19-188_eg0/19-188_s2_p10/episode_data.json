@@ -1,0 +1,130 @@
+{
+    "id": "19-188_s2_p10",
+    "series": {
+        "id": "19-188",
+        "title": "百妖譜（日本語吹替版）",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "thumb.png",
+            "query": "version=1732162346",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-188",
+            "filename": "portrait.png",
+            "query": "version=1732162346",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-188_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1425
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 照海（上）",
+        "content": "媼姫は、無縁墓地で平和に暮らしていた。しかしある日、その地で一番と名高い妖怪退治の術師、驚蟄（きょうちゅう）がやってくる。媼姫は術師を恐れて逃げようとするが、草むらに隠れていたところを見つかってしまう。必死に命乞いをする彼女に、驚蟄は優しく、酒は飲めるかと尋ねるのだった。しゃべらない鏡の首飾りだけが友だという驚蟄。それから二人は、互いの唯一の飲み友達として10年の歳月を共にし、やがて想いを寄せあうようになる。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "桃夭：東山奈央",
+            "磨牙（小坊主）：村瀬歩",
+            "柳公子：河西健吾"
+        ],
+        "crews": [
+            "原作：裟椤双樹",
+            "監督：董易",
+            "脚本：春日幽鈴",
+            "総演出監督：ソ・ギョンロク",
+            "総作画監督：クォン・ウンギョン",
+            "美術監督：イ・ボンリョル",
+            "音楽：薄彩生",
+            "アニメーション制作：bilibili",
+            "日本語吹き替え版演出：安藤直子",
+            "翻訳：本多由枝　林真子",
+            "録音・調整：吉本晋　首藤智愉",
+            "音響制作：東北新社",
+            "日本語吹き替え版制作：フジテレビジョン"
+        ],
+        "copyrights": [
+            "(C)bilibili",
+            "改編自小明太極作家裟椤双樹同名小説『百妖譜』"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733386151,
+    "endAt": 1767193200,
+    "transcodeVersion": "6pWwGk",
+    "sharedLink": {
+        "twitter": "https://abema.app/gGDA",
+        "facebook": "https://abema.app/AGKJ",
+        "google": "https://abema.app/jc4T",
+        "line": "https://abema.app/2b31",
+        "copy": "https://abema.app/7Fiw",
+        "instagram": "https://abema.app/DNK5"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-188_s2_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-188_s2_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-188_s2_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-188_s2_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1288.1201666666666,
+        "opening": {
+            "start": 88.12970833333334,
+            "end": 187.93775
+        },
+        "ending": {
+            "start": 1288.1201666666666,
+            "end": 1395.8945
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-188_s2_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "19-188_eg0",
+    "skipVmap": true
+}

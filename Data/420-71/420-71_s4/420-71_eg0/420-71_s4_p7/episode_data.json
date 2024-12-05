@@ -1,0 +1,157 @@
+{
+    "id": "420-71_s4_p7",
+    "series": {
+        "id": "420-71",
+        "title": "ギャグマンガ日和",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+            "filename": "thumb.png",
+            "query": "version=1731922330",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+            "filename": "portrait.png",
+            "query": "version=1731922330",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "420-71_s4",
+        "sequence": 4,
+        "name": "ギャグマンガ日和＋",
+        "thumbComponent": {},
+        "order": 4
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 299
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 恋のラブソングを君に",
+        "content": "デビューCDが第1位を獲得した期待の新人アイドル笹島聖斗。彼には思いを寄せる人がいて…。彼女のために歌った聖斗の勇気とピュアで切ない心情と、カップリング曲に秘められた破壊力が爆発する！ 人気アイドルの真実を描く、感動の芸能界ストーリー！"
+    },
+    "credit": {
+        "released": 2010,
+        "casts": [
+            "松尾芭蕉：内藤 玲",
+            "河合曽良：前田 剛",
+            "平田平男：矢部雅史",
+            "平田のライバル：前田 剛",
+            "トオル君：那須めぐみ",
+            "伊能忠敬：矢部雅史",
+            "キューピッド：名塚佳織",
+            "夢野カケラ：内藤 玲",
+            "修斗：前田 剛",
+            "よっちゃん：うえだゆうじ",
+            "うさみちゃん：佐藤成美"
+        ],
+        "crews": [
+            "原作：増田こうすけ",
+            "掲載：「ジャンプスクエア」",
+            "発行：集英社",
+            "監督：大地丙太郎",
+            "制作：ダックスプロダクション、スタジオディーン",
+            "音楽：ランティス",
+            "製作：集英社、読売テレビ、バンダイビジュアル、キッズステーション"
+        ],
+        "copyrights": [
+            "(C)増田こうすけ／集英社・読売テレビ・バンダイビジュアル・キッズステーション"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1732178873,
+    "endAt": 1774969200,
+    "freeEndAt": 1734494400,
+    "transcodeVersion": "TMPiQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/5P1F",
+        "facebook": "https://abema.app/K1L6",
+        "google": "https://abema.app/13YZ",
+        "line": "https://abema.app/j1cG",
+        "copy": "https://abema.app/9HRi",
+        "instagram": "https://abema.app/ERSQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/420-71_s4_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/420-71_s4_p7/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/420-71_s4_p7/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/420-71_s4_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.420-71_s4_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 280.9139666666667,
+        "opening": {
+            "end": 27.494133333333334
+        },
+        "ending": {
+            "start": 280.9139666666667,
+            "end": 299.9329666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "420-71_s4_p8",
+        "title": "第8話 なめられペリー",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1732178873,
+        "endAt": 1774969200,
+        "freeEndAt": 1734494400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1734494400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/420-71_s4_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1734494400
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "420-71_eg0",
+    "skipVmap": true
+}

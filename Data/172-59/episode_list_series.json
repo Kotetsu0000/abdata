@@ -901,12 +901,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1732870203,
         "endAt": 1774969200,
-        "freeEndAt": 1733414400,
         "transcodeVersion": "5M3Kme",
         "sharedLink": {
             "twitter": "https://abema.app/BHD9",
@@ -930,8 +927,114 @@
         },
         "terms": [
             {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ],
+        "episodeGroupId": "172-59_eg0"
+    },
+    {
+        "id": "172-59_s1_p10",
+        "series": {
+            "id": "172-59",
+            "title": "アオのハコ",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-59",
+                "filename": "thumb.png",
+                "query": "version=1731554467",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-59",
+                "filename": "portrait.png",
+                "query": "version=1731554467",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "172-59_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-59_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1731551942",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 1420
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話",
+            "content": "毎朝一番に会いたい人がいる――\n中高一貫のスポーツ強豪校・栄明高校に入学する、男子バドミントン部の一年生・猪股大喜。\n大喜は毎朝、朝練で顔を合わせる一つ上の先輩、鹿野千夏に恋をする。\n千夏は女子バスケットボール部のエースで、校内外問わず人気の高嶺の花。\n部活に恋に勉強に、大喜にとって忙しい高校生活がはじまる、そんなある日ーーー"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "猪股大喜：千葉翔也",
+                "鹿野千夏：上田麗奈",
+                "蝶野雛：鬼頭明里",
+                "笠原匡：小林千晃",
+                "針生健吾：内田雄馬"
+            ],
+            "crews": [
+                "原作：三浦糀",
+                "監督：矢野雄一郎",
+                "キャラクターデザイン・総作画監督：谷野美穂",
+                "シリーズ構成・脚本：柿原優子",
+                "色彩設計：今野成美",
+                "美術監督：藤井王之王",
+                "撮影監督：川下裕樹",
+                "編集：笠原義宏",
+                "音響監督：明田川仁",
+                "音楽：大間々昂",
+                "クリエイティブアドバイザー：モギシンゴ",
+                "企画プロデュース：UNLIMITED PRODUCE by TMS",
+                "アニメーション制作：テレコム・アニメーションフィルム"
+            ],
+            "copyrights": [
+                "(C)三浦糀／集英社・「アオのハコ」製作委員会"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1732867113,
+        "endAt": 1774969200,
+        "freeEndAt": 1734019200,
+        "transcodeVersion": "sApkq",
+        "sharedLink": {
+            "twitter": "https://abema.app/kGSv",
+            "facebook": "https://abema.app/VPfA",
+            "google": "https://abema.app/Jxyf",
+            "line": "https://abema.app/HbjM",
+            "copy": "https://abema.app/pwDT",
+            "instagram": "https://abema.app/PvzH"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/172-59_s1_p10/1/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
                 "onDemandType": 3,
-                "endAt": 1733414400
+                "endAt": 1734019200
             }
         ],
         "episodeGroupId": "172-59_eg0"

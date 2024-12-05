@@ -1,0 +1,132 @@
+{
+    "id": "420-71",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ギャグマンガ日和",
+    "content": "聖徳太子＆妹子、芭蕉に曽良、うさみちゃんとクマ吉くんとかおなじみの面々と、その他大勢が繰り広げるシュールで不条理な（？）物語、はじまりはじまり～",
+    "seasons": [
+        {
+            "id": "420-71_s1",
+            "sequence": 1,
+            "name": "ギャグマンガ日和",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-71_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1731922770",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-71_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "420-71_s2",
+            "sequence": 2,
+            "name": "ギャグマンガ日和2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-71_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1731922859",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-71_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "420-71_s3",
+            "sequence": 3,
+            "name": "ギャグマンガ日和3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-71_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1732675359",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-71_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        },
+        {
+            "id": "420-71_s4",
+            "sequence": 4,
+            "name": "ギャグマンガ日和＋",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/420-71_s4",
+                "filename": "default_thumb.png",
+                "query": "version=1732675375",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "420-71_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 4
+        }
+    ],
+    "copyrights": [
+        "(C)増田こうすけ／集英社・キッズステーション・スカパー！ウェルシンク"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1732842889410719296",
+    "imageUpdatedAt": 1731922330,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/4e3a",
+        "facebook": "https://abema.app/V4oH",
+        "google": "https://abema.app/qeo3",
+        "line": "https://abema.app/m5Tz",
+        "copy": "https://abema.app/75NC",
+        "instagram": "https://abema.app/qJ3d"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+        "filename": "thumb.png",
+        "query": "version=1731922330",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/420-71",
+        "filename": "portrait.png",
+        "query": "version=1731922330",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
