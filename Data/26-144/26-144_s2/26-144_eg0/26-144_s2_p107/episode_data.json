@@ -1,0 +1,151 @@
+{
+    "id": "26-144_s2_p107",
+    "series": {
+        "id": "26-144",
+        "title": "天官賜福 貮",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-144",
+            "filename": "thumb.png",
+            "query": "version=1704850631",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-144",
+            "filename": "portrait.png",
+            "query": "version=1704850631",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-144_s2",
+        "sequence": 2,
+        "name": "season2（貮）",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1309
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 107,
+        "title": "第七話 ただ一人のために",
+        "content": "攫われた謝憐を取り戻そうと後を追う風信と慕情だったが、賽子の法術に翻弄され彼方此方へと飛ばされてしまう。一方、一足先に謝憐の元へ駆けつけた郎千秋は再び決闘を挑み、遂に謝憐もその申し出に応じるのだった。こじれてしまった二人の関係をよそに、花城はある場所へと彼らを誘う。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "謝憐（シエ・リェン）：神谷浩史",
+            "花城（ホワチョン）：福山潤",
+            "霊文（リンウェン）：日笠陽子",
+            "君吾（ジュンウー）：子安武人",
+            "風信（フォンシン）：古川慎",
+            "慕情（ムーチン）：小林千晃",
+            "師青玄（男）（シー・チンシュエン）：島﨑信長",
+            "師青玄（女）（シー・チンシュエン）：川澄綾子",
+            "郎千秋（ラン・チエンチウ）：山下大輝",
+            "裴茗（ペイ・ミン）：諏訪部順一",
+            "裴宿（ペイ・シュウ）：増田俊樹"
+        ],
+        "crews": [
+            "原作：墨香銅臭",
+            "アニメーション制作：天官賜福製作委員会",
+            "日本版製作：株式会社アニプレックス"
+        ],
+        "copyrights": [
+            "動画改編自晋江文学城作家墨香銅臭同名小説(C)天官賜福製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711536666,
+    "endAt": 1736434800,
+    "transcodeVersion": "25hrny",
+    "sharedLink": {
+        "twitter": "https://abema.app/cf5Z",
+        "facebook": "https://abema.app/zP1b",
+        "google": "https://abema.app/zKxX",
+        "line": "https://abema.app/NGJb",
+        "copy": "https://abema.app/sQKc",
+        "instagram": "https://abema.app/V82K"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-144_s2_p107/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-144_s2_p107/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-144_s2_p107/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-144_s2_p107"
+    },
+    "viewingPoint": {
+        "suggestion": 1194.2764166666666,
+        "opening": {
+            "start": 116.116,
+            "end": 221.05416666666667
+        },
+        "ending": {
+            "start": 1194.2764166666666,
+            "end": 1309.5999583333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-144_s2_p108",
+        "title": "第八話 青灯夜遊",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1711536666,
+        "endAt": 1736434800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1736434800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-144_s2_p107/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1736434800
+        }
+    ],
+    "episodeGroupId": "26-144_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,150 @@
+{
+    "id": "115-110_s1_p6",
+    "series": {
+        "id": "115-110",
+        "title": "ROLY POLY PEOPLES",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-110",
+            "filename": "thumb.png",
+            "query": "version=1713841876",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-110",
+            "filename": "portrait.png",
+            "query": "version=1713841876",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-110_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 159
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "EP6 天才ウィッキー",
+        "content": "教室の隅で丸まって考え事をしているウィッキー。何かすごい大発見をしそうな予感…！？"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ローリー：西山宏太朗",
+            "ブルース：榎木淳弥",
+            "ライナー ：石川界人",
+            "ケリー：上坂すみれ",
+            "ウィッキー：内田雄馬",
+            "ポチー：浪川大輔"
+        ],
+        "crews": [
+            "監督・シリーズ構成：矢立きょう",
+            "クリエイティブディレクター・ストーリー制作：川本 成",
+            "脚本：堀 雅人",
+            "クリエイティブディレクター：石川雅雄、服部隆幸",
+            "キャラクターデザイン：川辺 圭",
+            "作画監督：三田 潤",
+            "作画：向井雅俊、岡田ありさ、岡田えりか",
+            "デザインワークス：荒川美智代",
+            "音響監督：浪川大輔",
+            "音楽：三澤康広",
+            "音響効果：西 佐知子",
+            "録音調整：八巻大樹",
+            "音響補佐：神馬 譲",
+            "音響制作デスク：松木香沙美",
+            "音響制作：ステイラック",
+            "アニメーションプロデューサー：清水香梨子",
+            "アニメーション制作：レスプリ"
+        ],
+        "copyrights": [
+            "(C)ROLY POLY PEOPLES製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711787210,
+    "endAt": 1748703600,
+    "transcodeVersion": "VTgzG",
+    "sharedLink": {
+        "twitter": "https://abema.app/U7mP",
+        "facebook": "https://abema.app/cq3G",
+        "google": "https://abema.app/ePB7",
+        "line": "https://abema.app/tWtj",
+        "copy": "https://abema.app/tRcw",
+        "instagram": "https://abema.app/2uUt"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-110_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-110_s1_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-110_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-110_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 129.33754166666668,
+        "ending": {
+            "start": 129.33754166666668,
+            "end": 159.32583333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-110_s1_p7",
+        "title": "EP7 雨",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711787221,
+        "endAt": 1748703600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1748703600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-110_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1748703600
+        }
+    ],
+    "episodeGroupId": "115-110_eg0",
+    "skipVmap": true
+}

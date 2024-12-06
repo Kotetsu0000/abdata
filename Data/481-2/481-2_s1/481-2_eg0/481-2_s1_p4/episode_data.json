@@ -1,0 +1,159 @@
+{
+    "id": "481-2_s1_p4",
+    "series": {
+        "id": "481-2",
+        "title": "ソマリと森の神様",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-2",
+            "filename": "thumb.png",
+            "query": "version=1681283807",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-2",
+            "filename": "portrait.png",
+            "query": "version=1681283807",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-2_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 叶える花と願う約束",
+        "content": "キキーラとムスリカの手助けで願いのかなう花を手に入れたソマリ。しかし寄り道をしたことをゴーレムに叱責されてしまう。\n「これ以上旅を続けることはできない」\nショックを受けたソマリはこれまでの無理がたたり体調を崩してしまう。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ソマリ　水瀬いのり",
+            "ゴーレム　小野大輔",
+            "シズノ　七海ひろき",
+            "ヤバシラ　鈴木達央",
+            "ウゾイ　早見沙織",
+            "ハイトラ　小野友樹",
+            "キキーラ　小林ゆう",
+            "ムスリカ　速水奨",
+            "コキリラ　関智一",
+            "ヘイゼル　茅野愛衣",
+            "プラリネ　高垣彩陽",
+            "ローザおばさん　柴田理恵"
+        ],
+        "crews": [
+            "原作　暮石ヤコ『ソマリと森の神様』",
+            "(「WEBコミックぜにょん」連載/ノース・スターズ・ピクチャーズ)",
+            "監督　安田賢司",
+            "シリーズ構成　望月真里子",
+            "キャラクターデザイン　伊藤郁子",
+            "サブキャラクターデザイン　大橋幸子、田中穣、𠮷川美貴",
+            "美術監督　ニエム・ヴィンセント",
+            "色彩設計　中村千穂",
+            "音響監督　濱野高年",
+            "音楽演出　佐藤恭野",
+            "音響効果　出雲範子",
+            "アニメーション制作　サテライト"
+        ],
+        "copyrights": [
+            "(C)暮石ヤコ/NSP/ソマリと森の神様プロジェクト, mixer"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683607686,
+    "endAt": 1743433200,
+    "transcodeVersion": "7ENjFK",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/b9H7G",
+        "facebook": "https://gxyt4.app.goo.gl/Wv2jM",
+        "google": "https://gxyt4.app.goo.gl/TL4Rz",
+        "line": "https://gxyt4.app.goo.gl/gZ6ne",
+        "copy": "https://gxyt4.app.goo.gl/JGpos",
+        "instagram": "https://gxyt4.app.goo.gl/ANrnj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/481-2_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/481-2_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/481-2_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-2_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.055266,
+        "opening": {
+            "start": 48.071222,
+            "end": 137.9361
+        },
+        "ending": {
+            "start": 1325.055266,
+            "end": 1414.961844
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "481-2_s1_p5",
+        "title": "第5話 揺蕩いの鳥",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1683607686,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-2_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "481-2_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,152 @@
+{
+    "id": "481-1_s1_p11",
+    "series": {
+        "id": "481-1",
+        "title": "RobiHachi",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "thumb.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "portrait.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "#11 聞いて極楽、イセカンダル",
+        "content": "ギャラクシー街道の最終目的地『イセカンダル』に到着したロビー達。しかし、イセカンダル参拝にはいろいろと段取りがあるらしい。段取りに沿って今夜は宿に泊まってお参りは翌朝からすることに。その前に、参道を散策。左右にびっしりと並ぶお休み処、お食事処、土産物屋、旅籠……。参拝客もさることながら、売り子達なども多数おり、かなりの賑わいだ。ロビー達もおみくじを引いたり、食べ歩きしたりとご利益だらけのイセカンダル観光を楽しむのだが、ハッチはいつもと何か違う感じで……。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ロビー・ヤージ：中井和哉",
+            "ハッチ・キタ：河本啓佑",
+            "JPS-19（イック）：阪口大助",
+            "ヤン：杉田智和",
+            "アロ：木村 昴",
+            "グラ：徳留慎乃佑"
+        ],
+        "crews": [
+            "原作：馬谷たいが",
+            "監督：高松信司",
+            "シリーズ構成：金杉弘子",
+            "キャラクターデザイン：八尋裕子",
+            "コンセプトデザイン：三沢 伸",
+            "アニメ−ション制作：スタジオコメット"
+        ],
+        "copyrights": [
+            "(C)馬谷たいが／株式会社ドンツー"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681890160,
+    "endAt": 1743433200,
+    "transcodeVersion": "6eFfat",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/hmHMR",
+        "facebook": "https://gxyt4.app.goo.gl/mU79Y",
+        "google": "https://gxyt4.app.goo.gl/UhM8i",
+        "line": "https://gxyt4.app.goo.gl/Aw6zn",
+        "copy": "https://gxyt4.app.goo.gl/YRR64",
+        "instagram": "https://gxyt4.app.goo.gl/jSVvd"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/481-1_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/481-1_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/481-1_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-1_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1334.064266,
+        "opening": {
+            "start": 79.102222,
+            "end": 149.989811
+        },
+        "ending": {
+            "start": 1334.064266,
+            "end": 1424.871844
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "481-1_s1_p12",
+        "title": "#12 月の夢、地球の夢",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1681890160,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-1_s1_p11/timeline",
+        "query": "version=6eFfat",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "481-1_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p16",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 マンモスに会いにいこう パート２",
+        "content": "マンモスに会うために氷河期にタイムトラベルしたジェットとマーゴとグランド･アルバートは、マンモスの親子に追いかけられてしまう。必死に逃げながら崖から飛び降りると、お母さんマンモスが氷の穴に落ちて出られなくなる。助けるためにジェットが本部に連絡しようとするも、氷河期にいるため通信ができない。そこで壁画に状況を描いて残し、現代で見てもらうことにする。世界旅行中のジンボが壁画を見つけ、スカイへ連絡。呼ばれたディジーとドニーがタイムトラベルをして氷河期まで助けにくる。彼らは丸太を使ってお母さんマンモスを引き上げることに成功する。現代へ戻ったジェットたちは、新たにアークが描いた壁画を発見する。そこにはマーゴとスーパー・ウィングスの姿があった"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018364,
+    "endAt": 1740754800,
+    "transcodeVersion": "4HvvnU",
+    "sharedLink": {
+        "twitter": "https://abema.app/42mf",
+        "facebook": "https://abema.app/qrZz",
+        "google": "https://abema.app/tKBU",
+        "line": "https://abema.app/LHAH",
+        "copy": "https://abema.app/aehu",
+        "instagram": "https://abema.app/7xQN"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.125416666666666
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p17",
+        "title": "第17話 オバケの家",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018364,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

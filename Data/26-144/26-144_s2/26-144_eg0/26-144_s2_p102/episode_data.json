@@ -1,0 +1,151 @@
+{
+    "id": "26-144_s2_p102",
+    "series": {
+        "id": "26-144",
+        "title": "天官賜福 貮",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-144",
+            "filename": "thumb.png",
+            "query": "version=1704850631",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-144",
+            "filename": "portrait.png",
+            "query": "version=1704850631",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-144_s2",
+        "sequence": 2,
+        "name": "season2（貮）",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1585
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 102,
+        "title": "第二話 玲瓏の賽",
+        "content": "賭場で謝憐たちと落ち合うはずだった武神・郎千秋だが、博徒のあまりの醜態に腹を立て騒ぎを起こしてしまう。城主である花城に攻撃するも歯が立たず、逆に身動きを封じられてしまった郎千秋。道友を助けるべく賭博に参加することになった謝憐は、花城と一対一の勝負をすることになるが…。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "謝憐（シエ・リェン）：神谷浩史",
+            "花城（ホワチョン）：福山潤",
+            "霊文（リンウェン）：日笠陽子",
+            "君吾（ジュンウー）：子安武人",
+            "風信（フォンシン）：古川慎",
+            "慕情（ムーチン）：小林千晃",
+            "師青玄（男）（シー・チンシュエン）：島﨑信長",
+            "師青玄（女）（シー・チンシュエン）：川澄綾子",
+            "郎千秋（ラン・チエンチウ）：山下大輝",
+            "裴茗（ペイ・ミン）：諏訪部順一",
+            "裴宿（ペイ・シュウ）：増田俊樹"
+        ],
+        "crews": [
+            "原作：墨香銅臭",
+            "アニメーション制作：天官賜福製作委員会",
+            "日本版製作：株式会社アニプレックス"
+        ],
+        "copyrights": [
+            "動画改編自晋江文学城作家墨香銅臭同名小説(C)天官賜福製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711536666,
+    "endAt": 1736434800,
+    "transcodeVersion": "5xdMso",
+    "sharedLink": {
+        "twitter": "https://abema.app/un4N",
+        "facebook": "https://abema.app/dCGD",
+        "google": "https://abema.app/c5EG",
+        "line": "https://abema.app/akDB",
+        "copy": "https://abema.app/s72u",
+        "instagram": "https://abema.app/YVsm"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-144_s2_p102/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-144_s2_p102/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-144_s2_p102/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-144_s2_p102"
+    },
+    "viewingPoint": {
+        "suggestion": 1470.0519166666666,
+        "opening": {
+            "start": 48.089708333333334,
+            "end": 153.027875
+        },
+        "ending": {
+            "start": 1470.0519166666666,
+            "end": 1585.3754583333334
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-144_s2_p103",
+        "title": "第三話 極楽への誘い",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1711536666,
+        "endAt": 1736434800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1736434800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-144_s2_p102/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1736434800
+        }
+    ],
+    "episodeGroupId": "26-144_eg0",
+    "skipVmap": true
+}

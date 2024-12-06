@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s1_p2",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1386
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "episode2 コスモを燃やせ",
+        "content": "およそ200年ごとに繰り返される神々の壮絶な死闘。その闘いで、戦いの女神アテナを護るために集う女神(アテナ)の聖闘士(セイント)たち。そんな聖闘士の証である聖衣(クロス)を手に入れるため、星矢は苛烈なトレーニングと最終決戦に挑む。その先には、更に恐ろしい銀河戦争(ギャラクシアンウォーズ)も待ち構えていた。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993525,
+    "endAt": 1759244400,
+    "transcodeVersion": "FCk2z",
+    "sharedLink": {
+        "twitter": "https://abema.app/GRZE",
+        "facebook": "https://abema.app/8DKq",
+        "google": "https://abema.app/km7H",
+        "line": "https://abema.app/RGw7",
+        "copy": "https://abema.app/DR9Q",
+        "instagram": "https://abema.app/7xGk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-39_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-39_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-39_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1296.548226,
+        "opening": {
+            "start": 6.029222,
+            "end": 126.065811
+        },
+        "ending": {
+            "start": 1296.067977,
+            "end": 1386.951111
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s1_p3",
+        "title": "episode3 ドラゴン登場",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993525,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

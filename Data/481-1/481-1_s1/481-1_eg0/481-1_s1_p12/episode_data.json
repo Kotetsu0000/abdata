@@ -1,0 +1,128 @@
+{
+    "id": "481-1_s1_p12",
+    "series": {
+        "id": "481-1",
+        "title": "RobiHachi",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "thumb.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "portrait.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "#12 月の夢、地球の夢",
+        "content": "ハッチが月の王子様だったという衝撃の事実を知ったロビーとイック。ルナガードとヤンたちが迫る中、「最後までロビーとイックと一緒に旅を成し遂げたい！」と話すハッチに「ロビーが出した決断とは？！　一方地球では大変なことが起こっており……。\nロビー、ハッチ、イックの旅の結末とは？！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ロビー・ヤージ：中井和哉",
+            "ハッチ・キタ：河本啓佑",
+            "JPS-19（イック）：阪口大助",
+            "ヤン：杉田智和",
+            "アロ：木村 昴",
+            "グラ：徳留慎乃佑"
+        ],
+        "crews": [
+            "原作：馬谷たいが",
+            "監督：高松信司",
+            "シリーズ構成：金杉弘子",
+            "キャラクターデザイン：八尋裕子",
+            "コンセプトデザイン：三沢 伸",
+            "アニメ−ション制作：スタジオコメット"
+        ],
+        "copyrights": [
+            "(C)馬谷たいが／株式会社ドンツー"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681890160,
+    "endAt": 1743433200,
+    "transcodeVersion": "pFA7K",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/gn5pq",
+        "facebook": "https://gxyt4.app.goo.gl/VnwEi",
+        "google": "https://gxyt4.app.goo.gl/Gpwpa",
+        "line": "https://gxyt4.app.goo.gl/mhmzg",
+        "copy": "https://gxyt4.app.goo.gl/kc9u1",
+        "instagram": "https://gxyt4.app.goo.gl/jjVgy"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/481-1_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/481-1_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/481-1_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-1_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.076844,
+        "ending": {
+            "start": 1266.413344,
+            "end": 1380.635888
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-1_s1_p12/timeline",
+        "query": "version=pFA7K",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "481-1_eg0",
+    "skipVmap": true
+}

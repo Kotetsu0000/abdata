@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p34",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 34,
+        "title": "第34話 雪の中飛びまわれ",
+        "content": "スーパー・ウィングスのジェットへの今日の指令は、ナミビアに住む女の子デパーナに、フィンランドの男の子スティーグからのプレゼントを届ける事だ。雪に憧れているデパーナに、スティーグがスノードームをプレゼントしてくれたのだ。デパーナはスノードームに大喜びしたものの、ますます本物の雪が見てみたくなる。そこで、スーパー・ウィングスのアストラとドニーも出動し、大勢で中に入れるような大きなスノードームを作り中で雪を降らせる。デパーナやその仲間の動物たちも加わり皆ではしゃいでいたら、大きなスノードームが転がりだし止まらなくなってしまった。ジェットとデパーナは何とか脱出するが、中ではまだ他の皆が懸命に走っている。そこにシマウマたちを引き連れて助けに来たのはスーパーウィングのベロ。うまく木の間にドームが挟まり止まるように先導し、どうにか中の皆も無事抜けだすことが出来た。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "5SPFKE",
+    "sharedLink": {
+        "twitter": "https://abema.app/KyJL",
+        "facebook": "https://abema.app/rRm2",
+        "google": "https://abema.app/u2hs",
+        "line": "https://abema.app/j6Do",
+        "copy": "https://abema.app/agKP",
+        "instagram": "https://abema.app/ms3s"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s1_p34/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s1_p34/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s1_p34/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p34"
+    },
+    "viewingPoint": {
+        "suggestion": 735.0676666666667,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.0676666666667,
+            "end": 750.75
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p35",
+        "title": "第35話 人魚の調べ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p34/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,147 @@
+{
+    "id": "5-39_s3_p3",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1380
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "episode3 黄泉比良坂へ再び",
+        "content": "神殺しの矢が心臓を貫くまであと４時間を残しているものの、死の淵をさまよう沙織。一方星矢は謎多き女性クレオと出会い、沙織の危機を知る。星矢は沙織を救うため黄泉比良坂へと向かい、黄金聖闘士蟹座（キャンサー）のデスマスクと対峙する。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ペガサス星矢：森田成一、ドラゴン紫龍：櫻井孝宏、キグナス氷河: 三浦祥朗、",
+            "アンドロメダ瞬: 佐藤聡美、フェニックス一輝: 小西克幸、城戸沙織（アテナ）: 折笠富美子、",
+            "ムウ: 山崎たくみ、アルデバラン：玄田哲章、デスマスク：田中亮一、シャカ：三ツ矢雄二、",
+            "ミロ：関俊彦、シュラ：草尾毅、カミュ：神奈延年、アフロディーテ：難波圭一、教皇：置鮎龍太郎"
+        ],
+        "crews": [
+            "原作：車田正美",
+            "監督：芦野芳晴",
+            "脚本：ユージン・ソン",
+            "キャラクターデザイン：西位輝実",
+            "聖衣デザイン：岡崎能士",
+            "音楽：池頼広",
+            "CGディレクター：能沢諭",
+            "製作/制作/CG制作：東映アニメーション"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993526,
+    "endAt": 1759244400,
+    "transcodeVersion": "28Hrhs",
+    "sharedLink": {
+        "twitter": "https://abema.app/P9vH",
+        "facebook": "https://abema.app/qXRD",
+        "google": "https://abema.app/6fUU",
+        "line": "https://abema.app/sPBn",
+        "copy": "https://abema.app/LnVM",
+        "instagram": "https://abema.app/nKJ1"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-39_s3_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-39_s3_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-39_s3_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s3_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.414125,
+        "opening": {
+            "start": 30.071708333333333,
+            "end": 119.994875
+        },
+        "ending": {
+            "start": 1290.414125,
+            "end": 1380.003625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s3_p4",
+        "title": "episode4 アイオロスの遺言",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1717993526,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s3_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

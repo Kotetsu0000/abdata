@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s1_p10",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1386
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "episode10 挑戦",
+        "content": "ペルセウス座のアルゴルから沙織を守るため、自らを犠牲にした紫龍。幼少期を過ごした街に戻ってきていた星矢は、シャイナと再会する。そこで教皇の命を受けて現れた、圧倒的な強さを誇る黄金聖闘士(ゴールドセイント)・獅子座(レオ)のアイオリアと対峙することとなる。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993525,
+    "endAt": 1759244400,
+    "transcodeVersion": "38ZAUa",
+    "sharedLink": {
+        "twitter": "https://abema.app/A4cS",
+        "facebook": "https://abema.app/5So8",
+        "google": "https://abema.app/chtF",
+        "line": "https://abema.app/ATKD",
+        "copy": "https://abema.app/ynaF",
+        "instagram": "https://abema.app/drof"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-39_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-39_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-39_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1296.48936,
+        "opening": {
+            "start": 6.029222,
+            "end": 124.358245
+        },
+        "ending": {
+            "start": 1296.345478,
+            "end": 1386.997574
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s1_p11",
+        "title": "episode11 予言",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993525,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

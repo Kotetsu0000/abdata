@@ -1,0 +1,134 @@
+{
+    "id": "622-3_s1_p11",
+    "series": {
+        "id": "622-3",
+        "title": "放送室の着ぐるみガール",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "thumb.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "portrait.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "622-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 400
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 廃部危機再び！？回避を目指して一致団結！",
+        "content": "直とゆるりの入部で放送部の即廃部は免れたものの、実績がないため再びピンチに陥っているという。実績作りを目指して4人は山へ行き──！？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "来栖直：朝ノ瑠璃",
+            "音瀬りん：梅村美緒奈",
+            "早川千里：三浦陽子",
+            "ほか"
+        ],
+        "crews": [
+            "--"
+        ],
+        "copyrights": [
+            "(C) DIGIMERCE Inc. All Rights Reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713178578,
+    "endAt": 1746025200,
+    "transcodeVersion": "4ZUFDg",
+    "sharedLink": {
+        "twitter": "https://abema.app/VAqT",
+        "facebook": "https://abema.app/qbmN",
+        "google": "https://abema.app/h2zZ",
+        "line": "https://abema.app/VM7R",
+        "copy": "https://abema.app/AtHH",
+        "instagram": "https://abema.app/i1H6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/622-3_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/622-3_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/622-3_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.622-3_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 350.4501,
+        "ending": {
+            "start": 350.4501,
+            "end": 370.8371333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "622-3_s1_p12",
+        "title": "第12話 ついにお披露目！ゆちゃ高放送部、活動報告！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713181155,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/622-3_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "622-3_eg0",
+    "skipVmap": true
+}

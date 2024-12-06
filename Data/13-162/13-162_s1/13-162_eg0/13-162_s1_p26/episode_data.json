@@ -1,0 +1,123 @@
+{
+    "id": "13-162_s1_p26",
+    "series": {
+        "id": "13-162",
+        "title": "浪川んちに集合な！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "thumb.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "portrait.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-162_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1441
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 26,
+        "title": "#26 ゲスト：逢田梨香子",
+        "content": "浪川大輔がゲストの声優・逢田梨香子と楽しくおしゃべり♪影響を受けたもの▽『銀魂』▽影響を受けた声優▽『ラブライブ！サンシャイン!!』▽紅白歌合戦への出場▽関係者からのタレコミ▽逢田さんの「ここがすごい」▽ここだけは直してほしい▽困ったエピソード▽意外な一面▽感謝していること▽悩んでいること▽今後の心構え▽ライブのMC"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "浪川大輔",
+            "ナレーション：杉山紀彰",
+            "関智 一"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)namikawanchi"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703762228,
+    "endAt": 1735657200,
+    "transcodeVersion": "3B9Z9k",
+    "sharedLink": {
+        "twitter": "https://abema.app/fYgR",
+        "facebook": "https://abema.app/4S8T",
+        "google": "https://abema.app/p8ad",
+        "line": "https://abema.app/PtMk",
+        "copy": "https://abema.app/FwNw",
+        "instagram": "https://abema.app/1UAh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-162_s1_p26/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-162_s1_p26/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-162_s1_p26/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-162_s1_p26"
+    },
+    "viewingPoint": {
+        "suggestion": 1404.4363666666666
+    },
+    "nextProgramInfo": {
+        "programId": "13-162_s1_p29",
+        "title": "#29 ゲスト：よじょう・奥田修二（ガクテンソク）",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1703762228,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-162_s1_p26/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "13-162_eg0",
+    "skipVmap": true
+}

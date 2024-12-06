@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s2_p1",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1382
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "episode1 十二宮",
+        "content": "宿敵ヴァンター・グラードを倒した直後、沙織は神殺しの矢に射られ、死の淵に立たされる。沙織を救うため、聖域で星矢たち青銅聖闘士の決死の闘いが始まる。第一の宮は白羊宮。ここで星矢たちは気高き黄金聖闘士牡羊座（アリエス）のムウと対峙する。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993525,
+    "endAt": 1759244400,
+    "transcodeVersion": "44Rmqw",
+    "sharedLink": {
+        "twitter": "https://abema.app/DtYD",
+        "facebook": "https://abema.app/5CjR",
+        "google": "https://abema.app/3Ara",
+        "line": "https://abema.app/H8qK",
+        "copy": "https://abema.app/nTiB",
+        "instagram": "https://abema.app/D2f5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-39_s2_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-39_s2_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-39_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1291.262977,
+        "opening": {
+            "start": 1.024222,
+            "end": 119.368169
+        },
+        "ending": {
+            "start": 1291.062977,
+            "end": 1382.14458
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s2_p2",
+        "title": "episode2 セブンセンシズ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993525,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

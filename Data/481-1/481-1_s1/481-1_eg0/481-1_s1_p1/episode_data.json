@@ -1,0 +1,152 @@
+{
+    "id": "481-1_s1_p1",
+    "series": {
+        "id": "481-1",
+        "title": "RobiHachi",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "thumb.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "portrait.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "#1 旅は道連れ Journey to the Star",
+        "content": "宇宙人とのファーストコンタクトから半世紀、人類が自由に宇宙旅行を楽しめるようになったNEO TOKYO――。顔は悪くないが美女とおいしい金の話に弱い残念アラサーのロビーは、今日も高利貸しのヤンから多額の借金を抱えていた。その取り立てに現れるバイトのハッチ。ロビーはヤン達から逃げようと一か八か、今や完全に住居となっている古い宇宙船で逃亡。何とかヤン達を振り切ったロビーは、 このまま『イセカンダル』に厄落としの宇宙旅行に出ることを思いつくのだが、実はその宇宙船にはハッチが乗ったままで……。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ロビー・ヤージ：中井和哉",
+            "ハッチ・キタ：河本啓佑",
+            "JPS-19（イック）：阪口大助",
+            "ヤン：杉田智和",
+            "アロ：木村 昴",
+            "グラ：徳留慎乃佑"
+        ],
+        "crews": [
+            "原作：馬谷たいが",
+            "監督：高松信司",
+            "シリーズ構成：金杉弘子",
+            "キャラクターデザイン：八尋裕子",
+            "コンセプトデザイン：三沢 伸",
+            "アニメ−ション制作：スタジオコメット"
+        ],
+        "copyrights": [
+            "(C)馬谷たいが／株式会社ドンツー"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1681890159,
+    "endAt": 1743433200,
+    "freeEndAt": 1743433200,
+    "transcodeVersion": "6veUr9",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/wumU9",
+        "facebook": "https://gxyt4.app.goo.gl/vUhPs",
+        "google": "https://gxyt4.app.goo.gl/QhNMz",
+        "line": "https://gxyt4.app.goo.gl/LE3yf",
+        "copy": "https://gxyt4.app.goo.gl/P2WqU",
+        "instagram": "https://gxyt4.app.goo.gl/WDGV7"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/481-1_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/481-1_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/481-1_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/481-1_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-1_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1335.023555,
+        "ending": {
+            "start": 1354.000844,
+            "end": 1424.930144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "481-1_s1_p2",
+        "title": "#2 タコから出た真実（まこと)",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1681890159,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-1_s1_p1/timeline",
+        "query": "version=6veUr9",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "481-1_eg0",
+    "skipVmap": true
+}

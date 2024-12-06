@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s1_p3",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1381
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "episode3 ドラゴン登場",
+        "content": "聖闘士の頂点に位置する黄金聖闘士(ゴールドセイント)。彼らが纏う黄金聖衣(ゴールドクロス)のひとつ射手座サジタリアスの聖衣(クロス)をかけた銀河戦争(ギャラクシアンウォーズ)が始まる。しかし開始早々、青銅聖闘士(ブロンズセイント)・キグナス氷河が、大会の主催者・城戸沙織の暗殺に飛び込んでくる。謎に包まれたこの大会で、星矢は最大のライバルである青銅聖闘士・ドラゴン紫龍と対戦する。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993525,
+    "endAt": 1759244400,
+    "transcodeVersion": "79wCQR",
+    "sharedLink": {
+        "twitter": "https://abema.app/Gg14",
+        "facebook": "https://abema.app/oHNV",
+        "google": "https://abema.app/hVKw",
+        "line": "https://abema.app/BU8t",
+        "copy": "https://abema.app/Zz4U",
+        "instagram": "https://abema.app/5XFL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-39_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-39_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-39_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1291.229811,
+        "opening": {
+            "start": 6.029222,
+            "end": 126.065811
+        },
+        "ending": {
+            "start": 1290.228811,
+            "end": 1381.912381
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s1_p4",
+        "title": "episode4 星雲鎖(ネビュラチェーン)",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993525,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

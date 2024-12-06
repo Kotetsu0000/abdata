@@ -1,0 +1,146 @@
+{
+    "id": "19-130_s1_p4",
+    "series": {
+        "id": "19-130",
+        "title": "ぷにるんず",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "thumb.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "portrait.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-130_s1",
+        "sequence": 1,
+        "name": "本編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 745
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "第4話 『うるるん、冒険するん♪』",
+        "content": "あいるんのおうちでお泊まり会をしているぷにるんず。楽しい時間を過ごして、今はぐっすりと夢の中。 \nしばらくして、おなかをすかせたうるるんが目を覚ました。起こそうとしても、だれも起きないぷにるんず。うるるんは勇気を出して、一人でごはんを探す冒険に出る。\n一方、うるるんがいないことに気づいたあいるんたちは、うるるんを探しにおうちを出る。\n泣き虫なうるるんは、みんなと合流し、ごはんをゲットできるのであろうか？"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "あいるん：潘めぐみ",
+            "えねるん：小松未可子",
+            "らぶるん：内田彩",
+            "うるるん：山口智広",
+            "くーるん：木野日菜"
+        ],
+        "crews": [
+            "原作：タカラトミー",
+            "総監督：湯山邦彦",
+            "監督：山口健太郎",
+            "シリーズ構成：市川十億衛門",
+            "キャラクターデザイン：一石小百合",
+            "音楽：小畑貴裕",
+            "音響監督：小沼則義",
+            "制作：OLM Digital"
+        ],
+        "copyrights": [
+            "(C) ＴＯＭＹ／ぷにるんずぷにじぇくと・テレビ大阪"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805485,
+    "endAt": 1774969200,
+    "transcodeVersion": "2suh7G",
+    "sharedLink": {
+        "twitter": "https://abema.app/zqLm",
+        "facebook": "https://abema.app/1RQN",
+        "google": "https://abema.app/7QsP",
+        "line": "https://abema.app/UcfU",
+        "copy": "https://abema.app/EkHV",
+        "instagram": "https://abema.app/eNEJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-130_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-130_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-130_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-130_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 670.0676
+    },
+    "nextProgramInfo": {
+        "programId": "19-130_s1_p5",
+        "title": "第5話 『ハロウィンでばけるん♪』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681805485,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-130_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "19-130_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,152 @@
+{
+    "id": "216-13_s1_p3",
+    "series": {
+        "id": "216-13",
+        "title": "ぼくのとなりに暗黒破壊神がいます。",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/216-13",
+            "filename": "thumb.png",
+            "query": "version=1627289532",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/216-13",
+            "filename": "portrait.png",
+            "query": "version=1627289532",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "216-13_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3病 『death wish』",
+        "content": "体育祭の準備中、何かと失敗する花鳥のもとにヒリウスと名乗る君屋ひびきが現れる。小雪は「君屋と花鳥なら良い友達になれるのでは？」と思うが、なぜか花鳥は君屋を拒否してしまう。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "小雪芹：福山潤",
+            "花鳥兜：櫻井孝宏",
+            "月宮ウツギ：木村良平",
+            "君屋ひびき：代永翼",
+            "最上君影：立花慎之介",
+            "時宗樒：鳥海浩輔",
+            "澄楚琴子：茅野愛衣",
+            "最上鈴蘭：生田善子",
+            "相津：増田俊樹",
+            "担任の先生：近藤孝行",
+            "ケルベロス：赤﨑千夏"
+        ],
+        "crews": [
+            "原作：亜樹新「ぼくのとなりに暗黒破壊神がいます。」(KADOKAWA「月刊コミックジーン」)",
+            "監督：濁川敦",
+            "シリーズ構成：高橋ナツコ",
+            "キャラクターデザイン：中野裕紀",
+            "音楽：はらかなこ",
+            "アニメーション制作：EMTスクエアード"
+        ],
+        "copyrights": [
+            "(C)亜樹新・KADOKAWA/ぼくはか製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681983229,
+    "endAt": 1746025200,
+    "transcodeVersion": "7Q1xxs",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/pec4P",
+        "facebook": "https://gxyt4.app.goo.gl/qGHoQ",
+        "google": "https://gxyt4.app.goo.gl/Mu3FZ",
+        "line": "https://gxyt4.app.goo.gl/eAHrx",
+        "copy": "https://gxyt4.app.goo.gl/FR6sX",
+        "instagram": "https://gxyt4.app.goo.gl/5jTfM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/216-13_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/216-13_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/216-13_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.216-13_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1405.060188,
+        "opening": {
+            "start": 65.24475,
+            "end": 152.044755
+        },
+        "ending": {
+            "start": 1270.081922,
+            "end": 1357.081922
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "216-13_s1_p4",
+        "title": "第4病 『Travel Rock』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1681983229,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/216-13_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "216-13_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,135 @@
+{
+    "id": "168-42_s1_p1",
+    "series": {
+        "id": "168-42",
+        "title": "ネコぱらOVA　仔ネコの日の約束",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-42",
+            "filename": "thumb.png",
+            "query": "version=1671178208",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-42",
+            "filename": "portrait.png",
+            "query": "version=1671178208",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-42_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1297
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "ネコぱらOVA　仔ネコの日の約束",
+        "content": "嘉祥が店長を務めるネコたちが働くパティスリー『ラ・ソレイユ』開店の約半年前。\n仔ネコのショコラとバニラは水無月家に来たばかりで、他のネコたちともまだ打ち解けてない頃。\n嘉祥をご主人様と呼ぶようになって、初めてのクリスマスを迎えた二匹が嘉祥とひとつの約束を交わす。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "原作：NEKO WORKs",
+            "キャラクター原案＆監修：さより(NEKO WORKs)",
+            "シナリオ原案：雪仁(NEKO WORKs)",
+            "プロデューサー：アンコウ(NEKO WORKs)／中西孝(anchor)",
+            "監督：山本靖貴",
+            "脚本：雑破業",
+            "キャラクターデザイン＆総作画監督：平野勇一",
+            "色彩設計：田中千春",
+            "美術監督：倉田憲一",
+            "撮影監督：岩井和也",
+            "3Dディレクター：伊藤仁美",
+            "アニメーションプロデューサー：中智仁",
+            "音響監督：飯田里樹",
+            "音楽プロデューサー：鈴木順(ハーフトーンミュージック)",
+            "音楽：前田雄吾(ハーフトーンミュージック)",
+            "音楽制作：西村信乃(ハーフトーンミュージック)",
+            "オリジナル楽曲制作：水城新人",
+            "主題歌：『Symphony』作詞・作曲・編曲:y0c1e　歌：Luce Twinkle Wink☆",
+            "主題歌音楽プロデューサー：西村潤",
+            "制作：anchor × FelixFilm"
+        ],
+        "copyrights": [
+            "(C) 2018 NEKO WORKs All Rights Reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683630005,
+    "endAt": 1746025200,
+    "transcodeVersion": "2hMyCy",
+    "sharedLink": {
+        "twitter": "https://abema.app/WJcz",
+        "facebook": "https://abema.app/QYkp",
+        "google": "https://abema.app/FvC3",
+        "line": "https://abema.app/nQQY",
+        "copy": "https://abema.app/qwxq",
+        "instagram": "https://abema.app/fgJz"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-42_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-42_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-42_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-42_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1187.501177
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-42_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "168-42_eg0",
+    "skipVmap": true
+}

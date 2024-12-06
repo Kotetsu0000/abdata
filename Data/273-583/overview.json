@@ -1,0 +1,74 @@
+{
+    "id": "273-583",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "すとぷりくえすとっ",
+    "content": "無理、無茶、無謀?本当にそうかな?\nみんなと一緒なら新しい冒険だって怖くない。\nリスナーさんから届いたお便りや、\nすとぷりメンバーが気になっているあんなことやこんなこと...\n日常の小さな課題から、非日常の大きな挑戦まで。\nリクエストにクエストしていきます!\nこの番組は、冒険をテーマにした\n新時代のバーチャルバラエティ番組です。",
+    "seasons": [
+        {
+            "id": "273-583_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/273-583_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1685419658",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "273-583_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) STPR Inc."
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1727692466272386086",
+    "imageUpdatedAt": 1685522735,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/3uSU",
+        "facebook": "https://abema.app/xigW",
+        "google": "https://abema.app/AqC6",
+        "line": "https://abema.app/5Ln3",
+        "copy": "https://abema.app/MYDL",
+        "instagram": "https://abema.app/3f4S"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+        "filename": "thumb.png",
+        "query": "version=1685522735",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+        "filename": "portrait.png",
+        "query": "version=1685522735",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

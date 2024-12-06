@@ -1,0 +1,143 @@
+{
+    "id": "662-1_s1_p3",
+    "series": {
+        "id": "662-1",
+        "title": "ラプソディ",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/662-1",
+            "filename": "thumb.png",
+            "query": "version=1699601906",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/662-1",
+            "filename": "portrait.png",
+            "query": "version=1699601906",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "662-1_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1282
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "episode3 屋上に埋めたタイムカプセル",
+        "content": "幼馴染で結成された高校生バンド、春の十字架。かつて小学生の時に埋めたタイムカプセルをきっかけに、屋上でライブを行うことに。思い出の屋上から4人は新たなスタートを切る。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "酒々井虹郎：菅原達也",
+            "月島統次：斉藤 壮馬",
+            "加賀美紫音：峯田大夢",
+            "太陽紅静：梅田修一朗"
+        ],
+        "crews": [
+            "原作・製作総指揮 ：渋谷陽一",
+            "キャラクター原案：小玉有起",
+            "キャラクターデザイン：河合桃子"
+        ],
+        "copyrights": [
+            "(C)rockin'on"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1699602467,
+    "endAt": 1735657200,
+    "freeEndAt": 1735657200,
+    "transcodeVersion": "1CouM",
+    "sharedLink": {
+        "twitter": "https://abema.app/uKVM",
+        "facebook": "https://abema.app/aWUT",
+        "google": "https://abema.app/YTPo",
+        "line": "https://abema.app/jtGx",
+        "copy": "https://abema.app/4xpA",
+        "instagram": "https://abema.app/fpnW"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/662-1_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/662-1_s1_p3/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/662-1_s1_p3/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/662-1_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.662-1_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1157.0725833333333
+    },
+    "nextProgramInfo": {
+        "programId": "662-1_s1_p4",
+        "title": "episode4 だから俺はまた歌う",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1699602501,
+        "endAt": 1735657200,
+        "freeEndAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/662-1_s1_p3/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "662-1_eg0",
+    "skipVmap": true
+}

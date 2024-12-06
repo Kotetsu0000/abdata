@@ -1,0 +1,74 @@
+{
+    "id": "662-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ラプソディ",
+    "content": "伝説のミュージシャン東坂響二が遺したレーベル『ラプソディ』。そこに所属する個性豊かな4つのバンド。その名は「Pink Flag」「春の十字架」「ブルーバード」「システム・オブ・ロマンス」。彼らは東坂響二の想いを受け継ぎ、仲間とともに孤独や葛藤を乗り越えながら、希望の音楽を鳴らす。4つのバンドは如何にして『ラプソディ』に集ったのか。",
+    "seasons": [
+        {
+            "id": "662-1_s1",
+            "sequence": 1,
+            "name": "season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/662-1",
+                "filename": "thumb.png",
+                "query": "version=1699601906",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "662-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)rockin'on"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1701325489328411954",
+    "imageUpdatedAt": 1699601906,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/A36U",
+        "facebook": "https://abema.app/86xE",
+        "google": "https://abema.app/GBZp",
+        "line": "https://abema.app/AGfq",
+        "copy": "https://abema.app/J6i6",
+        "instagram": "https://abema.app/ECaY"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/662-1",
+        "filename": "thumb.png",
+        "query": "version=1699601906",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/662-1",
+        "filename": "portrait.png",
+        "query": "version=1699601906",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "freeBenefitTag": "全話無料",
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

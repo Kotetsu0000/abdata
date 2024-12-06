@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p44",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 44,
+        "title": "第44話 恐竜ロボット・パーク",
+        "content": "今回の届け先はルーマニア。中身はユリアという少女に頼まれた金属製の鍵。荷物を届けたジェットはユリアの祖父の経営する遊園地にユリアとともに向かう。そこにはユリアの祖父と、以前荷物を届けたことのあるノアという少年が。遊園地の新しいアトラクションであるロボットの恐竜たちを作ったのがノアだった。しかし、突然雨が降り出し、ノアがロボットたちに防水の装備をするのを忘れていたので雨に濡れて故障してしまい、恐竜たちが手に負えなくなってしまう。応援に駆けつけたのはドニー、ジェローム、フリップ。ロボット・スーツを届けてくれたパパ・ウィールスや、紙オムツで濡れた恐竜たちの表面の水分を吸収させることを提案したフリップの機転などで恐竜たちは元に戻り一件落着する。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "ZHkCg",
+    "sharedLink": {
+        "twitter": "https://abema.app/2NCy",
+        "facebook": "https://abema.app/ZWtt",
+        "google": "https://abema.app/cbfN",
+        "line": "https://abema.app/RtiQ",
+        "copy": "https://abema.app/Vcm3",
+        "instagram": "https://abema.app/EGjJ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s1_p44/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s1_p44/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s1_p44/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p44"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p45",
+        "title": "第45話 回れトロンポ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p44/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

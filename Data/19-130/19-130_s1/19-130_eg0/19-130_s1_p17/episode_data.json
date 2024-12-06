@@ -1,0 +1,146 @@
+{
+    "id": "19-130_s1_p17",
+    "series": {
+        "id": "19-130",
+        "title": "ぷにるんず",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "thumb.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "portrait.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-130_s1",
+        "sequence": 1,
+        "name": "本編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 745
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 17,
+        "title": "第17話 『ぴかるん、小学校するん♪』",
+        "content": "今日は学校で『合唱』の練習があると言って、出かけていくゆか。学校について、もっと知りたいあいるんたちは、もの知りなぷにるんず・ぴかるんを呼ぶ。\n人間が学校でどんなことを勉強しているのか？ぴかるんが先生となって、みんなに授業開始。算数や理科の問題を出すも、あいるんたちの回答はおかしなものばかり。\nしかし音楽の授業中、実は歌を歌うのが苦手…という、ぴかるん先生の弱点が明らかになって……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "あいるん：潘めぐみ",
+            "えねるん：小松未可子",
+            "らぶるん：内田彩",
+            "うるるん：山口智広",
+            "くーるん：木野日菜"
+        ],
+        "crews": [
+            "原作：タカラトミー",
+            "総監督：湯山邦彦",
+            "監督：山口健太郎",
+            "シリーズ構成：市川十億衛門",
+            "キャラクターデザイン：一石小百合",
+            "音楽：小畑貴裕",
+            "音響監督：小沼則義",
+            "制作：OLM Digital"
+        ],
+        "copyrights": [
+            "(C) ＴＯＭＹ／ぷにるんずぷにじぇくと・テレビ大阪"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805485,
+    "endAt": 1774969200,
+    "transcodeVersion": "YwibC",
+    "sharedLink": {
+        "twitter": "https://abema.app/45X6",
+        "facebook": "https://abema.app/jMgW",
+        "google": "https://abema.app/7xEM",
+        "line": "https://abema.app/JxsL",
+        "copy": "https://abema.app/wzA6",
+        "instagram": "https://abema.app/qriK"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-130_s1_p17/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-130_s1_p17/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-130_s1_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-130_s1_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 670.0676
+    },
+    "nextProgramInfo": {
+        "programId": "19-130_s1_p18",
+        "title": "第18話 『ぷにっとジャンプでがんばるん♪』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681805485,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-130_s1_p17/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "19-130_eg0",
+    "skipVmap": true
+}

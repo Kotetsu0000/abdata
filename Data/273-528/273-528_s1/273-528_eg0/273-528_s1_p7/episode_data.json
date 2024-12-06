@@ -1,0 +1,139 @@
+{
+    "id": "273-528_s1_p7",
+    "series": {
+        "id": "273-528",
+        "title": "すとぷりのHere!We!GO!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "thumb.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "portrait.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-528_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "#7 すとぷり全国ツアー記念!ご当地調査in広島にHere!We!GO!!",
+        "content": "人気エンタメユニット「すとぷり」のテレビ初冠番組!今回は全国ツアー記念企画!すとぷり初上陸の「広島」を中心に、ご当地を勉強する!意外な広島あるあるにメンバーもビックリ!?すとぷりが方言ライブMCに挑戦!ツアーで実践するかも・・・!?長~くしちゃった広島名物にメンバーも思わず拍手!"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1685958158,
+    "endAt": 1761922800,
+    "transcodeVersion": "6GPz16",
+    "sharedLink": {
+        "twitter": "https://abema.app/Aai8",
+        "facebook": "https://abema.app/Wtco",
+        "google": "https://abema.app/5yXs",
+        "line": "https://abema.app/jTyX",
+        "copy": "https://abema.app/oS1L",
+        "instagram": "https://abema.app/JyJo"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/273-528_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/273-528_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/273-528_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-528_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1424.980088
+    },
+    "nextProgramInfo": {
+        "programId": "273-528_s1_p8",
+        "title": "#8 2023年初実写ロケ!!本格お餅つきにHere!We!GO!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1685958158,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-528_s1_p7/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-528_eg0",
+    "skipVmap": true
+}

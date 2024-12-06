@@ -1,0 +1,152 @@
+{
+    "id": "481-1_s1_p2",
+    "series": {
+        "id": "481-1",
+        "title": "RobiHachi",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "thumb.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "portrait.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "#2 タコから出た真実（まこと)",
+        "content": "高利貸しのヤンから逃げようと宇宙に飛び出したロビーとイックの宇宙船『ナガヤボイジャー』。どうせならこのまま『イセカンダル』に厄落としの旅に行ってしまおうと決意するのだが、そこにヤンに雇われたバイトのハッチも同乗していた！ロビーはハッチに「帰れ」と宇宙船から下ろそうとし、揉める二人。そこへ追ってくるヤンの宇宙船。しかも攻撃してきた。ロビーとハッチは偶然宇宙船内で発見した小型宇宙船に乗り撃退しようとするが……。そんなこんなで何とかヤンから逃れるのだが、燃料が足りなくなり、ロビー達は火星へと立ち寄るのだった……。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ロビー・ヤージ：中井和哉",
+            "ハッチ・キタ：河本啓佑",
+            "JPS-19（イック）：阪口大助",
+            "ヤン：杉田智和",
+            "アロ：木村 昴",
+            "グラ：徳留慎乃佑"
+        ],
+        "crews": [
+            "原作：馬谷たいが",
+            "監督：高松信司",
+            "シリーズ構成：金杉弘子",
+            "キャラクターデザイン：八尋裕子",
+            "コンセプトデザイン：三沢 伸",
+            "アニメ−ション制作：スタジオコメット"
+        ],
+        "copyrights": [
+            "(C)馬谷たいが／株式会社ドンツー"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681890159,
+    "endAt": 1743433200,
+    "transcodeVersion": "3GBEnu",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/8893J",
+        "facebook": "https://gxyt4.app.goo.gl/cm4PY",
+        "google": "https://gxyt4.app.goo.gl/3f567",
+        "line": "https://gxyt4.app.goo.gl/uYiFr",
+        "copy": "https://gxyt4.app.goo.gl/Vptst",
+        "instagram": "https://gxyt4.app.goo.gl/m2Cuu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/481-1_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/481-1_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/481-1_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-1_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1334.064266,
+        "opening": {
+            "start": 19.042222,
+            "end": 89.871511
+        },
+        "ending": {
+            "start": 1334.064266,
+            "end": 1424.871844
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "481-1_s1_p3",
+        "title": "#3 冥王星の惑星（ほし)恨み",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1681890159,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-1_s1_p2/timeline",
+        "query": "version=3GBEnu",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "481-1_eg0",
+    "skipVmap": true
+}

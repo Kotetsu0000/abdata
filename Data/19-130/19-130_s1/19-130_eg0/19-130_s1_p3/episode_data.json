@@ -1,0 +1,146 @@
+{
+    "id": "19-130_s1_p3",
+    "series": {
+        "id": "19-130",
+        "title": "ぷにるんず",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "thumb.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "portrait.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-130_s1",
+        "sequence": 1,
+        "name": "本編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 745
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 『らぶるんのビッグラブるん♪』",
+        "content": "ぽかぽかと日向ぼっこをしているあいるんたち。そこには、大量のべびぷにもいた。\nどうやら、らぶるんの魅力に引きよせられて、集まってきたらしい。\nその後も、どんどん増えていくべびぷにを、一生懸命お世話をするあいるんたち。\nゆかもぷっきんぐで食べ物を作って手伝うが、べびぷには増える一方で……。\nみんなが困りはてた時、らぶるんが立ち上がった！\nらぶるんの大きな愛は、増えつづけるべびぷにから世界を救えるのだろうか⁉"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "あいるん：潘めぐみ",
+            "えねるん：小松未可子",
+            "らぶるん：内田彩",
+            "うるるん：山口智広",
+            "くーるん：木野日菜"
+        ],
+        "crews": [
+            "原作：タカラトミー",
+            "総監督：湯山邦彦",
+            "監督：山口健太郎",
+            "シリーズ構成：市川十億衛門",
+            "キャラクターデザイン：一石小百合",
+            "音楽：小畑貴裕",
+            "音響監督：小沼則義",
+            "制作：OLM Digital"
+        ],
+        "copyrights": [
+            "(C) ＴＯＭＹ／ぷにるんずぷにじぇくと・テレビ大阪"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805485,
+    "endAt": 1774969200,
+    "transcodeVersion": "61SJUB",
+    "sharedLink": {
+        "twitter": "https://abema.app/TKjp",
+        "facebook": "https://abema.app/Sy7D",
+        "google": "https://abema.app/Dmv7",
+        "line": "https://abema.app/kVZs",
+        "copy": "https://abema.app/rJNV",
+        "instagram": "https://abema.app/C57A"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-130_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-130_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-130_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-130_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 670.0676
+    },
+    "nextProgramInfo": {
+        "programId": "19-130_s1_p4",
+        "title": "第4話 『うるるん、冒険するん♪』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681805485,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-130_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "19-130_eg0",
+    "skipVmap": true
+}

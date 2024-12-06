@@ -1,0 +1,74 @@
+{
+    "id": "600-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "5億年ボタン【公式】～菅原そうたのショートショート～",
+    "content": "あの「５億年ボタン」が原作者によりついにTVアニメ化！一瞬で１００万円が手に入るボタンを巡る飛び交う思考実験。ボタンを押したその先に待ち受ける衝撃の結末とは！？",
+    "seasons": [
+        {
+            "id": "600-1_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/600-1_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1681808367",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "600-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)STUDIO SOTA"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1727692452932634462",
+    "imageUpdatedAt": 1727402737,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/Bc1e",
+        "facebook": "https://abema.app/VAaT",
+        "google": "https://abema.app/dkwQ",
+        "line": "https://abema.app/otEi",
+        "copy": "https://abema.app/rywc",
+        "instagram": "https://abema.app/u1ED"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-1",
+        "filename": "thumb.png",
+        "query": "version=1727402737",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-1",
+        "filename": "portrait.png",
+        "query": "version=1727402737",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

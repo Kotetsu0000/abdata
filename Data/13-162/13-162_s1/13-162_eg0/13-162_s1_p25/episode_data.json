@@ -1,0 +1,123 @@
+{
+    "id": "13-162_s1_p25",
+    "series": {
+        "id": "13-162",
+        "title": "浪川んちに集合な！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "thumb.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "portrait.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-162_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1441
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 25,
+        "title": "#25 ゲスト：逢田梨香子",
+        "content": "浪川大輔がゲストの声優・逢田梨香子と楽しくおしゃべり♪料理が得意▽O型の性格▽二人の初対面▽子役時代▽人見知り▽勉強の成績▽九九・7の段▽算数・数学が苦手▽帰国子女▽吹き替え作品での共演▽『かくしごと』の現場▽休日の過ごし方▽サウナ好き▽ホラー映画好き"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "浪川大輔",
+            "ナレーション：杉山紀彰",
+            "関智 一"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)namikawanchi"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703762228,
+    "endAt": 1735657200,
+    "transcodeVersion": "7XAtqY",
+    "sharedLink": {
+        "twitter": "https://abema.app/GwQ5",
+        "facebook": "https://abema.app/5d7p",
+        "google": "https://abema.app/mww4",
+        "line": "https://abema.app/wFe9",
+        "copy": "https://abema.app/RHz5",
+        "instagram": "https://abema.app/7Zo9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p25/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p25/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-162_s1_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 1385.8845
+    },
+    "nextProgramInfo": {
+        "programId": "13-162_s1_p26",
+        "title": "#26 ゲスト：逢田梨香子",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1703762228,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-162_s1_p25/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "13-162_eg0",
+    "skipVmap": true
+}

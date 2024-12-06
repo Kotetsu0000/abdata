@@ -1,0 +1,133 @@
+{
+    "id": "2-14_s10_p76",
+    "series": {
+        "id": "2-14",
+        "title": "アニメ「ポケットモンスター」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "thumb.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/2-14",
+            "filename": "portrait.png",
+            "query": "version=1682667068",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "2-14_s10",
+        "sequence": 10,
+        "name": "2023",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1470
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 76,
+        "title": "第76話",
+        "content": "ポケットモンスター、縮めてポケモン。\nこの星の不思議な不思議な生き物。\n空、海、森、街の中と至る所でその姿を見ることができる。\n\n不思議なペンダントを持つパルデア出身の少女、リコ。\n謎のモンスターボールを持つカントー出身の少年、ロイ。\n\n広大なポケットモンスターの世界を舞台に\nリコとロイの新たな冒険が始まる！\nふたりを待ち受ける出会い、そして運命とは―！？\n\nこれは、冒険を通じて大事な何かを「見つける」物語。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "リコ：鈴木みのり",
+            "ニャローテ：林原めぐみ",
+            "ロイ：寺崎裕香",
+            "アチゲータ：山下大輝"
+        ],
+        "crews": [
+            "総監督：冨安大貴",
+            "監督：でんさおり",
+            "シリーズ構成：佐藤大",
+            "キャラクターデザイン：山崎玲愛"
+        ],
+        "copyrights": [
+            "（C）Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku （C）Pokémon"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1733188519,
+    "endAt": 1777647600,
+    "freeEndAt": 1734085800,
+    "transcodeVersion": "3Xrvnz",
+    "sharedLink": {
+        "twitter": "https://abema.app/HLqr",
+        "facebook": "https://abema.app/BUXY",
+        "google": "https://abema.app/kbcZ",
+        "line": "https://abema.app/TCpR",
+        "copy": "https://abema.app/uuJ5",
+        "instagram": "https://abema.app/MJ4s"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/2-14_s10_p76/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/2-14_s10_p76/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/2-14_s10_p76/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/2-14_s10_p76/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.2-14_s10_p76"
+    },
+    "viewingPoint": {
+        "suggestion": 1440.5224166666667,
+        "opening": {
+            "start": 87.42066666666666,
+            "end": 177.46895833333335
+        },
+        "ending": {
+            "start": 1327.4928333333332,
+            "end": 1417.4577083333334
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/2-14_s10_p76/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1734085800
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1777647600
+        }
+    ],
+    "episodeGroupId": "2-14_eg0",
+    "skipVmap": true
+}

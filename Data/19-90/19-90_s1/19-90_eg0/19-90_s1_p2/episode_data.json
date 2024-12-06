@@ -1,0 +1,148 @@
+{
+    "id": "19-90_s1_p2",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 イェティを探せ",
+        "content": "スーパー・ウィングスのジェットへの今日の指令は、ヒマラヤのサクテン生物保護地区に住むデマに救急箱を届ける事。そこには幻の雪男イェティがいる事を知り、それも楽しみに届けに行くと、デマの友達のクマのドルジの子供が、崖に突き出た木に置き去りになり大ピンチ。ジェットは仲間のディジーと救助に成功した。しかし、今度は雪崩が起きてしまう。スーパー・ウィングスからチェイスも出動し雪崩から逃れたと思ったらデマと父、ドルジと子グマの乗った木が坂を滑ってあわや崖下へ…危機一髪のところを助けてくれたのはなんとイェティ。しかし、ケガをした手に届いたばかりの救急箱でデマに手当てをしてもらうと、イェティはまた居なくなってしまった。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1707018364,
+    "endAt": 1740754800,
+    "freeEndAt": 1740754800,
+    "transcodeVersion": "3S8RQT",
+    "sharedLink": {
+        "twitter": "https://abema.app/F6Y8",
+        "facebook": "https://abema.app/TFjF",
+        "google": "https://abema.app/XpMv",
+        "line": "https://abema.app/rdBb",
+        "copy": "https://abema.app/pX9Z",
+        "instagram": "https://abema.app/zRMs"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s1_p2/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-90_s1_p2/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p3",
+        "title": "第3話 泳ぐブタさん",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018364,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

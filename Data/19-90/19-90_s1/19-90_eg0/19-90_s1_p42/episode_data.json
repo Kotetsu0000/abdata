@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p42",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 42,
+        "title": "第42話 バレエの日",
+        "content": "スーパー・ウィングスのジェットへの今日の指令は、ロシアのシベリアに住む女の子ナージャに、自分のバレリーナ姿の人形が入った卵型の飾りを届ける事だ。これはバレリーナを夢見るナージャへのママからのプレゼントだ。ナージャは大喜びだが自分と一緒にバレエを踊ってくれるダンサーがいないとこぼしていた。ジェットが一緒に踊るもなかなかうまくいかない。そこでジェローム、ディジー、フリップのスーパー・ウィングス３人を呼ぶ。３人は見事に期待に応えてくれたが、今度はナージャのお父さんが運転するトラックのボリスが氷にはまり身動きが取れなくなってしまった。そこで３人はナージャと一緒にお父さんを助け出した。おかげでステージにも無事間に合い、見事なバレエを披露する事ができた。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "ZreM9",
+    "sharedLink": {
+        "twitter": "https://abema.app/oyB1",
+        "facebook": "https://abema.app/vWTn",
+        "google": "https://abema.app/6De7",
+        "line": "https://abema.app/ViVK",
+        "copy": "https://abema.app/Cjmr",
+        "instagram": "https://abema.app/1msp"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p42/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p42/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p42/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p42"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.75
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p43",
+        "title": "第43話 モコモコ・トラブル発生",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p42/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,132 @@
+{
+    "id": "669-1_s1_p1",
+    "series": {
+        "id": "669-1",
+        "title": "Walking Meat",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/669-1",
+            "filename": "thumb.png",
+            "query": "version=1704161971",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/669-1",
+            "filename": "portrait.png",
+            "query": "version=1704161971",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "669-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1255
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "Walking Meat",
+        "content": "ゾンビと人間の関係が逆転した世界。人口増加と食糧問題に直面した人類は、ゾンビを食べることで両方の問題解決を試みる。やがて、ゾンビは「ウォーキング・ミート（歩く肉）」と呼ばれるようになるが……。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "マリン:内田真礼",
+            "マサル:落合福嗣",
+            "カオリ:津田美波",
+            "ハセガワ:津田健次郎",
+            "バブ:三瓶由布子"
+        ],
+        "crews": [
+            "監督:須貝真也",
+            "キャラクターデザイン:神田己司",
+            "CGI監督:川口隆浩",
+            "美術監督:竹田悠介",
+            "色彩設計:菅原美佳",
+            "撮影監督:森川万貴",
+            "編集:柳圭介",
+            "音響監督:齋藤匠",
+            "制作協力:K&Kデザイン"
+        ],
+        "copyrights": [
+            "(C)Walking Meat 製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704162084,
+    "endAt": 1740754800,
+    "transcodeVersion": "2nJDfc",
+    "sharedLink": {
+        "twitter": "https://abema.app/WD85",
+        "facebook": "https://abema.app/5bz4",
+        "google": "https://abema.app/wQm8",
+        "line": "https://abema.app/P3Te",
+        "copy": "https://abema.app/EXxZ",
+        "instagram": "https://abema.app/tzFr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/669-1_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/669-1_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/669-1_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.669-1_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1075.0322916666667,
+        "ending": {
+            "start": 1079.4116666666666,
+            "end": 1247.6630833333334
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/669-1_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "669-1_eg0",
+    "skipVmap": true
+}

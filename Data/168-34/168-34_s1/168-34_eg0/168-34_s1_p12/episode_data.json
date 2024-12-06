@@ -1,0 +1,158 @@
+{
+    "id": "168-34_s1_p12",
+    "series": {
+        "id": "168-34",
+        "title": "アニメ「ぐんまちゃん」",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-34",
+            "filename": "thumb.png",
+            "query": "version=1681369505",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-34",
+            "filename": "portrait.png",
+            "query": "version=1681369505",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-34_s1",
+        "sequence": 1,
+        "name": "シーズン１",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 「ハニワ・ミーツ・ダルマ」「お家であそぼう」「コンニャラップあらわる」",
+        "content": "【ハニワ・ミーツ・ダルマ】\nお外でくつろいでいるぐんまちゃんの前に、ハニワが珍しく一人で現れた。「今日は一人になりたい」と語りつつ、なんだか話しかけてほしいオーラを出している。\n【お家であそぼう】\nぐんまちゃんとあおまは、ぐんまちゃんのお家で遊ぶことに。今日は、とっておきの「お楽しみ」があるようだ。それは…。\n【コンニャラップあらわる】\nヤヨイヒメは、今日もイチゴ「やよいひめ」の試食キャンペーン中。そこに突然軽快なリズムと共にラッパーが現れライムを刻み始めた。ヤツの名は「コンニャラップ」、一体何が始まるのか！？"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "ぐんまちゃんCV. 高橋花林",
+            "あおまCV.内田彩",
+            "みーみCV.小倉唯",
+            "おとうさんCV.北沢力",
+            "おかあさんCV.中尾衣里",
+            "ゆうみCV.指出毬亜",
+            "おじさんCV.北沢力",
+            "古墳様CV.森田順平",
+            "ハニワ族",
+            "ヤヨイヒメCV.山岡ゆり",
+            "ヤヨイヒメの従者",
+            "ミラー族",
+            "キリュウさんCV.山本希望",
+            "フランソワーズCV.清都ありさ",
+            "ありんコージョ",
+            "タマ（ニャーズ）CV.田村睦心",
+            "ノラ（ニャーズ）",
+            "トラ（ニャーズ）",
+            "ブチ（ニャーズ）",
+            "ものしり博士CV.速水奨",
+            "ナレーションCV.本田貴子"
+        ],
+        "crews": [
+            "監督・脚本　本郷みつる",
+            "キャラクター原案　中嶋史子",
+            "キャラクターデザイン　栗尾昌宏",
+            "アニメーション制作　アセンション",
+            "製作・著作　群馬県"
+        ],
+        "copyrights": [
+            "(C) 群馬県"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1688721505,
+    "endAt": 1746025200,
+    "transcodeVersion": "3ot8EQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/YmPc",
+        "facebook": "https://abema.app/r2s1",
+        "google": "https://abema.app/gM91",
+        "line": "https://abema.app/ZZMu",
+        "copy": "https://abema.app/cL4x",
+        "instagram": "https://abema.app/gJ1y"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-34_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-34_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-34_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-34_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1464.968489,
+        "opening": {
+            "end": 87.029811
+        },
+        "ending": {
+            "start": 1290.085144,
+            "end": 1376.985144
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-34_s1_p13",
+        "title": "第13話 「宇宙いけ！ぐんまちゃん」「アンノウン星到着！」「ぐんまちゃん、がんばる」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1688721505,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-34_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "168-34_eg0",
+    "skipVmap": true
+}

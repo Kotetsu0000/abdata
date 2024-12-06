@@ -1,0 +1,138 @@
+{
+    "id": "273-583_s1_p11",
+    "series": {
+        "id": "273-583",
+        "title": "すとぷりくえすとっ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "thumb.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "portrait.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-583_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "#11 莉犬大絶叫!?お化け屋敷克服企画にくえすとっ!",
+        "content": "人気エンタメユニット「すとぷり」の冠番組!▽りすなーからのリクエスト企画!▽莉犬が超苦手なお化け屋敷にひとりで挑戦!▽ホラーファンも認める恐怖の屋敷に潜入・・・▽無事生還できたのか!?頑張れ莉犬!"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696237315,
+    "endAt": 1761922800,
+    "transcodeVersion": "3UmwnG",
+    "sharedLink": {
+        "twitter": "https://abema.app/t3ui",
+        "facebook": "https://abema.app/pJDX",
+        "google": "https://abema.app/XEgQ",
+        "line": "https://abema.app/Nbp1",
+        "copy": "https://abema.app/sSRE",
+        "instagram": "https://abema.app/V5Hm"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/273-583_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/273-583_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/273-583_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-583_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1429.9618666666668
+    },
+    "nextProgramInfo": {
+        "programId": "273-583_s1_p12",
+        "title": "#12 公式すとぷり大好き芸人初仕事!原宿イベントのお手伝いにくえすとっ!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1696237315,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-583_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-583_eg0",
+    "skipVmap": true
+}

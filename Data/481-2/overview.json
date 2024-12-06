@@ -1,0 +1,71 @@
+{
+    "id": "481-2",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "ソマリと森の神様",
+    "content": "地上は異形たちが支配する世界。\n人間は迫害され、絶滅の危機に瀕していた。\n\nそんなある日、\n森の番人である「ゴーレム」と\nひとりの人間の少女が出会う。\n\n滅びゆく種族「人間」と森の番人ゴーレムの\n父娘の絆を綴った旅の記録。",
+    "seasons": [
+        {
+            "id": "481-2_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/481-2_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683607703",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "481-2_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)暮石ヤコ/NSP/ソマリと森の神様プロジェクト, mixer"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1708928264022289719",
+    "imageUpdatedAt": 1681283807,
+    "caption": "ー森の中で、私は\"人間\"と出会ったー",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/5c74d",
+        "facebook": "https://gxyt4.app.goo.gl/4fp46",
+        "google": "https://gxyt4.app.goo.gl/fYGqs",
+        "line": "https://gxyt4.app.goo.gl/wwRQF",
+        "copy": "https://gxyt4.app.goo.gl/ifPtm",
+        "instagram": "https://gxyt4.app.goo.gl/2ADfB"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-2",
+        "filename": "thumb.png",
+        "query": "version=1681283807",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-2",
+        "filename": "portrait.png",
+        "query": "version=1681283807",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

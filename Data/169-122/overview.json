@@ -1,0 +1,71 @@
+{
+    "id": "169-122",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "チキップダンサーズ",
+    "content": "ちょっぴりチキン(こわがり)だけど、好奇心いっぱいの骨つきチキンの「ほねチキン」。スキップしながら近づいてくるダンスの先生「スキップガエル先生」など、個性あふれるキャラクターたちがダンスで大活躍！\nおうちなどさまざまな場所で「からだがうごくと、こころもおどる♪」おはなしです。",
+    "seasons": [
+        {
+            "id": "169-122_s3",
+            "sequence": 3,
+            "name": "シーズン3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/169-122_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1697107757",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "169-122_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)San‐X／チキップダンサーズおどるん会"
+    ],
+    "label": {},
+    "version": "1728528759535436728",
+    "imageUpdatedAt": 1697107822,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/ktka",
+        "facebook": "https://abema.app/wNK7",
+        "google": "https://abema.app/Hw4R",
+        "line": "https://abema.app/QKdw",
+        "copy": "https://abema.app/3ciC",
+        "instagram": "https://abema.app/e4Qc"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-122",
+        "filename": "thumb.png",
+        "query": "version=1697107822",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-122",
+        "filename": "portrait.png",
+        "query": "version=1697107822",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

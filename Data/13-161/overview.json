@@ -1,0 +1,74 @@
+{
+    "id": "13-161",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "にじよん あにめーしょん2",
+    "content": "ラブライブ！虹ヶ咲学園スクールアイドル同好会のスピンオフコミック「にじよん(漫画:ミヤコヒト)」がアニメになって動き出す！\nニジガクメンバー13人のキュートな日常をゆるっとあなたにお届けします！",
+    "seasons": [
+        {
+            "id": "13-161_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/13-161_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1712301003",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "13-161_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)プロジェクトラブライブ！にじよん あにめーしょん2"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1719580057752525629",
+    "imageUpdatedAt": 1712918876,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/8eQa",
+        "facebook": "https://abema.app/mLea",
+        "google": "https://abema.app/gKAt",
+        "line": "https://abema.app/UQ5Q",
+        "copy": "https://abema.app/CR9t",
+        "instagram": "https://abema.app/qFhn"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-161",
+        "filename": "thumb.png",
+        "query": "version=1712918876",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-161",
+        "filename": "portrait.png",
+        "query": "version=1712918876",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

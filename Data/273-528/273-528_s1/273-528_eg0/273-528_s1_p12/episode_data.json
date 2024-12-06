@@ -1,0 +1,137 @@
+{
+    "id": "273-528_s1_p12",
+    "series": {
+        "id": "273-528",
+        "title": "すとぷりのHere!We!GO!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "thumb.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "portrait.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-528_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "#12 いちごニキが大暴走!? すとぷりアリーナツアーの裏側潜入に Here!We!GO!!前編",
+        "content": "人気エンタメユニット「すとぷり」のテレビ初冠番組!▽アリーナツアーの裏側に潜入!▽りすなーインタビューでの思わぬ発言にメンバーも困惑!?▽史上初!?すとぷりメンバーのリハの貴重な映像公開!▽しかし!ニキがリハ中にまさかの暴走!?果たしてメンバーはニキに気づくのか!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1685958158,
+    "endAt": 1761922800,
+    "transcodeVersion": "3Qh4b4",
+    "sharedLink": {
+        "twitter": "https://abema.app/EyNX",
+        "facebook": "https://abema.app/RzBi",
+        "google": "https://abema.app/VFxX",
+        "line": "https://abema.app/YvZn",
+        "copy": "https://abema.app/BBAF",
+        "instagram": "https://abema.app/Wqrb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-528_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1432.860272
+    },
+    "nextProgramInfo": {
+        "programId": "273-528_s1_p13",
+        "title": "#13 いちごニキが大暴走!? すとぷりアリーナツアーの裏側潜入に Here!We!GO!!後編",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1685958158,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-528_s1_p12/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-528_eg0",
+    "skipVmap": true
+}

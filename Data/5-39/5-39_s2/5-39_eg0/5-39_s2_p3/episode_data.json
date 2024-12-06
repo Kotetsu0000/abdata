@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s2_p3",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1382
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "episode3 アンドロメダ島",
+        "content": "アンドロメダ島で繰り広げられた死闘。それは第三の宮、双児宮での闘いに因縁を持ち込んだ。双児宮の幻覚に翻弄される青銅聖闘士たち。宮の守護者、黄金聖闘士双子座（ジェミニ）のサガが星矢たちの前に立ちはだかる。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993525,
+    "endAt": 1759244400,
+    "transcodeVersion": "JXqLH",
+    "sharedLink": {
+        "twitter": "https://abema.app/XsVV",
+        "facebook": "https://abema.app/8DkP",
+        "google": "https://abema.app/EB5w",
+        "line": "https://abema.app/8Cjc",
+        "copy": "https://abema.app/UQTB",
+        "instagram": "https://abema.app/xMA8"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-39_s2_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-39_s2_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-39_s2_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s2_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1291.648645,
+        "opening": {
+            "start": 1.024222,
+            "end": 119.822
+        },
+        "ending": {
+            "start": 1291.062977,
+            "end": 1382.14458
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s2_p4",
+        "title": "episode4 氷の心",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993526,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s2_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

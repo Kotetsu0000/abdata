@@ -1,0 +1,134 @@
+{
+    "id": "273-528_s1_p2",
+    "series": {
+        "id": "273-528",
+        "title": "すとぷりのHere!We!GO!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "thumb.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "portrait.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-528_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1430
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "#2 演技力&アドリブ力をプロがガチ審査!メンバーの演技力&アドリブ力チェックにHere!We!GO!!",
+        "content": "人気エンタメユニット「すとぷり」のテレビ初冠番組!▽今回は演技力&アドリブ力をプロがガチ審査SP▽まさかの胸キュン告白で役者の才能が開花!?&一流演出家の容赦ないダメ出しにメンバー大悲鳴!?果たして一番優秀な生徒は誰なのか・・・!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1685958158,
+    "endAt": 1761922800,
+    "transcodeVersion": "2b9ZFT",
+    "sharedLink": {
+        "twitter": "https://abema.app/6CRm",
+        "facebook": "https://abema.app/MyM3",
+        "google": "https://abema.app/R98V",
+        "line": "https://abema.app/fDWT",
+        "copy": "https://abema.app/rj65",
+        "instagram": "https://abema.app/4Jrk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/273-528_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/273-528_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/273-528_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-528_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1412.534553
+    },
+    "nextProgramInfo": {
+        "programId": "273-528_s1_p3",
+        "title": "#3 クリスマス直前!スタジオを飛び出しプレゼント選びにHere!We!GO!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1697018212,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-528_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-528_eg0",
+    "skipVmap": true
+}

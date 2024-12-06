@@ -1,0 +1,136 @@
+{
+    "id": "482-39_s1_p6",
+    "series": {
+        "id": "482-39",
+        "title": "忍ばない！クリプトニンジャ咲耶",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-39",
+            "filename": "thumb.png",
+            "query": "version=1708415389",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-39",
+            "filename": "portrait.png",
+            "query": "version=1708415389",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "482-39_s1",
+        "sequence": 1,
+        "name": "第1期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 210
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 6,
+        "title": "第六話 コンガ師匠、お願いしますよ",
+        "content": "到着した風魔シティのアトザの自宅は、異様な雰囲気に包まれていた。 物々しい空気の中、3人はアトザを探すが・・・"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "咲耶：堀本凪沙",
+            "ネム：本谷史織",
+            "シャオラン：内田彩",
+            "コンガ：大自然ロジャー",
+            "岩爺：木下章嗣",
+            "狐白：柊子"
+        ],
+        "crews": [
+            "原作：イケハヤ",
+            "脚本：細川徹",
+            "監督：野中晶史",
+            "制作：ファンワークス"
+        ],
+        "copyrights": [
+            "(C)CryptoAnime Labs/「クリプトニンジャ咲耶」制作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711536717,
+    "endAt": 1743433200,
+    "transcodeVersion": "2xiUk7",
+    "sharedLink": {
+        "twitter": "https://abema.app/S1vL",
+        "facebook": "https://abema.app/YnP4",
+        "google": "https://abema.app/DfNh",
+        "line": "https://abema.app/3eZL",
+        "copy": "https://abema.app/Xutd",
+        "instagram": "https://abema.app/jkgu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/482-39_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/482-39_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/482-39_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.482-39_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 195.06153333333333,
+        "opening": {
+            "end": 40.00663333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "482-39_s1_p7",
+        "title": "第七話 大ピンチ！風魔シティ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711536717,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/482-39_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "482-39_eg0",
+    "skipVmap": true
+}

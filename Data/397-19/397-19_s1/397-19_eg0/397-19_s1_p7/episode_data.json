@@ -1,0 +1,151 @@
+{
+    "id": "397-19_s1_p7",
+    "series": {
+        "id": "397-19",
+        "title": "TVアニメ「オリエント」 安芸旅立ち編",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/397-19",
+            "filename": "thumb.png",
+            "query": "version=1641875446",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/397-19",
+            "filename": "portrait.png",
+            "query": "version=1641875446",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "397-19_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 水の中では生きられない",
+        "content": "鬼神を倒すことができる唯一の刀――鬼鉄刀。大東鉱山にやって来た武蔵と小次郎は、早速、鬼鉄刀を買いに行く。そこには刀匠頭・長舩ミツル率いる竜造寺武士団が作った鬼鉄刀が並んでいた。そして、二人は「刀の試し」を受けることに。鬼鉄刀は刀の試しで選ばれた者しか手にすることが出来ないのだ。早速、刀を握る武蔵と小次郎。その瞬間、異変が起きて……。果たして、二人は刀の試しに成功して鬼鉄刀を手にすることができるのか！？"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "武蔵：内田雄馬",
+            "鐘巻小次郎：斉藤壮馬",
+            "服部つぐみ：高橋李依",
+            "武田尚虎：日野　聡",
+            "犬飼四郎：下野　紘",
+            "犬坂七緒：和氣あず未",
+            "小雨田英雄：羽多野　渉"
+        ],
+        "crews": [
+            "原作：大高 忍（別冊少年マガジン連載／講談社）",
+            "監督：柳沢テツヤ",
+            "シリーズ構成：國澤真理子",
+            "キャラクターデザイン：岸田隆宏",
+            "音楽：深澤秀行",
+            "アニメーション制作：Ａ・Ｃ・Ｇ・Ｔ",
+            "製作：「オリエント」製作委員会"
+        ],
+        "copyrights": [
+            "(C)大高忍・講談社／「オリエント」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699521436,
+    "endAt": 1756652400,
+    "transcodeVersion": "5MB86G",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/p8wKD",
+        "facebook": "https://gxyt4.app.goo.gl/5d5TY",
+        "google": "https://gxyt4.app.goo.gl/9JMb5",
+        "line": "https://gxyt4.app.goo.gl/UzsHZ",
+        "copy": "https://gxyt4.app.goo.gl/Syoe2",
+        "instagram": "https://gxyt4.app.goo.gl/D8Kqv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/397-19_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/397-19_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/397-19_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.397-19_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1415.001911
+    },
+    "nextProgramInfo": {
+        "programId": "397-19_s1_p8",
+        "title": "第8話 黒曜の女神",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699521436,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/397-19_s1_p7/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "397-19_eg0",
+    "skipVmap": true
+}

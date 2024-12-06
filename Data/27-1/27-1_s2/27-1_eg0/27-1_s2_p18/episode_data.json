@@ -1,0 +1,129 @@
+{
+    "id": "27-1_s2_p18",
+    "series": {
+        "id": "27-1",
+        "title": "オシリスの天秤",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "thumb.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "portrait.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "27-1_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 450
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 18,
+        "title": "Target 18 紅涙の理由",
+        "content": "女には生きる理由があった、復讐のために、全てをリセットするために・・・・・・"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "梶裕貴",
+            "小松由佳",
+            "宮野真守",
+            "他"
+        ],
+        "crews": [
+            "監督:冨士川祐輔",
+            "脚本:笠井健夫"
+        ],
+        "copyrights": [
+            "(C)フジテレビジョン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683690761,
+    "endAt": 1743433200,
+    "transcodeVersion": "KkoRh",
+    "sharedLink": {
+        "twitter": "https://abema.app/qHah",
+        "facebook": "https://abema.app/epef",
+        "google": "https://abema.app/hSPE",
+        "line": "https://abema.app/oWjD",
+        "copy": "https://abema.app/YE5e",
+        "instagram": "https://abema.app/sZtL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p18/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p18/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.27-1_s2_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 420.042822,
+        "ending": {
+            "start": 420.042822,
+            "end": 450.049161
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "27-1_s2_p19",
+        "title": "Target 19 不審の記憶",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683690768,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/27-1_s2_p18/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "27-1_eg0",
+    "skipVmap": true
+}

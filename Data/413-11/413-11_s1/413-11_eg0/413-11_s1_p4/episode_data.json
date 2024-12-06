@@ -1,0 +1,165 @@
+{
+    "id": "413-11_s1_p4",
+    "series": {
+        "id": "413-11",
+        "title": "月刊モー想科学",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-11",
+            "filename": "thumb.png",
+            "query": "version=1704357789",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-11",
+            "filename": "portrait.png",
+            "query": "version=1704357789",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "413-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "４月号『も～、不思議！？　ヌス湖の秘密』",
+        "content": "来月号のネタ探しが難航するタロー達は、ゴローの提案でヌス湖に現れる未確認生物のヌッシーを探しに行くことに。ヌス湖が若い男女の出会いの場となっていると聞くと、タローもノリノリに。一同は早速キャンプ道具を持って湖に向かうが、実はパーチとノインにつけられていた。一方で、そんなことは知る由もないタロー達は湖に到着。しかし、そこは閑散としていて、聞いていた話とは全く違う場所だった。すっかりやる気をなくしたタローだったが、湖のほとりで美しい女性に話しかけられる……。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "タロー・Ｊ・鈴木：石井孝英",
+            "ジロー・田中：山本和臣",
+            "サブロー：白井悠介",
+            "ゴロー・佐藤：土岐隼一",
+            "キャサリン・スー：釘宮理恵",
+            "エドワード・チー：杉田智和",
+            "パーチ：古屋亜南",
+            "ノイン：井上雄貴",
+            "ナンシー：斎藤千和",
+            "ロック：西村知道"
+        ],
+        "crews": [
+            "原作：馬谷いちご",
+            "監督＆キャラクター原案：宮脇千鶴",
+            "シリーズ構成：金杉弘子",
+            "キャラクターデザイン：廣田 茜",
+            "プロップデザイン：志村錠児",
+            "色彩設計：佐藤 直",
+            "美術監督：縫部文江",
+            "撮影監督：佐藤 敦",
+            "編集：小守真由美",
+            "音楽：立山秋航",
+            "音楽制作：ポニーキャニオン",
+            "音響監督：納谷僚介",
+            "音響効果：小林亜依里・野崎博樹",
+            "製作：モー製作委員会"
+        ],
+        "copyrights": [
+            "(C)馬谷いちご/モー製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711971512,
+    "endAt": 1743433200,
+    "transcodeVersion": "3XY2fJ",
+    "sharedLink": {
+        "twitter": "https://abema.app/6SDW",
+        "facebook": "https://abema.app/WTfM",
+        "google": "https://abema.app/RJ6J",
+        "line": "https://abema.app/K6r4",
+        "copy": "https://abema.app/ygKQ",
+        "instagram": "https://abema.app/y6Pa"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/413-11_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/413-11_s1_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/413-11_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.413-11_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.0220416666666,
+        "opening": {
+            "start": 153.027875,
+            "end": 242.99275
+        },
+        "ending": {
+            "start": 1315.0220416666666,
+            "end": 1405.0703333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "413-11_s1_p5",
+        "title": "５月号『も～、ナニ悩んでるの？　氷上の貴公子』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711971512,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/413-11_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "413-11_eg0",
+    "skipVmap": true
+}

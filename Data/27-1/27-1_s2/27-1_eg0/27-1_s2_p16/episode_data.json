@@ -1,0 +1,129 @@
+{
+    "id": "27-1_s2_p16",
+    "series": {
+        "id": "27-1",
+        "title": "オシリスの天秤",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "thumb.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "portrait.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "27-1_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 353
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 16,
+        "title": "Target 16 慮外の負担",
+        "content": "人間と悪魔の違いは何か?悪魔は人間になれるのか?悪魔を生み出した女は何を思うのか?"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "梶裕貴",
+            "小松由佳",
+            "宮野真守",
+            "他"
+        ],
+        "crews": [
+            "監督:冨士川祐輔",
+            "脚本:笠井健夫"
+        ],
+        "copyrights": [
+            "(C)フジテレビジョン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683690748,
+    "endAt": 1743433200,
+    "transcodeVersion": "7CRwAF",
+    "sharedLink": {
+        "twitter": "https://abema.app/Hz4m",
+        "facebook": "https://abema.app/Xmof",
+        "google": "https://abema.app/K2pL",
+        "line": "https://abema.app/sUXX",
+        "copy": "https://abema.app/dKbQ",
+        "instagram": "https://abema.app/a6FE"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/27-1_s2_p16/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/27-1_s2_p16/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/27-1_s2_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.27-1_s2_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 323.055765,
+        "ending": {
+            "start": 323.055765,
+            "end": 353.042333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "27-1_s2_p17",
+        "title": "Target 17 亡者の告白",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683690755,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/27-1_s2_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "27-1_eg0",
+    "skipVmap": true
+}

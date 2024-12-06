@@ -1,0 +1,76 @@
+{
+    "id": "218-668",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_37",
+                "name": "ライブ舞台"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "アベマでにじさんじ！新春SP",
+    "content": "新春特別企画『アベマでにじさんじ！新春SP』、今年は1月1日（月）午後“2時”から深夜“3時”に開催！日本初無料の音楽ライブ公演やABEMA独占新春生放送番組、ライバー総勢100名以上からの新年ビデオメッセージなどノンストップ一挙放送！",
+    "seasons": [
+        {
+            "id": "218-668_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-668",
+                "filename": "thumb.png",
+                "query": "version=1703060316",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "218-668_eg1",
+                    "name": "新春特番"
+                },
+                {
+                    "id": "218-668_eg10",
+                    "name": "あけおめビデオメッセージ"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)AbemaTV",
+        "(C)ANYCOLOR, Inc."
+    ],
+    "label": {},
+    "version": "1709095827545788497",
+    "imageUpdatedAt": 1703060316,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/AWcr",
+        "facebook": "https://abema.app/76HX",
+        "google": "https://abema.app/NfHf",
+        "line": "https://abema.app/vSdp",
+        "copy": "https://abema.app/L5zt",
+        "instagram": "https://abema.app/GCSo"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-668",
+        "filename": "thumb.png",
+        "query": "version=1703060316",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-668",
+        "filename": "portrait.png",
+        "query": "version=1703060316",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 4,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

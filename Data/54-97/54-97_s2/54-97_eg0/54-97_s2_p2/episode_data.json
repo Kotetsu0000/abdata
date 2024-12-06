@@ -1,0 +1,133 @@
+{
+    "id": "54-97_s2_p2",
+    "series": {
+        "id": "54-97",
+        "title": "ぬいストーリー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "thumb.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "portrait.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-97_s2",
+        "sequence": 2,
+        "name": "ぬいストーリー2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 103
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 ぬいハロウィン",
+        "content": "今日はハロウィン！家の中でおやつ配るだけだけど、わくわくするわぁ～！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督:いくピソ・ゆうピソ",
+            "脚本:いくピソ・ゆうピソ",
+            "デザイン:いくピソ",
+            "アニメーション:ゆうピソ",
+            "BGM:Audiostock",
+            "効果音:効果音ラボ・Audiostock"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733471950,
+    "endAt": 1822316400,
+    "transcodeVersion": "4mMLeB",
+    "sharedLink": {
+        "twitter": "https://abema.app/jNJx",
+        "facebook": "https://abema.app/ab3j",
+        "google": "https://abema.app/DVS9",
+        "line": "https://abema.app/q3Fr",
+        "copy": "https://abema.app/Ypdr",
+        "instagram": "https://abema.app/Ahkb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-97_s2_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-97_s2_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-97_s2_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-97_s2_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 97.93116666666667
+    },
+    "nextProgramInfo": {
+        "programId": "54-97_s2_p3",
+        "title": "第3話 焼き芋ジレンマ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1733471950,
+        "endAt": 1822316400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1822316400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-97_s2_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1822316400
+        }
+    ],
+    "episodeGroupId": "54-97_eg0",
+    "skipVmap": true
+}

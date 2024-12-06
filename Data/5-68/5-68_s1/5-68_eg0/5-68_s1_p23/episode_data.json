@@ -1,0 +1,142 @@
+{
+    "id": "5-68_s1_p23",
+    "series": {
+        "id": "5-68",
+        "title": "ELEMON",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "thumb.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "portrait.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-68_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 670
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話　対決ニンジャエレモン",
+        "content": "強大なパワーで暴れるスチーロン。アクロ、ソルティアス、シリカ、そしてたくさんのエレモンたちが立ち向かうが敵わない。だが、急に戦いをやめるスチーロン。スチーロンは心の優しいエレモンで戦いを望んでいなかった。ところが、その様子に変化が？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "レオ・ウッド：大地　葉",
+            "エラ・ウッド：楠木ともり",
+            "ライアン・カジ：潘めぐみ"
+        ],
+        "crews": [
+            "原作：東映アニメーション",
+            "原案：シオン・カジ",
+            "企画：鈴木篤志、森山義秀、シオン・カジ、三浦謙介",
+            "プロデューサー：森山義秀、シオン・カジ、龍 貴大",
+            "ラインプロデューサー：浦田鉄也",
+            "シリーズ構成/脚本：和智正喜",
+            "美術監督：杉本あゆみ",
+            "撮影監督：山口あゆみ",
+            "キャラクターデザイン/総作画監督/監督：ポエ山",
+            "制作：東映アニメーション",
+            "制作協力：ナニビト",
+            "製作：東映アニメーション・Rymation・アナライズログ"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション・Rymation・AnalyzeLog"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728366204,
+    "endAt": 1764514800,
+    "transcodeVersion": "2UfiMS",
+    "sharedLink": {
+        "twitter": "https://abema.app/yVqJ",
+        "facebook": "https://abema.app/UGBW",
+        "google": "https://abema.app/4VFj",
+        "line": "https://abema.app/UJUA",
+        "copy": "https://abema.app/i62s",
+        "instagram": "https://abema.app/5xzi"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-68_s1_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-68_s1_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-68_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-68_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 610.735125,
+        "ending": {
+            "start": 610.735125,
+            "end": 670.7534166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-68_s1_p24",
+        "title": "第24話　力を合わせて",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1728366213,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-68_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "5-68_eg0",
+    "skipVmap": true
+}

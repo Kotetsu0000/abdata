@@ -1,0 +1,139 @@
+{
+    "id": "273-528_s1_p8",
+    "series": {
+        "id": "273-528",
+        "title": "すとぷりのHere!We!GO!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "thumb.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "portrait.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-528_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "#8 2023年初実写ロケ!!本格お餅つきにHere!We!GO!!",
+        "content": "人気エンタメユニット「すとぷり」のテレビ初冠番組!2023年初実写ロケ!!!今回は結束力を高めるためにお餅つきに挑戦!?すとぷりとニキがリアルで初対面!美味しいお餅料理をかけた結束力クイズ▽結成20年の芸能界の大先輩に聞いた結束力の秘訣とは・・・?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1685958158,
+    "endAt": 1761922800,
+    "transcodeVersion": "vmkyE",
+    "sharedLink": {
+        "twitter": "https://abema.app/8NRy",
+        "facebook": "https://abema.app/AYf9",
+        "google": "https://abema.app/keBQ",
+        "line": "https://abema.app/4cvn",
+        "copy": "https://abema.app/Dq2X",
+        "instagram": "https://abema.app/q4H9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-528_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1433.922355
+    },
+    "nextProgramInfo": {
+        "programId": "273-528_s1_p9",
+        "title": "#9 すとぷりすなー&視聴者応援企画!勝負の日応援大作戦にHere!We!GO!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1685958158,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-528_s1_p8/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-528_eg0",
+    "skipVmap": true
+}

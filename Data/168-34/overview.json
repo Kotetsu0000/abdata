@@ -1,0 +1,89 @@
+{
+    "id": "168-34",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "アニメ「ぐんまちゃん」",
+    "content": "ここは“ひらがな”の「ぐんま」です。どこかにある不思議な世界。\n不思議な世界だけど、優しくて温かい場所。\nみなさんのまわりに色んな人がいるように、\nここにもいろいろ不思議な住人たちが住んでいます。\nそんな「ぐんま」の中で、ぐんまちゃんは何をしているのかな？",
+    "seasons": [
+        {
+            "id": "168-34_s1",
+            "sequence": 1,
+            "name": "シーズン１",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/168-34_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1681450463",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-34_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "168-34_s2",
+            "sequence": 2,
+            "name": "シーズン２",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/168-34_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1681450481",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-34_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C) 群馬県"
+    ],
+    "label": {},
+    "version": "1722419217457630151",
+    "imageUpdatedAt": 1681369505,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/RJ5A",
+        "facebook": "https://abema.app/drMd",
+        "google": "https://abema.app/x7f8",
+        "line": "https://abema.app/jz6A",
+        "copy": "https://abema.app/pFcg",
+        "instagram": "https://abema.app/fsdw"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-34",
+        "filename": "thumb.png",
+        "query": "version=1681369505",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-34",
+        "filename": "portrait.png",
+        "query": "version=1681369505",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,158 @@
+{
+    "id": "168-34_s1_p1",
+    "series": {
+        "id": "168-34",
+        "title": "アニメ「ぐんまちゃん」",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-34",
+            "filename": "thumb.png",
+            "query": "version=1681369505",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-34",
+            "filename": "portrait.png",
+            "query": "version=1681369505",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-34_s1",
+        "sequence": 1,
+        "name": "シーズン１",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1469
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 「こんにちは！ぐんまちゃん」「ぼうけんへゴー！！」「ヤヨイヒメあらわる」",
+        "content": "【こんにちは！ぐんまちゃん】\nどこかにある不思議な世界「ぐんま」には、いろいろな人たちが住んでいる。そんな「ぐんま」で、楽しく暮らすぐんまちゃん。ある日、お友達のあおまとみーみが言い争いをしているところに出くわす。\n【ぼうけんへゴー！！】\n良い天気の日、ぐんまちゃんとあおまは冒険に行くことに。二人が楽しく歩いて行った先は、ハニワ族の里だった。\n【ヤヨイヒメあらわる】\nぐんまちゃんとみーみがお散歩をしていると、イチゴを配るヤヨイヒメというお姫様に出会う。美味しいイチゴを受け取るも、みーみは何かを怪しんでいる。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "ぐんまちゃんCV. 高橋花林",
+            "あおまCV.内田彩",
+            "みーみCV.小倉唯",
+            "おとうさんCV.北沢力",
+            "おかあさんCV.中尾衣里",
+            "ゆうみCV.指出毬亜",
+            "おじさんCV.北沢力",
+            "古墳様CV.森田順平",
+            "ハニワ族",
+            "ヤヨイヒメCV.山岡ゆり",
+            "ヤヨイヒメの従者",
+            "ミラー族",
+            "キリュウさんCV.山本希望",
+            "フランソワーズCV.清都ありさ",
+            "ありんコージョ",
+            "タマ（ニャーズ）CV.田村睦心",
+            "ノラ（ニャーズ）",
+            "トラ（ニャーズ）",
+            "ブチ（ニャーズ）",
+            "ものしり博士CV.速水奨",
+            "ナレーションCV.本田貴子"
+        ],
+        "crews": [
+            "監督・脚本　本郷みつる",
+            "キャラクター原案　中嶋史子",
+            "キャラクターデザイン　栗尾昌宏",
+            "アニメーション制作　アセンション",
+            "製作・著作　群馬県"
+        ],
+        "copyrights": [
+            "(C) 群馬県"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1688721505,
+    "endAt": 1746025200,
+    "transcodeVersion": "DySjg",
+    "sharedLink": {
+        "twitter": "https://abema.app/zFQA",
+        "facebook": "https://abema.app/Stjj",
+        "google": "https://abema.app/Pyq8",
+        "line": "https://abema.app/V5wX",
+        "copy": "https://abema.app/WwX1",
+        "instagram": "https://abema.app/adwU"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-34_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-34_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-34_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-34_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1464.968489,
+        "opening": {
+            "end": 87.029811
+        },
+        "ending": {
+            "start": 1290.084923,
+            "end": 1377.184926
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-34_s1_p2",
+        "title": "第2話 「日曜日には何をする?」「工場ってすごーい！」「ハニワコンサート」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1688721505,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-34_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "168-34_eg0",
+    "skipVmap": true
+}

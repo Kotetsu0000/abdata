@@ -1,0 +1,127 @@
+{
+    "id": "19-198_s1_p13",
+    "series": {
+        "id": "19-198",
+        "title": "怪獣人形劇『ゴジばん』",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-198",
+            "filename": "thumb.png",
+            "query": "version=1715583617",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-198",
+            "filename": "portrait.png",
+            "query": "version=1715583617",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-198_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 713
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "「親戚のオジさんゴジラの息子　シン・息子」の巻",
+        "content": "いつも可愛いカマキラス三兄弟。ところが謎の気球から出てきた煙を浴びると巨大化して大暴れし、かまちをいじめはじめた！ゴジラくんたちも太刀打ちできず困っていたところをシン・オジが助けてくれた！さあシン・オジの尻尾でみんなで特訓だ！\n「ヘドじい・偉い人」含む"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "監督・脚本・造形・編集・音楽：小林英幸",
+            "タイトル:豊田幸秀",
+            "イラスト：ヨシジマシウ"
+        ],
+        "copyrights": [
+            "TM & (Ｃ) TOHO CO., LTD."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730101142,
+    "endAt": 1751295600,
+    "transcodeVersion": "75tKQX",
+    "sharedLink": {
+        "twitter": "https://abema.app/NHnv",
+        "facebook": "https://abema.app/Q3PH",
+        "google": "https://abema.app/1PGZ",
+        "line": "https://abema.app/tACm",
+        "copy": "https://abema.app/1kSR",
+        "instagram": "https://abema.app/oNmQ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-198_s1_p13/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-198_s1_p13/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-198_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-198_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 674.2068666666667,
+        "opening": {
+            "start": 2.168833333333333,
+            "end": 24.657966666666667
+        },
+        "ending": {
+            "start": 674.2068666666667,
+            "end": 713.713
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-198_s1_p14",
+        "title": "「少年セリザワ・浜辺のミステリオーゾ」の巻",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730101142,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-198_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "19-198_eg0",
+    "skipVmap": true
+}

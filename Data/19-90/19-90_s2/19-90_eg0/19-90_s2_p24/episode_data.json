@@ -1,0 +1,138 @@
+{
+    "id": "19-90_s2_p24",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s2",
+        "sequence": 2,
+        "name": "スーパーウィングス ミッションチーム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 719
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 24,
+        "title": "第24話 マルギット島の動物園",
+        "content": "ハンガリーのブタペストのペトラという女の子にバイオリンを配達する。ペトラがバイオリンを弾くと動物たちが窓の外に集まってきた。ブタペストのマルギット島にピクニックに行くときにペトラはバイオリンを持って行った。ペトラがバイオリンを弾きながら歩いていくと、ふれあい動物園の動物が抜け出してペトラについて来た。動物たちを檻に戻すために捕まえようとするが、うまくいかない。おまけにペトラのバイオリンをウサギに持ち去られてしまった…"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018366,
+    "endAt": 1740754800,
+    "transcodeVersion": "5qDFJz",
+    "sharedLink": {
+        "twitter": "https://abema.app/pYuW",
+        "facebook": "https://abema.app/yXbY",
+        "google": "https://abema.app/etKG",
+        "line": "https://abema.app/KwAo",
+        "copy": "https://abema.app/2LPD",
+        "instagram": "https://abema.app/BGbN"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s2_p24/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s2_p24/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s2_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s2_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 705.027522
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s2_p25",
+        "title": "第25話 お城の舞踏会",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018366,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s2_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,148 @@
+{
+    "id": "169-122_s3_p10",
+    "series": {
+        "id": "169-122",
+        "title": "チキップダンサーズ",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-122",
+            "filename": "thumb.png",
+            "query": "version=1697107822",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-122",
+            "filename": "portrait.png",
+            "query": "version=1697107822",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "169-122_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 302
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 どこかのガガガガ",
+        "content": "お外がうるさくて耳をふさいでいるつむぎちゃん。ほねチキンたちもまくらの下に避難して音を防ぎます。この音を前にも聞いたことがあるというなんこつ。いったい何の音？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ほねチキン：花江夏樹",
+            "スキップガエル先生：花江夏樹",
+            "りんごあめ：石川由依",
+            "だんご：石川由依",
+            "くしかつ：花江夏樹",
+            "なんこつ：花江夏樹",
+            "水と油のようせい：石川由依",
+            "ナレーション：弓木英梨乃"
+        ],
+        "crews": [
+            "原作：サンエックス",
+            "監督/脚本：ラレコ",
+            "脚本：田辺茂範",
+            "振付：康本雅子",
+            "主題歌：弓木英梨乃",
+            "アニメーション制作：ファンワークス"
+        ],
+        "copyrights": [
+            "(C)San‐X／チキップダンサーズおどるん会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711971357,
+    "endAt": 1743433200,
+    "transcodeVersion": "2iUwAk",
+    "sharedLink": {
+        "twitter": "https://abema.app/XZcS",
+        "facebook": "https://abema.app/VzLM",
+        "google": "https://abema.app/Fjha",
+        "line": "https://abema.app/QVr3",
+        "copy": "https://abema.app/FZeR",
+        "instagram": "https://abema.app/JBzh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/169-122_s3_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/169-122_s3_p10/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/169-122_s3_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.169-122_s3_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 297.03006666666664,
+        "opening": {
+            "end": 29.69633333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "169-122_s3_p11",
+        "title": "第11話 ラップでブンバッ！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711971357,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/169-122_s3_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "169-122_eg0",
+    "skipVmap": true
+}

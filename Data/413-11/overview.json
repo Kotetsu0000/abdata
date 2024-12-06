@@ -1,0 +1,74 @@
+{
+    "id": "413-11",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "title": "月刊モー想科学",
+    "content": "舞台はとある国にある街モーストシティ。\n古びたビルの２Fに『月刊モー想科学』を発行する小さな出版社があった。\n\n『月刊モー想科学』は奇想天外で「も～びっくり！」な事件、\n科学者でも「も～無理！」なオーバーサイエンスな現象を記事にしている科学雑誌である。\nスタッフは美人編集長と編集者のタロー・Ｊ・鈴木だけ。\nそれに加えてアシスタントの小学生ジロー・田中と犬のサブローがいるのみだ。\n編集部はいつも空で、タローとジローとサブローは\n同じビルの１Fにある喫茶『岩(ロック)』に入り浸っていた。\n\nある日、科学者のゴロー・佐藤が相談に訪れたことから、奇想天外な物語が始まるのだった……。",
+    "seasons": [
+        {
+            "id": "413-11_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/413-11_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1704357813",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "413-11_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)馬谷いちご/モー製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1730690245270889005",
+    "imageUpdatedAt": 1704357789,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/URBH",
+        "facebook": "https://abema.app/zK2W",
+        "google": "https://abema.app/SsTp",
+        "line": "https://abema.app/5eG9",
+        "copy": "https://abema.app/PKcm",
+        "instagram": "https://abema.app/cgyR"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-11",
+        "filename": "thumb.png",
+        "query": "version=1704357789",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-11",
+        "filename": "portrait.png",
+        "query": "version=1704357789",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

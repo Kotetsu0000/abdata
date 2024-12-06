@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p23",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 バミューダ・トライアングル　パート１",
+        "content": "今回の荷物の届け先は、バミューダ諸島のハミルトン。ジェットは、ジェットのことが大好きなアーロンに誕生日ケーキを届ける予定だった。しかし途中で、バミューダ･トライアングルを通過したときに、嵐に巻き込まれてしまった。荷物を落とし、ジェットもダレル島に不時着する。ジェットの荷物を拾った飛行機のフリップは、代わりにアーロンに届けてあげる。ジェットを見つけるため、スーパー・ウィングスが捜索に出動。スーパー・ウィングスの一員になるのが夢だったフリップは、彼らの力になろうとする。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "2LVVAD",
+    "sharedLink": {
+        "twitter": "https://abema.app/NxSX",
+        "facebook": "https://abema.app/Pz42",
+        "google": "https://abema.app/vH4z",
+        "line": "https://abema.app/Nv4X",
+        "copy": "https://abema.app/tUqB",
+        "instagram": "https://abema.app/pM1A"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p23/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.0676666666667,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p24",
+        "title": "第24話 バミューダ・トライアングル　パート２",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

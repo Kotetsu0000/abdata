@@ -1,0 +1,142 @@
+{
+    "id": "5-68_s1_p21",
+    "series": {
+        "id": "5-68",
+        "title": "ELEMON",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "thumb.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "portrait.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-68_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 654
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話　ハンドメイドのススメ",
+        "content": "ＤＩＹを始めたレオの父ジョシュア。だが、手先が不器用でなかなかうまくいかない。ＤＩＹの先生をしてもらうため、レオは造るのが得意なエレモン＝セメントスを生み出す。だが、セメントスは芸術家で気難しく……。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "レオ・ウッド：大地　葉",
+            "エラ・ウッド：楠木ともり",
+            "ライアン・カジ：潘めぐみ"
+        ],
+        "crews": [
+            "原作：東映アニメーション",
+            "原案：シオン・カジ",
+            "企画：鈴木篤志、森山義秀、シオン・カジ、三浦謙介",
+            "プロデューサー：森山義秀、シオン・カジ、龍 貴大",
+            "ラインプロデューサー：浦田鉄也",
+            "シリーズ構成/脚本：和智正喜",
+            "美術監督：杉本あゆみ",
+            "撮影監督：山口あゆみ",
+            "キャラクターデザイン/総作画監督/監督：ポエ山",
+            "制作：東映アニメーション",
+            "制作協力：ナニビト",
+            "製作：東映アニメーション・Rymation・アナライズログ"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション・Rymation・AnalyzeLog"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728366184,
+    "endAt": 1764514800,
+    "transcodeVersion": "4k6NRu",
+    "sharedLink": {
+        "twitter": "https://abema.app/vFkD",
+        "facebook": "https://abema.app/B5TR",
+        "google": "https://abema.app/V7Zc",
+        "line": "https://abema.app/8RcJ",
+        "copy": "https://abema.app/H2Lk",
+        "instagram": "https://abema.app/z5ch"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p21/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-68_s1_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 594.0100833333333,
+        "ending": {
+            "start": 594.0100833333333,
+            "end": 653.9866666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-68_s1_p22",
+        "title": "第22話　ニンジャエレモン超進化",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1728366194,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-68_s1_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "5-68_eg0",
+    "skipVmap": true
+}

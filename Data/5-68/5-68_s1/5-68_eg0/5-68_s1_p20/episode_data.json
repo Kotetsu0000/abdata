@@ -1,0 +1,142 @@
+{
+    "id": "5-68_s1_p20",
+    "series": {
+        "id": "5-68",
+        "title": "ELEMON",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "thumb.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "portrait.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-68_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 666
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話　長い夜",
+        "content": "朝起きるのが苦手で夜ふかしが好きなエラ。そんなエラの前に不思議なエレモン＝マドックスが現れる。マドックスの力でずっと夜が続く世界に招待されるエラ。最初は喜んでいたものの、さみしさにたえられなくなってしまう。だが、夜の世界から戻ることが出来なくなり……。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "レオ・ウッド：大地　葉",
+            "エラ・ウッド：楠木ともり",
+            "ライアン・カジ：潘めぐみ"
+        ],
+        "crews": [
+            "原作：東映アニメーション",
+            "原案：シオン・カジ",
+            "企画：鈴木篤志、森山義秀、シオン・カジ、三浦謙介",
+            "プロデューサー：森山義秀、シオン・カジ、龍 貴大",
+            "ラインプロデューサー：浦田鉄也",
+            "シリーズ構成/脚本：和智正喜",
+            "美術監督：杉本あゆみ",
+            "撮影監督：山口あゆみ",
+            "キャラクターデザイン/総作画監督/監督：ポエ山",
+            "制作：東映アニメーション",
+            "制作協力：ナニビト",
+            "製作：東映アニメーション・Rymation・アナライズログ"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション・Rymation・AnalyzeLog"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728366176,
+    "endAt": 1764514800,
+    "transcodeVersion": "2LmxbK",
+    "sharedLink": {
+        "twitter": "https://abema.app/VG9B",
+        "facebook": "https://abema.app/sy3g",
+        "google": "https://abema.app/T56g",
+        "line": "https://abema.app/SC8z",
+        "copy": "https://abema.app/DhXE",
+        "instagram": "https://abema.app/gzFt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p20/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p20/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-68_s1_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 606.606,
+        "ending": {
+            "start": 606.606,
+            "end": 666.6242916666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-68_s1_p21",
+        "title": "第21話　ハンドメイドのススメ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1728366184,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-68_s1_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "5-68_eg0",
+    "skipVmap": true
+}

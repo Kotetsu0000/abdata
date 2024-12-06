@@ -1,0 +1,159 @@
+{
+    "id": "397-19_s1_p5",
+    "series": {
+        "id": "397-19",
+        "title": "TVアニメ「オリエント」 安芸旅立ち編",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/397-19",
+            "filename": "thumb.png",
+            "query": "version=1641875446",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/397-19",
+            "filename": "portrait.png",
+            "query": "version=1641875446",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "397-19_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 明日を選ぶ",
+        "content": "つぐみに奪われた鬼鉄騎を取り返すため、五月雨城にやって来た武蔵と小次郎。そこに木霊鬼の大群が迫る。木霊鬼は一体一体は弱いが、群れとなり押し寄せると災害のような破壊力を発揮する厄介な鬼だ。その木霊鬼を倒すべく、五月雨城城主・小雨田英雄は領民に対して、ある命令を下す。それは同時に、つぐみに苦渋の決断を迫るものだった……。\n果たして、武蔵と小次郎は木霊鬼に勝てるのか！？"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "武蔵：内田雄馬",
+            "鐘巻小次郎：斉藤壮馬",
+            "服部つぐみ：高橋李依",
+            "武田尚虎：日野　聡",
+            "犬飼四郎：下野　紘",
+            "犬坂七緒：和氣あず未",
+            "小雨田英雄：羽多野　渉"
+        ],
+        "crews": [
+            "原作：大高 忍（別冊少年マガジン連載／講談社）",
+            "監督：柳沢テツヤ",
+            "シリーズ構成：國澤真理子",
+            "キャラクターデザイン：岸田隆宏",
+            "音楽：深澤秀行",
+            "アニメーション制作：Ａ・Ｃ・Ｇ・Ｔ",
+            "製作：「オリエント」製作委員会"
+        ],
+        "copyrights": [
+            "(C)大高忍・講談社／「オリエント」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699521436,
+    "endAt": 1756652400,
+    "transcodeVersion": "RQEtn",
+    "sharedLink": {
+        "twitter": "https://abema.app/R77F",
+        "facebook": "https://abema.app/MZak",
+        "google": "https://abema.app/g7if",
+        "line": "https://abema.app/Q5Y3",
+        "copy": "https://abema.app/tvcE",
+        "instagram": "https://abema.app/X5as"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/397-19_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/397-19_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/397-19_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.397-19_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.003555,
+        "opening": {
+            "start": 65.0531,
+            "end": 152.0531
+        },
+        "ending": {
+            "start": 1315.003555,
+            "end": 1405.003555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "397-19_s1_p6",
+        "title": "第6話 もっと強く",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699521436,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/397-19_s1_p5/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "397-19_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,139 @@
+{
+    "id": "273-583_s1_p13",
+    "series": {
+        "id": "273-583",
+        "title": "すとぷりくえすとっ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "thumb.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "portrait.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-583_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 13,
+        "title": "#13 さとみが全力で挑戦! オリジナルエクササイズにくえすとっ!",
+        "content": "人気エンタメユニット「すとぷり」の冠番組!▽りすなーからのリクエスト企画!▽さとみがオリジナルエクササイズ作りに挑戦!▽ビリー隊長の弟子からの厳しい指導!▽人気YouTuberオガトレのリズムゲームエクササイズ!▽全員で本気のエクササイズに倒れ込むメンバーも・・・"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696237315,
+    "endAt": 1761922800,
+    "transcodeVersion": "69T3T4",
+    "sharedLink": {
+        "twitter": "https://abema.app/hstS",
+        "facebook": "https://abema.app/qvuu",
+        "google": "https://abema.app/WFvA",
+        "line": "https://abema.app/ZR1s",
+        "copy": "https://abema.app/A62L",
+        "instagram": "https://abema.app/A8jw"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/273-583_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/273-583_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/273-583_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-583_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1435.0336
+    },
+    "nextProgramInfo": {
+        "programId": "273-583_s1_p14",
+        "title": "#14 すとぷりに癒しを与えろ! すとぷりヒーリングくえすとっ!前編",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1696237315,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-583_s1_p13/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-583_eg0",
+    "skipVmap": true
+}

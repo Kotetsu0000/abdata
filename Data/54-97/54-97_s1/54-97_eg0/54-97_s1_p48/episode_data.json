@@ -1,0 +1,127 @@
+{
+    "id": "54-97_s1_p48",
+    "series": {
+        "id": "54-97",
+        "title": "ぬいストーリー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "thumb.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "portrait.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-97_s1",
+        "sequence": 1,
+        "name": "ぬいストーリー",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 110
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 48,
+        "title": "第48話 ぬい喧嘩",
+        "content": "ポテトチップスっておいしいよね。ぬいたちは今、どの味をママに買ってもらうかで大喧嘩してるよ！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督:いくピソ・ゆうピソ",
+            "脚本:いくピソ・ゆうピソ",
+            "デザイン:いくピソ",
+            "アニメーション:ゆうピソ",
+            "BGM:Audiostock",
+            "効果音:効果音ラボ・Audiostock"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733471950,
+    "endAt": 1822316400,
+    "transcodeVersion": "5fqLi5",
+    "sharedLink": {
+        "twitter": "https://abema.app/9qHG",
+        "facebook": "https://abema.app/c3Rz",
+        "google": "https://abema.app/XhHj",
+        "line": "https://abema.app/bQrA",
+        "copy": "https://abema.app/rEox",
+        "instagram": "https://abema.app/e2Ss"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-97_s1_p48/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-97_s1_p48/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-97_s1_p48/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-97_s1_p48"
+    },
+    "viewingPoint": {
+        "suggestion": 105.7056
+    },
+    "nextProgramInfo": {
+        "programId": "54-97_s1_p49",
+        "title": "第49話 ぬいラーメン",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1733471950,
+        "endAt": 1822316400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1822316400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-97_s1_p48/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1822316400
+        }
+    ],
+    "episodeGroupId": "54-97_eg0",
+    "skipVmap": true
+}

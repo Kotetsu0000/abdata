@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p11",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 迷子のパンダ",
+        "content": "お届け先は中国の成都。ウェンにパンダスーツを届けたジェットは、逃げ出した赤ちゃんパンダのミンを捜すことに。ウェン親子とポール、グランド・アルバートの協力で無事にミンを見つけ、親パンダの元に戻すことに成功するのだった"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018364,
+    "endAt": 1740754800,
+    "transcodeVersion": "4HLhbi",
+    "sharedLink": {
+        "twitter": "https://abema.app/sEp2",
+        "facebook": "https://abema.app/Dw1M",
+        "google": "https://abema.app/X2sD",
+        "line": "https://abema.app/nsaR",
+        "copy": "https://abema.app/7cKk",
+        "instagram": "https://abema.app/Uduh"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s1_p11/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s1_p11/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p12",
+        "title": "第12話 でっかいちっさい赤ちゃん",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018364,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

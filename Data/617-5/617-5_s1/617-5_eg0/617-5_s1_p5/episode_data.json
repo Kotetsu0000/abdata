@@ -1,0 +1,159 @@
+{
+    "id": "617-5_s1_p5",
+    "series": {
+        "id": "617-5",
+        "title": "ホロのぐらふぃてぃ",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/617-5",
+            "filename": "thumb.png",
+            "query": "version=1703381235",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/617-5",
+            "filename": "portrait.png",
+            "query": "version=1703381235",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "617-5_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 857
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "ホロのぐらふてぃ5",
+        "content": "ショッピングモールで暴走したい！/食われるかも……/先輩の〇〇を隠蔽したい/出ちゃった……/お前には負けられない/絶対に許さない！/怒ると誰だって怖い/まだ誰にも見せてない/当たっちゃった……"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ときのそら",
+            "ロボ子さん",
+            "夜空メル",
+            "アキ・ローゼンタール",
+            "赤井はあと",
+            "白上フブキ",
+            "夏色まつり",
+            "湊あくあ",
+            "紫咲シオン",
+            "百鬼あやめ",
+            "癒月ちょこ",
+            "大空スバル",
+            "AZKi",
+            "大神ミオ",
+            "さくらみこ",
+            "猫又おかゆ",
+            "戌神ころね",
+            "兎田ぺこら",
+            "宝鐘マリン",
+            "不知火フレア",
+            "潤羽るしあ",
+            "白銀ノエル",
+            "星街すいせい",
+            "角巻わため",
+            "常闇トワ",
+            "桐生ココ",
+            "天音かなた",
+            "姫森ルーナ",
+            "雪花ラミィ",
+            "桃鈴ねね",
+            "獅白ぼたん",
+            "尾丸ポルカ",
+            "風真いろは",
+            "沙花叉クロヱ",
+            "博衣こより",
+            "鷹嶺ルイ",
+            "ラプラス・ダークネス"
+        ],
+        "crews": [
+            "カバー株式会社"
+        ],
+        "copyrights": [
+            "(C) 2016 COVER Corp."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703225515,
+    "endAt": 1735657200,
+    "transcodeVersion": "YGLki",
+    "sharedLink": {
+        "twitter": "https://abema.app/7rAe",
+        "facebook": "https://abema.app/Nqx2",
+        "google": "https://abema.app/oiqF",
+        "line": "https://abema.app/VaeY",
+        "copy": "https://abema.app/j1nE",
+        "instagram": "https://abema.app/MdZE"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/617-5_s1_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/617-5_s1_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/617-5_s1_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.617-5_s1_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 851.851
+    },
+    "nextProgramInfo": {
+        "programId": "617-5_s1_p6",
+        "title": "ホロのぐらふてぃ6",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1703219315,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/617-5_s1_p5/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "617-5_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,129 @@
+{
+    "id": "27-1_s2_p14",
+    "series": {
+        "id": "27-1",
+        "title": "オシリスの天秤",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "thumb.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "portrait.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "27-1_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 301
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 14,
+        "title": "Target 14 最初の仕事",
+        "content": "少年は初めて力を使った・・・・・・大切な人のために・・・・・・"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "梶裕貴",
+            "小松由佳",
+            "宮野真守",
+            "他"
+        ],
+        "crews": [
+            "監督:冨士川祐輔",
+            "脚本:笠井健夫"
+        ],
+        "copyrights": [
+            "(C)フジテレビジョン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683690736,
+    "endAt": 1743433200,
+    "transcodeVersion": "7Qjttj",
+    "sharedLink": {
+        "twitter": "https://abema.app/voMK",
+        "facebook": "https://abema.app/MeLW",
+        "google": "https://abema.app/b1Wg",
+        "line": "https://abema.app/xD2C",
+        "copy": "https://abema.app/8j9b",
+        "instagram": "https://abema.app/8cBj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p14/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p14/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p14/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.27-1_s2_p14"
+    },
+    "viewingPoint": {
+        "suggestion": 271.060655,
+        "ending": {
+            "start": 271.060655,
+            "end": 301.0237
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "27-1_s2_p15",
+        "title": "Target 15 選定の基準",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683690742,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/27-1_s2_p14/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "27-1_eg0",
+    "skipVmap": true
+}

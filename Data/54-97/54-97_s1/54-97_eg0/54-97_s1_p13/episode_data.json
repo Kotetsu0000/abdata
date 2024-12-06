@@ -1,0 +1,127 @@
+{
+    "id": "54-97_s1_p13",
+    "series": {
+        "id": "54-97",
+        "title": "ぬいストーリー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "thumb.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "portrait.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-97_s1",
+        "sequence": 1,
+        "name": "ぬいストーリー",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 101
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 どっひゃー！",
+        "content": "え、満月！？ヤバい、気が付かなかった。ミチコ、逃げろ！"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督:いくピソ・ゆうピソ",
+            "脚本:いくピソ・ゆうピソ",
+            "デザイン:いくピソ",
+            "アニメーション:ゆうピソ",
+            "BGM:Audiostock",
+            "効果音:効果音ラボ・Audiostock"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733471949,
+    "endAt": 1822316400,
+    "transcodeVersion": "2B11qK",
+    "sharedLink": {
+        "twitter": "https://abema.app/riUw",
+        "facebook": "https://abema.app/ss1s",
+        "google": "https://abema.app/RrZX",
+        "line": "https://abema.app/PUvE",
+        "copy": "https://abema.app/1Hkj",
+        "instagram": "https://abema.app/RNDj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-97_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-97_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-97_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-97_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 96.2962
+    },
+    "nextProgramInfo": {
+        "programId": "54-97_s1_p14",
+        "title": "第14話 ゲーマーミチコ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1733471949,
+        "endAt": 1822316400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1822316400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-97_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1822316400
+        }
+    ],
+    "episodeGroupId": "54-97_eg0",
+    "skipVmap": true
+}

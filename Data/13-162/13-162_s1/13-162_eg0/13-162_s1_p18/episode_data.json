@@ -1,0 +1,123 @@
+{
+    "id": "13-162_s1_p18",
+    "series": {
+        "id": "13-162",
+        "title": "浪川んちに集合な！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "thumb.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "portrait.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-162_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1442
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 18,
+        "title": "#18 ゲスト：高木 渉",
+        "content": "浪川大輔がゲストの声優・俳優の高木 渉と楽しくおしゃべり♪デビュー当時の心境▽主役の心構え▽芝居に対する考え方▽大河ドラマ出演の経緯▽声優と俳優の違い▽嫌いな人▽関係者からのタレコミ▽高木さんの「ここがすごい」▽困ったエピソード▽ここだけは直してほしい▽感謝していること"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "浪川大輔",
+            "ナレーション：杉山紀彰",
+            "関智 一"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)namikawanchi"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703762228,
+    "endAt": 1735657200,
+    "transcodeVersion": "5vK1E9",
+    "sharedLink": {
+        "twitter": "https://abema.app/y4oR",
+        "facebook": "https://abema.app/K1TM",
+        "google": "https://abema.app/bFD5",
+        "line": "https://abema.app/9Pqh",
+        "copy": "https://abema.app/aetZ",
+        "instagram": "https://abema.app/9yw8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p18/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p18/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p18/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-162_s1_p18"
+    },
+    "viewingPoint": {
+        "suggestion": 1396.017822
+    },
+    "nextProgramInfo": {
+        "programId": "13-162_s1_p19",
+        "title": "#19 ゲスト：山寺宏一",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1703762228,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-162_s1_p18/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "13-162_eg0",
+    "skipVmap": true
+}

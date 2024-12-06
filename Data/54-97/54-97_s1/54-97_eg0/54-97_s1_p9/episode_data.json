@@ -1,0 +1,127 @@
+{
+    "id": "54-97_s1_p9",
+    "series": {
+        "id": "54-97",
+        "title": "ぬいストーリー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "thumb.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "portrait.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-97_s1",
+        "sequence": 1,
+        "name": "ぬいストーリー",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 96
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 ミチコは女子高生",
+        "content": "ねぇ、ミチコ。聞いてもいい…？ミチコって普段なにしてるの？"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督:いくピソ・ゆうピソ",
+            "脚本:いくピソ・ゆうピソ",
+            "デザイン:いくピソ",
+            "アニメーション:ゆうピソ",
+            "BGM:Audiostock",
+            "効果音:効果音ラボ・Audiostock"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733471949,
+    "endAt": 1822316400,
+    "transcodeVersion": "4v3pg7",
+    "sharedLink": {
+        "twitter": "https://abema.app/muyK",
+        "facebook": "https://abema.app/kMbH",
+        "google": "https://abema.app/EnMS",
+        "line": "https://abema.app/3pdk",
+        "copy": "https://abema.app/cgW7",
+        "instagram": "https://abema.app/HYaQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-97_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-97_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-97_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-97_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 91.4914
+    },
+    "nextProgramInfo": {
+        "programId": "54-97_s1_p10",
+        "title": "第10話 みんなのくしゃみ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1733471949,
+        "endAt": 1822316400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1822316400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-97_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1822316400
+        }
+    ],
+    "episodeGroupId": "54-97_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s1_p9",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1386
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "episode9 戦え アテナのために!",
+        "content": "青銅聖闘士(ブロンズセイント)の仲間との再会を果たし、星矢たちは沙織の元へと向かう。しかし再会に喜ぶ間もなく、烏座(クロウ)のジャミアンに沙織をさらわれてしまう。さらにペルセウス座のアルゴル、地獄の番犬座(ケルベロス)のダンテからも狙われ、青銅聖闘士は試練の時を迎える。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993525,
+    "endAt": 1759244400,
+    "transcodeVersion": "5ujLGa",
+    "sharedLink": {
+        "twitter": "https://abema.app/tXiv",
+        "facebook": "https://abema.app/FMPz",
+        "google": "https://abema.app/5ptY",
+        "line": "https://abema.app/cztJ",
+        "copy": "https://abema.app/uqWY",
+        "instagram": "https://abema.app/wf3K"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-39_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-39_s1_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-39_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1296.318222,
+        "opening": {
+            "start": 6.029222,
+            "end": 125.856677
+        },
+        "ending": {
+            "start": 1296.318222,
+            "end": 1386.997574
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s1_p10",
+        "title": "episode10 挑戦",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993525,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

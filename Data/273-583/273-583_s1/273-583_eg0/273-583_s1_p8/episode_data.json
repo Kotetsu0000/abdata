@@ -1,0 +1,139 @@
+{
+    "id": "273-583_s1_p8",
+    "series": {
+        "id": "273-583",
+        "title": "すとぷりくえすとっ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "thumb.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "portrait.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-583_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "#8 夏休み特別企画!謎解き×ケイドロのオリジナルゲームにくえすとっ!後編",
+        "content": "人気エンタメユニット「すとぷり」の冠番組!▽すとぷり流「ケイドロ」後半戦!いちごニキがいきなり仕掛ける!?▽人気トリオ・四千頭身参戦!▽すとぷりまさかの全員逮捕の危機!?▽クエストクリア目指して難問を解け!"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696237315,
+    "endAt": 1761922800,
+    "transcodeVersion": "5x4vQy",
+    "sharedLink": {
+        "twitter": "https://abema.app/qD3Z",
+        "facebook": "https://abema.app/3Nv6",
+        "google": "https://abema.app/ZzKM",
+        "line": "https://abema.app/qhee",
+        "copy": "https://abema.app/dLTV",
+        "instagram": "https://abema.app/kb28"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/273-583_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/273-583_s1_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/273-583_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-583_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.616423
+    },
+    "nextProgramInfo": {
+        "programId": "273-583_s1_p9",
+        "title": "#9 大人の魅力を手に入れろ!いい男選手権にくえすとっ!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1696237315,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-583_s1_p8/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-583_eg0",
+    "skipVmap": true
+}

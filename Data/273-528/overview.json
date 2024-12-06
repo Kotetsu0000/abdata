@@ -1,0 +1,74 @@
+{
+    "id": "273-528",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "すとぷりのHere!We!GO!!",
+    "content": "Here!We!GO!!『さぁ!行こう!』をテーマに、すとぷりメンバーがバーチャルとリアルを行き来しながら様々な\"楽しい\"に挑戦する新時代のバラエティ番組!",
+    "seasons": [
+        {
+            "id": "273-528_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/273-528_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683023165",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "273-528_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) STPR Inc."
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1727692461919518478",
+    "imageUpdatedAt": 1671099042,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/MfbR",
+        "facebook": "https://abema.app/ekV2",
+        "google": "https://abema.app/gQjC",
+        "line": "https://abema.app/zdUp",
+        "copy": "https://abema.app/zWQb",
+        "instagram": "https://abema.app/D4Ku"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+        "filename": "thumb.png",
+        "query": "version=1671099042",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+        "filename": "portrait.png",
+        "query": "version=1671099042",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

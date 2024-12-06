@@ -1,0 +1,131 @@
+{
+    "id": "13-162_s1_p8",
+    "series": {
+        "id": "13-162",
+        "title": "浪川んちに集合な！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "thumb.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "portrait.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-162_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1442
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "#8 ゲスト：大橋海咲＆三波春香（IBERIs&）",
+        "content": "浪川大輔がゲストの新人声優・大橋海咲＆三波春香と楽しくおしゃべり♪ オーディションの志望動機 ▽声優ガールズユニット・IBERIs&（イベリスアンド） ▽推しポイント ▽浪川大輔に聞きたいこと ▽マネージャーからのタレコミ情報"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "浪川大輔",
+            "下野紘",
+            "津田健次郎",
+            "ファイルーズあい",
+            "坂田将吾",
+            "三野雄大",
+            "大橋海咲",
+            "三波春香",
+            "オーイシマサヨシ",
+            "関智一",
+            "ナレーション：杉山紀彰"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)namikawanchi"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703762227,
+    "endAt": 1735657200,
+    "transcodeVersion": "7JvWS",
+    "sharedLink": {
+        "twitter": "https://abema.app/8qiv",
+        "facebook": "https://abema.app/Sv8X",
+        "google": "https://abema.app/tY7E",
+        "line": "https://abema.app/ovyD",
+        "copy": "https://abema.app/KJzH",
+        "instagram": "https://abema.app/Q4Az"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-162_s1_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-162_s1_p8/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-162_s1_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-162_s1_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1401.056076
+    },
+    "nextProgramInfo": {
+        "programId": "13-162_s1_p9",
+        "title": "#9 ゲスト：オーイシマサヨシ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1703762227,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-162_s1_p8/4/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "13-162_eg0",
+    "skipVmap": true
+}

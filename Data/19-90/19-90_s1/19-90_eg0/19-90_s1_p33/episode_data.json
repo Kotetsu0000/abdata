@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p33",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 33,
+        "title": "第33話 チームプレイは大切",
+        "content": "インドネシアに住む双子のディマスとディアンのもとへ配達に向かうジェット。ディマスとディアンはインドネシアでも屈指のバドミントン選手。昔は仲良くプレーしていたが、今はどちらが１番かを競ってばかり。そんな２人を仲良くさせようと双子のママはダブルスの大会に申し込む。うまくチームプレーができない２人に昔の写真を見せようとジェットはアルバムを取りに行くが、途中で火山が噴火。スーパー・ウィングスが駆けつけ、なんとか噴火を食い止める。そして双子の写真を大会会場に映し出すと、ディマスとディアンは昔を思い出して仲良くプレーができるように。そんなチームプレーが功を奏して２人は大会で優勝する。"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "27wuJB",
+    "sharedLink": {
+        "twitter": "https://abema.app/CGPx",
+        "facebook": "https://abema.app/K8FG",
+        "google": "https://abema.app/JkyV",
+        "line": "https://abema.app/S7KZ",
+        "copy": "https://abema.app/mzqv",
+        "instagram": "https://abema.app/gby3"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p33/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p33/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-90_s1_p33/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p33"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p34",
+        "title": "第34話 雪の中飛びまわれ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p33/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

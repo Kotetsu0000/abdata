@@ -1,0 +1,134 @@
+{
+    "id": "622-3_s1_p7",
+    "series": {
+        "id": "622-3",
+        "title": "放送室の着ぐるみガール",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "thumb.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "portrait.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "622-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 312
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 ついに明かされる！？着ぐるみガールの秘密とは",
+        "content": "放送部の合宿で次第に心を開き始めるゆるり。直たちに着ぐるみを着ている理由を少しずつ話し始める。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "来栖直：朝ノ瑠璃",
+            "音瀬りん：梅村美緒奈",
+            "早川千里：三浦陽子",
+            "ほか"
+        ],
+        "crews": [
+            "--"
+        ],
+        "copyrights": [
+            "(C) DIGIMERCE Inc. All Rights Reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713178578,
+    "endAt": 1746025200,
+    "transcodeVersion": "7UY1r8",
+    "sharedLink": {
+        "twitter": "https://abema.app/JS8e",
+        "facebook": "https://abema.app/pC14",
+        "google": "https://abema.app/ruwn",
+        "line": "https://abema.app/UMHF",
+        "copy": "https://abema.app/6ybT",
+        "instagram": "https://abema.app/qwYW"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/622-3_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/622-3_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/622-3_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.622-3_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 267.9677,
+        "ending": {
+            "start": 267.9677,
+            "end": 289.95633333333336
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "622-3_s1_p8",
+        "title": "第8話 ゆるりの決意！温泉で近づく心の距離",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713178578,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/622-3_s1_p7/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "622-3_eg0",
+    "skipVmap": true
+}

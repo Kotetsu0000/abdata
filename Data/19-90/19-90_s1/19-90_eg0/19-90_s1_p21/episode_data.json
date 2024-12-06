@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p21",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 21,
+        "title": "第21話 僕らはスーパー・セブン",
+        "content": "お届け先はアメリカ、ワイオミング州。開拓時代のテーマパークの保安官スザンナに投げ縄を届けたジェットは助手にしてもらう。機関車のケイトが石炭による咳で困っていたため、ディジーとドニーが太陽光発電に改造。ケイトは子どもたちを乗せ走り出すが強い日差しで暴走し崖へと向かってしまう。そこでスザンナとジェットたちが協力し、新たな線路と投げ縄でケイトたちを救うのだった。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "yjHDz",
+    "sharedLink": {
+        "twitter": "https://abema.app/GMik",
+        "facebook": "https://abema.app/dez2",
+        "google": "https://abema.app/R4Ks",
+        "line": "https://abema.app/XPVi",
+        "copy": "https://abema.app/bn2z",
+        "instagram": "https://abema.app/Tvoj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s1_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s1_p21/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s1_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p22",
+        "title": "第22話 クジラ・パニック",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,131 @@
+{
+    "id": "168-41_s1_p1",
+    "series": {
+        "id": "168-41",
+        "title": "ネコぱらOVA",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-41",
+            "filename": "thumb.png",
+            "query": "version=1671178150",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-41",
+            "filename": "portrait.png",
+            "query": "version=1671178150",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-41_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3484
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "ネコぱらOVA",
+        "content": "水無月嘉祥(みなづき かしょう)は伝統ある老舗和菓子屋である実家を出て、パティシエとして自身のケーキ屋『ラ・ソレイユ』を一人で開店する。\nしかし実家から送った引っ越し荷物の中に、実家で飼っていた人型ネコのショコラとバニラが紛れ込んでいた。\n追い返そうとするも二匹の必死の嘆願に嘉祥が折れて、ついに一人と二匹でソレイユをオープンすることに。\n\n大好きなご主人様のために、失敗しながらも一生懸命頑張るネコ二匹が織り成す、このハートフルなネココメディ、ここに開店！"
+    },
+    "credit": {
+        "released": 2017,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "原作：NEKO WORKs",
+            "キャラクター原案＆監修：さより(NEKO WORKs)",
+            "シナリオ原案＆監修：雪仁(NEKO WORKs)",
+            "プロデューサー：アンコウ(NEKO WORKs)／中西孝(ixtl)",
+            "キャラクターデザイン・総作画監督：平野勇一",
+            "総作画監督補：三島千枝／坂本千代子",
+            "脚本：菊地悠太",
+            "色彩設計：田中千春",
+            "美術監督：倉田憲一",
+            "撮影監督：岩井和也",
+            "3Dディレクター：高橋圭佑",
+            "アニメーションプロデューサー：中智仁",
+            "音響監督：飯田里樹",
+            "音楽プロデューサー：鈴木順（ハーフトーンミュージック）",
+            "音楽：前田雄吾（ハーフトーンミュージック）",
+            "音楽制作：西村信乃（ハーフトーンミュージック）",
+            "オリジナル楽曲制作：水城新人",
+            "OP/ED音楽プロデューサー：西村潤",
+            "監督：林宏樹",
+            "制作：ixtl×Felix Film"
+        ],
+        "copyrights": [
+            "(C) 2017 NEKO WORKs All Rights Reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683629879,
+    "endAt": 1746025200,
+    "transcodeVersion": "PPWzp",
+    "sharedLink": {
+        "twitter": "https://abema.app/sbpc",
+        "facebook": "https://abema.app/e4iL",
+        "google": "https://abema.app/sLpy",
+        "line": "https://abema.app/3FpT",
+        "copy": "https://abema.app/o9Uf",
+        "instagram": "https://abema.app/4tZt"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-41_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-41_s1_p1/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-41_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-41_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 3253.685245
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-41_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "168-41_eg0",
+    "skipVmap": true
+}

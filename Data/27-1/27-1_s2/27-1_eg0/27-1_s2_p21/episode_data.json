@@ -1,0 +1,115 @@
+{
+    "id": "27-1_s2_p21",
+    "series": {
+        "id": "27-1",
+        "title": "オシリスの天秤",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "thumb.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "portrait.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "27-1_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 561
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 21,
+        "title": "Target 21 死神の喪神",
+        "content": "悪魔になった人間と人間になった悪魔。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "梶裕貴",
+            "小松由佳",
+            "宮野真守",
+            "他"
+        ],
+        "crews": [
+            "監督:冨士川祐輔",
+            "脚本:笠井健夫"
+        ],
+        "copyrights": [
+            "(C)フジテレビジョン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683690780,
+    "endAt": 1743433200,
+    "transcodeVersion": "rnLwm",
+    "sharedLink": {
+        "twitter": "https://abema.app/ABKV",
+        "facebook": "https://abema.app/476o",
+        "google": "https://abema.app/Fqwb",
+        "line": "https://abema.app/Xb5j",
+        "copy": "https://abema.app/9gyS",
+        "instagram": "https://abema.app/xZA3"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p21/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p21/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/27-1_s2_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.27-1_s2_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 531.053722,
+        "ending": {
+            "start": 531.053722,
+            "end": 561.050133
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/27-1_s2_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "27-1_eg0",
+    "skipVmap": true
+}

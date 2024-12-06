@@ -1,0 +1,123 @@
+{
+    "id": "13-162_s1_p24",
+    "series": {
+        "id": "13-162",
+        "title": "浪川んちに集合な！",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "thumb.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-162",
+            "filename": "portrait.png",
+            "query": "version=1688607112",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-162_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_44",
+                "name": "声優番組・ラジオ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1441
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 24,
+        "title": "#24 ゲスト：代永 翼",
+        "content": "浪川大輔がゲストの声優・代永 翼と楽しくおしゃべり♪ボケorツッコミ▽いじりやすい先輩▽いじられ声優▽同世代の声優▽モチベーションの上げ方▽気持ちの切り替え▽涙もろい性格▽浪川大輔の印象▽関係者からのタレコミ▽代永さんの「ここがすごい」▽困ったエピソード▽ここだけは直してほしい▽仕事に行く前の準備▽美容のこだわり▽オンとオフのギャップ▽感謝していること▽嫌いな食べ物"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "浪川大輔",
+            "ナレーション：杉山紀彰",
+            "関智 一"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)namikawanchi"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1703762228,
+    "endAt": 1735657200,
+    "transcodeVersion": "5RM7rr",
+    "sharedLink": {
+        "twitter": "https://abema.app/ZzZE",
+        "facebook": "https://abema.app/B68v",
+        "google": "https://abema.app/MJh3",
+        "line": "https://abema.app/jMqh",
+        "copy": "https://abema.app/chjX",
+        "instagram": "https://abema.app/mWKR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p24/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p24/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-162_s1_p24/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-162_s1_p24"
+    },
+    "viewingPoint": {
+        "suggestion": 1394.9936
+    },
+    "nextProgramInfo": {
+        "programId": "13-162_s1_p25",
+        "title": "#25 ゲスト：逢田梨香子",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1703762228,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-162_s1_p24/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "13-162_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,148 @@
+{
+    "id": "169-122_s3_p7",
+    "series": {
+        "id": "169-122",
+        "title": "チキップダンサーズ",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-122",
+            "filename": "thumb.png",
+            "query": "version=1697107822",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/169-122",
+            "filename": "portrait.png",
+            "query": "version=1697107822",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "169-122_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 302
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 ハワイでぽろろん",
+        "content": "毛布をかぶってふるえているつむぎちゃん。寒がりなだんごもふるえています。一年中あたたかいハワイに行きたいとあこがれるだんごの様子を見たほねチキンは…"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "ほねチキン：花江夏樹",
+            "スキップガエル先生：花江夏樹",
+            "りんごあめ：石川由依",
+            "だんご：石川由依",
+            "くしかつ：花江夏樹",
+            "なんこつ：花江夏樹",
+            "水と油のようせい：石川由依",
+            "ナレーション：弓木英梨乃"
+        ],
+        "crews": [
+            "原作：サンエックス",
+            "監督/脚本：ラレコ",
+            "脚本：田辺茂範",
+            "振付：康本雅子",
+            "主題歌：弓木英梨乃",
+            "アニメーション制作：ファンワークス"
+        ],
+        "copyrights": [
+            "(C)San‐X／チキップダンサーズおどるん会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711971356,
+    "endAt": 1743433200,
+    "transcodeVersion": "6Ey4vB",
+    "sharedLink": {
+        "twitter": "https://abema.app/9AAz",
+        "facebook": "https://abema.app/p2Vu",
+        "google": "https://abema.app/CCvn",
+        "line": "https://abema.app/31MM",
+        "copy": "https://abema.app/R3Sa",
+        "instagram": "https://abema.app/36j5"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/169-122_s3_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/169-122_s3_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/169-122_s3_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.169-122_s3_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 292.02506666666665,
+        "opening": {
+            "end": 29.69633333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "169-122_s3_p8",
+        "title": "第8話 しんごう ぴかぴか",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1711971356,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/169-122_s3_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "169-122_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,75 @@
+{
+    "id": "617-5",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "ホロのぐらふぃてぃ",
+    "content": "アイドルたちの可愛くてちょっぴり不思議な日常――！？\nアイドル事務所『ホロライブ』。\n配信を通じてファンと交流をする彼女たちだが、配信外では何をしているのでしょう？\n狭い事務所から離島…果ては宇宙まで…！？\n縦横無尽に駆け回りながら繰り広げられる大騒ぎの数々！\n賑やかな彼女たちのドタバタをぎゅっと詰めたショートアニメ！",
+    "seasons": [
+        {
+            "id": "617-5_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/617-5",
+                "filename": "thumb.png",
+                "query": "version=1703381235",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "617-5_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) 2016 COVER Corp."
+    ],
+    "label": {},
+    "version": "1723024439353116225",
+    "imageUpdatedAt": 1703381235,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/LgmQ",
+        "facebook": "https://abema.app/txC5",
+        "google": "https://abema.app/fE1T",
+        "line": "https://abema.app/FbK4",
+        "copy": "https://abema.app/A8rp",
+        "instagram": "https://abema.app/Y5zf"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/617-5",
+        "filename": "thumb.png",
+        "query": "version=1703381235",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/617-5",
+        "filename": "portrait.png",
+        "query": "version=1703381235",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,137 @@
+{
+    "id": "27-1_s1_p9",
+    "series": {
+        "id": "27-1",
+        "title": "オシリスの天秤",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "thumb.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "portrait.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "27-1_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 344
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "Target 09 正義の味方",
+        "content": "国家ぐるみの不正に気付いた男はいつしか命を狙われるようになった。主人公は彼を救えるか?!"
+    },
+    "credit": {
+        "released": 2015,
+        "casts": [
+            "梶裕貴",
+            "細谷佳正",
+            "小松由佳",
+            "木村良平",
+            "鈴村健一",
+            "浪川大輔",
+            "宮野真守",
+            "石塚運昇",
+            "福山潤",
+            "泊明日菜",
+            "沢城みゆき",
+            "他"
+        ],
+        "crews": [
+            "監督:冨士川祐輔",
+            "脚本:笠井健夫"
+        ],
+        "copyrights": [
+            "(C)フジテレビジョン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683690596,
+    "endAt": 1743433200,
+    "transcodeVersion": "2ijYKn",
+    "sharedLink": {
+        "twitter": "https://abema.app/8s8x",
+        "facebook": "https://abema.app/YHQq",
+        "google": "https://abema.app/TfSy",
+        "line": "https://abema.app/oUcD",
+        "copy": "https://abema.app/RgdM",
+        "instagram": "https://abema.app/F57G"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/27-1_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/27-1_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/27-1_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.27-1_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 314.036922,
+        "ending": {
+            "start": 314.036922,
+            "end": 344.033333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "27-1_s1_p10",
+        "title": "Target 10 絶望の世界",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683690596,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/27-1_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "27-1_eg0",
+    "skipVmap": true
+}

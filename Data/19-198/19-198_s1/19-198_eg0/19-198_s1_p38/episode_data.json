@@ -1,0 +1,122 @@
+{
+    "id": "19-198_s1_p38",
+    "series": {
+        "id": "19-198",
+        "title": "怪獣人形劇『ゴジばん』",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-198",
+            "filename": "thumb.png",
+            "query": "version=1715583617",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-198",
+            "filename": "portrait.png",
+            "query": "version=1715583617",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-198_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1488
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 38,
+        "title": "『「ゴジラ・フェス2022／2023」ゴジばん生公演／実演／展示』の巻",
+        "content": "2022年11月3日（木）『ゴジラ・フェス2022』にて行われたゴジばんの生公演の様子を公開します！\nところ狭し駆け回るゴジラ三兄弟とゴジゴジ島と仲間たちの活躍をお楽しみください！\nゴジラ三兄弟は、今日も元気にゴジゴジ島で特訓中。そこに、キンゴジくん、ミヤラビ、ガバラが現れ、ますます賑やかに。ヒーローに扮したガイガンと、ガイガンのお母さんマザーガイガリアンも登場するよ!!"
+    },
+    "credit": {
+        "released": 2021,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "監督・脚本・造形・編集・音楽：小林英幸",
+            "タイトルロゴ：豊田幸秀",
+            "イラスト：ヨシジマシウ"
+        ],
+        "copyrights": [
+            "TM & (Ｃ) TOHO CO., LTD."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730101142,
+    "endAt": 1751295600,
+    "transcodeVersion": "2n4ktt",
+    "sharedLink": {
+        "twitter": "https://abema.app/RZBH",
+        "facebook": "https://abema.app/AcCe",
+        "google": "https://abema.app/yNXg",
+        "line": "https://abema.app/Pxyk",
+        "copy": "https://abema.app/niWu",
+        "instagram": "https://abema.app/MFky"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-198_s1_p38/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-198_s1_p38/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-198_s1_p38/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-198_s1_p38"
+    },
+    "viewingPoint": {
+        "suggestion": 1483.1149666666668,
+        "opening": {
+            "end": 24.357666666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-198_s1_p39",
+        "title": "「ゴジばん怪獣図鑑 操演怪獣の秘密大公開！」の巻",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730101142,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-198_s1_p38/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "19-198_eg0",
+    "skipVmap": true
+}

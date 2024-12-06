@@ -1,0 +1,122 @@
+{
+    "id": "705-1_s2_p19",
+    "series": {
+        "id": "705-1",
+        "title": "Spicy Candy",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "thumb.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "portrait.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "705-1_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 59
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 19,
+        "title": "Oshikatsu",
+        "content": "モチベあがるし、人生薔薇色だし、パラダイスだし、最高しかない。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "Spicy：Cikah"
+        ],
+        "crews": [
+            "Ryosuke Aoike"
+        ],
+        "copyrights": [
+            "(C)Spicy Candy Project Committee",
+            "©SCPC"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731899253,
+    "endAt": 1764514800,
+    "transcodeVersion": "4avXGB",
+    "sharedLink": {
+        "twitter": "https://abema.app/vBs1",
+        "facebook": "https://abema.app/fLin",
+        "google": "https://abema.app/uyha",
+        "line": "https://abema.app/FKQa",
+        "copy": "https://abema.app/KChf",
+        "instagram": "https://abema.app/QHBu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p19/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p19/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p19/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.705-1_s2_p19"
+    },
+    "viewingPoint": {
+        "suggestion": 54.9549
+    },
+    "nextProgramInfo": {
+        "programId": "705-1_s2_p20",
+        "title": "G",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1731899265,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734096600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/705-1_s2_p19/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734096600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1734701400
+        }
+    ],
+    "episodeGroupId": "705-1_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,168 @@
+{
+    "id": "283-10_s3_p5",
+    "series": {
+        "id": "283-10",
+        "title": "アニメ「BanG Dream! 3rd Season」",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-10",
+            "filename": "thumb.png",
+            "query": "version=1627288013",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-10",
+            "filename": "portrait.png",
+            "query": "version=1627288013",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "283-10_s3",
+        "sequence": 3,
+        "name": "シーズン3",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_37",
+                "name": "ライブ舞台"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "#05 ポピブイ！",
+        "content": "RAISE A SUILENのMVに感銘を受けたPoppin'Party。\n自分たちもやろう！と意気込むが……？"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "戸山香澄／愛美",
+            "花園たえ／大塚紗英",
+            "牛込りみ／西本りみ",
+            "山吹沙綾／大橋彩香",
+            "市ヶ谷有咲／伊藤彩沙",
+            "美竹蘭／佐倉綾音",
+            "丸山彩／前島亜美",
+            "湊友希那／相羽あいな",
+            "弦巻こころ／伊藤美来",
+            "ほか"
+        ],
+        "crews": [
+            "原作：ブシロード",
+            "製作総指揮：木谷高明",
+            "ストーリー原案：中村 航",
+            "監督：柿本広大",
+            "シリーズ構成・脚本：綾奈ゆにこ"
+        ],
+        "copyrights": [
+            "(C)BanG Dream! Project"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699517517,
+    "endAt": 1753974000,
+    "transcodeVersion": "5EeVgk",
+    "sharedLink": {
+        "twitter": "https://abema.app/BKto",
+        "facebook": "https://abema.app/dU3d",
+        "google": "https://abema.app/jd1b",
+        "line": "https://abema.app/zHTR",
+        "copy": "https://abema.app/L79S",
+        "instagram": "https://abema.app/rMDj"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/283-10_s3_p5/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/283-10_s3_p5/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/283-10_s3_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.283-10_s3_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.045266,
+        "opening": {
+            "start": 122.026677,
+            "end": 209.026677
+        },
+        "ending": {
+            "start": 1315.045266,
+            "end": 1402.045266
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "283-10_s3_p6",
+        "title": "#06 This is it.",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699517517,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1753974000
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/283-10_s3_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1753974000
+        }
+    ],
+    "episodeGroupId": "283-10_eg0",
+    "skipVmap": true
+}

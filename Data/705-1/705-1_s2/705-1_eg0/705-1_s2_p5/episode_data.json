@@ -1,0 +1,122 @@
+{
+    "id": "705-1_s2_p5",
+    "series": {
+        "id": "705-1",
+        "title": "Spicy Candy",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "thumb.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "portrait.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "705-1_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 59
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 5,
+        "title": "私が幸せじゃない理由",
+        "content": "ねぇ、今、幸せ？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "Spicy：Cikah"
+        ],
+        "crews": [
+            "Ryosuke Aoike"
+        ],
+        "copyrights": [
+            "(C)Spicy Candy Project Committee",
+            "©SCPC"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731898529,
+    "endAt": 1764514800,
+    "transcodeVersion": "5YaJ4d",
+    "sharedLink": {
+        "twitter": "https://abema.app/KbgZ",
+        "facebook": "https://abema.app/Qtaz",
+        "google": "https://abema.app/iWRA",
+        "line": "https://abema.app/fDkt",
+        "copy": "https://abema.app/8sW8",
+        "instagram": "https://abema.app/R8bX"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.705-1_s2_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 54.9549
+    },
+    "nextProgramInfo": {
+        "programId": "705-1_s2_p6",
+        "title": "もふもふ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1731898631,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734096600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/705-1_s2_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734096600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1734701400
+        }
+    ],
+    "episodeGroupId": "705-1_eg0",
+    "skipVmap": true
+}

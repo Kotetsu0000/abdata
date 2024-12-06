@@ -1,0 +1,143 @@
+{
+    "id": "19-90_s2_p1",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s2",
+        "sequence": 2,
+        "name": "スーパーウィングス ミッションチーム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 719
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 山に住む馬の親子",
+        "content": "今回の届け先はアルゼンチン・パタゴニアの女の子ナイラ。スケッチブックが届くとナイラはさっそく野生の馬のスケッチに出かける。ナイラが描きたかった野生の馬の親子を探したが、子馬が行方不明になっていてお母さん馬は心配してオロオロしている。ジェットは応援を求め、スーパー・ウィングスのディジー、ゾーイと手分けして子馬を探す。ジェットたちは雪山のふもとの洞窟で子馬を発見するが、雪崩のせいで洞窟から出られなくなる。洞窟の外から助けに来てくれたのはゾーイとスパーキーだった。こうして、子馬は無事にお母さん馬の元に送り届けられた。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "freeEndAt": 1740754800,
+    "transcodeVersion": "FCs6i",
+    "sharedLink": {
+        "twitter": "https://abema.app/GkXT",
+        "facebook": "https://abema.app/n8bg",
+        "google": "https://abema.app/x2en",
+        "line": "https://abema.app/uX9R",
+        "copy": "https://abema.app/SWKH",
+        "instagram": "https://abema.app/6sW6"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/19-90_s2_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s2_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 705.027522
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s2_p2",
+        "title": "第2話 夢のツリーハウス",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s2_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

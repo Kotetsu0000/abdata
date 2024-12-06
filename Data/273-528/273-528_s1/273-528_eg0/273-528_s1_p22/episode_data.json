@@ -1,0 +1,139 @@
+{
+    "id": "273-528_s1_p22",
+    "series": {
+        "id": "273-528",
+        "title": "すとぷりのHere!We!GO!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "thumb.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "portrait.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-528_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 22,
+        "title": "#22 すとぷりは大人の対応をできるのか!?マナー講座にHere!We!GO!!",
+        "content": "人気エンタメユニット「すとぷり」のテレビ初冠番組!▽お世話になっている方に大人の対応はできている?▽マナー講師・平林都先生が徹底指導!▽電話応対や名刺交換!お礼のメールまで!▽先生の厳しい指導に倒れ込むメンバーも!?▽一番マナーが悪かったメンバーは誰だ!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1685958158,
+    "endAt": 1761922800,
+    "transcodeVersion": "4hEsHi",
+    "sharedLink": {
+        "twitter": "https://abema.app/rLZo",
+        "facebook": "https://abema.app/oTS9",
+        "google": "https://abema.app/yFeB",
+        "line": "https://abema.app/S8c5",
+        "copy": "https://abema.app/ky3N",
+        "instagram": "https://abema.app/J2gL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p22/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p22/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/273-528_s1_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-528_s1_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 1430.626446
+    },
+    "nextProgramInfo": {
+        "programId": "273-528_s1_p23",
+        "title": "#23 外国人りすなーを増やそう!海外への魅力発信にHere!We!GO!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1685958158,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-528_s1_p22/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-528_eg0",
+    "skipVmap": true
+}

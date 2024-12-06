@@ -1,0 +1,142 @@
+{
+    "id": "5-68_s1_p13",
+    "series": {
+        "id": "5-68",
+        "title": "ELEMON",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "thumb.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "portrait.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-68_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 676
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話　ニンジャのエレモン！",
+        "content": "チーム・ニンジャの技術担当ジョセフはエレモン＝アイロックスを生み出す。アイロックスを使い、またしてもアクロを奪おうと襲ってくるチーム・ニンジャ。強大なパワーに苦戦するアクロだったが、レオのひらめきでソルティアスとのコンボスキルが発動するのだった。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "レオ・ウッド：大地　葉",
+            "エラ・ウッド：楠木ともり",
+            "ライアン・カジ：潘めぐみ"
+        ],
+        "crews": [
+            "原作：東映アニメーション",
+            "原案：シオン・カジ",
+            "企画：鈴木篤志、森山義秀、シオン・カジ、三浦謙介",
+            "プロデューサー：森山義秀、シオン・カジ、龍 貴大",
+            "ラインプロデューサー：浦田鉄也",
+            "シリーズ構成/脚本：和智正喜",
+            "美術監督：杉本あゆみ",
+            "撮影監督：山口あゆみ",
+            "キャラクターデザイン/総作画監督/監督：ポエ山",
+            "制作：東映アニメーション",
+            "制作協力：ナニビト",
+            "製作：東映アニメーション・Rymation・アナライズログ"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション・Rymation・AnalyzeLog"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728366113,
+    "endAt": 1764514800,
+    "transcodeVersion": "4VdYrh",
+    "sharedLink": {
+        "twitter": "https://abema.app/vjtc",
+        "facebook": "https://abema.app/kd9G",
+        "google": "https://abema.app/WZhu",
+        "line": "https://abema.app/qHQN",
+        "copy": "https://abema.app/7Yi7",
+        "instagram": "https://abema.app/KLyk"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-68_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-68_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-68_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-68_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 616.616,
+        "ending": {
+            "start": 616.616,
+            "end": 676.5925833333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-68_s1_p14",
+        "title": "第14話　アクロの大ピンチ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1728366121,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-68_s1_p13/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "5-68_eg0",
+    "skipVmap": true
+}

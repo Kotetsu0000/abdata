@@ -1,0 +1,74 @@
+{
+    "id": "168-55",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "title": "まついぬ",
+    "content": "ふわふわまるい\nろくひきのなかよしわんこ\nまついぬ\n\nとくべつなことはしないけど\nいつもなんだかはーとふる\n\nとくべつなところはないけれど\nいつもなぜだかぴーすふる\n\nなにげないにちじょー\nなんてことないしあわせ\n\nかれらのじかんが\nあなたのこころをかろやかに\n\nむにゅっときままなまついぬたちに\nあいにいこう",
+    "seasons": [
+        {
+            "id": "168-55_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/168-55_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1696502468",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-55_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)赤塚不二夫／まついぬ製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1704338878781182320",
+    "imageUpdatedAt": 1696502453,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/hk3h",
+        "facebook": "https://abema.app/tGBT",
+        "google": "https://abema.app/1gQP",
+        "line": "https://abema.app/aNZx",
+        "copy": "https://abema.app/RkHs",
+        "instagram": "https://abema.app/JScX"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-55",
+        "filename": "thumb.png",
+        "query": "version=1696502453",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-55",
+        "filename": "portrait.png",
+        "query": "version=1696502453",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,140 @@
+{
+    "id": "413-11_s1_p12",
+    "series": {
+        "id": "413-11",
+        "title": "月刊モー想科学",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-11",
+            "filename": "thumb.png",
+            "query": "version=1704357789",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/413-11",
+            "filename": "portrait.png",
+            "query": "version=1704357789",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "413-11_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "１２月号『も～、この世は奇想天外！』",
+        "content": "人類消滅装置『ラ・モー』の起動スイッチを押してしまったフォー・チュン。人間のエドワードとゴローはすでにその姿を失い始めており、人類消滅の時間が刻一刻と迫っていた！もはや止める手段はないかと思われたが、「一つだけ方法がある」とジロー。その方法とは――『モー大陸を消滅させる』というもの。しかし、ジローは肝心のその方法が分からない。果たして、『ラ・モー』を止められるのか？そして彼らの運命は？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "タロー・Ｊ・鈴木：石井孝英",
+            "ジロー・田中：山本和臣",
+            "サブロー：白井悠介",
+            "ゴロー・佐藤：土岐隼一",
+            "キャサリン・スー：釘宮理恵",
+            "エドワード・チー：杉田智和",
+            "パーチ：古屋亜南",
+            "ノイン：井上雄貴",
+            "ナンシー：斎藤千和",
+            "ロック：西村知道"
+        ],
+        "crews": [
+            "原作：馬谷いちご",
+            "監督＆キャラクター原案：宮脇千鶴",
+            "シリーズ構成：金杉弘子",
+            "キャラクターデザイン：廣田 茜",
+            "プロップデザイン：志村錠児",
+            "色彩設計：佐藤 直",
+            "美術監督：縫部文江",
+            "撮影監督：佐藤 敦",
+            "編集：小守真由美",
+            "音楽：立山秋航",
+            "音楽制作：ポニーキャニオン",
+            "音響監督：納谷僚介",
+            "音響効果：小林亜依里・野崎博樹",
+            "製作：モー製作委員会"
+        ],
+        "copyrights": [
+            "(C)馬谷いちご/モー製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711971512,
+    "endAt": 1743433200,
+    "transcodeVersion": "3gWx1i",
+    "sharedLink": {
+        "twitter": "https://abema.app/rvLv",
+        "facebook": "https://abema.app/nW1c",
+        "google": "https://abema.app/19Wz",
+        "line": "https://abema.app/CQZP",
+        "copy": "https://abema.app/bc3u",
+        "instagram": "https://abema.app/ES6f"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/413-11_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/413-11_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/413-11_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.413-11_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1344.8435,
+        "ending": {
+            "start": 1344.8435,
+            "end": 1419.9602083333334
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/413-11_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "413-11_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,111 @@
+{
+    "id": "5-39",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "​聖闘士星矢: Knights of the Zodiac",
+    "content": "車田正美原作、“ギリシア神話”や“星座”をモチーフとしたファンタジックな設定が話題を呼んだ、80年代後半を代表する大人気漫画の再新アニメ化。この世に邪悪がはびこるとき、必ずや現れるという希望の闘士・聖闘士（セイント）。彼らは聖衣（クロス）と呼ばれる88の守護星座の防具をまとい、数百年に一度、地上に邪悪がはびこるときに降誕する女神アテナを守るために集う。",
+    "seasons": [
+        {
+            "id": "5-39_s1",
+            "sequence": 1,
+            "name": "season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-39_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1684287283",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-39_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "5-39_s2",
+            "sequence": 2,
+            "name": "season2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-39_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1684287295",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-39_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        },
+        {
+            "id": "5-39_s3",
+            "sequence": 3,
+            "name": "season3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/5-39_s3",
+                "filename": "default_thumb.png",
+                "query": "version=1711699954",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "5-39_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 3
+        }
+    ],
+    "copyrights": [
+        "(C)Masami Kurumada / Toei Animation"
+    ],
+    "label": {},
+    "version": "1728528892953011327",
+    "imageUpdatedAt": 1713511199,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/TnqN",
+        "facebook": "https://abema.app/NXzv",
+        "google": "https://abema.app/zAJc",
+        "line": "https://abema.app/dmNZ",
+        "copy": "https://abema.app/5kQo",
+        "instagram": "https://abema.app/2Q2v"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+        "filename": "thumb.png",
+        "query": "version=1713511199",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+        "filename": "portrait.png",
+        "query": "version=1713511199",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

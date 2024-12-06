@@ -1,0 +1,139 @@
+{
+    "id": "19-90_s2_p7",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s2",
+        "sequence": 2,
+        "name": "スーパーウィングス ミッションチーム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 719
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 ウェブ配信は大混乱",
+        "content": "今日の荷物の配達先は釜山のユナという女の子。ユナはお父さんと一緒に新しいオモチャを紹介するウェブ配信をやっている。ジェットが配達したのは、高速鉄道のオモチャで、さっそく配信番組でジェットと一緒に紹介を始めた。ところが、ＰＣがウイルスに感染して配信ができなくなる。救援に向かったのは、アストラとアストロのギャラクシー・ウィングス。ウイルスを退治するためにアストロの縮ませ光線で小型サイズになって、ＰＣの中の仮想空間に入っていったのは、アストラ、アストロ、ジェットとユナの４人。アストロとアストラの道具を使って、ウイルスを一網打尽にしたが、捕まえたウイルスは、一体の巨大モンスターとなって暴れだし、仮想空間のクァンアン大橋を破壊しようとする。ジェットたちは、巨大化した高速鉄道のオモチャに乗り込んだ。ロボット形態に変形する機能などを紹介しながら、モンスターと戦う。高速鉄道ロボットがモンスターを投げ飛ばし、これをローバーが「ゴミ箱」でキャッチして、一件落着。ユナの配信も無事に終了した。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "25XNZU",
+    "sharedLink": {
+        "twitter": "https://abema.app/kVpz",
+        "facebook": "https://abema.app/cKai",
+        "google": "https://abema.app/d267",
+        "line": "https://abema.app/Nmto",
+        "copy": "https://abema.app/191w",
+        "instagram": "https://abema.app/ZEc8"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s2_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s2_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s2_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s2_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 705.027522
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s2_p8",
+        "title": "第8話 フィリピンで歌おう",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s2_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

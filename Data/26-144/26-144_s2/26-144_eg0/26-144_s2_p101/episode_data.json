@@ -1,0 +1,151 @@
+{
+    "id": "26-144_s2_p101",
+    "series": {
+        "id": "26-144",
+        "title": "天官賜福 貮",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-144",
+            "filename": "thumb.png",
+            "query": "version=1704850631",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-144",
+            "filename": "portrait.png",
+            "query": "version=1704850631",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-144_s2",
+        "sequence": 2,
+        "name": "season2（貮）",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 2035
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 101,
+        "title": "第一話 鬼王現る",
+        "content": "霊文からの伝言を受け天界へ戻った謝憐は、半月関での一件について帝君・君吾に呼び出される。行方不明の神官が救援を求めていることを知った謝憐は、風師・師青玄と共に鬼界へ調査に行くことに…。鬼市に潜入した謝憐が一際賑わっている賭場に入ると、帳の奥に紅衣の人影があることに気づく。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "謝憐（シエ・リェン）：神谷浩史",
+            "花城（ホワチョン）：福山潤",
+            "霊文（リンウェン）：日笠陽子",
+            "君吾（ジュンウー）：子安武人",
+            "風信（フォンシン）：古川慎",
+            "慕情（ムーチン）：小林千晃",
+            "師青玄（男）（シー・チンシュエン）：島﨑信長",
+            "師青玄（女）（シー・チンシュエン）：川澄綾子",
+            "郎千秋（ラン・チエンチウ）：山下大輝",
+            "裴茗（ペイ・ミン）：諏訪部順一",
+            "裴宿（ペイ・シュウ）：増田俊樹"
+        ],
+        "crews": [
+            "原作：墨香銅臭",
+            "アニメーション制作：天官賜福製作委員会",
+            "日本版製作：株式会社アニプレックス"
+        ],
+        "copyrights": [
+            "動画改編自晋江文学城作家墨香銅臭同名小説(C)天官賜福製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711536666,
+    "endAt": 1736434800,
+    "transcodeVersion": "6XLrNo",
+    "sharedLink": {
+        "twitter": "https://abema.app/Tvrk",
+        "facebook": "https://abema.app/YYrP",
+        "google": "https://abema.app/WNas",
+        "line": "https://abema.app/S61h",
+        "copy": "https://abema.app/CfFg",
+        "instagram": "https://abema.app/zv5u"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-144_s2_p101/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-144_s2_p101/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-144_s2_p101/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-144_s2_p101"
+    },
+    "viewingPoint": {
+        "suggestion": 1920.5853333333334,
+        "opening": {
+            "start": 127.16870833333333,
+            "end": 232.14858333333333
+        },
+        "ending": {
+            "start": 1920.5853333333334,
+            "end": 2035.908875
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-144_s2_p102",
+        "title": "第二話 玲瓏の賽",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1711536666,
+        "endAt": 1736434800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1736434800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-144_s2_p101/3/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1736434800
+        }
+    ],
+    "episodeGroupId": "26-144_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,142 @@
+{
+    "id": "5-68_s1_p7",
+    "series": {
+        "id": "5-68",
+        "title": "ELEMON",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "thumb.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-68",
+            "filename": "portrait.png",
+            "query": "version=1728365849",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-68_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 706
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話　アマンダの花",
+        "content": "ふん水フルーツポンチを作ろうと、レオは炭酸ガスを出せるエレモン＝フィズラーを生み出す。フルーツポンチに喜ぶエラだったが、炭酸ガスが環境破壊の原因である二酸化炭素だと知り、怒り出す。環境の敵！　とフィズラーを追い回し、捕まえようとするエラだが……。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "レオ・ウッド：大地　葉",
+            "エラ・ウッド：楠木ともり",
+            "ライアン・カジ：潘めぐみ"
+        ],
+        "crews": [
+            "原作：東映アニメーション",
+            "原案：シオン・カジ",
+            "企画：鈴木篤志、森山義秀、シオン・カジ、三浦謙介",
+            "プロデューサー：森山義秀、シオン・カジ、龍 貴大",
+            "ラインプロデューサー：浦田鉄也",
+            "シリーズ構成/脚本：和智正喜",
+            "美術監督：杉本あゆみ",
+            "撮影監督：山口あゆみ",
+            "キャラクターデザイン/総作画監督/監督：ポエ山",
+            "制作：東映アニメーション",
+            "制作協力：ナニビト",
+            "製作：東映アニメーション・Rymation・アナライズログ"
+        ],
+        "copyrights": [
+            "(C)東映アニメーション・Rymation・AnalyzeLog"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728366060,
+    "endAt": 1764514800,
+    "transcodeVersion": "2DQdxn",
+    "sharedLink": {
+        "twitter": "https://abema.app/xWZD",
+        "facebook": "https://abema.app/Rp8F",
+        "google": "https://abema.app/DCR4",
+        "line": "https://abema.app/JwXQ",
+        "copy": "https://abema.app/31j8",
+        "instagram": "https://abema.app/Xxd8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-68_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-68_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 646.2289166666667,
+        "ending": {
+            "start": 646.2289166666667,
+            "end": 706.1637916666666
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-68_s1_p8",
+        "title": "第8話　ＧＯ！　ロケット！",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1728366068,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1764514800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-68_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1764514800
+        }
+    ],
+    "episodeGroupId": "5-68_eg0",
+    "skipVmap": true
+}

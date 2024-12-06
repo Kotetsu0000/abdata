@@ -1,0 +1,127 @@
+{
+    "id": "19-198_s1_p2",
+    "series": {
+        "id": "19-198",
+        "title": "怪獣人形劇『ゴジばん』",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-198",
+            "filename": "thumb.png",
+            "query": "version=1715583617",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-198",
+            "filename": "portrait.png",
+            "query": "version=1715583617",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-198_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 595
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "「特訓！棒高跳び」の巻",
+        "content": "きょうもゴジラ三兄弟の特訓が始まった！今回はなんと棒高跳びにチャレンジ！かっこよくお手本を見せるゴジラくんだったがそれをはるかに上回る実力者が現れ・・。\n「かまってゴジラ2」「ヘドじい・何処へ」含む"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "監督・脚本・造形・編集・音楽：小林英幸",
+            "タイトル・イラスト:豊田幸秀",
+            "イラスト:丸山浩、ヨシジマシウ"
+        ],
+        "copyrights": [
+            "TM & (Ｃ) TOHO CO., LTD."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730101141,
+    "endAt": 1751295600,
+    "transcodeVersion": "5K1ts8",
+    "sharedLink": {
+        "twitter": "https://abema.app/Kdtz",
+        "facebook": "https://abema.app/XXpX",
+        "google": "https://abema.app/4UQQ",
+        "line": "https://abema.app/2XFg",
+        "copy": "https://abema.app/stW5",
+        "instagram": "https://abema.app/CzbH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-198_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-198_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-198_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-198_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 568.4345333333333,
+        "opening": {
+            "start": 33.5335,
+            "end": 56.423033333333336
+        },
+        "ending": {
+            "start": 568.4345333333333,
+            "end": 595.6283666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-198_s1_p3",
+        "title": "「決戦！南海のビーチバレー」の巻",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730101141,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1751295600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-198_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1751295600
+        }
+    ],
+    "episodeGroupId": "19-198_eg0",
+    "skipVmap": true
+}

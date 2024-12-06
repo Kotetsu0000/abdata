@@ -1,0 +1,143 @@
+{
+    "id": "273-583_s1_p1",
+    "series": {
+        "id": "273-583",
+        "title": "すとぷりくえすとっ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "thumb.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "portrait.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-583_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "#1 リニューアル初回!7周年を記念したドミノ作りにくえすとっ!前編",
+        "content": "人気エンタメユニット「すとぷり」の冠番組!▽リニューアルして初回の放送!▽初回の放送はすとぷり7周年記念日!▽そんな記念日にすとぷりがドミノ作りに挑戦!▽今回はドミノ作り前半戦!▽初めてのドミノ作りにメンバー大苦戦!?▽さらに色々な企画も盛りだくさん!!▽前編ラストにはあんな事件も・・・!?"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1696237315,
+    "endAt": 1761922800,
+    "freeEndAt": 1761922800,
+    "transcodeVersion": "7Jbg4x",
+    "sharedLink": {
+        "twitter": "https://abema.app/4Pv1",
+        "facebook": "https://abema.app/ufUs",
+        "google": "https://abema.app/bewY",
+        "line": "https://abema.app/4EMp",
+        "copy": "https://abema.app/U2MY",
+        "instagram": "https://abema.app/KEMV"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/273-583_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/273-583_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/273-583_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/273-583_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-583_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1426.976649
+    },
+    "nextProgramInfo": {
+        "programId": "273-583_s1_p2",
+        "title": "#2 リニューアル初回!7周年を記念したドミノ作りにくえすとっ!後編",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1696237315,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-583_s1_p1/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-583_eg0",
+    "skipVmap": true
+}

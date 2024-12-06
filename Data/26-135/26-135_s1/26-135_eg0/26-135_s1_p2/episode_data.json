@@ -1,0 +1,137 @@
+{
+    "id": "26-135_s1_p2",
+    "series": {
+        "id": "26-135",
+        "title": "中高一貫！！キメツ学園物語",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-135",
+            "filename": "thumb.png",
+            "query": "version=1681283172",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-135",
+            "filename": "portrait.png",
+            "query": "version=1681283172",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-135_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 119
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "鬼滅の宴 特別編 第二話",
+        "content": "体育の授業。そこにはひとり、ハッピーモードでウキウキの善逸の姿があった！！"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "竈門炭治郎：花江夏樹",
+            "竈門禰豆子：鬼頭明里",
+            "我妻善逸：下野紘",
+            "嘴平伊之助：松岡禎丞",
+            "冨岡義勇：櫻井孝宏",
+            "煉獄杏寿郎：日野聡",
+            "不死川実弥：関智一",
+            "宇髄天元：小西克幸",
+            "悲鳴嶼行冥：杉田智和"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C)吾峠呼世晴／集英社・アニプレックス・ufotable"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683881587,
+    "endAt": 1743433200,
+    "transcodeVersion": "2QY7d6",
+    "sharedLink": {
+        "twitter": "https://abema.app/mpsF",
+        "facebook": "https://abema.app/nLSG",
+        "google": "https://abema.app/Lh5B",
+        "line": "https://abema.app/5qtx",
+        "copy": "https://abema.app/fWif",
+        "instagram": "https://abema.app/nT1p"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/26-135_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/26-135_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/26-135_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-135_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 114.369244
+    },
+    "nextProgramInfo": {
+        "programId": "26-135_s1_p3",
+        "title": "鬼滅の宴 特別編 第三話",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1683881587,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-135_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "26-135_eg0",
+    "skipVmap": true
+}

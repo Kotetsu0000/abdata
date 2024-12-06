@@ -1,0 +1,138 @@
+{
+    "id": "19-90_s2_p5",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s2",
+        "sequence": 2,
+        "name": "スーパーウィングス ミッションチーム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 719
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 5,
+        "title": "第5話 消えたスーツケースを探せ",
+        "content": "今回の届け先はオランダのアムステルダムで、テスという女の子のところ。テスは届けられたスーツケースに荷物を詰めて、スキポール空港からお母さんと一緒に海外旅行に出発の予定。ところが、手荷物で持ち込む予定のスーツケースが、間違って台車に積まれて運ばれてしまい、行方不明に。\nジェットは応援を求め、ポリス・パトロールのポールとキムが派遣された。空港内の監視カメラ映像を確認して、スーツケースが集積場に運ばれたことがわかり急行する。しかしタッチの差で荷物は飛行機に積み込まれ、そのまま離陸してしまう。離陸中の飛行機にキムが飛び乗ってスーツケースを発見するが、飛行機が揺れて、キムは落下。間一髪でキムをすくい上げたジェット。しかし、飛行機のハッチから荷物が多数落下してしまう。そこにバッジが登場して、網を伸ばして荷物を全部回収。飛行機の荷物室に戻すことができた。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "3LD8w7",
+    "sharedLink": {
+        "twitter": "https://abema.app/1nF2",
+        "facebook": "https://abema.app/J3GR",
+        "google": "https://abema.app/Ju5x",
+        "line": "https://abema.app/z1PC",
+        "copy": "https://abema.app/EXDp",
+        "instagram": "https://abema.app/3uXM"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p5/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p5/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p5/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s2_p5"
+    },
+    "viewingPoint": {
+        "suggestion": 705.027522
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s2_p6",
+        "title": "第6話 温泉レスキュー隊",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s2_p5/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

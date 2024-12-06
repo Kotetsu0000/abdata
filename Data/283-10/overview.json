@@ -1,0 +1,87 @@
+{
+    "id": "283-10",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_37",
+                "name": "ライブ舞台"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "アニメ「BanG Dream! 3rd Season」",
+    "content": "ポピパ主催ライブから4ヶ月。楽しい夏休みを経て、季節は秋。\n蔵練、バイト、生徒会――いつもの日々を過ごす香澄たちPoppin'Partyは、\nライブハウスGalaxy で、あるポスターを見つける。\n\n一方、運命のバンドメンバーを探す六花の元に、一通の招待状が届いて……\n\n再びはじまるキラキラドキドキなステージ！\nみんなと一緒なら、どんな夢だって撃ち抜ける！",
+    "seasons": [
+        {
+            "id": "283-10_s3",
+            "sequence": 3,
+            "name": "シーズン3",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-10",
+                "filename": "thumb.png",
+                "query": "version=1627288013",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "283-10_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)BanG Dream! Project"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1719563965232891056",
+    "imageUpdatedAt": 1627288013,
+    "caption": "撃ち抜こう、最高の音楽！",
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/9JGd",
+        "facebook": "https://abema.app/RZSf",
+        "google": "https://abema.app/qM8d",
+        "line": "https://abema.app/iTQQ",
+        "copy": "https://abema.app/Jo37",
+        "instagram": "https://abema.app/Yfyu"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-10",
+        "filename": "thumb.png",
+        "query": "version=1627288013",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/283-10",
+        "filename": "portrait.png",
+        "query": "version=1627288013",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

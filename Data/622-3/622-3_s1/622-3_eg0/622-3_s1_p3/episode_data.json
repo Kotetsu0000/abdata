@@ -1,0 +1,134 @@
+{
+    "id": "622-3_s1_p3",
+    "series": {
+        "id": "622-3",
+        "title": "放送室の着ぐるみガール",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "thumb.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "portrait.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "622-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 325
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 走る！？跳ぶ！？着ぐるみガールとの部活見学！",
+        "content": "直はゆるりに誘われ、一緒に部活見学へ。様々な部活を体験するが、何かと不便な着ぐるみの格好──。果たして、着ぐるみが入部できる部活はあるのか！？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "来栖直：朝ノ瑠璃",
+            "音瀬りん：梅村美緒奈",
+            "早川千里：三浦陽子",
+            "ほか"
+        ],
+        "crews": [
+            "--"
+        ],
+        "copyrights": [
+            "(C) DIGIMERCE Inc. All Rights Reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713178577,
+    "endAt": 1746025200,
+    "transcodeVersion": "582AX5",
+    "sharedLink": {
+        "twitter": "https://abema.app/V9cE",
+        "facebook": "https://abema.app/V8CB",
+        "google": "https://abema.app/B3Zf",
+        "line": "https://abema.app/cPDr",
+        "copy": "https://abema.app/mBH7",
+        "instagram": "https://abema.app/pTTq"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/622-3_s1_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/622-3_s1_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/622-3_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.622-3_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 273.9737,
+        "ending": {
+            "start": 273.9737,
+            "end": 295.96233333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "622-3_s1_p4",
+        "title": "第4話 大ピンチ！？直とゆるりに迫る2人組！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713178577,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/622-3_s1_p3/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "622-3_eg0",
+    "skipVmap": true
+}

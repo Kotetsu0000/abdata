@@ -1,0 +1,139 @@
+{
+    "id": "273-583_s1_p2",
+    "series": {
+        "id": "273-583",
+        "title": "すとぷりくえすとっ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "thumb.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "portrait.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-583_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "#2 リニューアル初回!7周年を記念したドミノ作りにくえすとっ!後編",
+        "content": "人気エンタメユニット「すとぷり」の冠番組!▽前回に引き続き7周年記念ドミノ作り後半戦!▽前回あんな事件があったが本当に完成するの??▽そんなすとぷりのために助っ人参上!?▽助っ人参戦でスピードUP!!▽果たしてドミノは完成そして成功するのか!?"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696237315,
+    "endAt": 1761922800,
+    "transcodeVersion": "4nprK",
+    "sharedLink": {
+        "twitter": "https://abema.app/dCVP",
+        "facebook": "https://abema.app/atAK",
+        "google": "https://abema.app/HDoF",
+        "line": "https://abema.app/yYir",
+        "copy": "https://abema.app/jeKM",
+        "instagram": "https://abema.app/pLH3"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/273-583_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/273-583_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/273-583_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-583_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1435.056822
+    },
+    "nextProgramInfo": {
+        "programId": "273-583_s1_p3",
+        "title": "#3 真の力を見せつけろ!るぅと常識力チェッククイズにくえすとっ!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1696237315,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-583_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-583_eg0",
+    "skipVmap": true
+}

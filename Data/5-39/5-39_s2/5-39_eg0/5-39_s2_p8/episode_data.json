@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s2_p8",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1382
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 8,
+        "title": "episode8 骸骨聖闘士 (スカルセイント)",
+        "content": "聖域を覆う不穏な影。その正体を暴くためスターヒルに向かうムウ、アルデバラン、魔鈴、ジュネ。時を同じくして、黄金聖闘士乙女座（バルゴ）のシャカに仕える三体の骸骨聖闘士が星矢と紫龍、瞬の行く手に立ちはだかる。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993526,
+    "endAt": 1759244400,
+    "transcodeVersion": "4PxVg4",
+    "sharedLink": {
+        "twitter": "https://abema.app/queu",
+        "facebook": "https://abema.app/sqDV",
+        "google": "https://abema.app/SsF4",
+        "line": "https://abema.app/7ZvE",
+        "copy": "https://abema.app/T1Ro",
+        "instagram": "https://abema.app/kyWv"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-39_s2_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-39_s2_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-39_s2_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s2_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 1291.062977,
+        "opening": {
+            "start": 1.024222,
+            "end": 120.848023
+        },
+        "ending": {
+            "start": 1291.062977,
+            "end": 1382.14458
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s2_p9",
+        "title": "episode9 鏡の中の敵",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993526,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s2_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

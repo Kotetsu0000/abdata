@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p20",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 20,
+        "title": "第20話 ワッフル大騒動",
+        "content": "今回の行き先はベルギー。届け先はジュールスという男の子だ。祖母のワッフル店が開店５０年を迎え、そのお祝いに巨大ワッフルメーカーで世界一のワッフルを焼こうとしていた。巨大な荷物にジェットだけではなくトッドも一緒に届けに行く。ワッフル作りを手伝うジェットたちだが、手違いで生地が洪水のようになってしまう。街を襲う生地。ドニーが助けにくるが彼の吸引器ではどうしようもない。するとパパ・ウィールスがメガ・ワッフルミキサーを持ってきてくれる。おかげで街は元通り。無事に５０周年を祝うことができたのだった。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018365,
+    "endAt": 1740754800,
+    "transcodeVersion": "4sVz96",
+    "sharedLink": {
+        "twitter": "https://abema.app/WmYb",
+        "facebook": "https://abema.app/9Qvm",
+        "google": "https://abema.app/QSTz",
+        "line": "https://abema.app/pVkN",
+        "copy": "https://abema.app/5jSo",
+        "instagram": "https://abema.app/dzqx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s1_p20/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s1_p20/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s1_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p21",
+        "title": "第21話 僕らはスーパー・セブン",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018365,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,145 @@
+{
+    "id": "26-222_s1_p12",
+    "series": {
+        "id": "26-222",
+        "title": "龍族 -The Blazing Dawn-（日本語字幕版）",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-222",
+            "filename": "thumb.png",
+            "query": "version=1712560033",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-222",
+            "filename": "portrait.png",
+            "query": "version=1712560033",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-222_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1330
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "11話 危険な任務",
+        "content": "新たな任務、青銅作戦の決行に向けて学生自治会からメンバーが招集されることに。シーザー、ノノ、リン、ミンフェイのチームに課せられたミッションは、水中にある龍王ノートンの宮殿を爆破することだった。しかし、宮殿内部に到達したミンフェイとノノはそこである違和感に気付く。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ルー・ミンフェイ／路明非：山下大輝",
+            "ノノ／諾諾：本渡 楓",
+            "ルー・ミンゼイ／路鳴沢：村瀬 歩",
+            "フィンゲル・フォン・フリングス：橘 龍丸",
+            "チュー・ズーハン／楚子航：小野賢章",
+            "シーザー・ガットゥーゾ：大塚剛央",
+            "リン：天城サリー",
+            "ノルマ・ローレンス：石見舞菜香",
+            "アンジェ：速水 奨"
+        ],
+        "crews": [
+            "原作：江南（ジャン・ナン）「龍族」",
+            "監督・シリーズ構成：王昕（ワン・シン）",
+            "キャラクターデザイン・総作画監督：李時旼（リー・シーミン）",
+            "音楽監督：伍婷（ウー・ティン）",
+            "BGM：KOHTA YAMAMOTO ほか",
+            "アニメーション制作：HANABARA Animation"
+        ],
+        "copyrights": [
+            "(C)2023 Shenzhen Tencent Computer Systems Company Limited"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719915770,
+    "endAt": 1744124400,
+    "transcodeVersion": "6gPbdB",
+    "sharedLink": {
+        "twitter": "https://abema.app/aBV9",
+        "facebook": "https://abema.app/9Aps",
+        "google": "https://abema.app/4wAj",
+        "line": "https://abema.app/52S5",
+        "copy": "https://abema.app/67nK",
+        "instagram": "https://abema.app/oYJ8"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-222_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-222_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-222_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-222_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1240.7812083333333,
+        "opening": {
+            "end": 95.470375
+        },
+        "ending": {
+            "start": 1240.7812083333333,
+            "end": 1330.8295
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-222_s1_p13",
+        "title": "12話 龍の寝床",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719915770,
+        "endAt": 1744124400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1744124400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-222_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1744124400
+        }
+    ],
+    "episodeGroupId": "26-222_eg0",
+    "skipVmap": true
+}

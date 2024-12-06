@@ -1,0 +1,122 @@
+{
+    "id": "705-1_s2_p15",
+    "series": {
+        "id": "705-1",
+        "title": "Spicy Candy",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "thumb.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "portrait.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "705-1_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 59
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 15,
+        "title": "うらやましい",
+        "content": "うらやましい…うらやましい…あぁ、うらやましい…"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "Spicy：Cikah"
+        ],
+        "crews": [
+            "Ryosuke Aoike"
+        ],
+        "copyrights": [
+            "(C)Spicy Candy Project Committee",
+            "©SCPC"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731899169,
+    "endAt": 1764514800,
+    "transcodeVersion": "3vKcpi",
+    "sharedLink": {
+        "twitter": "https://abema.app/6mKa",
+        "facebook": "https://abema.app/QNxn",
+        "google": "https://abema.app/6H4S",
+        "line": "https://abema.app/Dvvv",
+        "copy": "https://abema.app/bMGi",
+        "instagram": "https://abema.app/CNv7"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.705-1_s2_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 54.9549
+    },
+    "nextProgramInfo": {
+        "programId": "705-1_s2_p16",
+        "title": "捨てたら楽になったもの",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1731899182,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734096600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/705-1_s2_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734096600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1734701400
+        }
+    ],
+    "episodeGroupId": "705-1_eg0",
+    "skipVmap": true
+}

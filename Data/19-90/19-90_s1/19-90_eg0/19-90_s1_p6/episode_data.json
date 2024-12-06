@@ -1,0 +1,144 @@
+{
+    "id": "19-90_s1_p6",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s1",
+        "sequence": 1,
+        "name": "スーパーウィングス",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 750
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 氷山をどけろ",
+        "content": "スーパー・ウィングスのジェットへの今日の指令は、アラスカ州に住む先住民ユピック族の女の子ヤーリにクルーズ船の船長の帽子と望遠鏡を届ける事だ。今日はヤーリがクルーズ船ティッピ号の一日船長をつとめるのだ。ティッピ号が氷河の中を進んでいくと、氷の上に取り残された子グマを助けられないでいるホッキョクグマの母親を見つけた。ジェットは船のタラップを出して２匹を助けてあげた。ところが今度はティッピ号が両側を氷山に挟まれて身動きできなくなってしまった。同じスーパー・ウィングスのディジーも呼ぶが助けられそうにない。するとやはりスーパー・ウィングスのベロと一緒に駆けつけてくれたのは、さっき助けたホッキョクグマの親子とその仲間のクマたちだった。ほかの乗客も加わり、皆で力を合わせてティッピ号を救い出すことができた"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "矢尾幸子",
+            "大地葉"
+        ],
+        "copyrights": [
+            "(Ｃ) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018364,
+    "endAt": 1740754800,
+    "transcodeVersion": "5aDXVE",
+    "sharedLink": {
+        "twitter": "https://abema.app/CMjF",
+        "facebook": "https://abema.app/rVGJ",
+        "google": "https://abema.app/evLD",
+        "line": "https://abema.app/fHJA",
+        "copy": "https://abema.app/b1Rp",
+        "instagram": "https://abema.app/BxC3"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s1_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 735.109375,
+        "opening": {
+            "end": 42.167125
+        },
+        "ending": {
+            "start": 735.109375,
+            "end": 750.7082916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s1_p7",
+        "title": "第7話 アルプスで大ピンチ",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018364,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

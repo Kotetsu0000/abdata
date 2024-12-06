@@ -1,0 +1,153 @@
+{
+    "id": "600-1_s1_p6",
+    "series": {
+        "id": "600-1",
+        "title": "5億年ボタン【公式】～菅原そうたのショートショート～",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-1",
+            "filename": "thumb.png",
+            "query": "version=1727402737",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-1",
+            "filename": "portrait.png",
+            "query": "version=1727402737",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "600-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1199
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "#6 「押す派vs押さない派の激論バトル／旅行に行く」",
+        "content": "「押す派vs押さない派の激論バトル」あらすじ\n５億年ボタンで儲けたお金でデザイナーズマンションを購入したトニオたち。積極的に5億年ボタンを押す派のジャイ美に対し、押すことに「どうも、引っかかる」というスネ子…。はたして…\n\n「旅行に行く」あらすじ\nスネ子の同級生のハナコちゃんから、ハワイ旅行の話しを聞き、自分たちも行きたがるトニオたち。そこに井上博士が現れ、発明品のビッグスプレーを使い旅行に行こうと提案するのであった。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "トニオ：野沢雅子",
+            "ジャイ美：三森すずこ",
+            "スネ子：大空直美",
+            "井上博士：高野麻里佳",
+            "ウン子ちゃん：三上枝織",
+            "ドラゴン：ボルケーノ太田",
+            "ハナちゃん：羊宮妃那",
+            "ナレーション：銀河万丈"
+        ],
+        "crews": [
+            "監督：菅原そうた",
+            "原作：菅原そうた",
+            "シリーズ構成：菅原そうた",
+            "キャラクターデザイン：菅原そうた",
+            "美術設定：菅原そうた",
+            "美術監督：菅原そうた",
+            "撮影監督：菅原そうた",
+            "編集：菅原そうた",
+            "音響監督：菅原そうた",
+            "音楽：とくさしけんご、菅原そうた",
+            "音響効果：徳永義明、菅原そうた",
+            "制作：STUDIO SOTA"
+        ],
+        "copyrights": [
+            "(C)STUDIO SOTA"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727318354,
+    "endAt": 1767193200,
+    "transcodeVersion": "215shr",
+    "sharedLink": {
+        "twitter": "https://abema.app/yLZQ",
+        "facebook": "https://abema.app/hVrY",
+        "google": "https://abema.app/RJNg",
+        "line": "https://abema.app/QMLD",
+        "copy": "https://abema.app/WYMf",
+        "instagram": "https://abema.app/UNk4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/600-1_s1_p6/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/600-1_s1_p6/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/600-1_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.600-1_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 1082.872193
+    },
+    "nextProgramInfo": {
+        "programId": "600-1_s1_p7",
+        "title": "#7 「AIの5億年ボタン」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1727318354,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/600-1_s1_p6/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "600-1_eg0",
+    "skipVmap": true
+}

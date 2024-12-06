@@ -1,0 +1,146 @@
+{
+    "id": "5-39_s1_p7",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s1",
+        "sequence": 1,
+        "name": "season1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1386
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "episode7 白銀聖闘士",
+        "content": "噴火の落石により気を失っていた星矢。意識を取り戻すと突然現れた少年・貴鬼により一輝は死んだと聞かされる。一方で、聖域(サンクチュアリ)は新たな刺客二人を星矢に向けて放っていた。白銀聖闘士(シルバーセイント)・蜥蜴星座 (リザド)のミスティ。そしてもう一人、星矢の恩師・鷲星座(イーグル)の魔鈴を―。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "ペガサス星矢：森田成一",
+            "城戸沙織：折笠富美子",
+            "ドラゴン紫龍：櫻井 孝宏",
+            "キグナス氷河：三浦 祥朗",
+            "アンドロメダ瞬：佐藤聡美",
+            "フェニックス一輝：小西克幸"
+        ],
+        "crews": [
+            "監督：芦野芳晴"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993525,
+    "endAt": 1759244400,
+    "transcodeVersion": "NZFxE",
+    "sharedLink": {
+        "twitter": "https://abema.app/vv5x",
+        "facebook": "https://abema.app/er4v",
+        "google": "https://abema.app/djVG",
+        "line": "https://abema.app/ZU9w",
+        "copy": "https://abema.app/uZQD",
+        "instagram": "https://abema.app/aucL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/5-39_s1_p7/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/5-39_s1_p7/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/5-39_s1_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s1_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1296.521648,
+        "opening": {
+            "start": 6.029222,
+            "end": 126.065811
+        },
+        "ending": {
+            "start": 1296.067977,
+            "end": 1386.997574
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s1_p8",
+        "title": "episode8 岐路",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1717993525,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s1_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

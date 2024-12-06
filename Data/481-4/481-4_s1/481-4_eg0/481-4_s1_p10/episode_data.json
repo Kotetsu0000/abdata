@@ -1,0 +1,151 @@
+{
+    "id": "481-4_s1_p10",
+    "series": {
+        "id": "481-4",
+        "title": "恋とプロデューサー～EVOL×LOVE～",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-4",
+            "filename": "thumb.png",
+            "query": "version=1627288406",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-4",
+            "filename": "portrait.png",
+            "query": "version=1627288406",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-4_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1419
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "#10 別れの夜明け",
+        "content": "信じたくない真実を知ったわたし。それでも今止まるわけにはいかないと、わたしは走り出す。Evolを暴走させる電磁波を防ぐべく向うのは、発信源となっている恋花タワー。しかしたどり着いた先にはすでにブラックスワンの黒服たちの姿があった。助けもなく、打つ手のないわたしの背後に現れたのは、行方不明のはずの彼だった"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "キラ：柿原徹也",
+            "ゼン：杉田智和",
+            "ハク：小野友樹",
+            "シモン：平川大輔"
+        ],
+        "crews": [
+            "原作：恋とプロデューサー～EVOL×LOVE～（Papergames）",
+            "監督：境宗久",
+            "シリーズ構成：𠮷村清子",
+            "キャラクターデザイン：山口仁七",
+            "プロデュース：崴智娯楽 Emoto Entertainment /CAAnimation",
+            "アニメーション制作：MAPPA"
+        ],
+        "copyrights": [
+            "(C)恋とプロデューサー/Paper Pictures/MAPPA"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683790345,
+    "endAt": 1743433200,
+    "transcodeVersion": "4R8qT3",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/E4PUE",
+        "facebook": "https://gxyt4.app.goo.gl/fXtia",
+        "google": "https://gxyt4.app.goo.gl/7u3ZX",
+        "line": "https://gxyt4.app.goo.gl/RhAqR",
+        "copy": "https://gxyt4.app.goo.gl/FTHP9",
+        "instagram": "https://gxyt4.app.goo.gl/Qc9HC"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/481-4_s1_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/481-4_s1_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/481-4_s1_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-4_s1_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1400.046844,
+        "opening": {
+            "start": 103.751844,
+            "end": 183.898677
+        },
+        "ending": {
+            "start": 1222.160811,
+            "end": 1307.045811
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "481-4_s1_p11",
+        "title": "#11 めぐる時の果てに",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1683790345,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-4_s1_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "481-4_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,150 @@
+{
+    "id": "19-130_s1_p1",
+    "series": {
+        "id": "19-130",
+        "title": "ぷにるんず",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "thumb.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "portrait.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-130_s1",
+        "sequence": 1,
+        "name": "本編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 744
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 『ぷにっとあいるん♪』",
+        "content": "好奇心旺盛なぷにるんず・あいるんは、小学４年生の女の子・ゆかと一緒にくらしている。今日も、ぷにぷにの『あっぷにぱい』を作ってもらい大満足のあいるん。 \n\nすると、ゆかのパパの叫び声が聞こえてきた。新しいパンのアイディアが浮かばずに悩んでいるパパ。ゆかの家は、町のパン屋さんなのだ。 \n\nさっそく友だちのぷにるんずを呼び、みんなでパンのアイディアを考え始めるあいるん。でも、それはおかしなものばかりで……。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "あいるん：潘めぐみ",
+            "えねるん：小松未可子",
+            "らぶるん：内田彩",
+            "うるるん：山口智広",
+            "くーるん：木野日菜"
+        ],
+        "crews": [
+            "原作：タカラトミー",
+            "総監督：湯山邦彦",
+            "監督：山口健太郎",
+            "シリーズ構成：市川十億衛門",
+            "キャラクターデザイン：一石小百合",
+            "音楽：小畑貴裕",
+            "音響監督：小沼則義",
+            "制作：OLM Digital"
+        ],
+        "copyrights": [
+            "(C) ＴＯＭＹ／ぷにるんずぷにじぇくと・テレビ大阪"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1681805484,
+    "endAt": 1774969200,
+    "freeEndAt": 1774969200,
+    "transcodeVersion": "2xddW",
+    "sharedLink": {
+        "twitter": "https://abema.app/EKP5",
+        "facebook": "https://abema.app/y5GY",
+        "google": "https://abema.app/PGSi",
+        "line": "https://abema.app/aZNo",
+        "copy": "https://abema.app/2LFX",
+        "instagram": "https://abema.app/PNsQ"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-130_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-130_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/19-130_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-130_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-130_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 670.0676
+    },
+    "nextProgramInfo": {
+        "programId": "19-130_s1_p2",
+        "title": "第2話 『べびるん、成長するん♪』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681805485,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-130_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "19-130_eg0",
+    "skipVmap": true
+}

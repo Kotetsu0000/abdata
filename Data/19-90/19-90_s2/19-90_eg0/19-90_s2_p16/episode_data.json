@@ -1,0 +1,136 @@
+{
+    "id": "19-90_s2_p16",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s2",
+        "sequence": 2,
+        "name": "スーパーウィングス ミッションチーム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 719
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 16,
+        "title": "第16話 劇を続けよう！",
+        "content": "今回の荷物のお届け先は、中国の西安。ジェットは京劇「西遊記」で孫悟空の役を演じる少女リンリンに小道具用の如意棒を届ける。ジェットは猪八戒の役として飛び入り参加することになったが、途中で如意棒が誤作動を起こして制御不能になってしまう"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018366,
+    "endAt": 1740754800,
+    "transcodeVersion": "UNo6S",
+    "sharedLink": {
+        "twitter": "https://abema.app/oc4b",
+        "facebook": "https://abema.app/qqHp",
+        "google": "https://abema.app/4M4X",
+        "line": "https://abema.app/pmYk",
+        "copy": "https://abema.app/vt7A",
+        "instagram": "https://abema.app/cPuL"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p16/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p16/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-90_s2_p16/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s2_p16"
+    },
+    "viewingPoint": {
+        "suggestion": 705.027522
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s2_p17",
+        "title": "第17話 バラカのリュック",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1707018366,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s2_p16/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

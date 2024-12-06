@@ -1,0 +1,92 @@
+{
+    "id": "27-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "オシリスの天秤",
+    "content": "舞台は現代。主人公は謎に包まれた暗殺者。彼はある事情から体の左側の臓器がほとんどない。そのため体が弱く、体術はもちろん銃の扱いも不得手である。およそ暗殺者としての資質からほど遠い主人公・・・しかしある特殊能力が彼を特別な暗殺者たらしめている。それはごくわずかなサイコキネシス。コップの中の水に少し波紋を起せる程度の微細な超能力。しかしこの力により彼はターゲットの脳を破壊し相手を脳死に至らしめターゲットの臓器を移植用に提供する。彼は暗殺の依頼を受けると必ずターゲットに直接会い本人と会話する。ターゲットが本当に殺されるべき人間かどうか確認するために。彼は何者か、彼はなぜ暗殺者になったのか、なぜターゲットの臓器を移植用に使おうとするのか・・・ストーリーが進むとともに少しずつその秘密が明かされていく・・・",
+    "seasons": [
+        {
+            "id": "27-1_s1",
+            "sequence": 1,
+            "name": "season1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/27-1_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683690668",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "27-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "27-1_s2",
+            "sequence": 2,
+            "name": "season2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/27-1_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1684733569",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "27-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
+        }
+    ],
+    "copyrights": [
+        "(C)フジテレビジョン"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1711945406997523721",
+    "imageUpdatedAt": 1678349975,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/nRgB",
+        "facebook": "https://abema.app/enC5",
+        "google": "https://abema.app/13kt",
+        "line": "https://abema.app/m2Az",
+        "copy": "https://abema.app/7Hhc",
+        "instagram": "https://abema.app/zX3U"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+        "filename": "thumb.png",
+        "query": "version=1678349975",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+        "filename": "portrait.png",
+        "query": "version=1678349975",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

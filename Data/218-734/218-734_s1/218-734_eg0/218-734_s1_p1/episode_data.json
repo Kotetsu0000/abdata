@@ -1,0 +1,129 @@
+{
+    "id": "218-734_s1_p1",
+    "series": {
+        "id": "218-734",
+        "title": "にじさんじ甲子園観戦配信2024",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-734",
+            "filename": "thumb.png",
+            "query": "version=1723111689",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-734",
+            "filename": "portrait.png",
+            "query": "version=1723111689",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "218-734_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 9296
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 1,
+        "title": "にじさんじ甲子園観戦配信2024【Aリーグ①】",
+        "content": "2024年8月10日（土）から12日（月）の3日間にわたり、にじさんじの大人気企画「にじさんじ甲子園2024」の“観戦”番組『にじさんじ甲子園観戦配信2024』をABEMA独占中。\n葉加瀬冬雪さんをゲストに、対戦中以外の監督ライバーが全員登場。本戦では語りきれなかった監督ライバーたちの裏話を交えながら、本戦をみんなで観戦し、大会を盛り上げます。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "葉加瀬冬雪",
+            "舞元啓介",
+            "五十嵐梨花",
+            "エクス・アルビオ",
+            "叶",
+            "フレン・E・ルスタリオ",
+            "小野町春香",
+            "椎名唯華",
+            "花畑チャイカ",
+            "不破湊"
+        ],
+        "crews": [
+            "制作：ANYCOLOR株式会社"
+        ],
+        "copyrights": [
+            "(C)ANYCOLOR, Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1723111725,
+    "endAt": 1788188400,
+    "freeEndAt": 1788188400,
+    "transcodeVersion": "4t5PVd",
+    "sharedLink": {
+        "twitter": "https://abema.app/1CqV",
+        "facebook": "https://abema.app/zs4x",
+        "google": "https://abema.app/gSAJ",
+        "line": "https://abema.app/Rps5",
+        "copy": "https://abema.app/tVvh",
+        "instagram": "https://abema.app/JESe"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/218-734_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/218-734_s1_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/218-734_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/218-734_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.218-734_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 9291.148533333333
+    },
+    "nextProgramInfo": {
+        "programId": "218-734_s1_p2",
+        "title": "にじさんじ甲子園観戦配信2024【Aリーグ②】",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1723111774,
+        "endAt": 1788188400,
+        "freeEndAt": 1788188400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 3,
+                "endAt": 1788188400
+            }
+        ]
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/218-734_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1788188400
+        }
+    ],
+    "episodeGroupId": "218-734_eg0",
+    "skipVmap": true
+}

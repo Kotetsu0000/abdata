@@ -1,0 +1,122 @@
+{
+    "id": "705-1_s2_p8",
+    "series": {
+        "id": "705-1",
+        "title": "Spicy Candy",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "thumb.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "portrait.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "705-1_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 59
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "シャーデンフロイデ",
+        "content": "他人の不幸は蜜の味。しゃーないやん。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "Spicy：Cikah"
+        ],
+        "crews": [
+            "Ryosuke Aoike"
+        ],
+        "copyrights": [
+            "(C)Spicy Candy Project Committee",
+            "©SCPC"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731899089,
+    "endAt": 1764514800,
+    "transcodeVersion": "27q7qh",
+    "sharedLink": {
+        "twitter": "https://abema.app/wox7",
+        "facebook": "https://abema.app/DZAe",
+        "google": "https://abema.app/xU3h",
+        "line": "https://abema.app/NJku",
+        "copy": "https://abema.app/A9hh",
+        "instagram": "https://abema.app/dWk9"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p8/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p8/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.705-1_s2_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 54.9549
+    },
+    "nextProgramInfo": {
+        "programId": "705-1_s2_p9",
+        "title": "おばあちゃん",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1731899099,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734096600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/705-1_s2_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734096600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1734701400
+        }
+    ],
+    "episodeGroupId": "705-1_eg0",
+    "skipVmap": true
+}

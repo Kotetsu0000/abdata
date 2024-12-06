@@ -1,0 +1,152 @@
+{
+    "id": "481-1_s1_p4",
+    "series": {
+        "id": "481-1",
+        "title": "RobiHachi",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "thumb.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/481-1",
+            "filename": "portrait.png",
+            "query": "version=1627289125",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "481-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1440
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "#4 竿の先に半魚人",
+        "content": "いよいよロビーとハッチらを乗せた宇宙船『ナガヤボイジャー』は太陽系の外へ。まず最初に訪れたのはギャラクシー街道第９番プラネット『オダワーラ』だった。早速、わくわく繁華街に出てみると、半魚人だらけ！？オダワーラは半魚人の星だったのだ。「もう二度と来れないかもしれないし！」と嬉しそうにグルメスポットを調べては積極的に観光を楽しむハッチ。それに付き合わされるロビー。そんな中、ロビー達は所持金が無くなり、『オダワーラ』の海鮮丼のお店でバイトすることになるのだが……。"
+    },
+    "credit": {
+        "released": 2019,
+        "casts": [
+            "ロビー・ヤージ：中井和哉",
+            "ハッチ・キタ：河本啓佑",
+            "JPS-19（イック）：阪口大助",
+            "ヤン：杉田智和",
+            "アロ：木村 昴",
+            "グラ：徳留慎乃佑"
+        ],
+        "crews": [
+            "原作：馬谷たいが",
+            "監督：高松信司",
+            "シリーズ構成：金杉弘子",
+            "キャラクターデザイン：八尋裕子",
+            "コンセプトデザイン：三沢 伸",
+            "アニメ−ション制作：スタジオコメット"
+        ],
+        "copyrights": [
+            "(C)馬谷たいが／株式会社ドンツー"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681890159,
+    "endAt": 1743433200,
+    "transcodeVersion": "5Rsazh",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/HBgjZ",
+        "facebook": "https://gxyt4.app.goo.gl/RjnXq",
+        "google": "https://gxyt4.app.goo.gl/y3PZh",
+        "line": "https://gxyt4.app.goo.gl/kdWM6",
+        "copy": "https://gxyt4.app.goo.gl/BP8ib",
+        "instagram": "https://gxyt4.app.goo.gl/yagAx"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/481-1_s1_p4/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/481-1_s1_p4/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/481-1_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.481-1_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1334.064266,
+        "opening": {
+            "start": 145.043099,
+            "end": 215.972388
+        },
+        "ending": {
+            "start": 1334.064266,
+            "end": 1424.871844
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "481-1_s1_p5",
+        "title": "#5 地獄の沙汰もドン次第",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1681890159,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/481-1_s1_p4/timeline",
+        "query": "version=5Rsazh",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "481-1_eg0",
+    "skipVmap": true
+}

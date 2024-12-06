@@ -1,0 +1,75 @@
+{
+    "id": "26-127",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "Fate/Grand Order -First Order-",
+    "content": "西暦2015年。\n魔術がまだ成立していた最後の時代。\n\n人理継続保障機関・カルデアは、人類史を何より強く存続させる尊命のもと、\n魔術だけでは見えない世界、科学だけでは計れない世界を観測し、\n人類の決定的な絶滅を防ぐために成立された。\n\nある日、カルデアで観測を継続していた未来が消え、\n人類は2017年で絶滅する事が判明―――いや、証明されてしまった。\n\nその原因と思われるのは西暦2004年の日本の地方都市・冬木。\nここに、今まではなかった「観測できない領域」が現れたのである。\n\nカルデアはこれを人類絶滅の原因と仮定し、特異点の調査・解明、\nあるいは破壊を目的とした任務“聖杯探索”―――グランドオーダーを発令する",
+    "seasons": [
+        {
+            "id": "26-127_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-127",
+                "filename": "thumb.png",
+                "query": "version=1627288456",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-127_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)TYPE-MOON / FGO ANIME PROJECT"
+    ],
+    "label": {},
+    "version": "1723000396318005175",
+    "imageUpdatedAt": 1627288456,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/rURP9",
+        "facebook": "https://gxyt4.app.goo.gl/rSCFv",
+        "google": "https://gxyt4.app.goo.gl/6Kk6r",
+        "line": "https://gxyt4.app.goo.gl/Z2emY",
+        "copy": "https://gxyt4.app.goo.gl/G9oSf",
+        "instagram": "https://gxyt4.app.goo.gl/EYV4x"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-127",
+        "filename": "thumb.png",
+        "query": "version=1627288456",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-127",
+        "filename": "portrait.png",
+        "query": "version=1627288456",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 4,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

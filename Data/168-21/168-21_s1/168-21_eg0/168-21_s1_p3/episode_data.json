@@ -1,0 +1,154 @@
+{
+    "id": "168-21_s1_p3",
+    "series": {
+        "id": "168-21",
+        "title": "ネコぱら",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-21",
+            "filename": "thumb.png",
+            "query": "version=1627288782",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-21",
+            "filename": "portrait.png",
+            "query": "version=1627288782",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-21_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1394
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 気になるあの子",
+        "content": "実家で預かることになったあの子。突然いなくなったりと朝から大騒ぎ。一方、ショコラは何かあの子のことが気になってしまい、どこか上の空。バニラはそんなショコラを心配するが…。"
+    },
+    "credit": {
+        "released": 2020,
+        "casts": [
+            "ショコラ 八木侑紀",
+            "バニラ 佐伯伊織",
+            "アズキ 井澤詩織",
+            "メイプル 伊藤美来",
+            "シナモン のぐちゆり",
+            "ココナツ 水谷麻鈴",
+            "水無月時雨 Ｍ・Ａ・Ｏ",
+            "水無月嘉祥 立花慎之介",
+            "？？？ 森嶋優花"
+        ],
+        "crews": [
+            "原作 NEKO WORKs",
+            "監督 山本靖貴",
+            "シリーズ構成 雑破業",
+            "キャラクターデザイン 平野勇一",
+            "音楽 立山秋航",
+            "アニメーション制作 FelixFilm"
+        ],
+        "copyrights": [
+            "(C)NEKO WORKs/ネコぱら製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683629706,
+    "endAt": 1746025200,
+    "transcodeVersion": "CMkv5",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/ut1j3",
+        "facebook": "https://gxyt4.app.goo.gl/MHddc",
+        "google": "https://gxyt4.app.goo.gl/uNzv1",
+        "line": "https://gxyt4.app.goo.gl/1yBTH",
+        "copy": "https://gxyt4.app.goo.gl/HWkWi",
+        "instagram": "https://gxyt4.app.goo.gl/g1ygq"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-21_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-21_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-21_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-21_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1300.030266,
+        "opening": {
+            "start": 33.021099,
+            "end": 120.021099
+        },
+        "ending": {
+            "start": 1300.030266,
+            "end": 1387.030266
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "168-21_s1_p4",
+        "title": "第4話 はじめての…！",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1683629706,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-21_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "168-21_eg0",
+    "skipVmap": true
+}

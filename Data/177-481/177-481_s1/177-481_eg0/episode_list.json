@@ -230,5 +230,34 @@
         "info": {
             "duration": 1440
         }
+    },
+    {
+        "id": "177-481_s1_p9",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/177-481_s1_p9",
+            "filename": "thumb001.png",
+            "query": "version=1733188188",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 9,
+            "title": "#9",
+            "content": "未公開映像も!#1〜#8の未公開映像を含めた総集編!ここでしか見れないショットが満載!"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1733502600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1439
+        }
     }
 ]

@@ -1,0 +1,122 @@
+{
+    "id": "705-1_s2_p20",
+    "series": {
+        "id": "705-1",
+        "title": "Spicy Candy",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "thumb.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+            "filename": "portrait.png",
+            "query": "version=1731744815",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "705-1_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 59
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 20,
+        "title": "G",
+        "content": "最上級の嫌われ者。マジふざけんな！こっち来たらキレるぞ！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "Spicy：Cikah"
+        ],
+        "crews": [
+            "Ryosuke Aoike"
+        ],
+        "copyrights": [
+            "(C)Spicy Candy Project Committee",
+            "©SCPC"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731899265,
+    "endAt": 1764514800,
+    "transcodeVersion": "3M5cGj",
+    "sharedLink": {
+        "twitter": "https://abema.app/Q7Qd",
+        "facebook": "https://abema.app/xeja",
+        "google": "https://abema.app/SWK9",
+        "line": "https://abema.app/PQ95",
+        "copy": "https://abema.app/qEWn",
+        "instagram": "https://abema.app/vUPr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p20/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p20/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/705-1_s2_p20/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.705-1_s2_p20"
+    },
+    "viewingPoint": {
+        "suggestion": 54.9549
+    },
+    "nextProgramInfo": {
+        "programId": "705-1_s2_p21",
+        "title": "parsley",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1731899283,
+        "endAt": 1764514800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734096600
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/705-1_s2_p20/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734096600
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1734701400
+        }
+    ],
+    "episodeGroupId": "705-1_eg0",
+    "skipVmap": true
+}

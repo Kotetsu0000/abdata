@@ -1,0 +1,139 @@
+{
+    "id": "273-583_s1_p9",
+    "series": {
+        "id": "273-583",
+        "title": "すとぷりくえすとっ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "thumb.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-583",
+            "filename": "portrait.png",
+            "query": "version=1685522735",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-583_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "#9 大人の魅力を手に入れろ!いい男選手権にくえすとっ!",
+        "content": "人気エンタメユニット「すとぷり」の冠番組!▽大久保佳代子ネキ登場!▽上の世代からの人気を獲得するために大人の魅力を学ぼう!▽果たしてネキのチェックをクリアしていい男選手権NO.1になるのは一体誰なのか!?▽そしてラストはまさかの・・・!?"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "-"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1696237315,
+    "endAt": 1761922800,
+    "transcodeVersion": "4y2VtX",
+    "sharedLink": {
+        "twitter": "https://abema.app/43m8",
+        "facebook": "https://abema.app/PKML",
+        "google": "https://abema.app/pWVZ",
+        "line": "https://abema.app/zH2m",
+        "copy": "https://abema.app/hM5M",
+        "instagram": "https://abema.app/UfaE"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/273-583_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/273-583_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/273-583_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-583_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 1432.887988
+    },
+    "nextProgramInfo": {
+        "programId": "273-583_s1_p10",
+        "title": "#10 4人の絆を見せつけろ!すとぷり真贋チェックにくえすとっ!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1696237315,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-583_s1_p9/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-583_eg0",
+    "skipVmap": true
+}

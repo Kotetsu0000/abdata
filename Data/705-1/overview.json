@@ -1,0 +1,71 @@
+{
+    "id": "705-1",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "Spicy Candy",
+    "content": "毎日の「あるある」をキャッチーな音楽と共に描いた、新感覚の1分ショートアニメが誕生！\n\nSNS好きで流行に敏感なスパイシーが、日常の小さな不満や疑問をちょっとだけ辛口でツッコミながら歌い上げていく。\n個性的な仲間たちと、リズムに乗って音楽の世界を広げていきます。\n気軽に観られる1分サイズで、時短志向のアナタにピッタリ！\n思わずみんなにシェアしちゃいたくなる、毒舌（スパイシー）&キュートなシンガー誕生！",
+    "seasons": [
+        {
+            "id": "705-1_s2",
+            "sequence": 2,
+            "name": "第2期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/705-1_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1732073551",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "705-1_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)Spicy Candy Project Committee",
+        "©SCPC"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1733453420012738874",
+    "imageUpdatedAt": 1731744815,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/fgh8",
+        "facebook": "https://abema.app/XGBj",
+        "google": "https://abema.app/RPCw",
+        "line": "https://abema.app/SZyd",
+        "copy": "https://abema.app/Wfp7",
+        "instagram": "https://abema.app/Qawy"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+        "filename": "thumb.png",
+        "query": "version=1731744815",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/705-1",
+        "filename": "portrait.png",
+        "query": "version=1731744815",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

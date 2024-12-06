@@ -1,0 +1,149 @@
+{
+    "id": "115-111_s1_p9",
+    "series": {
+        "id": "115-111",
+        "title": "SHIBUYA♡HACHI",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-111",
+            "filename": "thumb.png",
+            "query": "version=1727685791",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-111",
+            "filename": "portrait.png",
+            "query": "version=1727685791",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-111_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 160
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 ナイスバーガー",
+        "content": "クロはお行儀のいいグルメなカラス。限定バーガーの行列に並び疲れたクロのもとへやって来たハチが並ぶの得意と言うけれど・・・！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ハチ：和多田 美咲",
+            "ミケ：陶山 章央",
+            "ナナ：植田 佳奈",
+            "ハリー：うの ちひろ",
+            "クロ：盆子原 康",
+            "モヤイ：乃村 健次"
+        ],
+        "crews": [
+            "原案：「SHIBUYA♡HACHI」実行委員会",
+            "キャラクターデザイン：PansonWorks",
+            "アニメーションキャラクターデザイン：中野 友貴",
+            "脚本：髙橋 幹子/折笠 雄一",
+            "作画監督：山本 陽介",
+            "色彩設計：小森谷 初",
+            "美術監督：廣瀬 義憲",
+            "撮影監督：秋山 涼路",
+            "編集：名取 信一",
+            "音楽：長谷川 智樹",
+            "音響監督：早瀬 博雪",
+            "主題歌：「Dusk」HACHI",
+            "アニメーションプロデューサー：中島 友理",
+            "アニメーション制作：日本アニメーション",
+            "製作：SHIBUYA♡HACHIアニメ製作委員会"
+        ],
+        "copyrights": [
+            "(C)SHIBUYA♡HACHIアニメ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733471813,
+    "endAt": 1798729200,
+    "transcodeVersion": "FLsBo",
+    "sharedLink": {
+        "twitter": "https://abema.app/DJvf",
+        "facebook": "https://abema.app/r16U",
+        "google": "https://abema.app/7BVW",
+        "line": "https://abema.app/UkJm",
+        "copy": "https://abema.app/oGED",
+        "instagram": "https://abema.app/TZ8M"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-111_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-111_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-111_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-111_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 155.029875,
+        "opening": {
+            "end": 4.963291666666667
+        },
+        "ending": {
+            "start": 155.029875,
+            "end": 159.99316666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "115-111_s1_p10",
+        "title": "第10話 飛べない鳥",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1733471813,
+        "endAt": 1798729200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1798729200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-111_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1798729200
+        }
+    ],
+    "episodeGroupId": "115-111_eg0",
+    "skipVmap": true
+}

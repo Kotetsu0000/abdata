@@ -1,0 +1,139 @@
+{
+    "id": "273-528_s1_p21",
+    "series": {
+        "id": "273-528",
+        "title": "すとぷりのHere!We!GO!!",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "thumb.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/273-528",
+            "filename": "portrait.png",
+            "query": "version=1671099042",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "273-528_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1449
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 21,
+        "title": "#21 なぜか莉犬だけが面白い!?すとぷりvs芸人大喜利大会にHere!We!GO!!",
+        "content": "人気エンタメユニット「すとぷり」のテレビ初冠番組!▽番組で気の利いたコメントを返したい!▽すとぷりを鍛えるために!ニキが呼んだYes!アキトと大喜利大会で対決!?▽莉犬だけなぜか大喜利に前のめり!▽実は裏でとあるドッキリが・・・!?"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "莉犬",
+            "るぅと",
+            "さとみ",
+            "ころん",
+            "いちごニキ(坪倉由幸(我が家))"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) STPR Inc."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1685958158,
+    "endAt": 1761922800,
+    "transcodeVersion": "2eEamg",
+    "sharedLink": {
+        "twitter": "https://abema.app/Q9jx",
+        "facebook": "https://abema.app/EPDX",
+        "google": "https://abema.app/44a8",
+        "line": "https://abema.app/Jpmn",
+        "copy": "https://abema.app/dkVG",
+        "instagram": "https://abema.app/3WGR"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/273-528_s1_p21/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/273-528_s1_p21/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/273-528_s1_p21/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.273-528_s1_p21"
+    },
+    "viewingPoint": {
+        "suggestion": 1439.114559
+    },
+    "nextProgramInfo": {
+        "programId": "273-528_s1_p22",
+        "title": "#22 すとぷりは大人の対応をできるのか!?マナー講座にHere!We!GO!!",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1685958158,
+        "endAt": 1761922800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1761922800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/273-528_s1_p21/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "273-528_eg0",
+    "skipVmap": true
+}

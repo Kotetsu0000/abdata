@@ -1,0 +1,146 @@
+{
+    "id": "19-130_s1_p9",
+    "series": {
+        "id": "19-130",
+        "title": "ぷにるんず",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "thumb.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-130",
+            "filename": "portrait.png",
+            "query": "version=1665560295",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-130_s1",
+        "sequence": 1,
+        "name": "本編",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 745
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 『ゆかとあいるん♪』",
+        "content": "ゆかとあおいの写真を見ているぷにるんず。でも、昔の写真にあいるんの姿がない。そういえば、あいるんとゆかちゃんの出会いって、どんな感じだったの？気になるぷにるんずに、ゆかは語り始める。 \nあれは、よく晴れた日だった。こむぎと公園に行ったゆかは、ひとりでブランコに乗るあいるんと出会う。はじめて頭をぷにぷにとなでてあげた時、２人はその感触に衝撃を受ける。そこから、あいるんとゆかの不思議な交流が始まった。"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "あいるん：潘めぐみ",
+            "えねるん：小松未可子",
+            "らぶるん：内田彩",
+            "うるるん：山口智広",
+            "くーるん：木野日菜"
+        ],
+        "crews": [
+            "原作：タカラトミー",
+            "総監督：湯山邦彦",
+            "監督：山口健太郎",
+            "シリーズ構成：市川十億衛門",
+            "キャラクターデザイン：一石小百合",
+            "音楽：小畑貴裕",
+            "音響監督：小沼則義",
+            "制作：OLM Digital"
+        ],
+        "copyrights": [
+            "(C) ＴＯＭＹ／ぷにるんずぷにじぇくと・テレビ大阪"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1681805485,
+    "endAt": 1774969200,
+    "transcodeVersion": "joQUp",
+    "sharedLink": {
+        "twitter": "https://abema.app/AVGA",
+        "facebook": "https://abema.app/C7zP",
+        "google": "https://abema.app/XLps",
+        "line": "https://abema.app/jAfU",
+        "copy": "https://abema.app/7Ruw",
+        "instagram": "https://abema.app/eZ7V"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-130_s1_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-130_s1_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-130_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-130_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 670.0676
+    },
+    "nextProgramInfo": {
+        "programId": "19-130_s1_p10",
+        "title": "第10話 『ミッションインぷにッシブるん♪』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1681805485,
+        "endAt": 1774969200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1774969200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-130_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1774969200
+        }
+    ],
+    "episodeGroupId": "19-130_eg0",
+    "skipVmap": true
+}

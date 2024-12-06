@@ -1,0 +1,148 @@
+{
+    "id": "5-39_s3_p7",
+    "series": {
+        "id": "5-39",
+        "title": "​聖闘士星矢: Knights of the Zodiac",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "thumb.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-39",
+            "filename": "portrait.png",
+            "query": "version=1713511199",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-39_s3",
+        "sequence": 3,
+        "name": "season3",
+        "thumbComponent": {},
+        "order": 3
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1380
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "episode7 魔宮薔薇(デモンローズ)",
+        "content": "沙織の命の期限まであと一時間、青銅聖闘士たちにはもう一刻の猶予もない。いよいよ最後の宮、双魚宮でアンドロメダ瞬は師匠を死に追いやった黄金聖闘士魚座（ピスケス）のアフロディーテに復讐の炎を燃やす。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ペガサス星矢：森田成一、ドラゴン紫龍：櫻井孝宏、キグナス氷河: 三浦祥朗、",
+            "アンドロメダ瞬: 佐藤聡美、フェニックス一輝: 小西克幸、城戸沙織（アテナ）: 折笠富美子、",
+            "ムウ: 山崎たくみ、アルデバラン：玄田哲章、デスマスク：田中亮一、シャカ：三ツ矢雄二、",
+            "ミロ：関俊彦、シュラ：草尾毅、カミュ：神奈延年、アフロディーテ：難波圭一、教皇：置鮎龍太郎"
+        ],
+        "crews": [
+            "原作：車田正美",
+            "監督：芦野芳晴",
+            "脚本：ユージン・ソン",
+            "キャラクターデザイン：西位輝実",
+            "聖衣デザイン：岡崎能士",
+            "音楽：池頼広",
+            "CGディレクター：能沢諭",
+            "製作/制作/CG制作：東映アニメーション"
+        ],
+        "copyrights": [
+            "(C)Masami Kurumada / Toei Animation"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1717993526,
+    "endAt": 1759244400,
+    "transcodeVersion": "5FgLwE",
+    "sharedLink": {
+        "twitter": "https://abema.app/fpeC",
+        "facebook": "https://abema.app/otN9",
+        "google": "https://abema.app/kH1E",
+        "line": "https://abema.app/hWQG",
+        "copy": "https://abema.app/dApV",
+        "instagram": "https://abema.app/D3kg"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-39_s3_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-39_s3_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-39_s3_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-39_s3_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1290.53925,
+        "opening": {
+            "start": 30.071708333333333,
+            "end": 119.994875
+        },
+        "ending": {
+            "start": 1290.53925,
+            "end": 1380.003625
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-39_s3_p8",
+        "title": "episode8 サクリファイス",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1717993526,
+        "endAt": 1759244400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1759244400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-39_s3_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1759244400
+        }
+    ],
+    "episodeGroupId": "5-39_eg0",
+    "skipVmap": true
+}

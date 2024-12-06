@@ -1,0 +1,136 @@
+{
+    "id": "482-39_s2_p22",
+    "series": {
+        "id": "482-39",
+        "title": "忍ばない！クリプトニンジャ咲耶",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-39",
+            "filename": "thumb.png",
+            "query": "version=1708415389",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/482-39",
+            "filename": "portrait.png",
+            "query": "version=1708415389",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "482-39_s2",
+        "sequence": 2,
+        "name": "第2期",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "info": {
+        "duration": 210
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 22,
+        "title": "第二十二話 咲耶VS狐白",
+        "content": "狐白が鬼道衆に操られていることを知り、姉妹として対峙する決意をした咲耶。\n咲耶の思いは狐白に届くのか・・・"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "咲耶：堀本凪沙",
+            "ネム：本谷史織",
+            "シャオラン：内田彩",
+            "コンガ：大自然ロジャー",
+            "岩爺：木下章嗣",
+            "狐白：柊子"
+        ],
+        "crews": [
+            "原作：イケハヤ",
+            "脚本：細川徹",
+            "監督：野中晶史",
+            "制作：ファンワークス"
+        ],
+        "copyrights": [
+            "(C)CryptoAnime Labs/「クリプトニンジャ咲耶」制作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1711536717,
+    "endAt": 1743433200,
+    "transcodeVersion": "53iGKK",
+    "sharedLink": {
+        "twitter": "https://abema.app/KwVW",
+        "facebook": "https://abema.app/fRXz",
+        "google": "https://abema.app/ZkyE",
+        "line": "https://abema.app/qDNR",
+        "copy": "https://abema.app/Aatm",
+        "instagram": "https://abema.app/QCnK"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/482-39_s2_p22/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/482-39_s2_p22/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/482-39_s2_p22/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.482-39_s2_p22"
+    },
+    "viewingPoint": {
+        "suggestion": 198.06453333333334,
+        "opening": {
+            "end": 40.00663333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "482-39_s2_p23",
+        "title": "第二十三話 鬼道衆",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1711536717,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/482-39_s2_p22/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "482-39_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,134 @@
+{
+    "id": "622-3_s1_p6",
+    "series": {
+        "id": "622-3",
+        "title": "放送室の着ぐるみガール",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "thumb.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/622-3",
+            "filename": "portrait.png",
+            "query": "version=1717147281",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "622-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            }
+        ]
+    },
+    "info": {
+        "duration": 392
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 6,
+        "title": "第6話 不安とドキドキだらけの合宿開始！",
+        "content": "親睦を深めるべく合宿をすることになった放送部員一同。自由奔放な千里に不安を感じる直だが──！？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "来栖直：朝ノ瑠璃",
+            "音瀬りん：梅村美緒奈",
+            "早川千里：三浦陽子",
+            "ほか"
+        ],
+        "crews": [
+            "--"
+        ],
+        "copyrights": [
+            "(C) DIGIMERCE Inc. All Rights Reserved."
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713178577,
+    "endAt": 1746025200,
+    "transcodeVersion": "27pmET",
+    "sharedLink": {
+        "twitter": "https://abema.app/eRyh",
+        "facebook": "https://abema.app/YEuw",
+        "google": "https://abema.app/Xznf",
+        "line": "https://abema.app/QbF3",
+        "copy": "https://abema.app/nLvZ",
+        "instagram": "https://abema.app/j7gG"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/622-3_s1_p6/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/622-3_s1_p6/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/622-3_s1_p6/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.622-3_s1_p6"
+    },
+    "viewingPoint": {
+        "suggestion": 347.5472,
+        "ending": {
+            "start": 347.5472,
+            "end": 369.4691
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "622-3_s1_p7",
+        "title": "第7話 ついに明かされる！？着ぐるみガールの秘密とは",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1713178578,
+        "endAt": 1746025200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1746025200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/622-3_s1_p6/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1746025200
+        }
+    ],
+    "episodeGroupId": "622-3_eg0",
+    "skipVmap": true
+}

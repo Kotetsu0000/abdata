@@ -1,0 +1,149 @@
+{
+    "id": "13-161_s2_p9",
+    "series": {
+        "id": "13-161",
+        "title": "にじよん あにめーしょん2",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-161",
+            "filename": "thumb.png",
+            "query": "version=1712918876",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-161",
+            "filename": "portrait.png",
+            "query": "version=1712918876",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-161_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 230
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 璃奈とエマとコミュニケーション",
+        "content": "璃奈とエマの元にやってきたはんぺん。はんぺんがする色んな感情表現を璃奈とエマも真似してみると…"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "高咲 侑：矢野妃菜喜",
+            "上原歩夢：大西亜玖璃",
+            "中須かすみ：相良茉優",
+            "桜坂しずく：前田佳織里",
+            "朝香果林：久保田未夢",
+            "宮下 愛：村上奈津実",
+            "近江彼方：鬼頭明里",
+            "優木せつ菜：林 鼓子",
+            "エマ・ヴェルデ：指出毬亜",
+            "天王寺璃奈：田中ちえ美",
+            "三船栞子：小泉萌香",
+            "ミア・テイラー：内田 秀",
+            "鐘 嵐珠：法元明菜"
+        ],
+        "crews": [
+            "原作：矢立　肇",
+            "原案：公野櫻子",
+            "漫画：ミヤコヒト",
+            "監督：ほりうちゆうや",
+            "ＣＧディレクター：辰口智樹",
+            "美術監督：林　竜太",
+            "色彩設計：赤間三佐子",
+            "撮影監督：石山智之",
+            "編集：小口理菜",
+            "音響監督：長崎行男",
+            "音楽：遠藤ナオキ",
+            "アニメーション制作：サンライズ",
+            "製　作：プロジェクトラブライブ！にじよん あにめーしょん２・バンダイナムコフィルムワークス・バンダイナムコミュージックライブ・ブシロード・KADOKAWA"
+        ],
+        "copyrights": [
+            "(C)プロジェクトラブライブ！にじよん あにめーしょん2"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719224661,
+    "endAt": 1767193200,
+    "transcodeVersion": "vtqwC",
+    "sharedLink": {
+        "twitter": "https://abema.app/r9fk",
+        "facebook": "https://abema.app/Qf5m",
+        "google": "https://abema.app/kSm1",
+        "line": "https://abema.app/3Jxv",
+        "copy": "https://abema.app/DAR4",
+        "instagram": "https://abema.app/k6SD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-161_s2_p9/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-161_s2_p9/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-161_s2_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-161_s2_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 199.06553333333332,
+        "ending": {
+            "start": 199.06553333333332,
+            "end": 229.99643333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "13-161_s2_p10",
+        "title": "第10話 ミアと侑とスクールコンサート",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1719224661,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-161_s2_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "13-161_eg0",
+    "skipVmap": true
+}

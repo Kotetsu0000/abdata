@@ -1,0 +1,129 @@
+{
+    "id": "27-1_s2_p17",
+    "series": {
+        "id": "27-1",
+        "title": "オシリスの天秤",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "thumb.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "portrait.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "27-1_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 322
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 17,
+        "title": "Target 17 亡者の告白",
+        "content": "金のために人を殺す者とそれを職業にする者、両者を隔てるものは何か?"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "梶裕貴",
+            "小松由佳",
+            "宮野真守",
+            "他"
+        ],
+        "crews": [
+            "監督:冨士川祐輔",
+            "脚本:笠井健夫"
+        ],
+        "copyrights": [
+            "(C)フジテレビジョン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683690755,
+    "endAt": 1743433200,
+    "transcodeVersion": "3YkEGf",
+    "sharedLink": {
+        "twitter": "https://abema.app/ps8F",
+        "facebook": "https://abema.app/de96",
+        "google": "https://abema.app/V1pT",
+        "line": "https://abema.app/cfbP",
+        "copy": "https://abema.app/MNQu",
+        "instagram": "https://abema.app/uVXa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/27-1_s2_p17/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/27-1_s2_p17/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/27-1_s2_p17/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.27-1_s2_p17"
+    },
+    "viewingPoint": {
+        "suggestion": 292.048288,
+        "ending": {
+            "start": 292.048288,
+            "end": 322.0447
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "27-1_s2_p18",
+        "title": "Target 18 紅涙の理由",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683690761,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/27-1_s2_p17/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "27-1_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,139 @@
+{
+    "id": "19-90_s2_p25",
+    "series": {
+        "id": "19-90",
+        "title": "スーパーウィングス",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "thumb.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-90",
+            "filename": "portrait.png",
+            "query": "version=1707181855",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-90_s2",
+        "sequence": 2,
+        "name": "スーパーウィングス ミッションチーム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 719
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 25,
+        "title": "第25話 お城の舞踏会",
+        "content": "今回のお届け先はイギリスのお城に住むマリベル王女。マリベルはジェットが届けた犬用の衣装を５匹の愛犬に着せて王室の舞踏会に連れて行く。しかし舞踏会に出席する王子が犬を怖がったため、犬の参加は諦めることに。その間ジェットが別の部屋で犬のお世話を引き受けるが、途中で犬が脱走して会場である広間へ入ってしまいそこらじゅうを走り回り舞踏会は大混乱になってしまう。"
+    },
+    "credit": {
+        "released": 2018,
+        "casts": [
+            "ー"
+        ],
+        "crews": [
+            "ー"
+        ],
+        "copyrights": [
+            "(C) FunnyFlux / Alpha All Rights Reserved"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1707018366,
+    "endAt": 1740754800,
+    "transcodeVersion": "7FKXF9",
+    "sharedLink": {
+        "twitter": "https://abema.app/ixCP",
+        "facebook": "https://abema.app/fRnU",
+        "google": "https://abema.app/Qz1V",
+        "line": "https://abema.app/iELW",
+        "copy": "https://abema.app/4sZq",
+        "instagram": "https://abema.app/24um"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/19-90_s2_p25/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/19-90_s2_p25/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/19-90_s2_p25/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-90_s2_p25"
+    },
+    "viewingPoint": {
+        "suggestion": 705.027522
+    },
+    "nextProgramInfo": {
+        "programId": "19-90_s2_p26",
+        "title": "第26話 光がほしいとき",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1707018366,
+        "endAt": 1740754800,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1740754800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-90_s2_p25/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1740754800
+        }
+    ],
+    "episodeGroupId": "19-90_eg0",
+    "skipVmap": true
+}

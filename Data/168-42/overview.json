@@ -1,0 +1,75 @@
+{
+    "id": "168-42",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "ネコぱらOVA　仔ネコの日の約束",
+    "content": "嘉祥が店長を務めるネコたちが働くパティスリー『ラ・ソレイユ』開店の約半年前。\n仔ネコのショコラとバニラは水無月家に来たばかりで、他のネコたちともまだ打ち解けてない頃。\n嘉祥をご主人様と呼ぶようになって、初めてのクリスマスを迎えた二匹が嘉祥とひとつの約束を交わす。",
+    "seasons": [
+        {
+            "id": "168-42_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/168-42_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1683630024",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "168-42_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C) 2018 NEKO WORKs All Rights Reserved."
+    ],
+    "label": {},
+    "version": "1712914640905069482",
+    "imageUpdatedAt": 1671178208,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/X5wB",
+        "facebook": "https://abema.app/hFfj",
+        "google": "https://abema.app/PnNM",
+        "line": "https://abema.app/YwSi",
+        "copy": "https://abema.app/6oK8",
+        "instagram": "https://abema.app/iKSD"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-42",
+        "filename": "thumb.png",
+        "query": "version=1671178208",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-42",
+        "filename": "portrait.png",
+        "query": "version=1671178208",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "216-8",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "title": "おとなの防具屋さん",
+    "content": "青年・カウツは大量のスライムに追われているところを、\n謎の美少女・リリエッタに助けられる。\n\nリリエッタの落とし物を届けようと町の中を探すカウツは、\n運よく彼女の働く防具屋を見つけるが …。\n\nそこで目にした光景とは…？\n旅の冒険者たち。ようこそ、おとなの防具屋さんへ。",
+    "seasons": [
+        {
+            "id": "216-8_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/216-8_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1684126404",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "216-8_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)斐宮ふみ／COMICSMART INC."
+    ],
+    "label": {},
+    "version": "1728528856629078968",
+    "imageUpdatedAt": 1627289492,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/Eekop",
+        "facebook": "https://gxyt4.app.goo.gl/qVCVv",
+        "google": "https://gxyt4.app.goo.gl/1dRs2",
+        "line": "https://gxyt4.app.goo.gl/2SLdE",
+        "copy": "https://gxyt4.app.goo.gl/fuM5t",
+        "instagram": "https://gxyt4.app.goo.gl/o7CNj"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/216-8",
+        "filename": "thumb.png",
+        "query": "version=1627289492",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/216-8",
+        "filename": "portrait.png",
+        "query": "version=1627289492",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

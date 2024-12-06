@@ -1,0 +1,145 @@
+{
+    "id": "26-222_s1_p4",
+    "series": {
+        "id": "26-222",
+        "title": "龍族 -The Blazing Dawn-（日本語字幕版）",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-222",
+            "filename": "thumb.png",
+            "query": "version=1712560033",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-222",
+            "filename": "portrait.png",
+            "query": "version=1712560033",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "26-222_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1512
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ]
+    },
+    "episode": {
+        "number": 4,
+        "title": "3話 二体の龍王",
+        "content": "S級のミンフェイの実力を見たいと、ユルゲン教授は最高位の龍文〈皇帝〉を聞かせるがミンフェイは反応を示さない。〈皇帝〉の使い手である黒龍王に対抗できるのは白龍王のみだが、その子孫は滅んだと言われていた。教授たちはミンフェイが白龍王の末裔ではないかと仮説を立てる。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ルー・ミンフェイ／路明非：山下大輝",
+            "ノノ／諾諾：本渡 楓",
+            "ルー・ミンゼイ／路鳴沢：村瀬 歩",
+            "フィンゲル・フォン・フリングス：橘 龍丸",
+            "チュー・ズーハン／楚子航：小野賢章",
+            "シーザー・ガットゥーゾ：大塚剛央",
+            "リン：天城サリー",
+            "ノルマ・ローレンス：石見舞菜香",
+            "アンジェ：速水 奨"
+        ],
+        "crews": [
+            "原作：江南（ジャン・ナン）「龍族」",
+            "監督・シリーズ構成：王昕（ワン・シン）",
+            "キャラクターデザイン・総作画監督：李時旼（リー・シーミン）",
+            "音楽監督：伍婷（ウー・ティン）",
+            "BGM：KOHTA YAMAMOTO ほか",
+            "アニメーション制作：HANABARA Animation"
+        ],
+        "copyrights": [
+            "(C)2023 Shenzhen Tencent Computer Systems Company Limited"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1719915770,
+    "endAt": 1744124400,
+    "transcodeVersion": "6vNZR8",
+    "sharedLink": {
+        "twitter": "https://abema.app/GB4T",
+        "facebook": "https://abema.app/AeGX",
+        "google": "https://abema.app/WRo7",
+        "line": "https://abema.app/YKtf",
+        "copy": "https://abema.app/SbPY",
+        "instagram": "https://abema.app/Xzok"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/26-222_s1_p4/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/26-222_s1_p4/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/26-222_s1_p4/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.26-222_s1_p4"
+    },
+    "viewingPoint": {
+        "suggestion": 1422.2541666666666,
+        "opening": {
+            "end": 94.094
+        },
+        "ending": {
+            "start": 1422.2541666666666,
+            "end": 1512.3024583333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "26-222_s1_p5",
+        "title": "4話 龍宮",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004"
+        ],
+        "imageUpdatedAt": 1719915770,
+        "endAt": 1744124400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1744124400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/26-222_s1_p4/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1744124400
+        }
+    ],
+    "episodeGroupId": "26-222_eg0",
+    "skipVmap": true
+}

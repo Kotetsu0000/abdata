@@ -1,0 +1,159 @@
+{
+    "id": "397-19_s1_p3",
+    "series": {
+        "id": "397-19",
+        "title": "TVアニメ「オリエント」 安芸旅立ち編",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/397-19",
+            "filename": "thumb.png",
+            "query": "version=1641875446",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/397-19",
+            "filename": "portrait.png",
+            "query": "version=1641875446",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "397-19_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 外の世界",
+        "content": "武蔵と小次郎の前に現れたのは、武田武士団だった。武田より先に鬼神・炎獄天狗を倒して初手柄をあげたい武蔵。しかし、団長の武田尚虎に「お前一人で勝てる相手じゃない」と言われ、カチンとなる。一方、小次郎は武田武士団が鬼神と戦う姿を感慨深げに見つめていた。その光景は、幼い日に父・自斎から見せて貰った絵巻物そのもの。「親父の話は本当だった……」一方、尚虎の言葉に悔しさを募らせる武蔵は炎獄天狗に向かっていく！"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "武蔵：内田雄馬",
+            "鐘巻小次郎：斉藤壮馬",
+            "服部つぐみ：高橋李依",
+            "武田尚虎：日野　聡",
+            "犬飼四郎：下野　紘",
+            "犬坂七緒：和氣あず未",
+            "小雨田英雄：羽多野　渉"
+        ],
+        "crews": [
+            "原作：大高 忍（別冊少年マガジン連載／講談社）",
+            "監督：柳沢テツヤ",
+            "シリーズ構成：國澤真理子",
+            "キャラクターデザイン：岸田隆宏",
+            "音楽：深澤秀行",
+            "アニメーション制作：Ａ・Ｃ・Ｇ・Ｔ",
+            "製作：「オリエント」製作委員会"
+        ],
+        "copyrights": [
+            "(C)大高忍・講談社／「オリエント」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1699521436,
+    "endAt": 1756652400,
+    "transcodeVersion": "ubY5P",
+    "sharedLink": {
+        "twitter": "https://abema.app/nAnS",
+        "facebook": "https://abema.app/7JTP",
+        "google": "https://abema.app/XTsu",
+        "line": "https://abema.app/xuFN",
+        "copy": "https://abema.app/FYWK",
+        "instagram": "https://abema.app/N61c"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/397-19_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/397-19_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/397-19_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.397-19_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1315.003555,
+        "opening": {
+            "start": 115.119677,
+            "end": 202.019677
+        },
+        "ending": {
+            "start": 1315.003555,
+            "end": 1405.003555
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "397-19_s1_p4",
+        "title": "第4話 小雨田武士団",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1699521436,
+        "endAt": 1756652400,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1756652400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/397-19_s1_p3/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1756652400
+        }
+    ],
+    "episodeGroupId": "397-19_eg0",
+    "skipVmap": true
+}

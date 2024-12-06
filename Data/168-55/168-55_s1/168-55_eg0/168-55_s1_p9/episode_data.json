@@ -1,0 +1,145 @@
+{
+    "id": "168-55_s1_p9",
+    "series": {
+        "id": "168-55",
+        "title": "まついぬ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-55",
+            "filename": "thumb.png",
+            "query": "version=1696502453",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/168-55",
+            "filename": "portrait.png",
+            "query": "version=1696502453",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "168-55_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 160
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ]
+    },
+    "episode": {
+        "number": 9,
+        "title": "第9話 かくれんぼハロウィン",
+        "content": "たのしいハロウィンのかくれんぼ。\nみんなどこにいるのかな。"
+    },
+    "credit": {
+        "released": 2023,
+        "casts": [
+            "-"
+        ],
+        "crews": [
+            "原作：『おそ松くん』 赤塚不二夫",
+            "監督：えんどうてつや",
+            "シリーズ構成：小川ひとみ/えんどうてつや",
+            "脚本：小川ひとみ",
+            "キャラクターデザイン：長島有輝",
+            "テクニカルアドバイザー：あさをゆうじ",
+            "音楽：橋本由香利/川田瑠夏/設楽哲也/関向弥生",
+            "音楽制作：エイベックス・ピクチャーズ",
+            "松犬原案：フリュー",
+            "製作：まついぬ製作委員会",
+            "アニメーション制作：ポイント・ピクチャーズ"
+        ],
+        "copyrights": [
+            "(C)赤塚不二夫／まついぬ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1704338428,
+    "endAt": 1735657200,
+    "transcodeVersion": "6oo4xC",
+    "sharedLink": {
+        "twitter": "https://abema.app/5ziM",
+        "facebook": "https://abema.app/JvJC",
+        "google": "https://abema.app/Z5GF",
+        "line": "https://abema.app/EY9f",
+        "copy": "https://abema.app/dJNP",
+        "instagram": "https://abema.app/U9GR"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/168-55_s1_p9/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/168-55_s1_p9/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/168-55_s1_p9/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.168-55_s1_p9"
+    },
+    "viewingPoint": {
+        "suggestion": 155.155
+    },
+    "nextProgramInfo": {
+        "programId": "168-55_s1_p10",
+        "title": "第10話 アイススケートローリングスペシャル",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005",
+            "thumb006"
+        ],
+        "imageUpdatedAt": 1704338428,
+        "endAt": 1735657200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735657200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/168-55_s1_p9/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735657200
+        }
+    ],
+    "episodeGroupId": "168-55_eg0",
+    "skipVmap": true
+}

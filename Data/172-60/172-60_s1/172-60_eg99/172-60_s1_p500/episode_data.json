@@ -1,0 +1,124 @@
+{
+    "id": "172-60_s1_p500",
+    "series": {
+        "id": "172-60",
+        "title": "ハニーレモンソーダ",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-60",
+            "filename": "thumb.png",
+            "query": "version=1732870536",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-60",
+            "filename": "portrait.png",
+            "query": "version=1732870536",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "172-60_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 90
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【1/11より毎週土曜25:25〜配信】",
+        "content": "中学時代“石”と呼ばれていた石森羽花は、自分を変えるため、自由な校風の八美津高校に入学した。同じクラスで隣の席になったのは、レモン色の髪をした、クールで自由奔放な「レモンソーダ男子」の三浦界。実は羽花は中学時代に一度だけ界に会い、そのひと言をきっかけに高校を決めた。\n羽花にとっては、人気者の界は遠い存在。そんな界が、なぜか羽花の世話を焼くようになる。\n界が背中を押してくれることで、少しずつクラスに溶け込んでいく羽花だったが・・・。\n羽花の世界はどんどん、界の存在によって変わっていく―――。"
+    },
+    "credit": {
+        "released": 2025,
+        "casts": [
+            "石森羽花：市ノ瀬加那",
+            "三浦 界：矢野奨吾",
+            "菅野芹奈：高橋李依",
+            "遠藤あゆみ：根本京里",
+            "高嶺友哉：土岐隼一",
+            "瀬戸 悟：八代 拓"
+        ],
+        "crews": [
+            "原作：村田真優",
+            "監督：錦織 博",
+            "シリーズ構成：和場明子",
+            "キャラクターデザイン：田中愛美",
+            "音楽：小瀬村 晶",
+            "アニメーション制作：J.C.STAFF",
+            "企画プロデュース：UNLIMITED PRODUCE by TMS"
+        ],
+        "copyrights": [
+            "(C)村田真優／集英社・ハニーレモンソーダ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1732869860,
+    "endAt": 1743433200,
+    "freeEndAt": 1743433200,
+    "transcodeVersion": "4Hympp",
+    "sharedLink": {
+        "twitter": "https://abema.app/rupH",
+        "facebook": "https://abema.app/zk7c",
+        "google": "https://abema.app/X9Up",
+        "line": "https://abema.app/n4zg",
+        "copy": "https://abema.app/giKF",
+        "instagram": "https://abema.app/gz1t"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/172-60_s1_p500/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/172-60_s1_p500/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/172-60_s1_p500/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/172-60_s1_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.172-60_s1_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 85.085
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/172-60_s1_p500/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "172-60_eg99",
+    "skipVmap": true
+}

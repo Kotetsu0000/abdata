@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1732867341",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1732869344",
+            "query": "version=1733471866",
             "extension": "png"
         },
         "episode": {
@@ -248,8 +248,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1733418000
+                    "onDemandType": 3,
+                    "endAt": 1734022800
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -258,6 +258,35 @@
         },
         "info": {
             "duration": 1450
+        }
+    },
+    {
+        "id": "194-42_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p10",
+            "filename": "thumb002.png",
+            "query": "version=1733483199",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話 決戦",
+            "content": "フィオを追いかけ、戦場に戻ろうとするセリナ。だが思いと裏腹に体は戦いを恐れ、前へ進むことができない。仲間の悲鳴が響き渡り、震えるセリナが竜魔晶石に力を込めると、呼応するかのように魔力が溢れ……。一方、ドランは魔界にあるゲオルグ領に転移させられていた。本気の戦いを求められたドランが、真の力を解放する！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1734022800
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1449
         }
     }
 ]

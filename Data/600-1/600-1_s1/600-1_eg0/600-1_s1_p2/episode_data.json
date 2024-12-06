@@ -1,0 +1,149 @@
+{
+    "id": "600-1_s1_p2",
+    "series": {
+        "id": "600-1",
+        "title": "5億年ボタン【公式】～菅原そうたのショートショート～",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-1",
+            "filename": "thumb.png",
+            "query": "version=1727402737",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/600-1",
+            "filename": "portrait.png",
+            "query": "version=1727402737",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "600-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1259
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "#2 「５億年ボタン」",
+        "content": "ついに５億年ボタンを押してしまったトニオ。５億年ボタンの空間での生活がはじまるのであった…。\n途方もなく長い時間を過ごしたトニオ、そんなある日、トニオの脳裏にふと、ある疑問が浮かぶのであった。「そもそもこの宇宙って一体何なんでちゅか？」やがて哲学的な考えを深めていく…"
+    },
+    "credit": {
+        "released": 2022,
+        "casts": [
+            "トニオ：野沢雅子",
+            "ジャイ美：三森すずこ",
+            "スネ子：大空直美",
+            "井上博士：高野麻里佳",
+            "ウン子ちゃん：三上枝織",
+            "ドラゴン：ボルケーノ太田",
+            "ハナちゃん：羊宮妃那",
+            "ナレーション：銀河万丈"
+        ],
+        "crews": [
+            "監督：菅原そうた",
+            "原作：菅原そうた",
+            "シリーズ構成：菅原そうた",
+            "キャラクターデザイン：菅原そうた",
+            "美術設定：菅原そうた",
+            "美術監督：菅原そうた",
+            "撮影監督：菅原そうた",
+            "編集：菅原そうた",
+            "音響監督：菅原そうた",
+            "音楽：とくさしけんご、菅原そうた",
+            "音響効果：徳永義明、菅原そうた",
+            "制作：STUDIO SOTA"
+        ],
+        "copyrights": [
+            "(C)STUDIO SOTA"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1727318353,
+    "endAt": 1767193200,
+    "transcodeVersion": "e1sZc",
+    "sharedLink": {
+        "twitter": "https://abema.app/T3YT",
+        "facebook": "https://abema.app/ry2C",
+        "google": "https://abema.app/YuGL",
+        "line": "https://abema.app/eKNf",
+        "copy": "https://abema.app/3Y75",
+        "instagram": "https://abema.app/wTZH"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/600-1_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/600-1_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/600-1_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.600-1_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1143.09531
+    },
+    "nextProgramInfo": {
+        "programId": "600-1_s1_p3",
+        "title": "#3 「大統一場理論」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1727318353,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/600-1_s1_p2/4/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "600-1_eg0",
+    "skipVmap": true
+}

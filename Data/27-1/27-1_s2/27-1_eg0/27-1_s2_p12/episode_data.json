@@ -1,0 +1,129 @@
+{
+    "id": "27-1_s2_p12",
+    "series": {
+        "id": "27-1",
+        "title": "オシリスの天秤",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "thumb.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/27-1",
+            "filename": "portrait.png",
+            "query": "version=1678349975",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "27-1_s2",
+        "sequence": 2,
+        "name": "season2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 331
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "Target 12 不帰の味方",
+        "content": "言葉を知らず感情も持たず、ただ死を待つだけの少年・・・・・・彼が見ていた世界とは?"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "梶裕貴",
+            "小松由佳",
+            "宮野真守",
+            "他"
+        ],
+        "crews": [
+            "監督:冨士川祐輔",
+            "脚本:笠井健夫"
+        ],
+        "copyrights": [
+            "(C)フジテレビジョン"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1683690722,
+    "endAt": 1743433200,
+    "transcodeVersion": "5K7Ut4",
+    "sharedLink": {
+        "twitter": "https://abema.app/5CDu",
+        "facebook": "https://abema.app/CCEG",
+        "google": "https://abema.app/eBfu",
+        "line": "https://abema.app/zkAn",
+        "copy": "https://abema.app/PZnQ",
+        "instagram": "https://abema.app/MYbD"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/27-1_s2_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/27-1_s2_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/27-1_s2_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.27-1_s2_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 301.057288,
+        "ending": {
+            "start": 301.057288,
+            "end": 331.0537
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "27-1_s2_p13",
+        "title": "Target 13 利己の支配",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1683690728,
+        "endAt": 1743433200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1743433200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/27-1_s2_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "27-1_eg0",
+    "skipVmap": true
+}

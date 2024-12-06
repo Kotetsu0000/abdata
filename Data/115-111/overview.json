@@ -1,0 +1,69 @@
+{
+    "id": "115-111",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "SHIBUYA♡HACHI",
+    "content": "渋谷駅前のシンボル“忠犬ハチ公像“として、\nまちを見守り続けて来た“HACHI(ハチ)”が現代の渋谷で動き出す！\n\nミケ・ナナ・ハリー・クロといった\n渋谷に集まる愉快な仲間たちと繰り広げるユル〜く楽しい日常。\n\n“HACHI(ハチ)”の小さな冒険が、いま始まる！",
+    "seasons": [
+        {
+            "id": "115-111_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/115-111_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1727685812",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "115-111_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)SHIBUYA♡HACHIアニメ製作委員会"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1733500064215247823",
+    "imageUpdatedAt": 1727685791,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/bcUf",
+        "facebook": "https://abema.app/2s4Q",
+        "google": "https://abema.app/EEoy",
+        "line": "https://abema.app/o7Js",
+        "copy": "https://abema.app/2gth",
+        "instagram": "https://abema.app/urCN"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-111",
+        "filename": "thumb.png",
+        "query": "version=1727685791",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-111",
+        "filename": "portrait.png",
+        "query": "version=1727685791",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
