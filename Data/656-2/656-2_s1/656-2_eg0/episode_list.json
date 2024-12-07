@@ -277,8 +277,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 3,
+                    "endAt": 1735394400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1430
+        }
+    },
+    {
+        "id": "656-2_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/656-2_s1_p11",
+            "filename": "thumb001.png",
+            "query": "version=1733189593",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話",
+            "content": "大野晶は自身が運営する「INFINITY GAME」内のラスボス「魔王・九内伯斗」にログインしたまま異世界へと飛ばされてしまう。\nそこで出会ったアクやルナなどの仲間たちと着々と地盤を固めた彼は、現実世界に戻る術を探すべく新たな旅へ踏み出した。\n「魔王」を中心とした物語が再び動き出す…！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 1,
-                    "endAt": 1733580000
+                    "endAt": 1734184800
                 }
             ],
             "broadcastRegionPolicy": 1,

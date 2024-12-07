@@ -74,9 +74,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1689132329,
         "endAt": 1743433200,
+        "freeEndAt": 1734146400,
         "transcodeVersion": "4bkXye",
         "sharedLink": {
             "twitter": "https://abema.app/jG2T",
@@ -100,8 +103,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1733512200
+                "onDemandType": 3,
+                "endAt": 1734146400
             }
         ],
         "episodeGroupId": "19-141_eg0"
