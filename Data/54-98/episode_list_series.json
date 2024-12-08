@@ -950,12 +950,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1733189286,
         "endAt": 1769871600,
-        "freeEndAt": 1733648400,
         "transcodeVersion": "5xL4Rg",
         "sharedLink": {
             "twitter": "https://abema.app/ZFoQ",
@@ -979,8 +976,115 @@
         },
         "terms": [
             {
+                "onDemandType": 1,
+                "endAt": 1769871600
+            }
+        ],
+        "episodeGroupId": "54-98_eg0"
+    },
+    {
+        "id": "54-98_s1_p10",
+        "series": {
+            "id": "54-98",
+            "title": "モブ皇帝～平凡をむさぼる僕が多元宇宙の支配者に選ばれたので、世界を救ってみた～",
+            "label": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-98",
+                "filename": "thumb.png",
+                "query": "version=1731985744",
+                "extension": "png"
+            },
+            "thumbPortraitComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-98",
+                "filename": "portrait.png",
+                "query": "version=1731985744",
+                "extension": "png"
+            }
+        },
+        "season": {
+            "id": "54-98_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-98_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1731985761",
+                "extension": "png"
+            },
+            "order": 1
+        },
+        "info": {
+            "duration": 1090
+        },
+        "providedInfo": {
+            "thumbImg": "thumb001"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話",
+            "content": "主人公・陳俊は、ただただ平凡な暮らしを望むエセオタクだが、ひょんなことから多元宇宙帝国の皇帝になるハメになった。ただ普通の人間でいることを望む陳俊だったが、帝国にいる1.2メートルの女将軍パンドラも、異能局の姉の林雪も、帝国の女帝サンドラも、皆その意見に反対。幼なじみの許浅浅までも、「あなたは皇帝にならなければならない」と言った。陳俊は仕方なく、平日は世界を救い、休日はゲームに興じるという、なんとも忙しい生活を送ることになった…"
+        },
+        "credit": {
+            "released": 2024,
+            "casts": [
+                "陳俊（チェン・ジュン）:佐々木俊介",
+                "林雪（リン・シエ）:平野直子",
+                "陳倩（チェン・チエン）:藤井華",
+                "許浅浅（シュ・チェンチェン）:土屋星子",
+                "パンドラ:加藤香",
+                "サンドラ:戸田亜美",
+                "シカロ:山田栄次",
+                "チリン:花井"
+            ],
+            "crews": [
+                "原作:遠瞳（小説『希灵帝国』）",
+                "総指揮:李旎",
+                "チーフプロデューサー:張聖晏",
+                "総監督:顧麟龍",
+                "共同プロデューサー:肖志朝",
+                "共同制作監督:藕粉",
+                "制作統括 王緯興",
+                "音楽ディレクター:Boniuer",
+                "制作スタジオ:娃娃魚動畫",
+                "日本語吹替:497工作室",
+                "配給:イマジニア株式会社"
+            ],
+            "copyrights": [
+                "(C)bilibili 改编自阅文集团旗下起点读书小说远瞳作品『希灵帝国』"
+            ]
+        },
+        "mediaStatus": {},
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1733189286,
+        "endAt": 1769871600,
+        "freeEndAt": 1734253200,
+        "transcodeVersion": "2QoP75",
+        "sharedLink": {
+            "twitter": "https://abema.app/UErC",
+            "facebook": "https://abema.app/zm8p",
+            "google": "https://abema.app/9YwH",
+            "line": "https://abema.app/kpi8",
+            "copy": "https://abema.app/PMuK",
+            "instagram": "https://abema.app/1GYX"
+        },
+        "viewingPoint": {},
+        "download": {
+            "enable": true
+        },
+        "externalContent": {
+            "marks": {}
+        },
+        "broadcastRegionPolicy": 1,
+        "timelineThumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-98_s1_p10/1/timeline",
+            "extension": "png"
+        },
+        "terms": [
+            {
                 "onDemandType": 3,
-                "endAt": 1733648400
+                "endAt": 1734253200
             }
         ],
         "episodeGroupId": "54-98_eg0"

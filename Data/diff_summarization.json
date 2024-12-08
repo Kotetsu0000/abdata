@@ -1,161 +1,56 @@
 {
     "add": {
-        "247-19": {
-            "title": "映画『ゆるキャン△』",
+        "143-51": {
+            "title": "DEATH NOTE -デスノート-",
             "seasons": [
                 {
-                    "id": "247-19_s1",
+                    "id": "143-51_s1",
                     "sequence": 1,
                     "name": "シーズン1",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/247-19",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-51",
                         "filename": "thumb.png",
-                        "query": "version=1698202640",
+                        "query": "version=1731829351",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "247-19_eg0",
+                            "id": "143-51_eg0",
                             "name": "本編"
                         }
                     ],
                     "order": 1
                 }
             ],
-            "version": "1733450761985576263",
-            "imageUpdatedAt": "2023-10-25 11:57:20",
-            "imageUpdatedAtUnix": 1698202640,
-            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/247-19/thumb.png",
-            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/247-19/portrait.png",
+            "version": "1732289378647778619",
+            "imageUpdatedAt": "2024-11-17 16:42:31",
+            "imageUpdatedAtUnix": 1731829351,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/143-51/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/143-51/portrait.png",
             "onDemandTypes": [
-                "プレミアム"
-            ]
-        },
-        "218-764": {
-            "title": "TVアニメ「ダンダダン」ABEMAで振り返るじゃんよ",
-            "seasons": [
-                {
-                    "id": "218-764_s1",
-                    "sequence": 1,
-                    "name": "season1",
-                    "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-764",
-                        "filename": "thumb.png",
-                        "query": "version=1733382171",
-                        "extension": "png"
-                    },
-                    "episodeGroups": [
-                        {
-                            "id": "218-764_eg0",
-                            "name": "本編"
-                        }
-                    ],
-                    "order": 1
-                }
-            ],
-            "version": "1733495397611029848",
-            "imageUpdatedAt": "2024-12-05 16:02:51",
-            "imageUpdatedAtUnix": 1733382171,
-            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/218-764/thumb.png",
-            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/218-764/portrait.png",
-            "onDemandTypes": [
+                "プレミアム",
                 "無料"
             ]
         }
     },
     "change": {
-        "568-32": {
-            "title": "チ。 ―地球の運動について―",
-            "version_new": "1733585895293975906",
-            "version_old": "1733306851782052107",
+        "189-74": {
+            "title": "結婚するって、本当ですか",
             "onDemandTypes_new": [
-                "プレミアム",
                 "無料"
             ],
             "onDemandTypes_old": [
-                "無料"
-            ]
-        },
-        "149-4": {
-            "title": "ありふれた職業で世界最強",
-            "onDemandTypes_new": [
                 "プレミアム",
-                "無料"
-            ],
-            "onDemandTypes_old": [
                 "無料"
             ]
         },
         "218-694": {
             "title": "声優と夜あそび 2024",
-            "version_new": "1733556304012532199",
-            "version_old": "1733479511846222763"
+            "version_new": "1733635187052681600",
+            "version_old": "1733556304012532199"
         },
-        "11-62": {
-            "title": "パーティーから追放されたその治癒師、実は最強につき",
-            "seasons_new": [
-                {
-                    "id": "11-62_s1",
-                    "sequence": 1,
-                    "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-62_s1",
-                        "filename": "default_thumb.png",
-                        "query": "version=1731553784",
-                        "extension": "png"
-                    },
-                    "episodeGroups": [
-                        {
-                            "id": "11-62_eg0",
-                            "name": "本編"
-                        },
-                        {
-                            "id": "11-62_eg1",
-                            "name": "PV"
-                        }
-                    ],
-                    "order": 1
-                }
-            ],
-            "seasons_old": [
-                {
-                    "id": "11-62_s1",
-                    "sequence": 1,
-                    "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/11-62_s1",
-                        "filename": "default_thumb.png",
-                        "query": "version=1731553784",
-                        "extension": "png"
-                    },
-                    "episodeGroups": [
-                        {
-                            "id": "11-62_eg0",
-                            "name": "本編"
-                        },
-                        {
-                            "id": "11-62_eg2",
-                            "name": "特番"
-                        },
-                        {
-                            "id": "11-62_eg1",
-                            "name": "PV"
-                        }
-                    ],
-                    "order": 1
-                }
-            ]
-        },
-        "632-3": {
-            "title": "シャングリラ・フロンティア",
-            "onDemandTypes_new": [
-                "プレミアム",
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "無料"
-            ]
-        },
-        "19-143": {
-            "title": "冴えない彼女の育てかた",
+        "5-31": {
+            "title": "ドラゴンボールGT",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -164,8 +59,8 @@
                 "無料"
             ]
         },
-        "5-62": {
-            "title": "トロピカル～ジュ！プリキュア",
+        "25-275": {
+            "title": "歴史に残る悪女になるぞ",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -174,8 +69,8 @@
                 "無料"
             ]
         },
-        "54-80": {
-            "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+        "115-105": {
+            "title": "とあるおっさんのＶＲＭＭＯ活動記",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -184,8 +79,8 @@
                 "無料"
             ]
         },
-        "345-5": {
-            "title": "ラーメン赤猫",
+        "149-25": {
+            "title": "望まぬ不死の冒険者",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -194,8 +89,8 @@
                 "無料"
             ]
         },
-        "172-57": {
-            "title": "ReLIFE",
+        "25-7krpy-sgurg": {
+            "title": "氷菓",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -204,8 +99,8 @@
                 "無料"
             ]
         },
-        "25-253": {
-            "title": "ダンジョン飯",
+        "25-167": {
+            "title": "聖女の魔力は万能です",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -214,8 +109,8 @@
                 "無料"
             ]
         },
-        "189-58": {
-            "title": "暴食のベルセルク",
+        "168-32": {
+            "title": "私、能力は平均値でって言ったよね！",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -224,8 +119,8 @@
                 "無料"
             ]
         },
-        "25-265": {
-            "title": "恋は双子で割り切れない",
+        "25-201": {
+            "title": "乙女ゲー世界はモブに厳しい世界です",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -234,8 +129,8 @@
                 "無料"
             ]
         },
-        "19-3wxgpd-fitp": {
-            "title": "未確認で進行形",
+        "194-40": {
+            "title": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -244,8 +139,18 @@
                 "無料"
             ]
         },
-        "564-7": {
-            "title": "ミギとダリ",
+        "87-830": {
+            "title": "クレヨンしんちゃん",
+            "version_new": "1733644942987942818",
+            "version_old": "1733468564663540800"
+        },
+        "87-1084": {
+            "title": "ドラえもん",
+            "version_new": "1733646752353673206",
+            "version_old": "1733467381456707446"
+        },
+        "194-39": {
+            "title": "花野井くんと恋の病",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -254,8 +159,8 @@
                 "無料"
             ]
         },
-        "194-35": {
-            "title": "デキる猫は今日も憂鬱",
+        "54-74": {
+            "title": "黒の召喚士",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -264,32 +169,28 @@
                 "無料"
             ]
         },
-        "169-111": {
-            "title": "弱キャラ友崎くん",
+        "35-3": {
+            "title": "新あたしンち",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "177-235": {
+            "title": "雪の女王 ゲルダの伝説",
             "onDemandTypes_new": [
                 "プレミアム"
             ],
             "onDemandTypes_old": [
-                "無料"
-            ]
-        },
-        "218-706": {
-            "title": "SHIBUYA ANIME BASE",
-            "version_new": "1733558041227597589",
-            "version_old": "1733389141939890903"
-        },
-        "248-18": {
-            "title": "となりの妖怪さん",
-            "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
-            ],
-            "onDemandTypes_old": [
-                "無料"
             ]
         },
-        "420-60": {
-            "title": "君のことが大大大大大好きな100人の彼女",
+        "25-134": {
+            "title": "Re:ゼロから始める異世界生活 Memory Snow",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -297,8 +198,8 @@
                 "プレミアム"
             ]
         },
-        "248-15": {
-            "title": "最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
+        "25-245": {
+            "title": "豚のレバーは加熱しろ",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -307,8 +208,8 @@
                 "無料"
             ]
         },
-        "11-15": {
-            "title": "ヨルムンガンド",
+        "194-37": {
+            "title": "道産子ギャルはなまらめんこい",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -317,8 +218,18 @@
                 "無料"
             ]
         },
-        "19-115": {
-            "title": "銀の匙 Silver Spoon（第1期）",
+        "198-11": {
+            "title": "黄昏アウトフォーカス",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "13-183": {
+            "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -326,38 +237,8 @@
                 "プレミアム"
             ]
         },
-        "54-87": {
-            "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。",
-            "onDemandTypes_new": [
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム",
-                "無料"
-            ]
-        },
-        "25-10wkyfrkuytx": {
-            "title": "ノーゲーム・ノーライフ",
-            "onDemandTypes_new": [
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム",
-                "無料"
-            ]
-        },
-        "189-75": {
-            "title": "殿と犬",
-            "onDemandTypes_new": [
-                "プレミアム",
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "無料"
-            ]
-        },
-        "19-141": {
-            "title": "冴えない彼女の育てかた Fine",
+        "19-116": {
+            "title": "銀の匙 Silver Spoon（第2期）",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -365,17 +246,8 @@
                 "プレミアム"
             ]
         },
-        "19-175": {
-            "title": "放課後少年花子くん",
-            "onDemandTypes_new": [
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム"
-            ]
-        },
-        "25-67": {
-            "title": "ロウきゅーぶ!",
+        "54-92": {
+            "title": "真夜中ぱんチ",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -383,38 +255,42 @@
                 "プレミアム",
                 "無料"
             ]
-        }
-    },
-    "del": {
-        "218-760": {
-            "title": "アニメ「その治癒師」今日も元気にナルセーナTV 〜ABEMAも見てくだセーナ！〜",
-            "seasons": [
-                {
-                    "id": "218-760_s1",
-                    "sequence": 1,
-                    "name": "season1",
-                    "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/218-760",
-                        "filename": "thumb.png",
-                        "query": "version=1732784420",
-                        "extension": "png"
-                    },
-                    "episodeGroups": [
-                        {
-                            "id": "218-760_eg0",
-                            "name": "本編"
-                        }
-                    ],
-                    "order": 1
-                }
+        },
+        "177-234": {
+            "title": "リトル・パイレーツ",
+            "onDemandTypes_new": [
+                "プレミアム"
             ],
-            "version": "1733123509146883798",
-            "imageUpdatedAt": "2024-11-28 18:00:20",
-            "imageUpdatedAtUnix": 1732784420,
-            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/218-760/thumb.png",
-            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/218-760/portrait.png",
-            "onDemandTypes": [
+            "onDemandTypes_old": [
                 "無料"
+            ]
+        },
+        "106-4": {
+            "title": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム"
+            ]
+        },
+        "25-68": {
+            "title": "ロウきゅーぶ！SS",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "5-32": {
+            "title": "ドラゴンボールＧＴ 悟空外伝！ 勇気の証しは四星球",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム"
             ]
         }
     }
