@@ -219,8 +219,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1733720400
+                    "onDemandType": 1,
+                    "endAt": 1790780400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -229,6 +229,35 @@
         },
         "info": {
             "duration": 80
+        }
+    },
+    {
+        "id": "19-206_s1_p9",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-206_s1_p9",
+            "filename": "thumb001.png",
+            "query": "version=1733216701",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 9,
+            "title": "第9話",
+            "content": "全人類がニャいた！？「次にくるマンガ大賞2023WEB マンガ部門2位」を受賞した話題のSNSマンガ、ついにTVアニメ化！\nごく普通のサラリーマンだったのに、ある日突然、ねこに転生してしまったおじさん。\n人間の言葉も話せなくなり道端で困っていると、そこへ通りかかったのは、\nおじさんが勤めている会社の社長だった。厳しい性格で知られていた社長だったが、可愛らしいねこ（正体はおじさん）を目にしたとたん、態度が一変し…！？\n正体がバレないようふるまうおじさんと、ねこに「プンちゃん」と名付けて溺愛する社長の、愉快でシュールなハッピーライフがスタート！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1734325200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 81
         }
     }
 ]

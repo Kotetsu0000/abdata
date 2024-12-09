@@ -248,8 +248,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1733756400
+                    "onDemandType": 1,
+                    "endAt": 1830265200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -277,8 +277,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 3,
+                    "endAt": 1734361200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "54-95_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/54-95_s1_p11",
+            "filename": "thumb001.png",
+            "query": "version=1733216750",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話",
+            "content": "不滅の悪鬼（オーバーデス）と呼ばれた英雄を祖父に持つ少年ノエル。\n祖父に憧れ、最強の探索者（シーカー）を志す彼の持つ職能（ジョブ）は最弱と評される支援職【話術士】だった。\n祖父の遺志を継ぎ、並々ならぬ努力により探索者として力をつけたノエルだが、生まれ持った才能の差を埋めることはできなかった――\nしかし類稀なる才略をも開花させた彼は最強への道を見出す。\n\n仲間を集め最強の組織（クラン）を創り、そのマスターになること――。\n\n策略を巡らせ敵を翻弄し、仲間を率いて遥かなる高みを目指す。\n最凶の【話術士】は最強への道を切り開く。手段は選ばない。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 1,
-                    "endAt": 1733756400
+                    "endAt": 1734361200
                 }
             ],
             "broadcastRegionPolicy": 1,

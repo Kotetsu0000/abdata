@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p25",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p26",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p27",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p28",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p29",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p30",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p31",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p32",
             "filename": "thumb002.png",
-            "query": "version=1733189302",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p33",
             "filename": "thumb002.png",
-            "query": "version=1733224157",
+            "query": "version=1733732090",
             "extension": "png"
         },
         "episode": {
@@ -248,8 +248,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1734084000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1370
+        }
+    },
+    {
+        "id": "26-203_s2_p34",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-203_s2_p34",
+            "filename": "thumb001.png",
+            "query": "version=1733732090",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 34,
+            "title": "第三十四話「逆刃刀 初撃」",
+            "content": "時は遡り、慶応四年。寂れた神社の社殿で高熱に苦しむ剣心。新政府軍の敗残兵狩りたちによる不穏な会話を耳にして、刀を握る手に力が入る。敗残兵狩りが立ち去り、眠りに落ちた剣心は、夢の中で赤空の言葉に葛藤する。目が覚めると、元・岡っ引きの義壱と、その妻の皐月の家で介抱されていた。これは人斬りの過去を背負う剣心が、初めて逆刃刀を振るう物語。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1733713200
+                    "endAt": 1734318000
                 }
             ],
             "broadcastRegionPolicy": 1,

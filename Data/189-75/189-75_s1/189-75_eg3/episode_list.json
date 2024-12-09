@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p201",
             "filename": "thumb002.png",
-            "query": "version=1733187993",
+            "query": "version=1733731524",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p202",
             "filename": "thumb002.png",
-            "query": "version=1733187993",
+            "query": "version=1733731524",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p203",
             "filename": "thumb002.png",
-            "query": "version=1733187993",
+            "query": "version=1733731524",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p204",
             "filename": "thumb002.png",
-            "query": "version=1733187993",
+            "query": "version=1733731524",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p205",
             "filename": "thumb001.png",
-            "query": "version=1733187993",
+            "query": "version=1733731524",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p206",
             "filename": "thumb001.png",
-            "query": "version=1733187993",
+            "query": "version=1733731524",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p207",
             "filename": "thumb002.png",
-            "query": "version=1733187993",
+            "query": "version=1733731524",
             "extension": "png"
         },
         "episode": {
@@ -190,8 +190,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1774969200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 155
+        }
+    },
+    {
+        "id": "189-75_s1_p208",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-75_s1_p208",
+            "filename": "thumb002.png",
+            "query": "version=1733731524",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 208,
+            "title": "第8話 殿と洗濯",
+            "content": "泥だらけになった【犬】を綺麗にするために川へ。洗ってみたら……【犬】、細っ!?"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1733685300
+                    "endAt": 1734290100
                 }
             ],
             "broadcastRegionPolicy": 1,

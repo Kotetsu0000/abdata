@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731901",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1733188299",
+            "query": "version=1733731902",
             "extension": "png"
         },
         "episode": {
@@ -277,8 +277,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1733684400
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -287,6 +287,35 @@
         },
         "info": {
             "duration": 1450
+        }
+    },
+    {
+        "id": "25-276_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p11",
+            "filename": "thumb002.png",
+            "query": "version=1733731902",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話 幻の男",
+            "content": "株式会社トリリオンゲームが数十億円を手に入れるための秘策として、人気ソーシャルゲーム『ドラゴン娘』のクリエイターである“世界の堀本”をドラゴンバンクから引き抜こうと考えるハル。ガクと凜々が驚く中、ハルは以前出資を断られた投資家たちを呼び、新企画を大々的に発表。そこでゲストとして登壇したのは驚くべき人物だった。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1734289200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1449
         }
     }
 ]
