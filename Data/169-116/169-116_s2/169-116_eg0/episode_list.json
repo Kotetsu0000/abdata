@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p1",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p2",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p3",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p4",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p5",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p6",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p7",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p8",
             "filename": "thumb002.png",
-            "query": "version=1733216790",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p9",
             "filename": "thumb002.png",
-            "query": "version=1733224424",
+            "query": "version=1733822023",
             "extension": "png"
         },
         "episode": {
@@ -250,6 +250,35 @@
                 {
                     "onDemandType": 3,
                     "endAt": 1734354000
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1427
+        }
+    },
+    {
+        "id": "169-116_s2_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/169-116_s2_p10",
+            "filename": "thumb001.png",
+            "query": "version=1733822023",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話 因縁の宿敵",
+            "content": "坂田やフローラたちがいる部屋を強襲するレヴァナントたち。アルフォンスの一撃に一度は倒れた坂田だったが、再び目覚めると神装\"ヤマタノオロチ\"の力を解放する。間一髪逃れたアルフォンスを追おうとした時、レイスによって坂田は意識を失ってしまう。一方一人廊下に逃れたフローラは、ルシウスに捕らえられ屋敷の外へ連れ去られるところだった。それに気づいたリオは、レヴァナントをアイシアたちに任せ、単身ルシウスを追う。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1733850000
                 }
             ],
             "broadcastRegionPolicy": 1,

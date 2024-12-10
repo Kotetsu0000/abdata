@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1733476789",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1733476789",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1733476789",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1733476790",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1733476790",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1733476790",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1733476790",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1733476790",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1733476790",
+            "query": "version=1733822038",
             "extension": "png"
         },
         "episode": {
@@ -248,8 +248,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1759244400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1420
+        }
+    },
+    {
+        "id": "26-230_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/26-230_s1_p10",
+            "filename": "thumb001.png",
+            "query": "version=1733822038",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話 散る雪の中で",
+            "content": "都市部に上級悪魔が出現し、対応に追われる祓魔師たち。池袋ではシュラが陣頭指揮をとっていた。魔障を受けたことにより悪魔を見ることができる人間も増えていき、世界は混乱に陥っていく。時を同じくして、勝呂を銃で脅し、ライトニングとの調査内容を聞き出そうとした雪男。志摩の忠告にも耳を傾けず孤立を深めていく雪男は、任務のため東京へ戻り、ライトニングと遭遇する。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1733799600
+                    "endAt": 1734404400
                 }
             ],
             "broadcastRegionPolicy": 1,

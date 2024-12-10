@@ -1,0 +1,76 @@
+{
+    "id": "656-3",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            }
+        ]
+    },
+    "title": "日本へようこそエルフさん。",
+    "content": "社会人の北瀬一廣の趣味はとにかく寝ること。\n彼は、幼い頃からいつも夢で見る不思議な異世界で、胸躍る冒険をしていた。\nある時、仲良くなったエルフの少女と古代遺跡を探索していた時に、\n運悪く出くわした魔導竜にブレスで焼かれてしまう。\n\n夢から覚めると、部屋にいるはずのないエルフの少女が隣で眠っていて――",
+    "seasons": [
+        {
+            "id": "656-3_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/656-3",
+                "filename": "thumb.png",
+                "query": "version=1733399572",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "656-3_eg99",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)まきしま鈴木・ホビージャパン／「日本へようこそエルフさん。」製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1733747999397122186",
+    "imageUpdatedAt": 1733399572,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/C8r2",
+        "facebook": "https://abema.app/Zh92",
+        "google": "https://abema.app/9bww",
+        "line": "https://abema.app/e3V1",
+        "copy": "https://abema.app/XcZN",
+        "instagram": "https://abema.app/oprH"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/656-3",
+        "filename": "thumb.png",
+        "query": "version=1733399572",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/656-3",
+        "filename": "portrait.png",
+        "query": "version=1733399572",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

@@ -1361,9 +1361,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1733734077,
         "endAt": 1798729200,
+        "freeEndAt": 1734445800,
         "transcodeVersion": "3MBijx",
         "sharedLink": {
             "twitter": "https://abema.app/Apbt",
@@ -1387,8 +1390,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1733841000
+                "onDemandType": 3,
+                "endAt": 1734445800
             }
         ],
         "episodeGroupId": "168-69_eg0"

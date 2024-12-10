@@ -34,6 +34,24 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "19-174_s2",
+            "sequence": 2,
+            "name": "シーズン2",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-174_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1733108576",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-174_eg99",
+                    "name": "本編"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
@@ -42,7 +60,7 @@
     "label": {
         "someFree": true
     },
-    "version": "1733500522313617014",
+    "version": "1733783538129528780",
     "imageUpdatedAt": 1702261900,
     "programOrder": "seq",
     "sharedLink": {
