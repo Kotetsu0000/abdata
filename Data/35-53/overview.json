@@ -47,7 +47,9 @@
     "copyrights": [
         "(C)藤子プロ・小学館・テレビ朝日・シンエイ・ADK"
     ],
-    "label": {},
+    "label": {
+        "someFree": true
+    },
     "version": "1733817476526989205",
     "imageUpdatedAt": 1656999145,
     "programOrder": "seq",
@@ -72,8 +74,10 @@
         "extension": "png"
     },
     "onDemandTypes": [
-        1
+        1,
+        3
     ],
+    "freeBenefitTag": "894話〜896話無料",
     "contentPattern": 1,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
 }

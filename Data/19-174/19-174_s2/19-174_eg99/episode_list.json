@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-174_s2_p500",
             "filename": "thumb001.png",
-            "query": "version=1733108591",
+            "query": "version=1733905577",
             "extension": "png"
         },
         "episode": {
@@ -26,6 +26,35 @@
         },
         "info": {
             "duration": 92
+        }
+    },
+    {
+        "id": "19-174_s2_p501",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/19-174_s2_p501",
+            "filename": "thumb001.png",
+            "query": "version=1733905621",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 501,
+            "title": "本PV【1/10(金)24:30〜配信|以降1/17より毎週金曜24:00〜配信】",
+            "content": "毒と薬に異常な執着を持つ薬屋の娘・猫猫と\n謎多き美形の宦官・壬氏が\n宮中で巻き起こるさらなる難事件へと挑んでいく！\n\n帝の寵妃・玉葉妃の妊娠判明により、猫猫は翡翠宮の毒見役に復帰。\n妃、そして帝の御子を狙った事件が再び起きないよう警戒をしながら、日々を送っていた。\n先帝時代からの重臣を父にもつ新たな淑妃・楼蘭妃の入内、壬氏の命が狙われた、前代未聞の未解決事件、そして消えた容疑者・翠苓。\n不穏な空気が晴れない中、外国からの隊商、さらには無理難題な要求をする特使も来訪。宮中にはさらなる暗雲が立ち込め始めていた。\n猫猫と壬氏を待ち受ける新たな難事件。それらは、やがて国をも巻き込む一大事件へと発展していくー"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1743433200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2025,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 109
         }
     }
 ]
