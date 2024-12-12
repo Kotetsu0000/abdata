@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p25",
             "filename": "thumb002.png",
-            "query": "version=1733472069",
+            "query": "version=1733997989",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p26",
             "filename": "thumb002.png",
-            "query": "version=1733472069",
+            "query": "version=1733997989",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p27",
             "filename": "thumb002.png",
-            "query": "version=1733472069",
+            "query": "version=1733997989",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p28",
             "filename": "thumb002.png",
-            "query": "version=1733472069",
+            "query": "version=1733997989",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p29",
             "filename": "thumb002.png",
-            "query": "version=1733472069",
+            "query": "version=1733997990",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p30",
             "filename": "thumb002.png",
-            "query": "version=1733472069",
+            "query": "version=1733997990",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p31",
             "filename": "thumb002.png",
-            "query": "version=1733472069",
+            "query": "version=1733997990",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p32",
             "filename": "thumb002.png",
-            "query": "version=1733482204",
+            "query": "version=1733997990",
             "extension": "png"
         },
         "episode": {
@@ -221,6 +221,35 @@
                 {
                     "onDemandType": 1,
                     "endAt": 1767193200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1426
+        }
+    },
+    {
+        "id": "632-4_s6_p33",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/632-4_s6_p33",
+            "filename": "thumb002.png",
+            "query": "version=1733997990",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 33,
+            "title": "第33話 災いのベヒモス",
+            "content": "〈黙示録の四騎士〉を始末するべく魔界にやってきた刺客・モートラックたちに単独で戦いを仕掛けるガウェイン。その一方で、刺客の一人であるローズバンクと出会ったパーシバルは対話をしようと試みる。同じ頃、魔界の城にいるトリスタンは、魔神王ゼルドリスからキャメロットに通じる扉についての情報を得るが……"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1734509400
                 }
             ],
             "broadcastRegionPolicy": 1,
