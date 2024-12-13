@@ -1,0 +1,128 @@
+{
+    "id": "19-181_s1_p226",
+    "series": {
+        "id": "19-181",
+        "title": "ちいかわ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-181",
+            "filename": "thumb.png",
+            "query": "version=1702261866",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-181",
+            "filename": "portrait.png",
+            "query": "version=1702261866",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-181_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_10",
+                "name": "ファミリー・キッズ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 91
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 226,
+        "title": "第226話",
+        "content": "【なんか小さくてかわいいやつ】通称「ちいかわ」たちが送る\n楽しくて、ちょっぴり切ない物語。\n時には辛いことで泣いちゃうけれど\n「ちいかわ」の周りにはやさしい友達や個性豊かなキャラクターがたくさん！\nイラストレーター・ナガノによる大人気マンガ「ちいかわ」がついにアニメ化！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ちいかわ：青木 遥",
+            "ハチワレ：田中誠人",
+            "うさぎ：小澤亜李",
+            "モモンガ：井口裕香",
+            "ポシェットの鎧さん：杉田智和",
+            "労働の鎧さん：東地宏樹",
+            "ラーメンの鎧さん：松岡禎丞",
+            "ラッコ：内田雄馬",
+            "くりまんじゅう：淺井孝行"
+        ],
+        "crews": [
+            "原作：ナガノ",
+            "監督：松村樹里亜",
+            "シリーズディレクター：三原武憲",
+            "総作画監督：朝倉夕貴",
+            "色彩設計：石黒けい",
+            "撮影監督：金子直広（三晃プロダクション）"
+        ],
+        "copyrights": [
+            "(C)ナガノ / ちいかわ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733821903,
+    "endAt": 1785510000,
+    "transcodeVersion": "3majie",
+    "sharedLink": {
+        "twitter": "https://abema.app/Jkzg",
+        "facebook": "https://abema.app/sD3W",
+        "google": "https://abema.app/Sxsw",
+        "line": "https://abema.app/xy8y",
+        "copy": "https://abema.app/nNWn",
+        "instagram": "https://abema.app/9dNh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-181_s1_p226/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-181_s1_p226/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-181_s1_p226/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-181_s1_p226"
+    },
+    "viewingPoint": {
+        "suggestion": 61.97858333333333,
+        "ending": {
+            "start": 61.97858333333333,
+            "end": 91.92516666666667
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-181_s1_p226/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1785510000
+        }
+    ],
+    "episodeGroupId": "19-181_eg0",
+    "skipVmap": true
+}

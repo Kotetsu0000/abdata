@@ -1,0 +1,121 @@
+{
+    "id": "54-97_s2_p8",
+    "series": {
+        "id": "54-97",
+        "title": "ぬいストーリー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "thumb.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "portrait.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-97_s2",
+        "sequence": 2,
+        "name": "ぬいストーリー2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 114
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 8,
+        "title": "第8話",
+        "content": "自由奔放なぬいぐるみたちとミチコ（ギャル）の不思議な共同生活がますます賑やかに！推し活に精を出すわたあめ、食い意地がすごいいぬぱん、見た目は赤ちゃんなチェリーたちが君についてるぜ！制作は江古田の個人アニメチームPiso Studioが監督、脚本、キャラクターデザイン、声の出演に至るまでほぼ2人で担当！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督:いくピソ・ゆうピソ",
+            "脚本:いくピソ・ゆうピソ",
+            "デザイン:いくピソ",
+            "アニメーション:ゆうピソ",
+            "BGM:Audiostock",
+            "効果音:効果音ラボ・Audiostock"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1733471950,
+    "endAt": 1822316400,
+    "freeEndAt": 1734663600,
+    "transcodeVersion": "2Upr4s",
+    "sharedLink": {
+        "twitter": "https://abema.app/aBmB",
+        "facebook": "https://abema.app/RaZC",
+        "google": "https://abema.app/mVA6",
+        "line": "https://abema.app/buUL",
+        "copy": "https://abema.app/RxCW",
+        "instagram": "https://abema.app/cHDH"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/54-97_s2_p8/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/54-97_s2_p8/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/54-97_s2_p8/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/54-97_s2_p8/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-97_s2_p8"
+    },
+    "viewingPoint": {
+        "suggestion": 109.04226666666666
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-97_s2_p8/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1734663600
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1822316400
+        }
+    ],
+    "episodeGroupId": "54-97_eg0",
+    "skipVmap": true
+}

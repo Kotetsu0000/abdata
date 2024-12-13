@@ -1,189 +1,931 @@
 {
     "add": {
-        "593-11": {
-            "title": "悪役令嬢転生おじさん",
+        "172-39": {
+            "title": "ルパン三世TVSP #18　セブンデイズ・ラプソディ",
             "seasons": [
                 {
-                    "id": "593-11_s1",
+                    "id": "172-39_s1",
                     "sequence": 1,
+                    "name": "シーズン1",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/593-11",
-                        "filename": "thumb.png",
-                        "query": "version=1733282422",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-39_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683708619",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "593-11_eg99",
+                            "id": "172-39_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390919172180872",
+            "imageUpdatedAt": "2021-07-26 17:34:12",
+            "imageUpdatedAtUnix": 1627288452,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-39/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-39/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-14": {
+            "title": "ルパン三世TVSP #05　ルパン暗殺指令",
+            "seasons": [
+                {
+                    "id": "172-14_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-14",
+                        "filename": "thumb.png",
+                        "query": "version=1627288775",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-14_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733915297732966965",
+            "imageUpdatedAt": "2021-07-26 17:39:35",
+            "imageUpdatedAtUnix": 1627288775,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-14/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-14/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-37": {
+            "title": "ルパン三世TVSP #15　お宝返却大作戦!!",
+            "seasons": [
+                {
+                    "id": "172-37_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-37_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683022910",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-37_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390862540040629",
+            "imageUpdatedAt": "2021-07-26 17:46:52",
+            "imageUpdatedAtUnix": 1627289212,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-37/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-37/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-40": {
+            "title": "ルパン三世TVSP #19　霧のエリューシヴ",
+            "seasons": [
+                {
+                    "id": "172-40_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-40_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683708661",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-40_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390934038346212",
+            "imageUpdatedAt": "2021-07-26 17:28:14",
+            "imageUpdatedAtUnix": 1627288094,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-40/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-40/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-22": {
+            "title": "ルパン三世TVSP #16　盗まれたルパン～コピーキャットは真夏の蝶～",
+            "seasons": [
+                {
+                    "id": "172-22_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-22_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683708467",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-22_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390872294215230",
+            "imageUpdatedAt": "2021-07-26 17:33:05",
+            "imageUpdatedAtUnix": 1627288385,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-22/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-22/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-58": {
+            "title": "ルパン三世TVSP #25 ルパン三世 イタリアン・ゲーム",
+            "seasons": [
+                {
+                    "id": "172-58_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-58",
+                        "filename": "thumb.png",
+                        "query": "version=1722246549",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-58_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733391006394925777",
+            "imageUpdatedAt": "2024-07-29 18:49:09",
+            "imageUpdatedAtUnix": 1722246549,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-58/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-58/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-19": {
+            "title": "ルパン三世TVSP #12　１＄マネーウォーズ",
+            "seasons": [
+                {
+                    "id": "172-19_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-19",
+                        "filename": "thumb.png",
+                        "query": "version=1627288385",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-19_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733920240844996358",
+            "imageUpdatedAt": "2021-07-26 17:33:05",
+            "imageUpdatedAtUnix": 1627288385,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-19/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-19/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-20": {
+            "title": "ルパン三世TVSP #13　アルカトラズ コネクション",
+            "seasons": [
+                {
+                    "id": "172-20_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-20",
+                        "filename": "thumb.png",
+                        "query": "version=1627289529",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-20_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733921317876279999",
+            "imageUpdatedAt": "2021-07-26 17:52:09",
+            "imageUpdatedAtUnix": 1627289529,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-20/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-20/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-23": {
+            "title": "ルパン三世TVSP #20　sweet lost night 〜魔法のランプは悪夢の予感〜",
+            "seasons": [
+                {
+                    "id": "172-23_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-23_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683709035",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-23_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390944585155872",
+            "imageUpdatedAt": "2021-07-26 17:58:21",
+            "imageUpdatedAtUnix": 1627289901,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-23/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-23/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-35": {
+            "title": "ルパン三世TVSP #06　燃えよ斬鉄剣",
+            "seasons": [
+                {
+                    "id": "172-35_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-35_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683020032",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-35_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733916057059893488",
+            "imageUpdatedAt": "2021-07-26 17:28:14",
+            "imageUpdatedAtUnix": 1627288094,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-35/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-35/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-38": {
+            "title": "ルパン三世TVSP #17　天使の策略～夢のカケラは殺しの香り～",
+            "seasons": [
+                {
+                    "id": "172-38_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-38_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683708549",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-38_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390907242782661",
+            "imageUpdatedAt": "2021-07-26 17:46:52",
+            "imageUpdatedAtUnix": 1627289212,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-38/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-38/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-44": {
+            "title": "ルパン三世TVSP #24　ルパン三世 princess of the breeze ～隠された空中都市～",
+            "seasons": [
+                {
+                    "id": "172-44_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-44",
+                        "filename": "thumb.png",
+                        "query": "version=1627289613",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-44_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390993765618337",
+            "imageUpdatedAt": "2021-07-26 17:53:33",
+            "imageUpdatedAtUnix": 1627289613,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-44/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-44/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-31": {
+            "title": "ルパン三世TVSP #01　バイバイ・リバティ―・危機一発！",
+            "seasons": [
+                {
+                    "id": "172-31_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-31_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1682665951",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-31_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733901271582934196",
+            "imageUpdatedAt": "2021-07-26 17:46:52",
+            "imageUpdatedAtUnix": 1627289212,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-31/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-31/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-41": {
+            "title": "ルパン三世TVSP #21 the Last Job",
+            "seasons": [
+                {
+                    "id": "172-41_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-41",
+                        "filename": "thumb.png",
+                        "query": "version=1627289212",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-41_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390956807382876",
+            "imageUpdatedAt": "2021-07-26 17:46:52",
+            "imageUpdatedAtUnix": 1627289212,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-41/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-41/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-42": {
+            "title": "ルパン三世TVSP #22　血の刻印 永遠のmermaid",
+            "seasons": [
+                {
+                    "id": "172-42_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-42_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683709084",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-42_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390970364051934",
+            "imageUpdatedAt": "2021-07-26 17:53:33",
+            "imageUpdatedAtUnix": 1627289613,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-42/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-42/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-43": {
+            "title": "ルパン三世TVSP #23　ルパン三世 東方見聞録 ～アナザーページ～",
+            "seasons": [
+                {
+                    "id": "172-43_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-43_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683709118",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-43_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733390981144124286",
+            "imageUpdatedAt": "2021-07-26 17:46:53",
+            "imageUpdatedAtUnix": 1627289213,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-43/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-43/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-34": {
+            "title": "ルパン三世TVSP #04　ロシアより愛をこめて",
+            "seasons": [
+                {
+                    "id": "172-34_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-34_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683019404",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-34_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733906617788904811",
+            "imageUpdatedAt": "2021-07-26 17:28:14",
+            "imageUpdatedAtUnix": 1627288094,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-34/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-34/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-36": {
+            "title": "ルパン三世TVSP #08　トワイライト☆ジェミニの秘密",
+            "seasons": [
+                {
+                    "id": "172-36_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-36",
+                        "filename": "thumb.png",
+                        "query": "version=1627289977",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-36_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733916860176226727",
+            "imageUpdatedAt": "2021-07-26 17:59:37",
+            "imageUpdatedAtUnix": 1627289977,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-36/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-36/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-33": {
+            "title": "ルパン三世TVSP #03　ナポレオンの辞書を奪え",
+            "seasons": [
+                {
+                    "id": "172-33_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-33_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683018880",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-33_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733906562758188841",
+            "imageUpdatedAt": "2021-07-26 17:59:37",
+            "imageUpdatedAtUnix": 1627289977,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-33/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-33/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-18": {
+            "title": "ルパン三世TVSP #11　愛のダ・カーポ ～ＦＵＪＩＫＯ's Ｕnlucky Ｄays～",
+            "seasons": [
+                {
+                    "id": "172-18_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-18_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683020478",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-18_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733920225042824421",
+            "imageUpdatedAt": "2021-07-26 17:39:36",
+            "imageUpdatedAtUnix": 1627288776,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-18/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-18/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-21": {
+            "title": "ルパン三世TVSP #14　EPISODE：0 ファーストコンタクト",
+            "seasons": [
+                {
+                    "id": "172-21_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-21",
+                        "filename": "thumb.png",
+                        "query": "version=1627289901",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-21_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733921337402476149",
+            "imageUpdatedAt": "2021-07-26 17:58:21",
+            "imageUpdatedAtUnix": 1627289901,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-21/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-21/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-17": {
+            "title": "ルパン三世TVSP #10　炎の記憶 ～Tokyo Crisis～",
+            "seasons": [
+                {
+                    "id": "172-17_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-17",
+                        "filename": "thumb.png",
+                        "query": "version=1627288776",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-17_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733918765624400562",
+            "imageUpdatedAt": "2021-07-26 17:39:36",
+            "imageUpdatedAtUnix": 1627288776,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-17/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-17/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-15": {
+            "title": "ルパン三世TVSP #07　ハリマオの財宝を追え！！",
+            "seasons": [
+                {
+                    "id": "172-15_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-15",
+                        "filename": "thumb.png",
+                        "query": "version=1627288775",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-15_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733916793094458107",
+            "imageUpdatedAt": "2021-07-26 17:39:35",
+            "imageUpdatedAtUnix": 1627288775,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-15/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-15/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "172-16": {
+            "title": "ルパン三世TVSP #09　ワルサーＰ３８",
+            "seasons": [
+                {
+                    "id": "172-16_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/172-16",
+                        "filename": "thumb.png",
+                        "query": "version=1627288776",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-16_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733920059477580889",
+            "imageUpdatedAt": "2021-07-26 17:39:36",
+            "imageUpdatedAtUnix": 1627288776,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-16/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-16/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "643-8": {
+            "title": "「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール｡【オンエア版】",
+            "seasons": [
+                {
+                    "id": "643-8_s1",
+                    "sequence": 1,
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/643-8",
+                        "filename": "thumb.png",
+                        "query": "version=1734081867",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "643-8_eg99",
                             "name": "PV"
                         }
                     ],
                     "order": 1
                 }
             ],
-            "version": "1733826526652432749",
-            "imageUpdatedAt": "2024-12-04 12:20:22",
-            "imageUpdatedAtUnix": 1733282422,
-            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/593-11/thumb.png",
-            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/593-11/portrait.png",
+            "version": "1734081938809253569",
+            "imageUpdatedAt": "2024-12-13 18:24:27",
+            "imageUpdatedAtUnix": 1734081867,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/643-8/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/643-8/portrait.png",
+            "onDemandTypes": [
+                "無料"
+            ]
+        },
+        "172-32": {
+            "title": "ルパン三世TVSP #02　 ヘミングウェイ・ペーパーの謎",
+            "seasons": [
+                {
+                    "id": "172-32_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/172-32_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1683018387",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "172-32_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1733901301032381999",
+            "imageUpdatedAt": "2021-07-26 17:41:07",
+            "imageUpdatedAtUnix": 1627288867,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-32/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/172-32/portrait.png",
+            "onDemandTypes": [
+                "プレミアム"
+            ]
+        },
+        "210-15": {
+            "title": "もめんたりー・リリィ",
+            "seasons": [
+                {
+                    "id": "210-15_s1",
+                    "sequence": 1,
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-15",
+                        "filename": "thumb.png",
+                        "query": "version=1733900257",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "210-15_eg99",
+                            "name": "PV"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "version": "1734055837635985045",
+            "imageUpdatedAt": "2024-12-11 15:57:37",
+            "imageUpdatedAtUnix": 1733900257,
+            "thumbnailUrl": "https://image.p-c2-x.abema-tv.com/image/series/210-15/thumb.png",
+            "portraitUrl": "https://image.p-c2-x.abema-tv.com/image/series/210-15/portrait.png",
             "onDemandTypes": [
                 "無料"
             ]
         }
     },
     "change": {
-        "54-95": {
-            "title": "最凶の支援職【話術士】である俺は世界最強クランを従える",
-            "version_new": "1733994562338722551",
-            "version_old": "1733830540500983200"
+        "168-69": {
+            "title": "嘆きの亡霊は引退したい",
+            "version_new": "1734086164367970725",
+            "version_old": "1733734904730355051"
         },
-        "169-116": {
-            "title": "精霊幻想記",
-            "version_new": "1734004291304630982",
-            "version_old": "1733893662570818399"
+        "149-4": {
+            "title": "ありふれた職業で世界最強",
+            "version_new": "1734086221314809879",
+            "version_old": "1733883012026566585"
+        },
+        "593-10": {
+            "title": "ダンダダン",
+            "version_new": "1734061770716171577",
+            "version_old": "1733926391293586285"
         },
         "35-34": {
             "title": "あたしンち",
-            "version_new": "1733979421184948188",
-            "version_old": "1733724374537371965"
+            "version_new": "1734086564077447446",
+            "version_old": "1733979421184948188"
         },
-        "11-62": {
-            "title": "パーティーから追放されたその治癒師、実は最強につき",
-            "version_new": "1734004538253877141",
-            "version_old": "1733732656907885760"
-        },
-        "568-32": {
-            "title": "チ。 ―地球の運動について―",
-            "version_new": "1734003370617414914",
-            "version_old": "1733736756418155327"
-        },
-        "25-275": {
-            "title": "歴史に残る悪女になるぞ",
-            "version_new": "1734003873908956552",
-            "version_old": "1733734911879218916"
-        },
-        "632-3": {
-            "title": "シャングリラ・フロンティア",
-            "version_new": "1734006614299961861",
-            "version_old": "1733926270624404924"
-        },
-        "420-57": {
-            "title": "ブルーロック",
-            "version_new": "1734004616623632804",
-            "version_old": "1733732697288443399"
-        },
-        "656-2": {
-            "title": "魔王様、リトライ！R",
-            "version_new": "1734003447396549436",
-            "version_old": "1733734908944203530"
-        },
-        "25-248": {
-            "title": "鴨乃橋ロンの禁断推理",
-            "version_new": "1734004246690794245",
-            "version_old": "1733881764084186941"
+        "35-55": {
+            "title": "映画クレヨンしんちゃん",
+            "version_new": "1734085534747417045",
+            "version_old": "1733484400534361558"
         },
         "218-694": {
             "title": "声優と夜あそび 2024",
-            "version_new": "1733976307229888641",
-            "version_old": "1733888414730065578"
+            "version_new": "1734084188061419373",
+            "version_old": "1733976307229888641"
         },
-        "26-230": {
-            "title": "青の祓魔師 雪ノ果篇",
-            "version_new": "1733994893872957225",
-            "version_old": "1733893500157042711"
+        "632-3": {
+            "title": "シャングリラ・フロンティア",
+            "version_new": "1734075582484803189",
+            "version_old": "1734006614299961861"
+        },
+        "12-26": {
+            "title": "君は冥土様。",
+            "version_new": "1734086050587111354",
+            "version_old": "1733734917817311950",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
+        },
+        "30-5": {
+            "title": "進撃の巨人",
+            "version_new": "1734066049678342537",
+            "version_old": "1733741836413961463"
         },
         "189-70": {
             "title": "ひとりぼっちの異世界攻略",
-            "version_new": "1733975741860788501",
-            "version_old": "1733826391854497030"
+            "version_new": "1734076290131375035",
+            "version_old": "1733975741860788501"
         },
-        "11-63": {
-            "title": "合コンに行ったら女がいなかった話",
-            "version_new": "1734003480786578801",
-            "version_old": "1733822759112503049"
-        },
-        "194-43": {
-            "title": "星降る王国のニナ",
-            "version_new": "1734004332788446288",
-            "version_old": "1733883220232918612"
-        },
-        "26-203": {
-            "title": "るろうに剣心 －明治剣客浪漫譚－",
-            "version_new": "1734007607670181549",
-            "version_old": "1733893569076866376"
-        },
-        "420-65": {
-            "title": "転生貴族、鑑定スキルで成り上がる",
-            "version_new": "1733998249610796065",
-            "version_old": "1733747844633595691"
-        },
-        "54-96": {
-            "title": "やり直し令嬢は竜帝陛下を攻略中",
-            "version_new": "1733996239360594519",
-            "version_old": "1733747717098454067"
-        },
-        "25-92": {
-            "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
-            "version_new": "1734002756729007071",
-            "version_old": "1733732655082048770"
+        "25-274": {
+            "title": "魔王2099",
+            "version_new": "1734086107490677105",
+            "version_old": "1733794558393688105"
         },
         "172-59": {
             "title": "アオのハコ",
-            "version_new": "1733974513041325072",
-            "version_old": "1733903114585091431"
+            "version_new": "1734061486185435207",
+            "version_old": "1733974513041325072"
         },
-        "632-4": {
-            "title": "七つの大罪 黙示録の四騎士",
-            "version_new": "1734002977697224517",
-            "version_old": "1733482220231884403"
+        "194-42": {
+            "title": "さようなら竜生、こんにちは人生",
+            "version_new": "1734082708748654602",
+            "version_old": "1733500285829494336"
         },
-        "115-116": {
-            "title": "甘神さんちの縁結び",
-            "version_new": "1734004009364324573",
-            "version_old": "1733734915097590566"
+        "168-49": {
+            "title": "頭文字[イニシャル]D",
+            "version_new": "1734055283395414409",
+            "version_old": "1733881866425167398"
         },
-        "248-21": {
-            "title": "妖怪学校の先生はじめました！",
-            "version_new": "1734003157979766839",
-            "version_old": "1733892973025057306"
+        "168-53": {
+            "title": "TVアニメ『MFゴースト』",
+            "version_new": "1734068381511290301",
+            "version_old": "1733926230891869296"
         },
-        "198-12": {
-            "title": "魔法使いになれなかった女の子の話",
-            "version_new": "1734004381025235536",
-            "version_old": "1733883301879681469"
+        "194-43": {
+            "title": "星降る王国のニナ",
+            "version_new": "1734082467785365627",
+            "version_old": "1734004332788446288"
         },
-        "189-73": {
-            "title": "来世は他人がいい",
-            "version_new": "1734003226507783270",
-            "version_old": "1733734910713775591"
-        },
-        "19-202": {
-            "title": "妻、小学生になる。",
-            "version_new": "1734003814184985155",
-            "version_old": "1733734918483169305"
-        },
-        "15-30": {
-            "title": "BLEACH 千年血戦篇",
-            "version_new": "1734006964754580697",
-            "version_old": "1733732651539315981"
-        },
-        "25-276": {
-            "title": "トリリオンゲーム",
-            "version_new": "1734007041920751746",
-            "version_old": "1733732656229724506"
-        },
-        "675-3": {
-            "title": "2.5次元の誘惑",
-            "version_new": "1734000492221113257",
-            "version_old": "1733732650976930920"
-        },
-        "247-20": {
-            "title": "きのこいぬ",
-            "version_new": "1733995155955086578",
-            "version_old": "1733892972486387044"
-        },
-        "189-74": {
-            "title": "結婚するって、本当ですか",
+        "189-62": {
+            "title": "異世界のんびり農家",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -192,38 +934,48 @@
                 "無料"
             ]
         },
-        "189-71": {
-            "title": "凍牌～裏レート麻雀闘牌録～",
-            "version_new": "1733999612811579895",
-            "version_old": "1733734905360635672"
+        "35-50": {
+            "title": "クレヨンしんちゃん",
+            "version_new": "1734082869710734528",
+            "version_old": "1733486079005179262"
         },
-        "5-65": {
-            "title": "わんだふるぷりきゅあ！",
-            "version_new": "1733994624014466179",
-            "version_old": "1733892969779508363"
+        "26-203": {
+            "title": "るろうに剣心 －明治剣客浪漫譚－",
+            "version_new": "1734057996007360371",
+            "version_old": "1734007607670181549"
         },
-        "54-98": {
-            "title": "モブ皇帝～平凡をむさぼる僕が多元宇宙の支配者に選ばれたので、世界を救ってみた～",
-            "version_new": "1734007330664553320",
-            "version_old": "1733894567626273664"
-        },
-        "13-151": {
-            "title": "ラブライブ！スーパースター!!",
-            "version_new": "1733995570380409706",
-            "version_old": "1733894493054854290"
+        "13-47": {
+            "title": "銀魂",
+            "version_new": "1734067474598072369",
+            "version_old": "1733722977326642378"
         },
         "35-53": {
             "title": "ドラえもん",
-            "version_new": "1734004374432827355",
-            "version_old": "1733817476526989205"
+            "version_new": "1734090026053335086",
+            "version_old": "1734004374432827355"
         },
-        "420-69": {
-            "title": "神之塔 -Tower of God-",
-            "version_new": "1734004165435318322",
-            "version_old": "1733734901921510370"
+        "168-50": {
+            "title": "頭文字[イニシャル]D OVA",
+            "version_new": "1734052449085386430",
+            "version_old": "1733880493386599604"
         },
-        "35-7fbsihxzgdw": {
-            "title": "忍者ハットリくん",
+        "25-242": {
+            "title": "はたらく魔王さま！！",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
+        },
+        "25-139": {
+            "title": "Re:ゼロから始める異世界生活",
+            "version_new": "1734077985821103303",
+            "version_old": "1733391296314127382"
+        },
+        "560-1": {
+            "title": "魔法使いの嫁",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -232,38 +984,85 @@
                 "無料"
             ]
         },
-        "143-49": {
-            "title": "多数欠",
-            "version_new": "1734004045872323097",
-            "version_old": "1733734903310994306"
+        "15-30": {
+            "title": "BLEACH 千年血戦篇",
+            "version_new": "1734081499652403486",
+            "version_old": "1734006964754580697"
         },
-        "30-13": {
-            "title": "銀河英雄伝説 Die Neue These",
-            "version_new": "1734003916669708402",
-            "version_old": "1733734917122100474"
+        "675-3": {
+            "title": "2.5次元の誘惑",
+            "version_new": "1734076510373279962",
+            "version_old": "1734000492221113257"
         },
-        "13-189": {
-            "title": "アイドルマスター シャイニーカラーズ",
-            "version_new": "1734007524685790875",
-            "version_old": "1733881482423332706"
+        "218-690": {
+            "title": "ホロごえっ！",
+            "version_new": "1734080539211244166",
+            "version_old": "1733139552962711544"
         },
-        "675-1": {
-            "title": "オーイ！とんぼ",
-            "version_new": "1734004655873981752",
-            "version_old": "1733732653932630482"
+        "189-74": {
+            "title": "結婚するって、本当ですか",
+            "version_new": "1734060762775561737",
+            "version_old": "1733500193790455950",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
         },
-        "54-99": {
-            "title": "時空の隙",
-            "version_new": "1734003952773820318",
-            "version_old": "1733894625935415709"
+        "5-64": {
+            "title": "ひろがるスカイ！プリキュア",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "25-276": {
+            "title": "トリリオンゲーム",
+            "version_new": "1734051954039135505",
+            "version_old": "1734007041920751746"
+        },
+        "54-70": {
+            "title": "史上最強の大魔王、村人Aに転生する",
+            "version_new": "1734062373816601657",
+            "version_old": "1733209823086582711"
+        },
+        "168-67": {
+            "title": "ロックマンエグゼ",
+            "version_new": "1734055468444213527",
+            "version_old": "1733895541091885983"
+        },
+        "19-190": {
+            "title": "怪獣８号",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
+        },
+        "25-273": {
+            "title": "ネガポジアングラー",
+            "version_new": "1734061337644964991",
+            "version_old": "1733826288355467862"
+        },
+        "420-11": {
+            "title": "転生したらスライムだった件",
+            "version_new": "1734060309159117312",
+            "version_old": "1733457866345982707"
         },
         "618-1": {
             "title": "齢5000年の草食ドラゴン、いわれなき邪竜認定",
-            "version_new": "1734003409048860562",
-            "version_old": "1733734911325331650"
+            "version_new": "1734076738007863222",
+            "version_old": "1734003409048860562"
         },
-        "149-7": {
-            "title": "＜Infinite Dendrogram＞-インフィニット・デンドログラム-",
+        "19-143": {
+            "title": "冴えない彼女の育てかた",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -272,41 +1071,56 @@
                 "無料"
             ]
         },
-        "19-174": {
-            "title": "薬屋のひとりごと",
+        "25-59": {
+            "title": "エロマンガ先生",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
+        },
+        "25-109": {
+            "title": "盾の勇者の成り上がり",
+            "version_new": "1734062742591243003",
+            "version_old": "1733110970147410057"
+        },
+        "25-244": {
+            "title": "わたしの幸せな結婚",
             "seasons_new": [
                 {
-                    "id": "19-174_s1",
+                    "id": "25-244_s1",
                     "sequence": 1,
-                    "name": "シーズン1",
+                    "name": "第一期",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-174_s1",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-244_s1",
                         "filename": "default_thumb.png",
-                        "query": "version=1733993246",
+                        "query": "version=1687769688",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "19-174_eg0",
+                            "id": "25-244_eg0",
                             "name": "本編"
                         }
                     ],
                     "order": 1
                 },
                 {
-                    "id": "19-174_s2",
+                    "id": "25-244_s2",
                     "sequence": 2,
-                    "name": "シーズン2",
+                    "name": "第二期",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-174_s2",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-244_s2",
                         "filename": "default_thumb.png",
-                        "query": "version=1733905645",
+                        "query": "version=1734071457",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "19-174_eg99",
-                            "name": "本編"
+                            "id": "25-244_eg99",
+                            "name": "PV"
                         }
                     ],
                     "order": 2
@@ -314,117 +1128,107 @@
             ],
             "seasons_old": [
                 {
-                    "id": "19-174_s1",
+                    "id": "25-244_s1",
                     "sequence": 1,
                     "name": "シーズン1",
                     "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-174_s1",
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-244_s1",
                         "filename": "default_thumb.png",
-                        "query": "version=1702261928",
+                        "query": "version=1687769688",
                         "extension": "png"
                     },
                     "episodeGroups": [
                         {
-                            "id": "19-174_eg0",
+                            "id": "25-244_eg0",
                             "name": "本編"
                         }
                     ],
                     "order": 1
-                },
-                {
-                    "id": "19-174_s2",
-                    "sequence": 2,
-                    "name": "シーズン2",
-                    "thumbComponent": {
-                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/19-174_s2",
-                        "filename": "default_thumb.png",
-                        "query": "version=1733905645",
-                        "extension": "png"
-                    },
-                    "episodeGroups": [
-                        {
-                            "id": "19-174_eg99",
-                            "name": "本編"
-                        }
-                    ],
-                    "order": 2
                 }
             ],
-            "version_new": "1733967115886110384",
-            "version_old": "1733926463897047414"
+            "version_new": "1734086994414117689",
+            "version_old": "1733991652005118923"
         },
-        "536-7": {
-            "title": "忘却バッテリー",
+        "19-138": {
+            "title": "劇場版「暗殺教室」365日の時間",
             "onDemandTypes_new": [
-                "プレミアム",
-                "無料"
+                "プレミアム"
             ],
             "onDemandTypes_old": [
                 "無料"
             ]
-        },
-        "190-28": {
-            "title": "女神降臨",
-            "version_new": "1734003136596947051",
-            "version_old": "1733734913293905165"
-        },
-        "19-205": {
-            "title": "青のミブロ",
-            "version_new": "1734003368871527928",
-            "version_old": "1733746693392719302"
         },
         "189-72": {
             "title": "メカウデ",
-            "onDemandTypes_new": [
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム",
-                "無料"
-            ]
-        },
-        "168-63": {
-            "title": "FAIRY TAIL 100年クエスト",
-            "version_new": "1734003564473088508",
-            "version_old": "1733826571141258344"
-        },
-        "25-244": {
-            "title": "わたしの幸せな結婚",
-            "version_new": "1733991652005118923",
-            "version_old": "1732703623653311099"
-        },
-        "30-5": {
-            "title": "進撃の巨人",
+            "version_new": "1734082784708933377",
+            "version_old": "1733729561848252998",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
             ],
             "onDemandTypes_old": [
-                "プレミアム"
+                "無料"
             ]
         },
-        "115-115": {
-            "title": "アクロトリップ",
-            "version_new": "1733999028809630208",
-            "version_old": "1733747758941889241"
+        "218-709": {
+            "title": "モブから始まる探索英雄譚",
+            "version_new": "1734068675551146024",
+            "version_old": "1732176634406402852"
         },
-        "203-8": {
-            "title": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
-            "version_new": "1733999750927630676",
-            "version_old": "1733734913799170500"
+        "19-203": {
+            "title": "ぷにるはかわいいスライム",
+            "version_new": "1734086277970229009",
+            "version_old": "1733732658092110018"
         },
-        "203-7": {
-            "title": "遊☆戯☆王ゴーラッシュ！！",
-            "version_new": "1733995007757417778",
-            "version_old": "1733822767108799070"
+        "87-830": {
+            "title": "クレヨンしんちゃん",
+            "seasons_new": [
+                {
+                    "id": "87-830_s1225",
+                    "sequence": 104,
+                    "name": "シーズン104",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-830_s1225",
+                        "filename": "thumb.png",
+                        "query": "version=1734076076",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "seasons_old": [
+                {
+                    "id": "87-830_s1225",
+                    "sequence": 104,
+                    "name": "シーズン104",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-830_s1225",
+                        "filename": "thumb.png",
+                        "query": "version=1733910453",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "version_new": "1734076078975938701",
+            "version_old": "1733910455889827121",
+            "imageUpdatedAt_new": "2024-12-13 16:47:48",
+            "imageUpdatedAt_old": "2024-12-11 18:47:30",
+            "imageUpdatedAtUnix_new": 1734076068,
+            "imageUpdatedAtUnix_old": 1733910450
         },
-        "248-16": {
-            "title": "戦国妖狐",
-            "version_new": "1734000427867864066",
-            "version_old": "1733734902712677324"
+        "25-237": {
+            "title": "久保さんは僕を許さない",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
         },
-        "25-251": {
-            "title": "外科医エリーゼ",
+        "189-65": {
+            "title": "疑似ハーレム",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -435,11 +1239,115 @@
         },
         "13-27uzkrexuzx2": {
             "title": "Thunderbolt Fantasy 東離劍遊紀",
-            "version_new": "1733998735775264454",
-            "version_old": "1733926189394685537"
+            "version_new": "1734068492833728149",
+            "version_old": "1733998735775264454"
         },
-        "5-63": {
-            "title": "デリシャスパーティ♡プリキュア",
+        "87-1084": {
+            "title": "ドラえもん",
+            "seasons_new": [
+                {
+                    "id": "87-1084_s1552",
+                    "sequence": 250,
+                    "name": "シーズン250",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-1084_s1552",
+                        "filename": "thumb.png",
+                        "query": "version=1734070366",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "seasons_old": [
+                {
+                    "id": "87-1084_s1552",
+                    "sequence": 250,
+                    "name": "シーズン250",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-1084_s1552",
+                        "filename": "thumb.png",
+                        "query": "version=1733715774",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "version_new": "1734070370324579445",
+            "version_old": "1733715788511988042",
+            "imageUpdatedAt_new": "2024-12-13 15:12:41",
+            "imageUpdatedAt_old": "2024-12-09 12:42:49",
+            "imageUpdatedAtUnix_new": 1734070361,
+            "imageUpdatedAtUnix_old": 1733715769
+        },
+        "19-180": {
+            "title": "うる星やつら",
+            "onDemandTypes_new": [
+                "プレミアム"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "13-189": {
+            "title": "アイドルマスター シャイニーカラーズ",
+            "version_new": "1734057939423636699",
+            "version_old": "1734007524685790875"
+        },
+        "54-87": {
+            "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。",
+            "version_new": "1734064830866932859",
+            "version_old": "1733302581632637780"
+        },
+        "87-1653": {
+            "title": "仮面ライダー",
+            "seasons_new": [
+                {
+                    "id": "87-1653_s2114",
+                    "sequence": 3,
+                    "name": "ガヴ",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-1653_s2114",
+                        "filename": "thumb.png",
+                        "query": "version=1734075176",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "seasons_old": [
+                {
+                    "id": "87-1653_s2114",
+                    "sequence": 3,
+                    "name": "ガヴ",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-1653_s2114",
+                        "filename": "thumb.png",
+                        "query": "version=1733898789",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "version_new": "1734075185592125266",
+            "version_old": "1733898791736578392",
+            "imageUpdatedAt_new": "2024-12-13 16:32:50",
+            "imageUpdatedAt_old": "2024-12-11 15:32:47",
+            "imageUpdatedAtUnix_new": 1734075170,
+            "imageUpdatedAtUnix_old": 1733898767
+        },
+        "593-9": {
+            "title": "俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "117-37": {
+            "title": "魔導具師ダリヤはうつむかない",
             "onDemandTypes_new": [
                 "プレミアム",
                 "無料"
@@ -448,105 +1356,142 @@
                 "無料"
             ]
         },
-        "149-14": {
-            "title": "吸血鬼すぐ死ぬ",
+        "87-1652": {
+            "title": "爆上戦隊ブンブンジャー",
+            "seasons_new": [
+                {
+                    "id": "87-1652_s1966",
+                    "sequence": 48,
+                    "name": "爆上戦隊ブンブンジャー",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-1652_s1966",
+                        "filename": "thumb.png",
+                        "query": "version=1734074282",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "seasons_old": [
+                {
+                    "id": "87-1652_s1966",
+                    "sequence": 48,
+                    "name": "爆上戦隊ブンブンジャー",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/87-1652_s1966",
+                        "filename": "thumb.png",
+                        "query": "version=1733899671",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "version_new": "1734074290102344439",
+            "version_old": "1733899682468432145",
+            "imageUpdatedAt_new": "2024-12-13 16:17:50",
+            "imageUpdatedAt_old": "2024-12-11 15:47:36",
+            "imageUpdatedAtUnix_new": 1734074270,
+            "imageUpdatedAtUnix_old": 1733899656
+        },
+        "171-1": {
+            "title": "東京喰種トーキョーグール",
+            "version_new": "1734067365765081571",
+            "version_old": "1733283966620882681"
+        },
+        "25-103": {
+            "title": "となりの吸血鬼さん",
+            "version_new": "1734067621100843186",
+            "version_old": "1732681000138624663"
+        },
+        "25-269": {
+            "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
             "onDemandTypes_new": [
-                "プレミアム",
                 "無料"
             ],
             "onDemandTypes_old": [
-                "無料"
-            ]
-        },
-        "194-15": {
-            "title": "彼女、お借りします",
-            "version_new": "1733991813257339289",
-            "version_old": "1732704894599580488"
-        },
-        "35-3": {
-            "title": "新あたしンち",
-            "version_new": "1733979474587644614",
-            "version_old": "1733365395336148146"
-        },
-        "143-51": {
-            "title": "DEATH NOTE -デスノート-",
-            "version_new": "1734018824548441450",
-            "version_old": "1733915825391027432"
-        },
-        "26-231": {
-            "title": "魔法少女リリカルなのは 20周年記念セレクション",
-            "version_new": "1734003187731433044",
-            "version_old": "1733734909870996108"
-        },
-        "54-91": {
-            "title": "まぁるい彼女と残念な彼氏",
-            "version_new": "1734004575369967942",
-            "version_old": "1733732660214910695"
-        },
-        "174-7": {
-            "title": "ソード・オラトリア　ダンジョンに出会いを求めるのは間違っているだろうか外伝",
-            "onDemandTypes_new": [
                 "プレミアム",
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "無料"
-            ]
-        },
-        "564-11": {
-            "title": "僕の妻は感情がない",
-            "version_new": "1733972820630541226",
-            "version_old": "1733735546464221630",
-            "onDemandTypes_new": [
-                "プレミアム",
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "無料"
-            ]
-        },
-        "420-66": {
-            "title": "転生したら第七王子だったので、気ままに魔術を極めます",
-            "version_new": "1733976469489760809",
-            "version_old": "1733370908240313331"
-        },
-        "2-14": {
-            "title": "アニメ「ポケットモンスター」",
-            "version_new": "1733999472364643365",
-            "version_old": "1733732660035562354"
-        },
-        "19-204": {
-            "title": "株式会社マジルミエ",
-            "version_new": "1734003777803552634",
-            "version_old": "1733734914474429788"
-        },
-        "149-20": {
-            "title": "人間不信の冒険者たちが世界を救うようです",
-            "onDemandTypes_new": [
-                "プレミアム",
-                "無料"
-            ],
-            "onDemandTypes_old": [
                 "無料"
             ]
         },
         "26-215": {
             "title": "俺だけレベルアップな件",
-            "version_new": "1734006903753189863",
-            "version_old": "1733276176452626236"
+            "seasons_new": [
+                {
+                    "id": "26-215_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-215_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1704101026",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "26-215_eg0",
+                            "name": "本編"
+                        },
+                        {
+                            "id": "26-215_eg2",
+                            "name": "総集編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ],
+            "seasons_old": [
+                {
+                    "id": "26-215_s1",
+                    "sequence": 1,
+                    "name": "シーズン1",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-215_s1",
+                        "filename": "default_thumb.png",
+                        "query": "version=1704101026",
+                        "extension": "png"
+                    },
+                    "episodeGroups": [
+                        {
+                            "id": "26-215_eg0",
+                            "name": "本編"
+                        }
+                    ],
+                    "order": 1
+                }
+            ]
         },
-        "149-22": {
-            "title": "結婚指輪物語",
+        "25-246": {
+            "title": "攻略うぉんてっど！～異世界救います！？～",
+            "version_new": "1734063236891006246",
+            "version_old": "1732151680382324895"
+        },
+        "172-56": {
+            "title": "アンデッドアンラック",
+            "version_new": "1734055721278450074",
+            "version_old": "1733462182814365172"
+        },
+        "115-99": {
+            "title": "現実主義勇者の王国再建記",
+            "version_new": "1734062398941592517",
+            "version_old": "1733276573846231599"
+        },
+        "115-7yjdnebupe-": {
+            "title": "鬼灯の冷徹",
+            "version_new": "1734082114848863851",
+            "version_old": "1731028109039157828"
+        },
+        "19-48": {
+            "title": "ハイキュー!! OAD",
             "onDemandTypes_new": [
-                "プレミアム",
-                "無料"
+                "プレミアム"
             ],
             "onDemandTypes_old": [
+                "プレミアム",
                 "無料"
             ]
         },
-        "345-5": {
-            "title": "ラーメン赤猫",
+        "168-3": {
+            "title": "デスマーチからはじまる異世界狂想曲",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -555,63 +1500,113 @@
                 "無料"
             ]
         },
-        "26-108": {
-            "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima +",
-            "onDemandTypes_new": [
-                "プレミアム",
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "無料"
-            ]
+        "194-40": {
+            "title": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
+            "version_new": "1734084263986458429",
+            "version_old": "1732704368864758050"
         },
-        "248-22": {
-            "title": "マーダーミステリー・オブ・ザ・デッド",
-            "version_new": "1733998242000834414",
-            "version_old": "1733747806801753696"
+        "5-71": {
+            "title": "SPECIAL EDITED VERSION 『ONE PIECE』魚人島編",
+            "version_new": "1734061858106934530",
+            "version_old": "1733825632269377681"
         },
         "218-707": {
             "title": "鈴村健一のラジベース DUO",
-            "version_new": "1734000353496633181",
-            "version_old": "1733400698284303214"
+            "version_new": "1734064529500334837",
+            "version_old": "1734000353496633181"
         },
-        "218-533": {
-            "title": "鈴村健一のラジベース",
-            "version_new": "1734000239294111283",
-            "version_old": "1733400634340671133"
+        "171-24": {
+            "title": "やはり俺の青春ラブコメはまちがっている。完",
+            "version_new": "1734092879820648252",
+            "version_old": "1729755688552262865"
         },
-        "19-172": {
-            "title": "カミエラビ GOD.app",
-            "version_new": "1733995761903866019",
-            "version_old": "1733822753523851872"
+        "19-77": {
+            "title": "やはり俺の青春ラブコメはまちがっている｡",
+            "version_new": "1734092562881607026",
+            "version_old": "1731320674513786535"
         },
-        "25-201": {
-            "title": "乙女ゲー世界はモブに厳しい世界です",
-            "version_new": "1733991776397770978",
-            "version_old": "1733387308134649868"
+        "413-2": {
+            "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
+            "version_new": "1734092021473110205",
+            "version_old": "1733389614303121530"
+        },
+        "19-78": {
+            "title": "やはり俺の青春ラブコメはまちがっている｡続",
+            "version_new": "1734092425844339108",
+            "version_old": "1731320724259747953"
+        },
+        "420-43": {
+            "title": "転生したらスライムだった件 転スラ日記",
+            "version_new": "1734060233119160502",
+            "version_old": "1732761832296442564"
+        },
+        "11-23": {
+            "title": "ゴールデンカムイ",
+            "version_new": "1734068130238254813",
+            "version_old": "1730109203587225175"
+        },
+        "390-7": {
+            "title": "斉藤壮馬 Strange dayS",
+            "version_new": "1734064578813982858",
+            "version_old": "1733926354649494746"
         },
         "377-2": {
             "title": "ウルトラマンアーク",
-            "version_new": "1733973542356363476",
-            "version_old": "1733826475557182674"
+            "version_new": "1734061628997877936",
+            "version_old": "1733973542356363476"
         },
-        "204-11": {
-            "title": "ぷにるんず ぷに２",
-            "version_new": "1734007447794366539",
-            "version_old": "1733732658635085137"
+        "189-53": {
+            "title": "夢見る男子は現実主義者",
+            "version_new": "1734092621270332473",
+            "version_old": "1732239178422821464"
         },
-        "25-270": {
-            "title": "VTuberなんだが配信切り忘れたら伝説になってた",
-            "version_new": "1733968506368756668",
-            "version_old": "1733890732103268621"
+        "420-63": {
+            "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+            "version_new": "1734060223032073393",
+            "version_old": "1733394070034524911"
         },
-        "564-10": {
-            "title": "ワンルーム、日当たり普通、天使つき。",
-            "version_new": "1733973286045274284",
-            "version_old": "1730091198790717671"
+        "168-48": {
+            "title": "新劇場版 頭文字[イニシャル]D",
+            "version_new": "1734055364205402279",
+            "version_old": "1733475782891337861"
         },
-        "19-6": {
-            "title": "灰と幻想のグリムガル",
+        "2-16": {
+            "title": "ケシカスくん",
+            "version_new": "1734064976424067714",
+            "version_old": "1733821447180160478"
+        },
+        "11-55": {
+            "title": "川越ボーイズ・シング",
+            "version_new": "1734064383179305745",
+            "version_old": "1733292916628018413"
+        },
+        "19-185": {
+            "title": "人形アニメ「ハイキュー!!」",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
+        },
+        "19-188": {
+            "title": "百妖譜（日本語吹替版）",
+            "version_new": "1734061152067614608",
+            "version_old": "1733826250768699296"
+        },
+        "172-57": {
+            "title": "ReLIFE",
+            "version_new": "1734086208505378104",
+            "version_old": "1731460604946811410"
+        },
+        "194-34": {
+            "title": "うちの会社の小さい先輩の話",
+            "version_new": "1734059669564467739",
+            "version_old": "1732703429010833717"
+        },
+        "189-12": {
+            "title": "まちカドまぞく",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -620,48 +1615,8 @@
                 "無料"
             ]
         },
-        "564-5": {
-            "title": "江戸前エルフ",
-            "onDemandTypes_new": [
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム",
-                "無料"
-            ]
-        },
-        "174-6": {
-            "title": "俺の彼女と幼なじみが修羅場すぎる",
-            "onDemandTypes_new": [
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム",
-                "無料"
-            ]
-        },
-        "26-125": {
-            "title": "聖☆おにいさん",
-            "version_new": "1733970562818793594",
-            "version_old": "1733829955107613963"
-        },
-        "5-41": {
-            "title": "逃走中 グレートミッション",
-            "version_new": "1733995235341794429",
-            "version_old": "1733892970665262802"
-        },
-        "25-264": {
-            "title": "声優ラジオのウラオモテ",
-            "onDemandTypes_new": [
-                "無料"
-            ],
-            "onDemandTypes_old": [
-                "プレミアム",
-                "無料"
-            ]
-        },
-        "189-61": {
-            "title": "スナックバス江",
+        "25-90": {
+            "title": "劇場版 ソードアート・オンライン –オーディナル・スケール-",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -669,8 +1624,18 @@
                 "プレミアム"
             ]
         },
-        "168-52": {
-            "title": "Paradox Live THE ANIMATION",
+        "420-62": {
+            "title": "転生したらスライムだった件 コリウスの夢",
+            "version_new": "1734060191032688927",
+            "version_old": "1733393709164044627"
+        },
+        "149-13": {
+            "title": "ひげを剃る。そして女子高生を拾う。",
+            "version_new": "1734085298137964603",
+            "version_old": "1731987412149457931"
+        },
+        "25-6jeernicbkx": {
+            "title": "とらドラ！",
             "onDemandTypes_new": [
                 "無料"
             ],
@@ -679,40 +1644,191 @@
                 "無料"
             ]
         },
-        "35-22hnwbphuwmw": {
-            "title": "ゲームセンターあらし",
-            "version_new": "1734008226342104623",
-            "version_old": "1733920737415407626"
+        "189-75": {
+            "title": "殿と犬",
+            "version_new": "1734076660687360421",
+            "version_old": "1733732650669346249"
         },
-        "19-181": {
-            "title": "ちいかわ",
-            "version_new": "1733999513493225944",
-            "version_old": "1733903493346722280"
+        "420-46": {
+            "title": "転生したらスライムだった件 OAD",
+            "version_new": "1734060284440423562",
+            "version_old": "1733393691202476659"
         },
-        "35-21jawjxfkwuj": {
-            "title": "ジャングルはいつもハレのちグゥ",
-            "version_new": "1734008011630588747",
-            "version_old": "1733920752722350433"
+        "25-24bkfwbcunxt": {
+            "title": "さくら荘のペットな彼女",
+            "version_new": "1734086273402100163",
+            "version_old": "1731062906956364775"
         },
-        "19-168": {
-            "title": "ちびゴジラの逆襲",
-            "version_new": "1733995994942336439",
-            "version_old": "1733892971580963072"
+        "19-148": {
+            "title": "僕だけがいない街",
+            "version_new": "1734056143174498322",
+            "version_old": "1731321463541887457"
         },
-        "19-206": {
-            "title": "ねこに転生したおじさん",
-            "version_new": "1734004205273224627",
-            "version_old": "1733894727640175036"
+        "19-105": {
+            "title": "あの日見た花の名前を僕達はまだ知らない。",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム"
+            ]
         },
-        "54-97": {
-            "title": "ぬいストーリー",
-            "version_new": "1733999575290532529",
-            "version_old": "1733729717457091745"
+        "19-173": {
+            "title": "アンダーニンジャ",
+            "version_new": "1734081766926888375",
+            "version_old": "1731321561522792248"
+        },
+        "117-8": {
+            "title": "山田くんと7人の魔女",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "194-44": {
+            "title": "ハミダシクリエイティブ",
+            "version_new": "1734082939928605023",
+            "version_old": "1733826435272379111"
+        },
+        "158-12": {
+            "title": "てーきゅう",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
+        },
+        "5-43": {
+            "title": "キボウノチカラ～オトナプリキュア’２３～",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム"
+            ]
+        },
+        "25-247": {
+            "title": "オーバーテイク！",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
+        },
+        "35-52": {
+            "title": "劇場版あたしンち「情熱のちょ～超能力♪ 母大暴走！」",
+            "version_new": "1734085412053934729",
+            "version_old": "1733716944683705387"
+        },
+        "177-234": {
+            "title": "リトル・パイレーツ",
+            "version_new": "1734091246667160985",
+            "version_old": "1733709771772021240"
+        },
+        "54-85": {
+            "title": "シルバニアファミリー",
+            "version_new": "1734094412517992791",
+            "version_old": "1732178031211714106"
+        },
+        "26-210": {
+            "title": "百千さん家のあやかし王子",
+            "version_new": "1734059632989962395",
+            "version_old": "1733303445531207011"
+        },
+        "35-51": {
+            "title": "映画あたしンち",
+            "version_new": "1734081574907432602",
+            "version_old": "1733716886289894590"
+        },
+        "512-7": {
+            "title": "アキバ冥途戦争",
+            "version_new": "1734081562025155757",
+            "version_old": "1728526905118424710"
         },
         "115-111": {
             "title": "SHIBUYA♡HACHI",
-            "version_new": "1733998240646675152",
-            "version_old": "1733500064215247823"
+            "version_new": "1734082878846459203",
+            "version_old": "1733998240646675152"
+        },
+        "54-86": {
+            "title": "ヤンキーハムスター",
+            "version_new": "1734065960330410604",
+            "version_old": "1732701877336096106"
+        },
+        "158-8ukb2pnc72h": {
+            "title": "高宮なすのです！～てーきゅうスピンオフ～",
+            "onDemandTypes_new": [
+                "プレミアム",
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "無料"
+            ]
+        },
+        "19-181": {
+            "title": "ちいかわ",
+            "version_new": "1734056930986919493",
+            "version_old": "1733999513493225944"
+        },
+        "564-3": {
+            "title": "VAZZROCK THE ANIMATION",
+            "version_new": "1734060195419635768",
+            "version_old": "1732177083913086556"
+        },
+        "871-319": {
+            "title": "そろ谷のけいばっち",
+            "seasons_new": [
+                {
+                    "id": "871-319_s1",
+                    "sequence": 1,
+                    "name": "そろ谷のけいばっち",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/871-319_s1",
+                        "filename": "thumb.png",
+                        "query": "version=1734072913",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "seasons_old": [
+                {
+                    "id": "871-319_s1",
+                    "sequence": 1,
+                    "name": "そろ谷のけいばっち",
+                    "thumbComponent": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/871-319_s1",
+                        "filename": "thumb.png",
+                        "query": "version=1733904314",
+                        "extension": "png"
+                    },
+                    "order": 1
+                }
+            ],
+            "version_new": "1734073092477359673",
+            "version_old": "1733904505601227280",
+            "imageUpdatedAt_new": "2024-12-13 15:55:11",
+            "imageUpdatedAt_old": "2024-12-11 17:05:11",
+            "imageUpdatedAtUnix_new": 1734072911,
+            "imageUpdatedAtUnix_old": 1733904311
+        },
+        "705-1": {
+            "title": "Spicy Candy",
+            "onDemandTypes_new": [
+                "無料"
+            ],
+            "onDemandTypes_old": [
+                "プレミアム",
+                "無料"
+            ]
         }
     }
 }

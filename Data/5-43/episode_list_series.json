@@ -73,9 +73,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1704338302,
         "endAt": 1740754800,
+        "freeEndAt": 1734739200,
         "transcodeVersion": "UYivX",
         "sharedLink": {
             "twitter": "https://abema.app/VZc1",
@@ -99,8 +102,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1734076800
+                "onDemandType": 3,
+                "endAt": 1734739200
             }
         ],
         "episodeGroupId": "5-43_eg0"

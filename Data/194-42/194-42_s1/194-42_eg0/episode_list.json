@@ -248,8 +248,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1734022800
+                    "onDemandType": 1,
+                    "endAt": 1830265200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -277,8 +277,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1734022800
+                    "onDemandType": 3,
+                    "endAt": 1734627600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -287,6 +287,35 @@
         },
         "info": {
             "duration": 1449
+        }
+    },
+    {
+        "id": "194-42_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p11",
+            "filename": "thumb002.png",
+            "query": "version=1734060841",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話",
+            "content": "ある時、最古の神竜が人間に討たれた。\n悠久の時を生き、神々すらひれ伏す絶大な力を持つその竜は、孤独と共に己の死を受け入れた。\nしかし、次に気がついた時、竜は辺境の村人ドランとして第二の生を受けていた。\n\n人間として竜よりずっと短い生を生きることになった彼は、畑仕事に精を出し、食を得るために動物を狩る……。\n質素ながらも温かい村での生活に、ドランの心は竜生では味わえなかったささやかな喜びで満たされていく。\n\nしかしそんなある日、\n沼地の調査に出かけたドランの前に、セリナと名乗る半人半蛇のラミアが現れる。\n伴侶を探して旅をしている彼女は、ラミアなのに人間を誘惑するのが苦手だという。\n人と魔物、相容れぬ存在ながらも次第に心を通わせていく二人。\nだが、二人の前には様々な外敵が現れて――!?\n\n辺境から始まる、元最強最古の竜の“生き直し”ファンタジー！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1734627600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1450
         }
     }
 ]

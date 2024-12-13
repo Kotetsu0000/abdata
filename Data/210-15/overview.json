@@ -1,0 +1,80 @@
+{
+    "id": "210-15",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            }
+        ]
+    },
+    "title": "もめんたりー・リリィ",
+    "content": "ある日、空から機械仕掛けの侵略者“ワイルドハント”が現れ、あらゆる生命体を消滅させた。\n荒廃した無人都市を放浪する、記憶を失った少女「れんげ」。\n彼女は侵略者に対抗するための、ある大きな“力”を有していた。\n街を彷徨う中、れんげは自分と同じ“力”を持つ5人の少女と出会う。\n出会った仲間たちと日々過ごす中、日常を突如壊す侵略者と命がけで戦っていく。\nやがて世界の謎を追いかける中で、僅かに残った人類や家族たちと再会した時、れんげは大きな謎に直面する。\nそして自身の持つ”力”にまつわる、大きな謎に迫っていく。",
+    "seasons": [
+        {
+            "id": "210-15_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-15",
+                "filename": "thumb.png",
+                "query": "version=1733900257",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "210-15_eg99",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "（C)GoHands／松竹・もめんたりー・リリィ製作委員会"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1734055837635985045",
+    "imageUpdatedAt": 1733900257,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/hwfq",
+        "facebook": "https://abema.app/5bEu",
+        "google": "https://abema.app/Qjtz",
+        "line": "https://abema.app/sGSX",
+        "copy": "https://abema.app/vVt8",
+        "instagram": "https://abema.app/8sRm"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-15",
+        "filename": "thumb.png",
+        "query": "version=1733900257",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/210-15",
+        "filename": "portrait.png",
+        "query": "version=1733900257",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

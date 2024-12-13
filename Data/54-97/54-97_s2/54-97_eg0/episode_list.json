@@ -190,8 +190,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1734058800
+                    "onDemandType": 1,
+                    "endAt": 1822316400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -200,6 +200,35 @@
         },
         "info": {
             "duration": 115
+        }
+    },
+    {
+        "id": "54-97_s2_p8",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/54-97_s2_p8",
+            "filename": "thumb001.png",
+            "query": "version=1733471950",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 8,
+            "title": "第8話",
+            "content": "自由奔放なぬいぐるみたちとミチコ（ギャル）の不思議な共同生活がますます賑やかに！推し活に精を出すわたあめ、食い意地がすごいいぬぱん、見た目は赤ちゃんなチェリーたちが君についてるぜ！制作は江古田の個人アニメチームPiso Studioが監督、脚本、キャラクターデザイン、声の出演に至るまでほぼ2人で担当！"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1734663600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 114
         }
     }
 ]

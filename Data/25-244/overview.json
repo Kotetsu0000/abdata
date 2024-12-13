@@ -24,7 +24,7 @@
         {
             "id": "25-244_s1",
             "sequence": 1,
-            "name": "シーズン1",
+            "name": "第一期",
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-244_s1",
                 "filename": "default_thumb.png",
@@ -38,6 +38,24 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "25-244_s2",
+            "sequence": 2,
+            "name": "第二期",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-244_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1734071457",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "25-244_eg99",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
@@ -46,7 +64,7 @@
     "label": {
         "free": true
     },
-    "version": "1733991652005118923",
+    "version": "1734086994414117689",
     "imageUpdatedAt": 1687769668,
     "programOrder": "seq",
     "sharedLink": {
