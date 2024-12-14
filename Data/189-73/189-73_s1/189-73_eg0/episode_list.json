@@ -248,8 +248,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1734188400
+                    "onDemandType": 1,
+                    "endAt": 1767193200
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -258,6 +258,35 @@
         },
         "info": {
             "duration": 1421
+        }
+    },
+    {
+        "id": "189-73_s1_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/189-73_s1_p10",
+            "filename": "thumb001.png",
+            "query": "version=1733734171",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話",
+            "content": "染井吉乃は祖父である、関西最大の暴力団「桐ヶ谷組」直系「染井組」組長・染井蓮二が決めた縁談相手、\n深山霧島の住む、関東最大の暴力団「砥草会」直系「深山一家」のもとで暮らすことになる。\n\n吉乃を優しく迎え入れる霧島は、爽やかで人当たりのよい、ヤクザの家系を思わせない好青年。\n慣れない土地に不安を抱えていた吉乃は胸をなでおろす。\n\n……しかし！！\nある事件をきっかけに、吉乃は霧島の本当の姿を目の当たりにすることになる。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1734793200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1422
         }
     }
 ]
