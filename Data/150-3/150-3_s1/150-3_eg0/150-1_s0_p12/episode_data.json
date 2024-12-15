@@ -1,0 +1,158 @@
+{
+    "id": "150-1_s0_p12",
+    "series": {
+        "id": "150-3",
+        "title": "咲-Saki-",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/150-3",
+            "filename": "thumb.png",
+            "query": "version=1627289276",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/150-3",
+            "filename": "portrait.png",
+            "query": "version=1627289276",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "150-3_s1",
+        "sequence": 1,
+        "name": "咲-Saki-",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1437
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話 目醒め",
+        "content": "中堅戦の前半が終了し、4校の点差は横並び状態に陥った。リードを守れなかった風越女子の文堂は、駆けつけたキャプテン・福路の姿を見た途端、情けない気持ちから涙をこぼす。そんな傷心の彼女を福路は優しく抱きしめるのだった。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "宮永咲：植田佳奈",
+            "原村和：小清水亜美",
+            "片岡優希：釘宮理恵",
+            "染谷まこ：白石涼子",
+            "竹井久：伊藤静",
+            "須賀京太郎：福山潤"
+        ],
+        "crews": [
+            "原作：小林立(掲載「ヤングガンガン」スクウェア・エニックス刊)",
+            "監督：小野学",
+            "助監督：セトウケンジ",
+            "シリーズ構成・脚本：浦畑達彦",
+            "キャラクターデザイン・総作画監督：佐々木政勝"
+        ],
+        "copyrights": [
+            "(C)小林 立/スクウェアエニックス・清澄高校麻雀部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728384207,
+    "endAt": 1767193200,
+    "transcodeVersion": "54t1qz",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/jjnN2",
+        "facebook": "https://gxyt4.app.goo.gl/QA5Ku",
+        "google": "https://gxyt4.app.goo.gl/yA5MH",
+        "line": "https://gxyt4.app.goo.gl/JSGLb",
+        "copy": "https://gxyt4.app.goo.gl/u2JV5",
+        "instagram": "https://gxyt4.app.goo.gl/Mo9tf"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/150-1_s0_p12/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/150-1_s0_p12/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/150-1_s0_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.150-1_s0_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1328.8692083333333,
+        "opening": {
+            "start": 88.04629166666666,
+            "end": 178.01116666666667
+        },
+        "ending": {
+            "start": 1328.8692083333333,
+            "end": 1415.9979166666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "150-1_s0_p13",
+        "title": "第13話 微熱",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1728384208,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734454800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/150-1_s0_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734346800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1734994800
+        }
+    ],
+    "episodeGroupId": "150-3_eg0",
+    "skipVmap": true
+}

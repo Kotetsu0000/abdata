@@ -1,0 +1,133 @@
+{
+    "id": "189-79_s1_p500",
+    "series": {
+        "id": "189-79",
+        "title": "空色ユーティリティ",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-79",
+            "filename": "thumb.png",
+            "query": "version=1733805366",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/189-79",
+            "filename": "portrait.png",
+            "query": "version=1733805366",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "189-79_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 110
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【1/3より毎週金曜26:00〜配信】",
+        "content": "「このままじゃ、ただの村人Aで卒業しちゃう！」 青羽美波は悩んでいた。 得意なこともやりたいことも特にナシ。 花の女子高生活、こんなモブキャラで終わっていいのか！？ 学校を飛び出し、自分だけの“スペシャルな特別”を探す美波。 偶然たどり着いたのは近所のゴルフ練習場。 アルバイトの茜遥に声をかけられ、ゴルフクラブ―――“ユーティリティ”を握る美波。 それが、美波とゴルフの出逢いだった。 プレーして勝つことだけがゴルフじゃない！ ゴルフにまつわるすべてのことが楽しいのだ！ 天才肌ゴルファーの遥、インフルエンサーを目指す星美彩花とともに、 自分が「主人公」になれる瞬間を求めて！ スーパー初心者・美波は、今日もクラブを振り上げる。"
+    },
+    "credit": {
+        "released": 2025,
+        "casts": [
+            "美波：高木美佑",
+            "遥：天海由梨奈",
+            "彩花：後藤彩佐",
+            "秋名泉美：花守ゆみり",
+            "田所昌夫：井上和彦",
+            "田辺長介：堀内賢雄",
+            "田中哲弘：森川智之"
+        ],
+        "crews": [
+            "監督・キャラクターデザイン：斉藤健吾",
+            "シリーズ構成：佐藤裕",
+            "脚本：佐藤裕　皐月彩　水月秋",
+            "原案協力：望公太",
+            "色彩設計：武田仁基",
+            "美術監督：工藤義隆",
+            "撮影監督：呉健弘",
+            "編集：重村建吾　佐藤彩香",
+            "音楽・音響監督：daisuke horita",
+            "音楽制作：Yostar Pictures Sounds　ZENTA STUDIO",
+            "アニメ制作：Yostar Pictures"
+        ],
+        "copyrights": [
+            "(C)空色ユーティリティ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1733805381,
+    "endAt": 1743433200,
+    "freeEndAt": 1743433200,
+    "transcodeVersion": "2jvcSd",
+    "sharedLink": {
+        "twitter": "https://abema.app/LkT2",
+        "facebook": "https://abema.app/bfbZ",
+        "google": "https://abema.app/rLyF",
+        "line": "https://abema.app/52xE",
+        "copy": "https://abema.app/zNzh",
+        "instagram": "https://abema.app/Kq5d"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/189-79_s1_p500/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/189-79_s1_p500/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/189-79_s1_p500/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/189-79_s1_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.189-79_s1_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 105.105
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/189-79_s1_p500/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "189-79_eg99",
+    "skipVmap": true
+}

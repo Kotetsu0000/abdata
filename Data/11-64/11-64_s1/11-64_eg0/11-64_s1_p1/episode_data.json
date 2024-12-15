@@ -1,0 +1,155 @@
+{
+    "id": "11-64_s1_p1",
+    "series": {
+        "id": "11-64",
+        "title": "ゆゆ式",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-64",
+            "filename": "thumb.png",
+            "query": "version=1729762169",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-64",
+            "filename": "portrait.png",
+            "query": "version=1729762169",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-64_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1420
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 『高校生になりました』",
+        "content": "高校に入学したゆずこ、唯、縁の仲良し3人はゆるゆるまったりとしたスクールライフを送っていた。ある日お母さん先生こと頼子が顧問を務める情報処理部のことを知り、3人はその部室で思いつくままに調べものをしたり、おしゃべりをし始める。"
+    },
+    "credit": {
+        "released": 2013,
+        "casts": [
+            "野々原ゆずこ：大久保瑠美",
+            "櫟井唯：津田美波",
+            "日向縁：種田梨沙",
+            "松本頼子：堀江由衣",
+            "相川千穂：茅野愛衣",
+            "岡野佳：潘めぐみ",
+            "長谷川ふみ：清水茉菜"
+        ],
+        "crews": [
+            "原作：三上小又（芳文社「まんがタイムきらら」連載）",
+            "監督：かおり",
+            "シリーズ構成：高橋ナツコ",
+            "キャラクターデザイン：田畑壽之",
+            "音響監督：明田川仁",
+            "音楽：sakai asuka",
+            "美術監督：加藤浩（ととにゃん）",
+            "色彩設計：水田信子",
+            "撮影監督：若林優（T2studio）",
+            "音楽制作：EXIT TUNES",
+            "アニメーション制作：キネマシトラス"
+        ],
+        "copyrights": [
+            "(C)三上小又・芳文社/ゆゆ式情報処理部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1729144276,
+    "endAt": 1767193200,
+    "freeEndAt": 1767193200,
+    "transcodeVersion": "3dfB5q",
+    "sharedLink": {
+        "twitter": "https://abema.app/i9d4",
+        "facebook": "https://abema.app/75Rm",
+        "google": "https://abema.app/AmjP",
+        "line": "https://abema.app/E9J5",
+        "copy": "https://abema.app/s5qZ",
+        "instagram": "https://abema.app/FZWj"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-64_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-64_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/11-64_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-64_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-64_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1319.9853333333333,
+        "opening": {
+            "start": 179.04553333333334,
+            "end": 268.9687
+        },
+        "ending": {
+            "start": 1319.9853333333333,
+            "end": 1409.9752333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-64_s1_p2",
+        "title": "第2話 『情報処理部』",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1729144302,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734368400
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-64_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "11-64_eg0",
+    "skipVmap": true
+}

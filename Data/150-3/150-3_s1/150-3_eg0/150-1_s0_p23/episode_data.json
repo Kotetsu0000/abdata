@@ -1,0 +1,158 @@
+{
+    "id": "150-1_s0_p23",
+    "series": {
+        "id": "150-3",
+        "title": "咲-Saki-",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/150-3",
+            "filename": "thumb.png",
+            "query": "version=1627289276",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/150-3",
+            "filename": "portrait.png",
+            "query": "version=1627289276",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "150-3_s1",
+        "sequence": 1,
+        "name": "咲-Saki-",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1436
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 本気",
+        "content": "全国出場の枠をかけた個人戦も、ついに最終局面を迎える。残された対局数で、これまでの分を取り返そうと奮闘する咲だったが、ステルスモードとなった桃子に苦戦を強いられる。そんな時、咲は強化合宿での特訓を思い出す。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "宮永咲：植田佳奈",
+            "原村和：小清水亜美",
+            "片岡優希：釘宮理恵",
+            "染谷まこ：白石涼子",
+            "竹井久：伊藤静",
+            "須賀京太郎：福山潤"
+        ],
+        "crews": [
+            "原作：小林立(掲載「ヤングガンガン」スクウェア・エニックス刊)",
+            "監督：小野学",
+            "助監督：セトウケンジ",
+            "シリーズ構成・脚本：浦畑達彦",
+            "キャラクターデザイン・総作画監督：佐々木政勝"
+        ],
+        "copyrights": [
+            "(C)小林 立/スクウェアエニックス・清澄高校麻雀部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1728384208,
+    "endAt": 1767193200,
+    "transcodeVersion": "4VxeM2",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/tpfwz",
+        "facebook": "https://gxyt4.app.goo.gl/GFDzz",
+        "google": "https://gxyt4.app.goo.gl/j3b7s",
+        "line": "https://gxyt4.app.goo.gl/uPzY8",
+        "copy": "https://gxyt4.app.goo.gl/fDKQ2",
+        "instagram": "https://gxyt4.app.goo.gl/hpNyB"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/150-1_s0_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/150-1_s0_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/150-1_s0_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.150-1_s0_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1325.949625,
+        "opening": {
+            "start": 47.047,
+            "end": 136.97016666666667
+        },
+        "ending": {
+            "start": 1325.949625,
+            "end": 1415.8727916666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "150-1_s0_p24",
+        "title": "第24話 夏祭り",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1728384208,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734454800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/150-1_s0_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734454800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1735124400
+        }
+    ],
+    "episodeGroupId": "150-3_eg0",
+    "skipVmap": true
+}

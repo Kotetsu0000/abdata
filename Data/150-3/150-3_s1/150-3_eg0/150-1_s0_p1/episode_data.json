@@ -1,0 +1,154 @@
+{
+    "id": "150-1_s0_p1",
+    "series": {
+        "id": "150-3",
+        "title": "咲-Saki-",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/150-3",
+            "filename": "thumb.png",
+            "query": "version=1627289276",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/150-3",
+            "filename": "portrait.png",
+            "query": "version=1627289276",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "150-3_s1",
+        "sequence": 1,
+        "name": "咲-Saki-",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_19",
+                "name": "スポーツ・競技"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1436
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第1話 出会い",
+        "content": "訳も分からず麻雀部に連れて行かれ、麻雀を打つ事になった咲。そこには小川のほとりで出会った少女、和がいた。結果、対局は和の勝利で終わったが、咲の打ち方に疑問を感じた和は、もう一回打って欲しいと願う。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "宮永咲：植田佳奈",
+            "原村和：小清水亜美",
+            "片岡優希：釘宮理恵",
+            "染谷まこ：白石涼子",
+            "竹井久：伊藤静",
+            "須賀京太郎：福山潤"
+        ],
+        "crews": [
+            "原作：小林立(掲載「ヤングガンガン」スクウェア・エニックス刊)",
+            "監督：小野学",
+            "助監督：セトウケンジ",
+            "シリーズ構成・脚本：浦畑達彦",
+            "キャラクターデザイン・総作画監督：佐々木政勝"
+        ],
+        "copyrights": [
+            "(C)小林 立/スクウェアエニックス・清澄高校麻雀部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1728384207,
+    "endAt": 1767193200,
+    "freeEndAt": 1767193200,
+    "transcodeVersion": "717uMo",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/YoL4e",
+        "facebook": "https://gxyt4.app.goo.gl/9UG8p",
+        "google": "https://gxyt4.app.goo.gl/GkubQ",
+        "line": "https://gxyt4.app.goo.gl/du1CW",
+        "copy": "https://gxyt4.app.goo.gl/mQCpi",
+        "instagram": "https://gxyt4.app.goo.gl/NyNws"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/150-1_s0_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/150-1_s0_p1/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/150-1_s0_p1/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/150-1_s0_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.150-1_s0_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1326.0330416666666,
+        "ending": {
+            "start": 1326.0330416666666,
+            "end": 1415.9145
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "150-1_s0_p2",
+        "title": "第2話 勝負",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003",
+            "thumb004",
+            "thumb005"
+        ],
+        "imageUpdatedAt": 1728384207,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734346800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/150-1_s0_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "150-3_eg0",
+    "skipVmap": true
+}
