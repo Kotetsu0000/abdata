@@ -87,7 +87,7 @@
         "terms": [
             {
                 "onDemandType": 1,
-                "endAt": 1797346800
+                "endAt": 1736092500
             }
         ],
         "rentalInfo": {
@@ -115,16 +115,6 @@
                     "campaigns": null
                 },
                 {
-                    "id": "DrfetSF9qSxC2K",
-                    "startAt": 1607871600,
-                    "endAt": 1677596400,
-                    "subscriptionType": 2,
-                    "deviceType": 2,
-                    "coinAmount": 400,
-                    "regularCoinAmount": 450,
-                    "campaigns": null
-                },
-                {
                     "id": "DrfeDdZ6cAykxF",
                     "startAt": 1607871600,
                     "endAt": 1677596400,
@@ -132,6 +122,16 @@
                     "deviceType": 1,
                     "coinAmount": 450,
                     "regularCoinAmount": 500,
+                    "campaigns": null
+                },
+                {
+                    "id": "DrfetSF9qSxC2K",
+                    "startAt": 1607871600,
+                    "endAt": 1677596400,
+                    "subscriptionType": 2,
+                    "deviceType": 2,
+                    "coinAmount": 400,
+                    "regularCoinAmount": 450,
                     "campaigns": null
                 }
             ]
