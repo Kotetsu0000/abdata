@@ -1,0 +1,125 @@
+{
+    "id": "19-172_s2_p23",
+    "series": {
+        "id": "19-172",
+        "title": "カミエラビ GOD.app",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "thumb.png",
+            "query": "version=1732162310",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-172",
+            "filename": "portrait.png",
+            "query": "version=1732162310",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "19-172_s2",
+        "sequence": 2,
+        "name": "シーズン2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1375
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "episode23",
+        "content": "神様を決める殺し合い「カミエラビ」は小野護郎（ゴロー）の消滅とともに休止となった。\n\nそれから12年が経ち、当時の出来事は集団幻覚事件として世間で認知されていた。\n皆事件があったことは覚えているものの、\nその中心にいたゴローのことは存在すら覚えていない。\n\n小学生の小野螺流（ラル）は、母親すら存在を否定する兄、\nゴローのことを唯一覚えており、彼をどうにか復活させたいと願っていた。\n一方、同じ小学校に通う佐々木依怙（エコ）は個人的に12年前の事件の真相に興味を持ち、\n謎を解き明かすためその中心に存在したはずの人物を探していた。\n\nそんな中、神様を決める殺し合い「カミエラビ」が再開される。\n\n「カミエラビ」とは何なのか？誰が何のために仕組んだものなのか？\n神様（アイツ）が復活する時、その全てが明らかになる───！"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "ゴロー：浦 和希",
+            "ラル：佐倉綾音",
+            "ホノカ：松本沙羅",
+            "アキツ：内田修一",
+            "チカ：阿部菜摘子"
+        ],
+        "crews": [
+            "原案：ヨコオタロウ",
+            "監 督：瀬下寛之",
+            "脚本：じん",
+            "音楽：MONACA",
+            "キャラクターデザイン：大久保 篤",
+            "副監督：井手 恵介/石間 祐一/りょーちも",
+            "アニメーションキャラクターデザイン：山中 純子/もりやま　ゆうき"
+        ],
+        "copyrights": [
+            "(C)カミエラビ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733821872,
+    "endAt": 1761922800,
+    "transcodeVersion": "38H6wE",
+    "sharedLink": {
+        "twitter": "https://abema.app/U6fq",
+        "facebook": "https://abema.app/9Yyb",
+        "google": "https://abema.app/XeN2",
+        "line": "https://abema.app/Bpns",
+        "copy": "https://abema.app/DZqC",
+        "instagram": "https://abema.app/S9EJ"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/19-172_s2_p23/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/19-172_s2_p23/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/19-172_s2_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.19-172_s2_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1285.1171666666667,
+        "opening": {
+            "start": 325.9923333333333,
+            "end": 415.9989166666667
+        },
+        "ending": {
+            "start": 1285.1171666666667,
+            "end": 1375.12375
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/19-172_s2_p23/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1761922800
+        }
+    ],
+    "episodeGroupId": "19-172_eg0",
+    "skipVmap": true
+}

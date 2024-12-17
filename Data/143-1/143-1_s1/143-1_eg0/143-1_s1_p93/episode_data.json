@@ -1,0 +1,126 @@
+{
+    "id": "143-1_s1_p93",
+    "series": {
+        "id": "143-1",
+        "title": "ポンコツクエスト～魔王と派遣の魔物たち～",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-1",
+            "filename": "thumb.png",
+            "query": "version=1711645698",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-1",
+            "filename": "portrait.png",
+            "query": "version=1711645698",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-1_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 240
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 93,
+        "title": "第九十三章",
+        "content": "魔王に仕えるポンコツな魔物「カク」と「イムラ」の、グダグダな日常を描いたコメディアニメ。\n\n魔王様に言われるがまま、さまざまな場所に派遣社員の様に飛ばされる二人。その度文句を言ったり、ケンカしたり…。\nRPGのようなファンタジーの世界で、現代人のようなグチをこぼす彼らは、果たして立派な魔物になれるのか！？\n\n監督脚本は「ヤイヤイ森のコミー」の松本慶祐。プロデュースは「かよえ！チュー学」などの会話劇アニメを得意とし、様々なキャラクターコンテンツを手がけるPie in the sky。"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "まつもと けいすけ"
+        ],
+        "crews": [
+            "監督・脚本・声優：松本慶祐",
+            "企画：松本慶祐　新海岳人",
+            "制作協力：鈴木絃太",
+            "プロデューサー：堀越大　遠藤純一",
+            "アシスタントプロデューサー：山本剛士　岸本玲　伊藤新月",
+            "配信：高見勇介　佐藤祐莉佳",
+            "宣伝：堂園あゆみ",
+            "アニメーション制作：Pie in the sky",
+            "製作：ポンコツクエスト製作委員会"
+        ],
+        "copyrights": [
+            "(C)PQC"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1713662578,
+    "endAt": 1774969200,
+    "transcodeVersion": "2s6h2c",
+    "sharedLink": {
+        "twitter": "https://abema.app/HRka",
+        "facebook": "https://abema.app/QpE4",
+        "google": "https://abema.app/5Q8b",
+        "line": "https://abema.app/Zqxd",
+        "copy": "https://abema.app/VUhp",
+        "instagram": "https://abema.app/3KU4"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-1_s1_p93/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-1_s1_p93/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-1_s1_p93/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-1_s1_p93"
+    },
+    "viewingPoint": {
+        "suggestion": 232.99943333333334,
+        "opening": {
+            "end": 10.01
+        },
+        "ending": {
+            "start": 232.99943333333334,
+            "end": 240.00643333333332
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-1_s1_p93/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734458400
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1735063200
+        }
+    ],
+    "episodeGroupId": "143-1_eg0",
+    "skipVmap": true
+}
