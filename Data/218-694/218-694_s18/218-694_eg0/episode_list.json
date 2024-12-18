@@ -3712,8 +3712,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1734526800
+                    "onDemandType": 1,
+                    "endAt": 1828450800
                 }
             ],
             "releaseYear": 2024,
@@ -3833,6 +3833,34 @@
         },
         "info": {
             "duration": 1039
+        }
+    },
+    {
+        "id": "218-694_s18_p143",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/218-694_s18_p143",
+            "filename": "thumb002.png",
+            "query": "version=1734505123",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 143,
+            "title": "森久保祥太郎がゲスト！【金田朋子×畠中祐】#143",
+            "content": "【繋は金田朋子×畠中祐】\n月曜〜土曜まで人気声優が豪華なゲストや作品と共にお届けするディープな\"夜あそび\"。\nこの番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。\n\n【提供】Google Gemini\n\n【視聴中にGeminiを使う方法】\nGeminiアプリを起動したのち、Abemaアプリで番組を再生し、再度Geminiを開いてください"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1735131600
+                }
+            ],
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1011
         }
     }
 ]

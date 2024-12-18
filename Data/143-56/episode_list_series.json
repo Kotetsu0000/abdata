@@ -8,13 +8,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-56",
                 "filename": "thumb.png",
-                "query": "version=1733709387",
+                "query": "version=1734495536",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-56",
                 "filename": "portrait.png",
-                "query": "version=1733709387",
+                "query": "version=1734495536",
                 "extension": "png"
             }
         },
@@ -22,7 +22,12 @@
             "id": "143-56_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/143-56_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1734495574",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -76,7 +81,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1733709419,
+        "imageUpdatedAt": 1734495594,
         "endAt": 1743433200,
         "freeEndAt": 1743433200,
         "transcodeVersion": "BnsSV",
