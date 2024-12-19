@@ -3822,12 +3822,9 @@
             ]
         },
         "mediaStatus": {},
-        "label": {
-            "free": true
-        },
+        "label": {},
         "imageUpdatedAt": 1734513612,
         "endAt": 1774969200,
-        "freeEndAt": 1734544980,
         "transcodeVersion": "5QrqAZ",
         "sharedLink": {
             "twitter": "https://abema.app/E5GD",
@@ -3851,8 +3848,8 @@
         },
         "terms": [
             {
-                "onDemandType": 3,
-                "endAt": 1734544980
+                "onDemandType": 1,
+                "endAt": 1774969200
             }
         ],
         "episodeGroupId": "19-168_eg0"
@@ -3892,7 +3889,11 @@
             "duration": 160
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 51,
@@ -3925,9 +3926,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
-        "imageUpdatedAt": 1734513612,
+        "label": {
+            "free": true
+        },
+        "imageUpdatedAt": 1734606130,
         "endAt": 1774969200,
+        "freeEndAt": 1735149780,
         "transcodeVersion": "2djMWA",
         "sharedLink": {
             "twitter": "https://abema.app/tYjd",
@@ -3951,8 +3955,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1734544980
+                "onDemandType": 3,
+                "endAt": 1735149780
             }
         ],
         "episodeGroupId": "19-168_eg0"

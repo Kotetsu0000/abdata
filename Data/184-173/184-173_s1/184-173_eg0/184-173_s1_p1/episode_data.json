@@ -1,0 +1,118 @@
+{
+    "id": "184-173_s1_p1",
+    "series": {
+        "id": "184-173",
+        "title": "ワンピース ねじまき島の冒険",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-173",
+            "filename": "thumb.png",
+            "query": "version=1733302993",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/184-173",
+            "filename": "portrait.png",
+            "query": "version=1733302993",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "184-173_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 3306
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "ワンピース ねじまき島の冒険",
+        "content": "ルフィたちは、愛船「ゴーイングメリー号」を奪われ、伝説のからくり仕掛けの「ねじまき島」に訪れる。島には悪魔の実の能力者たち「トランプ海賊団」が君臨して、島民を苦しめていた...。そこになぞの泥棒兄弟簿ロードとアキースが登場して...、「トランプ5兄弟」の必殺技とルフィたちの熱い戦いに大注目だ。ルフィたちは愛船を取り戻し、強大な敵を見事倒して「ねじまき島」の人々を救うことができるのか?"
+    },
+    "credit": {
+        "released": 2001,
+        "casts": [
+            "ルフィ:田中真弓",
+            "ゾロ:中井和哉",
+            "ナミ:岡村明美",
+            "ウソップ:山口勝平",
+            "サンジ:平田広明"
+        ],
+        "crews": [
+            "原作:尾田栄一郎",
+            "監督:志水淳児",
+            "脚本:橋本裕志"
+        ],
+        "copyrights": [
+            "(C)尾田栄一郎/集英社・フジテレビ・東映アニメーション (C)東映・東映アニメーション・集英社・フジテレビ・バンダイ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1733303110,
+    "endAt": 1767193200,
+    "transcodeVersion": "3iWEhp",
+    "sharedLink": {
+        "twitter": "https://abema.app/5xTV",
+        "facebook": "https://abema.app/TBfF",
+        "google": "https://abema.app/UCZq",
+        "line": "https://abema.app/TsD1",
+        "copy": "https://abema.app/Ebdh",
+        "instagram": "https://abema.app/zHzr"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/184-173_s1_p1/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/184-173_s1_p1/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/184-173_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.184-173_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 3199.0291666666667,
+        "ending": {
+            "start": 3199.0291666666667,
+            "end": 3306.177875
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/184-173_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "184-173_eg0",
+    "skipVmap": true
+}
