@@ -1,0 +1,134 @@
+{
+    "id": "13-53_s1_p11",
+    "series": {
+        "id": "13-53",
+        "title": "機動戦士ガンダム",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-53",
+            "filename": "thumb.png",
+            "query": "version=1734588127",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-53",
+            "filename": "portrait.png",
+            "query": "version=1734588127",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-53_s1",
+        "sequence": 1,
+        "name": "機動戦士ガンダム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1491
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 イセリナ、恋のあと",
+        "content": "ガルマの復讐を誓うイセリナは、ホワイトベース追撃に同道した。ガンダムとガンキャノンがガウの翼に飛び乗って攻撃を開始するが、シャアのルッグン偵察機による爆撃でホワイトベースは推力を失ってしまう。その最中、ガンダムの姿を見たイセリナは、ガルマの死への怨みをこめてガウをガンダムにぶつけようとするが…。"
+    },
+    "credit": {
+        "released": 1979,
+        "casts": [
+            "アムロ・レイ:古谷 徹",
+            "シャア・アズナブル:池田秀一",
+            "ブライト・ノア:鈴置洋孝",
+            "フラウ・ボゥ:鵜飼るみ子",
+            "ミライ・ヤシマ:白石冬美"
+        ],
+        "crews": [
+            "総監督:富野喜幸",
+            "キャラデザイン:安彦良和",
+            "メカデザイン:大河原邦男"
+        ],
+        "copyrights": [
+            "(C)創通・サンライズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730260184,
+    "endAt": 1753974000,
+    "transcodeVersion": "2TCxux",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/GCMy2",
+        "facebook": "https://gxyt4.app.goo.gl/1bcHU",
+        "google": "https://gxyt4.app.goo.gl/9qvUa",
+        "line": "https://gxyt4.app.goo.gl/b1rhy",
+        "copy": "https://gxyt4.app.goo.gl/H39Jy",
+        "instagram": "https://gxyt4.app.goo.gl/mwsCu"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/13-53_s1_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/13-53_s1_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/13-53_s1_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-53_s1_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1486.78
+    },
+    "nextProgramInfo": {
+        "programId": "13-53_s1_p12",
+        "title": "第12話 ジオンの脅威",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730260184,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734856200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-53_s1_p11/timeline",
+        "query": "version=2TCxux",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734856200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1735545600
+        }
+    ],
+    "episodeGroupId": "13-53_eg0",
+    "skipVmap": true
+}

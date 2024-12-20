@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1734312643",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1734312643",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -277,8 +277,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1734627600
+                    "onDemandType": 1,
+                    "endAt": 1735311600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -294,7 +294,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p11",
             "filename": "thumb002.png",
-            "query": "version=1734312644",
+            "query": "version=1734683595",
             "extension": "png"
         },
         "episode": {
@@ -306,8 +306,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 1,
-                    "endAt": 1734627600
+                    "onDemandType": 3,
+                    "endAt": 1735232400
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -316,6 +316,35 @@
         },
         "info": {
             "duration": 1450
+        }
+    },
+    {
+        "id": "194-42_s1_p12",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/194-42_s1_p12",
+            "filename": "thumb001.png",
+            "query": "version=1734683595",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 12,
+            "title": "第12話 こんにちは人生",
+            "content": "セリナの声によって目を覚ましたドランは、自身を悪夢に陥れた元凶である最強の邪神カラヴィスと対峙する。かつての自分や勇者を苦しめた宿敵に、ドランは正義の鉄槌を下す！　改めて人間として全力で生きる覚悟を決めたドランは、愛する故郷を守るために、一度村の皆と別れることを決意するのだが……。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 1,
+                    "endAt": 1735232400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1435
         }
     }
 ]

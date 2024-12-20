@@ -1,0 +1,134 @@
+{
+    "id": "13-53_s1_p23",
+    "series": {
+        "id": "13-53",
+        "title": "機動戦士ガンダム",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-53",
+            "filename": "thumb.png",
+            "query": "version=1734588127",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-53",
+            "filename": "portrait.png",
+            "query": "version=1734588127",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-53_s1",
+        "sequence": 1,
+        "name": "機動戦士ガンダム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1491
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 23,
+        "title": "第23話 マチルダ救出作戦",
+        "content": "マ・クベの罠にかかり、ホワイトベースは不時着した。不安な面持ちで補給を待つミライに対し、ブライトは艦長代理を正式に依頼する。ヨーロッパ前線基地に到着したレビル将軍はホワイトベースを高く評価し、エンジン修理とガンダムのパワーアップ用メカ“Gファイター”を送り届けることをマチルダに指示するが…。"
+    },
+    "credit": {
+        "released": 1979,
+        "casts": [
+            "アムロ・レイ:古谷 徹",
+            "シャア・アズナブル:池田秀一",
+            "ブライト・ノア:鈴置洋孝",
+            "フラウ・ボゥ:鵜飼るみ子",
+            "ミライ・ヤシマ:白石冬美"
+        ],
+        "crews": [
+            "総監督:富野喜幸",
+            "キャラデザイン:安彦良和",
+            "メカデザイン:大河原邦男"
+        ],
+        "copyrights": [
+            "(C)創通・サンライズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730260184,
+    "endAt": 1753974000,
+    "transcodeVersion": "HQQJN",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/mdtjq",
+        "facebook": "https://gxyt4.app.goo.gl/g9nSV",
+        "google": "https://gxyt4.app.goo.gl/62Htu",
+        "line": "https://gxyt4.app.goo.gl/Qv4zG",
+        "copy": "https://gxyt4.app.goo.gl/z3Ki1",
+        "instagram": "https://gxyt4.app.goo.gl/joMEg"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-53_s1_p23/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-53_s1_p23/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-53_s1_p23/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-53_s1_p23"
+    },
+    "viewingPoint": {
+        "suggestion": 1486.51
+    },
+    "nextProgramInfo": {
+        "programId": "13-53_s1_p24",
+        "title": "第24話 迫撃！トリプル・ドム",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730260184,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734856200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-53_s1_p23/timeline",
+        "query": "version=HQQJN",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734856200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1735545600
+        }
+    ],
+    "episodeGroupId": "13-53_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,134 @@
+{
+    "id": "13-53_s1_p13",
+    "series": {
+        "id": "13-53",
+        "title": "機動戦士ガンダム",
+        "label": {},
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-53",
+            "filename": "thumb.png",
+            "query": "version=1734588127",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/13-53",
+            "filename": "portrait.png",
+            "query": "version=1734588127",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "13-53_s1",
+        "sequence": 1,
+        "name": "機動戦士ガンダム",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_26",
+                "name": "ロボット・メカ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1491
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 13,
+        "title": "第13話 再会、母よ…",
+        "content": "母の待つ故郷に立ち寄っていたアムロ。母との再会を果たしたアムロは、見回りのジオン兵をやり過ごすため病人になりすますことに。だが、ブライトの出した緊急コールが兵の注意を引きつけてしまう。自己防衛のため銃撃したアムロは、その行為を母に叱責される。アムロは激しい断絶を感じながらも戦いを続けるのだが…。"
+    },
+    "credit": {
+        "released": 1979,
+        "casts": [
+            "アムロ・レイ:古谷 徹",
+            "シャア・アズナブル:池田秀一",
+            "ブライト・ノア:鈴置洋孝",
+            "フラウ・ボゥ:鵜飼るみ子",
+            "ミライ・ヤシマ:白石冬美"
+        ],
+        "crews": [
+            "総監督:富野喜幸",
+            "キャラデザイン:安彦良和",
+            "メカデザイン:大河原邦男"
+        ],
+        "copyrights": [
+            "(C)創通・サンライズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730260184,
+    "endAt": 1753974000,
+    "transcodeVersion": "3Gbu35",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/PBLdu",
+        "facebook": "https://gxyt4.app.goo.gl/fY9Co",
+        "google": "https://gxyt4.app.goo.gl/eyPbk",
+        "line": "https://gxyt4.app.goo.gl/RCaXL",
+        "copy": "https://gxyt4.app.goo.gl/b4RZq",
+        "instagram": "https://gxyt4.app.goo.gl/2XYWq"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/13-53_s1_p13/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/13-53_s1_p13/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/13-53_s1_p13/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.13-53_s1_p13"
+    },
+    "viewingPoint": {
+        "suggestion": 1486.25
+    },
+    "nextProgramInfo": {
+        "programId": "13-53_s1_p14",
+        "title": "第14話 時間よ、とまれ",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730260184,
+        "endAt": 1753974000,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1734856200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/13-53_s1_p13/timeline",
+        "query": "version=3Gbu35",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1734856200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1735545600
+        }
+    ],
+    "episodeGroupId": "13-53_eg0",
+    "skipVmap": true
+}
