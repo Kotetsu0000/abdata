@@ -1,0 +1,160 @@
+{
+    "id": "171-3_s0_p3",
+    "series": {
+        "id": "171-3",
+        "title": "School Days",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-3",
+            "filename": "thumb.png",
+            "query": "version=1689222041",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-3",
+            "filename": "portrait.png",
+            "query": "version=1689222041",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "171-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1494
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 3,
+        "title": "第三話 すれ違う想い",
+        "content": "誠と付き合い始めた言葉だが、二人の気持ちはうまくかみ合わない。悩みを抱える言葉に、気持ちが空回りしている誠。誠は電車の中で落ち込んでいる言葉を抱き締めるが拒絶されてしまう…。そんな電車の中での行動を、誠と同じクラスの光に目撃されてしまい…。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "伊藤誠：平川大輔",
+            "桂言葉：岡嶋妙",
+            "西園寺世界：河原木志穂",
+            "清浦刹那：井本恵子",
+            "加藤乙女：永見はるか",
+            "黒田光：田中涼子",
+            "甘露寺七海：たかはし智秋",
+            "桂心：亜城めぐ",
+            "澤永泰介：松本吉朗"
+        ],
+        "crews": [
+            "脚本：秋月ひろ",
+            "コンテ：阿宮正和",
+            "演出：阿宮正和",
+            "作画監督：中島美子"
+        ],
+        "copyrights": [
+            "(C) STACK・School Days製作委員会 2009"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1702021688,
+    "endAt": 1767193200,
+    "transcodeVersion": "3NVaNJ",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/tSv4R",
+        "facebook": "https://gxyt4.app.goo.gl/FnjH6",
+        "google": "https://gxyt4.app.goo.gl/WBGv1",
+        "line": "https://gxyt4.app.goo.gl/JPY9D",
+        "copy": "https://gxyt4.app.goo.gl/fMckb",
+        "instagram": "https://gxyt4.app.goo.gl/6g1DU"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/171-3_s0_p3/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/171-3_s0_p3/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/171-3_s0_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.171-3_s0_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1389.7884,
+        "opening": {
+            "start": 33.86716666666667,
+            "end": 123.79033333333334
+        },
+        "ending": {
+            "start": 1389.7884,
+            "end": 1479.7783
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "171-3_s0_p4",
+        "title": "第四話 無垢",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1702021688,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735054800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/171-3_s0_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735054800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1735659600
+        }
+    ],
+    "episodeGroupId": "171-3_eg0",
+    "skipVmap": true
+}

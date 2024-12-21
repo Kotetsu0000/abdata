@@ -1,0 +1,161 @@
+{
+    "id": "171-3_s0_p10",
+    "series": {
+        "id": "171-3",
+        "title": "School Days",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-3",
+            "filename": "thumb.png",
+            "query": "version=1689222041",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/171-3",
+            "filename": "portrait.png",
+            "query": "version=1689222041",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "171-3_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_7",
+                "name": "恋愛・ラブコメ"
+            },
+            {
+                "id": "animation_5",
+                "name": "ホラー・サスペンス"
+            },
+            {
+                "id": "animation_42",
+                "name": "アニメLIVE"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1494
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 10,
+        "title": "第十話 心と体",
+        "content": "学園祭最後のフォークダンスで楽しそうに踊っている誠と世界。そんな二人を見てしまった言葉だが、頑なに自分は誠の恋人だと主張する。フランスへの旅立ちを控えた刹那は、世界を誠に託そうと奔走するのだが…。"
+    },
+    "credit": {
+        "released": 2007,
+        "casts": [
+            "伊藤誠：平川大輔",
+            "桂言葉：岡嶋妙",
+            "西園寺世界：河原木志穂",
+            "清浦刹那：井本恵子",
+            "加藤乙女：永見はるか",
+            "黒田光：田中涼子",
+            "甘露寺七海：たかはし智秋",
+            "桂心：亜城めぐ",
+            "澤永泰介：松本吉朗"
+        ],
+        "crews": [
+            "脚本：秋月ひろ",
+            "脚本：上江洲誠",
+            "コンテ：渡邊哲哉",
+            "演出：渡邊哲哉",
+            "作画監督：李政權"
+        ],
+        "copyrights": [
+            "(C) STACK・School Days製作委員会 2016"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1702021688,
+    "endAt": 1767193200,
+    "transcodeVersion": "3cksa2",
+    "sharedLink": {
+        "twitter": "https://gxyt4.app.goo.gl/xDdmk",
+        "facebook": "https://gxyt4.app.goo.gl/xKxVK",
+        "google": "https://gxyt4.app.goo.gl/VhDMW",
+        "line": "https://gxyt4.app.goo.gl/GJ2r2",
+        "copy": "https://gxyt4.app.goo.gl/t3cqy",
+        "instagram": "https://gxyt4.app.goo.gl/2PGeS"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/171-3_s0_p10/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/171-3_s0_p10/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/171-3_s0_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.171-3_s0_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 1480.0118666666667,
+        "opening": {
+            "start": 65.9659,
+            "end": 155.98916666666668
+        },
+        "ending": {
+            "start": 1330.0287,
+            "end": 1420.0186
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "171-3_s0_p11",
+        "title": "第十一話 みんなの誠",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1702021688,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735054800
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/171-3_s0_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735054800
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1735659600
+        }
+    ],
+    "episodeGroupId": "171-3_eg0",
+    "skipVmap": true
+}

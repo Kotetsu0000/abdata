@@ -33,6 +33,10 @@
             },
             "episodeGroups": [
                 {
+                    "id": "19-207_eg0",
+                    "name": "本編"
+                },
+                {
                     "id": "19-207_eg1",
                     "name": "PV"
                 }
@@ -44,7 +48,7 @@
         "(C)2023「劇場版 SPY×FAMILY」製作委員会 (C)遠藤達哉／集英社"
     ],
     "label": {
-        "free": true
+        "someFree": true
     },
     "version": "1732870127080449066",
     "imageUpdatedAt": 1730088424,
@@ -70,7 +74,7 @@
         "extension": "png"
     },
     "onDemandTypes": [
-        3
+        1
     ],
     "contentPattern": 4,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
