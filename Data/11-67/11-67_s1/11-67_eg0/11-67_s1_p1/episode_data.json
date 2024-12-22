@@ -1,0 +1,151 @@
+{
+    "id": "11-67_s1_p1",
+    "series": {
+        "id": "11-67",
+        "title": "OVA苺ましまろencore",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-67",
+            "filename": "thumb.png",
+            "query": "version=1729760152",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-67",
+            "filename": "portrait.png",
+            "query": "version=1729760152",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-67_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1596
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 1,
+        "title": "第１話　「こんにちは」",
+        "content": "いつものように伊藤家に集まって駄弁っていると、美羽が「アイドルになりたい！」とすっとんきょうなことを言い出しました。はいはいまたかと思っていると突然バク転に挑戦し始め・・・。美羽が次に気づいたときにはあの世でした。伸恵お姉ちゃんそっくりの閻魔さまには地獄に落とされて、友達そっくりなあの世の住人たちを手玉に取っていつものようにボケ倒します。地獄でも手に負えないから天国へ。天国では羽を奪ってとんずらしたら、タライを落とされて現世に戻りました。 よかったね。"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "伊藤伸恵：生田目仁美",
+            "伊藤千佳：千葉紗子",
+            "松岡美羽：折笠富美子",
+            "桜木茉莉：川澄綾子",
+            "アナ・コッポラ：能登麻美子"
+        ],
+        "crews": [
+            "原作：ばらスィー〈月刊 電撃大王（メディアワークス）連載中〉",
+            "監督・構成：佐藤卓哉（「NieA_7」）",
+            "脚本：横手美智子、佐藤卓哉",
+            "キャラクターデザイン・総作画監督：坂井九太（「ひぐらしのなく頃に」）",
+            "音響監督：明田川仁（「灼眼のシャナ」）",
+            "音楽：渡辺剛（「ToLOVEるーとらぶるー」）",
+            "アニメーション制作：童夢"
+        ],
+        "copyrights": [
+            "(C)ばらスィー／アスキー・メディアワークス／苺ましまろOVA2パートナーズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1729739501,
+    "endAt": 1767193200,
+    "freeEndAt": 1767193200,
+    "transcodeVersion": "7SkbmE",
+    "sharedLink": {
+        "twitter": "https://abema.app/PJxJ",
+        "facebook": "https://abema.app/EQec",
+        "google": "https://abema.app/LvZY",
+        "line": "https://abema.app/qWNF",
+        "copy": "https://abema.app/4CHq",
+        "instagram": "https://abema.app/sqv1"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-67_s1_p1/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-67_s1_p1/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/11-67_s1_p1/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-67_s1_p1/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-67_s1_p1"
+    },
+    "viewingPoint": {
+        "suggestion": 1495.9945,
+        "opening": {
+            "start": 269.85291666666666,
+            "end": 368.8267916666667
+        },
+        "ending": {
+            "start": 1495.9945,
+            "end": 1595.969375
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-67_s1_p2",
+        "title": "第２話　「またあした」",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002",
+            "thumb003"
+        ],
+        "imageUpdatedAt": 1729739835,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-67_s1_p1/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "11-67_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,153 @@
+{
+    "id": "143-50_s1_p3",
+    "series": {
+        "id": "143-50",
+        "title": "ふらいんぐうぃっち",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-50",
+            "filename": "thumb.png",
+            "query": "version=1731554647",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/143-50",
+            "filename": "portrait.png",
+            "query": "version=1731554647",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "143-50_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1370
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 3,
+        "title": "第3話 畑講座と魔術講座",
+        "content": "魔女の勉強の一環として、倉本家の畑を借りて野菜作りに挑戦する真琴。しかし、長い間使われていなかった畑には一面に雑草が生えていた。そこで、圭と千夏に手伝ってもらいながら、真琴は畑の土を作ることになる。畑での栽培も順調に進んでいたある日、倉本家に謎の女性がやってくる。それは世界中を旅している真琴の姉、茜だった。茜は真琴があまり魔術を使っていないことを知り、真琴に練習として簡単な魔術を教えることにしたのだが…。"
+    },
+    "credit": {
+        "released": 2016,
+        "casts": [
+            "木幡 真琴 CV：篠田 みなみ",
+            "倉本 千夏 CV：鈴木 絵理",
+            "倉本 圭 CV：菅原 慎介",
+            "石渡なお CV：三上 枝織",
+            "木幡　茜 CV：葵井 歌菜",
+            "犬養 CV：日野 まり",
+            "椎名杏子 CV：井口 裕香",
+            "チト CV：茅野 愛衣",
+            "ケニー CV：佐倉 綾音",
+            "アル CV：小澤 亜李"
+        ],
+        "crews": [
+            "原作：石塚千尋（講談社「別冊少年マガジン」連載）",
+            "監督：桜美かつし",
+            "シリーズ構成：赤尾でこ",
+            "キャラクターデザイン：安野将人",
+            "美術監督：奥村泰浩（ムーンフラワー）",
+            "色彩設計：安藤智美",
+            "撮影監督：大河内喜夫",
+            "音響監督：岩浪美和",
+            "音響効果：小山恭正",
+            "録音調整：星野賢爾",
+            "音楽：出羽良彰",
+            "アニメーション制作：J.C.STAFF"
+        ],
+        "copyrights": [
+            "(C)石塚千尋・講談社／「ふらいんぐうぃっち」製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731554989,
+    "endAt": 1767193200,
+    "transcodeVersion": "KhrPQ",
+    "sharedLink": {
+        "twitter": "https://abema.app/Skxi",
+        "facebook": "https://abema.app/fyEX",
+        "google": "https://abema.app/XmYL",
+        "line": "https://abema.app/F8hs",
+        "copy": "https://abema.app/DkBR",
+        "instagram": "https://abema.app/7BUh"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/143-50_s1_p3/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/143-50_s1_p3/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/143-50_s1_p3/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.143-50_s1_p3"
+    },
+    "viewingPoint": {
+        "suggestion": 1279.9787,
+        "opening": {
+            "start": 51.98526666666667,
+            "end": 141.97516666666667
+        },
+        "ending": {
+            "start": 1279.9787,
+            "end": 1370.0019666666667
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "143-50_s1_p4",
+        "title": "第4話 桜の中の占い師",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1731555003,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/143-50_s1_p3/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "143-50_eg0",
+    "skipVmap": true
+}

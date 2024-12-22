@@ -1,0 +1,138 @@
+{
+    "id": "11-66_s1_p2",
+    "series": {
+        "id": "11-66",
+        "title": "苺ましまろ OVA",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-66",
+            "filename": "thumb.png",
+            "query": "version=1729759655",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-66",
+            "filename": "portrait.png",
+            "query": "version=1729759655",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-66_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1537
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 2,
+        "title": "第2話 いつも。",
+        "content": "相変わらずすき放題の美羽。姉を心配するしっかりものの妹、千佳。のんびりマイペースの茉莉。その茉莉のよきパートナー、アナ。そして、茉莉になごみ萌えする伸恵。いつものメンバーのいつもながらの1日が、まったりと過ぎていく…。"
+    },
+    "credit": {
+        "released": 2006,
+        "casts": [
+            "伊藤伸恵：生天目仁美",
+            "伊藤千佳：千葉紗子",
+            "松岡美羽：折笠富美子",
+            "桜木茉莉：川澄綾子",
+            "アナ・コッポラ：能登麻美子"
+        ],
+        "crews": [
+            "原作：「苺ましまろ」 byばらスィー（メディアワークス刊「月刊コミック電撃大王」連載）",
+            "監督・構成：佐藤卓哉",
+            "キャラクターデザイン・総作画監督：坂井久太",
+            "脚本：花田十輝、平見 瞠、佐藤卓哉",
+            "音楽：渡辺剛",
+            "アニメーション制作：童夢",
+            "製作：苺ましまろOVAパートナー"
+        ],
+        "copyrights": [
+            "(C)ばらスィー／アスキー・メディアワークス／苺ましまろOVAパートナーズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1729521241,
+    "endAt": 1767193200,
+    "transcodeVersion": "2qtnn",
+    "sharedLink": {
+        "twitter": "https://abema.app/j6zY",
+        "facebook": "https://abema.app/HWLW",
+        "google": "https://abema.app/ZMJd",
+        "line": "https://abema.app/vVEf",
+        "copy": "https://abema.app/LL2U",
+        "instagram": "https://abema.app/nmon"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/11-66_s1_p2/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/11-66_s1_p2/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/11-66_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-66_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1433.0149166666667,
+        "opening": {
+            "end": 99.974875
+        },
+        "ending": {
+            "start": 1433.0149166666667,
+            "end": 1525.1903333333332
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "11-66_s1_p3",
+        "title": "第3話 まいにち。",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1729521258,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-66_s1_p2/2/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "11-66_eg0",
+    "skipVmap": true
+}

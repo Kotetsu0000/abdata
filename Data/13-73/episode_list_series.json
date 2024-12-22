@@ -65,9 +65,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1683709642,
         "endAt": 1753974000,
+        "freeEndAt": 1735552800,
         "transcodeVersion": "2L11QQ",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/e3WLf",
@@ -89,8 +92,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1734863400
+                "onDemandType": 3,
+                "endAt": 1735552800
             }
         ],
         "rentalInfo": {

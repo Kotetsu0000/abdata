@@ -1,0 +1,129 @@
+{
+    "id": "11-67_s1_p2",
+    "series": {
+        "id": "11-67",
+        "title": "OVA苺ましまろencore",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-67",
+            "filename": "thumb.png",
+            "query": "version=1729760152",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-67",
+            "filename": "portrait.png",
+            "query": "version=1729760152",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "11-67_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1639
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002",
+            "thumb003"
+        ]
+    },
+    "episode": {
+        "number": 2,
+        "title": "第２話　「またあした」",
+        "content": "仲良し4人組と女子短大生のなんでもない日常が、今回ものんべんだらりと繰り広げられます。なんやかんやで一緒にいることが多い美羽と千佳だけど、美羽は「友達か親友か」が気になる様子。茉莉とアナはすっかり仲良しで、メールの内容もかわいらしい。大して千佳と美羽はボケとツッコミのよう。こういう関係っていったい何と言えばいいの？信恵お姉ちゃんは「友達」というよりは「ボス」って感じだし。人間関係ってむつかしいのね。あまり深く考えないほうがいいんじゃない？"
+    },
+    "credit": {
+        "released": 2009,
+        "casts": [
+            "伊藤伸恵：生田目仁美",
+            "伊藤千佳：千葉紗子",
+            "松岡美羽：折笠富美子",
+            "桜木茉莉：川澄綾子",
+            "アナ・コッポラ：能登麻美子"
+        ],
+        "crews": [
+            "原作：ばらスィー〈月刊 電撃大王（メディアワークス）連載中〉",
+            "監督・構成：佐藤卓哉（「NieA_7」）",
+            "脚本：横手美智子、佐藤卓哉",
+            "キャラクターデザイン・総作画監督：坂井九太（「ひぐらしのなく頃に」）",
+            "音響監督：明田川仁（「灼眼のシャナ」）",
+            "音楽：渡辺剛（「ToLOVEるーとらぶるー」）",
+            "アニメーション制作：童夢"
+        ],
+        "copyrights": [
+            "(C)ばらスィー／アスキー・メディアワークス／苺ましまろOVA2パートナーズ"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1729739835,
+    "endAt": 1767193200,
+    "transcodeVersion": "58EhPk",
+    "sharedLink": {
+        "twitter": "https://abema.app/uAPX",
+        "facebook": "https://abema.app/NPnV",
+        "google": "https://abema.app/gQWY",
+        "line": "https://abema.app/rrNU",
+        "copy": "https://abema.app/Gfhj",
+        "instagram": "https://abema.app/PCXL"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/11-67_s1_p2/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/11-67_s1_p2/manifest.mpd",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/11-67_s1_p2/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.11-67_s1_p2"
+    },
+    "viewingPoint": {
+        "suggestion": 1546.2113333333334,
+        "opening": {
+            "start": 121.03758333333333,
+            "end": 220.01145833333334
+        },
+        "ending": {
+            "start": 1546.2113333333334,
+            "end": 1639.012375
+        }
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/11-67_s1_p2/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "11-67_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,74 @@
+{
+    "id": "11-66",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "title": "苺ましまろ OVA",
+    "content": "TVシリーズの制作メンバーが再結集して制作されたOVA版。\n短大生の伸恵、その妹で小学6年生の千佳、千佳の幼馴染で同じく小学6年生の美羽、伸恵と千佳のご近所で小学5年生の茉莉、そして茉莉の同級生でイギリス人のアナ。\n短大生のお姉ちゃんと小学生4人の女の子たちの何気ない、でもどこかユニークな日常を描く。",
+    "seasons": [
+        {
+            "id": "11-66_s1",
+            "sequence": 1,
+            "name": "シーズン1",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-66",
+                "filename": "thumb.png",
+                "query": "version=1729759655",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "11-66_eg0",
+                    "name": "本編"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)ばらスィー／アスキー・メディアワークス／苺ましまろOVAパートナーズ"
+    ],
+    "label": {
+        "someFree": true
+    },
+    "version": "1734426339336354479",
+    "imageUpdatedAt": 1729759655,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/FbcJ",
+        "facebook": "https://abema.app/TVna",
+        "google": "https://abema.app/UnaR",
+        "line": "https://abema.app/6zJV",
+        "copy": "https://abema.app/iJd6",
+        "instagram": "https://abema.app/Je8r"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-66",
+        "filename": "thumb.png",
+        "query": "version=1729759655",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/11-66",
+        "filename": "portrait.png",
+        "query": "version=1729759655",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        1,
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
