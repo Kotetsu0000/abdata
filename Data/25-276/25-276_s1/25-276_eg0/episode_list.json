@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1734342175",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1734342176",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1734342176",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -294,7 +294,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p11",
             "filename": "thumb002.png",
-            "query": "version=1734342176",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -323,7 +323,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p12",
             "filename": "thumb002.png",
-            "query": "version=1734342176",
+            "query": "version=1734947509",
             "extension": "png"
         },
         "episode": {
@@ -335,8 +335,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1735765200
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1449
+        }
+    },
+    {
+        "id": "25-276_s1_p13",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/25-276_s1_p13",
+            "filename": "thumb001.png",
+            "query": "version=1734947509",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 13,
+            "title": "第13話 決戦！！",
+            "content": "ゴッド・プロモーションの定時株主総会が開かれ、参加者は総会後に行われる天パ組のライブを楽しみに待ち構えていた。しかし、議案も終盤に差し掛かったところ、突如一般客席より修正動議が提案される。提案した人物を見て、戸惑う神社長。さらに、彼の耳元にあるインカムからは、とある人物の声が聞こえてきて——。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1734894000
+                    "endAt": 1735498800
                 }
             ],
             "broadcastRegionPolicy": 1,

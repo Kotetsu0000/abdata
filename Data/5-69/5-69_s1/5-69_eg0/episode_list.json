@@ -288,5 +288,34 @@
         "info": {
             "duration": 1430
         }
+    },
+    {
+        "id": "5-69_s1_p11",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/5-69_s1_p11",
+            "filename": "thumb001.png",
+            "query": "version=1734845226",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 11,
+            "title": "第11話",
+            "content": "-"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1735574400
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1430
+        }
     }
 ]
