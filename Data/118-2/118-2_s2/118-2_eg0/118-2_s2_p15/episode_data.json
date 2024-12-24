@@ -1,0 +1,149 @@
+{
+    "id": "118-2_s2_p15",
+    "series": {
+        "id": "118-2",
+        "title": "戦え！超ロボット生命体トランスフォーマー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "thumb.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "portrait.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "118-2_s2",
+        "sequence": 2,
+        "name": "戦え!超ロボット生命体トランスフォーマー2010",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1381
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 15,
+        "title": "第15話 戦いか死か?!",
+        "content": "サイクロナスはある日、セイバートロン星そっくりの星を発見する。その星パラドロンは、大昔、セイバートロン星での戦火を逃れ、平和を願ったサイバトロン達が開発した理想郷とも言える星であった。戦うことを知らぬパラドロンの住民達は、デストロン軍団の前に無抵抗で屈服、彼らの奴隷となって兵器の生産に従事させられるのだが。"
+    },
+    "credit": {
+        "released": 1985,
+        "casts": [
+            "ロディマス・コンボイ：石丸博也",
+            "ガルバトロン：加藤精三",
+            "ウルトラマグナス：速水奨",
+            "スプラング：堀内賢雄",
+            "サイクロナス：稲葉実",
+            "スパイク：江原正士",
+            "アーシー：勝生真沙子",
+            "チャー：阪修",
+            "ナレーション：政宗一成"
+        ],
+        "crews": [
+            "演出：田島荘三",
+            "監修：中野隆幸",
+            "翻訳：平田勝茂",
+            "プロデューサー：佐藤博久、諸橋健一"
+        ],
+        "copyrights": [
+            "(C) TOMY"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731569332,
+    "endAt": 1767193200,
+    "transcodeVersion": "3ET6Me",
+    "sharedLink": {
+        "twitter": "https://abema.app/2K3m",
+        "facebook": "https://abema.app/hdqU",
+        "google": "https://abema.app/XweA",
+        "line": "https://abema.app/jAp5",
+        "copy": "https://abema.app/6uDz",
+        "instagram": "https://abema.app/PV8q"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p15/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p15/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p15/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.118-2_s2_p15"
+    },
+    "viewingPoint": {
+        "suggestion": 1321.5535666666667,
+        "opening": {
+            "end": 80.08
+        },
+        "ending": {
+            "start": 1321.5535666666667,
+            "end": 1381.3466333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "118-2_s2_p16",
+        "title": "第16話 スタースクリーム復活",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1731569388,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/118-2_s2_p15/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "118-2_eg0",
+    "skipVmap": true
+}

@@ -1,0 +1,149 @@
+{
+    "id": "118-2_s2_p7",
+    "series": {
+        "id": "118-2",
+        "title": "戦え！超ロボット生命体トランスフォーマー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "thumb.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "portrait.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "118-2_s2",
+        "sequence": 2,
+        "name": "戦え!超ロボット生命体トランスフォーマー2010",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1381
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 7,
+        "title": "第7話 スタースクリームの幽霊",
+        "content": "ガルバトロンを裏切ったオクトーンはサイバトロンのもとに身を寄せ、彼らを手伝う。裏切者を許せぬガルバトロンはオクトーン暗殺の刺客として、スカックスゾイドを送ったが失敗、続いてサイクロナスとスウィープスを送りこむ。オクトーンを追って霊廟に入りこんだ彼らが出会ったのは、何と、スタースクリームの幽霊だった!"
+    },
+    "credit": {
+        "released": 1985,
+        "casts": [
+            "ロディマス・コンボイ：石丸博也",
+            "ガルバトロン：加藤精三",
+            "ウルトラマグナス：速水奨",
+            "スプラング：堀内賢雄",
+            "サイクロナス：稲葉実",
+            "スパイク：江原正士",
+            "アーシー：勝生真沙子",
+            "チャー：阪修",
+            "ナレーション：政宗一成"
+        ],
+        "crews": [
+            "演出：田島荘三",
+            "監修：中野隆幸",
+            "翻訳：平田勝茂",
+            "プロデューサー：佐藤博久、諸橋健一"
+        ],
+        "copyrights": [
+            "(C) TOMY"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731569126,
+    "endAt": 1767193200,
+    "transcodeVersion": "5YTvAx",
+    "sharedLink": {
+        "twitter": "https://abema.app/DGkf",
+        "facebook": "https://abema.app/SKsR",
+        "google": "https://abema.app/3XqR",
+        "line": "https://abema.app/pu2V",
+        "copy": "https://abema.app/q85s",
+        "instagram": "https://abema.app/i5fr"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p7/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p7/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p7/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.118-2_s2_p7"
+    },
+    "viewingPoint": {
+        "suggestion": 1321.5535666666667,
+        "opening": {
+            "end": 80.08
+        },
+        "ending": {
+            "start": 1321.5535666666667,
+            "end": 1381.3466333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "118-2_s2_p8",
+        "title": "第8話 コンボイの影",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1731569151,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/118-2_s2_p7/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "118-2_eg0",
+    "skipVmap": true
+}

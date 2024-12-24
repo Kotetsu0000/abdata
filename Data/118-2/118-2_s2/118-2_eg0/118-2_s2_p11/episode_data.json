@@ -1,0 +1,149 @@
+{
+    "id": "118-2_s2_p11",
+    "series": {
+        "id": "118-2",
+        "title": "戦え！超ロボット生命体トランスフォーマー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "thumb.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/118-2",
+            "filename": "portrait.png",
+            "query": "version=1729042075",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "118-2_s2",
+        "sequence": 2,
+        "name": "戦え!超ロボット生命体トランスフォーマー2010",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1383
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001",
+        "sceneThumbImgs": [
+            "thumb002"
+        ]
+    },
+    "episode": {
+        "number": 11,
+        "title": "第11話 デスクリスタル",
+        "content": "保安隊長のチャーに率いられたサイバトロン達は、惑星ドレッドへと降り立った。その惑星にはモンスター、ケイオスが住んでいる。その体からはがれ落ちるウロコ、デス・クリスタルは宇宙一固い物質として、強力な武器となるのだ。ガルバトロン率いるデストロン軍団はそのデス・クリスタルを採集し、巨大なクリスタル砲で、セイバートロン星を破壊しようと企む。"
+    },
+    "credit": {
+        "released": 1985,
+        "casts": [
+            "ロディマス・コンボイ：石丸博也",
+            "ガルバトロン：加藤精三",
+            "ウルトラマグナス：速水奨",
+            "スプラング：堀内賢雄",
+            "サイクロナス：稲葉実",
+            "スパイク：江原正士",
+            "アーシー：勝生真沙子",
+            "チャー：阪修",
+            "ナレーション：政宗一成"
+        ],
+        "crews": [
+            "演出：田島荘三",
+            "監修：中野隆幸",
+            "翻訳：平田勝茂",
+            "プロデューサー：佐藤博久、諸橋健一"
+        ],
+        "copyrights": [
+            "(C) TOMY"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1731569231,
+    "endAt": 1767193200,
+    "transcodeVersion": "2UjtpA",
+    "sharedLink": {
+        "twitter": "https://abema.app/CvhT",
+        "facebook": "https://abema.app/gSrg",
+        "google": "https://abema.app/TAmQ",
+        "line": "https://abema.app/oepp",
+        "copy": "https://abema.app/MxNn",
+        "instagram": "https://abema.app/hxMD"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p11/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p11/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/118-2_s2_p11/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.118-2_s2_p11"
+    },
+    "viewingPoint": {
+        "suggestion": 1323.5555666666667,
+        "opening": {
+            "end": 80.08
+        },
+        "ending": {
+            "start": 1323.5555666666667,
+            "end": 1383.3486333333333
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "118-2_s2_p12",
+        "title": "第12話 不思議の国のダニエル",
+        "thumbImg": "thumb001",
+        "sceneThumbImages": [
+            "thumb002"
+        ],
+        "imageUpdatedAt": 1731569251,
+        "endAt": 1767193200,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1767193200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/118-2_s2_p11/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1767193200
+        }
+    ],
+    "episodeGroupId": "118-2_eg0",
+    "skipVmap": true
+}

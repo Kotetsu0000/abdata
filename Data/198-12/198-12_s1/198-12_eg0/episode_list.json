@@ -4,7 +4,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p1",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020605",
             "extension": "png"
         },
         "episode": {
@@ -33,7 +33,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p2",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020605",
             "extension": "png"
         },
         "episode": {
@@ -62,7 +62,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p3",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020605",
             "extension": "png"
         },
         "episode": {
@@ -91,7 +91,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p4",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020605",
             "extension": "png"
         },
         "episode": {
@@ -120,7 +120,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p5",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020605",
             "extension": "png"
         },
         "episode": {
@@ -149,7 +149,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p6",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020605",
             "extension": "png"
         },
         "episode": {
@@ -178,7 +178,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p7",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020606",
             "extension": "png"
         },
         "episode": {
@@ -207,7 +207,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p8",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020606",
             "extension": "png"
         },
         "episode": {
@@ -236,7 +236,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p9",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020606",
             "extension": "png"
         },
         "episode": {
@@ -265,7 +265,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p10",
             "filename": "thumb002.png",
-            "query": "version=1734488114",
+            "query": "version=1735020606",
             "extension": "png"
         },
         "episode": {
@@ -294,7 +294,7 @@
         "thumbComponent": {
             "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p11",
             "filename": "thumb002.png",
-            "query": "version=1734604766",
+            "query": "version=1735020606",
             "extension": "png"
         },
         "episode": {
@@ -306,8 +306,8 @@
         "video": {
             "terms": [
                 {
-                    "onDemandType": 3,
-                    "endAt": 1734977400
+                    "onDemandType": 1,
+                    "endAt": 1735419600
                 }
             ],
             "broadcastRegionPolicy": 1,
@@ -316,6 +316,35 @@
         },
         "info": {
             "duration": 1420
+        }
+    },
+    {
+        "id": "198-12_s1_p12",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/198-12_s1_p12",
+            "filename": "thumb001.png",
+            "query": "version=1735020606",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 12,
+            "title": "第12話 私は、魔法使い以上のものになりたい",
+            "content": "流星群の夜、幼いクルミが《魔法使いさん》とかわした約束。\nまるであの夜をなぞるように、クルミとユズの古代魔法によって解放された魔素は、きらめく流星群となって学園中に降り注ぐ。\n危機を乗り越え、無事にレットランフェスティバルが開催されるなか、クルミとユズはそれぞれに進むべき道を決める。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
+                    "onDemandType": 3,
+                    "endAt": 1736067600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 1419
         }
     }
 ]
