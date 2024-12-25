@@ -8,13 +8,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/560-3",
                 "filename": "thumb.png",
-                "query": "version=1734411670",
+                "query": "version=1735140388",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/560-3",
                 "filename": "portrait.png",
-                "query": "version=1734411670",
+                "query": "version=1735140388",
                 "extension": "png"
             }
         },
@@ -22,7 +22,12 @@
             "id": "560-3_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/560-3_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1735140410",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -75,7 +80,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1734416575,
+        "imageUpdatedAt": 1735140365,
         "endAt": 1743433200,
         "freeEndAt": 1743433200,
         "transcodeVersion": "h52Fq",

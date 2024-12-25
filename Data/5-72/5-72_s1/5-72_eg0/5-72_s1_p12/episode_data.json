@@ -1,0 +1,154 @@
+{
+    "id": "5-72_s1_p12",
+    "series": {
+        "id": "5-72",
+        "title": "おジャ魔女どれみナ・イ・ショ",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-72",
+            "filename": "thumb.png",
+            "query": "version=1731208323",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/5-72",
+            "filename": "portrait.png",
+            "query": "version=1731208323",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "5-72_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_6",
+                "name": "コメディ・ギャグ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            },
+            {
+                "id": "animation_43",
+                "name": "みんなのアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 1482
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 12,
+        "title": "第12話　７人目の魔女見習い 〜のんちゃんのないしょ〜",
+        "content": "秋、どれみは新しい友だちに出会った。名前はのぞみ、みんなからは「のんちゃん」と呼ばれている女の子だ。のんちゃんは退院したら、本物の魔女に弟子入りしようと思っていた。特技はトランプの神経衰弱。まるで本当の魔法を使ってるみたいに強いのんちゃんと、どれみはトランプで魔女の修行を始めることになる。"
+    },
+    "credit": {
+        "released": 2004,
+        "casts": [
+            "春風どれみ：千葉千恵巳",
+            "藤原はづき：秋谷智子",
+            "妹尾あいこ：松岡由貴",
+            "瀬川おんぷ：宍戸留美",
+            "飛鳥ももこ：宮原永海",
+            "春風ぽっぷ：石毛佐和",
+            "ハナちゃん：大谷育江"
+        ],
+        "crews": [
+            "原作：東堂いづみ",
+            "企画：関弘美、小林宣弘、高橋知子、川村彩",
+            "製作担当：坂井和男",
+            "監修：佐藤順一",
+            "シリーズ構成：山田隆司",
+            "キャラクターデザイン・総作画監督：馬越嘉彦",
+            "美術デザイン：ゆきゆきえ、行信三",
+            "色彩設計：辻田邦夫"
+        ],
+        "copyrights": [
+            "(C)東堂いづみ／ナイショ製作委員会"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {},
+    "imageUpdatedAt": 1730625059,
+    "endAt": 1751295600,
+    "transcodeVersion": "RPNZf",
+    "sharedLink": {
+        "twitter": "https://abema.app/msN4",
+        "facebook": "https://abema.app/dmtT",
+        "google": "https://abema.app/SW1f",
+        "line": "https://abema.app/4E4Z",
+        "copy": "https://abema.app/74GQ",
+        "instagram": "https://abema.app/2q7Q"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/5-72_s1_p12/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/5-72_s1_p12/manifest.mpd",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/5-72_s1_p12/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.5-72_s1_p12"
+    },
+    "viewingPoint": {
+        "suggestion": 1451.9838666666667,
+        "opening": {
+            "start": 12.012,
+            "end": 102.0019
+        }
+    },
+    "nextProgramInfo": {
+        "programId": "5-72_s1_p13",
+        "title": "第13話　時をかけるお雛さま 〜どれみのないしょ〜",
+        "thumbImg": "thumb001",
+        "imageUpdatedAt": 1730625059,
+        "endAt": 1751295600,
+        "broadcastRegionPolicy": 1,
+        "terms": [
+            {
+                "onDemandType": 1,
+                "endAt": 1735999200
+            }
+        ]
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/5-72_s1_p12/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 1,
+            "endAt": 1735999200
+        },
+        {
+            "onDemandType": 3,
+            "endAt": 1736625600
+        }
+    ],
+    "episodeGroupId": "5-72_eg0",
+    "skipVmap": true
+}

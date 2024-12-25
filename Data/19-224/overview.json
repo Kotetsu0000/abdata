@@ -1,0 +1,76 @@
+{
+    "id": "19-224",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_12",
+                "name": "SF・ファンタジー"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "RINGING FATE",
+    "content": "心に強い執着を持つ人は、死の間際に、生と死の狭間にある「崆（くう）」という世界へ導かれる。 その世界では、メカを操縦して戦う”運命のリング”と呼ばれるものがあり、優勝者には生 き返るチャンスが与えられる。 無邪気な少女・要(かなめ)は「崆」に落ちるが、そこで偶然に最凶のヘルメット・サブロ ーと出会い、二人で手を組み”運命のリング”で生き残る道を探り始める。 「過去(きおく)がなきゃ、今までの人生の意味がない。私は未来を取り戻すために闘うー」",
+    "seasons": [
+        {
+            "id": "19-224_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-224",
+                "filename": "thumb.png",
+                "query": "version=1735009716",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "19-224_eg99",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)bilibili/BeDream"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1735034789864257463",
+    "imageUpdatedAt": 1735009716,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/3AXN",
+        "facebook": "https://abema.app/RxjR",
+        "google": "https://abema.app/5RnF",
+        "line": "https://abema.app/pM94",
+        "copy": "https://abema.app/wtcj",
+        "instagram": "https://abema.app/f5oE"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-224",
+        "filename": "thumb.png",
+        "query": "version=1735009716",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/19-224",
+        "filename": "portrait.png",
+        "query": "version=1735009716",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}

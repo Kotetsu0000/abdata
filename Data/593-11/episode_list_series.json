@@ -8,13 +8,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/593-11",
                 "filename": "thumb.png",
-                "query": "version=1733282422",
+                "query": "version=1735139220",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/593-11",
                 "filename": "portrait.png",
-                "query": "version=1733282422",
+                "query": "version=1735139220",
                 "extension": "png"
             }
         },
@@ -22,7 +22,12 @@
             "id": "593-11_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/593-11_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1735139615",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -83,7 +88,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1733282448,
+        "imageUpdatedAt": 1735139644,
         "endAt": 1743433200,
         "freeEndAt": 1743433200,
         "transcodeVersion": "3YDxem",

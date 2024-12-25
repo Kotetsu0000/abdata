@@ -1,0 +1,129 @@
+{
+    "id": "115-117_s1_p500",
+    "series": {
+        "id": "115-117",
+        "title": "花は咲く、修羅の如く",
+        "label": {
+            "free": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-117",
+            "filename": "thumb.png",
+            "query": "version=1734666936",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/115-117",
+            "filename": "portrait.png",
+            "query": "version=1734666936",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "115-117_s1",
+        "sequence": 1,
+        "name": "シーズン1",
+        "thumbComponent": {},
+        "order": 1
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_11",
+                "name": "ドラマ・青春"
+            }
+        ]
+    },
+    "info": {
+        "duration": 121
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 500,
+        "title": "PV【1/12より毎週日曜24:00〜配信】",
+        "content": "人口600人の小さな島・十鳴島（となきじま）に住む春山花奈（はるやまはな）は、島の子供たちに向けて朗読会を行うほど朗読が好きだった。花奈の〝読み〟に人を惹きつける力を感じた薄頼瑞希（うすらいみずき）は、自身が部長を務める放送部へ誘う。\n「お前の本当の願いを言え、アタシが叶えてやる」\n「私、放送部に入りたいです」\n入部を決意した花奈は、たくさんの〝初めて〟を放送部のメンバーと共にし、大好きな朗読を深めていく…。"
+    },
+    "credit": {
+        "released": 2025,
+        "casts": [
+            "春山花奈：藤寺美徳",
+            "薄頼瑞希：島袋美由利",
+            "夏江杏：和泉風花",
+            "冬賀萩大：千葉翔也",
+            "秋山松雪：山下誠一郎",
+            "整井良子：安野希世乃",
+            "箱山瀬太郎：坂泰斗",
+            "吉祥寺博美：遊佐浩二",
+            "西園寺修羅：日笠陽子"
+        ],
+        "crews": [
+            "原作：武田綾乃・むっしゅ（集英社「ウルトラジャンプ」連載）",
+            "監督：宇和野歩",
+            "シリーズ構成：筆安一幸",
+            "キャラクターデザイン：相音光",
+            "総作画監督：相音光・嶋田聡史",
+            "美術監督：山口忍・白井加奈子",
+            "色彩設計：中野尚美",
+            "プロップデザイン：反田誠二",
+            "撮影監督：棚田耕平",
+            "編集：齋藤朱里",
+            "音響監督：濱野高年",
+            "音楽：横山克",
+            "アニメーション制作：スタジオバインド"
+        ],
+        "copyrights": [
+            "(C)武田綾乃・むっしゅ／集英社・すももが丘高校放送部"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1734666965,
+    "endAt": 1743433200,
+    "freeEndAt": 1743433200,
+    "transcodeVersion": "4vgjx7",
+    "sharedLink": {
+        "twitter": "https://abema.app/dxFw",
+        "facebook": "https://abema.app/MQVn",
+        "google": "https://abema.app/GEzC",
+        "line": "https://abema.app/4Agx",
+        "copy": "https://abema.app/BLbQ",
+        "instagram": "https://abema.app/EnSa"
+    },
+    "playback": {
+        "hls": "https://vod-abematv.akamaized.net/program/115-117_s1_p500/playlist.m3u8",
+        "dash": "https://vod-abematv.akamaized.net/program/115-117_s1_p500/manifest.mpd",
+        "hlsPreview": "https://vod-abematv.akamaized.net/preview/program/115-117_s1_p500/playlist.m3u8",
+        "dashIPTV": "https://vod-abematv.akamaized.net/program/115-117_s1_p500/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.115-117_s1_p500"
+    },
+    "viewingPoint": {
+        "suggestion": 116.15770833333333
+    },
+    "download": {},
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/115-117_s1_p500/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1743433200
+        }
+    ],
+    "episodeGroupId": "115-117_eg99",
+    "skipVmap": true
+}
