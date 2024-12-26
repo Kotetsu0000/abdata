@@ -8,13 +8,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-101",
                 "filename": "thumb.png",
-                "query": "version=1733215920",
+                "query": "version=1735218092",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-101",
                 "filename": "portrait.png",
-                "query": "version=1733215920",
+                "query": "version=1735218092",
                 "extension": "png"
             }
         },
@@ -22,7 +22,12 @@
             "id": "54-101_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/54-101_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1735218109",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -43,11 +48,11 @@
                 "ソフィア・シルフィード:茅野愛衣",
                 "マリア:東山奈央",
                 "カエデ:土師亜文",
+                "女神ノルン:雨宮 天",
                 "レーヴァ:稗田寧々",
                 "マーニ:小泉萌香",
                 "パペック:飛田展男",
-                "ムーラン:井上喜久子",
-                "女神ノルン:雨宮 天"
+                "ムーラン:井上喜久子"
             ],
             "crews": [
                 "原作：小狐丸（アルファポリス刊）",
@@ -76,7 +81,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1733215938,
+        "imageUpdatedAt": 1735218059,
         "endAt": 1743433200,
         "freeEndAt": 1743433200,
         "transcodeVersion": "6Toojq",
