@@ -1,0 +1,121 @@
+{
+    "id": "54-97_s2_p10",
+    "series": {
+        "id": "54-97",
+        "title": "ぬいストーリー",
+        "label": {
+            "someFree": true
+        },
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "thumb.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        },
+        "thumbPortraitComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/54-97",
+            "filename": "portrait.png",
+            "query": "version=1729061253",
+            "extension": "png"
+        }
+    },
+    "season": {
+        "id": "54-97_s2",
+        "sequence": 2,
+        "name": "ぬいストーリー2",
+        "thumbComponent": {},
+        "order": 2
+    },
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_21",
+                "name": "日常・ほのぼの"
+            },
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            }
+        ]
+    },
+    "info": {
+        "duration": 107
+    },
+    "providedInfo": {
+        "thumbImg": "thumb001"
+    },
+    "episode": {
+        "number": 10,
+        "title": "第10話 ぬいクリスマス２",
+        "content": "今年もきたクリスマス！早速パーティーの準備を・・・って、あれ？ぬいのみんなが何か用意しているみたい？"
+    },
+    "credit": {
+        "released": 2024,
+        "casts": [
+            "いくピソ",
+            "ゆうピソ"
+        ],
+        "crews": [
+            "監督:いくピソ・ゆうピソ",
+            "脚本:いくピソ・ゆうピソ",
+            "デザイン:いくピソ",
+            "アニメーション:ゆうピソ",
+            "BGM:Audiostock",
+            "効果音:効果音ラボ・Audiostock"
+        ],
+        "copyrights": [
+            "(C) Piso Studio"
+        ]
+    },
+    "mediaStatus": {},
+    "label": {
+        "free": true
+    },
+    "imageUpdatedAt": 1735289338,
+    "endAt": 1822316400,
+    "freeEndAt": 1735873200,
+    "transcodeVersion": "122E6r",
+    "sharedLink": {
+        "twitter": "https://abema.app/pvPe",
+        "facebook": "https://abema.app/rRQS",
+        "google": "https://abema.app/KiYz",
+        "line": "https://abema.app/xfYb",
+        "copy": "https://abema.app/GbUP",
+        "instagram": "https://abema.app/23tb"
+    },
+    "playback": {
+        "hls": "https://ds-vod-abematv.akamaized.net/program/54-97_s2_p10/playlist.m3u8",
+        "dash": "https://ds-vod-abematv.akamaized.net/program/54-97_s2_p10/manifest.mpd",
+        "hlsPreview": "https://ds-vod-abematv.akamaized.net/preview/program/54-97_s2_p10/playlist.m3u8",
+        "dashIPTV": "https://ds-vod-abematv.akamaized.net/program/54-97_s2_p10/manifest.mpd",
+        "arin": "abm1.legacy-playout.program.54-97_s2_p10"
+    },
+    "viewingPoint": {
+        "suggestion": 102.63586666666667
+    },
+    "download": {
+        "enable": true
+    },
+    "externalContent": {
+        "marks": {}
+    },
+    "broadcastRegionPolicy": 1,
+    "timelineThumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/media/programs/54-97_s2_p10/1/timeline",
+        "extension": "png"
+    },
+    "terms": [
+        {
+            "onDemandType": 3,
+            "endAt": 1735873200
+        },
+        {
+            "onDemandType": 1,
+            "endAt": 1822316400
+        }
+    ],
+    "episodeGroupId": "54-97_eg0",
+    "skipVmap": true
+}

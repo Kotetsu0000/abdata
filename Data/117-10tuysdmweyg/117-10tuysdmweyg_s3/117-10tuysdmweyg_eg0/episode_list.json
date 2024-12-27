@@ -248,8 +248,37 @@
         "video": {
             "terms": [
                 {
+                    "onDemandType": 1,
+                    "endAt": 1769871600
+                }
+            ],
+            "broadcastRegionPolicy": 1,
+            "releaseYear": 2024,
+            "mediaStatus": {}
+        },
+        "info": {
+            "duration": 180
+        }
+    },
+    {
+        "id": "117-10tuysdmweyg_s3_p10",
+        "thumbComponent": {
+            "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/programs/117-10tuysdmweyg_s3_p10",
+            "filename": "thumb001.png",
+            "query": "version=1734947530",
+            "extension": "png"
+        },
+        "episode": {
+            "number": 10,
+            "title": "第10話",
+            "content": "とある星に住む、バナナにひそむふしぎなにゃんこ「ばなにゃ」。\nある日、ばなにゃのもとに光の球が近づいてくると、\nピカっと光り、中から小さいばなにゃ「ベイビースイート」が現われました！！\n\nあっという間に仲良しになったふたりは、\n世界中のあらゆる場所をめぐる大冒険へと出かけていくことに。"
+        },
+        "type": 1,
+        "video": {
+            "terms": [
+                {
                     "onDemandType": 3,
-                    "endAt": 1735311600
+                    "endAt": 1735916400
                 }
             ],
             "broadcastRegionPolicy": 1,

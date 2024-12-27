@@ -8,13 +8,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-6",
                 "filename": "thumb.png",
-                "query": "version=1734326661",
+                "query": "version=1735301452",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/506-6",
                 "filename": "portrait.png",
-                "query": "version=1734326661",
+                "query": "version=1735301452",
                 "extension": "png"
             }
         },
@@ -22,7 +22,12 @@
             "id": "506-6_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/506-6_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1735301465",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -78,7 +83,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1734326679,
+        "imageUpdatedAt": 1735301437,
         "endAt": 1743433200,
         "freeEndAt": 1743433200,
         "transcodeVersion": "LG5tt",

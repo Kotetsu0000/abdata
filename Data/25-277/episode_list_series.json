@@ -8,13 +8,13 @@
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-277",
                 "filename": "thumb.png",
-                "query": "version=1733304940",
+                "query": "version=1735300766",
                 "extension": "png"
             },
             "thumbPortraitComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/25-277",
                 "filename": "portrait.png",
-                "query": "version=1733304940",
+                "query": "version=1735300766",
                 "extension": "png"
             }
         },
@@ -22,7 +22,12 @@
             "id": "25-277_s1",
             "sequence": 1,
             "name": "シーズン1",
-            "thumbComponent": {},
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/25-277_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1735300783",
+                "extension": "png"
+            },
             "order": 1
         },
         "info": {
@@ -70,7 +75,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1733304958,
+        "imageUpdatedAt": 1735300747,
         "endAt": 1743433200,
         "freeEndAt": 1743433200,
         "transcodeVersion": "3vQxDj",

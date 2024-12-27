@@ -1,0 +1,72 @@
+{
+    "id": "26-234",
+    "genre": {
+        "id": "animation",
+        "name": "アニメ",
+        "subGenres": [
+            {
+                "id": "animation_41",
+                "name": "Abemaアニメ"
+            },
+            {
+                "id": "animation_2",
+                "name": "アクション・バトル"
+            }
+        ]
+    },
+    "title": "グリザイア：ファントムトリガー",
+    "content": "『グリザイアの果実』から数年後…\nかつて少女たちの箱庭だった「美浜学園」は国防を担う人材を育てるSORD(ソード)訓練校へと生まれ変わった。\n拳銃を使用するレナ＆マキ、狙撃を得意とするトーカ＆グミ、爆弾と情報処理のクリス、諜報活動担当の忍者ムラサキ。彼女たちは、警察や自衛隊には解決できない事件にあたり、危険な活動を繰り返す。\nこれは、血と硝煙に彩られた少女たちの物語──",
+    "seasons": [
+        {
+            "id": "26-234_s1",
+            "sequence": 1,
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-234_s1",
+                "filename": "default_thumb.png",
+                "query": "version=1735141251",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-234_eg99",
+                    "name": "PV"
+                }
+            ],
+            "order": 1
+        }
+    ],
+    "copyrights": [
+        "(C)Frontwing/Project GPT"
+    ],
+    "label": {
+        "free": true
+    },
+    "version": "1735205657349737045",
+    "imageUpdatedAt": 1735141223,
+    "programOrder": "seq",
+    "sharedLink": {
+        "twitter": "https://abema.app/XVMC",
+        "facebook": "https://abema.app/PVWX",
+        "google": "https://abema.app/tdLs",
+        "line": "https://abema.app/7sBU",
+        "copy": "https://abema.app/Z2U5",
+        "instagram": "https://abema.app/AjEs"
+    },
+    "thumbComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-234",
+        "filename": "thumb.png",
+        "query": "version=1735141223",
+        "extension": "png"
+    },
+    "thumbPortraitComponent": {
+        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/series/26-234",
+        "filename": "portrait.png",
+        "query": "version=1735141223",
+        "extension": "png"
+    },
+    "onDemandTypes": [
+        3
+    ],
+    "contentPattern": 1,
+    "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"
+}
