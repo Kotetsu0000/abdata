@@ -77,9 +77,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1689154897,
         "endAt": 1748703600,
+        "freeEndAt": 1736674200,
         "transcodeVersion": "75Eh9b",
         "sharedLink": {
             "twitter": "https://gxyt4.app.goo.gl/RVjUF",
@@ -103,8 +106,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1735384200
+                "onDemandType": 3,
+                "endAt": 1736674200
             }
         ],
         "episodeGroupId": "25-157_eg0"

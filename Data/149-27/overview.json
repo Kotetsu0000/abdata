@@ -28,6 +28,14 @@
             },
             "episodeGroups": [
                 {
+                    "id": "149-27_eg0",
+                    "name": "本編"
+                },
+                {
+                    "id": "149-27_eg1",
+                    "name": "【湯けむりスッキリ版】"
+                },
+                {
                     "id": "149-27_eg99",
                     "name": "PV"
                 }
@@ -39,9 +47,9 @@
         "(C)東雲太郎・銀翼のぞみ・夜ノみつき／白泉社／ベヒ猫製作委員会"
     ],
     "label": {
-        "free": true
+        "someFree": true
     },
-    "version": "1734612113028929812",
+    "version": "1735346051252853670",
     "imageUpdatedAt": 1733449843,
     "programOrder": "seq",
     "sharedLink": {
@@ -65,7 +73,7 @@
         "extension": "png"
     },
     "onDemandTypes": [
-        3
+        1
     ],
     "contentPattern": 1,
     "originalLogoURL": "https://image.p-c2-x.abema-tv.com/image/assets/blend/portrait_orig_badge_v20210810.png"

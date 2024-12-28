@@ -20,7 +20,7 @@
         {
             "id": "26-191_s1",
             "sequence": 1,
-            "name": "シーズン1",
+            "name": "UniteUp!",
             "thumbComponent": {
                 "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-191_s1",
                 "filename": "default_thumb.png",
@@ -34,6 +34,24 @@
                 }
             ],
             "order": 1
+        },
+        {
+            "id": "26-191_s2",
+            "sequence": 2,
+            "name": "UniteUp! -Uni:Birth-",
+            "thumbComponent": {
+                "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/seasons/26-191_s2",
+                "filename": "default_thumb.png",
+                "query": "version=1735301818",
+                "extension": "png"
+            },
+            "episodeGroups": [
+                {
+                    "id": "26-191_eg99",
+                    "name": "PV"
+                }
+            ],
+            "order": 2
         }
     ],
     "copyrights": [
@@ -42,7 +60,7 @@
     "label": {
         "free": true
     },
-    "version": "1734663439357844102",
+    "version": "1735363756807036446",
     "imageUpdatedAt": 1672968709,
     "programOrder": "seq",
     "sharedLink": {

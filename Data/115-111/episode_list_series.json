@@ -2653,7 +2653,10 @@
             "duration": 160
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002"
+            ]
         },
         "episode": {
             "number": 25,
@@ -2695,7 +2698,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1735210976,
+        "imageUpdatedAt": 1735376956,
         "endAt": 1798729200,
         "freeEndAt": 1735770600,
         "transcodeVersion": "76SsDX",

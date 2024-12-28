@@ -76,9 +76,12 @@
             ]
         },
         "mediaStatus": {},
-        "label": {},
+        "label": {
+            "free": true
+        },
         "imageUpdatedAt": 1683708428,
         "endAt": 1739458800,
+        "freeEndAt": 1736001480,
         "transcodeVersion": "2bNHHb",
         "sharedLink": {
             "twitter": "https://abema.app/9AVz",
@@ -100,8 +103,8 @@
         },
         "terms": [
             {
-                "onDemandType": 1,
-                "endAt": 1735359600
+                "onDemandType": 3,
+                "endAt": 1736001480
             }
         ],
         "rentalInfo": {

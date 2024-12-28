@@ -3993,7 +3993,11 @@
             "duration": 160
         },
         "providedInfo": {
-            "thumbImg": "thumb001"
+            "thumbImg": "thumb001",
+            "sceneThumbImgs": [
+                "thumb002",
+                "thumb003"
+            ]
         },
         "episode": {
             "number": 52,
@@ -4029,7 +4033,7 @@
         "label": {
             "free": true
         },
-        "imageUpdatedAt": 1735120801,
+        "imageUpdatedAt": 1735375490,
         "endAt": 1774969200,
         "freeEndAt": 1735754580,
         "transcodeVersion": "2HycXm",
